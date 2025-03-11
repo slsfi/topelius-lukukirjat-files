@@ -1,0 +1,1 @@
+Tästä voit ladata tekstit eri muodoissa. Voit myös avata tekstit tulostusystävällisessä muodossa. Valittu teksti avautuu tällöin uuteen ikkunaan (sinun on sallittava ponnahdusikkunat tältä sivustolta).
