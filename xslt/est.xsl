@@ -14,7 +14,6 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 
 	<xsl:include href="inc_common.xsl"/>
 
-	<xsl:param name="bookId"/>
 	<xsl:param name="sectionId"/>
 
 	<xsl:template match="tei:teiHeader"/>

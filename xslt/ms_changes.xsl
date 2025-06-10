@@ -608,24 +608,6 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 		</xsl:if>
 	</xsl:template>
 
-	<xsl:template name="marginAddSymbol">
-		<xsl:param name="place"/>
-		<xsl:choose>
-			<xsl:when test="@place = 'leftMargin' or $place = 'leftMargin'">
-				<img src="assets/images/ms_arrow_left.svg" alt="marginaltillägg vänster" loading="lazy"/>
-			</xsl:when>
-			<xsl:when test="@place = 'rightMargin' or $place = 'rightMargin'">
-				<img src="assets/images/ms_arrow_right.svg" alt="marginaltillägg höger" loading="lazy"/>
-			</xsl:when>
-			<xsl:when test="@place = 'topMargin' or $place = 'topMargin'">
-				<img src="assets/images/ms_arrow_up.svg" alt="marginaltillägg uppe" loading="lazy"/>
-			</xsl:when>
-			<xsl:when test="@place = 'botMargin' or $place = 'botMargin'">
-				<img src="assets/images/ms_arrow_down.svg" alt="marginaltillägg nere" loading="lazy"/>
-			</xsl:when>
-		</xsl:choose>
-	</xsl:template>
-
 	<xsl:template name="sofortSymbol">
 		<xsl:if test="contains(@type, 'immediate')">
 			<span class="tei teiManuscript immediate_symbol">
