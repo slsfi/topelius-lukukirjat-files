@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Kolmastoista Luku. Valosta ja lämpimästä</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>13</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Kolmastoista Luku. Valosta ja lämpimästä</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head type="section" style="blackletter" xml:id="h1"><hi rend="bold">Kolmastoista Luku.</hi></head>
+				<head type="section" style="romanType" xml:id="h2"><hi rend="bold expanded">Valosta ja lämpimästä.</hi></head>
+				<p style="romanType" xml:id="p1">Onpa nyt valosa päivä, aurinko paistaa ikkunoista sisälle, voipi siis nähdä
+					kaikki tuvassamme. Illan tultua laskeupi aurinko. Sitte vasta tulee <hi rend="expanded">hämärä,</hi> niin ettei enää niin selvästi voi nähdä
+					kaikkia, ja sitte tulee <hi rend="expanded">pimeys,</hi> jossa ei voi nähdä
+					juuri mitään. Mutta silloin sytytetään valkea takkaan, päre pannaan palamaan
+					<anchor xml:id="start3732"/>pihtiin<anchor xml:id="end3732"/> <pb type="orig" n="174"/>eli talikynttilä sytytetään pöydälle, vaikka näiden
+					valossa emme näe niin selvästi kuin päivän valossa. Jos tällöin menemme
+					kartanolle, niin näemme kuun paistavan ja valaisevan maata. Eli nuo kirkkaat
+					tähdet paistavat niin ihmeellisesti kauniina meille illalla tuolta siniseltä
+					taivaalta.</p>
+				<p style="romanType" xml:id="p2">Mistä tulee siis valo? Se tulee meille auringosta, kuusta ja tähdistä,
+					tulesta ja monista kappaleista, niinkuin <anchor xml:id="start3733"/>kiiltomadoista<anchor xml:id="end3733"/>, <anchor xml:id="start3734"/>valkoimesta<anchor xml:id="end3734"/> ja
+					vanhoista lahonneista puu-palaisista. Mitä on valo? Onko se itsestään
+					kappale eli onko se kappaleiden luonto, joka saattaa meitä niitä näkemään?
+					Sitä kyllä ei voi kukaan oikein selittää. Me näemmä ainoasti valon täyttävän
+					koko mailman, ja kun se katoaa, ovat kaikki asiat toisin. Muutamat sanovat
+					koko mailman avaruuden olevan täytetyn aineella, joka on paljoa hienompi
+					kuin ilma, ja tätä kutsutaan <anchor xml:id="start3735"/>eeteriksi<anchor xml:id="end3735"/>. Ja juurikuin ääni tulee ilman
+					tärinästä, niin tulee valo siitä, että eeteri tärisee, kun joku panee sen
+					liikkeelle. Niin paljon tarkoin tiedetään, että valo kulkee paljoa
+					sukkelammasti kuin ääni. Ja jokaisen <anchor xml:id="start3736"/>sekunnin<anchor xml:id="end3736"/> välillä, kun kello napsahtaa,
+					lentää valo 29,000 (yhdeksänkolmatta tuhatta) <anchor xml:id="start3737"/>peninkulmaa<anchor xml:id="end3737"/> eteenpäin, ja
+					vaikka aurinko on niin hirveän kaukana, ei valo kuitenkaan tarvitse kuin
+					vähä yli 8 <anchor xml:id="start3738"/>minuutin<anchor xml:id="end3738"/> tullakseen auringosta tänne.</p>
+				<p style="romanType" xml:id="p3">Juurikuin ääni tulee meille korvain kautta, niin tulee meille valo silmäin
+					kautta. Me <hi rend="expanded">näemmä</hi> silmillä, ja silloin <hi rend="expanded">näkyvät</hi> meille kappaleet. <anchor xml:id="start3739"/>Kun korvat sisältä
+					pilautuvat, tullaan sokeaksi.<anchor xml:id="end3739"/> Sokeina syntyneet ihmiset eivät tunne valoa.
+					Mutta miksikä välistä juurikuin sädehtisi ummessa olevissa silmissämme, kun
+					lyömme otsaamme seinään? Siitä se tulee, että silmän sisällä on hellä
+					<anchor xml:id="start3740"/>tuntosuoni<anchor xml:id="end3740"/>, joka johdattaa valon tuntoomme. Ja joka kerta, kun tämä
+					tuntosuoni loukkaantuu, tutaan, juurikuin valon säde nähtäisiin.</p>
+				<pb type="orig" n="175"/>
+				<p style="romanType" xml:id="p4">Otanpa nyt paperin, pistän reijän sen läpi neulalla ja katson reijän läpitse.
+					Näenpä siitä pienestä reijästä ladon ja niityn kaukana tuolla metsän
+					rinnassa. Tiedänpä nyt jonkun kappaleen tulevan silmälle nähtäväksi sillä,
+					että valon säteet tulevat silmään kaikista kappaleen osista. Sanomattoman
+					hienojahan silloin valon säteet ovat, kun niin mahdottoman paljo säteitä
+					ladosta ja niitystä tulee silmään yhden ainoan, paperiin pistetyn, pienen
+					reijän läpitse!</p>
+				<figure type="illustration"><graphic url="10_1_047.jpg"/></figure>
+				<p style="romanType" xml:id="p5">Mutta miksikä lato ja muut kappaleet, jotka ovat tuolla etäällä, näkyvät
+					pienemmiltä kuin ovatkaan likempää katsoen? Sen nyt näytän sinulle kuvalla.
+					Tässä ovat puut, ja tässä seison minä katsoen niitä. <anchor xml:id="start3741"/>Puut ovat yhtä isoja;
+					mutta kuitenkin näen likempänä seisovan puun olevan pienemmän etempänä
+					olevaa puuta.<anchor xml:id="end3741"/> Miksikä niin? No siksi, kun ajattelen kumpaisenkin puun latvan
+					(huipun) päästä tulevan silmääni valon säteen, ja toisen säteen juoksevan
+					juuresta maan pinnassa. Ymmärränpä molempain likimmäisestä puusta tulevan
+					säteen tekevän isomman kulman (vinkkelin) silmääni vasten ja juurikuin
+					enemmän levenevän. Mutta etimmäisestä puusta tekevät ne suipumman kulman ja
+					vähemmän levenevät. <pb type="orig" n="176"/>Vedänkö viivan sädetten välille, niin
+					käsitän likimmäisen puun näkyvän niin paljoa isommalta kuin etimmäisen puun,
+					kuin sen sädetten välillä oleva viiva on isompi viivaa, joka on etempänä
+					olevasta puusta tulevain sädetten välillä.</p>
+				<p style="romanType" xml:id="p6">Mutta et tarvitse ajatella toisen puun olevan juuri toisen kohdalla, sillä
+					silloin toinen varjottaisi pois näkymästä sen etimmäisen. Sillä puut ja
+					monta muuta kappaletta ovat <hi rend="expanded">läpinäkymätömiä.</hi> Mutta
+					muut kappaleet, niinkuin ilma, vesi ja lasi, päästävät valon läpitsensä,
+					niin että niiden läpi nähdään, ja sellaisia kappaleita kutsutaan <hi rend="expanded">läpinäkyviksi.</hi> Kun valo paistaa läpinäkymättömihin
+					kappaleisin, tulee niiden taaksi varjo. Nyt palaa talikynttilä pöydällä, ja
+					minä asetun kynttilän eteen. Näenpä jotakin mustaa seinällä. Mikä se on? Se
+					on varjoni. Jota likemmä seinää menen, sitä pienemmäksi tulee varjoni. Jota
+					etemmäksi menen seinästä, sitä suuremmaksi tulee varjo. Mutta varjo tulee
+					sen mukaan miten kynttilä on asetettu. Jos kynttilä asetetaan lattialle,
+					niin tulee varjoni seinälle hyvin pitkäksi. Jos nostan kynttilän pääni
+					päälle, tulee varjoni lyhemmäksi. Samalla lailla tulee varjoni pitkäksi
+					edelläni tiellä kävellessäni, kun aurinko eli kuu on alaalla taivaalla.
+					Mutta jos ne ovat korkealla, tulee varjo aivan lyhyeksi. Ja jos ne ovat
+					aivan pääni päällä, niin en näkisi ollenkaan mitään varjoa. Sitä saat nähdä
+					<anchor xml:id="start3742"/>tiimatukissaki<anchor xml:id="end3742"/>, joka näyttää päivän aikoja juuri sillä, että navan varjo
+					muuttuu auringon kulun mukaan.</p>
+				<p style="romanType" xml:id="p7">Näenpä läpinäkyväin kappaletten toisinaan olevan <hi rend="expanded">värittömiä,</hi> mutta läpinäkymättömillä kappaleilla on erilaiset <hi rend="expanded">värit.</hi> Mistä tulevat värit? Ne tulevat siitä että
+					kappaletten pinnoista palaa valo erilailla. Nenäliinani on valkea; sen
+					pinnasta palaupi enin valoa takasi, ja siksi se tulee valkeaksi. Huivini on
+					musta, se imee sisäänsä enimmän valoa, ja siksi se tulee mustaksi. Musta <pb type="orig" n="177"/>huivi lämpeneekin pikemmin, kun aurinko paistaa siihen <note id="ftn3" n="*)" place="foot"><hi rend="expanded">Muist.</hi> Valkea ja musta eivät ole
+						oikeastaan mitään väriä. Valkea on valoa, ja musta on pimeyttä. En saata
+						nähdä mustaa, enkä saata nähdä varjoa, jos ei niiden vieressä ole
+						valkeampia kappaleita.</note>. Muistatko niitä kauniita värejä
+					<anchor xml:id="start3743"/>vesikaaressa<anchor xml:id="end3743"/>, jotka tulevat auringon sädetten murtumisesta niissä pienissä
+					vesiherneissä? Yläpuolelta on se punanen, sitte helevän keltanen, sitte
+					viheriäinen, sitte vaalean-sininen, sitte tummansininen, ja sisimmäinen
+					laita on kihtaava. Jos maalaan samat värit hyrrään samaan järjestykseen ja
+					nakkaan hyrrän sukkelasti pyörimään, näyttää hyrrä aivan valkealta. Siitä
+					näen valkean valon olevan yhdistetyn vesikaaren seitsemästä väristä, ja se
+					saatetaan jälleen jakaa erilleen niihin, niinkuin valon sädetten paistaessa
+					liipatun lasin läpi. Kun valo paistaa kukkaan, tulee se punaseksi, jos se
+					imee sisäänsä kaikki muut säteet, mutta palauttaa itsestään pois ainoasti ne
+					punaiset. Jos se palauttaa itsestään siniset säteet, näyttää se siniseltä,
+					ja niin on kaikkein värien kanssa. Paitsi vesikaaren värejä, on niitä
+					muunkin näköiselle vivahtavia, jotka tulevat värien sekoituksesta. Mustasta
+					ja valkeasta saadaan harmaata, mustasta ja punaisesta ruskeata j. n. e. Sen
+					pitää kaikkein maalarien hyvästi tuta. Ja tarkasti tulee niiden osata kuvata
+					valoisia ja varjopaikkoja; muuten ei ole kuvaus kuvatun näköinen.</p>
+				<p style="romanType" xml:id="p8">Jos jollakulla kappaleella on hyvin kiiltävä pinta, näen siinä kuvani
+					juurikuin <hi rend="expanded">kuvastimessa</hi> (peilissä). Siksi kuvauvat
+					kaikki ympärillä olevat kappaleet kirkkaassa <anchor xml:id="start3744"/>lähteessä<anchor xml:id="end3744"/> eli tyvenessä
+					<anchor xml:id="start3745"/>järvessä<anchor xml:id="end3745"/> eli hiljaa juoksevassa <anchor xml:id="start3746"/>joessa<anchor xml:id="end3746"/>. Mutta jos menen kuvastimen sivulle,
+					enpä näekkään itseäni, vaan muita, jotka ovat kuvastimen edessä toisella
+					puolella. Siitä näen etteivät valon sä<pb type="orig" n="178"/>teet kimpoa kuvastimesta
+					joka suunnalle. Jos säteet tulevat suoraan, palauvat ne suoraan takasi
+					vastassa olevalle kohdalle. Soutaessani veneellä joella, näen <anchor xml:id="start3747"/>rannan<anchor xml:id="end3747"/>
+					kuvastelevan niin että sen kuva vedessä juurikuin kääntyisi sisäänpäin. Se
+					tulee siitä että valon säteet rannalta lankeavat vinoon veden pintaan.</p>
+				<p style="romanType" xml:id="p9">Mutta jos asetan suoran kepin puolitiestä veteen, niin näyttää sen kuva
+					juurikuin murretulta. Ja jos panen vesikuppiin lantin, näyttää tämä olevan
+					toisessa paikassa, kuin se onkaan. Miksikä niin? Siksi kuin valo menee
+					suoraan aineen läpi, joka on yhtä tiheää jokapaikasta; mutta jos se menee
+					harvemman aineen läpi tiheämpään eli perinvastoin, niin murtuvat säteet ja
+					juurikuin <anchor xml:id="start3748"/>sujuvat<anchor xml:id="end3748"/> syrjään. Vesi on harvempaa kuin ilma, siksi näyttää keppi
+					murtuneelta, ja lantti näyttää olevan eri sijalla. Ylempänä oleva ilma on
+					harvempaa kuin alempana oleva, siksi näyttää aurinko aina olevan taivaalla
+					ylempänä, kuin se onkaan.</p>
+				<p style="romanType" xml:id="p10">Lasi on paljoa tiheämpää kuin ilma: siksi murtaa paksu lasi hyvin valon
+					säteet. Jos otan pyöreän lasikappaleen, joka on molemmin puolin <anchor xml:id="start3749"/>mykevä<anchor xml:id="end3749"/>,
+					näenpä tavallisella matkalla kaikkia suurempana, kuin itsestään ovatkaan.
+					Sellaiset suurennus-lasit ovat ihmeellisiä läpikatsottaessa, kun niillä
+					katsotaan aivan pieniä kappaleita. Isällä on sellainen lasi, jota hän kutsuu
+						<hi rend="expanded"><anchor xml:id="start3750"/>tulilasiksi<anchor xml:id="end3750"/>,</hi> ja sillä sytyttää hän piippunsa,
+					sillä se kokoaa auringon säteet yhteen <anchor xml:id="start3751"/>polttopilkkuun<anchor xml:id="end3751"/>. Äitillä ovat <hi rend="expanded">silmälasit</hi> mykevästä lasista, kun hän ei näe
+					selvästi likeltä. <anchor xml:id="start3752"/>Kouruilla<anchor xml:id="end3752"/> lasilla nähdään kaikkia pienempänä kuin
+					ovatkaan; sellaisia silmälasia pitää lukkari, joka on likinäköinen eikä näe
+					hyvästi pitkälle matkalle. Ja jos sovitan useita mykeviä lasia kohtalaisesti
+					pitkään putkeen, niin saan siitä <hi rend="expanded"><anchor xml:id="start3753"/>kiikarin<anchor xml:id="end3753"/>,</hi> joka
+					samalla näyttää isontavan edessä olevat kappaleet ja tuovan ne likemmä.</p>
+				<p style="romanType" xml:id="p11">Joka kerran kun seison auringon paisteessa eli is<pb type="orig" n="179"/>tun valkean
+					<anchor xml:id="start3754"/>lekolla<anchor xml:id="end3754"/>, tunnen auringon ja tulen samalla paistavan ja lämmittävän.
+					Ajattelen silloin usein itsekseni: kuka tiesi, jos ei <hi rend="expanded">valo</hi> ja <hi rend="expanded">lämmin</hi> ole juuri samaa, joka
+					ilmestyy kahdella eri tavalla? Toisella kerralla olen nähnyt valon
+					lämpimättä, niinkuin kiiltomadon, ja lämpimän valotta, niinkuin kylmää
+					naulaa takoessa, siksi että se tulee aivan kuumaksi. Silloin olen ajatellut:
+					ihmeellisiä ovat luonnon voimat!</p>
+				<p style="romanType" xml:id="p12">Olen havainnut lämpimäin kappaletten antavan lämmintänsä kylmille
+					kappaleille; mutta silloin menettävät lämpimät kappaleet lämpimäänsä. Jos
+					tartun talvella rauta-lukkoon, tunnenpa, kuinka se viepi lämmintä kädestäni.
+					Olenpa havainnut muutamain kappaletten pikemmin kuin toisten tulevan
+					kylmiksi eli lämpimiksi. Saatan pitää hiiltä hyppisissäni vaikka sen toinen
+					pää on tulinen. Mutta jos kiehutan vettä rautapannussa ja tartun käsin sen
+					rautaseen varteen, niin se polttaa. Jos pannussa on puinen varsi, tohdin
+					siihen kyllä tarttua. Siitä tiedän raudan ja kaikkein <anchor xml:id="start3755"/>metallein<anchor xml:id="end3755"/> olevan hyviä
+						<hi rend="expanded"><anchor xml:id="start3756"/>lämpimänjohdattajia<anchor xml:id="end3756"/>,</hi> mutta puun, kiven, villan,
+					ilman, veden ja muiden kappaletten johdattavan hitaammasti lämmintä
+					läpitsensä. Siksi rakennetaan huoneita puusta eli kivestä. Sillä jos niitä
+					rakennettaisiin raudasta, niin olisivat ne tukalaksi asti lämpimät kesällä
+					ja hirveän kylmiä talvella. Siksi pidämmekin mieluisimmasti villa-vaatteita,
+					jotka eivät päästä lämmintä ulos ja kylmää sisälle. Siksi on Jumalaki
+					vaatettanut monta <anchor xml:id="start3757"/>eläintä<anchor xml:id="end3757"/> turkkiin, joissa ovat karvat eli villa. Ja siksi
+					pidetään kaksinkertaisia akkunoita talvella, sillä ruutuin välissä oleva
+					ilma estää tulemasta kylmän ulkoa ja lämpimän sisäpuolelta.</p>
+				<p style="romanType" xml:id="p13">Mitä on siis lämmin? Niin, mitä se itsessään on, sitä en voi sinulle sanoa.
+						<hi rend="expanded">Lämpimäksi</hi> kutsumme sitä, joka on yhtä lämmin
+					eli lämpimämpi kuin oma ruumiimme, ja <hi rend="expanded">kuumaksi</hi>
+					sitä, joka on vielä paljoa lämpimämpi. Mutta <hi rend="expanded">kylmää</hi>
+					on se, joka on omaa ruumistamme kyl<pb type="orig" n="180"/>mempi. Se tulee usein
+					<anchor xml:id="start3758"/>harjaumisesta<anchor xml:id="end3758"/>. Jos usein lämmittelein valkean lekolla, tulenpa viluisemmaksi
+					ja aremmaksi, kuin ennen olin. Ensin tultuani saunaan, on minusta siinä
+					hirmuisen kuuma, ja <anchor xml:id="start3759"/>meressä<anchor xml:id="end3759"/> uidessani on minusta ensin vesi hirveän kylmää.
+					Mutta vähitellen totun siihen. Siitäpä käsitän kuumuuden ja pakkasen olevan
+					vaan vähä enemmän eli vähä vähemmän lämmintä.</p>
+				<p style="romanType" xml:id="p14">En kuitenkaan siksi voi tottua kaikkeen kuumuuteen, enkä kaikkeen
+					kylmyyteenkään. Jos kosken paljaalla sormellani <anchor xml:id="start3760"/>hiillokseen<anchor xml:id="end3760"/> eli liekkiin eli
+					tuliseen rautaan, saanpa rakon sormeeni, sillä nahka turmeltuupi siinä.
+					Silloin ei ole hyvä pistää sormeani kylmään veteen, sillä siitä alkaa sitä
+					pahemmin pakottaa. Kuuma kuumaa ja kylmä kylmää vastaan. Jos heti pidän
+					sormeani kuumuudessa, niin pääsen rakosta. Jos olen hyvin palavissani ja
+					juon kylmää vettä eli jäähdyn ilmassa, niin vilustun ja siitä sairastun.
+					Käteni, jalkani ja poskeni saatan palelluttaa kylmänä talvipäivänä, niin
+					että ne jähmettyvät ja tulevat valkeiksi ja turriksi. Jos niitä silloin
+					lämmitän valkealla, tulevat ne heti kipeiksi, ja niitä alkaa pakottaa.
+					Näinpä kerran ukon kävelevän puujaloilla. Hän oli palelluttanut jalkansa
+					metsässä. Kotiin tultua oli hän lämmittänyt niitä valkean paisteella, ja nyt
+					tulivat kuoleman vihat jalkoihin, niin että lääkärin täytyi sahata ne
+					poikki. Mutta jos hieron paleltunutta kättä, jalkaa eli poskea hyvin
+					lumella, niin tulevat ne viimein hyviksi. Niin voidaan saada henki
+					ihmisiinkin, jotka löydetään pakkaisesta hengetöinnä metsässä eli
+					maantiellä. Voipi niinkin olla, että ne ovat kokonaan paleltuneet
+					hengettömiksi. Samalla lailla saatetaan kuolla tulesta eli kovasta
+					kuumuudesta.</p>
+				<p style="romanType" xml:id="p15">On se ihmeellistä nähdä kuinka kappale isonee, kun sitä kuumennetaan, ja
+					pienenee <hi rend="expanded">jäähdyttyänsä.</hi> Jos minulla on rautakanki,
+					joka sopii paraiksi reikään, ja kuumennan tuliseksi kangin, eipä se
+					mahdukaan enää sa<pb type="orig" n="181"/>maan reikään, ennenkuin on jäähtynyt kylmäksi.
+					Miksikä kuumentaa seppä kärrynrattaan <anchor xml:id="start3761"/>selkärautaa<anchor xml:id="end3761"/>, ennenkuin panee sen
+					rattaan ympäri? Siksi että selkärauta kuumana on suurempi; mutta jäähdyttyä
+					kutistuu se kokoon ja puristuu lujempaan rattaan selkään. Miksikä nurkat
+					paukkuvat talvella? Siksi kuin seinähirret halkeilevat, kuin on lämmin
+					sisällä ja kylmä ulkopuolella. Miksikä putoaa sormus sormestani, kun pistän
+					sen kylmään veteen? Siksi kun sormi kutistuu enemmän kuin sormus. Miksikä
+					kuohuu vesi padassa, joka on sillä täytetty? Siksi kun vesi paisuu
+					lämpimästä enemmän kuin pata.</p>
+				<p style="romanType" xml:id="p16">Miksikä siis pata kiehuu? Siksi kun kuuma vesi padan pohjalla kevenee, nousee
+					ylöspäin pintaan ja pakottaa muun veden pois edestään. Siitä tulee liike
+					padassa. Pohjassa oleva vesi tulee viimein niin kuumaksi, että se muuttuu
+					höyryiksi ja nousee poreina eli kuplina ylöspäin. Jos tämä höyry lasketaan
+					kylmän putken lävitse, niin jäähtyy se ja tulee jälleen vedeksi; ja niin
+					<anchor xml:id="start3762"/>tisleerataan<anchor xml:id="end3762"/> <anchor xml:id="start3763"/>juoksevia aineita<anchor xml:id="end3763"/>. Ja samalla lailla kuin lämmin vesi nousee
+					ylöspäin padassa, niin nousee lämmin ilmakin ylöspäin huoneessa. Sen kyllä
+					tunnen saunan lavalla.</p>
+				<p style="romanType" xml:id="p17">Mutta vaikka kaikki muut kappaleet kutistuvat pienemmiksi pakkasessa, niin
+					tekee vesi kokonaan toisin, sillä se paisuu muuttuessaan jääksi. Jos putelin
+					täytän vedellä ja panen sen pakkaseen, niin särkyy putelli. Jos reijän
+					poraan kiveen, täytän reijän vedellä ja lyön tulpan sen suulle, niin kivi
+					halkeaa, kun vesi on talvella jäätynyt reijässä. Siksi on jää keveämpi kuin
+					vesi, ja pysyy veden päällä. Jos jää painuisi pohjaan, niin ei se sulaisi
+					keväällä, ja ei yhtään <anchor xml:id="start3764"/>elävää<anchor xml:id="end3764"/> pysyisi silloin hengissä vedessä.</p>
+				<p style="romanType" xml:id="p18">Meillä oli tuvan rinnalla kylmä kamari, jota ei oltu lämmitetty kaukaan
+					aikaan talvella. Siinä oli ilmasta tullut märkyys jäätynyt jää-neuloiksi
+					akkunalasissa. Kun <pb type="orig" n="182"/>teimme valkean takkaan, havaitsin jään
+					alkavan sulaa akkunaruudussa valkean kohdalla. Mutta samalla kertaa oli
+					lattialla takan ja akkunan välillä niin kylmä, että maito jäätyi kupissa,
+					jonka panin lattialle. Miksi niin kävi? Siksi kun lämmin <hi rend="expanded">paistoi</hi> tulesta ja lämmitti ruudun, mutta se valkean ja ruudun
+					välillä oleva ilma lämpeni paljoa hitaammin.</p>
+				<p style="romanType" xml:id="p19">Lämpimäin auringon sädetten mennessä ilman läpi ei ilma ota niistä paljo
+					lämmintä, vaan maa ottaa enimmän. Sitte lämmittää maa ilmaa, joka on sitä
+					likinnä, ja siksi on ilma alhaalla maan pinnalla lämpimämpi kuin
+					korkeammalla <anchor xml:id="start3765"/>vuorilla<anchor xml:id="end3765"/>. Siksi puhaltaakin toisia tuulia ylhäällä, ja siltä se
+					usein näyttää, kuin pilvet kulkisivat tuulta vastaan. Jos nousen hyvin
+					korkealle vuorelle, tulenpa viimein sellaiselle paikalle, jossa lumi ei enää
+					sula kesällä, ja sitä paikkaa kutsutaan <hi rend="expanded"><anchor xml:id="start3766"/>lumirajaksi<anchor xml:id="end3766"/>.</hi> Korkeammalla ei voi mitään <anchor xml:id="start3767"/>kasveja<anchor xml:id="end3767"/> menestyä; mutta
+					puista on <anchor xml:id="start3768"/>koivu<anchor xml:id="end3768"/>, joka kasvaa likinnä lumirajaa. Keskellä maata, jossa on
+					lämpimin, on lumiraja korkealla ylhäällä; mutta kaikkein kylmimmissä
+					paikoissa on se juuri maan pinnalla.</p>
+				<p style="romanType" xml:id="p20">Oi Jumala, joka olet antanut silmillemme valkeuden ja ruumiillemme lämpimän,
+					valaise sielummekin totuuden valolla, että mielemme olisi lämpimästi halukas
+					hyvään, jota maan päällä on! Olemme lukeneet pyhässä sanassasi Jesuksen
+					Kristuksen olevan totisen valkeuden, joka valaisee kaikki ihmiset. Anna
+					meille siis armosi, ettemme koskaan erkanisi Vapahtajastamme synnin teille;
+					sillä siellä on pimeys ja kylmyys, ja siellä sielumme paleltuu kuoleman
+					varjossa. Mutta sinun tykönäsi on armo ja ijankaikkinen kirkkaus, ja
+					valkeudessasi on meillä valkeus.</p>
+					<head style="romanType" xml:id="h3"><hi rend="bold"><anchor xml:id="start3769"/>Magneetista<anchor xml:id="end3769"/> ja <anchor xml:id="start3770"/>kompassista<anchor xml:id="end3770"/>.</hi></head>
+					<p style="romanType" xml:id="p21">Näjinpä kerran teräspalaisen, joka oli hevoisen kengän mukainen, ja sen
+						pienemmässä haarassa riippui rauta<pb type="orig" n="183"/>kappale kiini, eikä
+						näkynyt mitään, joka olisi sitä siinä pitänyt. Miten se voi käydä
+						laatuun? Sen sanon sinulle. Muutamalla rauta- eli teräs-lajilla on
+						kummallinen luonto vetää toista rautaa itseensä kiini ja pitää sitä
+						siinä. Sellainen rauta eli teräs on <hi rend="expanded">magneeti,</hi>
+						ja isoon magneetiin saatan panna useita leivisköitä painoa riippumaan.
+						Jos tahdon tehdä leikki-kalun tästä, niin leikkaan korkista kalanmoisen
+						kappaleen, pistän siihen pienen <anchor xml:id="start3771"/>teräskipeneen<anchor xml:id="end3771"/> ja annan tämän uida
+						vesikupissa. Jos minulla on nyt pieni ongenmuotoinen magneeti, ja pidän
+						tätä vähän matkan päässä korkkikalasta, niin näen kuinka kala uipi ongen
+						perässä, vein sitä vaikka mihin.</p>
+					<p style="romanType" xml:id="p22">Saatanpa tehdä magneetilliseksi esim. teräsneuloja, joissa ei ennestään
+						ole magneetia, niin että hivutan niitä magneetiin. Jos minulla on
+						sellainen magneeti-neula ja panen sen kiini pyöreään tousaan, niin että
+						se pääsee navan nenässä vapaasti pyörimään, putoamatta alas, niin näen
+						kummallista. Kääntäisin tousaa, vaikka miten, niin kääntyy alinomaa
+						neulan toinen kärki <anchor xml:id="start3772"/>pohjoista<anchor xml:id="end3772"/> kohti. Sellaista tousaa kutsutaan <hi rend="expanded">kompassiksi,</hi> ja tämän tuntevat kaikki
+						merimiehet. Sillä muinoin, kun ei tiedetty kompassista, kulkivat
+						merimiehet auringon ja tähtien jälkeen purjehtiessaan aavoilla merillä,
+						joilla ei maata näy. Mutta nyt on paljoa vakavampi laskea kompassin
+						jälkeen. Sillä jos kerran tiedän missä pohjoinen on, tiedänpä sitte
+						muutkin ilmain suunnat.</p>
+					<p style="romanType" xml:id="p23">Mikä vetää siis magneetineulan kärkeä pohjoista kohti? Se on maassa oleva
+						salainen voima; mutta joka kerralla, kun neula tulee rautaa liki,
+						kääntyy se tämän puoleen, ja pyörii levotoinna sinne ja tänne. Ja mitä
+						se salainen voima on, jota kutsutaan <hi rend="expanded"><anchor xml:id="start3773"/>magneeti-voimaksi<anchor xml:id="end3773"/>,</hi> sitä ei voi kukaan oikein selittää. Se on
+						kuuluva niihin näkymättömiin mailman voimiin, joita jo olemme tulleet
+						tuntemaan <anchor xml:id="start3774"/>sähkönä eli liekkeenä<anchor xml:id="end3774"/>, valona ja lämminnä.</p>
+					<head style="romanType" xml:id="h4"><hi rend="bold"><anchor xml:id="start3775"/>Revontulista<anchor xml:id="end3775"/>.</hi></head>
+					<p style="romanType" xml:id="p24">Syys- eli talvi-illalla, kun on kylmä, näemme taivaan vaalenevan
+						pohjoisessa leimuavasta valosta, joka alinomaa muuttuu. Välistä
+						leimahtelee se säteinä, välistä palaa se suurina kaarina; välistä on se
+						valkeana, välistä vaalian punaisena, ja sen luulisi sähisevän. Sitä
+							kutsu<pb type="orig" n="184"/>taan <hi rend="expanded">revontuliksi,</hi> ja
+						tämä on kaunista ja juhlallista katsoa. <anchor xml:id="start3776"/>Mutta mitä se on, sitä ei voida
+						oikein tietää. Sen luullaan olevan sähkö- eli lieke-valoa, joka loistaa
+						korkealla ilmassa.<anchor xml:id="end3776"/> Ja revontulien palaessa tulee aina magneeti-neula
+						levottomaksi.</p>
+					<head style="romanType" xml:id="h5"><hi rend="bold"><anchor xml:id="start3777"/>Kiikarista eli pitkäsilmästä<anchor xml:id="end3777"/>.</hi></head>
+					<p style="romanType" xml:id="p25">Suurennuslasilla näen pienimmätkin kappaleet paljoa suurempina, kuin ne
+						oikeastaan ovatkaan. Sillä katsoen on <anchor xml:id="start3778"/>kirppu<anchor xml:id="end3778"/> <anchor xml:id="start3779"/>rotan<anchor xml:id="end3779"/> kokoinen, ja
+						vesiherneessä näen mahdottoman paljo pieniä eläviä, joita en voi
+						ollenkaan nähdä paljailla silmillä. Kiikarilla näen kaukana olevat
+						kappaleet likempänä. Rannalla seisoessani näen pienen mustan pilkun
+						tuolla ulkona merellä, ja jos ojennan kiikarin pilkkua kohti, niin näen
+						sen olevan veneen eli laivan eli suuren kiven. Kaukana maantiellä näen
+						jotakin liikkuvan; otanpa kiikarin ja näen selvästi pojan ratsastavan,
+						eli tyttöisen ajavan <anchor xml:id="start3780"/>lehmiä<anchor xml:id="end3780"/> laitumelle. Toisella kerralla otan suuren
+						kiikarin ja ojennan sen illalla kuuta kohti. Kuupa näyttää kummalliselta
+						ja vaunun-rattaan kokoiselta. Eli jos katson sillä tähtejä, näenpä monta
+						tähteä, joita en ennen paljain silmin nähnyt.</p>
+					<head style="romanType" xml:id="h6"><hi rend="bold"><anchor xml:id="start3781"/>Lämpö-mittarista<anchor xml:id="end3781"/>.</hi></head>
+					<p style="romanType" xml:id="p26">Usein tahdon tietää vissiin, kuinka lämmin on huoneessa ja ulkona. Siihen
+						on minulla kone, jota kutsutaan <hi rend="expanded">lämpömittariksi,</hi> ja jonka näet tässä kirjan laidassa
+						kuvattuna. Se on oikein viisaasti tehtynä. Ensiksi on koneniekka pannut
+						<anchor xml:id="start3782"/>elo-hopeaa<anchor xml:id="end3782"/> pieneen tukittuun lasipilliin, jonka alapäässä on <anchor xml:id="start3783"/>onsi<anchor xml:id="end3783"/> palli.
+						Hän tietää elo-hopean ja muiden ainetten paisuvan lämpimässä ja
+						kutistuvan pakkaisessa. Hän panee lasipillin messinki-levyyn ja pistää
+						kaikki sulavaan lumeen. Elo-hopea kutistuu kokoon pillissä. No hyvä,
+						sanoo koneniekka, piirränpä pykälän messinkilevyyn pillissä olevan
+						elo-hopean tasalle, ja sen merkin nimitän <hi rend="expanded"><anchor xml:id="start3784"/>jäätö-pykäläksi<anchor xml:id="end3784"/>,</hi> sillä niin kylmä silloin on, kun vesi jäätyy.
+						Siihen viivaan piirtää hän 0. Sitte hän lasipillin panee kiehuvaan
+						veteen. Elohopea paisuu ja nousee lasipillissä. Hyvä, sanoo koneniekka;
+						piirränpä tuohon samallaisen pykälän, ja sen ni<pb type="orig" n="185"/>mitän <hi rend="expanded"><anchor xml:id="start3785"/>kiehuma-pykäläksi<anchor xml:id="end3785"/>.</hi> Sitte jakaa hän levyn
+						jäätöpykälän ja kiehuma-pykälän välillä 100 yhtä-isoon osaan. Näitä
+						kutsuu hän <hi rend="expanded"><anchor xml:id="start3786"/>pykälöiksi<anchor xml:id="end3786"/></hi> ja merkitsee ne
+						numeroilla. Jäätöpykälän alle tekee hän myös yhtä isoja osia. Kun
+						elo-hopea on ylempänä jäätö-pykälää, niin lukee hän sen korkeuden
+						messinkilevyssä olevain osain jälkeen ja sanoo: nyt on niin ja niin
+						monen pykälän lämmin. Mutta jos elo-hopea on jäätöpykälän alla, niin hän
+						sanoo: nyt on niin ja niin monen pykälän pakkanen. Ja alemma 40 pykälää
+						ei voi elo-hopea laskeuda, sillä silloin jäätyy se kovaksi.</p>
+					<figure type="illustration"><graphic url="10_1_048.jpg"/></figure>
+					<p style="romanType" xml:id="p27">Lämpömittarilla tiedämme ruumiissamme olevan 37 pykälän lämpimän. Kun
+						ilma tuntuu hyvin kuumalta kesällä, näyttää lämpömittari 30 pykälää
+						varjossa. Harvoin on talvella 40 pykälän pakkanen.</p>
+					<p style="romanType" xml:id="p28">Ja jos jolloinkin kuulet puhuttuvan <hi rend="expanded"><anchor xml:id="start3787"/>ilmapuntarista<anchor xml:id="end3787"/>,</hi> niin elä luule sen olevan saman kuin
+						lämpömittarin. Ilmapuntari on muullainen kone. Se on laitettu niin, että
+						ilma painaa ylöspäin elo-hopeaa korkeammalle eli alemmalle lasiputkessa.
+						Ja siitä ennustetaan sadetta eli kaunista ilmaa, kun raskas ja kostea
+						ilman painaa enemmän kuin kuiva ja keveä ilma.</p>
+					<head style="romanType" xml:id="h7"><hi rend="bold"><hi rend="expanded"><choice><orig>Sunnuntai aamu</orig><reg><anchor xml:id="start3788"/>Sunnuntaiaamu</reg></choice>.<anchor xml:id="end3788"/></hi></hi></head>
+					<lg xml:id="lg29">
+						<l style="romanType">Ah, terve, terve armas Suomeni</l>
+						<l style="romanType">Ihana maa!</l>
+						<l style="romanType">On kaunisna</l>
+						<pb type="orig" n="186"/>
+						<l style="romanType">Ja juhlallisna vuoret laksoinensa,</l>
+						<l style="romanType">Koristavat kans kukkasi</l>
+						<l style="romanType">Tuhanten vetten rantasi</l>
+						<l style="romanType">Iloksi kansallensa.</l>
+					</lg>
+					<lg xml:id="lg30">
+						<l style="romanType">On Herran valo nyt niin loistava,</l>
+						<l style="romanType">Ja kukkanen</l>
+						<l style="romanType">On riemunen</l>
+						<l style="romanType">Valossa armahassa kaunokaisna;</l>
+						<l style="romanType">Ja kansa Herran huoneessa,</l>
+						<l style="romanType">Vapaana töistä, vaivoista,</l>
+						<l style="romanType">Nyt on rukoilemassa.</l>
+					</lg>
+					<lg xml:id="lg31">
+						<l style="romanType">Ah armas aamun loiste autuas!</l>
+						<l style="romanType">Pyhä sana,</l>
+						<l style="romanType">Niin loistava,</l>
+						<l style="romanType">Sana pyhänä meillä kirjoissamme</l>
+						<l style="romanType">Valaise Suomen ruhtinas!</l>
+						<l style="romanType">Valaise Suomemme rakas!</l>
+						<l style="romanType">Valaise haudoillamme!</l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

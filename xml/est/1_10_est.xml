@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Kymmenes Luku. Vedestä</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>10</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Kymmenes Luku. Vedestä</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head type="section" style="blackletter" xml:id="h1"><hi rend="bold">Kymmenes Luku.</hi></head>
+				<head type="section" style="blackletter" xml:id="h2"><hi rend="expanded">Vedestä.</hi></head>
+				<p style="blackletter" xml:id="p1">Kerran, kun myrsky pauhasi kovasti, ja vesi hyökysi <anchor xml:id="start3514"/>aaltoina<anchor xml:id="end3514"/>, sanoi isä:
+					katso Jumalan voimaa! <anchor xml:id="start3515"/>Elementit (alku-aineet)<anchor xml:id="end3515"/> pauhaavat.</p>
+				<p style="blackletter" xml:id="p2">Antti sanoi: <hi rend="expanded">Elementit,</hi> mitä se on?</p>
+				<p style="blackletter" xml:id="p3">Isä sanoi: muutamat kappaleet maan päällä pysyvät lujemmasti kiini
+					toisissaan. Puun palasen eli kiven saatan ottaa käteeni ja pitää kiini, ja
+					sellaisia kutsutaan <hi rend="expanded"><anchor xml:id="start3516"/>koviksi aineiksi<anchor xml:id="end3516"/>.</hi> Mutta vettä
+					en saata ottaa käteeni ja pitää sitä kiini, ja sellaisia nesteitä eli märkiä
+					aineita kutsutaan <hi rend="expanded"><anchor xml:id="start3517"/>juokseviksi<anchor xml:id="end3517"/>.</hi> Sellaisia saatan
+					kuitenkin ottaa kauhaan eli ämpäriin, jolloin ne kuitenkin pysyvät koossa.
+					Mutta niin ei voi pitää koossa höyryä, joka kohoaa kiehuvasta padasta eli
+					<anchor xml:id="start3518"/>häkää<anchor xml:id="end3518"/>, jota tulee kakeluunista eli ilmaa, joka tuulee. Sellaiset aineet ovat
+					<hi rend="expanded"><anchor xml:id="start3519"/>ilman-muotoisia<anchor xml:id="end3519"/>.</hi></p>
+				<p style="blackletter" xml:id="p4">Muinais-aikoina ei tunnettu luonnon aineita niin tarkoin kuin nyt. Siksi
+					puhuttiin tavallisesti neljästä <hi rend="expanded">alku-aineesta,</hi>
+					joista luultiin kaikkein saaneen alkunsa. Ja näitä alku-aineita sanottiin
+					<hi rend="expanded">elementeiksi.</hi> Ne neljä elementtiä ovat: 1) <hi rend="expanded">maa,</hi> joka on kovista aineista; 2) <hi rend="expanded">vesi,</hi> joka tavallisesti on juoksevaa ainetta; 3)
+					<hi rend="expanded">ilma,</hi> joka on <hi rend="expanded">ilman-muotoista</hi> ainetta, ja 4) <hi rend="expanded">tuli,</hi> joka
+					ei ole minkäänlaista ainetta, vaan toisten ainetten hävitys.</p>
+				<p style="blackletter" xml:id="p5">Nyt menemme <anchor xml:id="start3520"/>merelle<anchor xml:id="end3520"/>. Katsotaanpa tarkemmin <hi rend="expanded">vettä.</hi>
+					Nakkaan mereen puukappaleen. Miksi <pb type="orig" n="135"/>puukappale pysyy veden
+					päällä? Siksi että on keveämpi kuin vesi. Nakkaan kiven veteen. Miksikä kivi
+					uppoaa? Siksi että se on vettä raskaampi. Tuolla uipi vesi-lintu; tuolla
+					soutaa poika veneessä. Miksikä ne kulkevat eteenpäin veden pinnalla. Siksi
+					kun soutelevat vettä takansa, vesilintu jaloillaan ja poika airoillaan.
+					Tuolla käypi vesi-mylly. Mikä panee sen rattaat liikkeelle? Vesi töyttii
+					alinomaa rattaasen. Niin raskasta ja voimakasta on juostessaan vesi. Kyllä
+					se on vielä voimakkaampaakin, niin että se murtaa rikki suuria laivoja ja
+					viepi muassaan suuria kallioita ja jää-telejä, kun se on tullut kovaan
+					liikkeesen.</p>
+				<p style="blackletter" xml:id="p6">Eilen, kun satoi, oli kartano märkänä ja suuria vesi-lammikoita oli kokounut
+					maantielle. Mutta tänäpäivänä on päivä-paiste, ja kartano ja tie ovat taas
+					kuivina. Miksikä niin? Onko kaikki sade-vesi juossut pois? Eilen panin
+					vesi-kupin lämpenemään takalle. Kun tänäpäivänä rupesin silmiäni ja käsiäni
+					pesemään, olipa kuppi tyhjänä. Miksi niin kävi? Ei suinkaan ollut vesi
+					saattanut juosta pois kupin läpi. Ei, se oli <hi rend="expanded"><anchor xml:id="start3521"/>höyrynnyt</hi> pois<anchor xml:id="end3521"/> ja kohonnut näkymätöinä kaasuna ilmaan. Niin kävi
+					kartanollakin, ja niin kävi vesikupissakin. Tiedän paljo vettä olevan
+					höyrynä ilmassa, varsinkin lämpimällä. Nämä höyryt jähtyvät ja kokouvat
+					sitte <hi rend="expanded">pilviksi.</hi> Ilman vielä enemmän jähdyttyä
+					sakeuvat höyryt pieniksi vesiherneiksi ja putoavat <hi rend="expanded">sateena</hi> maahan. Ja koska kesällä yö on koliampi päivää, <anchor xml:id="start3522"/>tivenevät<anchor xml:id="end3522"/>
+					vesi-höyryt jähtyneessä ilmassa ja laskeuvat alas aivan pienissä herneissä
+						<hi rend="expanded">kasteeksi</hi> ruohoon ja muihin kappaleisin ulkona.
+					Välistä ilman jähdyttyä märkäin paikkain ja vetten kohdalla tivenevät höyryt
+						<hi rend="expanded">sumuksi.</hi> Eilen kävellessäni sumussa ajattelin
+					itsekseni: kah, nytpä olen pilvessä aivan maan pinnalla. <pb type="orig" n="136"/>Ja
+					vettä, joka putoaa ilmasta, vetävät <anchor xml:id="start3523"/>kasvut<anchor xml:id="end3523"/> ja <anchor xml:id="start3524"/>elävät<anchor xml:id="end3524"/> sisäänsä: mutta suurin
+					osa höyryää jälleen pois ja tulee sateeksi. Ja kasvut ja elävät ja <anchor xml:id="start3525"/>joet<anchor xml:id="end3525"/> ja
+					<anchor xml:id="start3526"/>järvet<anchor xml:id="end3526"/> ja meret höyryävät vettä jälleen ylös. Niin on vedellä alinomainen
+					kiertäminen maan päällä, eikä sitä ole vielä koskaan nähty, että <anchor xml:id="start3527"/>vesi
+					sentähden olisi vähennyt, vaikka se muutamissa paikoissa saattaa vähetä
+					muista syistä<anchor xml:id="end3527"/>.</p>
+				<p style="blackletter" xml:id="p7">Välistä tapahtuu kesällä, kun pilvet satavat, että ilma niitä alempana on
+					hyvin kylmä. Silloin jäätyvät vesiherneet pudotessaan, ja tulevat <hi rend="expanded">jäärakeina</hi> alas. Mutta jos ne jäätyvät pilvissä,
+					putoavat ne <hi rend="expanded">lumena</hi> alas.</p>
+				<p style="blackletter" xml:id="p8">Talvella hyytyy veden pinta kaikissa järvissä ja jokiloissa täällä
+					<anchor xml:id="start3528"/>pohjoisessa<anchor xml:id="end3528"/> <hi rend="expanded">jääksi,</hi> mutta alimmainen vesi ei jäädy,
+					sillä se vesi, joka on raskainta ja painuu pohjaan, on silloin vähän
+					lämpimämpää. Talvella jäällä ajaessamme sanoi isä: tässä pitää varoa, tässä
+					käypi virta, ja jää on heikkoa. Sillä vesi, joka juoksee sukkelammin
+					koskissa ja virroissa, ei jäädy niin helposti, ja suolainen vesi meressä ei
+					tule niin pian jääksi. Lämpimimmissä maissa <anchor xml:id="start3529"/>etelän<anchor xml:id="end3529"/> puolella on harvoin eli
+					ei koskaan niin kova pakkainen, että vesi jäätyy. Ja ihmiset, jotka tulevat
+					sieltä tänne pohjoiseen, eivät voi kyllin ihmetellä nähdessään koko maan
+					olevan peitettynä lumella, juurikuin sokerilla, ja katsellessaan, kuinka
+					täällä kävellään ja ajetaan järviä ja merta talvella, juuri kuin sileää
+					valkeaa lattiaa.</p>
+				<p style="blackletter" xml:id="p9">Oletko nähnyt, kuinka kauniina tähtinä lumisipaleet tarttuvat akkuna-ruutuun?
+					Nämä pienet lumitähdet, jotka näet nyt tässä kirjassa kuvattuina, ovat
+					<anchor xml:id="start3530"/>rakeita<anchor xml:id="end3530"/>. Niitä tulee veden jäätyessä, samalla lailla kuin <anchor xml:id="start3531"/>keittosuola<anchor xml:id="end3531"/> ja
+					muut aineet laskeuvat astian pohjalle. Silloin sanotaan aineen muuttuvan
+						juokse<pb type="orig" n="137"/>vasta muodosta kovan muotoiseksi. Vedellä on se
+					kummallinen luonto, että se saattaa olla kaiken muotoisena. Kun lumi ja jää
+					sulaa, <choice><orig>muuttu</orig><reg>muuttuu</reg></choice> vesi kovan muotoisesta juoksevan muotoiseksi. Kun sula vesi
+					nousee höyrynä ylös, muuttuu se ilman-muotoiseksi. Tämä tulee aina aineen
+					kylmyydestä eli lämpimästä.</p>
+				<figure type="illustration"><graphic url="10_1_040.jpg"/></figure>
+				<p style="blackletter" xml:id="p10">Tuolla <anchor xml:id="start3532"/>vuoren<anchor xml:id="end3532"/> rinteellä ei kaukana tuvastamme on <anchor xml:id="start3533"/>lähde<anchor xml:id="end3533"/>, jossa on selvä kirkas
+					vesi, jota äiti sanoo <hi rend="expanded"><anchor xml:id="start3534"/>karkkaaksi<anchor xml:id="end3534"/>,</hi> kun se ei ole
+					niin <hi rend="expanded">liukeaa</hi> kuin sade- eli joki-vesi saipualla
+					pestessä. Ei se ole <hi rend="expanded"><anchor xml:id="start3535"/>mineraali-</hi> (kivennäis) lähde<anchor xml:id="end3535"/>,
+					jonka vesi maistuu raudalta eli muilta sulanneilta aineilta. Eikä se ole
+					sellainen <hi rend="expanded">lämmin</hi> lähde, joka muissa maissa juoksee
+					lämpimällä vedellä. Eikä se ole <hi rend="expanded"><anchor xml:id="start3536"/>kuohu-lähde<anchor xml:id="end3536"/>,</hi> joka
+					puhaltaa suihkuna maasta ylös. Se on parempi kaivoamme, jonka isä kaivoi
+					sille paikalle, jossa <hi rend="expanded"><anchor xml:id="start3537"/>vesisuonet<anchor xml:id="end3537"/></hi> kulkevat maassa
+					kartanon alate. Ensin juosta lirisee se pienenä norona, joka tulee <anchor xml:id="start3538"/>suohon<anchor xml:id="end3538"/>.
+					Siinä kokoupi monta sellaista noroa <hi rend="expanded"><anchor xml:id="start3539"/>seuroksi<anchor xml:id="end3539"/>,</hi> joka
+					kiertelee metsän läpi, aina maan <choice><orig>viettamisen</orig><reg>viettämisen</reg></choice> mukaan. Vähän aikaa kulkeissani
+					<anchor xml:id="start3540"/>puron<anchor xml:id="end3540"/> viertä havaitsin sen alinomaa isonevan monien muiden puroin siihen
+					vesineen yhdistymällä. Viimein tuli se <pb type="orig" n="138"/><hi rend="expanded"><anchor xml:id="start3541"/>pieneksi joeksi<anchor xml:id="end3541"/>,</hi> joka juoksi järveen, ja järven toisesta päästä
+					jälleen siitä ulos. Joki oli saanut enemmän vettä ja paisunut <hi rend="expanded"><anchor xml:id="start3542"/>isommaksi joeksi<anchor xml:id="end3542"/>,</hi> jota myös kutsuttiin <hi rend="expanded"><anchor xml:id="start3543"/>virraksi<anchor xml:id="end3543"/>,</hi> kun vesi kävi siinä väkevästi. Kun aina
+					useampia puroja ja <hi rend="expanded"><anchor xml:id="start3544"/>olka-jokia<anchor xml:id="end3544"/></hi> juoksi isompaan
+					jokeen, tuli siitä viimein <hi rend="expanded"><anchor xml:id="start3545"/>leveä</hi> ja <hi rend="expanded">iso virta (kymi)<anchor xml:id="end3545"/>.</hi> Ja koko maata, josta virta ja sen
+					olka-joet saivat vetensä, kutsuttiin <hi rend="expanded">virran-ympäristöksi.</hi> Jossa maa <anchor xml:id="start3546"/>virran <hi rend="expanded">juovassa<anchor xml:id="end3546"/></hi> oli hyvin viettävä alaspäin ja paljo kiviä, vesi juoksi
+					väkevästi, ja siinä oli <hi rend="expanded"><anchor xml:id="start3547"/>koski<anchor xml:id="end3547"/>.</hi> Yhdessä paikassa
+					putosi virta vahtuavana ja pauhuten jyrkkää kallion rinnettä, ja oli <hi rend="expanded"><anchor xml:id="start3548"/>putous</hi> (ämmä, köngäs)<anchor xml:id="end3548"/>. Viimein tuli virta niin
+					suureksi, että laivat purjehtivat sen juovaa. Ja sen <anchor xml:id="start3549"/>rannoille<anchor xml:id="end3549"/> rakensivat
+					ihmiset myllyjä ja sahoja ja vapriikeja ja suuria kaupunkeja. Mutta viimein
+					juoksi virta monia <hi rend="expanded"><anchor xml:id="start3550"/>suita</hi> (putaita)<anchor xml:id="end3550"/> äärettömään <hi rend="expanded">mereen.</hi></p>
+				<figure type="illustration"><graphic url="10_1_041.jpg"/></figure>
+				<p style="blackletter" xml:id="p11">Pyydinpä hyvää ystävääni merimiestä päästäkseni hänen laivaansa. Ottipa minun
+					laivaansa, ja me purjehdimme niin kauvas merelle, ettemme kohta enää nähneet
+					mitään maata, vaan ainoasti taivaan päällämme ja meren-veden ympäri laivaa.
+					Nyt vasta näin, kuinka suuri Jumalan voima oli elementeissä, ja vapisin
+					pelosta, että me, heikot ihmiset, hukkuisimme. Mutta yhtä selvästi näin,
+					kuinka <pb type="orig" n="139"/>Jumala oli luonut ihmisen tänne koko luonnon herraksi.
+					Sukkelasti ja taitavasti rienti laiva eteenpäin <hi rend="expanded"><anchor xml:id="start3551"/>hyökyn<anchor xml:id="end3551"/></hi> läpi myrskyn perästä, joka tätä ennen oli ajanut meren
+					suuriin <hi rend="expanded">aaltoihin.</hi> Silloin näin meren näön
+					muuttuvan senjälkeen kuin taivas oli sininen eli pilvinen; mutta usein
+					vivahteli se viheriäiselle. Meri-vesi oli hyvin <hi rend="expanded">suolaista,</hi> ja nyt ymmärsin miksi jokein ja lähdetten vettä
+					sanottiin suolattomaksi, kun siinä ei ole suolaa.</p>
+				<p style="blackletter" xml:id="p12">Täällä, sanoi merimies, juoksee vesi alinomaa samaa suuntaa, jos tuulikin
+					olisi vastainen, ja sitä kutsuttiin <hi rend="expanded"><anchor xml:id="start3552"/>merivirraksi<anchor xml:id="end3552"/>.</hi>
+					Varotaanpa nyt, ettemme tule <hi rend="expanded"><anchor xml:id="start3553"/>meren-pyörteesen<anchor xml:id="end3553"/>.</hi>
+					Siinä käypi virta pyörien, juuri kuin rattiin kaadettaisi vettä ja vetää
+					laivan mukaansa, siksi että se uppoaa keskelle pyörrettä. Mutta tultuamme
+					suuriin <hi rend="expanded">valtameriin</hi> näemme jotakin kummallista. Kun
+					laiva parhaaltaan purjehtii rantavettä, vetäypi vesi takasi, niin että kuiva
+					<anchor xml:id="start3554"/>hieta<anchor xml:id="end3554"/> näkyy laivan pohjan alla. Sitä kutsutaan <hi rend="expanded"><anchor xml:id="start3555"/>pakovedeksi</hi> (luoteeksi)<anchor xml:id="end3555"/>. Ja kun kuivin jaloin poimii <anchor xml:id="start3556"/>simpukoita<anchor xml:id="end3556"/>
+					meren pohjasta, saapi <anchor xml:id="start3557"/>tarkasti kyllä pitää ajasta vaarin<anchor xml:id="end3557"/>. Sillä kuuden
+					<anchor xml:id="start3558"/>tiiman<anchor xml:id="end3558"/> perästä palaa vesi takasi, niin että jossa juuri vasta sai kävellä
+					kuivin jaloin, siinä purjehtivat jälleen suuret laivat. Ja tätä kutsutaan
+						<hi rend="expanded"><anchor xml:id="start3559"/>nousuvedeksi</hi> (vuokseksi)<anchor xml:id="end3559"/>. Mutta pakovesi ja
+					nousuvesi tulevat useista syistä, joita on vaikea ymmärtääksemme, vielä
+					pieninä ollessamme. Kuka uskoisi kuun, joka on niin kaukana maasta, vetävän
+					vettä ylemmä vissinä aikoina? Paremmin voinet käsittää valtamerien vetten
+					tulevan liikkeelle, kun saat tietää, että koko tämä suuri maa kääntyy
+					ympäri, juuri kuin vesi liikkuu maljassa, kun sitä sukkelasti käännän. Ja
+					samalla lailla tulee pakovesi ja nousuvesi meren läikkymisestä edes
+					takasin.</p>
+				<pb type="orig" n="140"/>
+				<p style="blackletter" xml:id="p13">Kerran sattui purjehtiessamme laiva matalalle eikä päässyt ennen irti, kuin
+					olimme nakanneet osan lastista mereen. Olipa onni, sanoi merimies, että
+					satuimme <hi rend="expanded"><anchor xml:id="start3560"/>hietaharjanteelle<anchor xml:id="end3560"/>,</hi> sillä jos olisimme
+					karahtaneet karille eli terävä-kiviseen <anchor xml:id="start3561"/>luotoon<anchor xml:id="end3561"/>, olisimme vissiin tulleet
+					haaksirikkoon. Sillä tietänet meren pohjan olevan yhtä epätasaisen kuin
+					maankin pinnan. Meren pohjassa on mäkiä ja vuoria ja laksoja, niin että
+					vedellä on aivan erilainen <hi rend="expanded">syvyys.</hi> Siinä on
+					juurikuin metsiä <anchor xml:id="start3562"/>koralleista<anchor xml:id="end3562"/> ja korkeista vesikasveista, joissa kalat
+					mielellään asuvat. Mutta suurissa merissä, jotka ovat syvempiä kuin korkein
+					kirkontorni on pitkä, siellä on alinomainen pimeys ja hiljaisuus syvyydessä.
+					Sillä vesi ei ole aivan niin läpikuultava kuin ilma ja paitsi tätä on se
+					raskaampi, niin että se mahtaa painaa hirveän raskaasti hyvin syvissä
+					paikoissa. Ja ihmiset, jotka taitavat sukeltaa, ovat laskeuneet hyvin syvään
+					meressä. Mutta viimein on veri puhennut niiltä suusta ja sieramista veden
+					painamisen tähden. Ja ei kukaan ole elävänä päässyt syvimpiin paikkoihin,
+					eikä yksikään tunne kaikkea, jota on meren pohjassa. Sen tiedämme vaan, että
+					<anchor xml:id="start3563"/>kasvien<anchor xml:id="end3563"/> ja eläväin siellä syvyydessä täytyy olla niin varustetut, että ne
+					voivat kestää veden suunnattoman painon joka kulmalta.</p>
+				<p style="blackletter" xml:id="p14">Purjehdittuamme vähän aikaa näimme <anchor xml:id="start3564"/>meren-rannan eli <hi rend="expanded">ranta-maan<anchor xml:id="end3564"/></hi> vieraasta maasta. Tässä saamme varoa <hi rend="expanded">kuohua,</hi> sanoi merimies; sillä tässä murtuvat aallot
+					vahtuun kiviä vastaan. Onneksemme emme tavanneet <hi rend="expanded"><anchor xml:id="start3565"/>jää-vuoria<anchor xml:id="end3565"/>,</hi> jotka ajelehtavat alaspäin kylmimmistä meristä,
+					muutoin olisimme saattaneet pian mennä kumoon niitä vastaan. Mennäänpä nyt
+					maalle. Tämä maa ei ole <hi rend="expanded"><anchor xml:id="start3566"/>manner-maata<anchor xml:id="end3566"/>,</hi> joka on
+					yhdistyksessä muiden suur<pb type="orig" n="141"/>ten maiden kanssa. Nyt olemme tulleet
+						<hi rend="expanded"><anchor xml:id="start3567"/>saarelle<anchor xml:id="end3567"/>,</hi> sillä sen ympärillä on vesi joka
+					suunnalla. Mutta kun monta saarta on likitysten, kutsutaan niitä yhteensä
+						<hi rend="expanded"><anchor xml:id="start3568"/>saaristoksi<anchor xml:id="end3568"/>.</hi> Ja jos tässä olisi kolmella
+					kulmalla vettä, mutta neljäs sivu olisi kiini muissa maissa, niin olisi tämä
+					maa <hi rend="expanded"><anchor xml:id="start3569"/>niemi<anchor xml:id="end3569"/>.</hi> Ja kaitasta paikkaa niemen juurella
+					kutsuttaisiin <hi rend="expanded"><anchor xml:id="start3570"/>kunnakseksi<anchor xml:id="end3570"/>.</hi> Täällä pistää kaitanen
+					maa-kaistale mereen, ja sitä kutsutaan <hi rend="expanded"><anchor xml:id="start3571"/>niemekkeeksi<anchor xml:id="end3571"/>.</hi> Toisella puolella pistää kaitaselta merta maahan, ja
+					tätä vettä kutsutaan <hi rend="expanded"><anchor xml:id="start3572"/>lahdekkeeksi<anchor xml:id="end3572"/>;</hi> mutta jos
+					lahdeke olisi isompi ja laajempi, kutsuttaisiin sitä <hi rend="expanded"><anchor xml:id="start3573"/>lahdeksi<anchor xml:id="end3573"/>.</hi> Isoimpia pitkiä lahteja meressä kutsutaan myös <hi rend="expanded"><anchor xml:id="start3574"/>vuonoiksi<anchor xml:id="end3574"/>.</hi> Ja nyt purjehdimme kaitasta vettä kahden
+					maan välillä yhdestä vuonosta toiseen. Tätä kaitasta vettä kutsutaan <hi rend="expanded"><anchor xml:id="start3575"/>salmeksi</hi> eli <hi rend="expanded">raumaksi<anchor xml:id="end3575"/>;</hi>
+					mutta jos tämä olisi suurempi ja leveämpi, kutsuttaisiin sitä <hi rend="expanded"><anchor xml:id="start3576"/>kanavaksi<anchor xml:id="end3576"/>.</hi> Ja sellaisia pienempiä meriä, jotka
+					kaitaset salmet yhdistävät suuren meren kanssa, kutsutaan <hi rend="expanded">sisämeriksi.</hi></p>
+				<p style="blackletter" xml:id="p15">Nyt muistin maassamme olevan paljo <hi rend="expanded"><anchor xml:id="start3577"/>maavesiä<anchor xml:id="end3577"/></hi> ja
+					pyysin siis lähteä purjehtimaan maavesille. Silloin nauroi merimies ja
+					sanoi: maavesien ympärillä on maa joka sivulla, niin ettei yksikään voi
+					purjehtia niihin mereltä. Ja jos maavedet ovat pienempiä, kutsutaan niitä
+						<hi rend="expanded">järviksi,</hi> ja hyvin pieniä järviä sanotaan <hi rend="expanded"><anchor xml:id="start3578"/>lammiksi<anchor xml:id="end3578"/>.</hi> Mutta kun ihmiset mielellään tahtovat
+					tulla vettä myöten järvestä merelle, kaivavat he vesijuovan, niin että
+					veneet ja alukset saattavat purjehtia tätä väliä ja sellaista kulkujuovaa
+					kutsutaan <hi rend="expanded"><anchor xml:id="start3579"/>kaivannoksi<anchor xml:id="end3579"/>.</hi> Vesi juoksee aina
+					korkeammasta paikasta alaisempaan. Ja koska useammat järvet ovat merta
+					korkeammalla, niin juoksisi järvien vesi kaikki tyyni pois kaivantoa myöten,
+					jos ei olisi keksitty pieniä kamareja eli salpa<pb type="orig" n="142"/>rakennuksia,
+					joita kutsutaan <hi rend="expanded">suluiksi,</hi> joissa alukset nostetaan
+					eli lasketaan vedellä, niin että kaivannossa on juuri kuin portaita, joissa
+					enin osa vettä on tyveneenä.</p>
+				<p style="blackletter" xml:id="p16">Nyt palaamme jälleen omaan maahamme, sanoi merimies. Mutta muistaaksesi mitä
+					olet nähnyt annan sinulle <hi rend="expanded">kartan,</hi> jossa näet koko
+					maan pinnan kuvattuna maineen ja vesineen. Siinä näet, kuinka maan päällä on
+					paljo enemmän vettä kuin maata, niin että suuret meret peittävät kahta
+					vertaa suuremman pinnan kuin maat. Siitä saat myös oppia tuntemaan <hi rend="expanded"><anchor xml:id="start3580"/>mailman-osat<anchor xml:id="end3580"/></hi> ja koko sen hyödyttävän opin, jota
+					kutsutaan <hi rend="expanded"><anchor xml:id="start3581"/>maan-tiedoksi</hi> eli maanselitykseksi<anchor xml:id="end3581"/>. Ja
+					annan sinulle sellaisen kartan, johon maa on kuvattu väreillä, joka onkin
+					tarpeellisinta; tämä on <hi rend="expanded">maan-kartta.</hi> Mutta
+					merimiehillä on toisia karttoja, joihin meri ja vedet ovat tarkoin kuvatut
+					kaikkine karineen, luotoineen ja mataloineen, ja sellaisia kutsutaan <hi rend="expanded">meri-kartoiksi.</hi></p>
+				<p style="blackletter" xml:id="p17">Sanoin: kuinka suuri on viisautesi, Herra Jumala, että levität meret
+					peitteeksi maan syvyyksihin ja valmistat ne tieksi ihmisten lapsille! Sinä
+					suot sateen virvoittaa janoavan maan; sinä annat lähdetten ja virtain kulkea
+					elämän-suonina maiden pinnalla, niin että ihmiset ja <anchor xml:id="start3582"/>eläimet<anchor xml:id="end3582"/> ja kasvit
+					saavat siitä ravintonsa. Vähinkin kasteherne kuvastaa sinun kunniaasi, sinun
+					henkesi kulkee pimeäin syvyytten päällitse. Ja kun purjehtija panee levolle
+					heikolle alukselleen keskellä valtameren aaltoja, sanoo hän itsekseen:
+					katso, <anchor xml:id="start3583"/>Herramme Kristus on kerran kävellyt myrskyistä merta, ja aallot
+					asettuivat hänen allansa.<anchor xml:id="end3583"/> Niin tiedän minäkin vielä tänäpäivänä Jumalan
+					kaikkivallan käden hallitsevan elementtejä. Ja joita Jumala suojelee, niitä
+					ei vahingoita vesi eikä tuli eikä muu loukkaus. Niillä on <pb type="orig" n="143"/>rauha
+					ja iloinen turva. Sillä Jumala on väkevyytemme, ja meren aallot, jotka
+					murtavat kallioita ja muureja, asettuvat lakioiksi kuin lampaat hänen
+					kunniansa istuimen eteen.</p>
+					<head style="blackletter" xml:id="h3"><hi rend="bold">Veden hävittämisistä.</hi></head>
+					<p style="blackletter" xml:id="p18">Pyhä raamattu puhuu ensimäisessä Moseksen kirjassa suuresta
+						vedenpaisumisesta, joka hukutti kaikki ihmiset heidän synteinsä tähden,
+						paitsi Noakkia sukuineen. Sitte lupasi Jumala <anchor xml:id="start3584"/>vesikaaren<anchor xml:id="end3584"/> merkillä, ettei
+						yhdenkään niin suuren <hi rend="expanded">tulvan</hi> enää pitänyt maata
+						hävittämään. Sellaista ei ole sittemmin ollutkaan. Mutta kyllä vieläkin
+						tapahtuu välistä, että vesi tekee suuria häviöitä. Kun suuret virrat
+						paisuvat sateista, eli kun niiden suut tukkeuvat jäistä, kohoaa vesi
+						ylemmä virran ääriä ja levenee maille. Silloin täytyy ihmisten ja
+						eläinten pelastaa itsiään miten parhaite taitavat, muutamain veneissä,
+						toisten katoille, toisten vuorille. Metsät ja pellot hävitetään, myllyt
+						ja ladot viepi vesi mukaansa. Kaduilla ja maanteillä soudellaan; kalat
+						uiskentelevat ihmisten huoneissa. Silloin tulee useinkin suuri hätä
+						maahan. Mutta suuri Niilin virta Afrikassa tekee maat hedelmällisiksi.
+						Joka vuosi paisuu se maille, ja kun vesi laskeupi takasi, jättää se
+						paksulta likaa, jossa kasvaa sanomattomasti paljo eloa.</p>
+					<p style="blackletter" xml:id="p19">Tunnen kummallisen maan, jota kutsutaan <choice><orig>alankomaiksi</orig><reg>Alankomaiksi</reg></choice>, siksi kun se on
+						hyvin alaista. Siinä on meri muinoin lainehtinut maan päällä, mutta
+						sitte on meren-hieta kokounut harjanteihin rannoille, juuri kuin
+						muureiksi aaltoja vastaan. Uuttera väki on rakentanut suuria patoja
+						puista, kivistä ja savesta <pb type="orig" n="144"/>merta vastaan. Ja se vesi, jonka
+						meri on jättänyt sisäpuolelle patoja, on pumputtu takasi mereen. Niin on
+						saatu suuri kappale maata meren alta. Mutta välistä, kun on kova myrsky
+						ja meri-vesi pauhuaa korkealla, tapahtuu vieläkin, että meri murtaa
+						padot ja juurikuin ottaa valtaansa entisen alustansa. Silloin tapahtuu
+						näillä tienoilla suuria häviöitä, niin että on nähty monia kaupunkeja ja
+						kyliä kaikkine asukkaineen nieleyvän meren aaltoihin. Niin nähdään
+						siinäkin, jossa nyt laivat purjehtivat merellä, jotakuta pistäyvän ylös
+						vedestä, ja tarkemmin katsottua tutaan se kirkontorniksi kylässä, joka
+						kauvan aikaa jälkeenpäin on mennyt veden alle. — Usein kuullaan, kuinka
+						laivoja ja veneitä tulee haaksi-rikkoon merellä, ja joka vuosi hukkuu
+						tällä lailla monta ihmistä. Muita putoaa kehnoon jäähän, eli hukkuu
+						uidessa; sillä ihmiset kuolevat vedessä sentähden, etteivät siinä voi
+						hengittää.</p>
+					<head style="blackletter" xml:id="h4"><hi rend="bold">Vedestä lääkkeenä.</hi></head>
+					<p style="blackletter" xml:id="p20">Mutta onpa Jumala antanut vedelle avullisen, virvoittavan ja parantavan
+						voiman. Vedettä ei voi yksikään kasvu, ei yksikään eläin, ei yksikään
+						ihminen elää; moni kivuloinen saapi vedellä terveytensä takasi. Monta
+						sairasta matkustaa satoja <anchor xml:id="start3585"/>peninkulmia<anchor xml:id="end3585"/> kylpemään ja uimaan etelä-maiden
+						lämpimissä lähteissä. Moni tervehtyy <hi rend="expanded"><anchor xml:id="start3586"/>terveysvettä<anchor xml:id="end3586"/>
+							juomalla;</hi> muut saavat terveytensä takasi uimalla eli kylpemällä
+						kylmässä vedessä vissein määräysten jälkeen, joita lääkäri säätää.
+						Maassammekin on <hi rend="expanded">terveys-vesi-lähteitä,</hi> mutta ei
+						yhtään lämmintä. <anchor xml:id="start3587"/>Turussa on <hi rend="expanded">kylmä-vesinen
+							parannuslaitos.<anchor xml:id="end3587"/></hi> Jos uit meressä eli muuten kylmässä vedessä,
+						elä pelkää ollenkaan vettä, jos <pb type="orig" n="145"/>olet palavissasikin.
+						Vedessä ei vilustuta, vaan paremmin kylmässä ilmassa. Riisu siis
+						sukkelasti vaatteesi ja pukeu niihin jälleen pian. Eläkä juokse, niin
+						että hengästyt, ennen uimista, eläkä ui kohta syönnin jälkeen, sillä se
+						on vahingollista.</p>
+					<head style="blackletter" xml:id="h5"><hi rend="bold">Maamme vesistä.</hi></head>
+					<p style="blackletter" xml:id="p21">Maassamme on useita isoja jokia, niinkun Keminjoki, Oulunjoki,
+						Kokemäenjoki ja Vuoksenjoki; mutta muissa maissa on vielä paljoa isompia
+						jokia, ja sellaisia, jotka suista ovat juurikuin meriä. Maamme joissa on
+						monta koskea, joissa tarvitaan hyvää taitoa saattaa laskea kivien
+						välitse. Täällä on myös monta pienempääkin jokea ja <anchor xml:id="start3588"/>ojaa<anchor xml:id="end3588"/>. Kaksi suurta
+							<hi rend="expanded"><anchor xml:id="start3589"/>koskiputousta</hi> (köngästä)<anchor xml:id="end3589"/>, Imatra ja
+						Kyrönkoski, ovat Suomen kaunistuksina. Siellä ei kuule kukaan toisen
+						puhetta rannalla, sillä niin kova on pauhu. Niitä ei voi yksikään vene
+						<anchor xml:id="start3590"/>häveämättä<anchor xml:id="end3590"/> päästä alas. Välistä nähdään paksun hirren menevän putousta
+						alas, ja ennenkuin se on päässyt alle, on sen jo koski kivissä rouhinut
+						pieniksi säpäleiksi. Mutta suurin koskiputous (köngäs) koko maan päällä
+						on Amerikassa, ja sen nimi on Niagara. Siitä kuuluu hirmuinen pauhu
+						monen peninkulman päähän. Ja kuin aurinko paistaa utuun, joka alinomaa
+						pirskuu ylös putouksesta, näkyy siinä kaunis vesikaari.</p>
+					<p style="blackletter" xml:id="p22">Kaksi merta lainehtii Suomen rantamaita vasten, nimittäin Pohjanlahti ja
+						Suomenlahti. Nämä molemmat suuret lahdet ovat osia sisämerestä,
+						Itämerestä, joka taas on valtameren lahti. Maassamme on monta tuhatta
+							<hi rend="expanded">maavesiä,</hi> järveä ja lampia, muutamat
+						suuria, toiset pieniä. On siis Jumala siunannut tämän kauniin maan
+						paremmin <pb type="orig" n="146"/>kuin usiat muut maat maan päällä suurella veden
+						rikkaudella. Merenranta-vesissä on saaristoja, saaria, <anchor xml:id="start3591"/>kareja<anchor xml:id="end3591"/> ja
+						luotoja, joskus ihanoita, joskus vaarallisiakin. Onpa koko maakuntia ja
+						pitäjiä, niinkuin Ahvenanmaa (Oolanti), meren piirittämiä. <anchor xml:id="start3592"/>Mutta se on
+						kummallista, että rantamaamme alinomaa lisäyvät. Alinomaa levenevät ne
+						ulospäin, sillä että vesi vetäypi takasi, niin että nyt saatetaan
+						kävellä kuivin jaloin, missä satoja vuosia tätä ennen vedettiin nuottaa
+						ja soudeltiin veneellä. Tämä tulee siitä syystä, että maa nousee
+						maanalaisesta voimasta.<anchor xml:id="end3592"/> Sitämyöten vetäypi vesikin rannoilta etemmä, ja
+						näin tulee Suomemme alinomaa isommaksi.</p>
+					<p style="blackletter" xml:id="p23"><anchor xml:id="start3593"/>Haluatko nähdä kaivantoa, niin mene Saiman rannalle; se on maamme suurin
+						maavesi. Siihen on <anchor xml:id="start3594"/>keisari<anchor xml:id="end3594"/> maamme rahain suurella kustannuksella
+						teettänyt kaivannon, joka on liki viittä peninkulmaa pitkä, ja siinä on
+						28 sulkulaitosta. Yksitoista vuotta on monta sataa miestä sitä
+						valmistanut. Ne ovat murtaneet juovan suurten vuorten läpi ja kaivaneet
+						sen sekä soiden että hietaharjuin läpitse. Ne ovat muuranneet lujia
+						seiniä kivestä ja rakentaneet kauniimpia patoja ja kamareja
+						sulkulaitoksiin. Mutta onki se nyt teos, josta maallemme on ijäistä
+						hyötyä. Sillä ennen täytyi kulettaa kaikellaisia kaluja maisin reillä ja
+						kärryillä Saiman rannoilta mereen. Se vei paljon aikaa ja oli hyvin
+						vaivaloista. Mutta nyt saadaan kaikkia paljoa sukkelammasti ja
+						helpommasti aluksilla, jotka kulkevat ylös- ja alaspäin pitkin <hi rend="expanded">Saiman kaivantoa.<anchor xml:id="end3593"/></hi></p>
+				<pb type="orig" n="147"/>
+					<head style="romanType" xml:id="h6"><hi rend="bold"><anchor xml:id="start3595"/>Lähde.<anchor xml:id="end3595"/></hi></head>
+					<lg xml:id="lg24">
+						<l style="romanType"><hi rend="italics">Läpi lakson juoksevi</hi></l>
+						<l style="romanType"><hi rend="italics">Pieni lähde lehdikossa,</hi></l>
+						<l style="romanType"><hi rend="italics">Vesi ei näy varvikossa,</hi></l>
+						<l style="romanType"><hi rend="italics">Se nimettä kulkevi.</hi></l>
+					</lg>
+					<lg xml:id="lg25">
+						<l style="romanType"><hi rend="italics">Siunaten sun luonasi</hi></l>
+						<l style="romanType"><hi rend="italics">Vaivoistaan väsynehenä</hi></l>
+						<l style="romanType"><hi rend="italics">Matkamies menehtyneenä</hi></l>
+						<l style="romanType"><hi rend="italics">Virkoaa vedestäsi.</hi></l>
+					</lg>
+					<lg xml:id="lg26">
+						<l style="romanType"><hi rend="italics">Suo eloni rientävä,</hi></l>
+						<l style="romanType"><hi rend="italics">Suo, isäni armas, senkin,</hi></l>
+						<l style="romanType"><hi rend="italics">Niinkuin lakson lähtehenkin,</hi></l>
+						<l style="romanType"><hi rend="italics">Juosta täällä tyynenä!</hi></l>
+					</lg>
+					<head style="romanType" xml:id="h7"><hi rend="bold"><anchor xml:id="start3596"/>Lähde keväillä.<anchor xml:id="end3596"/></hi></head>
+					<lg xml:id="lg27">
+						<l style="romanType"><hi rend="italics">Jo silmäs suloinen</hi></l>
+						<l style="romanType"><hi rend="italics">Avaupi sinun,</hi></l>
+						<l style="romanType"><hi rend="italics">Ja taivas sininen</hi></l>
+						<l style="romanType"><hi rend="italics">Kuvaupi sinuun,</hi></l>
+						<l style="romanType"><hi rend="italics">Ja laksosi harras</hi></l>
+						<l style="romanType"><hi rend="italics">Se kukkinehen</hi></l>
+						<l style="romanType"><hi rend="italics">Sua katsovi, armas,</hi></l>
+						<l style="romanType"><hi rend="italics">Myös metsinehen.</hi></l>
+					</lg>
+					<lg xml:id="lg28">
+						<l style="romanType"><hi rend="italics">Jos minne liristäen</hi></l>
+						<l style="romanType"><hi rend="italics">Kuleksisitkin,</hi></l>
+						<l style="romanType"><hi rend="italics">Jos missä levähtäen</hi></l>
+						<l style="romanType"><hi rend="italics">Pysähtyisitkin,</hi></l>
+						<l style="romanType"><hi rend="italics">Niin riemu ja laulu</hi></l>
+						<l style="romanType"><hi rend="italics">On kumppaninas,</hi></l>
+						<pb type="orig" n="148"/>
+						<l style="romanType"><hi rend="italics">Kukistokin kauno</hi></l>
+						<l style="romanType"><hi rend="italics">Kulettavanas.</hi></l>
+					</lg>
+					<lg xml:id="lg29">
+						<l style="romanType"><hi rend="italics">Nyt viivähdyn tässä,</hi></l>
+						<l style="romanType"><hi rend="italics">Kun ilta jo on,</hi></l>
+						<l style="romanType"><hi rend="italics">Ja metsä leh’essä</hi></l>
+						<l style="romanType"><hi rend="italics">Vihantona on;</hi></l>
+						<l style="romanType"><hi rend="italics">On äänesi soiva</hi></l>
+						<l style="romanType"><hi rend="italics">Nyt kuultavani,</hi></l>
+						<l style="romanType"><hi rend="italics">Siis haihtuvi vaiva</hi></l>
+						<l style="romanType"><hi rend="italics">Sydämestäni.</hi></l>
+					</lg>
+					<head style="romanType" xml:id="h8"><hi rend="bold"><anchor xml:id="start3597"/>Meri yöllä.<anchor xml:id="end3597"/></hi></head>
+					<lg xml:id="lg30">
+						<l style="romanType">Lapsi. <hi rend="italics">Voi kun aallot nyt tuhansin</hi></l>
+						<l style="romanType"><hi rend="italics">E’es takaisin kulkevat,</hi></l>
+						<l style="romanType"><hi rend="italics">Voi, Jumala, taivahankin</hi></l>
+						<l style="romanType"><hi rend="italics">Tähdet tässä paistavat!</hi></l>
+						<l style="romanType"><hi rend="italics">Vesi, tuuvita syvällä</hi></l>
+						<l style="romanType"><hi rend="italics">Mua yöllä!</hi></l>
+					</lg>
+					<lg xml:id="lg31">
+						<l style="romanType">Äiti. <hi rend="italics">Entä kun putoat siellä,</hi></l>
+						<l style="romanType"><hi rend="italics">Painut aallon pohjahan,</hi></l>
+						<l style="romanType"><hi rend="italics">Kolkko kuolemakin vielä</hi></l>
+						<l style="romanType"><hi rend="italics">Vie upottain hautahan,</hi></l>
+						<l style="romanType"><hi rend="italics">Souda, lapsi, rannan luokse,</hi></l>
+						<l style="romanType"><hi rend="italics">Tänne juokse!</hi></l>
+					</lg>
+					<lg xml:id="lg32">
+						<l style="romanType">Lapsi. <hi rend="italics">Äiti, jos putoisin tässä,</hi></l>
+						<l style="romanType"><hi rend="italics">Oispa taivas tässäkin,</hi></l>
+						<l style="romanType"><hi rend="italics">Kirkas on veden sisässä,</hi></l>
+						<l style="romanType"><hi rend="italics">Rakas siinä taivaskin,</hi></l>
+						<l style="romanType"><hi rend="italics">Enkelitkin loistavaiset,</hi></l>
+						<l style="romanType"><hi rend="italics">Kutsuvaiset.</hi></l>
+					</lg>
+				<pb type="orig" n="149"/>
+					<head style="romanType" xml:id="h9"><hi rend="bold"><anchor xml:id="start3598"/>Valta-meri.<anchor xml:id="end3598"/></hi></head>
+					<lg xml:id="lg33">
+						<l style="romanType"><hi rend="italics">Ihmisten lapset te heikot oletta,</hi></l>
+						<l style="romanType"><hi rend="italics">Merta kun kulkemahan te tuletta.</hi></l>
+					</lg>
+					<lg xml:id="lg34">
+						<l style="romanType"><hi rend="italics">Aallot ovat kovin valtavat siellä</hi></l>
+						<l style="romanType"><hi rend="italics">Valta-meren yli käyvällä tiellä.</hi></l>
+					</lg>
+					<lg xml:id="lg35">
+						<l style="romanType"><hi rend="italics">Mailman myrskyt ja mailman voimat</hi></l>
+						<l style="romanType"><hi rend="italics">Myös meren jälkiä kulkea voivat.</hi></l>
+					</lg>
+					<lg xml:id="lg36">
+						<l style="romanType"><hi rend="italics">Mut sitä kaunista hirmua kellään</hi></l>
+						<l style="romanType"><hi rend="italics">Ei ole muulla kuin myrsky-merellä.</hi></l>
+					</lg>
+					<lg xml:id="lg37">
+						<l style="romanType"><hi rend="italics">Vaan kun on vaipunut myrsky menosta,</hi></l>
+						<l style="romanType"><hi rend="italics">On meri nukkunut rauhan levosta.</hi></l>
+					</lg>
+					<lg xml:id="lg38">
+						<l style="romanType"><hi rend="italics">Juuri kun jättiläs, niin se sulolla</hi></l>
+						<l style="romanType"><hi rend="italics">On elon melskeistä rauhan levolla.</hi></l>
+					</lg>
+					<lg xml:id="lg39">
+						<l style="romanType"><hi rend="italics">Katso, jo vaipuvat siivetki laivan,</hi></l>
+						<l style="romanType"><hi rend="italics">Vauhti sen <anchor xml:id="start3599"/>vaikkeni<anchor xml:id="end3599"/>, loppuiki aivan.</hi></l>
+					</lg>
+					<lg xml:id="lg40">
+						<l style="romanType"><hi rend="italics">Hauta on julma ja synkkä sen alla,</hi></l>
+						<l style="romanType"><hi rend="italics">Taivas näkyypi kuvastelemalla.</hi></l>
+					</lg>
+					<lg xml:id="lg41">
+						<l style="romanType"><hi rend="italics">Mut meren pinnall’ on liikettä vielä</hi></l>
+						<l style="romanType"><hi rend="italics">Valta-meren yli käyvällä tiellä.</hi></l>
+					</lg>
+					<head style="romanType" xml:id="h10"><hi rend="bold"><anchor xml:id="start3600"/>Järvi.<anchor xml:id="end3600"/></hi></head>
+					<lg xml:id="lg42">
+						<l style="romanType"><hi rend="italics">Ei mun aaltoni ajele</hi></l>
+						<l style="romanType"><hi rend="italics">Eikä vieri valtavasti</hi></l>
+						<l style="romanType"><hi rend="italics">Vuorten suurten vertasina;</hi></l>
+						<pb type="orig" n="150"/>
+						<l style="romanType"><hi rend="italics">Saapi pintani <anchor xml:id="start3601"/>piteä<anchor xml:id="end3601"/></hi></l>
+						<l style="romanType"><hi rend="italics">Tyyntä tuulien tulossa,</hi></l>
+						<l style="romanType"><hi rend="italics">Myrsky-ilmojen menossa;</hi></l>
+						<l style="romanType"><hi rend="italics">Eipä tunnu tuima tuuli</hi></l>
+						<l style="romanType"><hi rend="italics">Kovin pinnalla pahana.</hi></l>
+						<l style="romanType"><hi rend="italics">Tuulen-henki tullessansa</hi></l>
+						<l style="romanType"><hi rend="italics">Kevä-ilmojen keralla</hi></l>
+						<l style="romanType"><hi rend="italics">Pientä aaltoa pitävi,</hi></l>
+						<l style="romanType"><hi rend="italics">Vähä vettä vierittääpi.</hi></l>
+						<l style="romanType"><hi rend="italics">Muuten tyynenä majailen</hi></l>
+						<l style="romanType"><hi rend="italics">Sekä taivasta kuvailen</hi></l>
+						<l style="romanType"><hi rend="italics">Suloisna sinertävänä.</hi></l>
+						<l style="romanType"><hi rend="italics">Rantakoivut katselevat</hi></l>
+						<l style="romanType"><hi rend="italics">Näkevät lepät lehosta</hi></l>
+						<l style="romanType"><hi rend="italics">Tyynen pintani povessa</hi></l>
+						<l style="romanType"><hi rend="italics">Kaunisna oman kuvansa.</hi></l>
+						<l style="romanType"><hi rend="italics">Ystäväni, armahani,</hi></l>
+						<l style="romanType"><hi rend="italics">Teeppä rannalle tupasi,</hi></l>
+						<l style="romanType"><hi rend="italics">Asuntosi äärelleni!</hi></l>
+						<l style="romanType"><hi rend="italics">Tääll’ on tyynessä tupasi,</hi></l>
+						<l style="romanType"><hi rend="italics">Rauhassa rajun käsistä;</hi></l>
+						<l style="romanType"><hi rend="italics">Täällä Luojaasi lähesty</hi></l>
+						<l style="romanType"><hi rend="italics">Rakkaasti rukoilemalla,</hi></l>
+						<l style="romanType"><hi rend="italics">Varjelemahan vapaaksi</hi></l>
+						<l style="romanType"><hi rend="italics">Suloisinta Suomeamme.</hi></l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Yhdeksäs Luku. Maasta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>9</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Yhdeksäs Luku. Maasta</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head style="blackletter" type="section" xml:id="h1"><hi rend="bold">Yhdeksäs Luku.</hi></head>
+				<head style="romanType" type="section" xml:id="h2"><hi rend="bold expanded">Maasta.</hi></head>
+				<p style="romanType" xml:id="p1">Muutamana päivänä olivat Antti ja Liisa kartanolla ja kaivoivat niin
+					vireästi, että hiki tippui otsasta. Syvän kuopan kaivettua istuivat
+					levähtämään ja katsoivat kuoppaan. Samassa tuli heidän isänsä ja kysyi: mitä
+					kaivatte, lapset, ja mitä siinä katsotte kuoppaan? Liisa <pb type="orig" n="126"/>vastasi: mielellämme olisimme katsoneet sitä, jota on maan sisässä.</p>
+				<p style="romanType" xml:id="p2">Isä sanoi: jos koko kylän väki kaivaisi samaa paikkaa, ja jos se sitä tekisi
+					viisikymmentä vuotta, eivät sittekään saisi nähdä sitä, jota on maan
+					sisuksessa. Sillä jos olisi mahdollista kaivaa reijän suoraan maan läpi,
+					niin olisi se reikä 1,200 (tuhat kahtasataa) <anchor xml:id="start3460"/>peninkulmaa<anchor xml:id="end3460"/> syvä. Ja
+					päästäväksi maan sisukseen, täytyisi kaivaa 600 (kuuttasataa) peninkulmaa
+					syvään. Mutta eipä voi yksikään kaivaa puoltakaan peninkulmaa alaspäin,
+					sillä sitä ennen tullaan veteen eli <anchor xml:id="start3461"/>vuoreen<anchor xml:id="end3461"/>. Peninkulman syvyyteen maan
+					sisään ei ylety yksikään kaivanto. Välistä löydetään vuorissa syviä reikiä,
+					joita kutsutaan <hi rend="expanded">luoliksi</hi> ja jotka ovat olleet
+					niissä aina maan alusta. Ihmiset ovat välistä kontanneet näihin luolihin ja
+					heillä on ollut valkea muassa nähdäkseen maan sisuksia. Ja siellä on nähty
+					korkeita holveja, kuin kirkkoja, joissa vesi on alinomaa tippunut katosta.
+					Ja siellä on nähty ihmeellisesti kauniita patsaita valkioista kivistä, ja
+					siellä on maanalaisia virtoja pauhannut kaukana alaalla pimeässä. Mutta ei
+					yhtään elävää olentoa ole asunut syvyydessä, ja ihmisiä on alkanut niin
+					kauhistuttaa, että ovat mielellään rientäneet takasi Jumalan kirkkaan päivän
+					valoon. Ei siis tiedetä mitään vissiä maan sisuksesta. Mutta siitä, joka on
+					likinnä jalkaimme alla, tiedämme, että siinä on useita erilaisia <hi rend="expanded"><anchor xml:id="start3462"/>maakertoja<anchor xml:id="end3462"/></hi> päälletysten. Kaivoa kaivaessa sattuu,
+					että ensin tullaan multaan ja <anchor xml:id="start3463"/>hietaan<anchor xml:id="end3463"/>, sitte saveen, sitte jälleen hietaan
+					ja niin jälleen toisiin <anchor xml:id="start3464"/>maanlajin<anchor xml:id="end3464"/>. Paljon paremmin tunnemme maan pinnan,
+					jonka Jumala on luonut asunnoksi ihmisille, <anchor xml:id="start3465"/>kasveille<anchor xml:id="end3465"/> ja <anchor xml:id="start3466"/>eläville<anchor xml:id="end3466"/>.</p>
+				<p style="romanType" xml:id="p3">Kuulin yhden akan olleen, joka ei koskaan ollut käynyt ulkona tuvasta, jossa
+					hän asui, sillä hän oli sekä sokea että ontuva. Kauvan luuli hän siis ei
+					mailmaa olevan tuvan ovea etemmä. Mutta kerran sai hän kuulla, että oli
+					palanen mailmaa ulkopuolellakin tuvan ovea. Pis<pb type="orig" n="127"/>tipä kätensä,
+					ulos akkunasta tutakseen, kuinka iso mailma oli. Ja kun hän haparoi tyhjää
+					ilmassa, sanoi hän kummastellen: onpa sitä mailmaa jonnekkin päin! En voi
+					tuta sen seiniäkään!</p>
+				<p style="romanType" xml:id="p4">Tämän kuultua rupesivat Antti ja Liisa nauramaan. Isä kysyi: sanoppa Liisa,
+					kuinka paljo tästä on mailman ääreen? Liisa vastasi: mailmaa on vielä
+					kappale veräjänkin taakse maantielle, sillä olin siellä paimentamassa
+					<anchor xml:id="start3467"/>lehmiä<anchor xml:id="end3467"/>. Antti luuli tätä kovin vähäksi ja sanoi: mailmaa on vissiinkin
+					peninkulma tästä eteenpäin, sillä niinkaukana kävin myllyssä isäni kanssa
+					jauhoja noutamassa.</p>
+				<p style="romanType" xml:id="p5">Tähän sanoi isä: niin vähä tietäisimme, jos emme oppisi enempää muilta.
+					Tulkaa, menemme yhdessä tuolle korkealle vuorelle metsään. Siellä saamme
+					nähdä enemmän maan pintaa.</p>
+				<p style="romanType" xml:id="p6">Niin menivät kaikki ja katselivat tarkasti ympärilleen mennessään. Käydessään
+					astuivat he viheriäistä tannerta juurikuin lattiata. Kartanosta tultua
+					maantielle, oli heillä toisella puolella suuri metsä ja siinä monellaisia
+					puita, pensaita ja <hi rend="expanded"><anchor xml:id="start3468"/>tihikkoa<anchor xml:id="end3468"/>.</hi> Toisella puolella oli
+						<hi rend="expanded">tasainen maa</hi> peltoin ja niittyin kanssa<choice><orig>,</orig><reg>.</reg></choice> Tätä
+					kutsuttiin <hi rend="expanded"><anchor xml:id="start3469"/>lakeudeksi<anchor xml:id="end3469"/></hi> ja pienempää osaa siitä
+					kutsuttiin <hi rend="expanded"><anchor xml:id="start3470"/>kedoksi<anchor xml:id="end3470"/>.</hi> Vähä ulompana, ulkopuolella
+					kaupunkia, oli maa hietikkoa ja kutsuttiin <hi rend="expanded"><anchor xml:id="start3471"/>kentäksi<anchor xml:id="end3471"/>.</hi> Ja vielä ulompana, jossa lakeus kasvoi <anchor xml:id="start3472"/>kanervia<anchor xml:id="end3472"/> ja
+					harvastaansa <anchor xml:id="start3473"/>mäntyjä<anchor xml:id="end3473"/>, kutsuttiin sitä maata <hi rend="expanded"><anchor xml:id="start3474"/>kankaaksi<anchor xml:id="end3474"/>.</hi> Jos tämä lakeus olisi niin kuiva, ettei siinä kasvaisi
+					mitään, nimitettäisiin se <hi rend="expanded"><anchor xml:id="start3475"/>aavikoksi<anchor xml:id="end3475"/>.</hi> Ja jos se
+					olisi paljas ja kivinen, mutta kasvaisi kuitenkin ruohoa, kutsuttaisiin sitä
+						<hi rend="expanded"><anchor xml:id="start3476"/>aromaaksi<anchor xml:id="end3476"/>.</hi></p>
+				<p style="romanType" xml:id="p7">Etemmä mennessä alkoi maa yletä ja taas aleta. Korkeaa paikkaa kutsuttiin <hi rend="expanded"><anchor xml:id="start3477"/>kukkulaksi<anchor xml:id="end3477"/>,</hi> ja kukkulan nousema ja laskeuma oli <hi rend="expanded"><anchor xml:id="start3478"/>mäki<anchor xml:id="end3478"/>.</hi> Ja jos se kukkula olisi korkea ja suuri,
+					kutsuttaisiin sitä <hi rend="expanded"><anchor xml:id="start3479"/>vaaraksi<anchor xml:id="end3479"/>;</hi> ja jos se olisi pitkä
+					ja kaitanen, sanottaisiin sitä <hi rend="expanded"><anchor xml:id="start3480"/>selännemaaksi</hi> eli
+					särkäksi<anchor xml:id="end3480"/>. Laskeuttuaan mäkeä alas tulivat lapset alhai<pb type="orig" n="128"/>selle
+					paikalle <choice><orig>kasden</orig><reg>kahden</reg></choice> vaaran väliin, ja sitä kutsuttiin <hi rend="expanded"><anchor xml:id="start3481"/>laksoksi<anchor xml:id="end3481"/>.</hi> Mutta jos se lakso olisi pieni, kutsuttaisiin sitä <hi rend="expanded"><anchor xml:id="start3482"/>notkoksi<anchor xml:id="end3482"/>.</hi></p>
+				<p style="romanType" xml:id="p8">Lakson läpi tultua poikkeusivat lapset maan-tieltä pois ja alkoivat nousta
+					vuoren rinnettä ylöspäin. Paikoittain oli rinne sileä, mutta paikoittain oli
+					siinä suuria <hi rend="expanded">rakoja,</hi> juurikuin vuori olisi
+					halkeillut. Siellä oli paljo suuria kivejä, joita kutsuttiin <hi rend="expanded">paasiksi.</hi> Ja kallioiden välillä oli <hi rend="expanded">halkeimia,</hi> joihin oli pudota, ja leveämpiä ja
+					vetipä väliä kutsuttiin <hi rend="expanded"><anchor xml:id="start3483"/>rotkoiksi<anchor xml:id="end3483"/>.</hi> Ylemmä tultua
+					näkivät lapset täällä olevan useita vuoreja pitkässä rivissä ja laksot ja
+					rotkot välillä, ja sitä kutsuttiin <hi rend="expanded"><anchor xml:id="start3484"/>vuorenselänneeksi<anchor xml:id="end3484"/>.</hi> Jos täällä olisi niinkuin Lapissa rivi korkeita
+					vuoria terävine lakeineen ja lunta lakeilla, kutsuttaisiin niitä <hi rend="expanded"><anchor xml:id="start3485"/>tuntureiksi<anchor xml:id="end3485"/>.</hi> Ja niiden välillä olisi synkkiä
+					louhikko-korpia ja autioita <anchor xml:id="start3486"/>vuomia<anchor xml:id="end3486"/>, joissa ei näkisi muuta kuin kiviä kivien
+					vieressä ja mätästä mättään vieressä.</p>
+				<p style="romanType" xml:id="p9">Tämä vuori on vissiin korkein koko mailmassa, sanoi Antti. Korkea on tämä
+					kyllä, sanoi isä, koska tämä on paljon korkeampi puita, huoneita ja kiviä,
+					jotka ovat tuolla alaalla lakeudella. Mutta muutamat vuoret ovat vielä
+					paljon korkeammat tätä. Ja niiden korkeutta vertailtavaksi lasketaan, kuin
+					korkeimman vuoren nimi on <anchor xml:id="start3487"/>Teiriharju<anchor xml:id="end3487"/>. Se on niin korkealla <anchor xml:id="start3488"/>merestä<anchor xml:id="end3488"/>, että jos
+					8 kirkontornia pantaisiin päälletysten seisomaan, tulisi kahdeksannen huippu
+					vasta Teiriharjun lakeen korkuiselle <note id="ftn1" n="*)" place="foot">Muist. Kirkontornin
+						laskemme 24 <anchor xml:id="start3513"/>syltää<anchor xml:id="end3513"/> eli 72 kyynärää eli 144 jalkaa korkeaksi. Teiriharjun
+						lae on siis 1,152 jalkaa korkealla meren pinnasta.</note>. Kuitenkin on
+					vielä paljon korkeampia vuoria muissa maissa. <anchor xml:id="start3489"/>Peltovuoma<anchor xml:id="end3489"/> Lapissa on yhtä
+					korkea kuin 13 kirkontornia ja <anchor xml:id="start3490"/>Kimborazo<anchor xml:id="end3490"/> Amerikassa on niin korkea kuin 180
+					kirkontornia päälletysten pystössä. Ja jos voisi sinne kiivetä suoraan ylös
+					tikapuita myöten, niin pitäisi niiden tika<pb type="orig" n="129"/>puut olla pitemmät
+					7:mää virstaa eli kolme-neljännespeninkulmaa pitkät.</p>
+				<p style="romanType" xml:id="p10">Mutta jos korkeain vuorten yli <choice><orig>kivetään</orig><reg>kiivetään</reg></choice>, mitä siellä toisella puolella näkyy?
+					kysyi Liisa. Tuleeko sieltä jo mailman ääri?</p>
+				<p style="romanType" xml:id="p11">Ei, sieltä tulee taas toisia lakeuksia ja toisia vuoria ja laksoja ja
+					kukkuloita ja mäkejä ja kankaita ja metsiä ja tuntureita, siksi kun
+					pysähdytään jonkun veden tykö. Niin hyödyllisesti ja kauniisti on maa luotu,
+					että yksi paikka ei ole toisensa näköinen. Jotka asuvat erilaisissa
+					paikoissa, tarvitsevat alinomaa vaihettaa toisilleen sitä, jota maa antaa
+					yhdessä paikassa ja jota puuttuu toisessa. Lakea-maan asukasten täytyy tuoda
+					metsästä hirtensä ja vuorista rautansa. Vuorimaiden asukasten täytyy tuoda
+					eloviljan ja maidon lakeilta mailta. Ja jotka asuvat suurissa metsissä,
+					niiden täytyy matkustaa muille tienoille saadakseen sitä, jota ei metsä
+					anna.</p>
+				<p style="romanType" xml:id="p12">Levähdämme nyt vähäisen tässä vuoren lakeella ja syömme iltaisemme. Tämä
+					puukko on taottu vuoren raudasta. Tämä leipä on leivottu lakean maan elosta.
+					Tämä kori on nijottu metsän juurista. Ympärillämme ja tuolla alempana meitä
+					levenee maa kesän viheriäisyydessä juurikuin kirjava taulu. Niin kauvas kuin
+					silmä eroittaa, ovat kaikki Jumalan työt täydellisiä ja viisaita. Ja
+					kuitenkin näemme tässä aivan pienen osan maata ja vielä paljon pienemmän
+					osan koko luotua mailmaa. Mutta jos kulkisimme alinomaa samalle suunnalle ja
+					kiipeisimme vuorten yli ja purjehtisimme merien ylitse, olisimmepa viimein
+					vaeltaneet ja kulkeneet koko maan ympäri.</p>
+				<p style="romanType" xml:id="p13">Niin, mennäänpä koko maan ympäri, huutivat molemmat lapset ilon innossa.
+					Lähdetään heti kohta ja tullaan huomenna jälleen takasi!</p>
+				<p style="romanType" xml:id="p14">Heidän rakasta isäänsä nauratti, ja hän sanoi: <anchor xml:id="start3491"/>ihmiset, joilla ovat käsissä
+					kaikki keinot, joita <anchor xml:id="start3493"/>koskoinkaan<anchor xml:id="end3493"/> on keksitty päästäväksi merien ja maiden
+					ylitse, tarvitse<pb type="orig" n="130"/>vat maan ympäri ennättääkseen vähintäänkin
+					vuoden<anchor xml:id="end3491"/>. Mutta jos me lähtisimme sille matkalle tänä päivänä, pysähtyisimme
+					kukatiesi jo ensimäisen <anchor xml:id="start3492"/>ojan<anchor xml:id="end3492"/> rannalle neuvontietämättöminä ylipääsyyn.
+					Kukatiesi kerran, isoiksi kasvettuanne, tekin menette isoon laivaan ja
+					purjehditte tuhansia peninkulmia maan ympäri. Mutta nyt palaamme
+					ilta-auringon valossa takasi pieneen majaamme. Sillä siinä on hyvä kotimme,
+					ja tämä maa on Suomi, oma rakas isänmaamme. Ja ei yhtään muuta maata koko
+					tämän suuren maan päällä ole meille niin rakasta ja kallista kaikkina
+					elämämme päivinä. Sen maan edestä tahdomme me elää ja sen maan edestä
+					saatamme kuolla. Tätä maata ymmärrämme me parhaite. Täällä asuivat isämme.
+					Täällä oli kätkyemme, jonka vieressä äitimme lauloi meille laulujaan. Näiden
+					<anchor xml:id="start3494"/>koivuin<anchor xml:id="end3494"/> ja kuusten alla olemme kasvaneet ja leikitelleet. Täällä on meillä
+					ollut suruja ja paljo iloa, huolia ja paljo rauhaa. Ja täällä, tässä samassa
+					maassa, isänmaassamme, suopi Jumala meille kerran haudan koivuin
+					varjoon.</p>
+				<p style="romanType" xml:id="p15">Ja koska jalkamme polkee maata, on meidän päämme vapaasti pystössä taivaan
+					sinistä kattoa kohti. Katso, näin tahtoo Jumala alinomaa osottaa meille,
+					että olemme kasvaneet maan tomusta, mutta olemme <anchor xml:id="start3495"/>aivotut<anchor xml:id="end3495"/> ahkeroimaan
+					olentomme kalliimman osan kanssa ylöspäin. Ja vaikka me rakastamme ja
+					<choice><orig>ihmettetemme</orig><reg>ihmettelemme</reg></choice> tätä ihanaa maata, niin ei tämä kuitenkaan ole sielumme oikea
+					ja ijankaikkinen koti. Se on korkeampi: se on Jumalan kaikkivaltiaan tykönä
+					taivaan korkeudessa.</p>
+					<head style="romanType" xml:id="h3"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3496"/>Fingalin<anchor xml:id="end3496"/>
+						luolasta.</hi></hi></head>
+					<p style="romanType" xml:id="p16"><anchor xml:id="start3497"/>Staffa’n saarella<anchor xml:id="end3497"/> Skotlannin maassa on mainio luola, jossa sadut sanovat
+						sen jalon uroon Fingalin asuneen. Siihen soudetaan veneellä merestä,
+						jonka vesi huuhtoo luolan sisustaa. Siellä luulee olevansa kauniissa
+						kirkossa, jossa on monia ihanoita patsaita ympäri seiniä. Ihmisten <pb type="orig" n="131"/>kädet eivät ole koskaan valmistanut mitään ihanampaa. Suuri
+						vuori on sen päällä juurikuin kattona, ja siitä tippuu alinomaa vettä,
+						jonka lorina sekaupi meren pauhuun. Välistä kuuluu sieltä kuin hiljainen
+						soitto. Se kuuluu niin kummalliselta, kun tuuli kulkee patsasten väliä,
+						ja luulisipa kuulevansa muinais-aikain ihmisten äänejä, jotka luolassa
+						etsivät suojaa raju-ilmalta.</p>
+					<head style="romanType" xml:id="h4"><hi rend="bold"><hi rend="expanded">Maan erinäisestä
+							muodosta.</hi></hi></head>
+					<p style="romanType" xml:id="p17">Limingossa Pohjanmaalla on niin suuri lakeus aivan niitty-maata, ettei
+						oikein voi nähdä yhdestä päästä toiseen. Isossa Kyrössä on yhtä iso
+						lakeus pelkkää peltoa. Siksi onkin näistä vanhastaan sanottu:</p>
+					<lg xml:id="lg18">
+						<l style="romanType"><anchor xml:id="start3498"/>Ison-Kyrön pelto ja Limingon niitty,</l>
+						<l style="romanType">Vertoja näille ei ole tietty.<anchor xml:id="end3498"/></l>
+					</lg>
+					<p style="romanType" xml:id="p19">Parolan kenttä Hämeenlinnan tykönä ja Helsingin kenttä Helsinkiä likellä
+						ovat niin laajoja, että monta tuhatta sotamiestä saattaa niillä
+						äkseerata samalla kertaa. Suurimpia kankaita Suomessa on Hämeen-kangas,
+						joka menee maan poikki. Siinä kasvaa hyvin suuria petäjiä ja maa on
+						ruskea kanervista. Mutta harvassa näkyy siellä <choice><orig>tuloa</orig><reg>taloa</reg></choice>, kun sitä
+						hietikko-maata ei voida suuretta vaivatta saada pelloksi. Suomessa ei
+						ole yhtään oikeata lakeaa aromaata, eikä sellaista aavikkoa, kuin on se
+						suuri Saharan aavikko Afrikassa. Siellä ei ole hyvä olla. Niin kauvas
+						kuin silmä ottaa, on siellä suunnatoin lakeus polttavaa hietaa, mutta
+						hyvin harvassa on pensasta eli puuta. Siellä kiljuu <choice><orig>Leijona</orig><reg><anchor xml:id="start3499"/>leijona</reg><anchor xml:id="end3499"/></choice> janoissaan.
+						Siellä juoksee se sukkela <anchor xml:id="start3500"/>kameli-kurki<anchor xml:id="end3500"/>. Ei kukaan ihminen voisi siellä
+						kulkea, jos eivät <anchor xml:id="start3501"/>kamelit<anchor xml:id="end3501"/>, joilla ajetaan selästä, saattaisi niin kauvan
+						kärsiä janoa nääntymättä. Mutta jossa lähde juoksee maasta, siihen
+						kasvaa ruoho ympärille <anchor xml:id="start3502"/>vihoittamaan<anchor xml:id="end3502"/>, ja siihen kasvaa puita, jotka
+						suojaavat matkamiestä.</p>
+					<p style="romanType" xml:id="p20">Maassamme ei näe tuulen ajavan <hi rend="expanded"><anchor xml:id="start3503"/>lentohietaakaan<anchor xml:id="end3503"/></hi>
+						pelloille ja niityille, jotka siitä muuttuvat <anchor xml:id="start3504"/>hieta-aukoiksi<anchor xml:id="end3504"/>. Harvoin
+						kuulee täällä puhuttavan <hi rend="expanded"><anchor xml:id="start3505"/>maanvierimisestä<anchor xml:id="end3505"/>,</hi>
+						jossa vesi kaivaa alasinpuolin suuria maakappaleita eli kukkuloita,
+						jotka sitte kukistuvat alas. Kuitenkin on sitäkin tapahtunut
+						jonkunkerran, niinkuin Halikossa liki Turkua. <anchor xml:id="start3506"/>Kerran putosi maa alas
+						myllyn alla.<anchor xml:id="end3506"/> Mylly kaatui syrjälleen, ja mylläri ei osannut ulos. Siinä
+						olikin seikka osata, kun ovi oli mennyt maata vasten.</p>
+					<pb type="orig" n="132"/>
+					<p style="romanType" xml:id="p21">Maassamme on monta vuorta, mutta ne eivät ole hyvin korkeita. Täällä on
+						myös useita pitkiä vuorenselänteitä ja <anchor xml:id="start3507"/>selännemaita<anchor xml:id="end3507"/>, joista muutamilla
+						ovat nimet, mutta monta kutsutaan yhteisellä nimellä Maanselkä. Monta
+						<anchor xml:id="start3508"/>kunnasta<anchor xml:id="end3508"/> ja laksoa näkee myös täällä. Kunnaalla on usein tupa, ja
+						laksossa juoksee usein <anchor xml:id="start3509"/>puro<anchor xml:id="end3509"/>. Sellaisissa tienoissa on monta mäkeä.
+						Hämeessä, Savossa ja Karjalassa kulkee tie usein selänteen yli, jossa
+						ovat korkeat mäet, niin että, selänteen harjalle tultua, näkee allaan
+						olevan <anchor xml:id="start3510"/>petäjäin<anchor xml:id="end3510"/> latvat ja kirkkoin tornit. Ja siinä on niin tiheässä
+						kukkuloita ja <anchor xml:id="start3511"/>alangoita<anchor xml:id="end3511"/>, että luulee näkevänsä kyrsän kyrsän vieressä,
+						ladottuna maan suurelle pöydälle, jonka Jumala on valmistanut
+						ihmiselle.</p>
+					<head style="romanType" xml:id="h5"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3512"/>Maamme.<anchor xml:id="end3512"/></hi></hi></head>
+					<lg xml:id="lg22">
+						<l style="romanType">Soi kallis maamme, Suomenmaa!</l>
+						<l style="romanType">Soi kauvas kuulumaan!</l>
+						<l style="romanType">Ei päivän kulta kukkulaa</l>
+						<l style="romanType">Valaise vettä, laksoa</l>
+						<l style="romanType">Rakasta niinkuin Pohjola,</l>
+						<l style="romanType">Suloinen Suomenmaa.</l>
+					</lg>
+					<lg xml:id="lg23">
+						<l style="romanType">On maamme köyhä kullaton,</l>
+						<l style="romanType">Kultaa kun kaivetaan.</l>
+						<l style="romanType">On vieras meistä huoleton;</l>
+						<l style="romanType">Mut maamme meille kallis on.</l>
+						<l style="romanType">Se soista, maista, saaristaan</l>
+						<l style="romanType">Suo kulta-antiaan.</l>
+					</lg>
+					<lg xml:id="lg24">
+						<l style="romanType">Ovatpa kosken kuohunnot,</l>
+						<l style="romanType">Ojamme aaltosat,</l>
+						<l style="romanType">Ja laulut, metsän huokunnot,</l>
+						<l style="romanType">Kesän ja talven yövalot</l>
+						<l style="romanType">Sydäntä niin suloittavat</l>
+						<l style="romanType">Ja meille rakkahat.</l>
+					</lg>
+					<pb type="orig" n="133"/>
+					<lg xml:id="lg25">
+						<l style="romanType">On täällä meille kaikille</l>
+						<l style="romanType">Suloa suotua.</l>
+						<l style="romanType">Jos onnemmekin vaihdellee,</l>
+						<l style="romanType">On synty-maa, sen saimma me,</l>
+						<l style="romanType">Se kallihimpi kaikkia,</l>
+						<l style="romanType">Parempi kultia.</l>
+					</lg>
+					<lg xml:id="lg26">
+						<l style="romanType">Ja täällä, tääll’ on Suomemme,</l>
+						<l style="romanType">Näemme kaikki sen.</l>
+						<l style="romanType">Iloisna nyt kädellämme</l>
+						<l style="romanType">Vedet ja maat me näytämme</l>
+						<l style="romanType">Sanoin: näettähän nyt sen,</l>
+						<l style="romanType">Tuon maamme herttasen!</l>
+					</lg>
+					<lg xml:id="lg27">
+						<l style="romanType">Ja jos me vielä vietäisiin,</l>
+						<l style="romanType">Jos kullan kunniaan,</l>
+						<l style="romanType">Asumihin iloisihin</l>
+						<l style="romanType">Ja kaikkein kyynelettömiin,</l>
+						<l style="romanType">Ois’ Suomehemme suotuisaan</l>
+						<l style="romanType">Halumme kulkemaan!</l>
+					</lg>
+					<head style="romanType" xml:id="h6"><hi rend="bold"><hi rend="expanded">Vuori ja lakso.</hi></hi></head>
+					<lg xml:id="lg28">
+						<l style="romanType">Se vahva vuori lausui: min’ oon tukena maan,</l>
+						<l style="romanType">Minusta virta hyökyy, ja myrskyt vastustan.</l>
+						<l style="romanType">On pilvessä mun pääni, näkevät kauvas sen,</l>
+						<l style="romanType">Ja rintani se raikuu jyrinät ukkosen.</l>
+					</lg>
+					<lg xml:id="lg29">
+						<l style="romanType">Ja kaunis lakso lausui: asunto ihmisten</l>
+						<l style="romanType">Ja virran juoksu tääll’ on, kukoistus kukkaisten.</l>
+						<l style="romanType">Ja karjat täällä syövät, ja linnut laulavat,</l>
+						<l style="romanType">Ja kelloin äänet kauniit ne täältä kuuluvat.</l>
+					</lg>
+					<lg xml:id="lg30">
+						<l style="romanType">Niin metsä ympärillä sanoi vihantana:</l>
+						<l style="romanType">Näin kaunihisti kaikki on Luoja laittanna;</l>
+						<pb type="orig" n="134"/>
+						<l style="romanType">Sen suurta kunniaa me <choice><orig>imeellä</orig><reg>ihmeellä</reg></choice> katsomme,</l>
+						<l style="romanType">Sen kauneutta maassa sulolla suosimme.</l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

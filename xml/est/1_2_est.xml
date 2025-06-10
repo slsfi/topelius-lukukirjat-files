@@ -1,0 +1,614 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Toinen Luku. Imettävistä eläimistä</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>2</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Toinen Luku. Imettävistä eläimistä</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head style="blackletter" type="section" xml:id="h1"><hi rend="bold">Toinen Luku.</hi></head> 
+				<head style="blackletter" type="section" xml:id="h2"><hi rend="bold expanded"><anchor xml:id="start2558"/>Imettävistä eläimistä<anchor xml:id="end2558"/>.</hi></head>
+				<p style="blackletter" xml:id="p1">Tule, veljeni. Tule, sisareni. Menemmepä nyt ulos. Jo seisomme kartanolla.
+					Ympärillämme on koko suuri luonto<choice><orig>?</orig><reg>.</reg></choice> Se on koko mailma, jota aistimillamme
+					käsitämme.</p>
+				<pb type="orig" n="19"/>
+				<p style="blackletter" xml:id="p2">Koko luonto on niinkuin kirja. Joka sitä kirjaa taitaa lukea, hänellä on
+					siitä iso ilo. Se kirja on täynnä kauniita kuvia. Se kirja on täynnä
+					hyödyllistä oppia. Siinä kirjassa on joka lehti täynnä Jumalan
+					viisautta.</p>
+				<p style="blackletter" xml:id="p3">Koko luonto on kuin suuri maa. Siinä maassa on monta valtakuntaa. Mitkä ovat
+					<anchor xml:id="start2559"/>luonnon kunnat<anchor xml:id="end2559"/>? Niitä on kolme. Ensimäinen on <anchor xml:id="start2560"/>eläinkunta<anchor xml:id="end2560"/>. Toinen on
+					<anchor xml:id="start2561"/>kasvikunta<anchor xml:id="end2561"/>. Kolmas on kivikunta.</p>
+				<p style="blackletter" xml:id="p4">Mennäänpä nyt ensin ulos siihen suureen eläinkuntaan. Ympärillämme on mailma
+					täynnä <anchor xml:id="start2562"/>eläviä olennoita<anchor xml:id="end2562"/>. Muutamat elävät aivan liki meitä omassa maassamme.
+					Muutamat asuvat muissa maissa aivan kaukana täältä. Muutamat ovat paljon
+					isommat meitä. Muutamat ovat pienemmät pienintä <anchor xml:id="start2563"/>sääskeä<anchor xml:id="end2563"/>. Kaikilla on
+					tarkoituksensa, jota varten ne elävät. Jumala ei ole niitä tyhjän vuoksi
+					luonut. Välistä ymmärrämme hänen tarkoituksensa. Välistä on se meille
+					salassa. Uskokaamme aina Jumalan ijankaikkista hyvyyttä.</p>
+					<head style="blackletter" xml:id="h3"><hi rend="bold">Kuinka kuningas <anchor xml:id="start2564"/>Leijona (Jalopeura)<anchor xml:id="end2564"/> kokosi
+							kansaansa.</hi></head>
+					<p style="blackletter" xml:id="p5">Olipa kerran kesällä. Leijona, joka on <anchor xml:id="start2565"/>eläinten<anchor xml:id="end2565"/> kuningas, istui
+						hallitus-istuimellansa metsässä. Siinä olivat kaikki eläimet, jotka
+						maalla elävät. Linnut lentelivät kauniissa aamu-ilmassa. Likellä oli
+						<anchor xml:id="start2566"/>meri<anchor xml:id="end2566"/>, jonka vesi oli täynnä monellaisia <anchor xml:id="start2567"/>eläviä<anchor xml:id="end2567"/>. Kaikki kuulivat leijonan
+						äänen, joka kiljui metsässä.</p>
+					<p style="blackletter" xml:id="p6">Näin sanoi leijona. Minä olen kutsunut teidät kaikki, jotka mailmassa
+						asutte. Minä tahdon lukea teidän määränne. Minä tahdon tietää kansani.
+						Kivet eivät kuulu valtakuntaani. <anchor xml:id="start2568"/>Kasvitkaan<anchor xml:id="end2568"/> eivät kuulu siihen. Kivi ei
+						voi itsestään liikkua. Kasvi imee ruokansa juurillaan. Mutta eläin <pb type="orig" n="20"/>voipi liikkua mihinkä tahtoo. Eläimellä on suu, jolla syöpi.
+						Eläin tuntee mikä käypi kipeästi. Eläin tuntee mikä tekee hyvää.
+						Eläimessä on luonto, josta tietää ilman opitta tehdä mitä hänellä on
+						toimena mailmassa.</p>
+					<p style="blackletter" xml:id="p7">Leijona kutsui Koiran. Mikä sinä olet? Minä olen <hi rend="expanded">imettävä eläin.</hi> Miksikä se? Minä synnytän eläviä penikoita.
+						Minä imetän niitä. Minä hengitän keuh’oilla. Minulla on lämmin veri. —
+						Se on hyvä. Mene tiehesi.</p>
+					<p style="blackletter" xml:id="p8">Leijona huuti <anchor xml:id="start2569"/>Varpuisen<anchor xml:id="end2569"/> tykönsä. Mikä sinä olet? Minä olen <hi rend="expanded">lintu.</hi> Miksikä se? Minä munin pesääni. Minä
+						haudon munistani pojat. Minä hengitän keuhoilla. Minulla on lämmin veri.
+						Minulla on höyhenpuku päällä. Minä lennän siivillä. Minä kävelen
+						kahdella jalalla. — Se on hyvä. Lennä matkoihisi.</p>
+					<p style="blackletter" xml:id="p9">Leijona kutsui <anchor xml:id="start2570"/>Käärmeen<anchor xml:id="end2570"/> eteensä. Mikä sinä olet? Minä olen <hi rend="expanded"><anchor xml:id="start2571"/>matava elävä<anchor xml:id="end2571"/>.</hi> Miksikä se? Minä matelen maata.
+						Minä hengitän keuhoilla. Minulla on kylmä veri. — Se on hyvä. Matele
+						matkoihisi.</p>
+					<p style="blackletter" xml:id="p10">Leijona huuti Hauvin eteensä. Mikä sinä olet? Minä olen <hi rend="expanded">kala.</hi> Miksikä se? Minä päästän mätini veteen.
+						Minä hengitän kituisilla. Minä uin evillä. Minulla on kylmä veri.
+						Ruumiini peittävät suomut. — Se on hyvä. Ui matkoihisi.</p>
+					<p style="blackletter" xml:id="p11">Leijona kutsui <anchor xml:id="start2572"/>Perhon<anchor xml:id="end2572"/> nimeltä. Mikä sinä olet? Minä olen <hi rend="expanded"><anchor xml:id="start2573"/>nivel-elävä<anchor xml:id="end2573"/>.</hi> Miksikä se? Ruumiini on monesta
+						niveleestä. Muutamat meistä ovat toisellaisia. Muilla eläimillä on
+						luinen selkäranka. Minulla ei ole sitä ollenkaan. Minä hengitän ruumiini
+						hienoista reijistä. Vereni on kylmä. Minulla on kuusi jalkaa. Minä
+						munin. Munasta tulee toukka. Toukasta tulee <anchor xml:id="start2574"/>kotero<anchor xml:id="end2574"/>. Koterosta ma<pb type="orig" n="21"/>taa <anchor xml:id="start2575"/>sikiäni<anchor xml:id="end2575"/> täysikasvuisena ulos. — Se on hyvä. Lennä
+						tiehesi.</p>
+					<p style="blackletter" xml:id="p12">Leijona kutsui <anchor xml:id="start2576"/>Simpukan<anchor xml:id="end2576"/>. Mikä sinä olet? Minä olen <hi rend="expanded"><anchor xml:id="start2577"/>nilvi-elävä<anchor xml:id="end2577"/>.</hi> Miksikä se? Ruumiini on aivan pehmeä. Minä asun
+						kovassa kuoressa. Minulla ei ole niveliä ruumiissa. Minä liikun aivan
+						hiljaa. — Se on hyvä. Mada hiljaa tiehesi.</p>
+					<p style="blackletter" xml:id="p13">Leijona puhui vielä. Tunnenpa ne <hi rend="expanded">kuusi
+							eläinluokkaa.</hi> Jokaisen luokan ja’an järjestyksiin. Jokaisen
+						järjestyksen ja’an sukuihin. Jokaisen suvun ja’an lajihin. Sen saamme
+						sitte paremmin oppia. Itse olen imettävä eläin. En saata lentää linnun
+						lailla. En voi mataa käärmeen tavalla. En voi uida niinkuin kala. En voi
+						muuttauda perhon lailla. En voi asua kuoressa simpukan tavalla. Siksi
+						menkööt nyt muut pois. Imettävät eläimet vaan kutsun valta-istuimeni
+						eteen.</p>
+					<p style="blackletter" xml:id="p14">Eläpä vielä. Tuolla näen sen ylevän <hi rend="expanded">ihmisen</hi>
+						tulevan. Mitä sinä tahdot, ihminen? Yksinäsi seisot sinä suorana
+						niinkuin <anchor xml:id="start2578"/>petäjä<anchor xml:id="end2578"/> metsässä. Yksinäsi katsot sinä pysty-päisenä sinistä
+						taivasta kohti.</p>
+					<p style="blackletter" xml:id="p15">Ihminen katsoi majesteetillisesti kokouneita eläimiä. Kuningas Leijona,
+						sinä olet kutsunut tänne kaikki, jotka imettävät <anchor xml:id="start2579"/>sikiöitään<anchor xml:id="end2579"/>. Niin teen
+						minäkin. Ruumiini on monissa toimissa eläinten ruumiin lainen. Siksi
+						saat lukea minunkin <anchor xml:id="start2580"/>imettäväin eläinten<anchor xml:id="end2580"/> luokkaan. Mutta kaikkivaltias
+						Jumala on antanut minulle kuolemattoman sielun. Hänen viisautensa on
+						antanut minulle järjen valon. Suuni taitaa puhua. Tahtoni on vapaa.
+						Saatan nauraa. Saatan itkeä. Sitä eivät saata eläimet. Siksi olen
+						ylevämpi kaikkia muita eläimiä. Kuningas leijona ei ole pää-mieheni.
+						Hyvästi, herra kuningas. Huomenna otan sinun kiini rautahäkkiin.</p>
+					<pb type="orig" n="22"/>
+					<p style="blackletter" xml:id="p16">Leijona pudisti vihassa pitkää harjaansa. Hyvästi, ihminen. Sinä et kuulu
+						minun valtakuntaani. Huomenna revin sinun penikoilleni ruuaksi.</p>
+					<p style="blackletter" xml:id="p17">Ihminen meni pois, ylevänä kuin kuningas. Nyt vapisivat kaikki eläimet.
+						Leijona näki aran <hi rend="expanded"><anchor xml:id="start2581"/>apinan<anchor xml:id="end2581"/></hi> kiipeävän puuhun.
+						Eläpä vielä. Etkö sinä ole ihminen?</p>
+					<figure type="illustration"><graphic url="10_1_001.jpg"/></figure>
+					<p style="blackletter" xml:id="p18">Apina, joka muutoin mielellään tahtoi olla ihmisenä, kielsi nyt
+						oikeastaan sen olevansa. En suinkaan ole mikään ihminen. Niin kaunis en
+						suinkaan ole. Enhän minä kule aivan suorana. Jalkani näyttävät käsiltä.
+						Useoilla meillä on häntä. Kertoisin sinulle jotakin, herra kuningas.
+						<anchor xml:id="start2582"/>Jumala loi ihmisen kuvakseen.<anchor xml:id="end2582"/> Siksi luotiin hän alusta niin kauniiksi.
+						Mutta Jumalan vihollinen kadehti tätä. Herra Jumala, suo minunkin luoda
+						olento. Jumala soi sen. Luotiinpa apina, joka matkii sitä ilkeätä, jota
+						ihmisellä on. Siksi on minulla ruma ruumis. Siksi on minulla häjy sisu.
+						Minä varastan. Minä olen ahnas. Minä olen kavala. Kuitenkin armahti
+						Jumala minua. Apina raukka, annan sinulle yhden ihmisen hyvistä
+						taipumuksista. Sinun pitää rakastaa lapsiasi yhtä hellästi kuin
+						ihminenkin rakastaa omiaan.</p>
+					<p style="blackletter" xml:id="p19">Leijona antoi apinan mennä. Samassa tuli <hi rend="expanded"><anchor xml:id="start2583"/>nahkasiipi<anchor xml:id="end2583"/></hi> lentäen. Oletko sinä lintu? En, herra kuningas.
+						Minä lennän pitkäin kynsieni välillä olevilla hienoilla nah’oilla.
+						Imettävä eläin olen minä, joka koko talven nukun pimeissä koloissa.
+						Kesällä lentelen minä ainoastaan öillä. Minä kerron sinulle jotakin,
+						herra kuningas. Muutamana iltana ajoin surisevaa <anchor xml:id="start2584"/>sittisontiaista<anchor xml:id="end2584"/>. Olipa
+						siinä poika, joka huiski ilmaan notkealla <anchor xml:id="start2585"/>saikaralla<anchor xml:id="end2585"/>. Minä len<pb type="orig" n="23"/>nin äänen perässä. Saikara kävi minuun. Putosinpa maahan. Poika, joka
+						otti minun, elätti minua vankina häkissä.</p>
+					<figure type="illustration"><graphic url="10_1_002.jpg"/></figure>
+					<p style="blackletter" xml:id="p20">Leijona antoi nahkasiiven lentää. Puhaltipa <hi rend="expanded"><anchor xml:id="start2586"/>valaskala<anchor xml:id="end2586"/></hi> vettä korkealle meren pinnasta. Oletko sinä kala?
+						En, herra kuningas. Minä synnytän eläviä sikiöitä, jotka imevät
+						maitoani. Siksi olen imettävä eläin, joka hengitän ilmaa. Minä kerron
+						jotakin sinulle, herra kuningas. Kerran ajoin <anchor xml:id="start2587"/>silliä<anchor xml:id="end2587"/> syvässä meressä.
+						Purjehtipa siinä laiva, joka lähetti ulos veneen. Mies nakkasi veneestä
+						selkääni terävän keihään, joka oli köydessä kiini. Uinpa useita
+						<anchor xml:id="start2588"/>peninkulmia<anchor xml:id="end2588"/> vetäen venettä perässäni. Viimein löin pyrstölläni veneen
+						kumoon. Ihminen, joka keittää raania ihrastani, väjyy henkeäni. Minä
+						olen suurin eläin, mitä on. Kuitenkin on ihminen tappanut monta sataa
+						veljistäni. <hi rend="expanded"><anchor xml:id="start2589"/>Hylekin<anchor xml:id="end2589"/>,</hi> jolla on pää kuin
+						koiralla, on imettävä eläin, joka elää vedessä. <hi rend="expanded"><anchor xml:id="start2590"/>Saukko<anchor xml:id="end2590"/>,</hi> joka pyytää kaloja, on samallainen eläin.</p>
+					<p style="blackletter" xml:id="p21">Leijona tuskauntui. Ui tiehesi, valaskala. Sinä olet kuitenkin <hi rend="expanded">meri-eläin.</hi> Kuulisin vielä jotakin enempätä <hi rend="expanded">maa-eläimistä.</hi> Kuulisin niistä, jotka ovat <hi rend="expanded">kesyjä.</hi> Kuulisin niistä, jotka ovat <hi rend="expanded">kesyttömiä.</hi> Niiden pitää antaa minulle kertomus
+						elämästään.</p>
+					<p style="blackletter" xml:id="p22">Tulivat siis imettävät eläimet leijonan istuimen eteen. Ne kertoivat
+						monta kummallista asiaa, joita leijona mielellään kuunteli. Et vielä saa
+						kuulla kaikkia mitä ne sanoivat itsestään. Siitä tulisi suuri kirja.
+						Mutta se, joka tarkasti kuuntelee, saapi tietää entistä enemmän.</p>
+				
+				<pb type="orig" n="24"/>
+					<head style="blackletter" xml:id="h4"><hi rend="bold">Mitä koti-eläimet kertoivat.</hi></head>
+					<p style="blackletter" xml:id="p23">Koira murisi leijonalle. Sinä uskollinen koira, mitä sinulla on
+						sanomista? Alinomaa haukut sinä isäntäsi ovella.</p>
+					<p style="blackletter" xml:id="p24">Koira vastasi. Uskollinen kyllä olen, herra kuningas. Häpeän tuota
+						kettua, sukulaistani. <anchor xml:id="start2591"/>Susi<anchor xml:id="end2591"/>, riitaveljeni, minua harmittaa. Sukulaisteni
+						vuoksi olen <anchor xml:id="start2592"/>tullut <anchor xml:id="start2593"/>peto-eläinten<anchor xml:id="end2593"/> lukuun<anchor xml:id="end2592"/>. Kuitenkin olen uskollisin
+						koti-eläimistä, jotka seuraavat ihmistä totellen. Minä olen ihmisen
+						uskollisin palvelija. Minä vartioin hänen kartanoansa. Metsässä etsin
+						hänelle saalista. Kylmimmissä maissa vedän hänen rekeänsä. Me olemma
+						monta eri-näköistä veljestä. <anchor xml:id="start2594"/>Pentukoira<anchor xml:id="end2594"/> on välistä niin pieni kuin
+						rotta. <anchor xml:id="start2595"/>Englanninkoira<anchor xml:id="end2595"/> on välistä vasikan kokonen. Vinttikoiralla on
+						terävä kuono. <anchor xml:id="start2596"/>Rakkikoiralla<anchor xml:id="end2596"/> on tölppä kuono. Mäyräkoiralla ovat lyhyet
+						jalat. <anchor xml:id="start2597"/>Villakoiralla<anchor xml:id="end2597"/> on villa päällä. Kaikki olemme samanlajisia koiria.
+						Naaraani on narttu. Sikiäni on penikka. Me olemma viisaimmat eläimet.
+						Meillä on tarkin vainu. Sillä tunnemma me askeleet. Monia keinoja opimme
+						ihmisten hyödyksi. Usein olemme pelastaneet lapsen, joka oli pudonnut
+						mereen. Palvelinpa kerran miestä, joka eksyi talvella. Tuli pyry-ilma,
+						joka hautasi hänen syvään lumen alle. Sinne hän kyllä olisi paleltunut.
+						Mutta minä paneusin maata hänen rinnallensa, joka siitä pysyi lämpimänä.
+						Haukuinpa kaikin voimin. Viimein tuli väkeä, joka vei isäntäni lämpimään
+						tupaan.</p>
+					<p style="blackletter" xml:id="p25">Leijona nyökäytti päätään tytyväisenä. Uskollista palvelijaa ei voida
+						kullalla palkita.</p>
+					<pb type="orig" n="25"/>
+					<figure type="illustration"><graphic url="10_1_003.jpg"/></figure>
+					<p style="blackletter" xml:id="p26"><hi rend="expanded">Kissa</hi> köyristi selkäänsä naukuen leijonan
+						edessä. Herra kuningas, minä olen likeinen sukulaisesi. Me molemmat
+						kuulumma kissan sukuun, joka saattaa vetää kyntensä piiloon. Sukumme on
+						parhaimmin <anchor xml:id="start2598"/>varustettu<anchor xml:id="end2598"/> eläinten seassa. Siksi olenkin oikein luontoni
+						mukainen peto. Varo itseäsi, lintu, joka nokit siemeniä maasta. Varo
+						itseäsi, <anchor xml:id="start2599"/>rotta<anchor xml:id="end2599"/>, joka katselet reijästäsi ulos. Minä väjyn sinua. Minä
+						kyyristyn alas. Minä hyppään. Isken kynteni armahtamatta niskaasi.
+						Semmoinen on oikea haluni. Minä tapan kaikki ne, jotka ovat heikommat
+						minua. Kuitenkin olen kesyttynyt ihmisen palveluksessa. Hän silittää
+						säihkyvää selkääni. Minä nukun hänen polvellansa. Minä vartioitsen hänen
+						<anchor xml:id="start2600"/>tallellushuonettansa<anchor xml:id="end2600"/>. Kauniit sikiäni leikitsevät hänen lastensa kanssa.
+						Hän kiittää siisteyttäni. <anchor xml:id="start2601"/>Kissa pesee silmiänsä. Saammepa vieraita.<anchor xml:id="end2601"/>
+						Mutta eipä parane paha sisuni hyvyydestä. Minä olen julma. Minä olen
+						viekas. Minä voin hyljätä parhaan ystäväni. Minä saatan kynsiä sitä
+						kättä, joka vasta antoi minulle ruokaa.</p>
+					<p style="blackletter" xml:id="p27">Leijona pudisti suutuksissa pitkää harjaansa. Mene, kissa. Olet kyllä
+						hyvin kaunis. Mutta luontosi on häjy. Ennen olkoon ruumiini ruma kuin
+						sydämeni häjy.</p>
+				<p style="blackletter" xml:id="p28"><hi rend="expanded"><anchor xml:id="start2602"/>Hevonen<anchor xml:id="end2602"/></hi> hirnui. Minä olen ylevin koti-eläimistä.
+						Minä olen kaunis. Minä olen väkevä. Minä olen kärsivällinen. Minä olen
+						oppivainen. Minä olen ihmisen hyödyllisin palvelija useammissa
+						maakunnissa maan päällä. Hän naulaa kavioihini rautaset kengät. Hän
+						täyttää tyynynsä häntäni jouhilla. Minä vedän hänen kuormaansa. Hän
+						ratsastaa selässäni. Sodassa kannan minä herraani <pb type="orig" n="26"/>vihollisten pajunetteja vastaan. Välistä olen minä ori. Välistä
+						kutsutaan minua ruunaksi. Naaraani nimi on tamma. Sikiäni nimitetään
+						varsaksi. Punanen veljeni on <anchor xml:id="start2603"/>voilakka<anchor xml:id="end2603"/>. Tumman punanen on raudikko.
+						Harmaan veljeni nimi on hiirenkarva. Kaksikarvalla on vaaleoita karvoja
+						tummempain seassa. <anchor xml:id="start2604"/>Papumuksella<anchor xml:id="end2604"/> on tummia pilkkoja valkiassa nahassa. Se
+						laiska <hi rend="expanded">aasi,</hi> jolla ovat pitkät korvat, on
+						sukulaiseni eteläisimmissä maissa. Karvoja kaulassani kutsutaan
+						harjaksi. Minä juosta hölkkäsen. Minä juoksen. Minä laukkaan. Usein
+						lyöpi herrani minua armahtamatta. Silloin on uskollisessa mielessäni
+						suru ihmisen kiittämättömyydestä.</p>
+					<figure type="illustration"><graphic url="10_1_004.jpg"/></figure>
+					<p style="blackletter" xml:id="p29">Leijona kiitti hevosen ylevyyttä. Miksikä sinä, joka olet niin väkevä,
+						kärsit ihmisen kovuutta?</p>
+					<p style="blackletter" xml:id="p30">Herra kuningas, minä tiedän tarkoitukseni. Jumala on pannut minun
+						palvelijaksi maan päälle. Moni ihminen rakastaa minua hyvin. Ne hoitavat
+						minua hyvänä kumppaninansa. Minä tunnen <pb type="orig" n="27"/>herrani äänen. Minä
+						syön leipää hänen kädestänsä. Niin on hänen hoitonsa minulla
+						palkkana.</p>
+					<figure type="illustration"><graphic url="10_1_005.jpg"/></figure>
+					<p style="blackletter" xml:id="p31"><hi rend="expanded"><anchor xml:id="start2605"/>Härkä<anchor xml:id="end2605"/></hi> mölisi. Katsoppa minuakin, herra kuningas.
+						Minä olen niiden hyödyllisten <hi rend="expanded"><anchor xml:id="start2606"/>raavas-eläinten<anchor xml:id="end2606"/></hi>
+						isä. Sukuni, jolla ovat sarvet, kutsutaan senvuoksi <hi rend="expanded"><anchor xml:id="start2607"/>sarvieläimiksi<anchor xml:id="end2607"/>.</hi> Me kuulumma <hi rend="expanded"><anchor xml:id="start2608"/>märehtiviin
+							eläimihin<anchor xml:id="end2608"/>.</hi> Me purekselemma kaksi kertaa ruohot, joita syömme.
+						Me kulemma yhdessä karjassa laitumella. Saattanenpa olla kukatiesi
+						kömpelö. Mahdollisesti saatat pitää minua tyhmänä. Mutta jäykkä
+						kuormanvetäjä minä olen. Lihani on ihmisen voimallinen ruoka. Vuotani
+						parkitaan nahaksi. Talistani kastetaan kynttilöitä. Sarvistani tehdään
+						kampoja. Mutta teurastaja ei ole minusta mieluinen. Sonni on nimeni
+						välistä. Naaraani nimi on lehmä. Sen hyvästä maidosta saadaan kermaa.
+						Siitä saadaan viiliä. Tästä kirnutaan voita, jota lapset panevat
+						mielellään leivälle. Vanhimman tyttäreni nimi on hieho. Nuorin lapseni
+						on vasikka. Elä ärsytä minua, herra kuningas. Silloin pusken sinua
+						käyrillä sarvillani.</p>
+					<p style="blackletter" xml:id="p32">Leijona nyökäytti päätään leikillään. Ihminen kutsuu sitä, joka on
+						uppiniskanen, härkäpääksi. Rehellinen otus sinä kuitenkin olet. Tunnen
+						useita sukulaisiasi lämpimissä maissa. Niiden seassa on se väkevä <hi rend="expanded"><anchor xml:id="start2609"/>puhvelihärkä<anchor xml:id="end2609"/>.</hi> Niiden seassa on <hi rend="expanded"><anchor xml:id="start2610"/>kameli<anchor xml:id="end2610"/>,</hi> jota kutsutaan erämaan laivaksi. Niiden
+						seassa on kyttyräselkänen <anchor xml:id="start2611"/>dromedario<anchor xml:id="end2611"/>.</p>
+					<p style="blackletter" xml:id="p33"><hi rend="expanded">Lammas</hi> määkyi. Minäkin kuulun märehtiviin
+						eläimiin. Isäni, jolla ovat sarvet, kutsutaan jääräksi. Äitini nimi on
+						uuhi. Sikiäni nimi on <pb type="orig" n="28"/>karitsa. Minä olen turvatoin eläin,
+						joka vastuksetta tapetaan. <anchor xml:id="start2612"/>Siksi on kutsuttu Vapahtajaamme Jesusta
+						Jumalan karitsaksi.<anchor xml:id="end2612"/> Minä olen ensimäinen eläin, joka on ihmisiin
+						kesyttynyt. <anchor xml:id="start2613"/>Siksi kutsutaan jo <anchor xml:id="start2614"/>Aabeli <anchor xml:id="start2615"/>Aadamin<anchor xml:id="end2615"/> poika<anchor xml:id="end2614"/> lammasten paimeneksi.<anchor xml:id="end2613"/>
+						Minusta on ihmiselle paljo hyötyä. Hän keritsee minulta villan, joka
+						sitte langoiksi kehrätään. Langoista kudotaan monellaista vaatetta,
+						josta saadaan lämpimiä vaatteita. Niistä kudotaan myös pehmeitä sukkia.
+						Nahoistani tehdään turkkia. Lihastani tulee hyvä ruoka.</p>
+					<figure type="illustration"><graphic url="10_1_006.jpg"/></figure>
+					<p style="blackletter" xml:id="p34">Leijona vastasi ystävällisesti. Lakeamielinen sinä kyllä olet. Minä
+						tunnen sukulaisesi, partavan <hi rend="expanded"><anchor xml:id="start2616"/>vuohen<anchor xml:id="end2616"/>,</hi> jonka uros
+						kutsutaan pukiksi. Järjestykseesi kuuluu sekin kaunis <anchor xml:id="start2617"/>peura<anchor xml:id="end2617"/>, jolla ovat
+						haaraset sarvet. Siihen kuuluu se iso <hi rend="expanded"><anchor xml:id="start2618"/>hirvi<anchor xml:id="end2618"/>,</hi>
+						jota ajetaan metsissä. Siihen kuuluu se sukkela <hi rend="expanded"><anchor xml:id="start2619"/>porokin<anchor xml:id="end2619"/>,</hi> joka vetää Lappalaisen pulkkaa
+						pohjois-<anchor xml:id="start2620"/>tuntureilla<anchor xml:id="end2620"/>.</p>
+					<figure type="illustration"><graphic url="10_1_007.jpg"/></figure>
+					<p style="blackletter" xml:id="p35"><hi rend="expanded">Sika</hi> röhki. Katsoppa minuakin, herra kuningas.
+						Minä olen siivoton otus, joka mielelläni tulen lijassa toimeen. Minä
+						tongin maata turvallani, jota sanotaan kärsäksi. Isäni nimi on karju.
+						Äitini nimi on emäsika. Lapseni nimi on porsas. Ihminen, joka ylenkatsoo
+						minun, syöpi mielellään lihaani. Siitä saadaan läskiä. Siitä saadaan
+						kinkkua. Siitä saadaan sylttyä. <anchor xml:id="start2621"/>Harjaksistani tehdään harjoja, joilla
+						<anchor xml:id="start2622"/>pellavia<anchor xml:id="end2622"/> harjataan.<anchor xml:id="end2621"/> Kesyttömän veljeni nimi on <anchor xml:id="start2623"/>metsäsika<anchor xml:id="end2623"/>. <hi rend="expanded"><anchor xml:id="start2626"/>Siilillä<anchor xml:id="end2626"/></hi> ovat pitkät piikit selässä.</p>
+					<p style="blackletter" xml:id="p36">Leijona vastasi. Tunnen muutaman ison eläimen samasta järjestyksestä,
+						johon sinäkin kuulut. Kerran kulin etelämaissa, joissa aurinko on kuuma.
+						Siellä kohtasin hirveän kummallisen eläimen, jota <pb type="orig" n="29"/>kutsuttiin
+							<hi rend="expanded"><anchor xml:id="start2627"/>elehvantiksi<anchor xml:id="end2627"/>.</hi> Näin hevosen menevän suorana
+						hänen vatsansa alate. Suussa oli sillä kaksi hirmuisen isoa hammasta,
+						joista saadaan sitä kallista elehvantin-luuta. Se pani ruokaa suuhunsa
+						pitkällä turvalla, jota kutsuttiin kärsäksi. Tällä saattoi hän toimittaa
+						kummallisia asioita. Sillä saattoi hän nostaa ihmisen ylös. Ihmiset
+						olivat kesyttäneet hänen. Ne olivat rakentaneet hänelle selkään tornin,
+						jossa 20 (kaksikymmentä) sotamiestä asui.</p>
+					<figure type="illustration"><graphic url="10_1_008.jpg"/></figure>
+					<p style="blackletter" xml:id="p37">Tulipa nyt kova karjumisen meteli metsässä. Arat koti-eläimet pakenivat
+						peljästyneinä ihmisten asuntoihin. Pedot tulivat leijonan istuimen
+						eteen.</p>
+					<head style="blackletter" xml:id="h5"><hi rend="bold">Mitä pedot kertoivat.</hi></head>
+					<p style="blackletter" xml:id="p38">Ne tunnustivat leijonalle kaiken julmuutensa. Me elämme enimmästi muiden
+						eläinten lihasta. Jumala on antanut meille terävät kynnet, joilla
+						tartumme saaliisemme. Suussa ovat meillä terävät hampaat, joilla revimme
+						eläimen, jonka olemme saaneet kiini. Yöllä olemme pyydössä. Päivällä
+						nukumme luolissamme. Emme tule koskaan oikein kesyiksi. Välistä ovat
+						ihmiset ottaneet meiltä penikat pesästä. Ne ovat antaneet meille ruokaa.
+						Me olemme kasvaneet isoiksi heidän taloissansa. Olemme olleet jonkun
+						ajan nöyrinä ihmisten vallassa. Olemmepa joskus nähneet vertä juoksevan.
+						Jonkun kerran on kesy eläin tullut meitä likelle. Kohta on tullut raju
+						luontomme takasi. Me olemma repineet vahtimme, jotka ovat antaneet
+						meille ruokaa.</p>
+					<pb type="orig" n="30"/>
+					<figure type="illustration"><graphic url="10_1_009.jpg"/></figure>
+					<p style="blackletter" xml:id="p39"><hi rend="expanded">Tiikeri</hi> karjui hirmuisesti. Tunnetko minua,
+						herra kuningas? <anchor xml:id="start2628"/>Kissan-sukuun<anchor xml:id="end2628"/> kuulumme kaikki, jotka olemme julmimpia
+						petoja. Haluatko tietää muotoani? <choice><orig>Halaatko</orig><reg>Haluatko</reg></choice> tietää voimaani? Katso
+						tarkasti kissaa, joka on vähäisenä kuvanani. Ajattele kissaa pienen
+						hevosen kokoisena. Varo itseäsi, herra kuningas. Minä en säästä yhtään
+						elävää, johonka pääsen kiini hampaillani. Minä murhaan huvikseni. Minä
+						olen kavala peijakas, ja väjyn heikompia eläimiä, jotka sammuttavat
+						janoansa hetteistä. Minä revin pyytäjän, jonka mieli tekee papumusta
+						nahkaani.</p>
+					<figure type="illustration"><graphic url="10_1_010.jpg"/></figure>
+					<p style="blackletter" xml:id="p40"><hi rend="expanded">Leijona</hi> kiljui vihassa. Minäkin olen
+						kissan-sukua. Minä tunnen teidät kaikki, jotka siihen kuulutte. Kavala
+						tiikeri, minä tunnen sinun hyvin. Minä tunnen <hi rend="expanded">ilveksen</hi> <anchor xml:id="start2629"/>pohjan<anchor xml:id="end2629"/> metsissä. Minä tunnen <hi rend="expanded"><anchor xml:id="start2630"/>pantterin<anchor xml:id="end2630"/>.</hi> Minä tunnen <hi rend="expanded"><anchor xml:id="start2631"/>leopardin<anchor xml:id="end2631"/>.</hi>
+						Kaikki olette te viekkaita murhaajia. Minä häpeän sukulaisiani. Minä
+						olen myös jalomielisin. En unhota koskaan sitä, joka on minulle tehnyt
+						hyvää. <anchor xml:id="start2632"/>Olipa kerran orja nimeltä Androkles, joka pakeni pois
+						vainojiltaan. Hän kohtasi minun metsässä. Hän otti pois
+						orjantappurapiikin haavoitetusta jalastani. Kiitollisuudesta tulin hänen
+						ystäväksensä. Kauvan asui hän suojassa luolassani. Mutta muutamana
+						päivänä saivat ihmiset minun kiini. Ystävänikin tuli vangiksi. Neljään
+						päivään en saanut ruokaa. Ihmiset, julmemmat minua, nakkasivat ystäväni
+						Androkleen jalkaini eteen. Ne kiusasivat minua kovasti. Nälkäinen <pb type="orig" n="31"/>leijona, syö nyt ystäväsi. Mutta minä köyristyin
+						kiitollisena Androkleen edessä. Minä näytin julmia hampaitani niille,
+						jotka mielivät tarttua häneen. Silloin liikkui mieli kaikilla, jotka
+						tämän näkivät. Jalomielinen leijona, ystäväsi on vapaa. Niin päästivät
+						Androkleen irti uskollisuuteni tähden.<anchor xml:id="end2632"/></p>
+					<figure type="illustration"><graphic url="10_1_011.jpg"/></figure>
+					<p style="blackletter" xml:id="p41"><hi rend="expanded"><anchor xml:id="start2633"/>Karhusta<anchor xml:id="end2633"/></hi> tuntui tämä kertomus hyvältä. Hän
+						mörisi hyvillä mielin. Herra kuningas, ymmärrän jalomielisyytesi. Varo
+						itseäsi käpäläni lyönnistä, jolla on kahdentoista miehen voima. Varo
+						itseäsi julmemmalta veljeltäni <anchor xml:id="start2634"/>jääkarhulta<anchor xml:id="end2634"/>, joka asuu ylhäällä meren
+						jäillä. Minä olen herrana pohjan metsissä. Siellä valmistan pesäni,
+						jossa makaan talvella. Siellä syön marjoja mättäiltä. Siellä makustelen
+						<anchor xml:id="start2635"/>mettiäisten<anchor xml:id="end2635"/> hunajaa. Välistä kaadan talonpojan lehmän, jonka sitte syön
+						suuhuni. Siksi pyytää minua metsästäjä, joka käyttää karvasen turkkini
+						peitoksensa talvella. Usein tappelen silloin henkeni edestä. Välistä
+						kohtaan pieniä lapsia, jotka ovat eksyneet metsässä. Kohta tulee heidän
+						äitinsä, joka hädissään etsii heitä. En minä tee pahaa lapsille. En minä
+						tee pahaa äitille. Hiljaa menen pois niiden tieltä.</p>
+					<p style="blackletter" xml:id="p42">Leijona nyökäytti päätään hyvin leikillisesti. Karhu äijä on hyvä mies.
+						Mutta ei hän puhu kaikkia mitä hän tietää. Näinpä kerran miehen, joka
+						talutti karhua turvassa kiini olevasta renkaasta. Siihenpä kokousi paljo
+						väkeä, joka halusi nähdä karhun tanssaavan. Mies löi karhua
+						armahtamatta. Jopa tanssasi karhu. Jopa väki nauroi. Aivan kömpelö oli
+						karhu tansissa.</p>
+					<pb type="orig" n="32"/>
+					<figure type="illustration"><graphic url="10_1_012.jpg"/></figure>
+					<p style="blackletter" xml:id="p43"><hi rend="expanded">Susi</hi> ulvoi. Onko täällä saalista? Kunhan olisi
+						jotakaan. Sukulaiseni koiran kanssa olen alinomaisessa sodassa. Koira,
+						joka on tappanut suden, jättää suden siihen. Susi, joka on tappanut
+						koiran, syöpi hänen kohta suuhunsa. Talvi-illoilla kulemme isoissa
+						joukoissa saaliin pyydössä. <anchor xml:id="start2636"/>Varo<anchor xml:id="end2636"/> silloin pieniä lapsia, jotka juoksevat
+						kartanon poikki. Minä saan varoa itseäni metsästäjältä, joka ajaa minua
+						suksilla talvella. <anchor xml:id="start2637"/>Joka minun tappaa, saapi rahaa palkinnoksi.<anchor xml:id="end2637"/></p>
+					<p style="blackletter" xml:id="p44">Leijona tiesi kertomuksen sudestakin. Sinähän se olit, joka kerran
+						putosit <anchor xml:id="start2638"/>suden-hautaan<anchor xml:id="end2638"/>. Köyhä akka käveli haudan sivu. Pilkkasipa siinä
+						sutta. Parhaiksi sinulle, ilkeä eläin. Samassa putosi akka itse hautaan.
+						Puhuipa nyt peljästyksissään kokonaan toista. Susi kulta, etkö söisi
+						näkkileipää pussistani?</p>
+					<p style="blackletter" xml:id="p45">Vielä tiesi leijona toisen kertomuksen. Poikanen ajoi <anchor xml:id="start2639"/>järvelle<anchor xml:id="end2639"/> vettä
+						noutamaan avannosta. Tulipa joukko susia ympärille. Poikanen antoi
+						hevosen juosta tiehensä. Ammeen kaatoi hän jäällä yllensä. Sudet, jotka
+						halusivat saada poikaa, pistivät käpälänsä ammeen laidan alle. Poikapa
+						lyödä sätkäytti kirveellään käpälät poikki. Muutamat sudet, jotka
+						näkivät toisista vertä juoksevan, karkasivat niiden päälle, jotka olivat
+						verisinä. Tulipa kova tappelu ammeen ympärillä. Monta sutta siinä
+						purtiin kuoliaaksi. Muut juoksivat tiehensä. Poikanen, joka konttasi
+						ammeen alta, sai paljo rahaa kuolleitten susien nahoista.</p>
+					<p style="blackletter" xml:id="p46"><hi rend="expanded">Kettu</hi> tulla sipsutteli esiin ulkokullatun
+						näkösenä. Herra kuningas, minäkin olen koiran sukua. <pb type="orig" n="33"/>Viekkauteni on hyvin kuulusa. Saatan purra poikki häntänikin, joka on
+						tarttunut ketun-rautoihin. Viekkaasti petän minä pyytäjän, joka käyttää
+						nahkaani pehmeimmiksi turkiksi. Useampia kertomuksia saat sitte kuulla.
+						Vertaistani ei löydy viekkaudessa.</p>
+					<p style="blackletter" xml:id="p47">Leijona julmisti kulmakarvojaan. Elä pöyhistele kovin paljon sinä <anchor xml:id="start2640"/>Mikko
+						kettu<anchor xml:id="end2640"/>. Viekkaus ei ole viisaus. Kavaluus ei ole ymmärrys. Jo tiedän
+						tarpeeksi peto-eläimistä. Minua inhottavat ne, jotka elävät muiden
+						turmiosta.</p>
+					<p style="blackletter" xml:id="p48">Leijona ajoi peto-eläimet pois. Niiden perästä tuli vielä muita imettäviä
+						eläimiä, joita kutsutaan:</p>
+					<head style="blackletter" xml:id="h6"><hi rend="bold"><anchor xml:id="start2641"/>Nävertäjät<anchor xml:id="end2641"/>.</hi></head>
+					<p style="blackletter" xml:id="p49">Nämä olivat edellisiä pienemmät. Kaikilla oli kaksi pitkää etuhammasta,
+						joilla he kasvikunnasta nävertävät enimmän ruokansa.</p>
+					<figure type="illustration"><graphic url="10_1_013.jpg"/></figure>
+					<p style="blackletter" xml:id="p50"><hi rend="expanded">Orava</hi> hyppäsi likimmäiselle oksalle istumaan.
+						Katso minuakin, herra kuningas. Minä olen luotu merimieheksi. Minä
+						kiipeän sukkelasti puuhun. Minä purjehdin hännälläni lastun päällä joen
+						poikki. Saanpa varoa itseäni. Poika panee paulojansa eteeni. Vankina
+						ollessani häkissä hyppään sukkelasti pyörivässä rattaassa.</p>
+					<p style="blackletter" xml:id="p51">Leijona vastasi. Pysy metsässä, kaunis orava. Pahoin käypi sinulle
+						merellä. Mitä nuo pienet eläimet ovat, jotka isossa joukossa
+						juoksentelevat jalkaini vieressä?</p>
+					<p style="blackletter" xml:id="p52"><hi rend="expanded">Rotta</hi> vikisi. Täällä olen minä, joka näpistelen
+						akan ruokaa lukitussa huoneessa. <hi rend="expanded"><anchor xml:id="start2642"/>Hiiri<anchor xml:id="end2642"/></hi> juosta
+						piiperti esiin. Täällä olen minä, joka näverrän rei<pb type="orig" n="34"/>kiä
+						leipälaariin. <hi rend="expanded"><anchor xml:id="start2643"/>Myyrä<anchor xml:id="end2643"/></hi> katsoa pilkisti reijästään.
+						Täällä olen minä, joka kaivan kulkureikiä yrttitarhan penkkien alle. Elä
+						tule meitä kovin likelle. Me olemma urhoollisia otuksia. Sano meille
+						kuitenkin yksi asia, herra kuningas. Oletko nähnyt kissaa näillä
+						tienoilla?</p>
+					<figure type="illustration"><graphic url="10_1_014.jpg"/></figure>
+					<p style="blackletter" xml:id="p53">Leijona puhui leikkiä. Kyllähän te oletta urhoollisia. Kerran oli teillä
+						iso neuvotteleminen. Viisaimmat teistä keksivät hyvän keinon. Pitäisipä
+						ripustaa tiuku kissan kaulaan. Tätä pitivät kaikki viisaana neuvona.
+						Puuttuipa kuitenkin ainoastaan yksi asia. Ei ollut yhtään, jolla oli
+						halua ripustaa tiukua kissan kaulaan.</p>
+					<p style="blackletter" xml:id="p54"><hi rend="expanded"><anchor xml:id="start2644"/>Jänis<anchor xml:id="end2644"/></hi> laukkasi ottaen pitkiä hyppyjä. Täällä
+						olen minä. Sukulaiseni, sievä <hi rend="expanded"><anchor xml:id="start2645"/>kaniini<anchor xml:id="end2645"/>,</hi> nävertää
+						tuolla kuorta puista. Kesällä olen mullan harmaa. Talvella olen lumen
+						valkoinen. Katsopa komeita korviani. Katsopa pitkiä turpakarvojani. Enkö
+						ole mahtava veitikka?</p>
+					<p style="blackletter" xml:id="p55">Leijona kuuli rymyn ulohtaalta. Jänis lähti pakoon. Miksikä piilotat
+						pääsi pensaasen? Herra kuningas, kuulen koirain haukkuvan. Metsästäjä
+						ampuu minun. Köökkipiika paistaa minun. <anchor xml:id="start2646"/>Pojat pyhkivät
+						luvunlasku-taulujaan katkaistulla käpälälläni.<anchor xml:id="end2646"/></p>
+					<p style="blackletter" xml:id="p56"><hi rend="expanded"><anchor xml:id="start2647"/>Majava<anchor xml:id="end2647"/></hi> kämpi ylös uima-jaloillaan <anchor xml:id="start2648"/>rannalle<anchor xml:id="end2648"/>.
+						Herra kuningas, minäkin kuulun nävertäväin järjestykseen. Vedessä pyydän
+						kaloja ruuakseni. Sitte rakennan rannalle kummallisia huoneita.
+						Muuraus-<pb type="orig" n="35"/>lastana pidän leveätä häntääni. Ihmiset pyytävät
+						minua sen <anchor xml:id="start3894"/>lääkkeen tähden, jota saadaan ruumiistani<anchor xml:id="end3894"/>.</p>
+					<p style="blackletter" xml:id="p57">Leijona kohosi ylös valtavassa ylevyydessään. Nyt näen teissä Luojan
+						kaikkivallan. Hyvin erilaisiksi on hän luonut eläimet. Muutamat meistä
+						ovat leppeitä. Muutamat ovat julmia. Muutamat ovat heikkoja. Muutamat
+						ovat väkeviä. Muutamat elävät maan kasvuista. Muutamat elävät toisten
+						eläinten lihasta. <anchor xml:id="start2650"/>Syntiin-lankeemuksen jälkeen on alinomainen sota maan
+						päällä. Jumala, joka on hyvä kaikille, on kerran antava meille kaikille
+						rauhan. Hän on kuuleva luontokappaltenkin huokaukset.<anchor xml:id="end2650"/> Hänen nimensä
+						olkoon ylistetty koko maan päällä.</p>
+					<p style="blackletter" xml:id="p58">Nyt vaikeni leijona puhumasta. Nyt menivät kaikki imettävät eläimet pois.
+						Aurinko paistoi pitkihin puihin. Kylän pienet lapset <choice><orig>iuoksivat</orig><reg>juoksivat</reg></choice> iloisina
+						metsässä. Niille ei tehnyt kukaan pahaa. Julmimmat pedot eivät asu
+						maassamme. Rukoile alinomaa Jumalalta suojelusta. Ole hyvä eläimille.
+						Silloin ei vahingoita karhu. Silloin ei pure susi. Silloin juoksevat ne
+						lauhkeat eläimet iloisina vastaasi.</p>
+					<head style="blackletter" xml:id="h7"><hi rend="bold">Apinat.</hi></head>
+					<p style="blackletter" xml:id="p59">Kaksi <choice><orig>poika</orig><reg>poikaa</reg></choice> meni kerran metsään. Toinen pani maahan savi-astian, joka oli
+						rusinoita täynnä. Molemmat pojat, jotka olivat väsyneinä, nukkuivat heti
+						puolipäivän lämpimässä.</p>
+					<p style="blackletter" xml:id="p60">Laskeusipa useita apinoita puista. Yhden ahneimman mieli teki rusinoita.
+						Pistipä kätensä savi-astiaan. Siinä puristi hän kouransa täyteen
+						rusinoita. Mutta savi-astian suu olikin ahdas. Apina, joka ei ollenkaan
+						tahtonut jättää saalistaan, ei saa<pb type="orig" n="36"/>nutkaan kättään pois. Niin
+						juoksi hän, vetäen raskasta savi-astiaa muassaan. Pojat, jotka samassa
+						heräsivät, saivat sen helposti kiini ahneuden tähden.</p>
+					<p style="blackletter" xml:id="p61">Miettipä toinenkin poika petosta. Hän riisui saappaansa. Sitte veti hän
+						ne taas jalkaansa. Sitte riisui hän ne jälleen. Sen perästä menivät
+						pojat kappaleen matkan päähän. Apinat, jotka katselivat näitä puista,
+						tahtoivat matkia poikaa. Yksi niistä veti saappaat jalkaansa. Samassa
+						tulivat pojat takasi. Mielipä nyt saapasjalkanen apina juosta tiehensä.
+						Mutta saappaat olivat esteenä. Apina kompastui. Apina lankesi. Tulipa
+						sekin kiini matkima-halunsa tähden.</p>
+					<head style="blackletter" xml:id="h8"><hi rend="bold">Leijona.</hi></head>
+					<p style="blackletter" xml:id="p62">Kaukana kuumassa Afrikassa kuuluu öillä leijonan kiljuminen. Silloin
+						vapisevat kaikki elävät, jotka ovat tienoilla. Uskaliaimmatkin koirat
+						<anchor xml:id="start2651"/>hätäyvät<anchor xml:id="end2651"/> silloin ihmisten jalkoihin. Karja ammoo. Hevoset kuopivat
+						pelosta. Lampaat <anchor xml:id="start2652"/>pakkauvat<anchor xml:id="end2652"/> kokoon päin toisiansa vastaan. Ainoastaan
+						harvat eläimet saattavat voittaa leijonan. Elehvantti lyöpi sen
+						kärsällään maahan. Puhveli-härkä viiltää sen vatsan halki sarvillaan.
+						<anchor xml:id="start2653"/>Jättiläis-käärme<anchor xml:id="end2653"/> kääriypi musertaen leijonan ruumiin ympärille. Usein
+						voittaa leijona tappelussa nämäkin. Yksi ainoa olento pelottaa leijonaa.
+						Tämä olento on ihminen. Hän leijonan pyytää hautaan. Hän sen ampuu
+						luodilla. Mutta se, joka juoksee pakoon, on kuoleman oma.</p>
+					<p style="blackletter" xml:id="p63">Metsästäjä, joka oli ampunut <anchor xml:id="start2654"/>ruutinsa<anchor xml:id="end2654"/> loppuun, tapasi yhtäkkiä metsässä
+						leijonan. Metsästäjä pysähtyi. Leijona pysähtyi. Metsästäjä käveli.
+						Leijona käveli. Metsästäjä katsoi kiivaasti leijonaa silmiin. Leijona
+						katsoi samoin häntä. Näin seisoivat he kauvan. Viimein meni leijona,
+						peläten <pb type="orig" n="37"/>metsästäjän katsantoa, aivan hiljoilleen tiehensä.
+						Niin valtavasti koskee ihmisen sula katsanto väkevimpiinkin
+						eläimiin.</p>
+					<head style="blackletter" xml:id="h9"><hi rend="bold"><anchor xml:id="start2655"/>Kuningas-tiikeri<anchor xml:id="end2655"/>.</hi></head>
+					<p style="blackletter" xml:id="p64">Tämä asuu Aasiassa. Hän on hirmuinen. Hänen silmänsä näyttävät
+						sädehtivän. Hänen kielensä riippuu veri-punasena ulkona kidasta. Hän
+						tavoittaa sukkelimmankin hevosen. Hän juoksee <choice><orig>härkäpuussa</orig><reg>härkä suussa</reg></choice>. Elehvantti
+						yksinään voipi hänen rusentaa. Ihminen on häntä pyytäessä suuressa
+						vaarassa. Kuitenkin saatetaan häntä säikyttää. Muuan rouvasihminen näki
+						yhtäkkiä kuningastiikerin vieressään. Hän löi tätä silmille pienellä
+						kepillä. Tiikeri pakeni. Eläinten kesyttäjät näyttävät tiikerejä
+						rauta-häkeissä. Ne uskaltavat pistää kätensä niiden kitaan. Niin suuri
+						on ihmisen valta koko luonnon ylitse.</p>
+					<head style="blackletter" xml:id="h10"><hi rend="bold"><anchor xml:id="start2656"/>Karhu-Pekka<anchor xml:id="end2656"/>.</hi></head>
+					<p style="blackletter" xml:id="p65">Rovaniemen pitäjäässä asui mies nimeltä Karhu-Pekka. Hän oli tappanut
+						enimmästi yksinään kuusikymmentä karhua. Se on maassamme jo suuri
+						kunnia. Karhu-Pekka haki talvella karhun pesän. Siitä ajavat koirat
+						karhun ulos. Sitte tappaa pyytäjä karhun keihäällä. Muutamat sen ampuvat
+						pyssyllä. Sellainen pyytökeino on vaarallinen. Monen pyytäjän on karhu
+						kouristanut kuoliaaksi. Mutta Karhu-Pekka taisi keinonsa. Karhu, joka on
+						kaatunut, pannaan re’elle. Sitte viedään se kotiin kylään. Sielläpä
+						tulee iso ilo. Vietetäänpä karhun peijaisia isoilla pidoilla, joissa
+						lauletaan monta runoa karhun kunniaksi.</p>
+					<pb type="orig" n="38"/>
+					<head style="blackletter" xml:id="h11"><hi rend="bold"><anchor xml:id="start2657"/>Kettu ja kalastaja.</hi></head>
+					<p style="blackletter" xml:id="p66">Olipa kerran ukko. Hän sai eräänä talvipäivänä niin paljon kaloja, kuin
+						mahtui hänen <anchor xml:id="start2658"/>laituriinsa<anchor xml:id="end2658"/>. Hyvin iloisena lähti hän kotiinsa, ajaen isoa
+						kuormaansa. Siinä lauleli hän ilomielin. Mutta mikähän tuo on, joka
+						makaa tuolla keskellä tietä? Kuollut kettupa se on. Tämän piti ukko
+						hyvänä saaliina. Kaunis turkkisi, kettu kulta, sattuikin minulle hyvään
+						tarpeesen. Nostipa ukko ketun takapuolelle kuormansa päälle. Mutta itse
+						istui hän etupuolelle.</p>
+					<p style="blackletter" xml:id="p67">Eipä se ilkeäjuoninen kettu ollutkaan oikein kuolleena. Oli vaan niin
+						olevinaan. Hän tiesi kyllä, miksikä hän niin oli.</p>
+					<p style="blackletter" xml:id="p68">Ukon havaitsematta nakkeli hän kuormasta kaikki kalat tielle. Sitte
+						hyppäsi hän itse pois reestä. Rupesipa heti kokoamaan kaloja tieltä.
+						Muutamat säästi hän. Toiset söi hän suuhunsa. Niin hyvää atriaa ei hän
+						ollut saanut kaukaan aikaan.</p>
+					<p style="blackletter" xml:id="p69">Ukko, joka ajeli iloisena eteenpäin, ei havainnut tätä ollenkaan. Viimein
+						tuli hän kotiin kuormineen. Vaimo tuli häntä vastaan. Missä olet
+						viipynyt niin kauvan, ukkoni? Elä ole milläsikään, akkani. Nyt
+						pidetäänkin isot pidot. Laita pata tulelle. Minulla on reki täynnä
+						kaloja. Niinkö, ukkoseni? Se on tietty. Minulla on vielä sitte komea
+						kettu, jonka löysin tieltä kuolleena.</p>
+					<p style="blackletter" xml:id="p70">Akka tuli reelle. Voi kuin narraat, ukkoseni. Eihän tässä ole yhtään
+						kalaa. Vielä vähemmin tässä on kettua. Ukkoa hyvin hävetti. Näen sen
+						kyllä, akkaseni. Kavala kettu on tehnyt minulle aika kolttosen.</p>
+				
+				<pb type="orig" n="39"/>
+					<head style="blackletter" xml:id="h12"><hi rend="bold">Karhun kalanpyytö.<anchor xml:id="end2657"/></hi></head>
+					<p style="blackletter" xml:id="p71">Kettu, joka oli syönyt vatsansa täyteen, istui aivan hyvillä mielin
+						metsän rinteellä. Iso koko kaloja oli vielä hänellä vieressä. Juosta
+						jolkuttelipa karhu metsästä. Hyvää päivää, <anchor xml:id="start2659"/>nepaimeni<anchor xml:id="end2659"/> kettu. —
+						Jumal’antakoon, nepaimeni karhu. — Miten vain olet saanut noin paljon
+						kaloja? — Olen ne onkinut järvestä. — Sepä oli oivallinen saalis. Etkö
+						opettaisi minuakin onkimaan? — Aivan mielelläni, nepain kulta. — No
+						miten se käypi laatuun? — Kyllä sen sanon sinulle, karhu. Mene avannolle
+						jonakuna talvi-iltana, kun on hyvin <anchor xml:id="start2660"/>kiiluvaisia<anchor xml:id="end2660"/> taivaalla. Laske siinä
+						häntäsi avantoon. Istu sitte siinä aivan yhdessä kohti aamuun asti. Vedä
+						sitte häntäsi ylös. Niin on kala tarttunut kiini jokaiseen karvaan.
+						Sillä lailla minä ongin. — Kiitoksia nepaimeni, kettu. Se on hyvä neuvo.
+						— Pidä hyvänäsi, nepaimeni karhu.</p>
+					<p style="blackletter" xml:id="p72">Samana iltana oli kova pakkanen. Tähdet paistoivat taivaalla. Karhu, joka
+						muisti ketun opetuksen, meni järven jäälle. Siellä istui hän kohta
+						häntineen avantoon. Vähän ajan perästä tunsi hän juurikuin puristettavan
+						häntäänsä. Ne ovat kaloja, jotka tarttuvat kiini. Kyllä vain tuleeki
+						hyvä saalis.</p>
+					<p style="blackletter" xml:id="p73">Siinä istua kökötti karhu aina aamuun asti. Sillä aikaa oli avanto mennyt
+						vahvaan jäähän. Karhun häntä oli jäätynyt siihen kiini. Jo alkoi karhua
+						ikävystyttää. Pitäähän minun vetää ylös kalani. Mutta sepä ei
+						tahtonutkaan onnistua. Häntä oli kiini. Karhu ei pääsnyt paikalta
+						liikkumaan.</p>
+					<p style="blackletter" xml:id="p74">Kettu, joka juuri nyt oli <anchor xml:id="start2661"/>aamukeinoillaan<anchor xml:id="end2661"/>, havaitsi karhun surkean tilan.
+						Ilkeä veiari oli tuo kettu. Ei hän auttanut ollenkaan karhua. Juoksipa
+						vaan kalastajan tuvan tykö. Siinä kiipesi hän ka<pb type="orig" n="40"/>tolle.
+						Sieltä huuti hän korsteenin läpi. Akka kulta, mene heti järvelle. Siellä
+						istuu karhu häntineen avannossasi, josta noudat vettä.</p>
+					<p style="blackletter" xml:id="p75">Akka, joka kirnusi voita, vihastui kovin. Kohta juoksi hän korento
+						kädessä järvelle. Karhu ryökäle, miksikä avantoani pilaat? Kyllä minä
+						sinulle opetan parempia tapoja.</p>
+					<p style="blackletter" xml:id="p76">Niin pieksi hän karhua kaikin voimin korennolla. Karhu raukka oli
+						suuressa hädässä. Aina lujemmasti koki hän repiä häntäänsä irti. Viimein
+						kävi kovin pahasti. Koko häntä katkesi avantoon. Aivan siitä päivästä
+						asti ei ole karhulla enää ollut häntää.</p>
+					<p style="blackletter" xml:id="p77">Kettu taas mennä livahti tupaan, jonka oven akka oli jättänyt
+						lukitsematta. Siellä kaatoi hän kirnun. Niin sai hän taas hyvän atrian.
+						Kyllä hänelle onnistuivat ilkeät keinonsa. Mutta siksi kadotti hän
+						kaikki ystävänsä. Ei yksikään uskonut enää koko ilkeää kettua.</p>
+					<head style="romanType" xml:id="h13"><hi rend="bold"><anchor xml:id="start2662"/>Kaunis varsa.<anchor xml:id="end2662"/></hi></head>
+					<lg xml:id="lg78">
+						<l style="romanType"><hi rend="italics">On varsin varma juoksemaan,</hi></l>
+						<l style="romanType"><hi rend="italics">Mun varsani vireesti.</hi></l>
+						<l style="romanType"><hi rend="italics">Se käypi kanssa sukkelaan.</hi></l>
+						<l style="romanType"><hi rend="italics">Se seisovi koreesti.</hi></l>
+						<l style="romanType"><hi rend="italics">Ei eelle pääse yksikään.</hi></l>
+						<l style="romanType"><hi rend="italics">Paras se muist’ on mielestään.</hi></l>
+						<l style="romanType"><hi rend="italics">Sen korvat silloin liikkuvat.</hi></l>
+						<l style="romanType"><hi rend="italics">Kaviot kanssa kuopivat.</hi></l>
+					</lg>
+					<lg xml:id="lg79">
+						<l style="romanType"><hi rend="italics">Se syöpi tuolla niityllä.</hi></l>
+						<l style="romanType"><hi rend="italics">Ei anna muille kiini.</hi></l>
+						<pb type="orig" n="41"/>
+						<l style="romanType"><hi rend="italics">Mä kutsun häntä äänellä.</hi></l>
+						<l style="romanType"><hi rend="italics">Sen kohta saan käsiini.</hi></l>
+						<l style="romanType"><hi rend="italics">Se äänen kohta kuultuaan</hi></l>
+						<l style="romanType"><hi rend="italics">On valmis mulle juoksemaan.</hi></l>
+						<l style="romanType"><hi rend="italics">Sen suuhun pistän suitseni.</hi></l>
+						<l style="romanType"><hi rend="italics">Ajan ilolla matkani.</hi></l>
+					</lg>
+					<head style="romanType" xml:id="h14"><hi rend="bold"><anchor xml:id="start2663"/>Rakki ja jahtikoira.<anchor xml:id="end2663"/></hi></head>
+					<figure type="illustration"><graphic url="10_1_016.jpg"/></figure>
+					<lg xml:id="lg80">
+						<l style="romanType">Rakki: <hi rend="italics">En tule talvella kylmähän,</hi></l>
+						<l style="romanType"><hi rend="italics">Huonolle hoidollen ensinkään.</hi></l>
+						<l style="romanType">Jahtikoira: <hi rend="italics">En minä pankolla pötköttäis’.</hi></l>
+						<l style="romanType"><hi rend="italics">En <anchor xml:id="start2664"/>makiaisia<anchor xml:id="end2664"/> manguttais’.</hi></l>
+						<l style="romanType">Rakki: <hi rend="italics">Lystip’ on pankolla pötköttää.</hi></l>
+						<l style="romanType">Jahtikoira: <hi rend="italics">Metsässä juoksu on
+							mieluumpaa.</hi></l>
+					</lg>
+					<lg xml:id="lg81">
+						<l style="romanType"><hi rend="italics">Koira metsästi mielellään.</hi></l>
+						<l style="romanType"><hi rend="italics">Ei se turmellut terveyttään.</hi></l>
+						<l style="romanType"><hi rend="italics">Rakki rauhassa pankollaan</hi></l>
+						<pb type="orig" n="42"/>
+						<l style="romanType"><hi rend="italics">Maata pötkötti ainiaan.</hi></l>
+						<l style="romanType"><hi rend="italics">Haukkui siitä jok’ainoan.</hi></l>
+						<l style="romanType"><hi rend="italics">Viimein kuoli lihastahan.</hi></l>
+					</lg>
+					<head style="romanType" xml:id="h15"><hi rend="bold"><anchor xml:id="start2665"/>Härkä ja poika.<anchor xml:id="end2665"/></hi></head>
+					<lg xml:id="lg82">
+						<l style="romanType"><hi rend="italics">On lapsia ulkona niityllä.</hi></l>
+						<l style="romanType"><hi rend="italics">On äiti lehmäinsä lypsyllä.</hi></l>
+						<l style="romanType"><hi rend="italics">Savulla siinä vasikkoja juoksee.</hi></l>
+						<l style="romanType"><hi rend="italics">Ei sääskiä uskalla <anchor xml:id="start2666"/>suitsun<anchor xml:id="end2666"/> luokse.</hi></l>
+						<l style="romanType"><hi rend="italics">On härkä mahtava maatessaan.</hi></l>
+						<l style="romanType"><hi rend="italics">Hän julmistaapi nyt kulmiaan.</hi></l>
+						<l style="romanType"><hi rend="italics">Niin poika lähellä kysyy härältä:</hi></l>
+						<l style="romanType"><hi rend="italics">Miks’ näytät niin kovin miettivältä?</hi></l>
+						<l style="romanType"><hi rend="italics">Nyt vaan asioita arvellet.</hi></l>
+						<l style="romanType"><hi rend="italics">Sä viisaaks’ viimein oppinet.</hi></l>
+						<l style="romanType"><hi rend="italics">Mölähtipä härkä vastaukseksi.</hi></l>
+						<l style="romanType"><hi rend="italics">On sammal pehmeä vuoteheksi.</hi></l>
+						<l style="romanType"><hi rend="italics">On ruohoja ruokana vieressä.</hi></l>
+						<l style="romanType"><hi rend="italics">Ei oo ajatuksia mielessä.</hi></l>
+					</lg>
+					<head style="romanType" xml:id="h16"><hi rend="bold"><anchor xml:id="start2667"/>Kissa ja tyttönen.<anchor xml:id="end2667"/></hi></head>
+					<figure type="illustration"><graphic url="10_1_017.jpg"/></figure>
+					<lg xml:id="lg83">
+						<l style="romanType">Tyttönen. <hi rend="italics">Kissa, et saa sinä kynsiä.</hi></l>
+						<l style="romanType"><hi rend="italics">Annappa pientä käpälätä.</hi></l>
+						<pb type="orig" n="43"/>
+						<l style="romanType"><hi rend="italics">Piikkiä kintaihin ei pidä tulla.</hi></l>
+						<l style="romanType">Kissa. <hi rend="italics"><anchor xml:id="start2668"/>Mielesi jälkeen<anchor xml:id="end2668"/> tahdon mä olla.</hi></l>
+						<l style="romanType"><hi rend="italics">Tyttönen muista kuitenkin.</hi></l>
+						<l style="romanType"><hi rend="italics">Elä puristele kissaasi.</hi></l>
+					</lg>
+					<lg xml:id="lg84">
+						<l style="romanType"><hi rend="italics">Tyttönen kouristi vieläki.</hi></l>
+						<l style="romanType"><hi rend="italics">Kissaa usein hän kiusasi.</hi></l>
+						<l style="romanType"><hi rend="italics">Kissa kynsäsi myös kovasti.</hi></l>
+						<l style="romanType"><hi rend="italics">Vertäkin vuoti. Oli se pahasti.</hi></l>
+						<l style="romanType"><hi rend="italics">Ei vihass’ ollut kumpikaan.</hi></l>
+						<l style="romanType"><hi rend="italics">Ystävät vaan olit ainiaan.</hi></l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

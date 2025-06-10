@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Viides Luku. Kaloista</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>5</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Viides Luku. Kaloista</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head type="section" style="blackletter" xml:id="h1"><hi rend="bold expanded">Viides Luku.</hi></head>
+				<head type="section" style="romanType" xml:id="h2"><hi rend="bold expanded">Kaloista.</hi></head>
+				<p style="romanType" xml:id="p1">Antti ja Liisa seurasivat eräänä päivänä vanhaa Simunaa, joka souteli
+					veneellä <anchor xml:id="start2823"/>merellä<anchor xml:id="end2823"/>. Siinä laski Simuna verkkojaan ja sai monta kalaa. Kauvan
+					ne eivät olleet veneessä, ennenkuin kuolivat. Miksikä, sanoi Antti, kalat
+					kuolevat vedestä ylös otettuina? Siksi, sanoi Simuna, että kalat hengittävät
+					vettä suullaan ja päästävät sen kitaisistaan takasin ulos. Vedessä on juuri
+					niin paljo ilmaa, kuin kalat sitä tarvitsevat. Kaloilta, vedestä ylös
+					otettuina, kuivavat kitaiset. Ja silloin kuolevat kalat, juurikuin
+					maa-eläimet kuolevat vedessä, kun eivät voi siinä hengittää.</p>
+				<p style="romanType" xml:id="p2">Liisa sanoi: miksikä ei kala saata valittaa, kun sille tehdään pahaa? Simuna
+					vastasi: se on mykkä, siksi että kaikkien <anchor xml:id="start2824"/>eläinten<anchor xml:id="end2824"/> ääni tulee keuhoissa
+					olevasta ilmasta. Ja kalalla ei ole keuhkoja. Se elää ja kuolee äänetöinnä.
+					Siksipä sillä lieneekin niin vähä huolta vertaisistaan. Ei kalalla ole isää
+					eikä äitiä, ei puolisoa eikä lasta, jota se rakastaa. Ei sillä ole veljeä
+					eikä ystävää; ei sillä ole pesää eikä vuodetta. Sillä on ainoasti muutamia
+					paikkoja, joissa se mieluisemmasti oleskelee. Mutta jos yhtä hätyytetään,
+					eivät toiset tule koskaan sen apuun. Pyrs<pb type="orig" n="66"/>töllään ja evillään
+					liikuttelee se sukkelasti liukasta ruumistaan vedessä. Monella kalalla on
+					kylmäverisessä ruumiissa rakko ilmaa täynnä, joka pitää sitä tarpeeksi
+					yläällä, ettei se painu. Naaras-kalain laskettua mätinsä <anchor xml:id="start2825"/>rannoille<anchor xml:id="end2825"/> ja
+					koiraskalain juoksutettua maitinsa mädin sekaan, eivät he enää huoli
+					<anchor xml:id="start2826"/>sikiöistään<anchor xml:id="end2826"/>. Aurinko lämmittää mätiä. <anchor xml:id="start2827"/>Sikiät<anchor xml:id="end2827"/> matavat itse siitä pois ja
+					hoitavat itsensä pieninä ollessaan. Ne syövät vesi-kasvuin siemeniä ja
+					nokkivat <anchor xml:id="start2828"/>sääskiä<anchor xml:id="end2828"/>, jotka liehuvat veden pinnassa. Pian tulee niistä monta
+					ahnasta petoa. Sitte iskevät he terävillä hampaillaan pienempiä kaloja ja
+					nielevät ne pureskelematta. Kaloista on ihmisille suuri hyöty, siksi niitä
+					paljo pyydetään ja mieluisesti syödään.</p>
+				<p style="romanType" xml:id="p3">Pysähdytäänpä tähän, sanoi Antti. Tässä juoksee tuo kirkas <anchor xml:id="start2829"/>virta<anchor xml:id="end2829"/> suureen
+					mereen. Tässä näemme sekä <hi rend="italics"><anchor xml:id="start2830"/>suolattoman veden kaloja<anchor xml:id="end2830"/></hi>
+					että <hi rend="italics"><anchor xml:id="start2834"/>suolaisen veden kaloja<anchor xml:id="end2834"/>.</hi> Ja muutamat elävät
+					välistä suolattomassa vedessä, välistä suolaisessa vedessä. Tässä uipi <hi rend="italics"><anchor xml:id="start2835"/>rustokaloja<anchor xml:id="end2835"/>,</hi> joilla ei ole oikeita luita ruumiissa,
+					vaan ainoastaan rustoja. Liisa sanoi: varo itseäsi, veljeni; tuolla uipi
+					käärme. Antti sanoi: ei se ole käärme. <hi rend="italics"><anchor xml:id="start2836"/>Nahkiainenhan<anchor xml:id="end2836"/></hi>
+					tuo on, joka saattaa imeytä käteesi kiini ja jolla on kitaisten sijassa
+					seitsemän ilman-reikää kummallakin puolella. Simuna sanoi: tunnen kyllä
+					useita rusto-kaloja; mutta ei niitä ole monta. Näetkö tuota suurta kalaa,
+					jolla on pitkä hampaaton turpa? Se on se musta <hi rend="expanded"><anchor xml:id="start2837"/>sampi<anchor xml:id="end2837"/>,</hi> jonka mädistä saadaan makeaa kaviaria. Ja kaukana tuolla
+					valtameressä vaanii se ahnas <hi rend="expanded"><anchor xml:id="start2838"/>hai<anchor xml:id="end2838"/>,</hi> joka synnyttää
+					eläviä sikiöitä ja jota kutsutaan meren tiikeriksi. Hyvä on, ettei sitä ole
+					täällä meidän meressä.</p>
+				<p style="romanType" xml:id="p4">Ne, jotka nyt tulevat, ovat <hi rend="italics"><anchor xml:id="start2839"/>ruoto-kaloja<anchor xml:id="end2839"/>,</hi> sanoi
+					Simuna. Niillä on oikea selkä-ranka ja kylkiruodot. Ne jaetaan myös <hi rend="italics"><anchor xml:id="start2840"/>suomukaloihin<anchor xml:id="end2840"/></hi> ja <hi rend="italics">nahkakaloihi<anchor xml:id="start2841"/>n<anchor xml:id="end2841"/>.</hi> Tässä luikertelee <hi rend="expanded"><anchor xml:id="start2842"/>ankerias<anchor xml:id="end2842"/>,</hi> joka on kovin liukas käsissä pysymään ja on enemmän kuin
+					mikään muu kala käärmeen <pb type="orig" n="67"/>näköinen. Öillä mataa se kosteassa
+					ruohossa ylös herne-maihin. Tässä on <hi rend="expanded"><anchor xml:id="start2843"/>turska<anchor xml:id="end2843"/></hi> ja <hi rend="expanded"><anchor xml:id="start2844"/>saita<anchor xml:id="end2844"/>,</hi> jotka saatuina kuivataan päiväpaisteessa ja
+					tehdään lipeäkalaksi jouluksi. Tässä on <hi rend="expanded"><anchor xml:id="start2845"/>made<anchor xml:id="end2845"/>,</hi>
+					niiden heimolainen, hienone ja makeine mätineen. Pohjamudassa makaa se kiero
+						<hi rend="expanded"><anchor xml:id="start2846"/>pallas</hi> eli <hi rend="expanded">maarian-kala<anchor xml:id="end2846"/>,</hi> jonka silmät ovat yhdellä puolella ruumista. Tässä
+					on <hi rend="expanded"><anchor xml:id="start2847"/>ahven<anchor xml:id="end2847"/>,</hi> jota kaikki poikaiset mielellään onkivat.
+					Tässä näet sen hopean-näköisen <hi rend="expanded">kuhan</hi> ja tuon ahnaan
+					<anchor xml:id="start2848"/>kiiskin<anchor xml:id="end2848"/> leveine suineen ja paksuine kinoineen. Tässä uipi se pieni piikkinen
+						<hi rend="expanded"><anchor xml:id="start2849"/>rautunen<anchor xml:id="end2849"/></hi> ja se kaunis <hi rend="expanded">makrilli</hi> ja tuo ilkeä, mutta hyvänmakuinen <anchor xml:id="start2850"/>simppu<anchor xml:id="end2850"/>, jolla on ruma
+					ja iso pää. Tässä on <hi rend="expanded"><anchor xml:id="start2851"/>säkiä<anchor xml:id="end2851"/>,</hi> suurin kaikista
+					suolattoman veden kaloista. Koskea ylös lähättäypi voimakkaalla pyrstöllään
+					se kaunis <hi rend="expanded"><anchor xml:id="start2852"/>lohi<anchor xml:id="end2852"/>,</hi> joka on ylevin vettemme kaloista.
+					Sen vieressä uivat heimolaisensa <hi rend="expanded"><anchor xml:id="start2853"/>taimen<anchor xml:id="end2853"/>, <anchor xml:id="start2854"/>rautulohi<anchor xml:id="end2854"/>,
+						<anchor xml:id="start2855"/>kuore<anchor xml:id="end2855"/></hi> ja se hyvänmakuinen <hi rend="expanded"><anchor xml:id="start2856"/>siika<anchor xml:id="end2856"/>.</hi> Niinkuin
+					lohikin, menee se virtoja ylöspäin kutemaan suolattomassa vedessä. Täällä
+					pyytää saalista virtain susi, tuo ahnas <hi rend="expanded">hauki,</hi> joka
+					usein nielee vertaisiaan ja omia sikiöitään. Tässä menee parvi, jossa on
+					miljonittain <hi rend="expanded"><anchor xml:id="start2857"/>sillijä<anchor xml:id="end2857"/></hi> kerroksissa päälletysten.
+					Silli muuttaa kauvas suuriin meriin, joihin lukemattomia kalastajia ja
+					merenpetoja niitä ajaat. Ainoastaan harvoin tulee se maamme rannoille. Sen
+					sijaan on meillä täällä sen velipuoli <hi rend="expanded"><anchor xml:id="start2858"/>silahka<anchor xml:id="end2858"/></hi> ja
+					sen pieni heimolainen <hi rend="expanded"><anchor xml:id="start2859"/>kilosilakka<anchor xml:id="end2859"/>,</hi> jotka, niinkuin
+					sillikin, suolataan nelikoihin ja tulevat monen ihmisen ruuaksi.</p>
+				<figure type="illustration"><graphic url="10_1_030.jpg"/></figure>
+				<p style="romanType" xml:id="p5"><anchor xml:id="start2860"/>Potkeppa<anchor xml:id="end2860"/> nuottasi mereen ja vedä hyvä apaja, sillä täällä tulee jo parvi
+					turvattomia <hi rend="expanded"><anchor xml:id="start2861"/>kiiltokaloja<anchor xml:id="end2861"/>,</hi> jotka usein käyvät
+					isompain saaliiksi. Tässä uipi <hi rend="expanded"><anchor xml:id="start2862"/>toutain<anchor xml:id="end2862"/>,</hi> jota
+					rikkaat ihmiset elättävät lammikoissa. <hi rend="expanded"><anchor xml:id="start2863"/>Kouri<anchor xml:id="end2863"/></hi> tulee;
+						<pb type="orig" n="68"/>se on se, joka asuu mutaisessa <anchor xml:id="start2864"/>järvessä<anchor xml:id="end2864"/>. Jopa jäit
+					nuottaani, leveä <hi rend="expanded"><anchor xml:id="start2865"/>lahna<anchor xml:id="end2865"/>!</hi> Tuolla lentää <anchor xml:id="start2866"/>kalalokki<anchor xml:id="end2866"/>.
+					Varo itseäsi sen kourista sinä kullalta välkkyvä <hi rend="expanded">sorva!</hi> Varo itseäsi hauvilta, punasilmänen <hi rend="expanded"><anchor xml:id="start2867"/>särki<anchor xml:id="end2867"/>!</hi> Kuka läiskyttää niin tiheään tuolla kaukana veden pinnassa?
+					Se on se iloinen <hi rend="expanded"><anchor xml:id="start2868"/>säynäjä<anchor xml:id="end2868"/></hi> punasine evineen ja
+					köyryine niskoineen. Tuolla välkkyy se pieni hopean-valkoinen <hi rend="expanded"><anchor xml:id="start2869"/>salahka<anchor xml:id="end2869"/>,</hi> joka uida kieruilee veden pinnassa
+					auringon paisteessa illalla. Pyydä minulle, sanoi Liisa, elävä salahka. Minä
+					vien sen huviksi vieraalleni. Kotona kamarissamme on meillä <anchor xml:id="start2870"/>kulta-kala<anchor xml:id="end2870"/>
+					lasi-astiassa vedessä. Se on tuotu tänne laivalla kaukaisista
+					<anchor xml:id="start2871"/>mailman-osista<anchor xml:id="end2871"/>.</p>
+				<figure type="illustration"><graphic url="10_1_031.jpg"/></figure>
+				<p style="romanType" xml:id="p6">Kalat, sanoi Simuna, ovat juurikuin kotoisin toisista mailman-osista veden
+					valta-kunnissa. Ne eivät ymmärrä meitä, jotka asumme täällä selvässä
+					ilmassa. Ja me ymmärrämme ainoastaan hyvin vähä heidän elämästään synkässä
+					syvyydessä. Mutta me ymmärrämme Jumalan tahtovan täyttää kaikkia mailman
+					paikkoja elävillä olennoilla, jotka siellä todistavat hänen kaikkivallastaan
+					ja viisaudestaan. Ja koska vesi peittää niin suuria maan-aloja, ajattelemme
+					iloisina: eivät nämäkään avarat alueet ole autioina Jumalan ihanassa
+					luonnossa. Sielläkin ylistävät Jumalan pyhää nimeä hänen luodut tekonsa.</p>
+					<head style="romanType" xml:id="h3"><hi rend="bold"><hi rend="expanded">Hai.</hi></hi></head>
+					<p style="romanType" xml:id="p7">Suurin hai on viittätoista kyynärää pitkä ja kutsutaan ihmisten syöjäksi.
+						Sen kita on hyvin iso. Leukainsa aukaistua voipi hän niellä
+						<choice><orig>tyysikasvuisen</orig><reg>täysikasvuisen</reg></choice> miehen, ja koira saattaa kontata sisälle ja ulos hänen
+						vatsassansa. Norjalaisen kalastajan nieli hai. Kahden päivän perästä
+						saatiin sama hai. Kalastaja oli täysissä vaatteissa ja kuolleena hain
+						vatsassa. Itä-intiassa hyppäsi muutamia <pb type="orig" n="69"/>merimiehiä
+						englantilais-laivasta mereen uimaan. Varsin tätä varten panivat he
+						vahdin. Vahtipa huuti: hai tulee. Kohta hyökäsivät kaikki veneesen.
+						Mutta viimeinen merimies pääsi ainoasti puoleksi ylös, kun hai jo
+						ennätti purra häneltä molemmat jalat poikki, niin että hän kuoli.
+						Merimiehellä oli hyvä ystävä, jonka sydämeen koski tämä tapaus kovasti.
+						Hän sieppasi puukon, hyppäsi mereen, sukelti hain vatsan alle ja
+						paiskasi puukon sen ruumiisen. Hirmuisesti pieksi peto <anchor xml:id="start2872"/>aaltoja<anchor xml:id="end2872"/> pitkällä
+						pyrstöllään. Mutta viimein nähtiin sen veren juoksevan kuiviin, hain
+						kääntyvän kylelleen ja kuolevan.</p>
+					<head style="romanType" xml:id="h4"><hi rend="bold"><hi rend="expanded">Hauki.</hi></hi></head>
+					<p style="romanType" xml:id="p8">Hai pyydetään isoilla rauta-koukuilla, joita se nielee, kun niissä on
+						läskiä syöttinä. Haukeja pyydetään messinki-koukuilla, joihin pannaan
+						pieni kala syötiksi. Usein, hauvin saatua, on sen vatsassa pienempi
+						hauki. Pienemmän hauvin sisässä on ahven. Ahvenen vatsassa on <anchor xml:id="start2873"/>salakka<anchor xml:id="end2873"/>.
+						Niin tulee heikompi väkevämmän saaliiksi. Hauki tarttuu ahneesti kiini
+						kaikkiin, jotka kiiltävät. Usein keinotellaan se tarttumaan koukkuun,
+						jota vedetään veneen perässä pantuna kirkkaasen messinki-palaseen kiini.
+						Monta satua on haukiloista, jotka ovat nielleet kulta-sormuksia, joita
+						on nakattu mereen. Oulusta purjehti kerran laiva <anchor xml:id="start2874"/>etelään<anchor xml:id="end2874"/> päin. Kolmen
+						päivän perästä sen lähdettyä osti laivan omistaja saadun hauvin. Hauvin
+						perkattua murkinakeitoksi löydettiin sen vatsasta hopea-lusikka, johon
+						oli merkitty laivan nimi. Hyvin <anchor xml:id="start2875"/>mieli-pahoilleen<anchor xml:id="end2875"/> meni laivan omistaja,
+						sillä hän pelkäsi koko laivan uponneen mereen. Mutta niin pahasti ei
+						ollut kuitenkaan käynyt. Laivan kokki oli vahingossa pudottanut
+						hopealusikan mereen pesu-vedessä. Hauki oli nähnyt lusikan välkkyvän ja
+						niellyt sen.</p>
+					<head style="romanType" xml:id="h5"><hi rend="bold"><hi rend="expanded">Lohi.</hi></hi></head>
+					<p style="romanType" xml:id="p9">Sillä on pyrstössä niin iso voima, että se usein lähättäypi kolme
+						kyynärätä ylös vedestä. Koskeen rakennetaan sille pato lujilla
+						<anchor xml:id="start2876"/>vaajoilla<anchor xml:id="end2876"/>, joka on näöltään kuin <figure type="illustration"><graphic url="10_1_032.jpg"/></figure>. Uidessaan koskea ylöspäin pyrkii
+						lohi siitä pienestä reijästä sisälle. Mutta ei päästyään etemmä pa<pb type="orig" n="70"/>dossa kääntyy se takasi eikä osaakkaan enää tulla ulos
+						reijästä. Niin saadaan usein Oulussa sadottain lohia päivässä. Lohia
+						pyydetään verkoilla eli koukuilla. Ja vaikka se on niin väkevä, kuolee
+						se kuitenkin kuonoon vähä lyötyä.</p>
+					<head style="romanType" xml:id="h6"><hi rend="bold"><hi rend="expanded">Muista kaloista.</hi></hi></head>
+					<p style="romanType" xml:id="p10">Kala on tottunut meren pohjassa oleviin ruohoihin; siksi ei se välttele
+						kala-miehen verkkoa. Välistä tarttuu se siihen päästä, välistä evistä.
+						Näin pyydetään silahkoita rannoillamme alavilla verkoilla, joita
+						kutsutaan potkuiksi ja lasketaan mereen mataloille yöksi. Niin pyydetään
+						silliäkin. Paljo saadaan kaloja nuotalla, joka potketaan kierrokseen
+						apajalle ja vedetään joka kerta maalle pitkillä köysillä. Kuninkaat ja
+						rikkaat miehet elättävät kaloja lammikoissa. Siitä tiedetään haukien ja
+						toutainten elävän kahden ja kolmen sadan vuoden vanhoiksi. Muutamilla
+						naaras-kaloilla on yhdeksään miljonaan mädin siemeniä sisässä. Se on
+						niin paljo, että jos niitä luettaisiin yötä ja päivää, saisi niitä lukea
+						monta viikkoa. Jos jokaisesta mäti-siemenestä tulisi kala, olisivat
+						kyllä kaikki vedet aivan täynnä kaloja. Mutta kaikkein suurimman osan
+						kaloista syövät muut kalat eli ihmiset. Samoin käypi lukemattomille
+						kalan-pojille pieninä ollessa. Nyt ovat viisaat ihmiset oppineet kalan
+						mädistä hautomaan poikia vedessä olevissa loodissa. Isommiksi tultua
+						päästetään sikiöt mereen pyydettäviksi, kun ovat tulleet
+						täysikasvuisiksi.</p>
+					<head style="romanType" xml:id="h7"><hi rend="bold"><anchor xml:id="start2877"/>Lohi.<anchor xml:id="end2877"/></hi></head>
+					<lg xml:id="lg11">
+						<l style="romanType">Keväimen lämmin laskevi</l>
+						<l style="romanType">Pois jäät vesistä Pohjan.</l>
+						<l style="romanType">Vesi vapaana vierivi,</l>
+						<l style="romanType">Alas merehen hyökyvi.</l>
+					</lg>
+					<lg xml:id="lg12">
+						<l style="romanType">Mik’ on, joka sun johdattaa,</l>
+						<l style="romanType">Lohi, meristä tänne?</l>
+						<l style="romanType">Ah, aaltoko on armasta</l>
+						<l style="romanType">Kovissa Pohjan koskissa?</l>
+					</lg>
+					<pb type="orig" n="71"/>
+					<lg xml:id="lg13">
+						<l style="romanType">Ah, onko armas aallossa</l>
+						<l style="romanType">Sen yö ja päivä sulle?</l>
+						<l style="romanType">Kovassa kosken pauhussa</l>
+						<l style="romanType">Näkyykö taivas kaunissa?</l>
+					</lg>
+					<lg xml:id="lg14">
+						<l style="romanType">Meri on aava aaltonen</l>
+						<l style="romanType">Vapaa sun uidaksesi;</l>
+						<l style="romanType">Tyven se on ja pauhunen,</l>
+						<l style="romanType"><anchor xml:id="start2878"/>Kuvainen<anchor xml:id="end2878"/>, kirkas, kaunonen.</l>
+					</lg>
+					<lg xml:id="lg15">
+						<l style="romanType">Mut Pohjan kosket raittihit,</l>
+						<l style="romanType">Suvanto-vedet välillä,</l>
+						<l style="romanType">Sinun ne täällä synnytit;</l>
+						<l style="romanType">Meren sä siksi unhotit.</l>
+					</lg>
+					<lg xml:id="lg16">
+						<l style="romanType">Siis riennät tänne viettämään</l>
+						<l style="romanType">Kesääsi Pohjolassa,</l>
+						<l style="romanType">Sen kauneutta katsomaan,</l>
+						<l style="romanType">Suloa täällä nauttimaan.</l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

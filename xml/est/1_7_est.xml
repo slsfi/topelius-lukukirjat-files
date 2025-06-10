@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Seitsemäs Luku. Kasveista</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>7</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Seitsemäs Luku. Kasveista</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head style="blackletter" xml:id="h1"><hi rend="bold">Seitsemäs Luku.</hi></head>
+				<head style="romanType" xml:id="h2"><hi rend="bold expanded"><anchor xml:id="start2982"/>Kasveista<anchor xml:id="end2982"/>.</hi></head>
+				<figure type="illustration"><graphic url="10_1_035.jpg"/></figure>
+				<p style="romanType" xml:id="p1">Tuossa pienessä huoneessa liki herrastalon veräjää asuu vanha mies. Se on
+					puutarhan-hoitaja, joka tekee niin ahkerasti työtä lapiolla ja
+					rauta-haravalla puutarhassa. Se näyttää niin hyvältä ja ystävälliseltä,
+					jonkalaiseksi se tulee, jolla on alinomaa tekemistä semmoisen kanssa, joka
+					on kaunista luonnossa. Hän kutsuu puita oppilaisikseen, ja kukkia
+					neitosikseen. Hän pitää niitä hyvinä, juurikuin hyvä isä lapsiaan, ja
+					selvästi on nähtävä, kuinka ne menestyvät hänen hoidossaan. Kasvit ovat
+					hänen rikkautena, ja ne palkitsevat monikertaisesti hänen vaivansa. Ei hän
+					voi ymmärtää, kuinka kevytmielisillä ihmisillä on sydäntä vahingoittaa
+					kasveja ilman <anchor xml:id="start2983"/>mittäkään hyödyttä<anchor xml:id="end2983"/>. Nähtyään jonkun pojan vahingoittavan puun
+					kuorta, sanoo hän pojalle: ajatteletko mitä teet? Tämä puu on kaunistuksena
+					ja varjona koko tienoolle. Ihmisille ja eläimille on siitä iloa pitkiksi
+					ajoiksi; mutta aivan suotta vahingoitat sinä sitä, joka on tarvinnut monta
+					vuotta kasvaaksensa.</p>
+				<p style="romanType" xml:id="p2">Ja toiselle pojalle sanoo hän: jos haluat vähällä vaivalla tehdä jotakin
+					kaunista, josta sinulle ja muille on kauvan iloa, niin istuta puu. Se kasvaa
+					nukkuissasikin.</p>
+				<pb type="orig" n="87"/>
+				<p style="romanType" xml:id="p3">Ja tuolle tyttöselle sanoo hän: pane kukkia keväillä puutarhaasi ja talvella
+					kruukkuihisi. Hoida ne hyvästi ja kastele niitä usein. Se iloittaa ihmisen
+					sydäntä nähdessään viattomia kasvavan maan päällä ja kukoistavan hänen
+					<choice><orig>ystävällisessa</orig><reg>ystävällisessä</reg></choice> hoidossaan.</p>
+				<p style="romanType" xml:id="p4">Usein käski hän minua, kulkeissani veräjän läpi, tulemaan puutarhaan. Siellä
+					puhui hän minulle kauniita opetuksia kasvien monenlaisuudesta. Ja mitä hän
+					puhui, sanon minäkin nyt teille. Mutta kaikkia et sinä vielä voi ymmärtää.
+					Vielä on sinulla paljo oppimista vanhemmaksi tullessasi.</p>
+				<p style="romanType" xml:id="p5">Tule veljeni, tule sisareni, menemme ulos tuonne isoon metsään. Siellä on
+					paljo kasveja. Mistä tiedämme niiden ei olevan eläimiä? Siitä, etteivät
+					kasvit tunne, jos niihin koskemme; ja siitä, etteivät ne, niinkuin eläimet,
+					voi itsestään liikkua edes ja takasin-päin.</p>
+				<p style="romanType" xml:id="p6">Mistäpä tiedämme niiden ei olevan kiviä? Siitä, että kasvit ensin ovat pieniä
+					ja sitte kasvavat isommiksi; siitä, että ne kasvavat sisäte nestetten
+					ympärijuoksusta; siitä että ne tarvitsevat ruokaa, että ne elävät jonkun
+					ajan ja sitte kuolevat.</p>
+				<p style="romanType" xml:id="p7">Katso, koko maa on Jumalan ihana puutarha. Siinä on Jumala istuttanut
+					kaikkein erilaisimpia <anchor xml:id="start2984"/>kasvuja<anchor xml:id="end2984"/>, aivan suuresta <anchor xml:id="start2985"/>petäjästä<anchor xml:id="end2985"/>, jonka latva ylettyy
+					pilviin, aina tuohon pienoiseen <anchor xml:id="start2986"/>homeesen<anchor xml:id="end2986"/>, joka kasvaa kaapissa olevassa
+					leipäpalasessa. Mutta kaikki kasvit ovat toistensa laisia siinä, että ne
+					kasvaavat siemenestä, ja jokainen kasvi antaa siemeniä uusille kasveille,
+					jotka <choice><orig>ovan</orig><reg>ovat</reg></choice> samaa lajia.</p>
+				<p style="romanType" xml:id="p8">Tule, istu tähän <anchor xml:id="start2987"/>pihlajan<anchor xml:id="end2987"/> oksain alle ruohokkoon. Koko pihlaja on valkeana
+					kukista, jotka levittävät ympärillensä suloisen hajun. Näiden kukkain
+					kasvettua jonkun ajan, putoavat niistä kukan-lehdet, ja sitte kasvaa kukan
+					sijaan pihlajanmarja, joka on hedelmä ja jossa on monta siementä. Siemen,
+					pudottuaan multaan, turpeutuu lämpimästä ja kosteudesta. Itse se kuolee,
+					mutta siitä kas<pb type="orig" n="88"/>vaa uusi elo. Siemenestä lähtee <anchor xml:id="start2988"/>heisi<anchor xml:id="end2988"/> alaspäin ja
+					heisi ylöspäin, ja silloin sanotaan: siemen <hi rend="expanded">itää.</hi>
+					Siinä nousee <hi rend="expanded"><anchor xml:id="start2989"/>oras<anchor xml:id="end2989"/></hi> ylöspäin yhtenä eli kahtena
+					hienona lehtenä, joita kutsutaan <hi rend="expanded"><anchor xml:id="start2990"/>sirkka-lehdiksi<anchor xml:id="end2990"/>,</hi>
+					josta sitte tulee <hi rend="expanded"><anchor xml:id="start2991"/>korsi<anchor xml:id="end2991"/></hi> eli <hi rend="expanded"><anchor xml:id="start2992"/>vali<anchor xml:id="end2992"/>.</hi> Juuri haaroittuu monelle suunnalle ja imee elatusta maasta.
+					Korresta eli valista lähtee uusia <hi rend="expanded"><anchor xml:id="start2993"/>vesoja<anchor xml:id="end2993"/>,</hi> jotka
+					kasvavat <hi rend="expanded">oksiksi</hi> ja <hi rend="expanded">haaroiksi.</hi> <anchor xml:id="start2994"/>Oksat kantavat sitte <hi rend="expanded">lehtiä,</hi>
+					jotka imevät elatusta ilmasta.<anchor xml:id="end2994"/> Kesän tullessa ja kasvin päästyä isommaksi,
+					tekee se <hi rend="expanded"><anchor xml:id="start2995"/>silmikoita</hi> eli <hi rend="expanded">urpia<anchor xml:id="end2995"/></hi> ja alkaa kukkia. Kukista kasvavat sitte hedelmät, joissa on
+					taas uusia siemeniä, ja siemenistä kasvaa taas uusia kasveja.</p>
+				<figure type="illustration"><graphic url="10_1_036.jpg"/></figure>
+				<p style="romanType" xml:id="p9">Tarkasti katsoessamme kukkia, näkyy muutamissa olevan keskellä juurikuin
+					rihma eli <anchor xml:id="start2996"/>nasta<anchor xml:id="end2996"/>. Tämän alapuolesta, joka aikaa myöten kasvaa loppuun, tulee
+					sitte hedelmä. Toisissa kukissa on yksi eli useampi rihma, joiden nenässä on
+					pieni <anchor xml:id="start2997"/>nyhämäinen<anchor xml:id="end2997"/> nasta; tämä on se, jossa on <anchor xml:id="start2998"/>siitepöly<anchor xml:id="end2998"/>. Usein on näitä
+					erinäisiä laitoksia samassa kukassa. Katsoppa tuota pientä kukkaa, joka on
+					kuvattu tähän kirjaan sivulle. Se on <anchor xml:id="start2999"/>peltokukka<anchor xml:id="end2999"/>. Keskellä kukkaa on pieni
+					rihma, jonka pää on halki, se on se, josta sitte hedelmä ja siemen kasvavat.
+					Sen ympärillä on neljä muuta rihmaa vasta päässä. Näissä rihmoissa on
+					siite-pöly. Niitä suippoja lehtiä, jotka alapuolella ovat kukan ympärillä,
+					kutsutaan <anchor xml:id="start3000"/>kukan-verhoksi<anchor xml:id="end3000"/>; mutta ne viisi lehteä yläpuolella ovat
+					<anchor xml:id="start3001"/>kukkalehdet<anchor xml:id="end3001"/>. Toinen kasvi kukan vieressä on <anchor xml:id="start3002"/>rukiin<anchor xml:id="end3002"/> olki <anchor xml:id="start3003"/>tähkäneen<anchor xml:id="end3003"/>.</p>
+				<p style="romanType" xml:id="p10">Muutamilla kasvilla, niinkuin <anchor xml:id="start3004"/>sienillä<anchor xml:id="end3004"/> ja <anchor xml:id="start3005"/>sammalilla<anchor xml:id="end3005"/>, ei ole kukkia; mutta
+					kaikilla kasveilla ovat siemenet. Yksi jyvä-kasvin tähkä antaa 50 ja 100 <pb type="orig" n="89"/>siementä. Muutamat puut antavat milt’ei 500,000
+					(viisisataatuhatta) siementä yhtenä kesänä. Ja kuitenkin voivat kasvit
+					levetä monella eritavalla. Eräänä päivänä näin puutarhan-hoitajan leikkaavan
+					<anchor xml:id="start3006"/>halavasta<anchor xml:id="end3006"/> oksan ja pistävän sen märkään maahan. Sitte taittoi hän
+					<anchor xml:id="start3007"/>aaprotipensaasta<anchor xml:id="end3007"/> oksan ja pisti senkin maahan. Miksikä teette niin? kysyin
+					minä. Sen tulet tietämään yhden eli kahden viikon perästä, sanoi
+					puutarhanhoitaja. Niinpä kävikin. Sen ajan kuluttua alkoi halavan oksaan ja
+					aaprotiin kasvaa pieniä vesoja. Siitä ymmärsin niistä samassa kasvaneen
+					pieniä juuria alaspäin maahan. Ja näin tuli halavan oksasta koko halava, ja
+					katkastusta aaprodista koko aaprotipensas. Sellaista oksaa kutsui
+					puutarhanhoitaja <hi rend="expanded"><anchor xml:id="start3008"/>pistokkaaksi<anchor xml:id="end3008"/>.</hi> Mutta kun hän
+					leikkaamatta sujutti oksan maahan juurtumaan, kutsui hän sitä <hi rend="expanded"><anchor xml:id="start3009"/>juurrukkaaksi<anchor xml:id="end3009"/>.</hi></p>
+				<p style="romanType" xml:id="p11">Toisen kerran näin puutarhan-hoitajan leikkaavan oksan <anchor xml:id="start3010"/>omenapuusta<anchor xml:id="end3010"/> ja sen
+					hyvin tarkasti sovittavan kasvavaan pihlajaan. Muutaman ajan kuluttua alkoi
+					se oksa kasvaa omenia, koko muun puun osan kasvaessa pihlajanmarjoja. Tämä
+					oli hyvin kummallista. Näetkö, sanoi puutarhan hoitaja, olen <hi rend="expanded">istuttanut</hi> omenia pihlajaan.</p>
+				<p style="romanType" xml:id="p12">Mikä on syynä siihen, että lehdet <hi rend="expanded">lakastuvat</hi>
+					syksyllä? Se, että nesteet eivät enää nouse puun suoniin lämpimän ja valon
+					vähettyä. Silloin kasvi levähtää, juurikuin eläin nukkuu. Talvella ovat
+					useat puut tainnoksissa; mutta jos koetat keväillä kuoria puusta kuorta,
+					näetpä, kuinka se on jälleen märkänä sisäpuolelta. Silloin nesteet nousevat
+					uudestaan, ja siitä puhkeevat lehdet. Muutamat eläimet nukkuvat avoimin
+					silmin. Ja näin nukkuvat <anchor xml:id="start3011"/>hakopuutkin<anchor xml:id="end3011"/> talvella<supplied>,</supplied> ehkä ovat viheriöinä koko
+					vuoden ajan. Mutta kuumissa maissa, joissa on alinomainen kesä, kasvit aivan
+					vähä nukkuvat.</p>
+				<p style="romanType" xml:id="p13">Olen nähnyt kasveja, jotka elävät monta vuotta ja joita siksi kutsutaan <hi rend="expanded"><anchor xml:id="start3012"/>monivuotisiksi<anchor xml:id="end3012"/>.</hi> Sellaisia ovat <pb type="orig" n="90"/>puut,
+					joista muutamat tulevat usean tuhannen vuoden vanhoiksi. Mutta niitä
+					kasvuja, jotka yhtenä vuonna itävät ja toisena vuonna kukkivat ja sitte
+					lakastuvat, kutsutaan <hi rend="expanded">kaksivuotisiksi.</hi> Sellaisia
+					ovat kaali ja <anchor xml:id="start3013"/>juurikas<anchor xml:id="end3013"/>. Ja niitä, jotka elävät ainoastaan keväistä syksyyn,
+					kutsutaan <hi rend="expanded"><anchor xml:id="start3014"/>vuosinaisiksi<anchor xml:id="end3014"/>.</hi> Sellaisia ovat <anchor xml:id="start3015"/>pellava<anchor xml:id="end3015"/>,
+					<anchor xml:id="start3016"/>hamppu<anchor xml:id="end3016"/> ja monta <anchor xml:id="start3017"/>kukka-kasvia<anchor xml:id="end3017"/>. Muutamia, niinkuin <anchor xml:id="start3018"/>resedakasvia<anchor xml:id="end3018"/>, viljellään
+					kruukuissa talvella. Muutamia, niinkuin ruista ja <anchor xml:id="start3019"/>ohraa<anchor xml:id="end3019"/>, kylvetään peltoon
+					ihmisten ruuaksi. Muutamat istutetaan siihen, jossa ne eivät muutoin
+					kasvaisi, niinkuin hedelmäpuut, marjapensaat, <anchor xml:id="start3020"/>sipulit<anchor xml:id="end3020"/> ja <anchor xml:id="start3021"/>potaatit<anchor xml:id="end3021"/>. Sillä
+					kaikki kasvit eivät menesty kaikissa paikoissa, vaan Jumala on antanut
+					jokaiselle kasvilajille sellaisen asuinpaikan, joka <choice><orig>sillen</orig><reg>sille</reg></choice> on sopivin.
+					Oletko nähnyt, kuinka kukka-kasvit mieluisesti kallistuvat akkunan-ruutuun
+					päin? Kaikki kasvit tarvitsevat valoa ja kallistuvat mieluisesti sinne päin,
+					josta Jumalan päivänvalo kirkkaimmin lankeaa niihin. Mutta muutamat kasvavat
+					ainoasti vedessä, muutamat kovassa auringon valossa, muutamat paremmin
+					varjossa, muutamat märässä maassa ja muutamat kuivissa paikoissa. Muutamat,
+					niinkuin muuan laji sammalia, kasvavat toisissa kasvuissa. Ja muutamat
+					tarvitsevat ison lämpimän, niin että ne ainoasti kasvavat kuumissa maissa;
+					mutta muutamat tytyvät vähempään lämpimään ja kasvavat täällä kylmemmässäkin
+					maassa. <anchor xml:id="start3022"/>Etinnä<anchor xml:id="end3022"/> tuolla <anchor xml:id="start3023"/>pohjoisessa<anchor xml:id="end3023"/> ja <anchor xml:id="start3024"/>etelässä<anchor xml:id="end3024"/>, jossa on alinomainen talvi,
+					ei ole enää ikuisen lumen alla yhtään kasvia.</p>
+				<p style="romanType" xml:id="p14">Kasveja on sanomattoman paljo maan päällä. Kuka voipi lukea puut metsässä eli
+					<anchor xml:id="start3025"/>jyväkasvien<anchor xml:id="end3025"/> olet pellolla eli ruohot <anchor xml:id="start3026"/>kedolla<anchor xml:id="end3026"/>. Jumala teki ne niin moniksi,
+					että ne kaunistaisivat maan viheriäisyydellään ja tulisivat ihmisille ja
+					eläimille ravinnoksi. Sillä kaikilla elävillä olennoilla on ravinto
+					<anchor xml:id="start3027"/>kasvikunnasta<anchor xml:id="end3027"/>. Itse <anchor xml:id="start3028"/>leijonakin<anchor xml:id="end3028"/> kuolisi nälkään, jos ei sillä olisi muita
+					eläimiä ruuaksi; ja nämä eläimet, joita leijona syöpi, ovat eläneet
+					kasveista. Siksi <pb type="orig" n="91"/>on Jumala suonut kasvikunnan tuottamaan
+					hyvänmakuisimpia ja suloisimpia hedelmiä. Ja sitte on hän niin laittanut,
+					että nämä hedelmät saavat olla rauhassa, siksi kuin <hi rend="expanded">kypsyvät.</hi> Tätä ennen maistuvat ne pahalle ja kutsutaan <hi rend="expanded">raa’oiksi.</hi> Mutta oikein kypsyttyään putoavat ne
+					usein itsestään alas ja juurikuin sanovat sivukulkijalle: tule ja ota
+					minut!</p>
+					<head style="romanType" xml:id="h3"><hi rend="bold"><hi rend="expanded">Puista.</hi></hi></head>
+					<p style="romanType" xml:id="p15">Tuuli suhisee metsässä; <anchor xml:id="start3029"/>männyn-kärkät<anchor xml:id="end3029"/> putoavat maahan. Jonkun ajan ajaa
+						niitä tuuli ympäriinsä; mutta viimein tarttuvat ja pysähtyvät ne
+						<anchor xml:id="start3030"/>hietaan<anchor xml:id="end3030"/>. Sitte itävät nuo pienet siemenet, joita on kärkän sisässä
+						kovain suomujen alla. Pieni vesa nousee maasta. Jo silloin on siinä
+						pieniä viheriäisiä neuloja, joita kutsutaan <hi rend="expanded"><anchor xml:id="start3031"/>havun-neuloiksi<anchor xml:id="end3031"/>.</hi> Vielä on se pienenä; <anchor xml:id="start3032"/>hevonen<anchor xml:id="end3032"/> voipi sen
+						polkea, <anchor xml:id="start3033"/>karhu<anchor xml:id="end3033"/> voipi sen purra poikki. Pian kasvaa se korkeammaksi; jo
+						voipi siinä eroittaa rungon ja useita oksia. Vuosia kuluu; monta kesää
+						sataa; monta talvea tuiskuaa. Varsi kohoaa aina ylemmä; oksat tulevat
+						aina isommiksi. Kahdenkymmenen vuoden kuluttua on se pieni vesa tullut
+						isoksi puuksi. Alimmaiset oksat ovat lakastuneet ja pudonneet pois.
+						Ylimmäiset oksat ovat puun latvana. Kuuden-kymmenen vuoden perästä ei
+						<anchor xml:id="start3034"/>mänty<anchor xml:id="end3034"/> enää kasva pituudelleen. Mutta se <choice><orig>kasva</orig><reg>kasvaa</reg></choice> vielä vahvuudelleen. Jos
+						se on hyvää laatua ja kasvaa sopivalla maalla, tulee siitä petäjä, josta
+						saadaan suuri pölkky eli paksu masto. Juuresta hakattuna näkee sen
+						sisällisen muodon. Sisimmäisenä on <hi rend="expanded"><anchor xml:id="start3035"/>ydin</hi> eli
+						sydän<anchor xml:id="end3035"/>. Sydämen ympärillä on <hi rend="expanded"><anchor xml:id="start3036"/>puu<anchor xml:id="end3036"/>.</hi> Puun ympärillä
+						on <hi rend="expanded"><anchor xml:id="start3037"/>mäihä</hi> (jälsi)<anchor xml:id="end3037"/>. Mäihän ympärillä on <hi rend="expanded"><anchor xml:id="start3038"/>kuori<anchor xml:id="end3038"/>.</hi> Kuoren päällä kihoilee <hi rend="expanded"><anchor xml:id="start3039"/>pihka<anchor xml:id="end3039"/>.</hi> Ja tarkasti katsoessa hakattua päätä,
+						näkee siinä keltasia rantuja eli renkaita puussa, toinen toisensa
+						takana, sydämestä kuoreen asti. Sillä joka vuonna on puu tullut sen
+						verran vahvemmaksi, <pb type="orig" n="92"/>kuin on väliä yhdestä renkaasta toiseen.
+						Rantuin luettua saapi niistä tiedä puun ijän.</p>
+					<p style="romanType" xml:id="p16"><hi rend="expanded">Mänty</hi> on <hi rend="expanded"><anchor xml:id="start3040"/>havupuu<anchor xml:id="end3040"/>,</hi> jonka
+						juuri pistää syvälle maahan. Se on kalliin puunlajimme. Sen rungosta
+						hakkaamme hirsiä ja palkkia, eli sahaamme sen lankuiksi ja laudoiksi.
+						Sen pihasta saamme <anchor xml:id="start3041"/>hartsia<anchor xml:id="end3041"/> eli poltamme sen tervaksi. Mikä on tuon
+						toisen pitkän havupuun nimi, joka seisoo metsässä männyn vieressä ja
+						jolla ovat niin pitkät riippuvat oksat? Se on se kaunis <hi rend="expanded">kuusi,</hi> jonka harvasyisempi puu paukkuu niin
+						iloisesti tulessa. Sen juuret levenevät likempänä maan pintaa
+						ympäriinsä. Ja mikä on tuon puun nimi, jolla ovat hienommat havun-neulat
+						ja mutkaset oksat ja pienet hyvänhajuiset marjat? Se on <hi rend="expanded"><anchor xml:id="start3042"/>kataja<anchor xml:id="end3042"/>,</hi> jonka hienoksi hakattuja oksia
+						piristellään tuvan lattialle. Mutta usein ei kataja tule puuksi, vaan on
+						pensaana, joka kasvaa pitkin maata.</p>
+					<p style="romanType" xml:id="p17">Minä sanoin: eikö ole muuta puuta, joka on petäjää pitempi?
+						Puutarhan-hoitaja sanoi: etkö ole lukenut raamatussa <anchor xml:id="start3044"/><anchor xml:id="start3043"/>kuningas Salomonin<anchor xml:id="end3044"/>
+						rakentaneen Jerusalemin temppelin Libanon’in <anchor xml:id="start3045"/>vuorelta<anchor xml:id="end3045"/> tuoduista
+						<anchor xml:id="start3046"/>setripuista<anchor xml:id="end3046"/><anchor xml:id="end3043"/>. <hi rend="expanded">Setripuu</hi> on hyvänhajuinen havupuu,
+						paljoa pitempi petäjää. Vielä muitakin havupuita kasvaa muissa maissa.
+						Siellä rakennetaan laivoja niistä pitkistä <hi rend="expanded"><anchor xml:id="start3047"/>leivopuista<anchor xml:id="end3047"/>.</hi> Siellä istutetaan <hi rend="expanded"><anchor xml:id="start3048"/>sypressipuita<anchor xml:id="end3048"/></hi> rakasten ystäväin haudoille murheen
+						muistokuvaksi.</p>
+					<p style="romanType" xml:id="p18">Kävellessäsi metsässä havaitset pian havupuiden kasvavan kovemmassa
+						maassa, hiedassa ja kivikossa. Sitte tulet toiselle paikalle, jossa maa
+						on pehmeämpää ja usein märempää. Siinä kasvaa aivan muita puita, joilla
+						on havun-neulain sijassa oksissa hienoja lehtiä. Silloin sanot: olemmepa
+						tulleet lehtimetsään, sillä nämä puut ovat <hi rend="expanded"><anchor xml:id="start3049"/>lehtipuita<anchor xml:id="end3049"/>.</hi> Olethan nähnyt sen ylevän <hi rend="expanded"><anchor xml:id="start3050"/>tammen<anchor xml:id="end3050"/>,</hi> jonka siemenet ovat piilossa pyöreissä <anchor xml:id="start3051"/>terhoissa<anchor xml:id="end3051"/>?
+						Aivan hitaasti se kasvaa; siksi tuleekin se hyvin vanhaksi ja aivan
+						kovaksi. Kun tahdotaan rakentaa oikein lujaa lai<pb type="orig" n="93"/>vaa,
+						rakennetaan se varsinkin tammesta. Mutta jos et ole nähnyt tammea, joka
+						kasvaa ainoasti etelä-Suomessa<supplied>,</supplied> olethan ainakin nähnyt <hi rend="expanded"><anchor xml:id="start3052"/>koivun<anchor xml:id="end3052"/>,</hi> joka kasvaa yleensä aina Lapinmaahan
+						saakka. Se on tuo, joka seisoo tuvan ulkopuolella riippuvine oksineen ja
+						lehtineen, ja josta saadaan sitkeintä työ-ainetta ja parhainta
+						poltto-puuta. Puukkosi pää on tehty sen juuresta, kovasta <anchor xml:id="start3053"/>visasta<anchor xml:id="end3053"/>. Elä
+						revi pois sen valkeaa tuohta, sen vielä kasvavana ollessa. Elä juoksuta
+						paljo pois sen hyvää <anchor xml:id="start3054"/>mahalaa<anchor xml:id="end3054"/>; puu mänettää silloin nesteensä ja kuolee.
+						Muistathan tuon tumman-viheriäisen <hi rend="expanded"><anchor xml:id="start3055"/>lepän<anchor xml:id="end3055"/>,</hi> joka
+						kasvaa märissä paikoissa ja tulee kuorittuna punaseksi? Muistathan <hi rend="expanded">pihlajan</hi> ja <hi rend="expanded"><anchor xml:id="start3056"/>tuomen<anchor xml:id="end3056"/></hi>
+						suloisine valkeine kukkineen ja hyvine marjoineen? Muistathan sen suoran
+							<hi rend="expanded"><anchor xml:id="start3057"/>haavan<anchor xml:id="end3057"/>,</hi> jonka lehdet alinomaa tärittävät
+						tuulessa? Muistathan <hi rend="expanded">halavan</hi> ja <hi rend="expanded"><anchor xml:id="start3058"/>raidan<anchor xml:id="end3058"/>,</hi> jotka ovat niin hauraita, ja sen
+						notkean <hi rend="expanded">pajun,</hi> joka mielellään haaraupi
+						pensaaksi? Et ole tainnut nähdä sitä kaunista lehtevää <hi rend="expanded"><anchor xml:id="start3059"/>vaahteraa<anchor xml:id="end3059"/>,</hi> et sitä kaunista <hi rend="expanded"><anchor xml:id="start3060"/>aarnia<anchor xml:id="end3060"/></hi> ja <hi rend="expanded"><anchor xml:id="start3061"/>jalavata<anchor xml:id="end3061"/></hi> valkeine kukkineen
+						ja <hi rend="expanded"><anchor xml:id="start3062"/>niinipuuta<anchor xml:id="end3062"/>,</hi> jonka sisuskuoresta tehdään
+						<anchor xml:id="start3063"/>niinimattoja<anchor xml:id="end3063"/>? Mutta jos niitä olet nähnyt etelä-Suomessa, et ole
+						kuitenkaan nähnyt <hi rend="expanded"><anchor xml:id="start3064"/>pöökkipuuta<anchor xml:id="end3064"/>,</hi> vaikka tunnet
+						<anchor xml:id="start3065"/>puustavit<anchor xml:id="end3065"/>. Muinoin leikattiin ne sellaiseen kovaan puuhun, niillä
+						präntättäväksi. Ja <hi rend="expanded"><anchor xml:id="start3066"/>mahognipuuta<anchor xml:id="end3066"/></hi> ja <hi rend="expanded"><anchor xml:id="start3068"/>ebenholtsia</hi> eli mustaa puuta<anchor xml:id="end3068"/> ja monta muuta
+						kallista puunlajia olet nähnyt ainoasti huonekaluissa, joita nikkari
+						tekee. Sillä nämä puut kasvavat vaan lämpimissä maissa.</p>
+					<p style="romanType" xml:id="p19">Puutarhassa näin useita <hi rend="expanded">hedelmäpuita,</hi> joiden
+						mehukkaat hedelmät olivat hyviä syödä. <hi rend="expanded">Omenapuu</hi>
+						seisoi keväillä aivan lumi-valkeana kukista, ja syksyllä painoivat
+						omenat kaikki oksat <anchor xml:id="start3069"/>sujuksiin<anchor xml:id="end3069"/>. Vesi tuli suuhuni katsoessani <hi rend="expanded"><anchor xml:id="start3070"/>perunapuuta<anchor xml:id="end3070"/></hi> ja <hi rend="expanded"><anchor xml:id="start3071"/>kirsimarjapuuta<anchor xml:id="end3071"/>.</hi> Poimi vaan ja syö, sanoi puutarhanhoitaja.
+						Sitte saatat istuttaa siemenet, sillä se on hyvin <anchor xml:id="start3072"/>hupaista<anchor xml:id="end3072"/>. Entä kun
+						saat omenat kasvamaan vielä Pohjanmaallakin. Hämeessä kas<pb type="orig" n="94"/>vaa
+						sekä omenia että kirsimarjoja. Etelä-Suomessa kasvaa vielä
+						<anchor xml:id="start3073"/>peronanpuitaki<anchor xml:id="end3073"/>. Jos sinulla on hyvä onni, saat vielä plummoniakin <hi rend="expanded"><anchor xml:id="start3074"/>plummonipuusta<anchor xml:id="end3074"/>.</hi> Mutta maamme on kovin kylmä
+						eteläisille hedelmäpuille. Seuraa minua ansariin, niin näytän sinulle
+						monta sellaista.</p>
+					<p style="romanType" xml:id="p20">Ansari, mikä se on? kysyin minä. Puutarhanhoitaja sanoi: se on huone,
+						varsin rakennettu sellaisia ulkomaalais-kasveja varten, jotka
+						tarvitsevat hyvää lämmintä ja jotka paleltuisivat, jos ne olisivat
+						ulkona. Sellaista ansaria saatetaan lämmittää ja siinä on etelä-puolella
+						suuria akkunoita. Oletko koskaan <hi rend="expanded">syönyt <anchor xml:id="start3075"/>viskuja<anchor xml:id="end3075"/>,
+							<anchor xml:id="start3076"/>manteleja<anchor xml:id="end3076"/>, <anchor xml:id="start3077"/>saksanpähkinöitä<anchor xml:id="end3077"/>, <anchor xml:id="start3078"/>sitruneja<anchor xml:id="end3078"/>, <anchor xml:id="start3079"/>pomeranseja<anchor xml:id="end3079"/></hi> ja <hi rend="expanded"><anchor xml:id="start3080"/>viikunia<anchor xml:id="end3080"/>?</hi> Olen, sanoin minä, niitä olen ostanut
+						kaupungissa. Kaupunkiin tuodaan niitä laivoilla <anchor xml:id="start3081"/>mertä<anchor xml:id="end3081"/> myöten, sanoi
+						puutarhanhoitaja. Tässä näet ne kaikki kasvavan puissa. Oletko koskaan
+						juonut <hi rend="expanded">kahvea?</hi> Olen <choice><orig>kyllää</orig><reg>kyllä</reg></choice>. Tässä näet
+						<anchor xml:id="start3082"/>kahvipuun<anchor xml:id="end3082"/>, jonka siemenet kuivataan, ja sitte niitä poltetaan ja
+						jauhetaan kahvi-myllyssä. Oletko juonut suklaatia? Olen sitäkin. Tässä
+						näet <hi rend="expanded"><choice><orig>kakakopuun</orig><reg><anchor xml:id="start3083"/>kakaopuun</reg><anchor xml:id="end3083"/></choice>,</hi> jonka hedelmistä tehdään
+						<anchor xml:id="start3084"/>suklaatikakkuja<anchor xml:id="end3084"/>.</p>
+					<p style="romanType" xml:id="p21">Täällä ansarissa kasvaa hyviä kryytejä ja hyödyllisiä puu-lajia, joita
+						tuodaan kaukaa meritse. Oletko maistanut <hi rend="expanded"><anchor xml:id="start3085"/>kanelia<anchor xml:id="end3085"/></hi> ja <hi rend="expanded"><anchor xml:id="start3086"/>kryytineilikoita<anchor xml:id="end3086"/></hi> ja <hi rend="expanded"><anchor xml:id="start3088"/>laakeripuun<anchor xml:id="end3088"/></hi> lehtejä lakritsin ympärillä. Olen
+						kyllä. Tässä näet niiden kasvavan puissa. Oletko maistanut <hi rend="expanded"><anchor xml:id="start3089"/>kiina<anchor xml:id="end3089"/></hi> nimistä lääkettä, ja oletko tuntenut <hi rend="expanded"><anchor xml:id="start3090"/>kanvertin<anchor xml:id="end3090"/></hi> väkevää hajua? Olen senkin sairaana
+						ollessani. Tässä näet niitäkin. Kiina on puun kuorta ja kanvertti on
+						puun pihkaa. Tässä on toinen puu, jonka pihasta saadaan <hi rend="expanded">kautsukkia</hi> eli <hi rend="expanded"><anchor xml:id="start3091"/>gummi-elastikum’ia<anchor xml:id="end3091"/></hi> ja tässä on toinen, jonka pihasta saadaan
+						sitä sitkeää <hi rend="expanded"><anchor xml:id="start3092"/>gutta-perkkaa<anchor xml:id="end3092"/>.</hi> Tässä on <hi rend="expanded"><anchor xml:id="start3093"/>prisiljapuu<anchor xml:id="end3093"/>,</hi> josta sahattuja jauhoja <anchor xml:id="start3094"/>värjäri
+						panee <anchor xml:id="start3095"/>painelaitokseensa<anchor xml:id="end3095"/><anchor xml:id="end3094"/>, ja se kevyt <hi rend="expanded"><anchor xml:id="start3096"/>korkkipuu<anchor xml:id="end3096"/>,</hi>
+						josta leikataan korkkeja puteliin.</p>
+					<pb type="orig" n="95"/>
+					<p style="romanType" xml:id="p22">Tässä on <hi rend="expanded"><anchor xml:id="start3097"/>öljypuu<anchor xml:id="end3097"/>,</hi> josta luet niin paljo
+						raamatussa, sanoi puutarhan-hoitaja. Mutta ne suuret <hi rend="expanded"><choice><orig>palmapuut</orig><reg><anchor xml:id="start3098"/>palmupuut</reg><anchor xml:id="end3098"/></choice></hi> ovat niin korkeat, etteivät ne mahtuisi ansariin.
+						Kerron sitte sinulle niistä jotakin enemmän.</p>
+					<head style="romanType" xml:id="h4"><hi rend="bold"><hi rend="expanded">Pensaista ja
+							kyönnöksistä.</hi></hi></head>
+					<p style="romanType" xml:id="p23">Pane <anchor xml:id="start3099"/>viinamarja<anchor xml:id="end3099"/> maahan, niin itävät sen siemenet ja kasvavat ylös
+						vesoina. Mutta jokaisesta vesasta ei tule puuta, vaan <hi rend="expanded">pensas.</hi> Ja useat pensaat ovat, niinkuin
+						puutkin, monivuotisia kasveja, mutta paljoa pienempiä niitä. Niillä ei
+						ole, niinkuin puilla, oikeaa vartta, vaan oksat levenevät hajalleen
+						juuresta.</p>
+					<p style="romanType" xml:id="p24">Kesän kuluttua eteenpäin menen mielelläni poimimaan hyviä marjoja <hi rend="expanded"><anchor xml:id="start3100"/>vaarain<anchor xml:id="end3100"/>-</hi> ja <hi rend="expanded">viinamarja-pensaista.</hi> Niitä löydän metsässä kasvavina; mutta
+							<hi rend="expanded"><anchor xml:id="start3101"/>kurviaismarja-pensaita<anchor xml:id="end3101"/></hi> istutetaan
+						puutarhaan, ja <hi rend="expanded"><anchor xml:id="start3102"/>pähkinäpensas<anchor xml:id="end3102"/></hi> hyvine
+						pähkinöineen ei kasva ylempänä pohjoispuolella maata. Kerran sairastin,
+						ja silloin join <hi rend="expanded"><anchor xml:id="start3103"/>seljapensaan<anchor xml:id="end3103"/></hi> kukista keitettyä
+						teetä. Jälleen terveeksi tultuani oli keskikesä. Silloin puhkesivat <hi rend="expanded"><anchor xml:id="start3104"/>syrenein<anchor xml:id="end3104"/></hi> sulohajuiset <anchor xml:id="start3105"/>kihtaavat<anchor xml:id="end3105"/> kukat, ja <hi rend="expanded"><anchor xml:id="start3106"/>orjantappurapensaat<anchor xml:id="end3106"/></hi> olivat aivan punaisina
+						<anchor xml:id="start3107"/>ruusuista<anchor xml:id="end3107"/>. Niiden lemu oli lääkkeenä väsyneelle mielelleni. Aivan siitä
+						asti on ruusuin suloinen haju ollut minusta mieluista. Olen nähnyt niitä
+						monellaisia, yksinkertaisia ja kaksinkertaisia. Ja kättäni naarmittua
+						sen teräviin piikkiin olen sanonut <anchor xml:id="start3108"/>ruusupensaalle<anchor xml:id="end3108"/>: muut sinua toruvat;
+						minä annan sinulle anteeksi kauneutesi tähden.</p>
+					<p style="romanType" xml:id="p25">Ansarissa näin ihmeellisiä pensaita. Siinä oli <hi rend="expanded">teepensas,</hi> jonka kuivatuista lehdistä keitetään tavallista
+						teetä. Siinä oli <hi rend="expanded"><anchor xml:id="start3109"/>lakritsi-pensas<anchor xml:id="end3109"/></hi> ja <hi rend="expanded"><anchor xml:id="start3110"/>pippuripensas<anchor xml:id="end3110"/>,</hi> jonka karvaista marjoista
+						tehdään kryytejä ruokaan. Siinä oli se vuotuinen <hi rend="expanded"><anchor xml:id="start3111"/>pumpulipensas<anchor xml:id="end3111"/>,</hi> jonka siemenistä nyki<pb type="orig" n="96"/>tään ne hienot
+						pumpulit. Sitte kartataan pumpulit, kehrätään langoiksi ja kudotaan
+						pumpulivaatteeksi.</p>
+					<p style="romanType" xml:id="p26">Metsässä näin minä muutamia hyvin pitkiä pensaita, jotka kasvoivat pitkin
+						maata. Sellaisia kutsuttiin <hi rend="expanded"><anchor xml:id="start3112"/>varvuiksi<anchor xml:id="end3112"/>.</hi> Mutta
+						eivät ne olleet mitään pahoja ja vaarallisia varpuja, sillä niissä
+						kasvoi <hi rend="expanded"><anchor xml:id="start3113"/>mustikoita<anchor xml:id="end3113"/>, <anchor xml:id="start3114"/>juolukoita<anchor xml:id="end3114"/></hi> ja <hi rend="expanded"><anchor xml:id="start3115"/>puoloja<anchor xml:id="end3115"/>.</hi> En pitänyt niin vaaria <hi rend="expanded"><anchor xml:id="start3116"/>variksen-raakuista<anchor xml:id="end3116"/></hi> ja <hi rend="expanded"><anchor xml:id="start3117"/>si’anpuoloista<anchor xml:id="end3117"/>.</hi> Mutta <hi rend="expanded"><anchor xml:id="start3118"/>pursuja<anchor xml:id="end3118"/></hi> on hyvä
+						panna haudeveteen, ja se ruskea <hi rend="expanded"><anchor xml:id="start3119"/>kanerva<anchor xml:id="end3119"/></hi>
+						kaunistaa erämaan hietikotkin kauniilla vaaleanpunaisilla kukillaan.</p>
+					<p style="romanType" xml:id="p27">Kauvan olin miettinyt tuota tärkeätä asiata, josko rusinat kasvaisivat
+						puissa. Muutamana päivänä rohkenin tätä kysyä puutarhanhoitajalta. Hänpä
+						näytti minulle kummallisen kasvin, jolla oli niin pitkä ja hoikka varsi,
+						ettei se voinut kantaa omaa pituuttaan. Siksi oli se kääritty pitkän
+						seipään ympärille, joka seisoi tukena sen vieressä. Sellaisia kasveja
+						kutsutaan <hi rend="expanded"><anchor xml:id="start3120"/>kyönnöksiksi<anchor xml:id="end3120"/>,</hi> sanoi puutarhanhoitaja.
+						Ja tämä on <hi rend="expanded"><anchor xml:id="start3121"/>viinakyönnös<anchor xml:id="end3121"/>.</hi> Sen hedelmät kasvavat,
+						juurikuin pihlajanmarjat, <anchor xml:id="start3122"/>tertuissa<anchor xml:id="end3122"/> ja kutsutaan <hi rend="expanded"><anchor xml:id="start3123"/>rypäleiksi<anchor xml:id="end3123"/>.</hi> Muutamista rypäleistä puristetaan viiniä. Toisia
+						<anchor xml:id="start3124"/>pannaan sokeriin ja kutsutaan <hi rend="expanded">kruukkurusinoiksi<anchor xml:id="end3124"/>.</hi> Toisia taas kuivataan ja kutsutaan
+						rusinoiksi. Sellainen kyönnös on <hi rend="expanded"><anchor xml:id="start3125"/>humalakin<anchor xml:id="end3125"/>,</hi>
+						joka kasvaa humala-maissa, ja <hi rend="expanded"><anchor xml:id="start3126"/>muuri-viheriä<anchor xml:id="end3126"/>,</hi>
+						joka kiipeää muureja ja seiniä myöten ylös. <hi rend="expanded"><anchor xml:id="start3127"/>Kurkut<anchor xml:id="end3127"/></hi> ja <hi rend="expanded"><anchor xml:id="start3129"/>melonat<anchor xml:id="end3129"/>,</hi> joita viljellään
+						ansaripenkeissä, <hi rend="expanded">ovat</hi> kyönnöskasvien laisia,
+						mutta ne kiertelevät paremmin pitkin maata.</p>
+					<head style="romanType" xml:id="h5"><hi rend="bold"><hi rend="expanded">Yrttejä ja
+						ruohoja.</hi></hi></head>
+					<p style="romanType" xml:id="p28">Kesällä ulkona kävellessäni näen suloisen viheriän katteen olevan maalla.
+						Monia tuhansia <hi rend="expanded"><anchor xml:id="start3130"/>yrttikasveja<anchor xml:id="end3130"/></hi> elää niityillä ja
+						metsäin mä’illä <hi rend="expanded">lyhyen</hi> kukoistus-aikansa. Hyvin
+						erilaisiksi ovat ne luotuina, mutta kaikilla ovat viheriäiset varret,
+						jotka jakauvat haaroihin ja lakastuvat syksyllä. Miksi täytyy pellavaa
+						joka vuosi kylvää uu<pb type="orig" n="97"/>destaan? Siksi kun sen juuri on
+						vuotuinen. Miksi ei saada ensimäisenä, vaan vasta toisena vuotena
+						siemeniä nauriista ja juurikkaista? Siksi kun niiden juuret ovat
+						kaksivuotisia; varret ja lehdet lakastuvat syksyllä, mutta kasvavat
+						jälleen samasta juuresta tulevana keväänä.</p>
+					<p style="romanType" xml:id="p29">Pieneen pelto-tilkkuun on äiti kylvänyt <hi rend="expanded"><anchor xml:id="start3131"/>yrttikasvien<anchor xml:id="end3131"/></hi> siemeniä, joiden hedelmät ovat hyviä syödä. Siinä
+						kasvaa <hi rend="expanded"><anchor xml:id="start3132"/>herneitä<anchor xml:id="end3132"/></hi> ja <hi rend="expanded"><anchor xml:id="start3133"/>papuja<anchor xml:id="end3133"/></hi> pitkissä <anchor xml:id="start3134"/>palkoissa<anchor xml:id="end3134"/>. Sitte on äiti kylvänyt <anchor xml:id="start3135"/>juurikasvien<anchor xml:id="end3135"/>
+						siemeniä, joista syödään juuret, mutta ei varsia, lehtiä ja hedelmiä.
+						Syksyllä otamme ne maasta ylös. Sitte saamme hyviä <hi rend="expanded"><anchor xml:id="start3136"/>potaateja<anchor xml:id="end3136"/>,</hi> mehusia <hi rend="expanded">nauriita,</hi> isoja
+							<hi rend="expanded"><anchor xml:id="start3137"/>kaalijuurikkaita<anchor xml:id="end3137"/>,</hi> pieniä <hi rend="expanded"><anchor xml:id="start3138"/>rediisejä<anchor xml:id="end3138"/>,</hi> keltasia <hi rend="expanded">juurikkaita,</hi> valkeita <hi rend="expanded"><anchor xml:id="start3139"/>palsternakkoja<anchor xml:id="end3139"/></hi>
+						ja <hi rend="expanded"><anchor xml:id="start3140"/>retikkoja<anchor xml:id="end3140"/>,</hi> punasia <hi rend="expanded"><anchor xml:id="start3141"/>punajuurikkaita<anchor xml:id="end3141"/></hi> ja oikein väkevää <hi rend="expanded"><anchor xml:id="start3142"/>piparuutia<anchor xml:id="end3142"/>.</hi> Tästä ja potaateista on äiti pannut juuria maahan;
+						mutta ne muut on hän saanut siemenistä.</p>
+					<p style="romanType" xml:id="p30">Olen poiminut <hi rend="expanded"><anchor xml:id="start3143"/>lakkoja<anchor xml:id="end3143"/></hi> <anchor xml:id="start3144"/>suolta<anchor xml:id="end3144"/>, <hi rend="expanded"><anchor xml:id="start3146"/>mesi-mansikoita<anchor xml:id="end3146"/></hi> niityltä ja <hi rend="expanded"><anchor xml:id="start3147"/>savi-mansikoita<anchor xml:id="end3147"/></hi> metsän rinteiltä. Puutarhassa olen nähnyt
+						useita hyviä <hi rend="italics"><anchor xml:id="start3148"/>köökkikasveja<anchor xml:id="end3148"/></hi> viljeltävän
+						penkeissä. Siinä kasvaa isoja monellaisia <hi rend="expanded"><anchor xml:id="start3149"/>pääkaaleja<anchor xml:id="end3149"/></hi> ja <hi rend="expanded"><anchor xml:id="start3150"/>sallaatia<anchor xml:id="end3150"/></hi> ja
+						viheriäistä <hi rend="expanded"><anchor xml:id="start3151"/>pinaatia<anchor xml:id="end3151"/>,</hi> jota hakataan hienoksi
+						köökissä. Siinä viljellään useita <hi rend="italics"><anchor xml:id="start3152"/>kryytikasvejakin<anchor xml:id="end3152"/>,</hi> joita pannaan ruokaan, niinkuin <hi rend="expanded"><anchor xml:id="start3153"/>tilliä<anchor xml:id="end3153"/>, <anchor xml:id="start3154"/>persiljaa<anchor xml:id="end3154"/>, <anchor xml:id="start3155"/>meiramia<anchor xml:id="end3155"/></hi> ja <hi rend="expanded"><anchor xml:id="start3157"/>timjamia<anchor xml:id="end3157"/>. <anchor xml:id="start3158"/>Aniksen<anchor xml:id="end3158"/></hi> ja <hi rend="expanded"><anchor xml:id="start3159"/>venkoolin<anchor xml:id="end3159"/></hi> siemeniä panee äiti joululeipään kryyteiksi. Samoin
+						panee hän <hi rend="expanded">kuminoitakin;</hi> mutta niitä kasvaa
+						itsestään. <hi rend="expanded"><anchor xml:id="start3160"/>Inkivääriä<anchor xml:id="end3160"/>, <anchor xml:id="start3161"/>safrania<anchor xml:id="end3161"/>, <anchor xml:id="start3162"/>muskotia<anchor xml:id="end3162"/></hi> ja
+							<hi rend="expanded">kardemummaa</hi> ja sitä karvainta <hi rend="expanded"><anchor xml:id="start3163"/>sinappia<anchor xml:id="end3163"/>,</hi> jota syödään läskin kanssa, tuodaan
+						ulkomailta.</p>
+					<p style="romanType" xml:id="p31">Vielä on peltotilkussamme useita <hi rend="expanded"><anchor xml:id="start3164"/>sipulikasveja<anchor xml:id="end3164"/>.
+							<anchor xml:id="start3165"/>Ruohosipulista<anchor xml:id="end3165"/></hi> syömme varret ja <hi rend="expanded"><anchor xml:id="start3166"/>punasipulista<anchor xml:id="end3166"/></hi> juuret; mutta <hi rend="expanded"><anchor xml:id="start3167"/>kynsilaukalla<anchor xml:id="end3167"/></hi> on paha haju. Useita kukkia, niinkuin
+						<anchor xml:id="start3168"/>lemmenkukkia<anchor xml:id="end3168"/> ja <anchor xml:id="start3169"/>tulppaneja<anchor xml:id="end3169"/>, kasvaa sipulin<pb type="orig" n="98"/>juurista. Mutta
+						sipuli ei ole mikään oikea juuri, vaan <anchor xml:id="start3170"/>pakurainen<anchor xml:id="end3170"/> vali, josta kasvaa
+						<anchor xml:id="start3171"/>juuriheisiä<anchor xml:id="end3171"/> alaspäin.</p>
+					<p style="romanType" xml:id="p32">Hevosemme ja karjamme ymmärtävät ruokansa valita laitumella. <anchor xml:id="start3172"/>Voi-kukista<anchor xml:id="end3172"/>
+						ja muista karvaista kukista eivät ne huoli; vaan hyvin mielellään syövät
+							<hi rend="expanded"><anchor xml:id="start3173"/>hiirenherneitä<anchor xml:id="end3173"/></hi> ja <hi rend="expanded"><anchor xml:id="start3174"/>apilasta</hi> eli paulakukkaa<anchor xml:id="end3174"/>, sekä punaista että valkeaa.
+						Sellaisia yrttikasveja kylvämme ja kutsumme niitä <hi rend="italics"><anchor xml:id="start3175"/>karjanruoka-yrteiksi<anchor xml:id="end3175"/>.</hi></p>
+					<p style="romanType" xml:id="p33">Isä ostaa välistä <hi rend="expanded"><anchor xml:id="start3176"/>raparperia<anchor xml:id="end3176"/></hi> ja <hi rend="expanded"><anchor xml:id="start3177"/>oksennusjuurta<anchor xml:id="end3177"/></hi> apteekista, kun sairastumme.
+						Mutta siihen ei hänellä ole aina varoja. Siksi kasvatamme kotona hyviä
+							<hi rend="italics"><anchor xml:id="start3178"/>lääke-yrttejä<anchor xml:id="end3178"/>,</hi> niinkuin <hi rend="expanded"><anchor xml:id="start3179"/>minttua<anchor xml:id="end3179"/>, <anchor xml:id="start3180"/>aaprotia<anchor xml:id="end3180"/>, <anchor xml:id="start3181"/>lavendelia<anchor xml:id="end3181"/></hi> ja <hi rend="expanded"><anchor xml:id="start3182"/>aalumin-juurta<anchor xml:id="end3182"/>.</hi> Muita sellaisia, niinkuin <hi rend="expanded"><anchor xml:id="start3183"/>vehkoja<anchor xml:id="end3183"/>, <anchor xml:id="start3184"/>kynsillis-ruohoja<anchor xml:id="end3184"/></hi> ja <hi rend="expanded"><anchor xml:id="start3185"/>maliheiniä<anchor xml:id="end3185"/></hi> poimimme metsistä. Isä on myös neuvonut meitä
+						tuntemaan <hi rend="expanded">myrkylliset</hi> yrtit. Kyllä me varomme
+						itsiämme <hi rend="expanded"><anchor xml:id="start3186"/>hullun-ruohosta<anchor xml:id="end3186"/>,</hi> jossa ovat mustat ja
+						valkeankeltaset kukat. Me eroitamme sen myrkyllisen <hi rend="expanded"><anchor xml:id="start3187"/>myrkkyputken<anchor xml:id="end3187"/>,</hi> jonka varressa on pilkkoja, <hi rend="expanded"><anchor xml:id="start3188"/>koiran-putkesta<anchor xml:id="end3188"/>,</hi> joka ei ole vahingollinen. <hi rend="expanded"><anchor xml:id="start3189"/>Näsiänmarjat<anchor xml:id="end3189"/></hi> eivät petä meitä, vaikka ovat
+						punaisten viinamarjain laisia. <hi rend="expanded"><anchor xml:id="start3190"/>Käärmeenmarjoista<anchor xml:id="end3190"/>,
+							<anchor xml:id="start3191"/>koisopuunmarjoista<anchor xml:id="end3191"/></hi> ja <hi rend="expanded">voikukista</hi> emme
+						luule ollenkaan hyvää. Myrkyllistä yrttikasvia olemme istuttaneet
+						etelä-puolelle tupaa, ja sitä kutsumme <anchor xml:id="start3192"/>tupakiksi<anchor xml:id="end3192"/>. Sitä saatetaan polttaa
+						ja purra ja nuuskata, kun siihen on totuttu. Mutta se, joka ei ole
+						siihen tottunut, tulee siitä sairaaksi. Ja sitä emme huoli koetella.</p>
+					<figure type="illustration"><graphic url="10_1_037.jpg"/></figure>
+					<p style="romanType" xml:id="p34">On se hyvää ja iloista, kun näkee kukkakruukkuja akkunoissa. Liisalla on
+						useita kauniita <hi rend="italics"><anchor xml:id="start3193"/>puutarhan-kukkia<anchor xml:id="end3193"/>.</hi>
+						<hi rend="expanded"><anchor xml:id="start3194"/>Kurjenpolvi<anchor xml:id="end3194"/>, <anchor xml:id="start3195"/>palsamikukka<anchor xml:id="end3195"/></hi> ja <hi rend="expanded"><anchor xml:id="start3196"/>helmipu<anchor xml:id="end3196"/>u</hi> on sillä aina huoneessa sisällä. Ulos
+						on hän pannut kasvamaan keltasen <hi rend="expanded"><anchor xml:id="start3197"/>pääsiäiskukan<anchor xml:id="end3197"/>,</hi>
+						valkean <hi rend="expanded"><anchor xml:id="start3198"/>narsissin<anchor xml:id="end3198"/>,</hi> helopunasen <hi rend="expanded">pionin,</hi> kirjavan <hi rend="expanded"><anchor xml:id="start3199"/>valmun<anchor xml:id="end3199"/>,
+							<anchor xml:id="start3200"/>auringon-kukan<anchor xml:id="end3200"/>, tulppaanin, asterin, <anchor xml:id="start3201"/>tukkiruusun<anchor xml:id="end3201"/>, <anchor xml:id="start3202"/>keisarinkruunun<anchor xml:id="end3202"/>,
+							<anchor xml:id="start3203"/>tuhatkorean<anchor xml:id="end3203"/></hi> ja vieläpä <pb type="orig" n="99"/>muitakin. Mutta <hi rend="expanded"><anchor xml:id="start3204"/>lakviolaa<anchor xml:id="end3204"/>, <anchor xml:id="start3205"/>lövkoijaa<anchor xml:id="end3205"/></hi> ja <hi rend="expanded"><anchor xml:id="start3206"/>neilikkaa<anchor xml:id="end3206"/>,</hi> jotka kaikki lemuavat niin hyvältä, ja <hi rend="expanded"><anchor xml:id="start3207"/>myrttiä<anchor xml:id="end3207"/>,</hi> josta tehdään morsiankruunuja, ja sitä
+						sulohajuista <hi rend="expanded">resedaa,</hi> kukkain ujoa
+						torpantyttöä, — niitä kaikkia pitää Liisa enemmin kruukuissa.
+						Puutarhan-hoitaja on luvannut hänelle kaksi kauniinta sipulikasvua: <hi rend="expanded"><anchor xml:id="start3208"/>hyacinthin<anchor xml:id="end3208"/></hi> ja sen ison monivärisen <hi rend="expanded"><anchor xml:id="start3209"/>dahlian</hi> eli <hi rend="expanded">georginin<anchor xml:id="end3209"/>.</hi></p>
+					<p style="romanType" xml:id="p35">Niityillä kasvaa lukemattomia <hi rend="expanded"><anchor xml:id="start3210"/>metsäkukkia<anchor xml:id="end3210"/>.</hi>
+						Siellä näkee heti keväillä sinisen <hi rend="expanded"><anchor xml:id="start3211"/>kirsikukan<anchor xml:id="end3211"/></hi>
+						ja <hi rend="expanded"><anchor xml:id="start3212"/>vuohenkukan<anchor xml:id="end3212"/></hi> ja <hi rend="expanded"><anchor xml:id="start3215"/>säynäskukan<anchor xml:id="end3215"/></hi> ja <hi rend="expanded"><anchor xml:id="start3217"/>lehmänkielikukan<anchor xml:id="end3217"/>.</hi>
+						Sittemmin kesällä saadaan poimia <hi rend="expanded">voikukkia,
+							<anchor xml:id="start3218"/>kissankelloja<anchor xml:id="end3218"/></hi> ja <hi rend="expanded"><anchor xml:id="start3219"/>ketoneilikoita<anchor xml:id="end3219"/>.</hi>
+						Pellossa kasvaa <hi rend="expanded"><anchor xml:id="start3220"/>sinikukka<anchor xml:id="end3220"/>, <anchor xml:id="start3221"/>laukka<anchor xml:id="end3221"/></hi> ja <hi rend="expanded"><anchor xml:id="start3222"/>kaurankukka<anchor xml:id="end3222"/>.</hi> Vedestä saadaan <hi rend="expanded"><anchor xml:id="start3223"/>valkeita lummekukkia<anchor xml:id="end3223"/></hi> ja <hi rend="expanded"><anchor xml:id="start3224"/>keltasia lummekukkia<anchor xml:id="end3224"/>.</hi> Mahdotoin on niitä kaikkia luetella.
+						Mutta yhtä en voi olla mainitsematta. Metsässä kasvaa mäntyin juurilla
+						se pieni <hi rend="expanded"><anchor xml:id="start3225"/>venyheinänkukka</hi> eli <hi rend="expanded">linnea<anchor xml:id="end3225"/>,</hi> joka on saanut nimensä kasvien
+						järjestäjästä, siitä suuri-arvoisesta <anchor xml:id="start3226"/>Linne’estä<anchor xml:id="end3226"/>.</p>
+					<p style="romanType" xml:id="p36">Kerran poltin käteni tuossa pahassa <anchor xml:id="start3227"/>viholaisessa<anchor xml:id="end3227"/>. Menin kotiin sitä
+						valittamaan äitilleni. Äiti istui kutomassa. Elä ole milläsikään, sanoi
+						hän. Nyt kudon kaunista liinaa teille kaikille. Mistä on kudottava? Se
+						on pellava-langoista, joita sisaresi kehrää rukilla. Mistä ovat langat?
+						Ne ovat <hi rend="expanded">pellavista,</hi> joita isäsi on saanut
+						pellosta. Hyvin kauniina kasvavat ne siinä pienine sinisine kukkineen.
+						Syksyllä nykimme ne ylös juurineen. Sitte liotamme ne vedessä. <anchor xml:id="start3228"/>Sitte
+						loukutamme ne, niin että päistäreet varisevat pois. Sitte häkläämme<anchor xml:id="end3228"/> ne
+						niin että tappurat lähtevät pois. Sitte harjaamme ne. Niin ovat ne
+						valmiina kehrättäviksi. Mutta isällä on <hi rend="expanded">hamppuakin</hi>, joka on viholaisen näköistä. Hyvin lujia kuituja
+						saadaan hamppuin liotettua ja loukutettua. Köydenkehrääjä tekee niistä
+						lujimpia köysiä, ja niistä kudotaan säkkivaatetta ja purjevaatetta.</p>
+					<pb type="orig" n="100"/>
+					<p style="romanType" xml:id="p37">Menemmepä nyt niitylle ja leikittelemme <anchor xml:id="start3229"/>ruohokossa<anchor xml:id="end3229"/>. Siinä on suuri joukko
+						monellaisia kasvia, joilla kaikilla on <anchor xml:id="start3230"/>onsi<anchor xml:id="end3230"/> jäseninen korsi ja pitkät
+						kaitaset lehdet. Siinä on <hi rend="expanded"><anchor xml:id="start3231"/>hajuheinää<anchor xml:id="end3231"/>,</hi> joka
+						haisee niin hyvältä heinäladoissa. Siinä on <hi rend="expanded"><anchor xml:id="start3232"/>hiirenhäntäheinää<anchor xml:id="end3232"/></hi> ja <hi rend="expanded"><anchor xml:id="start3233"/>puntaripääheinää<anchor xml:id="end3233"/></hi>
+						ja <hi rend="expanded"><anchor xml:id="start3234"/>kastikasta<anchor xml:id="end3234"/></hi> ja <hi rend="expanded"><anchor xml:id="start3235"/>nurmikasta<anchor xml:id="end3235"/>.</hi> Nämä kaikki ja muut yhteensä ovat se pehmeä
+						viheriä heinikko, jota isä niittää viikatteella ja äiti haravoipi ja
+						kaikki sitte kantavat eli hevosella ajavat latoon. <anchor xml:id="start3236"/>Rannalla<anchor xml:id="end3236"/> kasvaa <hi rend="expanded"><anchor xml:id="start3237"/>saraheinää<anchor xml:id="end3237"/></hi> ja <hi rend="expanded"><anchor xml:id="start3238"/>vihvilää<anchor xml:id="end3238"/></hi>
+						valkeine untuvineen ja <hi rend="expanded"><anchor xml:id="start3239"/>rytiheinää<anchor xml:id="end3239"/>,</hi> joka niin
+						nöyrästi kumartelee jokaiselle tuulen löyhäykselle. Mutta tuolla vedessä
+						seisoo se pehmeä <hi rend="expanded"><anchor xml:id="start3240"/>kahila<anchor xml:id="end3240"/>,</hi> josta mattoja
+						letitetään.</p>
+					<p style="romanType" xml:id="p38">Aivan usein on meillä vastusta <hi rend="expanded"><anchor xml:id="start3241"/>rikkaruohosta<anchor xml:id="end3241"/></hi>
+						pellolla. <hi rend="expanded"><anchor xml:id="start3242"/>Virnas<anchor xml:id="end3242"/></hi> tukkeupi siihen halukkaasti,
+						ja <hi rend="expanded"><anchor xml:id="start3243"/>ohdake<anchor xml:id="end3243"/></hi> tahtoo alinomaa kasvaa uudelleen,
+						vaikka sitä nykitään juurineen pois. <hi rend="expanded"><anchor xml:id="start3244"/>Kauraheinä<anchor xml:id="end3244"/></hi>
+						ei ole siinä mieluista, ja <hi rend="expanded"><anchor xml:id="start3245"/>juolas<anchor xml:id="end3245"/></hi> juurtuu
+						alinomaa puutarhan penkkiin. Mutta <hi rend="expanded"><anchor xml:id="start3246"/>saviheinän<anchor xml:id="end3246"/></hi>
+						ja <hi rend="expanded"><anchor xml:id="start3248"/>vesiheinän<anchor xml:id="end3248"/></hi> kitkemme helpommasti pois.</p>
+					<p style="romanType" xml:id="p39">Missä sellaista ruohoa kasvaa, jota heiniksi niitetään, siinä on <hi rend="expanded">niitty;</hi> mutta jossa kasvaa jyväkasveja, siinä
+						on <hi rend="expanded">pelto.</hi> Mitä ovat jyvät? Ne ovat siemeniä
+						useista hyvistä kasveista, jotka kuuluvat <hi rend="expanded"><anchor xml:id="start3249"/>ruohoihin<anchor xml:id="end3249"/>.</hi> Isä kylvää syksyllä ruista peltoonsa. Silloin
+						kasvaa kylvöstä pienoisia oraita. Talvi tulee, lunta sataa, rukiin
+						laihon peittää lumi. Se ei kasva, se ei kuole; se odottaa aikaansa.
+						Kevät tulee, kesä lämmittää. Silloin käypi ruis tähkään; silloin
+						hedelmöivät tähät. Silloin hedelmöityvät ne, joka merkitsee että
+						siemenjyvät kasvavat tähissä, ja sitte tuleuvat ne. Silloin mennään
+						pellolle, leikataan ruis sirpillä, sidotaan lyhteisin, pannaan
+						<anchor xml:id="start3250"/>kuhiloille<anchor xml:id="end3250"/>, kuivataan auringon paisteessa ja puidaan riihessä. <anchor xml:id="start3251"/>Ruumenet<anchor xml:id="end3251"/>
+						eroitetaan pois, olet pannaan tallelle, jyvät jauhetaan myllyssä, ja
+						sitte leipoo äiti jauhoista kaunista lei<pb type="orig" n="101"/>pää ja keittää
+						parasta puuroa. Hyvin iloista ja hyvää on pellolla tehdä työtä.</p>
+					<p style="romanType" xml:id="p40">Mutta <hi rend="expanded"><anchor xml:id="start3252"/>ohrat<anchor xml:id="end3252"/></hi> kylvetään keväillä, ja kuitenkin
+						ennättävät ne valmistua syksyllä leikattaviksi. Puitua käytetään ne
+						ryyneiksi eli tehdään maltaiksi, ja niistä pannaan olutta ja sahtia.
+						Mutta ei ole oikein polttaa tätä hyvää Jumalan lahjaa paloviinaksi. <hi rend="expanded"><anchor xml:id="start3253"/>Kaurat<anchor xml:id="end3253"/></hi> käytetään osittain ryyneiksi, ja jäänös
+						annetaan hevosille ruuaksi. <hi rend="expanded"><anchor xml:id="start3254"/>Nisua<anchor xml:id="end3254"/></hi> kylvetään
+						harvoin; nisujauhot tuodaan enimmästi Venäjältä, ja sitte saadaan
+						nisuleipää. <hi rend="expanded"><anchor xml:id="start3255"/>Tattaria<anchor xml:id="end3255"/></hi> ei myös kylvetä paljo;
+						mutta tattari-ryynit me kyllä tunnemme. <hi rend="expanded"><anchor xml:id="start3256"/>Riisiryynit<anchor xml:id="end3256"/></hi> ja <hi rend="expanded"><anchor xml:id="start3257"/>mannaryynit<anchor xml:id="end3257"/></hi> tuodaan
+						muista maista, joissa sellaisia jyviä kasvaa.</p>
+					<p style="romanType" xml:id="p41">Vieläkin nä’in jotakuta, joka kuului ruohoihin. Kaupungista ostin vapoja,
+						jotka olivat <anchor xml:id="start3258"/>ulkomaan rytejä, joita isä halkoi kuiteisiin <anchor xml:id="start3259"/>piduiksi<anchor xml:id="end3259"/><anchor xml:id="end3258"/>.
+						Ansarissa näin sitä kallista <hi rend="expanded"><anchor xml:id="start3260"/>sokerirytiä<anchor xml:id="end3260"/>,</hi> joka
+						kasvaa lämpimissä maissa. Sen mehusta keitetään sokeria, siirappia ja
+						ruskeaa sokeria. Mutta nyt on alettu keittää sokeria juurikasveista,
+						joita täälläkin on, ja ne ovat <hi rend="expanded"><anchor xml:id="start3261"/>valko-juurikkaita<anchor xml:id="end3261"/>.</hi></p>
+					<head style="romanType" xml:id="h6"><hi rend="bold"><hi rend="expanded">Kukattomista
+						kasveista.</hi></hi></head>
+					<p style="romanType" xml:id="p42">Kokonaisen kesän odotin <hi rend="expanded"><anchor xml:id="start3262"/>sananjalkaisia<anchor xml:id="end3262"/></hi>
+						kukkiviksi. Mutta ne olivat alinomaa samallaisia eivätkä kukkineet
+						koskaan. Sen sijaan saivat ne takapuolelle lehtiään pieniä siemeniä,
+						jotka olivat hiedan laisia. Samallaisia siemeniä näin <hi rend="expanded"><anchor xml:id="start3263"/>kortteissa<anchor xml:id="end3263"/>,</hi> jotka kasvoivat märässä maassa.
+						Päätinpä katsella sammalia, jotka kasvavat kivillä. Näin sekä <hi rend="expanded"><anchor xml:id="start3264"/>rahkasammaleen<anchor xml:id="end3264"/></hi> että pehmeän <hi rend="expanded"><anchor xml:id="start3265"/>sudensammaleen<anchor xml:id="end3265"/></hi> ja <hi rend="expanded"><anchor xml:id="start3266"/>seinäsammaleen<anchor xml:id="end3266"/>,</hi>
+						jolla tukitaan hataroita seinän-rakoja. Näinpä muitakin aivan hienoja
+						sammalia, jotka olivat puunkuoren laisia eli kuin ohuet paikat.
+						Sellaisia sanotaan <hi rend="expanded"><anchor xml:id="start3267"/>jäkälöiksi<anchor xml:id="end3267"/>.</hi> Niihin kuuluvat
+						puiden <hi rend="expanded"><anchor xml:id="start3268"/>naavat<anchor xml:id="end3268"/>,</hi> jotka riippuvat kuin pitkä parta
+						havupuiden oksissa. Sellaisia ovat <hi rend="expanded"><anchor xml:id="start3269"/>iislanninjäkälä<anchor xml:id="end3269"/>,</hi> josta <pb type="orig" n="102"/>leivotaan leipää
+						katovuosina, ja <hi rend="expanded"><anchor xml:id="start3270"/>poronjäkälä<anchor xml:id="end3270"/>,</hi> jota <anchor xml:id="start3271"/>poro<anchor xml:id="end3271"/> kaivaa
+						lumen alta, ja <hi rend="expanded"><anchor xml:id="start3272"/>kiventiira<anchor xml:id="end3272"/>,</hi> jolla äiti painaa
+						villalankojaan ruskeaksi. En voinut nähdä niissä kukkia, mutta näin
+						niillä olevan siemenet pienissä <anchor xml:id="start3273"/>koteissa<anchor xml:id="end3273"/>.</p>
+					<p style="romanType" xml:id="p43">Merellä soudellessani tarttuivat aironi usein <hi rend="expanded"><anchor xml:id="start3274"/>meriruohoon<anchor xml:id="end3274"/></hi>, jota kasvoi pitkissä varsissa ylös meren
+						pohjasta. Sellaisia oli monta lajia, ja niitä kutsuttiin <hi rend="expanded"><anchor xml:id="start3275"/>hauroiksi<anchor xml:id="end3275"/>,</hi> ja sellaista oli siinäkin
+						viheriäisessä aineessa, joka kokoupi veden pintaan seisovassa
+						vesilammikossa. Kaikkia näitä kutsuttiin <hi rend="expanded"><anchor xml:id="start3276"/>leväksi<anchor xml:id="end3276"/>,</hi> ja niillä olivat siemenet, mutta ei kukkia.</p>
+					<figure type="illustration"><graphic url="10_1_038.jpg"/></figure>
+					<p style="romanType" xml:id="p44">Saman näin <hi rend="expanded">sienissäkin.</hi> Ne olivat monellaisia,
+						ja muutamia, niinkuin <hi rend="expanded"><anchor xml:id="start3277"/>ruokasieniä<anchor xml:id="end3277"/>,</hi> paistoi äiti
+						ruuaksi; mutta toisista sanoi äiti: elkää syökö niitä, sillä ne ovat
+						myrkyllisiä. Juuri sellainen oli <hi rend="expanded"><anchor xml:id="start3278"/>kärpäis-sienikin<anchor xml:id="end3278"/>.</hi> Tunteaksesi tämän, panen sen tähän kirjan
+						sivulle kuvattuna. Sillä on punanen pilkkunen hattu päässä, ja seisoo
+						jalalla; mutta muutamilla sienillä ei ole ollenkaan jalkaa. Muistatko
+							<hi rend="expanded"><anchor xml:id="start3279"/>ukontuhnua<anchor xml:id="end3279"/>,</hi> joka on valkea ja pyöreä kuin
+						muna? Kun sitä mädänneenä polkee, tulee siitä juurikuin savua. <hi rend="expanded"><anchor xml:id="start3280"/>Taulakääpä<anchor xml:id="end3280"/></hi> ja <hi rend="expanded"><anchor xml:id="start3282"/>jänenkääpä<anchor xml:id="end3282"/></hi> kasvavat puissa. Mutta pienin sieni on <hi rend="expanded">home,</hi> joka kasvaa vanhassa ruuassa. Eikä kukaan
+						voi sanoa kuinka sen siemenet ovat tulleet siihen.</p>
+					<p style="romanType" xml:id="p45">Ja juurikuin muutamia eläimiä kutsutaan ylevämmiksi ja toisia kutsutaan
+						alhaisemmiksi heidän ruumiinsa täydellisemmän eli vaillinaisemman muodon
+						mukaan, niin kutsutaan kasvejakin. Mutta kaikki ovat niin viisaasti
+						luodut, että ne ovat täydelliset tarkoitukseensa tässä mailmassa. Niin
+						ihmeellisesti on se hyvä Jumala kasveihin yhdistänyt kauneuden ja
+						hyödyn, että silmillämme, hajullamme ja nälkäisellä vatsallamme on
+						niistä iloa.</p>
+					<pb type="orig" n="103"/>
+					<p style="romanType" xml:id="p46">Eräänä ehtoona juhannuksen aikana istuivat Antti ja Liisa turvepenkillä
+						pitkän koivun alla. Tuolla haassa söivät lehmät tuoretta ruohoa. Linnut
+						lauloivat kukkivassa pihlajassa, savimansikat paistoivat punasina metsän
+						rinteellä, <choice><orig><anchor xml:id="start3283"/>paulukukat</orig><reg>paulakukat</reg><anchor xml:id="end3283"/></choice> lemusivat hyvänhajusina kartanolla ja avoimesta
+						tuvan ovesta tuli vasta leivotun lämpimän leivän haju ulos. Siinä
+						panivat molemmat lapset kätensä ristiin, rukoilivat ja kiittivät
+						Jumalaa, joka verhotti koko maan niin kauniiksi viheriäisillä kasvuilla.
+						Ne katsoivat ilolla ja rakkaudella kaikkia puita, kaikkia pensaita,
+						kaikkia tuhansia kukkia ja erilaisia yrttikasveja. Ja samalla hetkellä
+						muistivat molemmat mitä Vapahtaja Jesus sanoi kedon kukkaisista:
+						<anchor xml:id="start3284"/>»Totisesti sanon minä teille, ettei Salomon kaikessa kunniassansa ollut
+						niin vaatetettu kuin yksi heistä!»<anchor xml:id="end3284"/></p>
+					<head style="romanType" xml:id="h7"><hi rend="bold"><hi rend="expanded">Puiden ijästä.</hi></hi></head>
+					<p style="romanType" xml:id="p47">Usein luetaan hakatun petäjän valin päässä aina 200 ja 300 keltaista
+						rengasta. Siitä tiedetään petäjän kasvaneen kaksi eli kolme sataa
+						vuotta, ennenkuin se on tullut isoksi mastopuuksi. Muutamain rengasten
+						väli on leveämpi ja toisten on kaitasempi. Tästä on nähtävä puun
+						kasvaneen yhtenä vuonna enemmän paksuudelleen, kuin toisena vuonna. Se
+						tulee siitä, että kesä on ollut enemmän eli vähemmän sopiva puun
+						kasvulle. Ne puut, joilla on löyhä sisus ja jotka kasvavat pian,
+						niinkuin haapa ja halava, vanhenevat pikemmin ja kuivavat enemmin. Mutta
+						kovat puulajit, niinkuin tammi, kasvavat paljoa hitaammasti ja tulevat
+						hyvin vanhoiksi. Englannissa on tammia, jotka ovat yli tuhannen vuoden
+						vanhoja. Itä-indiassa kasvaa <anchor xml:id="start3285"/>viikunapuu<anchor xml:id="end3285"/>, joka yksinään on pienen metsikon
+						kokoinen. Monta sen oksista, jotka riippuvat maassa, on siinä juurtunut
+						erityisiksi vesoiksi. Seitsemän-tuhatta ihmistä mahtuu istumaan tämän
+						puun varjossa, ja sen luullaan olevan kahta-tuhatta vuotta
+						vanhemman.</p>
+					<head style="romanType" xml:id="h8"><hi rend="bold"><hi rend="expanded">Palmuista.</hi></hi></head>
+					<figure type="illustration"><graphic url="10_1_039.jpg"/></figure>
+					<p style="romanType" xml:id="p48"><anchor xml:id="start3286"/>Lämpimissä maissa ei ihmisen tarvitse kuin ojentaa kätensä ottamaan
+						ruokaa kasvikunnasta. Siellä kasvaa <pb type="orig" n="104"/><hi rend="expanded"><anchor xml:id="start3287"/>leipä-puu<anchor xml:id="end3287"/><anchor xml:id="end3286"/>,</hi> joka antaa niin runsaasti hedelmiä, että kolme
+						puuta elättää yhden hengen koko vuoden ympäri. Mutta eivät mitkään puut
+						ole niin kauniita ja hyödyllisiä kuin ne korkeat palmupuut. Tässä näet
+						palmupuun kuvan. Sen korkeassa valissa ei ole yhtään oksaa, ainoastaan
+						latvassa on isolehtinen kruunu. Sitä myöten kun vali kasvaa korkeammaksi
+						ja uusia lehtejä tulee latvaan, putoavat alimmaiset lehdet pois ja
+						jättävät ympäri valia pakuraisia renkaita. Se alastoin ja musta neekeri,
+						jolla on valkeata vaatetta nivuisten ympärillä, kiipeää valia ylöspäin,
+						päästäkseen käsiksi <anchor xml:id="start3288"/>palmupähkinöihin<anchor xml:id="end3288"/>, jotka kasvavat aivan lehtien
+						juuressa. Pähkinät ovat lapsen pään kokosia ja aivan hyviä syödä. Niiden
+						neste on maidon laista ja hyvin terveellistä. Niiden kovista kuorista
+						tehdään kuppeja ja kauhoja. Lehdet suojaavat polttavalta auringolta.
+						Lehdistä letitetään vakkoja ja köysiä. <anchor xml:id="start3289"/>Sagupalmulla<anchor xml:id="end3289"/> on paksu ydin, jota
+						kuivataan ryyneiksi. <anchor xml:id="start3290"/>Dadelpalmuissa<anchor xml:id="end3290"/> kasvaa makuisempia dadeleja. Monta
+						ihmistä <pb type="orig" n="105"/>saapi niistä piamite koko ravintonsa. Nesteestä
+						tehdään palmuviiniä; sydämet hienonnetaan <anchor xml:id="start3291"/>kameeleille<anchor xml:id="end3291"/> ruuaksi ja puista
+						saadaan teos-aineita ja polttopuuta.</p>
+					<head style="romanType" xml:id="h9"><hi rend="bold"><hi rend="expanded">Tervasta.</hi></hi></head>
+					<p style="romanType" xml:id="p49">Tiedätkö miten tervaa poltetaan kesällä haudassa? Isä menee metsään.
+						Siellä näkee hän hienoja mäntyjä kasvavan laihassa maassa. Ne eivät
+						kelpaa sahapölkyiksi ja lankuiksi; mutta isä tietää paremmin mihinkä ne
+						kelpaavat. Keväillä <anchor xml:id="start3292"/>koloo<anchor xml:id="end3292"/> hän ne, ja sen tekee hän niin, että hän
+						terävällä raudalla kuorii puista parkin ja jättää siihen kaitaselta
+						kuorta seläksi. Toisena vuonna vestetään tyvelle jäänyt parkki pois.
+						Kolmantena vuonna kuoritaan ylempää parkkia; sillä lailla jatketaan
+						koloja. Viidentenä talvena tavallisesti kaataa isä ne kolotut puut,
+						vedättää haudalle, särkee ne pieniksi ja latoo pinoihin. Sitte kaivaa
+						hän maahan pyöreän kuopan, joka kutsutaan tervahaudaksi. Siihen latoo
+						hän tervakset ja kattaa sen sammalilla ja hiedalla. Sitte sytyttää hän
+						haudan; mutta ei se saa palaa ilmitulessa, vaan ainoastaan hiiltymällä.
+						Kuumuudessa muuttuu pihka <hi rend="expanded">tervaksi</hi> ja juoksee
+						haudan pohjassa olevaa puutorvea myöten tynnyreihin. <anchor xml:id="start3293"/>Tervalla täytetyt
+						tynnyrit myypi isä kaupunkiin kauppamiehelle. Kauppamies tyhjentää osan
+						tervaa isoon kuparikattilaan ja keittää sen siinä <hi rend="expanded">pi’eksi.</hi> Toisen osan antaa hän olla tynnyreissä ja viepi ne
+						sekä pikitynnyrit laivaansa. Laiva purjehtii vieraalle maalle. Siellä
+						myypi kippari tervan ja pi’en, jota ei ole saatettu valmistaa vieraassa
+						maassa.<anchor xml:id="end3293"/> Rahoilla ostaa hän sitte suoloja, kahveja, sokeria ja paljo
+						muuta hyvää kalua, jota ei saateta valmistaa omassa maassamme. Kaikkea
+						tätä tuopi hän laivalla kauppamiehelle, ja kauppamies myypi tätä sitte
+						meille. Näin vaihettaa yksi maa kalujaan toisen maan kanssa, ja näin
+						saavat kaikki mitä tarvitsevat.</p>
+					<head style="romanType" xml:id="h10"><hi rend="bold"><hi rend="expanded">Karl Linné’stä ja
+								yrttikasveista.</hi></hi></head>
+					<p style="romanType" xml:id="p50">Sata vuotta takaperin eli eräs ruotsalainen mies, jonka nimi oli Karl
+						Linné. Jo poikana olivat hänelle luonnossa kasvit rakkaimpia. Koko kesiä
+						oli hän ulkona metsässä ja niityllä. Alinomaa tutki hän kukkia <choice><orig>toisen</orig><reg>toinen</reg></choice>
+						toisensa rinnalla ja koetti keksiä niiden tarkoitusta. Näkipä viimein
+						ihmeellisen järjestyksen, erilaisten kukkain <pb type="orig" n="106"/>suuressa
+						moninaisuudessa. Hän luki <anchor xml:id="start3294"/>siittimet<anchor xml:id="end3294"/> jokaisessa kukassa. Kaikki kukat,
+						joilla olivat samallaiset siittimet, asetti hän yhteen samaan luokkaan.
+						Tällä tavalla sai hän 23 luokkaa. 24:nteen luokkaan luki hän ne kasvit,
+						joilla ei ollut kukkia. Sitte hän jokaisen luokan jakoi järjestyksiin,
+						jokaisen järjestyksen sukuihin ja jokaisen suvun lajihin. Samoin jakoi
+						hän eläimetkin. Näin koetti hän tutkia koko luonnon viisautta. Toiset
+						ymmärtävät miehet ovat tehneet hänen tekonsa täydellisemmäksi. Mutta
+						kaikissa maissa ja kaikkina aikoina on Linné’n muisto ollut laajalta
+						mainiona. Vielä kauvan, hänen kuoltuansakkin, muistelevat lapset hänen
+						nimeään ja viisaat mailmassa sanovat toisilleen: se oli mainio mies! Ja
+						iltatuulen puhaltaessa puihin ja kukkiin ja ruohoon, kuulee näiden
+						suhisevan ja juurikuin sanovan toisilleen näin: se mies, joka rakasti
+						meitä ja ymmärsi meitä, oli nimeltä Karl Linné. Se oli mainio mies!</p>
+					<p style="romanType" xml:id="p51">Kasvit jaetaan kukkainsa ja hedelmäinsä näön mukaan. Niin kutsutaan monia
+						kasveja <hi rend="expanded"><anchor xml:id="start3295"/>herne-kukkasiksi<anchor xml:id="end3295"/>,</hi> niinkuin herneitä ja
+						apilasta. Toisia kutsutaan <hi rend="expanded"><anchor xml:id="start3296"/>yhdyskukkasiksi<anchor xml:id="end3296"/>.</hi>
+						Toisia taas kutsutaan <hi rend="expanded"><anchor xml:id="start3297"/>risti-kukkasiksi<anchor xml:id="end3297"/>,</hi>
+						niinkuin <hi rend="expanded">naurista</hi> ja <hi rend="expanded"><anchor xml:id="start3299"/>rassia<anchor xml:id="end3299"/>.</hi> Vielä kutsutaan toisia <hi rend="expanded"><anchor xml:id="start3300"/>ruusu-kukkasiksi<anchor xml:id="end3300"/>,</hi> niinkuin <hi rend="expanded">orjantappura-pensaita</hi> ja <hi rend="expanded">vaaraimia.</hi>
+						Muutamissa on monta pientä kukkaa tertussa, niinkuin koiranputkessa ja
+						kuminassa. Muutamat kukat ovat huulten moisia, ja muutamat riippuvat
+						alaspäin. Ruohoin kukat ovat täh’ässä eli tertussa. Ja niin näemme heti
+						katsoessamme heimolaisuuden erilaisten sukuin ja lajien välillä
+						kasvikunnassa.</p>
+					<p style="romanType" xml:id="p52">Oletko nähnyt muutamain kukkain sulkevan <anchor xml:id="start3301"/>kukkakupunsa<anchor xml:id="end3301"/> illalla ja avaavan
+						sen jälleen aamulla? Ansarissa näin pienen ulkomaalais-yrttikasvin
+						nimeltä <hi rend="expanded">mimosa.</hi> Koskettua sen lehtiin, veti se
+						lehtiään ja lehteinsä varsia juurikuin pelosta kokoon. Siinä näin
+						toisenkin ulkomaalais-kukan, jonka nimi oli <hi rend="expanded"><anchor xml:id="start3302"/>kärpäis-sieppo<anchor xml:id="end3302"/>.</hi> Kärpäsen istuttua sen jäläisiin ja kurmasiin
+						lehtiin, supisti kukka lehtensä yhteen ja piti kärpästä kiini. Mutta
+						kärpäsen kuoltua, aukasi kukka jälleen lehtensä. Erinomattain paljo
+						olisi vielä sanomista kasveista. Rukoile Jumalata, että hän soisi sinun
+						paljo oppia. Niin ymmärrät sinä Jumalan tekoja ja Jumalan niissä.</p>
+				
+					<pb type="orig" n="107"/>
+					<head style="romanType" xml:id="h11"><hi rend="bold"><hi rend="expanded">Pellosta ja
+						niitystä.</hi></hi></head>
+					<p style="romanType" xml:id="p53">Tämä tieno, jossa nyt asumme, oli ennen erämaana. Metsä kasvoi yleensä,
+						ja mättäät ja kivet tekivät maan <anchor xml:id="start3303"/>koleikoksi<anchor xml:id="end3303"/>. Mutta monia aikoja siitä
+						muuttivat esi-isämme tänne. Ne alkoivat hakata metsää, kuokkia pois
+						mättäitä ja raivata pois kiviä. Paljo ovat esi-isämme tässä tehneet
+						työtä ja nähneet vaivaa tätä kauvan pitkittäessä. Mutta meillä, jotka
+						elämme kaukana niiden jälessä, on heidän työstä isoa hyötyä ja iloa. Ja
+						tästä on meillä opittava, ettei meidän tule tehdä työtä ainoastaan
+						omaksi eduksemme, vaan eduksi niille, jotka tulevat ja elävät meidän
+						perästä. Siksi viljelemme alinomaa enemmän maata hyödyksi ja iloksi
+						rakkaalle isänmaallemme, Suomelle.</p>
+					<p style="romanType" xml:id="p54">Nyt on meillä peltoa ja niittyä. Pelto on se maa, jossa jyviä kasvaa, ja
+						sitä kyntää isä hevosella ja auralla. Siihen kylvää hän ruista
+						syyskylvöksi ja ohraa ja kauraa kevätkylvöksi. Sitte leikkaamme
+						<anchor xml:id="start3304"/>elokasvit<anchor xml:id="end3304"/> syksyllä. Sitte kuivaamme ja puimme ne, niinkuin jo ennen on
+						mainittu. Ja sitte kiitämme Jumalata jokapäiväisestä leivästä. Sillä
+						välistä suopi Jumala katovuoden tulla pellolle. Silloin turmelee halla
+						joutumattoman viljan, eli kuivaa se pois. Ja sitte tulee kallis aika ja
+						köyhyys maahan. Ennen oli vieläkin pahempi. <anchor xml:id="start3305"/>Silloin ei ollut meillä
+						noita hyviä potaateja, jotka nyt ovat isona apuna, kun on puutetta
+						jyvä-elosta. Ei siitä ole sataa vuotta, kuin meidän maassa alettiin
+						istuttaa potaateja. Ja siitä on tuskin viisikymmentä vuotta, kun ne
+						tulivat yleisesti tutuiksi.<anchor xml:id="end3305"/></p>
+					<p style="romanType" xml:id="p55">Niitty on se maa, jossa ruoho kasvaa, jota sitte niitetään ja kuivataan
+						heiniksi. Heinät viedään latoihin, ja talvella ajetaan kotiin karjalle
+						ruuaksi. Jos emme niin tekisi, nääntyisivät <anchor xml:id="start3306"/>hevoset<anchor xml:id="end3306"/> ja <anchor xml:id="start3307"/>lehmät<anchor xml:id="end3307"/> ja lampaat
+						talvella nälkään. Välistä tulee heinistäkin katovuosi. Niitty kuivaa,
+						mato syöpi ruohon. Silloin täytyy meidän teurastaa osa karjaa. Tähteet
+						täytyy elättää olilla. Silloin ikävöimme kevättä enemmän, kuin koskaan
+						muulloin. Mutta Jumala tuopi meille sen iloisen keväimen, ja sitte
+						kasvaa ruoho jälleen, ja silloin päästämme karjan taas laitumelle. Hyvin
+						iloista on silloin nähdä, kuinka vasikat hyppelevät ruohokossa.</p>
+				<pb type="orig" n="108"/>
+					<head style="romanType" xml:id="h12"><hi rend="bold"><anchor xml:id="start3308"/>Viholainen ja orjantappurakukka.<anchor xml:id="end3308"/></hi></head>
+					<lg xml:id="lg56">
+						<l style="romanType">Viholaiselle tavoista</l>
+						<l style="romanType">Lausui, häntä soimaten,</l>
+						<l style="romanType">Kukka orjantappuroista:</l>
+						<l style="romanType">Häjy oot sä polttinen;</l>
+						<l style="romanType">Ei käsi sinua kärsi,</l>
+						<l style="romanType">Eikä salli silmäkään;</l>
+						<l style="romanType">Poltat koskevata varsin</l>
+						<l style="romanType">Etkä kelpaa kellekkään.</l>
+						<l style="romanType">Kulkevaiset kaikkialta</l>
+						<l style="romanType">Sua kohta karttavat</l>
+						<l style="romanType">Ja kätensä kätkevät</l>
+						<l style="romanType">Myrkyltäsi polttavalta.</l>
+					</lg>
+					<lg xml:id="lg57">
+						<l style="romanType">Viholainen vastasi:</l>
+						<l style="romanType">Sain mä luonnon polttavaisen</l>
+						<l style="romanType">Enkä kauneuttasi;</l>
+						<l style="romanType"><anchor xml:id="start3309"/>Vaanpa<anchor xml:id="end3309"/> on varottavainen</l>
+						<l style="romanType">Koko kauneutesi.</l>
+						<l style="romanType">Itseäsi kaunistellen</l>
+						<l style="romanType">Ottamahan viettelet,</l>
+						<l style="romanType">Kaikille sä <anchor xml:id="start3310"/>liekerrellen<anchor xml:id="end3310"/></l>
+						<l style="romanType">Piikkiäsi peittelet;</l>
+						<l style="romanType">Mut panetpa ottavalle</l>
+						<l style="romanType">Kovat piikit pistävät</l>
+						<l style="romanType">Kehutun sulon sijalle; —</l>
+						<l style="romanType">Ne pahemmin polttavat.</l>
+					</lg>
+					<head style="romanType" xml:id="h13"><hi rend="bold"><anchor xml:id="start3311"/>Kukka laksossa.<anchor xml:id="end3311"/></hi></head>
+					<lg xml:id="lg58">
+						<l style="romanType">Sä lakson kukka saitko vaan</l>
+						<l style="romanType">Elämän maasta ainoan?</l>
+						<l style="romanType">Pianpa oisit nääntymässä,</l>
+						<l style="romanType">Jos pilvet eivät kastaisi</l>
+						<l style="romanType">Sateella lehtes’, juuresi,</l>
+						<pb type="orig" n="109"/>
+						<l style="romanType">Jos aurinko ei lämpimässä</l>
+						<l style="romanType">Sinua siinä virvottais’</l>
+						<l style="romanType">Ja nuppuasi kaunistais’.</l>
+						<l style="romanType">Niin suopi Herra uskon kanssa</l>
+						<l style="romanType">Elon, yläältä armostansa.</l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
