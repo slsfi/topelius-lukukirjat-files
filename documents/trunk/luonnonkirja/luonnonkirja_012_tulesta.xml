@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Kahdestoista Luku. Tulesta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head type="section" style="blackletter"><hi rend="bold">Kahdestoista Luku.</hi></head>
+				<head type="section" style="blackletter"><hi rend="bold expanded">Tulesta.</hi></head>
+				<p style="blackletter">Antti sanoi: en ymmärrä mitä <hi rend="expanded">tuli</hi> on. Eihän tuli ole
+					mitään; on vaan muiden kappalten hävitys.</p>
+				<p style="blackletter">Niinpä onkin, sanoi isä. Ei siis olekkaan se aivan oikein kutsua tulta
+					<anchor xml:id="start3665"/>elementiksi eli alku-aineeksi<anchor xml:id="end3665"/>. Mutta kerran on se tullut tavaksi. Ei tule
+					tulesta ajatella niin, että se hävittäisi jotakin aivan peräti. Muutamia
+					aineita se irtauttaa heidän alku-osiinsa, ja toisia muuten muuttaa. Tuo
+					puunpalanen on enimmästi <anchor xml:id="start3666"/>hiilestä<anchor xml:id="end3666"/>, <anchor xml:id="start3667"/>vedystä<anchor xml:id="end3667"/> ja <anchor xml:id="start3668"/>haposta<anchor xml:id="end3668"/>. Jos mikä palaa, vetää
+					se itsehensä ilman happoa. Muutamat puun alku-osat yhdistyvät hapon kanssa
+					ja menevät <anchor xml:id="start3669"/>ilmanmoisiksi<anchor xml:id="end3669"/>. Mutta suurin osa hiilestä jääpi jälelle, kuin myös
+					tuhka, jossa on <anchor xml:id="start3670"/>lipeä-suoloja<anchor xml:id="end3670"/>. <anchor xml:id="start3671"/>Alku-aine<anchor xml:id="end3671"/> hiili saattaa vieläkin huveta
+					yhdistyessänsä hapon kanssa. Muutamat aineet eivät pala koskaan. Kulta ei
+					hupene tulessa, vaikka se sulaa. <anchor xml:id="start3672"/>Pellava<anchor xml:id="end3672"/>, <anchor xml:id="start3673"/>tulikivi<anchor xml:id="end3673"/> ja <anchor xml:id="start3674"/>ruuti<anchor xml:id="end3674"/> saattavat hyvin
+					helposti <hi rend="expanded">syttyä,</hi> ja sellaisia aineita kutsutaan
+					syttyviksi. Muutamat taas, niinkuin rauta, tarvitsevat kovan tulen,
+					ennenkuin palavat.</p>
+				<p style="blackletter">Nyt sytytän kynttelin, ja se palaa liekissä. Kun sen puhallan sammuksiin,
+					niin on sydän <hi rend="expanded">hiillostu</hi><pb type="orig" n="163"/><hi rend="expanded">neena.</hi> Mitä on liekki? Liekki on palava <anchor xml:id="start3675"/>kaasu<anchor xml:id="end3675"/> siitä
+					aineesta, jota kuumuus hajottaa. Siinä liehuu pieniä <hi rend="expanded">säkeneitä</hi> tavallisesti noesta, joka on noussut siitä palavasta
+					aineesta.</p>
+				<p style="blackletter">Siinä säkeneet kiiltävät, ja siitä <hi rend="expanded">paistaa</hi> liekki.
+					Talikynttilä näyttää hyvästi, siksi että hiili-ainetta on hyvin talissa.
+					Palava viina antaa aivan heikon valon, siksi että siinä on vähä hiiltä.
+					Siksi <hi rend="expanded">savuaa</hi> kynttiläni, ja siksi nokeupi
+					korsteenin sisus <hi rend="expanded">savusta;</hi> mutta palavasta viinasta
+					ei tule paljo ollenkaan nokea. Olen nähnyt <anchor xml:id="start3676"/>valkoimen (fosforin)<anchor xml:id="end3676"/> palavan yltä
+					tulessa ja hyvin savuavan, mutta savu ja <anchor xml:id="start3677"/>loiste-aine<anchor xml:id="end3677"/> ei ole nokea, vaan
+					valkointa ja happoa yhdistettynä. Mitä on <anchor xml:id="start3678"/>hiillos<anchor xml:id="end3678"/>? Se on palavaa ainetta,
+					josta tulee aivan vähä eli ei ollenkaan kaasua. Jos puhallan siihen ilman
+					happoa, tapahtuu palaminen sukkelammasti, ja siihen ilmaupi liekki, kun
+					siihen tulee kaasua.</p>
+				<p style="blackletter">Nytpä ymmärrät, kuinka halot palavat tulessa. Ymmärräthän nyt, miksi
+					puhalletaan tuleen, miksi laitetaan ilman-veto tuli-sijoihin ja miksi huone
+					palaa sukkelammasti tuuli-ilmassa. Jota pitempi korsteeni on, sitä paremmin
+					vetää se, ja sitä paremmin puut palavat takassa. Mutta miten sammutat tulen?
+					Jos kaadat vettä tuleen, heität <anchor xml:id="start3679"/>hietaa<anchor xml:id="end3679"/> siihen eli jonkun peitteen päälle,
+					niin <hi rend="expanded">sammuu</hi> se pian. Miksikä niin? Siksi että estät
+					ilman tulemasta tuleen; siitä sulet pois ilman hapon, joka virkistää tulen.
+					Ja niin tukehutat sen juuri kuin <anchor xml:id="start3680"/>eläimen<anchor xml:id="end3680"/>, joka ei saata hengittää. Jos tuli
+					on päässyt irti tuvassa, niin elä aukase akkunoita. Tapahtuupa niinkin, että
+					tuli tukehtuu omaan savuunsa.</p>
+				<p style="blackletter">Tulen viritämme lämpimää ja hyötyä varten, keittämistä, paistamista ja
+					muutakin varten. Siihen käytämme puita, mutta muissa maissa käy<pb type="orig" n="164"/>tetään hiiliäkin, <anchor xml:id="start3681"/>kivisyttä<anchor xml:id="end3681"/> ja poltto-turpeita. Jos lykkäämme pellin kiini
+					tulen takassa palaessa, niin huone täyttyy savulla. Jos se pannaan kiini
+					hiilten vielä palaessa, tulee siitä <hi rend="expanded"><anchor xml:id="start3682"/>häkää<anchor xml:id="end3682"/>,</hi> josta
+					monta ihmistä on kuollut. Jos korsteenia ei ole isoon aikaan puhdistettu
+					noesta, käypi niinkin, että noki alkaa palaa, josta tulee korsteeni-tuli.
+					Sen saapi parhaite tukehtumaan hienonnetulla tulikivellä, jota nakataan
+					takassa olevaan hiillokseen. Tulikiven höyry tukeuttaa tulen.</p>
+				<p style="blackletter">Tuli lämmittää ja tuli valaisee. Valoksemme sytytämme <anchor xml:id="start3683"/>valkea-lekon<anchor xml:id="end3683"/> takkaan
+					eli päreen <anchor xml:id="start3684"/>pihtiin<anchor xml:id="end3684"/>, mutta usein sytytämme talikynttilänkin eli öljylampun.
+					Sydän imee sisäänsä talin eli öljyn, joka sitte palaa ja valaisee
+					hiillostuneella hiili-aineella.</p>
+				<p style="blackletter">”Tuli on hyvä renki, mutta huono isäntä,” sanoo sananlasku. Siksi pitää sitä
+					varoa kuin sutta rautahäkissä. Muutoin tekee se meille kauhean vahingon,
+					niin että pienestä tulitikusta saattaa tulla hirmuinen tulipalo, josta
+					kaupunkeja ja kyliä saattaa perinpohjin hävitä. Kyllähän tuli on
+					ihmeellisimpiä luonnon voimia. Muutamat aineet kuumuvat palamatta ja valoa
+					antamatta, esim. kun vettä nakataan poltetuille kalkki-kiville. Muutamat
+					kappalet antavat valon, mutta eivät pala, esim. <anchor xml:id="start3685"/>kiiltomato<anchor xml:id="end3685"/> eli lahonnut
+					puunpalanen eli tulitikku, jota aivan hiljaa <anchor xml:id="start3686"/>hivuttelen<anchor xml:id="end3686"/>. Usein on tulen
+					ilmi-tuleminen aivan ihmeellistä. Kuinka voidaan niin kova kuumuus saada
+					kappaleista, jotka itsessään ovat niin kylmiä kuin teräs ja <anchor xml:id="start3687"/>pii<anchor xml:id="end3687"/>.</p>
+				<p style="blackletter">Sen näemme, että tuli ilmaupi kihnaamalla, juuri kuin tulitikussakin, eli kun
+					kahta kovaa kappaletta yhtäkkiä lyödään yhteen, niinkuin hevoisen kengänkin
+					tiellä käytyä kiviin. Metsä-ihmiset ottavat <pb type="orig" n="165"/>sillä lailla tulen,
+					että hierovat kahta kuivaa puu-palaista vastatusten. Myllynkivet kuumenevat
+					ja sytyttävät myllyn, jos ne kauvan pyörivät tyhjinä. Jos heiniä pannaan
+					kosteina latoon, alkavat ne jonkun ajan perästä kuumeta ja ottavat tulenkin.
+					Samoin tekevät puuvillatkin (pumpulit). Laiva, jossa oli kivisyttä lastina,
+					syttyi tuleen, kenenkään tietämättä, mistä tuli tuli. Viimein keksittiin
+					kivisysien itsestään syttyneen. Muutamissa maissa, joissa maa on täynnä
+					syttyviä aineita, alkaa maa alhaaltapäin palaa, josta tulee <hi rend="expanded">maa-palo. <anchor xml:id="start3688"/>Aurinko</hi>- tahi <hi rend="expanded">tuli-lasilla<anchor xml:id="end3688"/>,</hi> joka murtaa valon, voin koota auringon säteet
+					pieneen paikkaan, joka tulee niin kuumaksi, että puu syttyy tuleen. Ja
+					suurella <hi rend="expanded">tuli</hi>peilillä saatan polttaa
+					<anchor xml:id="start3689"/>timantinkin<anchor xml:id="end3689"/>.</p>
+				<p style="blackletter">Kun kesällä on hyvin lämmin, kokoupi usein mustia pilviä taivaalle.
+					Tavallisesti näyttävät ne kulkevan tuulta vastaan, kun yläällä oleva ilma
+					juoksee toista suuntaa, kuin se alempana maan pinnalla oleva. Kohta
+					leimahtelee kaitaisia tulen-liekkiä, juurikuin tulikieliä, pilvein
+					laidoilla, ja sitte seuraa kova järinä, joka vapistuttaa ihmistä, sillä hän
+					tuntee siinä voimattomuutensa kaikkivoivan Jumalan edessä. Se on se
+					majesteetillinen <hi rend="expanded"><anchor xml:id="start3690"/>ukkoinen<anchor xml:id="end3690"/>,</hi> jonka jyristessä lapset
+					piilouvat äitinsä syliin. Mutta jos olet ulkona kedolla, niin elä pelkää
+					jyrinää. Se ei vahingoita ketään, ja kun se kuuluu, on vaara jo sivu, sillä
+					se on <anchor xml:id="start3691"/>leimaus eli <hi rend="expanded">ukon-tuli<anchor xml:id="end3691"/>,</hi> joka voipi särkeä
+					suurimmatkin kalliot ja tappaa eläimiä ja ihmisiä, jossa se lyöpi kohti. Elä
+					piilou silloin pitkäin puiden alle, sillä ukon-tuli ampuu varsinkin
+					korkeisin teräväpäisihin kappaleisin, särkee ne ja menee aina maahan.
+					Välistä näkyy leimaus jyrinää kuulumatta, ja sitä sanotaan <hi rend="expanded"><anchor xml:id="start3692"/>salamaksi<anchor xml:id="end3692"/>.</hi> Ihmeellistä on se että ukon-tuli juoksee
+					muutamain ai<pb type="orig" n="166"/>neitten pintaa myöten, niinkuin <anchor xml:id="start3693"/>metallein<anchor xml:id="end3693"/>, niitä
+					vahingoittamatta; mutta muut aineet, niin kuin puu, eivät voi ukontulta
+					johdattaa, ja siksi ne särkyvät. Jos tahdotaan varjella kirkontornia, joka
+					usein on ukontulen vaarassa, kun se on teräväpäinen ja korkea, niin
+					naulataan kupari-kaistale juoksemaan tornin huipusta aina maahan asti. Kun
+					ukon-tuli sattuu tornin huippuun, juoksee se näkymätöinnä alas <hi rend="expanded">ukkoisen johdattajaa</hi> myöten ja katoaa, mitään
+					vahinkoa tekemättä. Mutta jos ihminen silloin koskisi ukkoisen johdattajaan,
+					kuolisi hän kohta sen kovasta vauhdista, sillä hänen ruumiinsa viepi
+					ukkoisen voiman läpitseen.</p>
+				<p style="blackletter">Mitä on ukkoinen? Mitä on ukontuli? Sen sanon sinulle. Olethan nähnyt kissan
+					selän pimeässä silitellessä antavan säkeneitä. Olethan nähnyt tukkasi
+					välistä rätisevän säkeneitä, kun sitä kampaat. Jos hieron lasikappaletta eli
+					harsti-levyä, niin näen kummallista. Jos panen samassa lasin eli <anchor xml:id="start3694"/>harstin<anchor xml:id="end3694"/>
+					viereen kuparitorven, messinki-pallon eli muuta metallia, jonka alla on
+					lasinen jalka, ja kosken sormellani palloon, niin lentää säe kuulasta, ja
+					tunnen vähäisen piston sormeeni. Jos minulla on varsinainen kone, sitä
+					varten tehty, niin voin saada niin kovan täräyksen messinkikuulasta, että
+					kaadun siitä. Ja jos otan sinun ja muitakin käteeni, niin menee sama täräys
+					jokaisen läpi. Mutta jos sinulla ja muilla on villa-kinnas kädessä, niin
+					emme tunne täräystä eikä säkenettä ja silloin ei menekkään se näkymätöin
+					voima meistä muihin.</p>
+				<p style="blackletter">Mikä on siis se kummallinen voima, joka löytyy kappaleissa salattuna ja
+					virkoaa elämään kihnaamalla? Se on <hi rend="expanded"><anchor xml:id="start3695"/>sähkö</hi> eli <hi rend="expanded">lieke<anchor xml:id="end3695"/>,</hi> ja se on se, josta ukon-tuli tulee. Se
+					saattaa tulla monesta syystä ja kokouta kauvan, ennenkuin se laukeaa. <pb type="orig" n="167"/>Niin kokoupi se kesälämpimällä pilvihin, ja ukontuli, joka
+					lentää pilvestä, on samallainen säkene, joka sähähtää messinkipallosta
+					sormeeni; mutta ukontuli on paljoa väkevämpi. Ruumiini ja kaikki metallit
+					johdattavat sähköä pikaisesti läpitsensä. Puut, vesi j. n. e. vievät sitä
+					hitaammasti. Lasi, <anchor xml:id="start3696"/>pihka<anchor xml:id="end3696"/>, villa ja silkki eivät johdata ollenkaan tätä
+					väkevää voimaa.</p>
+				<p style="blackletter">Siitäkin tulee sähköä, jos panen sinkki-levyn kupari-levyn päälle parittain
+					ja jotakin nestettä väliin. Sitä käytetään siinä merkillisessä keinossa,
+					joka nähdään olevan maanteiden vieressä Turun, Helsingin ja Viipurin kuin
+					myös Turun ja Tornion välillä. Siellä on pystytetty korkeita pylväitä
+					vissein välien päähän, ja pylvästen päihin on asetettu <anchor xml:id="start3697"/>vernissalla<anchor xml:id="end3697"/> voideltu
+					kupari-lanka, joka kulkee yhdestä kaupungista toiseen. Kun sähkö saa
+					vaikuttaa yhdessä päässä lankaa, tuntuu sen vaikutus samassa jo toisessakin
+					päässä. Ja se käypi niin sukkelasti ettei ennätä silmiään räpäyttää,
+					ennenkuin sähkövoima lentää Turusta Viipuriin. Nyt on niin sovittu, että
+					vissit merkit merkitsevät erilaisia puustavia. Niin kysytään jotakuta asiaa
+					Helsingissä. Kohta tiedetään se Viipurissa, Turussa eli Torniossa, ja
+					saatetaan heti siihen vastata. Ja tätä merkillistä ja hyödyllistä laitosta
+					kutsutaan <hi rend="expanded"><anchor xml:id="start3698"/>sähkölennättimeksi<anchor xml:id="end3698"/>.</hi></p>
+				<p style="blackletter">Setäni, joka on kulkenut <anchor xml:id="start3699"/>merellä<anchor xml:id="end3699"/>, sanoi, ettei mitään ole niin hirmuista kuin
+						<hi rend="expanded"><anchor xml:id="start3700"/>maanjäristys<anchor xml:id="end3700"/>.</hi> Kerran kun hän oli Amerikassa,
+					tunsi hän maan tärisevän jalkainsa alla, niin että akkunalasit särähtelivät
+					rikki ja kellot alkoivat itsestään soida tornissa. Elä ole peloissasi,
+					sanoivat muut merimiehet. Tämä on ainoasti <hi rend="expanded"><anchor xml:id="start3701"/>maantärinä<anchor xml:id="end3701"/></hi> eikä pitkitä kauvaksi. Maantärinä loppui; mutta jonkun
+					ajan <pb type="orig" n="168"/>kuluttua alkoi maa täristä kovemmasti, niin että huoneita
+					ja muureja rysysi kumoon ja kukistui ihmisten päälle. Kaikki väki rienti
+					ulos <anchor xml:id="start3702"/>lakeudelle<anchor xml:id="end3702"/>, pelastamaan henkeänsä. Sitte tuli helle ilmaan ja kova
+					tulikiven katku; siinä kuului jyminä, juurikuin maan-alainen ukkoinen. Ja
+					kerrassaan halkesi maa, niin että kokonaisia kaupunkeja ja kyliä syöstyi
+					syvyyteen. Meri pauhusi suurissa aalloissa, vaikka ei tuulta ollut, ja
+					hyökyi <anchor xml:id="start3703"/>rantainsa<anchor xml:id="end3703"/> ylitse ja hukutti kaiken maan, joka oli likinnä. Meren
+					syvyydestä kohosi uusia <anchor xml:id="start3704"/>saaria<anchor xml:id="end3704"/>, joita ei kukaan vielä ennen ollut nähnyt; ja
+					missä vasta oli kuiva maa, siihen syytivät meren aallot särkynetten laivain
+					säpäleitä. Nyt oli hätä ja pelko, jota ei kukaan voi selittää, siksi kuin
+					luonto muutamain päiväin perästä tuli jälleen tasapainoonsa, niin että ne
+					elämään jääneet ihmiset saattoivat rakentaa itselleen uusia asumasijoja
+					siinä hävitetyssä maassa.</p>
+				<p style="blackletter"><anchor xml:id="start3705"/>Niin hirveä Jumalan rangaistus on maanjäristys, ja se tulee maan sisässä
+					olevasta tulesta. Sillä monta merkkiä osottaa koko maan sisuksen jalkaimme
+					alla olevan tulisena ahjona, niin että tämä kova <anchor xml:id="start3706"/>maakuori<anchor xml:id="end3706"/>, jolla asumme, ei
+					ole paljo kolmea tahi neljää <anchor xml:id="start3707"/>peninkulmaa<anchor xml:id="end3707"/> paksumpi. Kun vettä tulee
+					maanalaisista reijistä tulta likelle, muuttuu se höyryksi, ja höyry paisuu
+					niin hirmuisella voimalla, että se täristää maata ja välistä murtaa rikki
+					sen kovan pinnankin.<anchor xml:id="end3705"/> Mutta muutamissa maissa ovat vesi-höyryillä ja tulella
+					kulkupaikat, joista ne nousevat ylöspäin, tekemättä niin suuria häviöitä.
+					Oletko koskaan kuullut puhuttavan <hi rend="expanded"><anchor xml:id="start3708"/>tulivuorista<anchor xml:id="end3708"/>?</hi></p>
+				<p style="blackletter">Olen, sanoi Antti. Olen nähnyt kuva-taulun, jossa koko <anchor xml:id="start3709"/>vuori<anchor xml:id="end3709"/> on savussa, ja
+					jossa virtoaa juurikuin tuli-ojia pitkin sivuja.</p>
+				<pb type="orig" n="169"/>
+				<p style="blackletter">Sellaisia vuoria, joita kutsutaan <hi rend="expanded"><anchor xml:id="start3710"/>vulkkaneiksikin<anchor xml:id="end3710"/>,</hi>
+					on monta maan päällä. Muutamat ovat kauvan aikaa jälkeenpäin palaneet
+					loppuun ja sammuneet; mutta toiset savuavat alinomaa aina tuhansia vuosia
+					sitte, ja vielä välistä puhaltavat ne tulta. Silloin kuuluu jyrinä vuoren
+					sisästä; tulen-liekki, tuhkaa ja tulisia kiviä syöstäypi ulos vulkkanin
+					suusta, jota kutsutaan <hi rend="expanded"><anchor xml:id="start3711"/>aukoksi</hi> eli <hi rend="expanded">kraateriksi<anchor xml:id="end3711"/>,</hi> ja lentää monta peninkulmaa ilmassa.
+					Sitte virtoaa ulos juuri kuin paksu puuro, jota kutsutaan <hi rend="expanded"><anchor xml:id="start3712"/>laavaksi<anchor xml:id="end3712"/>,</hi> sulaneista ja tulisista aineista vuoren
+					sisästä ja juoksee hiljoilleen sivuja alas siksi että se jäähtyy ja hyytyy
+					viimein aivan kovaksi. Ja niin saattaa kivisateesta ja tuhasta ja laavasta
+					tulla monta ihanaa tienoa vuoren ympärillä hävitetyksi.</p>
+				<p style="blackletter">Kun lapset kuulivat tämän, peljästyivät he ja sanoivat: hyvä Jumala, varjele
+					meitä maanjäristyksestä ja tulivuorista! Mutta isä sanoi: kiittäkäämme
+					Jumalaa, ettei sellaisia ole maassamme. Lämpimissä maissa taritsee luonto
+					ihmisille suurta rikkautta, mutta suuria vaarojakin, joihin kuuluvat julmat
+					pedot ja maan-alainen tuli. Maamme on köyhempi ja kylmempi; mutta sen sijaan
+					saamme nukkua huoletoinna yöllä, sillä ei yksikään tiikeri vaani ovemme
+					takana, eikä maanjäristyskään kukista kattoa päähämme. Ja jos joskus
+					tuntisimmekin maantärinää, jota kyllä voipi tapahtua kukatiesi kerran
+					kymmenessä eli kahdessa kymmenessä vuodessa, niin on sekin hyvin vähäistä
+					eikä ole milloinkaan tehnyt vahinkoa, niin kauvas kuin voidaan muistaa.
+					Harvoin lyöpi ukkoinen alas, ja kun se onnettomuus tapahtuu, että tuli
+					pääsee irti ja kaupunkeja ja kyliä ja huoneita palaa, niin tulee sellainen
+					tapaus pian aina omasta varomattomuudestamme. Sillä vaikka tuli on niin
+					vaarallinen aine, vieläpä <pb type="orig" n="170"/>kaikkein vaarallisinkin, niin näemme,
+					kuinka se saatetaan hallita ja sulkea takkoihin ja uuneihin, kun vaan sen
+					kanssa varoen eletään. Kun se muutoin olisi vihollisemme, tulee se näin
+					meille uskolliseksi ystäväksi, josta meille on iloa ja hyötyä. Tuli
+					lämmittää meitä, kun on kylmä, ja antaa valoa, kun on pimeä. Se kiehuttaa
+					ruokamme kypseksi ja paistaa leipämme, se pehmittää meille kovat metallit,
+					joista on meille niin monellaista hyötyä. Ihana Jumalan lahja on tuli,
+					oikein käytettynä. Ei yksikään eläin ymmärrä sitä käyttää, ja kun joskus on
+					tavattu niin raakoja metsä-ihmisiä, etteivät ole tunteneet tulta, on niiden
+					sanottu olleen tuskin järjettömiä luontokappaleita parempia.</p>
+					<head style="blackletter"><hi rend="bold">Maanjäristyksestä.</hi></head>
+					<p style="blackletter"><anchor xml:id="start3713"/>Eräänä syyspäivänä, sata vuotta takaperin, kuuli väki isossa Lissabonin
+						kaupungissa Portugalissa yhtäkkiä kovan maanalaisen jyrinän. Maa tärisi
+						hirmuisesti; <anchor xml:id="start3714"/>Tajon iso virta<anchor xml:id="end3714"/> kuohui ääriensä yli ja syöksi vetensä
+						kaupunkiin. Huoneita ja kirkkoja kukistui raunioiksi, puoli kaupunkia
+						hävisi, ja 24,000 (neljäkolmatta tuhatta) ihmistä menetti henkensä.<anchor xml:id="end3713"/> —
+						<anchor xml:id="start3715"/>Seitsemänkymmentä vuotta jälkeen päin hävitti maanjäristys Calabrian
+						maan. Kokonaiset vuoret painuivat maahan; toisia vuoria kohosi ylös.
+						Rannat muuttuivat; monta pientä <anchor xml:id="start3716"/>järveä<anchor xml:id="end3716"/> ja terveydelle vahingollista
+						<anchor xml:id="start3717"/>leväsuota<anchor xml:id="end3717"/> ilmausi; 40,000 (neljäkymmentä tuhatta) ihmistä menetti
+						henkensä.<anchor xml:id="end3715"/> — <anchor xml:id="start3718"/>Maanjäristyksessä Amerikassa vetäysi meri yhtäkkiä takasi
+						rannalta, niin että kaikki likellä olevat laivat kallistuivat kumoon
+						hietikolla. Sitte hyökysi meri jälleen maalle ja peitti <anchor xml:id="start3719"/>Callao’n<anchor xml:id="end3719"/>
+						kaupungin ja siinä 5,000 (viisi tuhatta) asukasta, niin että päivällä
+							<pb type="orig" n="171"/>jälkeen näkyi ainoasti suuri hieta-koko siinä, jossa
+						kaupunki oli ollut.<anchor xml:id="end3718"/> <anchor xml:id="start3720"/>Ei kauvan aikaa jälkeenpäin hävitti maanjäristys
+						koko <anchor xml:id="start3721"/>Brussan<anchor xml:id="end3721"/> kaupungin Turkinmaalla.<anchor xml:id="end3720"/> — <anchor xml:id="start3722"/>Kaksikymmentä vuotta sitten
+						ilmausi yhtäkkiä Sisilian saarta likelle mereen saari, joka oli
+						peninkulmaa pitkä. <anchor xml:id="start3724"/><anchor xml:id="start3723"/>Neapelin<anchor xml:id="end3723"/> kuningas<anchor xml:id="end3724"/> tahtoi mielellään saarta omakseen
+						ja antoi sille nimensä. <anchor xml:id="start3725"/>Englannin kuningas<anchor xml:id="end3725"/> tahtoi myös omistaa sitä ja
+						antoi sille nimensä. Mutta juuri kuin molemmat kuninkaat riitelivät,
+						kumpiko saisi pitää saaren, vajousi koko saari jälleen meren syvyyteen,
+						eikä sitä ole sittemmin enää nähty.<anchor xml:id="end3722"/></p>
+					<head style="blackletter"><hi rend="bold">Tulivuorista.</hi></head>
+					<p style="blackletter">Suurimmat tulivuoret <anchor xml:id="start3726"/>mailman-osassamme<anchor xml:id="end3726"/> ovat Vesuvio Neapelin tienoilla,
+						Etna Sisilian saarella ja Hekla Islannin saarella. Kaikki kolme
+						suitsuavat vielä välistä tulta ja syytävät laavaa. <anchor xml:id="start3727"/>Seitsemänkymmentä
+						kahdeksan vuotta Vapahtajamme syntymisen jälkeen syyti Vesuvio niin
+						paljo kuumaa tuhkaa, jossa oli vettä ja laavavirtaa seassa,
+						Herkulanum’in ja Pompejon kaupunkien päälle, että nämä onnettomat
+						kaupungit piammite kaikkine asukkaineen painuivat hautaan.<anchor xml:id="end3727"/> Likimäärin
+						1,600 (tuhat kuusisataa) vuotta jälkeenpäin sattui eräs työmies
+						kaivamaan kaivoa tällä tienoolla ja löysi kivi-portaat maasta. Siinä
+						löytyivät Herkulanum’in jäänökset kolmenkymmenen kyynärän syvyydessä
+						maan sisässä, ja nyt oli toinen kaupunki rakennettu sen päälle. Ei
+						kaukana tästä löydettiin Pompejokin, joka nyt on suurimmalta osalta
+						kaivettu paljaaksi, niin että siinä nähdään, kuinka ihmiset olivat
+						asuneet ja eläneet Kristuksen syntymisen aikana.</p>
+				<pb type="orig" n="172"/>
+					<head style="blackletter"><hi rend="bold">Tulen ja veden sodasta.</hi></head>
+					<p style="blackletter"><anchor xml:id="start3728"/>Englannissa tapahtui kerran syksyllä, että meri kovalla myrskyllä
+						yhtäkkiä kohosi maalle ja pakkausi suureen <anchor xml:id="start3729"/>masuuniin<anchor xml:id="end3729"/>, jossa sulattiin
+						mahdottoman paljon rautamalmia.<anchor xml:id="end3728"/> Juurikuin vesi tuli masuuniin, kuului
+						kova paukaus. Samassa näkyi korkea patsas höyryä ja tulista <anchor xml:id="start3730"/>malmia<anchor xml:id="end3730"/>
+						nousevan ilmaan niin korkealle kuin korkein kirkontorni. Kolme kertaa
+						perätysten uudistui taas paukaus. Kolme kertaa perätysten nousi
+						tulipatsas. Sitte pirisi se kuuma malmi ympäriinsä joka suunnalle. Vesi
+						oli voittanut ja kiehui kauvan, juuri kuin ylpeillen voitostaan,
+						sammuneessa uunissa.</p>
+					<head style="romanType"><hi rend="bold">Säkene.</hi></head>
+					<lg>
+						<l style="romanType"><hi rend="italics">Säkene lentelet</hi></l>
+						<l style="romanType"><hi rend="italics">Pimeessä ilmassa</hi></l>
+						<l style="romanType"><hi rend="italics">Ja siellä loistelet</hi></l>
+						<l style="romanType"><hi rend="italics">Kirkasna, kaunisna.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Kun poltit, sammuit pois,</hi></l>
+						<l style="romanType"><hi rend="italics">Katosit kaiketi,</hi></l>
+						<l style="romanType"><hi rend="italics">Mut entäs tullut ois</hi></l>
+						<l style="romanType"><hi rend="italics">Sinusta liekkiki;</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Joka valaisisi</hi></l>
+						<l style="romanType"><hi rend="italics">Suloisna kauvemmin.</hi></l>
+						<l style="romanType"><hi rend="italics">Kuluu elommekin</hi></l>
+						<l style="romanType"><hi rend="italics">Niinkuin säkenekin.</hi></l>
+					</lg>
+				<pb type="orig" n="173"/>
+					<head style="romanType"><hi rend="bold"><anchor xml:id="start3731"/>Varjele Herra!<anchor xml:id="end3731"/></hi></head>
+					<lg>
+						<l style="romanType"><hi rend="italics">Varjele Herra, me muuten hukumme,</hi></l>
+						<l style="romanType"><hi rend="italics">Jos sinun voimasi ei oo apumme!</hi></l>
+						<l style="romanType"><hi rend="italics">Varjele Herra, kun on valo taivaan</hi></l>
+						<l style="romanType"><hi rend="italics">Synkeydeksi jo sammunut aivan!</hi></l>
+						<l style="romanType"><hi rend="italics">Varjele Herra, kun myrsky ja tuuli</hi></l>
+						<l style="romanType"><hi rend="italics">Pauhuten käy, ja pimeys onpi suuri,</hi></l>
+						<l style="romanType"><hi rend="italics">Mailma on synkkä ja tietä ei tunne,</hi></l>
+						<l style="romanType"><hi rend="italics">Eksymys eessä on, jos menis’ kunne!</hi></l>
+						<l style="romanType"><hi rend="italics">Varjele Herra, kun ilma on raskas,</hi></l>
+						<l style="romanType"><hi rend="italics">Ukkosen liekkien leimuss’ on taivas,</hi></l>
+						<l style="romanType"><hi rend="italics">Allamme maa aukeepi täristen,</hi></l>
+						<l style="romanType"><hi rend="italics">Liikkuvat vuoret vakaatki vapisten!</hi></l>
+						<l style="romanType"><hi rend="italics">Varjele Herra, kun on sodan raivo,</hi></l>
+						<l style="romanType"><hi rend="italics">Verta kun tuottavi kosto ja vaino;</hi></l>
+						<l style="romanType"><hi rend="italics">Ihmisten mieless’ on kaikkein kukistus,</hi></l>
+						<l style="romanType"><hi rend="italics">Mailman loppu ja vaiva, ahdistus!</hi></l>
+						<l style="romanType"><hi rend="italics">Onnellinen joka ei ole kurja,</hi></l>
+						<l style="romanType"><hi rend="italics">Ei oman mielensä, mailman orja,</hi></l>
+						<l style="romanType"><hi rend="italics">Vaan joka aina ilolla vakaana</hi></l>
+						<l style="romanType"><hi rend="italics">Herransa huomassa onpi vapaana!</hi></l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

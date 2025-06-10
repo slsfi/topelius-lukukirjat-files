@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Neljästoista Luku. Painosta ja liikunnosta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head style="blackletter" type="section"><hi rend="bold">Neljästoista Luku.</hi></head>
+				<head style="blackletter" type="section"><hi rend="bold expanded">Painosta ja liikunnosta.</hi></head>
+				<p style="blackletter">Tule, luetaanpa vielä, sillä <anchor xml:id="start3789"/>luonnon kirja<anchor xml:id="end3789"/> on sanomattoman rikasta. Tämä kivi
+					on <hi rend="expanded">kovaa,</hi> tämä savi on <hi rend="expanded">pehmeää</hi> ja tämä lasipalanen on niin <hi rend="expanded">haurasta.</hi> Helpommasti se murtuu rikki kuin tämä vitsa, joka on <hi rend="expanded">sitkeä.</hi> Tämä pihlajakeppi on <hi rend="expanded">notkea;</hi> se sujuu helposti. Tämä teräsvieteri lukossa on <hi rend="expanded">jäntevä;</hi> sujutettua potkasee se itsensä jälleen
+					entiselle muodolleen. Pallini on myös jäntevä; se <pb type="orig" n="187"/>kimpoaa
+					takasi lattiasta. <anchor xml:id="start3790"/>Plyijy<anchor xml:id="end3790"/> ja savi eivät ole ollenkaan jänteviä. Niitä en saa
+					kimpoamaan takasi.</p>
+				<p style="blackletter">Tämä höyhen on keveä, mutta tämä kivi on <hi rend="expanded">raskas.</hi> Kun
+					sitä pidän kädessäni, tunnen sen selvästi painavan alaspäin. Jos se on
+					maassa, täytyy minun käyttää voimaa nostaakseni sitä ylös; ja jos sen
+					päästän kädestäni irti, putoaa se kohta maahan. Miksikä niin? Siksi että maa
+					vetää sitä itseensä vissillä voimalla, joka tulee sen <anchor xml:id="start3791"/>tiveydestä<anchor xml:id="end3791"/> ja
+					suuruudesta. Se on <hi rend="expanded"><anchor xml:id="start3792"/>paino-voima<anchor xml:id="end3792"/>.</hi> Siitä tulee kiven
+						<hi rend="expanded"><anchor xml:id="start3793"/>paino<anchor xml:id="end3793"/>.</hi> Raskaita ovat ne kappaleet, joita maa
+					vetää kovasti itseensä, ja keveitä ovat ne kappaleet, joita maa vetää
+					heikosti itseensä. Mutta valolla, lämpimällä, <anchor xml:id="start3794"/>sähköllä<anchor xml:id="end3794"/> ja <anchor xml:id="start3795"/>magneeti-voimalla<anchor xml:id="end3795"/>
+					ei ole painoa.</p>
+				<p style="blackletter">Jos kivi voisi pudota maan sisään, niin se putoaisi aivan maan sisustaan;
+					siellä se vasta pysähtyisi. Ja jos tahdon nähdä, mihin painon-voima vetää,
+					annanpa plyijy-luodin riippua vapaana nuorassa. Siitä saan minä <hi rend="expanded"><anchor xml:id="start3796"/>luotilaudan<anchor xml:id="end3796"/>,</hi> jota rakennusniekat käyttävät huoneita
+					rakentaessa. Luoti ja nuora riippuu suorana alaspäin, ja sitä kutsun minä
+						<hi rend="expanded"><anchor xml:id="start3797"/>pystysuoraksi<anchor xml:id="end3797"/>.</hi> Mutta tyventä vettä <anchor xml:id="start3798"/>järvessä eli
+					meressä<anchor xml:id="end3798"/> ja kaikkea, joka on suorana pitkinpäin, kutsun minä <hi rend="expanded"><anchor xml:id="start3799"/>tasasuoraksi<anchor xml:id="end3799"/>.</hi></p>
+				<p style="blackletter">Nyt punnitsen jotakuta kappaletta, tietääkseni sen painoa. Silloin otan <hi rend="expanded">vaakan</hi> eli <hi rend="expanded">puntarin.</hi> Jos
+					vaakassa ovat yhtä pitkät sivut ja yhtä raskaat painot molemmissa kupissa
+					eli molemmilla levyillä, niin on vaaka <hi rend="expanded">tasapainossa.</hi> Jos siinä eivät ole yhtä pitkät sivut, vaan ovat
+					yhtä isot painot, niin painuu pitempi sivu alaspäin. Jos siinä ovat yhtä
+					pitkät sivut, mutta ei yhtä raskaita painoja, niin laskeupi raskaampi paino
+					alaspäin. Puntarissa muutan minä <anchor xml:id="start3800"/>kanninta<anchor xml:id="end3800"/> siksi että puntarin <pb type="orig" n="188"/>paino peräpuolella kanninta tulee yhtä raskaaksi kuin paino on puntarin
+					päässä olevassa koukussa. Samallaista olet usein nähnyt kiikkuissasi
+					laudalla. Tässä on kaksi poikaa, jotka ovat panneet laudan hirren päälle
+					kartanolla. Lauta on vaakan sivuin lainen. Jos pojat ovat yhtä raskaat, niin
+					asettavat he laudan niin, että sen molemmat puolet ovat yhtä pitkällä.
+					Silloin ovat ne tasapainossa ja vuorottain kiikkuvat ylös- ja alaspäin.
+					Mutta jos ne panevat laudan toiselle puolelle pitemmälle, niin jääpi
+					pitemmällä puolella istuva poika maahan istumaan eikä pääse ylöspäin. Ja jos
+					toinen poika on keveempi, tarvitsee hän pitemmältä lautaa puolelleen,
+					muutoin jääpi hän ylös eikä pääse laskeumaan.</p>
+				<figure type="illustration"><graphic url="10_1_049.jpg"/></figure>
+				<p style="blackletter">Jos kumarrun kovin alaspäin niin kaadun kumoon. Jos kannan vesi-ämpäriä
+					kädessäni, niin kumarrun käydessäni toiselle puolelle. Jos juoksen hirttä
+					myöten eli kävelen porraspuuta myöten, niin huiskin käsiäni, pysyäkseni
+					tasapainossa. <anchor xml:id="start3801"/>Konstiniekat<anchor xml:id="end3801"/>, jotka kävelevät köyttä myöten, pitävät silloin
+					tankoa käsissään. Miksikä niin? Siksi että jokaisessa kappaleessa on paikka,
+					jota kutsutaan <hi rend="expanded"><anchor xml:id="start3802"/>painon-keskustaksi<anchor xml:id="end3802"/>.</hi> Jos ei sillä
+					paikalla ole tukea alla, niin kaatuu kappale, juuri kuin kirja, jota koetan
+					saada seisomaan yhdellä nurkalla. Jos ei minun paino-keskustani ole
+					kohdastaan sen jalan päällä, jolle as<pb type="orig" n="189"/>tun, niin lankean. Pieni
+					lapsi oppii vähitellen tuntemaan paino-keskustansa, ja sitte alkaa hän
+					kävellä. Kepin saatan pitää viippumassa pystössä sormeni päässä, niin että
+					se seisoo suorana ilmassa.</p>
+				<p style="blackletter">Jos minulla on kaksi yhtä isoa plyijypalaista, niin yksi niistä painaa saman
+					verran kuin toinenkin. Mutta jos minulla on plyijypalanen ja puu-palanen,
+					jotka ovat yhtä isoja, niin painaa plyijypalanen enemmän kuin puupalanen.
+					Silloin sanon: plyijy on raskaampi kuin puu.</p>
+				<p style="blackletter">Miksikä uppoaa kivi veteen? Siksi kuin kivi on raskaampi kuin sama koko
+					vettä. Miksikä pysyy hirsi veden päällä? Siksi että se on kevyempi kuin
+					kokonsa vettä. Miksi makaa <choice><orig>hirven</orig><reg>hirren</reg></choice> alapuoli vedessä? Siksi kuin se painaa
+					altaan pois saman paino-määrän vettä kuin se itsekin painaa. Jota raskaampi
+					se on, sitä syvemmälle se painuu. Mutta se tulee kappaleen muodostakin. Vene
+					painaa pois altaan vähemmän vettä, kuin jos sen puut olisivat lauttana.
+					Ulkomaalla rakennetaan laivoja rautalevyistä. Jokainen rautalevy yksityisenä
+					uppoaisi pohjaan; mutta laivan muoto tekee sen, ettei se paina niin paljo
+					vettä altansa pois. Jos nostan kiveä vedessä, tunnen sen siinä keveämmäksi,
+					mutta kun olen saanut sen veden pintaan, tuntuu se raskaammalta. Jos putoan
+					veteen, painunpa pohjaan, jos en osaa uida. Mutta jos minulla on airo
+					kainaloin alla, niin pysyn veden päällä. Näin kerran pojan, joka oli
+					hukkunut. Jonkun ajan perästä nousi hän veden päälle; mutta se tuli siitä,
+					että ruumis oli tarpunut isommaksi.</p>
+				<p style="blackletter">Ihmiset ja <anchor xml:id="start3803"/>elävät<anchor xml:id="end3803"/> <hi rend="expanded">liikkuvat itse</hi> paikasta toiseen.
+					Mutta muut kappaleet eivät liiku itse. Tuolla menevät kärryt. Eivät ne
+					liikkuisi paikalta, jos ei <anchor xml:id="start3804"/>hevoinen<anchor xml:id="end3804"/> niitä vetäisi. Tuolla lentää palli. Se
+						<pb type="orig" n="190"/>olisi aivan yhdessä kohti, jos ei sitä olisi nakattu
+					menemään. Puun oksat liikkuvat, kun tuuli niihin puhuu. Kerä vierii pöydältä
+					alas, koska painovoima vetää sitä alaspäin.</p>
+				<figure type="illustration"><graphic url="10_1_050.jpg"/></figure>
+				<p style="blackletter">Jos lauta eli tie eli jotakuta muuta tasaista on toisesta päästä ylempänä
+					kuin toisesta, niin kutsun sitä <hi rend="expanded"><anchor xml:id="start3805"/>viettäväksi<anchor xml:id="end3805"/>
+						pinnaksi.</hi> Jos lasken jotakin pyöreää eli kuperaa yläpuolelta
+					pintaa, niin se vierii painollansa alaspäin. Mutta jos tahdon sitä vierittää
+					ylöspäin, niin tarvitsen siihen enemmän voimaa kuin silloin, jos lauta eli
+					tie olisi tasapinnassa. Siksi mennään mäkeä alaspäin hyvää vauhtia, mutta
+					ylös mäkeen vetävät hevoiset vaikeammasti kuin tasaisella tiellä.</p>
+				<p style="blackletter">Kellon napsauttaissa <anchor xml:id="start3806"/>sekunnin<anchor xml:id="end3806"/>, saatan kävellä kaksi kyynärää eteenpäin; mutta
+					samalla ennätän juosta 12 kyynärää. Ja samalla ajalla ennättää hevoinen
+					täydessä laukassa 25 kyynärää, <anchor xml:id="start3807"/>kyyhkyinen<anchor xml:id="end3807"/> lentää 45 kyynärää, pyssyn luoti
+					kulkee 500 kyynärää, ja valo lentää eteenpäin 29,000 <anchor xml:id="start3808"/>peninkulmaa<anchor xml:id="end3808"/>. Niin
+					erilainen on <hi rend="expanded"><anchor xml:id="start3809"/>liikkeen sukkeluus<anchor xml:id="end3809"/>.</hi></p>
+				<p style="blackletter">Jos on kaksi yhtä raskasta kiveä, ja nakkaan yhtä väkevämmästi kuin toista,
+					niin lentää se kivi sukkelammasti, jota nakkasin väkevämmästi. Mutta jos
+					minulla on raskas kivi ja keveä kivi, niin tarvitsen enemmän voimaa raskasta
+					kiveä nakatessa, että se menee yhtä sukkelasti kuin keveä kivi.</p>
+				<p style="blackletter">Nakkaanpa pallin ilmaan. Se lentää ensin vinoon ylöspäin, sitte vähenee sen
+					vauhti, sitte alkaa se vinoon laskeuda alaspäin, ja tehtyänsä kaaren, putoaa
+					se alas ja makaa maassa. Miksikä <pb type="orig" n="191"/>niin? Siksi kuin ilma tekee
+					sille vastusta ja maa vetää sitä alaspäin. Jos nakkaan <choice><orig>kiekun</orig><reg>kiekon</reg></choice> pyörimään,
+					niin pidättää sitä vielä hierominenkin maata vasten. Kaikki tämä vähentää ja
+					estää liikettä. Ja jos ei olisi niin, tapahtuisipa se ihme, ettei pallini
+					eikä kiekkani kerran kädestäni nakattuina enää koskaan pysähtyisi.</p>
+				<p style="blackletter">Muuan poika pani kelkalle kiven ja veti kelkkaa. Toinen poika, joka oli yhtä
+					voimakas, tuli kumppanillensa avuksi vetämään. Nyt vetivät he kelkkaa kahta
+					vertaa sukkelammasti, kuin ensimäisen pojan yksinään vetäessä. Vähän ajan
+					perästä alkoivat he riidellä. Toinen veti kelkkaa eteenpäin, toinen
+					taaksepäin. Eipä kelkka paikalta liikahtanut. Mutta viimein väsyi ensimäinen
+					poika, ja nyt veti toinen poika niin paljo takaperin, kuin oli eroitusta
+					poikain voimain välillä. Kerran sitoivat molemmat pojat nuoransa rekeen ja
+					vetivät sitä, kumpikin puoleltaan, vinoon syrjään. Menipä reki aivan suoraan
+					eteenpäin, siksi kuin molemmat vetivät sitä yhtä lujasti. Mutta kun toinen
+					väsyi, veti toinen poika re’en enemmän puolellensa. Kulkeissaan survasi reki
+					kelkkaa, ja kelkka poikkeusi syrjään, kun oli rekeä keveämpi, ja reki meni
+					hitaammasti eteenpäin. Sitte survasi reki olkikuormaan, mutta olkikuorma ei
+					mennytkään syrjään, kun oli raskaampi, vaan reki pysähtyi. Jos raskas
+					olkikuorma olisi survaisnut rekeä, niin olisi se antanut reelle kovemman
+					vauhdin, kuin reki antoi olkikuormalle. Näinpä kerran veneen purjehtivan
+					hyvää vauhtia ja paukahtavan laivaan, joka purjehti hyvin hitaasti.
+					Kuitenkin meni laiva esteettä eteenpäin, mutta vene musertui rikki.</p>
+				<p style="blackletter">Kartanollamme oli suuri kivi. Isä halusi saada sitä pois siitä, mutta ei
+					yksikään saanut kiveä pai<pb type="orig" n="192"/>kalta liikahtamaan. Ottipa isä <hi rend="expanded"><anchor xml:id="start3810"/>vivun<anchor xml:id="end3810"/>,</hi> jonka näet tässä kuvattuna. Hän pisti kiven
+					alle lujan kangin ja pienen kiven pani kangin alle aivan likelle sitä suurta
+					kiveä. Kun hän painoi vivun yläpäästä alaspäin, jaksoipa nostaa kiven, joka
+					sitte vedettiin pois lujalla re’ellä. Samalla lailla oli kaivon vintin
+					kanssa, ja aivan niin oli lautakiikunkin (liekunkin) kanssa. Siinä oli hirsi
+					alustukena; tässä oli sinä pieni kivi. Ja pitemmällä puolella vipua oli sama
+					voima, kuin pitemmällä puolella lautakiikkua. Olisi isä saattanut panna
+					alapuolen vipupuuta kiven alle ja vivuta yläpään ylöspäin. Silloin olisi
+					alustukena ollut vipupuun alapää.</p>
+				<figure type="illustration"><graphic url="10_1_051.jpg"/></figure>
+				<p style="blackletter"><anchor xml:id="start3811"/>Vintturi<anchor xml:id="end3811"/> laivassa ja vesiratas myllyssä ovat myös vipuja. Veden, joka on
+					vetävänä voimana, annetaan pudota väkevimmästi rattaasen; mutta myllynkivet,
+					joiden pitää pyöriä, ovat kiini lyhdyssä, jota pyörittää hammasratas, joka
+					taas on akselineen yhdistyksessä vesirattaan keskustan kanssa. Sellaiset
+					voimat enenevät sanomattomasti <hi rend="expanded">vuoroliikuntokoneella,</hi> jossa suuremmat rattaat iskeyvät hampaineen
+					pyörittämään pienempiä; sillä jokainen ratas tulee vivuksi.</p>
+				<figure type="illustration"><graphic url="10_1_052.jpg"/></figure>
+				<p style="blackletter">Toinen <anchor xml:id="start3812"/>vipukone<anchor xml:id="end3812"/> on <hi rend="expanded">ruuvi,</hi> jossa on kaksi osaa,
+					väännettävä ruuvi ja ruuvin torvi eli mutteri, joiden kierteet sopivat
+					toisissaan pyörimään. Saatan nyt tehdä kahdella tavalla, joko niin että
+					mutteri on kiini ja ruuvi <pb type="orig" n="193"/>irtanaisena, niinkuin näet tässä
+					kuvatussa pusertimessa. Siinä enenee voima ruuvissa olevalla tangolla. Eli
+					on itse ruuvi kiini ja mutteri irtanaisna niinkuin oikeissa kärryin
+					rattaissa pidetään. Siinä lisäypi mutterin voima sillä lailla että sitä
+					väännetään avaimella.</p>
+				<figure type="illustration"><graphic url="10_1_053.jpg"/></figure>
+				<p style="blackletter">Vielä tiedän sittenkin vipukoneen. Isä aikoi halkaista pölkkyä, mutta eipä
+					voinutkaan saada sitä kirveellä halki. Siksi löi isä kiilan pölkyn päähän,
+					ja nyt halkesi pölkky muutamalla lyönnillä. Siitä ymmärsin vipukonetten
+					olevan monellaisia. Puukkoni ja <anchor xml:id="start3813"/>hakkurautani<anchor xml:id="end3813"/> vaikuttavat kuin kiilat.
+					Keritsimien ja saksien terät ovat kuin kaksi kiilaa ja vaikuttavat kuin
+					vivut. Mutta kairi on samassa ruuvi ja kiila.</p>
+				<p style="blackletter">Tahdonko käyttää pyöriä ja kinunkia nostaakseni suuria painoja, niin panen ne
+					riippumaan irtanaisina köysissä. Jos sidon ne kiini, eipä olekkaan niillä
+					enää vipuvoimaa. Mutta silloinkin on minulle niistä suurta hyötyä; sillä
+					silloin nostan painoa ylöspäin köydestä vetämällä alaspäin, ja silloin
+					enenee voimani oman ruumiini painolla.</p>
+				<p style="blackletter">Aivan vähän olen ennen ajatellut sellaisia asioita kuin painoa ja liikettä.
+					Mutta jota enemmin niitä ajattelen sitä mieluisempi on niistä kaikista ottaa
+					vaari. Enpä ole ennen kysynyt kiveltä: miksikä uppoat? eli veneeltä: miksikä
+					pysyt veden päällä? En ole ennen arvellut pallista: miksikä lennät kaaressa?
+					eli koskesta: miksikä juokset? eli myllystä: miksikä pyörit ja käytät? Mutta
+					nyt olen oppinut kysymään ja vaarin ottamaan monesta asiasta. Niin tahdon
+					katsella kaikkia ympärilläni ja ajatella: miksikä on se niin? Kyllä on
+					Jumala pan<pb type="orig" n="194"/>nut paljo oppimista tavallisimpiinkin asioihin. Mutta
+					sitä ei näe ajattelematoin. Hän ei ajattele pitemmälle omaa nenäänsä.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

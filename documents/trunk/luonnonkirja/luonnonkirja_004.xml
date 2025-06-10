@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Neljäs Luku</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head type="section" style="blackletter"><hi rend="bold"><anchor xml:id="start2778"/>Neljäs Luku.<anchor xml:id="end2778"/></hi></head>
+				<p style="blackletter">Veljeni Antti ja sisareni Liisa menivät kerran metsään. Ne olivat jo
+					kasvaneet niin isoiksi, että voivat hoitaa itsensä. Molemmat olivat hyvin
+					halukkaat saamaan tietoja. Heistä oli lystintä saada alinomaa oppia jotakin
+					enemmän, kuin ennestään tiesivät.</p>
+				<p style="blackletter">Tultuansa metsän sisään isolle <anchor xml:id="start2779"/>suolle<anchor xml:id="end2779"/>, näkivät kauniita keltasia <anchor xml:id="start2780"/>hilloja<anchor xml:id="end2780"/>
+					mättäillä. Liisa kumartui niitä poimimaan, mutta sai samassa kouraansa
+					jotakin kylmää ja <anchor xml:id="start2781"/>kinaista<anchor xml:id="end2781"/>. Hyi! kiljasi hän; minä sain käärmeen
+					kouraani.</p>
+				<p style="blackletter">Antti, joka oli aivan likellä, juoksi säikäyksissään sisarensa luokse. Ei se
+					ole käärme, sanoi hän; se on vaan pieni <anchor xml:id="start2782"/>sisilisko<anchor xml:id="end2782"/>, joka ei tee vahinkoa.
+					Minä lyön sen kepilläni kuoliaaksi.</p>
+				<p style="blackletter">Liisa sanoi: jos se ei tee kenellekkään pahaa, niin anna hänen elää. Eläköön
+					sitte sinun tähtesi, vastasi Antti. Mutta jotakin rangaistusta pitää hänen
+					saada, siksi kuin peljätti sinua. Sisilisko, sinun täytyy kertoa meille
+					jotakin <anchor xml:id="start2783"/>eläväin<anchor xml:id="end2783"/> seassa olevista sukulaisistasi.</p>
+				<p style="blackletter">Mielelläni teen sen, sanoi sisilisko, ollen tykyttävine sydämineen pojan
+					kädessä. Me kuulumma kolmannen luokan eläviin, joita kutsutaan <anchor xml:id="start2784"/>mataviksi
+					eläviksi<anchor xml:id="end2784"/>. Ennen kutsuttiin meitä <hi rend="expanded"><anchor xml:id="start2785"/>rustiaisiksi
+						(amfibioiksi)<anchor xml:id="end2785"/>:</hi> se merkitsee eläviä, jotka elävät kahdella lailla.
+					Keuhkomme ovat niin kummallisesti laitetut, että saatamme hengittää ja elää
+					sekä vedessä että maalla. Siksi ei ole hengityksemmekään niin täydellinen,
+					kuin <anchor xml:id="start2786"/>imettäväin eläinten<anchor xml:id="end2786"/> ja lintuin. Ja kun <anchor xml:id="start2787"/>eläimet<anchor xml:id="end2787"/> saavat hengityksestä
+					lämpimän, on meillä kylmä veri. Samasta syystä voimme kuole<pb type="orig" n="59"/>matta
+					kärsiä isompata lämmintä ja kovempata kylmää kuin muut elävät. Useimmat
+					meitä luovat vuosittain nahkansa. Useammat munivat meistä. Munista matavat
+					sitte pojat ulos auringon lämpimässä. Syksyllä kylmän tultua matelemme alas
+					<anchor xml:id="start2788"/>järvien<anchor xml:id="end2788"/> pohjaan eli maahan tainnoksissa <anchor xml:id="start2789"/>tampistuneina<anchor xml:id="end2789"/> talven pakkaisessa.
+					Mutta maan sulattua keväillä virkistymme jälleen ja matelemme ylös
+					piilostamme. Kuumissa maissa on meitä sekä paljo että isoja; mutta tällä
+					maalla on meitä vähä ja pieniä. Ihmisestä olemme ilkeitä ja inhottavia, kun
+					hän meihin koskee. Ehkä muutamat meistä ovat myrkyllisiä eläviä, eivät
+					kuitenkin useat ole vahingollisia.</p>
+				<p style="blackletter">Seuratkaa minua järven rannalle, sanoi sisilisko, niin näytän teille useita
+					luokastani eläviä. En minä tule, sanoi Liisa. Siihen en uskalla ollenkaan;
+					tiedän siellä olevan monta <anchor xml:id="start2790"/>käärmettä<anchor xml:id="end2790"/>. Mutta Antti sanoi: elä pelkää;
+					suojelen sinun kyllä kepilläni. Jo lupasi Liisakin seurata häntä; mutta
+					hyvin häntä pelotti; hän katseli usein ympärilleen, ettei olisi astunut
+					käärmehien päälle.</p>
+				<p style="blackletter">Vähän ajan perästä tulivat leväselle <anchor xml:id="start2791"/>rannalle<anchor xml:id="end2791"/>, jossa mateli rapakossa monta
+					ilkeätä elävää. <anchor xml:id="start2792"/>Sammakko<anchor xml:id="end2792"/> istui ja kurnutti lammikon rannalla, niinkuin sillä
+					on keväillä tapana. Nähtyään lapset, hypätä lötkitti se veteen. Sinne oli
+					tehnyt mustaa sammakon kutua, joka on kalan mädin laista. Katsoppa noita
+					pieniä sammakoita, sanoi sisilisko. Hyvin kummallisesti muuttuvat ne
+					kasvaessaan. <anchor xml:id="start2793"/>Sikiöt<anchor xml:id="end2793"/> ovat munista tultuaan isoine päineen ja pienine
+					sukkelasti liikkuvine häntineen kalain näkösiä. Silloin ne uivat, ja silloin
+					hengittävät ne kalain lailla, ja maalle otettuina kuolevat ne. Mutta
+					kahdeksan viikon kuluttua kasvavat niille jalat ruumiisen. Häntä putoaa
+					niiltä pois. Ne voivat silloin <pb type="orig" n="60"/>hengittää ilmaa ja elävät maalla.
+					Sammakot syövät <anchor xml:id="start2794"/>kasvuja<anchor xml:id="end2794"/> ja kalan mätiä. Itse käyvät ne monien eläinten
+					ruuaksi. Ja rumin niistä on se ruskea konna.</p>
+				<figure type="illustration"><graphic url="10_1_027.jpg"/></figure>
+				<p style="blackletter">Tässä on oikea asuntomme, sanoi sisilisko. Katseleppa noita monia pieniä
+					sisiliskoja, veliäni ja sisariani, jotka matelevat niin sukkeloina kivien
+					välissä. Me sisiliskot olemme hoikempia ja pitempiä kuin sammakko. Meillä on
+					neljä jalkaa ja terävä häntä. Pienillä seassamme on suomuinen ruumis, ja ne
+					syövät enimmästi pieniä matoja. Mutta jos tahdot seurata minua kauvas tuonne
+					kuumaan Afrikaan, niin näytän sinulle yli 15 (viidentoista) kyynärän
+					pituisia sisiliskoja. Semmoinen sisilisko on se julma <hi rend="expanded"><anchor xml:id="start2795"/>krokodili<anchor xml:id="end2795"/>,</hi> joka väjyy saalista <anchor xml:id="start2796"/>virtain<anchor xml:id="end2796"/> <anchor xml:id="start2797"/>mudassa<anchor xml:id="end2797"/>. Elä mene virtaan
+					uimaan. Krokodili nielee sinun hirveään kitaansa, eli puree ruumiisi poikki
+					terävillä hampaillansa. Usein mataa se virran rannalle. Jos se siinä juoksee
+					jälkeesi, väistele alinomaa syrjään. Sillä hyvin sukkela on krokodili
+					juoksemaan, suoraan kulkiessa; mutta vaikea on sillä käännellä pitkää ja
+					kankeata ruumistaan. Sen nahka on niin kova, ettei mikään kiväärin kuula
+					pääse sen läpi, ja se on <anchor xml:id="start2798"/>pakuraisissa<anchor xml:id="end2798"/> ruutuissa. <anchor xml:id="start2799"/>Hietaan<anchor xml:id="end2799"/> munii se isot
+					valkeat munansa, ja hyvin niitä lisäysisi, jos ei pieni imettävä eläin söisi
+					sen munia.</p>
+				<figure type="illustration"><graphic url="10_1_028.jpg"/></figure>
+				<p style="blackletter">Seuraatko minua tuonne suurille <anchor xml:id="start2800"/>merille<anchor xml:id="end2800"/> <anchor xml:id="start2801"/>etelään<anchor xml:id="end2801"/>, näytän sinulle toisen
+					kummallisen matavan elävän, jonka nimi on <hi rend="expanded">kilpi-konna.</hi></p>
+				<pb type="orig" n="61"/>
+				<p style="blackletter">Sillä on luinen katto selässä, juurikuin kilpi, ja tämä kilpi on niin kova,
+					että sen päällitse saattaa ajaa vaikka vaunuilla. Vatsan alla on sillä
+					hienompi kilpi, ja molempain kilpien välistä pistää konna ulos pitkän
+					kaulansa, pienen päänsä ja neljä jalkaansa. Kun näet sen makaavan
+					päiväpaisteessa meren rannalla, käännä se selälleen. Niin se ei enää voi
+					kääntyä vatsalleen. Ota se sitte ja keitä sen liha, joka on parempaa kuin
+					vasikan liha. Kovasta luusta saatat sitte tehdä kauniita kampoja ja
+					tousia.</p>
+				<figure type="illustration"><graphic url="10_1_029.jpg"/></figure>
+				<p style="blackletter">Elä mene likelle tuota vanhaa kivirauniota; siinä matelee se jalatoin käärme.
+					Katso kuinka sukkelasti se menee eteenpäin vetäen kokoon suomuisia renkaita,
+					joita sillä on ruumiin ympärillä. Sen pitkä kieli on terävä ja halki. Jo
+					<anchor xml:id="start2802"/>lähättäypi<anchor xml:id="end2802"/> se sammakon päälle. Hän pitää sitä kiini terävissä hampaissaan.
+					Mutta ei hän sitä pureksele, vaan nielee sen kokonaan. Näetkö kahta ontta
+					hammasta sen suussa? Niiden juuressa on myrkky-rakko. Purressaan puristaa se
+					myrkkyä rakosta. Myrkky tulee haavaan ja sekaupi vereen; siitä kuolee se,
+					jota käärme on pistänyt. Mutta muutamilla käärmeillä ei ole ollenkaan
+					myrkkyrakkoa, eivätkä ne vahingoita ketään. <anchor xml:id="start2803"/>Ei käärme hännällään pistä
+					koskaan.<anchor xml:id="end2803"/> Joka vuosi muuttaa hän nahkansa. Olenpa nähnyt hänen tekevän munia,
+					joista sikiöt matavat ulos auringon lämpimässä. Mutta muutamat käärmeet
+					synnyttävät eläviä sikiöitä. Varo, veikkonen, mutta elä pelkää. Käärmeet,
+					joita tässä maassa on, ovat kaikki pieniä. Punasen-ruskea <anchor xml:id="start2804"/>kuparikäärme<anchor xml:id="end2804"/> ei
+					ole myrkyllinen. <anchor xml:id="start2805"/>Musta käärme<anchor xml:id="end2805"/>, jolla on valkeita pilkkoja kaulassa, ei tee
+					kenellekkään pa<pb type="orig" n="62"/>haa. Mutta väistä tuota <anchor xml:id="start2806"/>harmaata <anchor xml:id="start2807"/>kyykäärmettä<anchor xml:id="end2807"/>,
+					jolla on ruskeita pilkkoja selässä. Varo itseäsi mustalta kyykäärmeeltä ja
+					pieneltä kyykäärmeeltä. Ne ovat kaikki samaa lajia<anchor xml:id="end2806"/> ja saattavat sinua
+					vahingoittaa, jos astut niiden päälle avojaloin kävellessäsi niityllä.</p>
+				<p style="blackletter">Kuulin kerran vanhan sisiliskon kertovan hirveän suurista käärmeistä, jotka
+					elävät kuumissa maissa. Metsässä kulkeissaan kuulee kalisevan äänen. Silloin
+					juoksevat ne puoleksi alastomat ihmiset minkä jaksavat. Sillä silloin tulee
+					se suuri ja myrkyllinen <hi rend="expanded"><anchor xml:id="start2808"/>kaliseva käärme<anchor xml:id="end2808"/>,</hi> jonka tulo
+					kuullaan hännän kalisemisesta. Toisella kerralla nähdään jotakuta liikkuvan
+					korkeissa puissa. Siellä matelee se suuri <anchor xml:id="start2809"/>kuningas-käärme<anchor xml:id="end2809"/>, joka on 15
+					(viittätoista) kyynärätä pitkä ja niin paksu kuin miehen reisi. Se nakkaupi
+					puusta <anchor xml:id="start2810"/>peuran<anchor xml:id="end2810"/> päälle, joka on paneunut nukkumaan varjoon. Se kiertäypi
+					peuran ympärille; silloin kyllä tulee peuralle loppu. Se on niin väkevä,
+					että se, häntänsä käärittyä puun ympärille, voipi vielä ruumiillaan puristaa
+					<anchor xml:id="start2811"/>härän<anchor xml:id="end2811"/> kuoliaaksi. Hyvä on, ettei täällä ole yhtään kuningaskäärmettä.</p>
+				<p style="blackletter">Eikö sinulla ole kauniimpia eläviä meille näytettäviksi? kysyi Antti pahoilla
+					mielin. Ei, sanoi sisilisko. Jos ei Jumala olisi sallinut muutamain eläväin
+					olla häjyjä ja pahoja, ei ihminen olisi ymmärtänyt kaunisten ja hyväin
+					eläväin arvoa. Me matavat elävät olemme tulleet vihattaviksi ihmisiltä,
+					<anchor xml:id="start2812"/>siitä asti kuin käärme ensin vietteli <anchor xml:id="start2813"/>Eevan<anchor xml:id="end2813"/> syntiin<anchor xml:id="end2812"/>. Siksi on Jumala pannut
+					vainon Aadamin suvun ja käärmeen suvun välille. Hyvin surullista on se
+					meille. Mutta meillekki on rauha tuleva, kun aika on päättynyt.</p>
+				<pb type="orig" n="63"/>
+					<head style="blackletter"><hi rend="bold"><anchor xml:id="start2814"/>Sitkeä-henkisiä eläviä<anchor xml:id="end2814"/>.</hi></head>
+					<p style="blackletter">Näin kerran kukkoraukan, jolta köökkipiika löi pään poikki, kun se piti
+						paistettaa murkinaksi. Päätöinnä lenti se aidan viereen ja istui siinä,
+						siksi-kuin kuoli. Kilpi-konnakin mataa vielä hetken aikaa, pään
+						katkaistua. Ei sitä ole hyvä katsoa. Käärme viuruilee vielä kappaleiksi
+						hakattunakin. Sammakko hyppelee vielä sydämen otettua pois. Sisiliskoja
+						on löydetty elävinä puissa, joissa kuori on kasvanut niiden päälle.
+						<anchor xml:id="start2815"/>Viisikymmentä vuotta sitte löydettiin kolme elävää sammakkoa kovasta
+						kivestä, joka särettiin. Siellä mahtoivat he olla useita tuhansia
+						vuosia, siitä asti kuin kivi muinoin oli pehmeää. Siitä otettua ne
+						alkoivat iloisesti hypellä; mutta hetken perästä kuolivat kaikki kolme.<anchor xml:id="end2815"/>
+						Sellaiset elävät saattavat myös olla kauvan ruuatta. Ison käärmeen on
+						nähty olevan ruuatta kaksi kuukautta, laihtumatta eli kuolematta.</p>
+					<head style="blackletter"><hi rend="bold">Käärmeet.</hi></head>
+					<p style="blackletter">Eräs maanmies Amerikassa astui kalisevan käärmeen päälle, joka samassa
+						pisti häntä <choice><orig>saappaascn</orig><reg>saappaasen</reg></choice>. Mies ei <anchor xml:id="start2816"/>pitänyt tästä vaaria<anchor xml:id="end2816"/>, kun sen renki löi
+						käärmeen kuoliaaksi. Mutta hetken perästä alkoi pistetty jalka ajettua
+						ja mies kuoli. Poikansa, joka peri hänen, piti isä-vainaansa saappaita.
+						Vähän ajan perästä sairastui tämäkin ja kuoli. Saappaat myytiin sitte
+						huutokaupassa. Eräs talonpoika osti ne; mutta tuskin oli ne jalkaansa
+						vetänyt, ennenkuin hän vuorollaan sairastui ja kuoli. Otettiinpa nyt ne
+						vaaralliset saappaat tutkittaviksi. Ja mitä niissä löydettiin? Toisessa
+						saappaassa oli käär<pb type="orig" n="64"/>meen myrkyllinen hammas jälellä, ja
+						kaikkia, jotka pitivät saappaita, oli se haavoittanut ja
+						kuolettanut.</p>
+					<p style="blackletter">Itä-intiassa on ihmisiä, jotka saattavat lumoa käärmeitä. Tässä
+						puhaltavat he pieneen pilliin. Kohta mataa käärme maasta ylös ja tanssaa
+						pillin soiton jälkeen. Muutamilla on sellainen valta käärmeille, että
+						voivat ottaa ne käteensä ja kääriä ne kaulansa ympärille. On tapana
+						täyttää kuolleen käärmeen nahan, juuri kuin imettävän eläinten ja
+						lintuin nahkoja täytetään, niin että ne ovat eläväin näköisiä.</p>
+					<head style="blackletter"><hi rend="bold">Lohikäärme ja Salamanderi.</hi></head>
+					<p style="blackletter">Sadut kertovat paljo asioita, joita ei enää olekkaan mailmassa. Suuret
+						siivelliset lohikäärmeet vahtasivat kätketyitä tavaroita ja söivät
+						kauniita prinsessoja. Tulessa asui kaunis salamanderi, joka kantoi
+						päässään kultaista kruunua. Nyt on toisin. Nyt asuu kaukana tuolla
+						Itä-intian saarilla pieni sisilisko, joka lentää siivillä ja jota siksi
+						kutsutaan <anchor xml:id="start2817"/>lohikäärmeeksi<anchor xml:id="end2817"/>. Ja muissa <anchor xml:id="start2818"/>eteläisissä maissa<anchor xml:id="end2818"/> elää pieni
+						kirjava sisilisko, joka on tuskin korttelia pitkä. Tämä on <anchor xml:id="start2819"/>salamanderi<anchor xml:id="end2819"/>.
+						Ei sillä ole enää kultakruunua päässä. Ja tuleen pudottua kuolee se
+						niinkuin muutkin elävät. Paha on, kun niin on; mutta niin se on.</p>
+					<head style="blackletter"><hi rend="bold"><anchor xml:id="start2820"/>Sammakko.<anchor xml:id="end2820"/></hi></head>
+					<lg>
+						<l style="blackletter">Sonnin sammakko <anchor xml:id="start2821"/>havahti<anchor xml:id="end2821"/>.</l>
+						<l style="blackletter">Polttipa kateus poloista.</l>
+						<l style="blackletter">Sisu paisui pöyhkevällä.</l>
+						<l style="blackletter">Huuti sammakko samassa,</l>
+						<l style="blackletter">Rumin kaikista katala.</l>
+						<l style="blackletter">Enkö oo kuin sonni suuri?</l>
+						<l style="blackletter">Auki suunsa aukaseepi.</l>
+						<pb type="orig" n="65"/>
+						<l style="blackletter">Veti ilmaa itsehensä.</l>
+						<l style="blackletter">Hyvin pullolle pakotti,</l>
+						<l style="blackletter">Pakotti pakottamalla</l>
+						<l style="blackletter">Ruman ruumiinsa poloinen.</l>
+						<l style="blackletter">Jo repesi ruumis raukan</l>
+						<l style="blackletter"><anchor xml:id="start2822"/>Kateisen<anchor xml:id="end2822"/> sisun käsissä.</l>
+						<l style="blackletter">Satu loppui sammakosta.</l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

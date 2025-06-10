@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Yhdestoista Luku. Ilmasta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head type="section" style="blackletter"><hi rend="bold">Yhdestoista Luku.</hi></head>
+				<head type="section" style="romanType"><hi rend="expanded">Ilmasta.</hi></head>
+				<p style="romanType">Kerran oli Antti juosnut itsensä väsyksiin paperi-leijua vetäen vasta-tuuleen.
+					Tultuaan suuren tuulimyllyn luo kylän tykönä pysähtyi hän katsomaan myllyn
+					siipiä, jotka pyöriä hurisivat hyvää vauhtia tuulessa.</p>
+				<pb type="orig" n="151"/>
+				<p style="romanType">Mitä sinä katsot? sanoi Liisa, joka samassa käveli isänsä kanssa maantietä.
+					Antti sanoi: minä koetan katsoa ilmaa. Eikö voi nähdä sitä ainetta, jolla on
+					niin suuri voima, että se nostaa paperi-leijuni ylös pilveä kohti ja panee
+					pyörimään myllyn siivet, jotka taas pyörittävät raskaita myllyn kiviä?</p>
+				<p style="romanType">Isä sanoi: <hi rend="expanded">ilmaa</hi> ei voi kukaan nähdä, sillä se on
+					kokonaan <hi rend="expanded">läpi-näkyvä.</hi> Tässä on lasi. Se näyttää
+					tyhjältä, ja sinä sanot siinä ei olevan mitään. Mutta käännäppä sen suu
+					alaspäin ja koeta sitä upottaa veteen, niin siihen ei mene ollenkaan vettä.
+					Siinä on jotakin, joka on veden edessä, ja se on ilma. Mutta paneppa lasi
+					suin vinoon veteen, niin ilma pulppuaa ulos, kun vettä juoksee sisään.
+					Ainoasti sumuja ja vesihöyryjä täynnä ollessa voit sinä nähdä ilmaa; sillä
+					silloin on se sameaa ja <anchor xml:id="start3602"/>usmaista<anchor xml:id="end3602"/>, niinkuin autereessa, kun kesällä kauvan on
+					ollut lämmintä. Mutta katsoessa pitkälle ylettyvää selvää ilmaa, näkyy se
+					siniseltä. Siitä tulee taivaan sininen väri. Ja kun aurinko paistaa alaalta
+					ilman huuruin läpitse, saamme nähdä kauniimpia väriä aamu- ja
+					iltaruskoissa.</p>
+				<p style="romanType">Toisella kerralla auringon selvästi paistaessa akkunan läpitse, näemme pieniä
+					tomun kipeneitä heiluvan ilmassa ja olevan alinomaa liikkeellä. Tästä näemme
+					ilman olevan aivan kevyttä ainetta, jonka pieninkin täräys panee liikkeelle.
+					Jos istut hataran akkunan luona, tunnet selvästi <hi rend="expanded">ilma-huokun</hi> kylmemmästä ilmasta tulevan ulkoa. Jos puhallat
+					<anchor xml:id="start3603"/>hiillokseen<anchor xml:id="end3603"/> liedessä, niin menee ilmaa tohisten suustasi ulos. Jos puhallat
+					lasiputkeen, johon olet pannut <anchor xml:id="start3604"/>herneen<anchor xml:id="end3604"/>, niin lentää herne siitä ulos, sillä
+					ilma pakkaupi putkessa kokoon ja tulee sillä väkevämmäksi. Seppä pusertaa
+					paletta pajassa kokoon, ja ilma puristuu palkeessa kokoon ja puhaltaa ulos,
+					juuri kuin tuuli, ahjoon. Välistä ei tuta mitään liikettä ulkoilmassa.
+					Silloin sanotaan: nyt on <hi rend="expanded">tyven.</hi> Mutta käypipä niin,
+						<pb type="orig" n="152"/>että ilma jollakulla paikalla laajentuu lämpimästä ja
+					pakkaupi muita ilma-panoksia vastaan, niin että ne tulevat liikkeelle,
+					juurikuin virraksi. Siitä tulee <hi rend="expanded">tuuli.</hi> Tästä syystä
+					tulee aina tuuli suurissa tulipaloissa. Tuuli saattaa enetä useista syistä,
+					ja sitte tulee <hi rend="expanded">myrsky.</hi> Myrsky saattaa vielä väkiä
+					niin hirmuisen kovaksi, että se kaataa suurimmatkin puut, särkee huoneita ja
+					hautaa suuret laivat kuohuviin <anchor xml:id="start3605"/>aaltoihin<anchor xml:id="end3605"/>. Sellaista myrskyä saapi sanoa <hi rend="expanded"><anchor xml:id="start3606"/>hirmu-myrskyksi<anchor xml:id="end3606"/>.</hi> Välistä kulkee hirmu-myrsky
+					kummallisissa <choice><orig>pyönekkeissä</orig><reg><anchor xml:id="start3607"/>pyörekkeissä</reg></choice> eli <hi rend="expanded">tuulispäissä<anchor xml:id="end3607"/>.</hi>
+					Toisinaan tapahtuu tyveneessä ilmassa, että pilvi, jota kutsutaan <hi rend="expanded"><anchor xml:id="start3608"/>vesipatsaaksi<anchor xml:id="end3608"/>,</hi> imee vettä <anchor xml:id="start3609"/>merestä<anchor xml:id="end3609"/> ja repii mukaansa
+					kaikki, jotka sitä likenevät, siksi kuin pilvi puhkeaa ja vesi putoaa alas
+						<hi rend="expanded">rankkana sateena.</hi></p>
+				<p style="romanType">Tuolla purjehtii suuri laiva, joka on niin raskas, että sitä monien ihmisten
+					voimalla tuskin jaksetaan paikalta liikuttaa. Mikä kulettaa siis laivaa
+					eteenpäin? Se on ilma, joka täyttää sen levitetyt purjeet. Toisella kerralla
+					näemme, kuinka ilma kantaa pilviä ja savua ja lintuin siipiä ja muita
+					keveitä aineita niinkuin paperia ja untuvia. Siitä käsitämme ilmalla olevan
+					vissin <hi rend="expanded"><anchor xml:id="start3610"/>tiheyden<anchor xml:id="end3610"/></hi> ja vissin <hi rend="expanded"><anchor xml:id="start3611"/>painon<anchor xml:id="end3611"/>.</hi> Olemme niin tottuneet ilmaan, ettemme ollenkaan tunne,
+					kuinka se painaa meitä. Mutta miksikä ei olu juokse ulos <anchor xml:id="start3612"/>puolikon<anchor xml:id="end3612"/> hanan
+					reijästä, ennenkuin runtia aukaistaan? Siksi että ilma painaa vastaan tapin
+					reijässä. Ja jos imen ilman pois vingerporista eli kuppasarvesta, niin
+					tarttuvat ne kiini käteeni. Miksikä niin? Siksi että ilma painaa niitä ulkoa
+					päin, mutta ei enää sisäpuolelta. Ja jos pistän veteen putken, joka on auki
+					molemmista päistä, niin on vesi yhtä korkealla putkessa sisä- kuin
+					ulkopuolellakin. Mutta jos imen ilman pois yläpuoleisesta päästä, niin
+					nousee vesi ylös putkessa aina suuhuni asti. Miksikä niin? Siitä syystä että
+					ilma painaa vettä ulkopuolella putkea ja pakottaa sitä ylöspäin, kun ilma ei
+					paina enää vettä putken sisällä. <pb type="orig" n="153"/>Sellaista putkea kutsutaan <hi rend="expanded"><anchor xml:id="start3613"/>vetopilliksi<anchor xml:id="end3613"/>.</hi> Samasta syystä saan veden nousemaan
+					pumpussakin. Sillä kun pumpun vartta vedetään yläspäin, niin pakottaa se
+					ilman pumpun torvesta pois avopäästä ylhäällä, ja se ulkopuolella oleva ilma
+					painaa vettä siihen ilmasta tyhjänä olevaan pumpuntorveen.</p>
+				<figure type="illustration"><graphic url="10_01_043.jpg"/></figure>
+				<p style="romanType">Tahdotko nähdä kummallista, niin tee kuin kirjan lehden laidassa oleva kuva
+					osottaa.</p>
+				<p style="romanType">Ota ämpäri eli malja ja kaada siihen vettä. Ota sitte mutkalle sujutettu
+					putki, pistä yksi pää putkea veteen ja anna toisen pään riippua alaspäin
+					astiasta, mutta niin että se riippuu vähä alempana astiassa olevaa vettä.
+					Ime sitte ilma pois putken alapäästä. Vesi alkaa nyt juosta putkesta ja
+					juoksee juoksemistaan, sittekin kun herkesit imemästä, niin kauvan kuin
+					vettä on astiassa. Miksikä niin? Vedenhän täytyy ensin juosta ylöspäin, kun
+					putken mutka on ylempänä veden pintaa. Emmekä koskaan näe veden muuten
+					juoksevan ylöspäin. Mutta niin tekee se nyt, siksi että ulkopuolella oleva
+					ilma painaa vettä sihen ilmasta tyhjään putkeen, joka ei ole muu kuin
+					mutkistettu vetopilli.</p>
+				<p style="romanType">Mutta jos koetan imeä vettä putkeen, joka on esim. 18 kyynärää korkealla
+					veden pinnasta, niin en voi millään lailla saada vettä nousemaan 17 kyynärää
+					ylemmäksi putkeen. Miksikä en? Siksi että <anchor xml:id="start3614"/>ilman paino<anchor xml:id="end3614"/> ei voi kohottaa vettä
+					ylemmäksi. Ja tästä näemme, että ilma painaa meihin joka kulmalta juuri niin
+					paljo, kuin jos päällämme olisi 17 kyynärän korkuiselta vettä <note id="ftn2" n="*)" place="foot">Muist. Oppineet ihmiset ovat laskeneet kannun vettä painavan saman
+						verran kuin 770 kannua ilmaa.</note>. Se on hirviä paino, joka kokonaan
+					rusentaisi meidät, jos ei si<pb type="orig" n="154"/>sällämme oleva ilma painaisi yhtä
+					paljo ulospäin. Jos sisällä olevan ilman voisi pumputa pois huoneesta, niin
+					ulkona oleva ilma rusentaisi seinät kokonaan rikki.</p>
+				<p style="romanType">Vaikea on saada jotakuta paikkaa ilmasta tyhjäksi; mutta kuitenkin on
+					keksitty kone, jolla ilma voidaan saada pois lasikellosta. Siinäpä nähdään,
+					kuinka höyhen joka pannaan <hi rend="expanded"><anchor xml:id="start3615"/>ilmapumppuun<anchor xml:id="end3615"/>,</hi> putoaa
+					alas yhtä kiivaasti kuin kivi. Sillä siinä ei ole <hi rend="expanded"><anchor xml:id="start3616"/>ilman
+						vastusta<anchor xml:id="end3616"/>,</hi> joka muuten pidättää kaikkea liikettä. Jos ei tätä
+					vastusta olisi, ampuisin kuulani ja nakkaisin pallini kahta vertaa
+					etemmäksi, kuin nyt voin tehdä.</p>
+				<figure type="illustration"><graphic url="10_1_044.jpg"/></figure>
+				<p style="romanType">Ilma juoksee näkymättöminä virtoina koko maan ympäri ja ylettyy noin neljää
+					<anchor xml:id="start3617"/>peninkulmaa<anchor xml:id="end3617"/> korkialle. Koko tätä ilma-panosta kutsutaan <hi rend="expanded"><anchor xml:id="start3618"/>ilmapiiriksi<anchor xml:id="end3618"/>.</hi> Onpa keksitty täyttää suuri silkistä eli muusta
+					hienosta vaatteesta tehty pallo <hi rend="expanded"><anchor xml:id="start3619"/>ilmalajilla<anchor xml:id="end3619"/></hi> eli
+					<anchor xml:id="start3620"/>ilmanmoisilla aineilla (kaasuilla)<anchor xml:id="end3620"/>, jotka ovat ilmaa keveämmät. Kun pallo on
+					sitte <anchor xml:id="start3621"/>tiviksi<anchor xml:id="end3621"/> tukittu, niin etteivät kaasut pääse siitä pois, kohoaa pallo
+					ilmaan, ja pallon alle on sidottu pieni vene, jossa on saattanut istua yksi
+					eli useampia ihmisiä. <anchor xml:id="start3622"/>Pallo eli <hi rend="expanded">ilma-pallo</hi> on
+					kohottanut nämä uskaliaat ilma-purjehtijat hyvin korkealle, vieläpä
+					korkiammalle korkeimpia <anchor xml:id="start3623"/>vuoria<anchor xml:id="end3623"/> ja korkeimpia pilviä.<anchor xml:id="end3622"/> Sieltä ovat nähneet
+					kaupungeita ja kyliä kaukana alaalla jalkainsa alla siksi kuin ovat
+					päästäneet kaasut ulos pallosta ja sitte painuneet jälleen maahan. Mutta
+					tuolla ilmassa korkealla on ollut aivan vaikea hengittää, sillä ilma ohenee,
+					jota ylemmä kohotaan. Tapahtuu niinkin, että korkealla vuorella näkee
+					pilvien satavan juuri allaan, sillä se ohu ilma ei voi kantaa pilviä niin
+					korkealla. Syvässä meressä on vesi painanut sukeltajia kovemmasti ulkoapäin,
+					kuin niiden ruumiissa oleva ilma on vastannut sisältäpäin, ja silloin he
+					ovat olleet lähellä <pb type="orig" n="155"/>kuolemaa. Aivan toisin on käynyt niille,
+					jotka ovat kiivenneet hyvin korkeoille vuorille. Siellä on heidän ruumiissa
+					oleva ilma painanut kovemmasti ulospäin, kuin ilma ulkopuolella on painanut
+					sisään päin. Siksi on veri tahtonut juosta niistä kuiviin sisus-ilman
+					painosta. Mutta syvissä kaivannoissa on ilma yhtä tiviä ja vaikeata
+					hengittää, niin että nähdään, kuinka Jumala on valmistanut ihmiselle
+					sopivimman ilman maan pinnalla.</p>
+				<p style="romanType">Ilma pakkaupi pian kaikkein läpitse: sitä on maassa, vedessä, <choice><orig>vatteissasi</orig><reg>vaatteissasi</reg></choice>
+					olevissa langoissa ja ruumiisi sisässä. Ilmatta ei voi yksikään <anchor xml:id="start3624"/>eläin<anchor xml:id="end3624"/>
+					hengittää, ei mikään <anchor xml:id="start3625"/>kasvi<anchor xml:id="end3625"/> elää eikä tulikaan palaa. Näin kerran <anchor xml:id="start3626"/>rotan<anchor xml:id="end3626"/>, joka
+					pantiin ilmapumppuun, ilmattomaan paikkaan. Kohta alkoi se hätäillä ja pyrki
+					ulos. Kun ei päässyt, alkoi se aina vaikeammasti ja vaikeammasti hengittää.
+					Viimein hypähti sen koko ruumis, tukehtui ja kuoli. Muuan poika sai kerran
+					lihapalasen kurkkuunsa. Siitä hän kuoli, kun ei voinut enää hengittää ilmaa.
+					Lukukinkereillä näin paljo väkeä matalassa tuvassa. Viimein tuli ilma
+					huoneessa niin lämpimän tukalaksi, että sitä tuskin voi hengittää, ja
+					kynttilät paloivat hyvin tummina pöydällä. Vedä pelti auki, sanoi lukkari,
+					että saadaan parempaa ilman vaihetusta. Ei ole se terveellistä, kun ei saa
+					alinomaa raitista ilmaa huoneesen. Sillä se ilma, jonka hengitämme ulos, on
+					ilmanmoista ainetta, jota nimitetään <hi rend="expanded"><anchor xml:id="start3627"/>hiilihapoksi<anchor xml:id="end3627"/>;</hi>
+					se on vahingollista tulelle ja hengitykselle.</p>
+				<p style="romanType">Kauvan luulin ilman olevan yksinkertaista ainetta; mutta kaupungissa näin
+					apteekarin eroittelevan ilmaa kummallisiin lasiin. Siitä sai hän kaksi
+					toisistaan erilaista yksinkertaista ainetta. Yhtä kutsuttiin <hi rend="expanded"><anchor xml:id="start3628"/>hapoksi<anchor xml:id="end3628"/>,</hi> sillä sitä on <anchor xml:id="start3629"/>happoaineessa<anchor xml:id="end3629"/>, ja se on
+					happo, joka pitää kaikkia elossa ja tekee tulen palavaksi. Mutta jos happo
+					olisi yksinään ilmassa, panisi pieninkin tulen kipinä koko maan palamaan.
+					Siksi sekoitti Jumala ilmaan toistakin ainetta, jonka nimi on <hi rend="expanded"><anchor xml:id="start3630"/>tuko</hi> eli <hi rend="expanded">häky<anchor xml:id="end3630"/>,</hi> sillä se
+					voipi yk<pb type="orig" n="156"/>sinään tukeuttaa tulta ja ihmisiä. Vedessä on happoa ja
+					muuta ilmanlajia, joka veden vuoksi on nimeltä <hi rend="expanded"><anchor xml:id="start3631"/>vety<anchor xml:id="end3631"/>.</hi> Nämä kolme ilman-lajia: happo, vety ja tuko, kuin myös ne
+					kaksi kovaa ainetta <anchor xml:id="start3632"/>kuutilo (kiiseli)<anchor xml:id="end3632"/> ja <anchor xml:id="start3633"/>hiili<anchor xml:id="end3633"/> ovat yleisimmät <anchor xml:id="start3634"/>luonnon
+					kunnissa<anchor xml:id="end3634"/>. <anchor xml:id="start3635"/>Kasvut<anchor xml:id="end3635"/> ovat enimmästi yhdistettyjä hiilestä, haposta ja vedystä.
+					Mutta eläinten ruumiissa on, paitsi näitä, vielä tukoa.</p>
+					<head style="romanType"><hi rend="bold"><hi rend="expanded">Äänestä.</hi></hi></head>
+					<p style="romanType">Eräänä päivänä otti isä pyssynsä ja meni ampumaan <anchor xml:id="start3636"/>pyitä<anchor xml:id="end3636"/> lehdikossa.
+						Antakaapa minulleki pyssy ja <anchor xml:id="start3637"/>ruutia<anchor xml:id="end3637"/>, sanoin minä.</p>
+					<p style="romanType">Ei, sanoi isä; ei vielä, ennenkuin tulet vanhemmaksi. Ruuti ja pyssyt
+						ovat vaarallisia leikkikaluja.</p>
+					<p style="romanType">Miksi niin?</p>
+					<p style="romanType">Siksi että ruutilla on pyssyssä suuri voima. Jos panet sitä irtaalleen
+						tuohon maalle ja sytytät, niin sähähtää se ainoasti ylös. Mutta jos
+						panet sitä ahtaasen pyssyn piippuun ja tukit <anchor xml:id="start3638"/>etulaahingin<anchor xml:id="end3638"/> eli luodin
+						päälle, niin on ruutilla joka kulmalla jotakin edessä. Kun se
+						sytytetään, palaa se silmänräpäyksessä ilmanmoisiksi aineiksi. Sellaiset
+						aineet ovat <hi rend="expanded">hyvin pontevia</hi> ja paisuvat
+						ihmeteltävällä voimalla. Ruutin palaessa pyrkivät kaasut ulos ja
+						pakkauvat kaikella voimalla sille suunnalle, jossa kohtaavat heikointa
+						vastusta. Pah, paukahtaa pyssy, ja etulaahinki eli luoti lentää pois. Ja
+						jos ei ulkouta pois edestä, kun pyssy on ruosteinen ja kehnosti
+						laahattu, niin pyssyn-piippu räjähtää rikki. Vastustaminen ei siinä
+						auta, vaikka olisi vuori edessä. Sillä jos vuoreen hakataan reikä, ja
+						tämä laahataan ruutilla, niin kivi räjähtää kappaleiksi.</p>
+					<p style="romanType">Mutta miksi paukahtaa pyssy?</p>
+					<p style="romanType">Sen vaikuttaa ilma. Kun ruuti pakottaa etulaahingin eli luodin pois,
+						jääpi ilmasta tyhjä sija pyssyn-piippuun. Siihen tyhjään sijaan
+						syöstäypi ilma vauhdissa, josta tulee järinä, ja siitä syntyy paukaus.
+						Kuka uskoisi tuon majesteetillisen ukkoisen jyrinän tulevan ilmasta?
+						Mutta niin on se kumminkin. Missä leimaus kulkee pilvien välissä, ajaa
+						se ilman pois. Kohta syöstäypi uutta ilmaa siihen tyhjään paikkaan, ja
+						niin kuuluu järäys. <pb type="orig" n="157"/>Sitte kaikkuu järäys pilvissä ja
+						maasta, niin että luulee kuulevansa koko rivin järäyksiä.</p>
+					<p style="romanType">Jos huiskin ruoskalla taikka saikaralla ilmassa, kuuluu siitä suhina. Jos
+						soitan kirkon kelloa, niin lyöpi kieli kellon laitaan. Kello alkaa
+						juurikuin täristä, ja tärinä tulee ympärillä olevaan ilmaan. Samalla
+						lailla, kun näpsäyttää viulun kieltä, näkee selvästi, kuinka kieli
+						tärisee jälestäpäin, ja tärinä yhtyy siihen herkkä-liikuntoiseen ilmaan.
+						Siitä voin käsittää kuinka ääni tulee ilman tärinästä. Likimmäinen ilma
+						panee aina eteenpäin etimmäisen ilman tärisemään, ja niin menee ääni
+						ilman läpi, välistä pitemmän, välistä lyhyemmän matkan, aina sen jälkeen
+						kuin tärinä on kovempi eli heikompi. Tyynellä ilmalla kuulen kirkon
+						kelloin äänen hyvänkin peninkulman päähän merelle; mutta tuulella kuuluu
+						se etemmä sille suunnalle, johonpäin tuuli kulkee. <anchor xml:id="start3639"/>Kun vihollisten
+						sotalaivat viimein ampuivat Veaporin linnaa, kuului järinä 30
+						peninkulman päähän, kun korvansa pani maata vasten.<anchor xml:id="end3639"/> Siinä kulki tärinä
+						maan läpitse; muuten ei olisi kuultu tärinää niin kauvas.</p>
+					<p style="romanType">Kun läiskyttää veteen, lyöpi kämmeniään yhteen, polkee jalkaa eli lyöpi
+						rumpua, tulee aina erinäinen ääni ilman tärinästä. Kun puhun, vihellän
+						eli laulan (veisaan), tulee ilma keuhkoistani ja panee ulkopuolella
+						olevan ilman tärisemään. Samalla lailla soitetaan uruilla kirkossa
+						kauniita virsiä. Keuhkoin sijassa on uruissa suuret palkeet, jotka
+						puhaltavat ilmaa piippuihin urkuin-polkijan astuessa polkimille. Sitte
+						tulee siitä ilman tärinä (vipajaminen) urkuin-pilleissä olevissa
+						pienissä reijissä, ja jokainen pilli antaa <hi rend="expanded">äänteen.</hi> Laulu ja kaikkinainen <hi rend="expanded">soitto,</hi> joka hartaasti suloittaa ihmisen mieltä, on jakso
+						äänteitä, joista yhteensä tulee <hi rend="expanded">nuotti.</hi> Ja kun
+						usioita äänteitä sointuu yhdeksi sulo-ääneksi, kutsutaan sitä <hi rend="expanded">akkordiksi</hi> (sointumaksi). Sitä soitetaan
+						monellaisilla puhallus-soittimilla, niinkuin huiluilla, klarineteilla ja
+						vaskitorvilla. Mutta viulu ja kantele ja piano kuin myös monta muuta
+						ovat <hi rend="expanded">jänne-soittimia.</hi> Kerran kiinnitin
+						rautalangan kahden huoneen välille, jota ei ollut pitkältä. Kuulinpa
+						rautalangan tärisevän tuulessa, ja siitä tuli pitkä, kaunis surkea ääni.
+						Jota lyhyempi lanka oli, sitä kimeämpi oli ääni. Siksi saadaan eri ääni
+						samasta viulun kielestäkin, kun sormitetaan eri paikoille kieltä. Ja
+						sisältä on viulu <pb type="orig" n="158"/>tyhjä, ja sillä ovat ohuet seinät, siksi
+						tärisevät seinätkin ja enentävät äännetten voimaa.</p>
+					<p style="romanType">Kerran näin merkillistä, jota en kohta voinut käsittää. Mies hakkasi
+						puita ulahtaalla metsässä. Jokaisella lyönnillä näin kirveen putoavan,
+						mutta vasta vähän ajan perästä kuulin lyönnin. Muistinpa siitä, että
+						olin usein nähnyt savun ampumisesta paljoa ennemmin kuin kuulin
+						paukauksen. Nyt ymmärrän syyn siihen. Valo kulkee sukkelammasti kuin
+						ääni. Siksi näen kirveellä lyönnin ja pyssyn savun, ennenkuin kuulen
+						äänen lyönnistä ja paukauksen ampumisesta. Ääni kulkee 558 kyynärää
+						<anchor xml:id="start3640"/>sekunnissa<anchor xml:id="end3640"/> eli ei täyttä peninkulmaa puolessa <anchor xml:id="start3641"/>minuutissa<anchor xml:id="end3641"/>. Ja jos tahdon
+						kello kädessä laskea ajan pyssyn savun ja paukauksen välillä, niin
+						saatan sanoa justiin: nyt on ampuja niin ja niin kaukana.</p>
+					<p style="romanType">»Metsässä huutava saa vastauksen», sanotaan sananlaskussa. Sen olen usein
+						kuullutkin, varsinkin jos vuoria eli <anchor xml:id="start3642"/>kukkuloita<anchor xml:id="end3642"/> on ollut likellä. Sitä
+						kutsutaan <hi rend="expanded"><anchor xml:id="start3643"/>kaikuksi<anchor xml:id="end3643"/>.</hi> Ensin luulin piilouneen
+						metsään jonkun, joka nyt matki minua. Mutta sitte havaitsin, että se
+						tärisevä ilma ikäänkuin kimpousi takasi puista eli vuorista ja tuli
+						jälleen tyköni, kun huusin. Se kuuluu kyllä naurulliselle ja kummalle.
+						Tuvankin tykönä kuuluu kaiku seinää vasten. Mutta seisoessani 30
+						kyynärää likempänä seinästä en kuule enää kaikua, sillä ääni palaa niin
+						sukkelasti takasi, etten voi eroittaa oman ääneni ja sen kaikumisen
+						väliä.</p>
+					<head style="romanType"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3644"/>Ilman-suunnista<anchor xml:id="end3644"/> ja
+							tuulista.</hi></hi></head>
+					<p style="romanType">Tahdotko tietää ilman-suuntia, niin merkitse se suunta, jolla näet
+						auringon olevan puolenpäivän aikana, justiin kun kello on 12. Käännä
+						sitte selkäsi aurinkoon päin, niin nyt ovat silmäsi <hi rend="expanded"><anchor xml:id="start3645"/>pohjoista<anchor xml:id="end3645"/></hi> ja selkäsi <hi rend="expanded"><anchor xml:id="start3646"/>etelää<anchor xml:id="end3646"/></hi> kohti.
+						Oikialla kädelläsi on <hi rend="expanded">itä,</hi> ja vasemmalla
+						kädelläsi <hi rend="expanded">länsi.</hi> Keskellä pohjoisen ja idän
+						väliä on <hi rend="expanded"><anchor xml:id="start3647"/>itäpohjoinen<anchor xml:id="end3647"/>.</hi> Keskellä idän ja etelän
+						väliä on <hi rend="expanded"><anchor xml:id="start3648"/>itä-etelä<anchor xml:id="end3648"/>.</hi> Etelän ja lännen välin
+						keskellä on <hi rend="expanded"><anchor xml:id="start3649"/>länsi-etelä<anchor xml:id="end3649"/>.</hi> Lännen ja pohjoisen
+						välin keskellä on <hi rend="expanded"><anchor xml:id="start3650"/>länsipohjoinen</hi> eli <hi rend="expanded">luode<anchor xml:id="end3650"/></hi>. Nyt tunnet tavallisimmat ilman-suunnat.
+						Merimies jakaa ne sitte pienempiin piiruihin <anchor xml:id="start3651"/>kompassille<anchor xml:id="end3651"/>.</p>
+					<p style="romanType">Tuulet jaetaan ilman-suuntain mukaan, niin että jokainen tuuli saapi
+						nimen siitä mailman suunnasta, josta<pb type="orig" n="159"/>päin se puhaltaa. Neljä
+						päätuulta ovat: kylmä <hi rend="expanded">pohjoinen,</hi> joka tuopi
+						hallaa; sateinen <hi rend="expanded">itä,</hi> joka antaa vettä ja
+						lunta; lämmin <hi rend="expanded">etelä,</hi> joka tuulee kesällä, ja
+						lauhkea länsi, joka tuopi meille kaunista ilmaa. Pohjoinen on siksi
+						kylmä, että se tuulee sellaisilta tienoilta, joissa ei lumi koskaan
+						sula. Kaukana tuolla etelässä puhaltaa kuumia <anchor xml:id="start3652"/>hieta-aavoja<anchor xml:id="end3652"/> pitkin tuuli,
+						nimeltä <anchor xml:id="start3653"/>Samum<anchor xml:id="end3653"/> ja on niin kuuma, että se tappaa ihmisiä. Kun sellainen
+						tuuli kulkee meren ylitse, jäähtyy se; mutta jos meri ei ole laaja,
+						saattaa se kuitenkin olla hirveän kuuma. Muutamilla tienoilla maata
+						tuulee koko puolen vuotta sama tuuli, ja <anchor xml:id="start3654"/>maa-pallon<anchor xml:id="end3654"/> keskustalla tuulee
+						alinomaa itä. Sellaisia tuulia kutsutaan <hi rend="expanded"><anchor xml:id="start3655"/>vuotuisiksi
+							tuuliksi<anchor xml:id="end3655"/>,</hi> ja ne pitää kaikkein merimiesten tarkasti tuntea.
+						<anchor xml:id="start3656"/>Hirmumyrskyjä<anchor xml:id="end3656"/> pauhaa usein lämpimimmissä maissa ja ilmauvat siellä
+						yhtäkkiä. Juuri kun ilma on kaunis ja tyyni, nousee aivan pieni pilvi
+						selvälle taivaalle. Joka silloin makaa, hänen täytyy nousta aivan
+						sukkelasti ylös sängystään, ja joka istuu pöydässä, ei hän ennätä
+						päättää atriaansa. Kaikkein täytyy rientää ulos ja nakkauta maahan,
+						sillä vähäisessä ajassa on kukatiesi koko huone mennyt tuuleen.</p>
+					<head style="romanType"><hi rend="bold"><hi rend="expanded">Höyrykoneista ja
+							rautateistä.</hi></hi></head>
+					<p style="romanType">Jos annan olu-putellin seisoa uunilla lämpimässä, paukauttaa oluessa
+						oleva hiilihappo korkin pois sen suusta. Jos katan kiehuvan padan, niin
+						ettei höyry pääse siitä ulos, <anchor xml:id="start3657"/>lähättää<anchor xml:id="end3657"/> höyryn voima kannen pois. Kaikki
+						tämä tulee ilmalajien ja höyryin suunnattomasta paisuntovoimasta. Mies,
+						nimeltä <anchor xml:id="start3658"/>Watt<anchor xml:id="end3658"/>, keksi höyryn voiman kokoomisen. Sitte oli Amerikassa mies
+						nimeltä <hi rend="expanded"><anchor xml:id="start3659"/>Fulton<anchor xml:id="end3659"/>.</hi> Vähitellen johtui hänelle
+						mieleen tehdä raudasta kone, jonka suuressa kattilassa kiehuvan veden
+							<hi rend="expanded">höyry-</hi>voima saattaisi panna liikkeelle. Hän
+						alkoi rakentaa pientä laivaa, johon valmisti sellaista konetta. Kaikki,
+						jotka tätä katselivat, nauroivat ja sanoivat: Fulton on hulluna! Mutta
+						Fulton ei ollutkaan hulluna, hän oli vaan köyhä. Kukaan ei tahtonut
+						lainata hänelle rahaa sellaiseen kokeesen, jota kutsuivat hulluksi
+						yritykseksi. Mutta Fulton ei luopunut yrityksestään, ja monia huolia ja
+						vaivoja kärsittyään sai hän laivansa valmiiksi. Nyt saivat kaikki nähdä
+						laivan lähtevän liikkeelle kulkemaan eteenpäin il<pb type="orig" n="160"/>man
+						purjeitta ja airoitta, ainoasti höyry-voimalla. Ne, jotka enimmän
+						nauroivat, kummastuivat nyt enimmän. Fulton’in nimi tuli kuuluisaksi, ja
+						hänen keksimisensä tuli <anchor xml:id="start3660"/>merkillisimmäksi<anchor xml:id="end3660"/> ja hyödyllisimmäksi, kuin
+						koskaan muut tehdyt kokeet. Sillä nyt, jo viidenkymmenen vuoden
+						kuluttua, kulkee tuhansittain <hi rend="expanded">höyrylaivoja,</hi>
+						jotka eivät tarvitse kuluttaa kallista aikaa tyynellä ja vastaisella.
+						Laiva, jonka tässä näet, on höyrylaiva. Laivan sisässä on uuni, jossa
+						kiehuu suuressa höyry-kattilassa vesi, ja savu nousee ylös korsteenista.
+						Vesihöyryt pyörittävät konetta, ja kone vetää laivan sivuilla olevat
+						rattaat pyörimään. Ratasten pyöriessä lykkelevät ratasten siivet vettä
+						pois edestään, niinkuin airotkin tekevät soudettaessa. Ja kun kone vetää
+						niin paljo, kuin esimerkiksi viisikymmentä <anchor xml:id="start3661"/>hevoista<anchor xml:id="end3661"/> vetää, sanotaan:
+						koneella on 50:nen hevoisen voima. Paitsi tätä tekee höyry työtä
+						työ-tehtaissa ja vapriikeissa, niin etteivät monen tuhannen ihmisen
+						voimat voisi sitä toimittaa. Ja joka päivä aletaan höyryä käyttää
+						uusihin toimihin, niin että ihmisen valta luonnon ylitse tässä ilmestyy
+						selvemmästi kuin missään muussa kohdassa.</p>
+					<figure type="illustration"><graphic url="10_1_045.jpg"/></figure>
+					<figure type="illustration"><graphic url="10_1_046.jpg"/></figure>
+					<p style="romanType">Sellaisia kuormia, joita ennen monta sataa hevoista vaivoin veti pitkin
+						tavallisia maanteitä, vetää nyt yksi ainoa höyrykone paljoa helpommasti
+						ja sukkelammasti <pb type="orig" n="161"/><hi rend="expanded">rautateillä.</hi>
+						Tässä näet rautatien kuvan; niin sitä kutsutaan, kun siinä ovat raudasta
+						ratasten jälet, joita myöten rattaat aivan keveästi pyörivät eteenpäin.
+						Etu-nenässä kulkee höyrykone ja vetää perässään koko rivin vaunuja,
+						joita saattaa olla paljoa enemmän kuin tässä näkyykään. Muutamissa
+						vaunuissa on kaluja, ja toisissa istuu ihmisiä. Rautatien ei saa olla
+						mäkisen eikä kovin mutkaisen. Saatavaksi tätä suoraksi ja tasaiseksi, on
+						monissa maanpaikoissa säretty kallioiden läpitse <choice><orig>kulkujouva</orig><reg>kulkujuova</reg></choice> ja siltoja
+						rakennettu <anchor xml:id="start3662"/>järvien<anchor xml:id="end3662"/> ylitse. Monissa suurissa kaupungeissa kulkee rautatie
+						huoneiden kattoin päällitse. Ja nykyjään on rakennettu riippuva silta
+						rautatien kanssa sen hirmuisen suuren Niagaran vesiputouksen ylitse.</p>
+					<head style="romanType"><hi rend="bold">Myrsky.</hi></head>
+					<lg>
+						<l style="romanType">Pianpa ilman piiriä</l>
+						<l style="romanType">Mä kotkan lailla lennän,</l>
+						<l style="romanType">Ei siinny mulla siipiä,</l>
+						<l style="romanType">Mut pauhuten mä riennän.</l>
+						<l style="romanType">Nyt purjehtija maailman,</l>
+						<l style="romanType">Varo, jo vien sun hautahan!</l>
+					</lg>
+					<lg>
+						<l style="romanType">Panen merenkin hyökymään</l>
+						<l style="romanType">Kovin rajuna rantaan,</l>
+						<l style="romanType">Pakotan pilvet lentämään</l>
+						<l style="romanType">Pois kauko-maita vastaan;</l>
+						<l style="romanType">Kumouvat metsät eessäni,</l>
+						<l style="romanType">Ja kaupungit kukistuvi.</l>
+					</lg>
+					<lg>
+						<l style="romanType">Kun oon rajuna raivonnut,</l>
+						<l style="romanType">On Herra tyynen tuopa,</l>
+						<l style="romanType">Kun vauhtini on vaikennut,</l>
+						<l style="romanType">On Herra rauhan suopa:</l>
+						<l style="romanType">Nukun sotani pauhusta</l>
+						<l style="romanType">Levolle illan tullessa.</l>
+					</lg>
+					<pb type="orig" n="162"/>
+					<lg>
+						<l style="romanType">On kyllä Herra myrskylle</l>
+						<l style="romanType">Niin suuren voiman suonut;</l>
+						<l style="romanType"><anchor xml:id="start3663"/>Hän ilmestyi <anchor xml:id="start3664"/>Elialle<anchor xml:id="end3664"/>,</l>
+						<l style="romanType">Mut myrskyss’ ei hän tullut,</l>
+						<l style="romanType">Ei leimauksen liekissä,</l>
+						<l style="romanType">Vaan hienon tuulen hengessä.<anchor xml:id="end3663"/></l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

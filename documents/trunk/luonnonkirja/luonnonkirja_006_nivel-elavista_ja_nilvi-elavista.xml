@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Kuudes Luku. Nivel-elävistä ja nilvi-elävistä</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head type="section" style="blackletter"><hi rend="bold">Kuudes Luku.</hi></head>
+				<head type="section" style="blackletter"><hi rend="bold expanded"><anchor xml:id="start2879"/>Nivel-elävistä<anchor xml:id="end2879"/> ja <anchor xml:id="start2880"/>nilvi-elävistä<anchor xml:id="end2880"/>.</hi></head>
+				<p style="blackletter">Antti ja Liisa näkivät metsän läpi mennessään <anchor xml:id="start2881"/>sääskien<anchor xml:id="end2881"/> lentää kihisevän
+					auringon paisteessa. Kah, sanoi Liisa, vielä ei ole kukaan sanonut meille
+					mitään sääskistä. Antti sanoi: sanon sinulle niistä mitä luulen. Olemme nyt
+					tulleet tuntemaan ne neljä ensimäistä luokkaa siinä suuressa
+					eläin-valtakunnassa.</p>
+				<p style="blackletter">Olen kuullut näitä luokkia kutsuttavan <hi rend="expanded">ylevämmiksi,</hi>
+					kun niillä ovat tarkemmat aistimet ja <pb type="orig" n="72"/>täydellisemmäksi
+					muodostunut ruumis. Mutta viides ja kuudes luokka kutsutaan <hi rend="expanded">alhaisemmaksi,</hi> kun niillä on vaillinaisempi ruumiin
+					<anchor xml:id="start2882"/>rakennus<anchor xml:id="end2882"/>. Sen tiennevät kyllä muut paremmin kuin me. Minä vaan uskon kaikki,
+					mitä Jumala on luonut, olevan tarkoitukseensa aivan täydellistä. Ja tarkasti
+					katsoessani muurahaisten pesää eli <anchor xml:id="start2883"/>hämähäkin<anchor xml:id="end2883"/> verkkoa eli <anchor xml:id="start2884"/>perhon<anchor xml:id="end2884"/> <anchor xml:id="start2885"/>koteroa<anchor xml:id="end2885"/>, en
+					tiedä mitä olisi paremmasti tehtyä ja täydellisempätä nähtävää koko
+					<anchor xml:id="start2886"/>eläinvaltakunnassa<anchor xml:id="end2886"/>. Viidennen ja kuudennen luokan kutsunemme paremmin
+					luonnon pieniksi lapsiksi. Sillä pian kaikki siihen kuuluvat ovat aivan
+					pieniä, ja usein niin pikkusia, ettei niitä voi paljain silmin nähdä.</p>
+				<p style="blackletter">Liisa sanoi: otetaanpa sääski kiini. Sen pitää kertoa meille jotakin
+					sukulaisistaan.</p>
+				<p style="blackletter">Sääski sanoi: me kuulumme <anchor xml:id="start2887"/>eläinten<anchor xml:id="end2887"/> viidenteen luokkaan ja meitä kutsutaan <hi rend="expanded">nivel-eläviksi.</hi> Ruumiissamme on useita niveleitä,
+					ja on juurikuin uurros rinnan ja vatsan välissä. Päistämme lähtevät pitkät
+					tuntosarvet, joilla tunnemme eteemme. Muutamilla meistä on pieni imetin,
+					jolla imemme ruokamme. Toisilla taas ovat leuvat ja hampaat. Silmämme ovat
+					yhdistetyt aivan pienistä silmistä toinen toisensa viereen. Siksi voimme
+					katsoa usealle suunnalle samalla kertaa, vaikka emme voi liikuttaa
+					silmiämme. Ei yhdelläkään meistä ole vähempää kuin kuusi jalkaa; mutta
+					useilla on monta jalkaa. Onpa muutamilla 60 (kuusikymmentä) paria ja 100
+					(sata) paria jalkoja. Kesällä teemme munia, joista mataa ulos pieniä matoja,
+					joita kutsutaan <hi rend="expanded">toukiksi.</hi> Toukat syövät ahneesti ja
+					kasvavat pian. Sitte kutovat ne itsensä tuppeen, jota kutsutaan <hi rend="expanded">koteroksi,</hi> ja näyttävät kuolleilta.</p>
+				<p style="blackletter">Elä vielä, sanoi Liisa: kyllä ymmärrän tarkoituksesi. Kerran otin kaalimaasta
+					sellaisen toukan, <pb type="orig" n="73"/>joka söi isoja reikiä kaalin lehtiin. Panin
+					sen lasipurkkiin ja annoin sille joka aamu tuoreita lehtiä syödä. Muutamana
+					aamuna oli toukka kadonnut, ja sen sijaan riippui kulta-mato lehdessä. Kah,
+					sanoin, mato on kuollut ja sillä on kultanen ruumisarkku. Kahden viikon
+					kuluttua katsoin toukan hautaa. Riippuipa kuivaneessa lehdessä vaan tyhjä
+					kuori, ja lehden vieressä istui kaunis perho, joka oli tullut ulos
+					kulta-arkusta. Ja akkunan avattua lenti se iloisena isoilla siivillä
+					auringon paisteessa ja imi hunajaa kukista.</p>
+				<figure type="illustration"><graphic url="10_1_033.jpg"/></figure>
+				<p style="blackletter">Niin, sanoi Antti. Minä olen lukenut tästä. Minulla on kirja, jossa kaikki
+					tämä on kuvattuna. Ylinnä vasemmalla puolella näkyy pieniä munia, joita
+					perho on tehnyt lehteen. Niiden alla on toukka, joka on tullut munasta ja
+					sitte kasvanut isommaksi. Sen alla on kotero, johonka se on kutonut itsensä
+					ja näyttää kuolleelta. Mutta oikealla puolella näkyy se iso <anchor xml:id="start2888"/>kaaliperho<anchor xml:id="end2888"/>, joka
+					on tullut ulos koterosta. Jumala tahtoo tekoinsa tulemaan alinomaa
+					täydellisemmiksi. Ihminen on täällä maan päällä toukan lainen, joka syöpi
+					maan tomua. Kun hänen ruumiinsa kuoltua haudataan, ajattelevat
+					ymmärtämättömät kaikki olevan lopussa. Mutta hauta on se kotero, josta
+					ihmisen sielu, täydellisempänä ja vapaampana, nousee Jumalan tykö, niinkuin
+					perho auringon valossa. Ja niin on ainoasti se ensimäinen <pb type="orig" n="74"/>kadonnut; ja niin alkaa ihmiselle uusi ja parempi elämä.</p>
+				<p style="blackletter">Liisa sanoi: eivätkö kaikki nivel-elävät kuole talvella? Eivät, sanoi sääski.
+					Muutamat paleltuvat kuolioiksi, ja silloin tulee munista uusia keväimen
+					tultua. Mutta muutamat makaavat tainnoksissa ja virkistyvät jälleen lämpimän
+					tultua. Ja muutamat meistä ovat myrkyllisiä. Toiset tekevät suurta vahinkoa
+					syöden hyödyllisiä <anchor xml:id="start2889"/>kasveja<anchor xml:id="end2889"/>. Toiset taas imevät ihmisten ja eläinten vertä.
+					Mutta muutamista on ihmisillä sekä hyötyä että hupaa.</p>
+				<p style="blackletter">Nyt tuli suhina ilmaan ja mataminen ympäriinsä maalle. Siinä tulivat <hi rend="expanded"><anchor xml:id="start2890"/>koppa-madot<anchor xml:id="end2890"/>,</hi> joilla ovat ohuet siivet kovain
+					kuorten alla. Lentäessään täytyi heidän ensin nostaa kuoret ylös. Siinä
+					surisi <hi rend="expanded"><anchor xml:id="start2891"/>sittisontiainen<anchor xml:id="end2891"/>,</hi> joka asuu sontatunkioissa
+					ja kämpii tiellä auringon paisteessa. Siinä mateli <hi rend="expanded"><anchor xml:id="start2892"/>kiiltomato<anchor xml:id="end2892"/>,</hi> joka öillä kiiltelee kasteisessa ruohossa. Siinä oli
+						<hi rend="expanded"><anchor xml:id="start2893"/>leppäkerttu<anchor xml:id="end2893"/>.</hi> Siinä oli <hi rend="expanded"><anchor xml:id="start2894"/>napsuttaja<anchor xml:id="end2894"/>,</hi> joka selälleen käännettynä hypätä napsauttaa ylös.
+					Tuolla lentivät <hi rend="expanded"><anchor xml:id="start2895"/>kulta-koppamato<anchor xml:id="end2895"/></hi> ja viheriäinen <hi rend="expanded"><anchor xml:id="start2896"/>Spanian kärpänen<anchor xml:id="end2896"/>,</hi> joka hienonnetaan ja pannaan
+					laastarin päälle. Muuanta rumaa koppamatoa sanottiin <hi rend="expanded"><anchor xml:id="start2897"/>ruumismadoksi<anchor xml:id="end2897"/>.</hi> Paljoa viattomampi oli se pieni <hi rend="expanded"><anchor xml:id="start2898"/>seinä-rautio<anchor xml:id="end2898"/>.</hi> Se takoi seinässä aivan kuin kello napsuttaa.
+					Yksinkertaiset ihmiset sanovat sen merkitsevän pahaa. Mutta se merkitsee
+					vaan, että seinä-rautio syöpi reikää puuhun.</p>
+				<p style="blackletter">Siinä hyppelivät <hi rend="expanded"><anchor xml:id="start2899"/>suora-siipiset<anchor xml:id="end2899"/>,</hi> jotka ottavat
+					pitkiä hyppyjä takajaloillaan. Ruohossa tirskui se lystillinen <hi rend="expanded">heinä-sirkka,</hi> joka suurissa parvissa syöpi maan
+					kasvia kuumissa maissa. Siinä kuului sirkka, joka tirskuttaa talon tuvassa.
+					Siinä matoivat <hi rend="expanded"><anchor xml:id="start2900"/>nahka-kuoriaiset<anchor xml:id="end2900"/></hi> kasveissa ja
+					eläimissä. Yhdellä näiden toukista oli valkeata vahtua ympärillä kor<pb type="orig" n="75"/>ressa, ja lapset luulivat vahtua <anchor xml:id="start2901"/>käärmeen<anchor xml:id="end2901"/> syl’yksi. Viheriäinen
+						<hi rend="expanded"><anchor xml:id="start2902"/>lehtimato<anchor xml:id="end2902"/></hi> oli kasvuilla isona vastuksena,
+					juurikuin se punanen <hi rend="expanded"><anchor xml:id="start2903"/>lude<anchor xml:id="end2903"/></hi> on ihmisillä. Ei ole <hi rend="expanded"><anchor xml:id="start2904"/>torakasta<anchor xml:id="end2904"/></hi> köökkiin. Parempi on se pieni <hi rend="expanded"><anchor xml:id="start2905"/>konsionelli<anchor xml:id="end2905"/>,</hi> josta saadaan Amerikassa niin kaunista
+					punaväriä.</p>
+				<p style="blackletter">Sitte liehuivat siinä ne kauniit <hi rend="expanded">perhot,</hi> jotka
+					elävät lyhyttä ja iloista elämäänsä kesän lämpymässä. Niiden siivet hohtivat
+					kauniimman näköisinä: Muutamat lentelevät päivällä, niinkuin <hi rend="expanded">kaaliperho</hi> ja <hi rend="expanded"><anchor xml:id="start2906"/>viholaisperho<anchor xml:id="end2906"/>;</hi> mutta se pieni valkea <hi rend="expanded"><anchor xml:id="start2907"/>koiperho<anchor xml:id="end2907"/>,</hi> jonka toukka syöpi reikiä vaatteisiin ja vaatteella
+					päällystettyihin huonekaluihin, lentelee yöllä. Muuanta yöperhoista sukua
+					kutsutaan <anchor xml:id="start2908"/>kutojiksi<anchor xml:id="end2908"/>, sillä niiden toukat kutovat ympärillensä koteroita
+					hyvin hienoista langoista. Sellainen kutoja on <hi rend="expanded"><anchor xml:id="start2909"/>silkkimato<anchor xml:id="end2909"/>,</hi> eräs toukka, joka elää <anchor xml:id="start2910"/>silkkiäispuun<anchor xml:id="end2910"/> lehdistä.</p>
+				<p style="blackletter">Niin, sanoi Liisa, siitä on äitimme kertonut. Äitin paras huivi on silkistä,
+					ja se on kudottu silkkilangoista. Eteläisissä maissa elätetään monta
+					miljonaa silkkimatoja. Niiden kutouttua koteroihin kehitetään koteroista
+					vyyhdelle se hieno ja luja silkkilanka.</p>
+				<p style="blackletter"><hi rend="expanded"><anchor xml:id="start2911"/>Korentolaiset<anchor xml:id="end2911"/></hi> lentivät veden yli neljällä pitkällä
+					ja läpikuultavalla siivellä. Niiden seassa näkyi <hi rend="expanded"><anchor xml:id="start2912"/>päiväkorento<anchor xml:id="end2912"/>,</hi> joka elää ainoasti yhden päivän, <hi rend="expanded"><anchor xml:id="start2913"/>sudenkorento<anchor xml:id="end2913"/>,</hi> joka on niin hohtavan näköinen. Siinä lenti <hi rend="expanded"><anchor xml:id="start2914"/>muurahaiskorento<anchor xml:id="end2914"/>,</hi> jonka viekas toukka kaivaa
+					<anchor xml:id="start2915"/>hietaan<anchor xml:id="end2915"/> kolon ja ottaa kiini ne muurahaiset, jotka siihen putoavat. Siinä
+					lentivät <hi rend="expanded"><anchor xml:id="start2916"/>piikkiäiset<anchor xml:id="end2916"/>,</hi> <anchor xml:id="start2917"/>jonka pesä on hännässä
+					piikki, jolla pistävät<anchor xml:id="end2917"/>. Siinä surisi <hi rend="expanded"><anchor xml:id="start2918"/>ampiainen<anchor xml:id="end2918"/>,</hi>
+					joka on nivusista niin hoikka ja jonka pesä on kuin harmaasta paperista
+					tehty palli. Se ahkera <hi rend="expanded">mehiläinen</hi> ko<pb type="orig" n="76"/>kosi hunajata ja <anchor xml:id="start2919"/>vaksia<anchor xml:id="end2919"/> pesänsä kummallisiin kammioihin. <hi rend="expanded"><anchor xml:id="start2920"/>Mettiäinen<anchor xml:id="end2920"/></hi> surisi kukkain seassa, ja maalla veteli
+					se ahkera <hi rend="expanded">muurahainen</hi> korsia pesäänsä, jossa hän
+					asuu talvenkin ajan. Piikkiäisten perästä tulivat <hi rend="expanded"><anchor xml:id="start2921"/>kaksisiipiset<anchor xml:id="end2921"/>.</hi> Näiden seassa näkivät Antti ja Liisa hyvän
+					tuttunsa, tuon kärkkyvän harmaan <hi rend="expanded"><anchor xml:id="start2922"/>kotikärpäsen<anchor xml:id="end2922"/></hi> ja
+					sen surisevan <hi rend="expanded"><anchor xml:id="start2923"/>paarman<anchor xml:id="end2923"/>.</hi> Liisa ajoi kädellään pois
+					sen vertä himoavan <hi rend="expanded">sääsken,</hi> joka niin
+					tuskauttavasti laulaa pingittää, kun mielellään nukkuisi kesä-illalla. Mutta
+					vieläkin muita tuskauttavia otuksia oli täällä metsässä. Lapset voivat töin
+					tuskin varoa itseänsä noilta siivittömiltä <hi rend="expanded"><anchor xml:id="start2924"/>matelijoilta<anchor xml:id="end2924"/>.
+						<anchor xml:id="start2925"/>Täi<anchor xml:id="end2925"/></hi> mateli päästäkseen asumaan siivottoman ihmisen tukassa. <hi rend="expanded"><anchor xml:id="start2926"/>Kirppu<anchor xml:id="end2926"/>,</hi> joka ottaa niin pitkiä hyppyjä, oli samassa
+					aikeessa. Puiden oksain välissä kutoi <hi rend="expanded">hämähäkki</hi>
+					verkkoaan ja istui sen keskelle <choice><orig>väyymään</orig><reg>väjymään</reg></choice> kärpäsiä. Ei täällä ollut sitä
+					myrkyllistä <hi rend="expanded"><anchor xml:id="start2927"/>skorppionia<anchor xml:id="end2927"/>,</hi> joka eteläisissä maissa
+					asuu huoneiden alla ja pistää ihmisiä hännässään olevalla piikillä. Se
+					tummanruskea <hi rend="expanded"><anchor xml:id="start2928"/>krapu<anchor xml:id="end2928"/></hi> kulki takaperin joessa ja tuli
+					keitettyä punaiseksi. <hi rend="expanded"><anchor xml:id="start2929"/>Siira<anchor xml:id="end2929"/></hi> ja <hi rend="expanded"><anchor xml:id="start2930"/>satajalkanen<anchor xml:id="end2930"/>,</hi> ilkeät nähdä, piilousivat kivien alle maalla.</p>
+				<figure type="illustration"><graphic url="10_1_034.jpg"/></figure>
+				<p style="blackletter">Metsässä ollessaan haki Antti <hi rend="expanded"><anchor xml:id="start2931"/>matoja<anchor xml:id="end2931"/></hi> syötiksi, sillä
+					illalla aikoi hän soutaa onkimaan. Kerro minulle jotakin tutuistasi, sanoi
+					hän sille punaselle <anchor xml:id="start2932"/>lieralle<anchor xml:id="end2932"/>, joka mateli turpeesen.</p>
+				<p style="blackletter">Mato sanoi: minä olen nilvi-eläviä. Meillä on jäsenitön ja jaloiton, pehmeä
+					ja <anchor xml:id="start2933"/>kinainen<anchor xml:id="end2933"/> ruumis. Kuitenkin saatamme kulkea, niinkuin käärme, kooten ja
+					ojentaen ruumistamme. Keskenämme olemme hyvin erilaisia. Muutamilla on
+					pehmeä ja alastoin ruumis. Muutamat ovat karvasia, ja muutamat asuvat
+					kovassa kuoressa, johonka ovat kasvaneet kiini. Muutamilla ovat silmät,
+					mutta toisilla ei ole <pb type="orig" n="77"/>silmiä. Ei yhdelläkään meistä ole siipiä
+					lentää. Me asumme enimmite vedessä eli maassa. Muutamilla meistä on asunto
+					ihmisten ja eläinten suolissa. Sellaiset saattavat matkaan tauteja ja
+					vahinkoa; onpa niitä myrkyllisiäkin matoja. Useammat eivät ole
+					vahingollisia, vaan käyvät muille ruuaksi, ja muutamista on ihmiselle hyötyä
+					ruuaksi ja koristukseksi.</p>
+				<p style="blackletter">Antti käski Liisan tulla katsomaan nilvi-eläviä. Tässä on jouhi-mato, joka on
+					mustan jouhen näköinen. Tässä olivat <hi rend="expanded"><anchor xml:id="start2934"/>suoliais-mato<anchor xml:id="end2934"/></hi>
+					ja <hi rend="expanded"><anchor xml:id="start2935"/>heisimato<anchor xml:id="end2935"/>,</hi> jotka syntyvät ja elävät ihmisten
+					suolissa. Näistä on monella iso vaiva. Pienen <hi rend="expanded">lieran</hi> vieressä näkyi se <hi rend="expanded">iso <anchor xml:id="start2936"/>onkimato<anchor xml:id="end2936"/>,</hi>
+					joka oli vasta sateen jälkeen matanut ylös maasta. Tässä oli se musta <hi rend="expanded"><anchor xml:id="start2937"/>iilimato<anchor xml:id="end2937"/>,</hi> joka pannaan vertä imemään, kun joku on
+					kipeänä. Tässä mateli kivellä se pieni pehmeä <hi rend="expanded"><anchor xml:id="start2938"/>etana<anchor xml:id="end2938"/>.</hi> Hiljaa vetäysivät <hi rend="expanded"><anchor xml:id="start2939"/>näkin-kenkäläiset<anchor xml:id="end2939"/></hi> ulos kieroista kuoristaan. <hi rend="expanded"><anchor xml:id="start2940"/>Simpukat<anchor xml:id="end2940"/></hi> taas asuivat juurikuin kupera-kantisissa tousissa. Tässä
+					olivat <hi rend="expanded"><anchor xml:id="start2941"/>helmisimpukka<anchor xml:id="end2941"/>,</hi> jonka kuoresta löydetään
+					oikeita simpukan helmiä, ja <hi rend="expanded"><anchor xml:id="start2942"/>kiiltokuorinen
+						simpukka<anchor xml:id="end2942"/>,</hi> jonka kuoresta tehdään nappeja ja muita koreita kaluja.
+					Ulkona <anchor xml:id="start2943"/>meressä<anchor xml:id="end2943"/> riippui <anchor xml:id="start2944"/>syötävä simpukka<anchor xml:id="end2944"/> kalliossa kiini ja saatiin siitä
+					ihmisille herkku-ruuaksi. Kerran ha’in minä, sanoi Antti, näkinkenkiä
+					painolastista, joka oli heitetty ulos laivasta. Siinä oli monta eri lajia;
+					siinä oli suuria kokoja pian aivan hienonnettuja näkinkenkiä.</p>
+				<p style="blackletter">Mutta jos saattaisin kulkea meren pohjaa, kuinka lukemattomia näkinkenkiä ja
+					simpukoita enkö voisi sieltä poimia! Siellä löytäisin sen suuren <hi rend="expanded"><anchor xml:id="start2945"/>jättiläis-simpukan<anchor xml:id="end2945"/>,</hi> joka voipi kuortensa välissä
+					purra pienellaisen ankkuri-touvin poikki. Siinä näkisin ne kummalliset
+					<anchor xml:id="start2946"/>haara-elävät<anchor xml:id="end2946"/>, joilla on vatsa ympäriinsä haaroja, mutta ei päätä. Muutamat
+					niistä ovat <pb type="orig" n="78"/>aivan kuin kina-läjä, joka liikkuu vedessä. Toisia
+					kutsutaan <hi rend="expanded"><anchor xml:id="start2947"/>vesi-tähdiksi<anchor xml:id="end2947"/>,</hi> ja niillä on kuori
+					ympärillä. Toisia istuu lukematoin määrä kiini kasvaneina juurikuin oksat
+					puissa, jotka tekevät itsensä. Niin rakentavat <hi rend="expanded"><anchor xml:id="start2948"/>koralli-elävät<anchor xml:id="end2948"/></hi> korkeita punasia metsiä kivestä meren pohjaan. Ja
+					koralleista tehdään hyviä kaulahelmiä.</p>
+				<p style="blackletter">Mutta nämä eivät ole <anchor xml:id="start2949"/>eläviä<anchor xml:id="end2949"/>, sanoi Liisa kummastellen. Niin, sanoi Antti,
+					muutamat ovat pitäneet niitä kasveina, ja toiset ovat luulleet niitä
+					kiviksi. Kuitenkin ovat ne eläviä, jotka syövät ja liikkuvat; mutta ne
+					kasvavat kuoristaan kiini toisiinsa. Ja monta miljonaa sellaisia pieniä
+					eläviä kasvettua yhteen, tulee siitä kivi-metsä eli kallio, jossa laivat
+					saattavat meressä tulla haaksi-rikkoon. Kun nämä elävät ovat kasvein laisia,
+					kutsutaan niitä <hi rend="expanded"><anchor xml:id="start2950"/>elävän-kasveiksi<anchor xml:id="end2950"/>.</hi> Paitsi näitä on
+					vielä muitakin aivan pieniä, joita kutsutaan <hi rend="expanded"><anchor xml:id="start2951"/>liko-eläviksi</hi> (infusioni-eläviksi)<anchor xml:id="end2951"/>. Niitä on yleensä lukematoin
+					määrä vedessä ja luultavasti ilmassakin. Useampia niistä ei voi paljailla
+					silmillä nähdä. Mutta välistä katsoessa vesihernettä suurennus-lasilla,
+					nähdään lukemattomia sellaisia eläviä elävän ja tappelevan yhdessä
+					vesiherneessä.</p>
+				<p style="blackletter">En koskaan enää uskalla juoda vettä, sanoi Liisa. Anttia nauratti. Miksi et
+					uskalla? Joka päivä syömme ja juomme monia tuhansia näitä pieniä eläviä
+					aivan siitä tietämättä, ja ne eivät tee meille mitään vahinkoa. Mutta nyt
+					olemme nähneet viimeiset ja alhaisimmat <anchor xml:id="start2952"/>eläinkunnan<anchor xml:id="end2952"/> asukkaat. Ylevinnä
+					kaikista näistä <choice><orig>eläivistä</orig><reg>elävistä</reg></choice> on luonnon herra ja kuningas, ihminen. Sitä
+					likinnä ovat <anchor xml:id="start2953"/>imettävät eläimet<anchor xml:id="end2953"/>, jotka likinnä ihmistä ovat <anchor xml:id="start2954"/>rikkainlahjaiset<anchor xml:id="end2954"/>.
+					Niitä likinnä ovat linnut; sitte ovat <anchor xml:id="start2955"/>matelevat elävät<anchor xml:id="end2955"/>; sitte kalat; sitte
+					nivel-elävät. Ja jokaisesta <pb type="orig" n="79"/>luokasta alaspäin näemme muutamia
+					eläinten parhaimpia ruumiin-osia ikäänkuin jäävän pois eli muuttuvan.
+					Viimein näemme alhaisimmissa elävissä sellaisia olentoja, jotka ovat
+					<anchor xml:id="start2956"/>kasvikunnan<anchor xml:id="end2956"/> rajalla ja juurikuin sitovat nämä molemmat elävän mailman suuret
+					valtakunnat yhteen. Sillä Jumala kaikkivallassaan on tahtonut sitoa koko
+					luodun mailmansa olennot yhteen, toisen toiseensa, niin ettei missään
+					paikassa ole tyhjää lomaa, joka eroittaisi hänen luotuja tekojaan
+					toisistaan. Enkelit, ihmiset, eläimet, kasvit, kivet, kaikki ovat
+					vieretysten, yksi täydellisempi toistaan. Niin nähdään aina niiden, jotka
+					ovat toisiaan likinnä, luonteineen koskevan toisiinsa. Tämä on luonnon suuri
+					jakso, jonka alku ja loppu ovat Jumalassa, joka kaikki kaikissa
+					vaikuttaa.</p>
+					<head style="blackletter"><hi rend="bold">Heinäsirkat.</hi></head>
+					<p style="blackletter">Kesällä niityllä kävellessä kuulee heinäsirkkain laulavan ruohossa. Tätä
+						eivät ne tee suullaan, vaan taka-jalkojaan kihnuttamalla siipiinsä. Tämä
+						on niistä lystiä. Eivät heinäsirkat ole ollenkaan vahingollisia tässä
+						maassa, vaan lämpimämmissä maissa voivat ne tehdä hirmuista häviötä.
+						<anchor xml:id="start2957"/>Raamatussa puhutaan niistä suurista rasituksista, joita Jumala antoi
+						tulla Egyptin maalle.<anchor xml:id="end2957"/> Niissä puhutaan heinäsirkkainkin hävityksistä.
+						Sitä antaa Jumala tapahtua luonnollisista syistä. Niin tapahtuu
+						nimittäin muutamina vuosina, että heinäsirkkoja sikiää suunnattomasti
+						niiden kotimaissa tuolla kaukana Aasiassa. Kun siellä ei ole niillä enää
+						mitään syömistä, muuttavat ne lukemattomat parvet pois toisiin maihin.
+						Siellä laskeuvat ne juurikuin synkkä pilvi pelloille, niityille ja
+						metsiin ja syövät muuta<pb type="orig" n="80"/>massa hetkessä kaiken kasvun. Silloin
+						käsketään kaikki tienoilla oleva väki hävittämään tätä <choice><orig>makunnan</orig><reg>maakunnan</reg></choice>
+						rasitusta. Peto-lintuja keräypi paljolta syömään heinäsirkkoja. Usein
+						sattuu, että tuuli ajaa miljonittain näitä pieniä eläviä merelle, johon
+						ne putoavat ja hukkuvat. Näin hävenevät ne tavallisesti vähässä ajassa.
+						Monessa paikassa eteläisissä maissa syöpi kansa heinäsirkkoja, joita
+						suolataan, savustetaan eli kuivataan auringossa.</p>
+					<head style="blackletter"><hi rend="bold"><anchor xml:id="start2958"/>Mehiläisten<anchor xml:id="end2958"/> talous.</hi></head>
+					<p style="blackletter">Kalat, jotka usein kulkevat isoissa parveissa, eivät tiedä ystävyydestä
+						eikä keskinäisestä auttavaisuudesta. Sitä enemmän näkee näitä luonteita
+						muutamilla hyönteisillä. Eivät kaikki meistä ole nähneet mettiäisiä ja
+						ampiaisia. Ne elävät mehiläisten tavalla monta yksissä yhteisessä
+						pesässä. Ymmärtävät ihmiset rakentavat mehiläisille valmiin pesän, johon
+						mehiläiset itse saavat tehdä sisuksen. Tule, menemme tuolle isolle
+						mehiläispesälle puutarhaan. Siinä on yksi ainoa emä, jota kutsutaan
+						mehiläisten emäksi, joka on kaikkein mehiläisten emä. Se asuu isoimmassa
+						kammiossa; kaikki muut palvelevat ja hoitavat sitä. Samassa pesässä on
+						700 (seitsemänsataa) koirasta, joita kutsutaan <hi rend="expanded"><anchor xml:id="start2959"/>kuhnuriksi<anchor xml:id="end2959"/>,</hi> kun ovat laiskoja eläviä, jotka eivät tee työtä.
+						Mutta 10 ja aina 15,000 (kymmenen ja aina viisitoista-tuhansia) <choice><orig>on</orig><reg type="empty"/></choice>
+						työ-mehiläistä <choice><orig>ovat</orig><reg>on</reg></choice> pesän sellaisia asukkaita, jotka eivät ole koiraita
+						eivätkä naaraita. Ne ovat pienimmät ja ahkerimmat, niiden näkee alinomaa
+						lentelevän ympäriinsä kukissa. Karvasissa jaloissaan vievät he kukista
+						kotiinsa kukkain <anchor xml:id="start2960"/>siemenjauhoja<anchor xml:id="end2960"/>, joista toiset mehiläiset tekevät vaksia.
+						Vaksista tekevät he pesään kuusikulmasia kamareja, joissa asuvat. <pb type="orig" n="81"/>Niissä talleltavat he <hi rend="expanded">hunajan,</hi> jota
+						ovat imeneet kukista ja jota syövät syksyllä ja keväillä; mutta talvella
+						nukkuvat enimmästi tainnoksissa. Monta pientä kammiota on valmistettu
+						<anchor xml:id="start2961"/>sikiöille<anchor xml:id="end2961"/>. Siinä panee <anchor xml:id="start2962"/>mehiläis-emä<anchor xml:id="end2962"/> munan kuhunkin kamariin. Munasta
+						mataa toukka. Heti ovat työ-mehiläiset syöttämässä toukkaa, siksi kuin
+						tämä tulee koteroon. Kotero muurataan kohta kammioonsa; ovi tukitaan
+						vaksilla. Aikaa kuluu. Kun se uusi mehiläinen on koterossaan saanut
+						oikean muotonsa, mataa se ulos ja alkaa kohta tehdä työtä. Niin
+						kummallinen on eläinten luonto. — Ihminen tyhjentää mehiläisten pesiä.
+						Vaksista valetaan kynttilöitä, ja sillä vaksataan lankoja, joilla
+						vaatteen-tekijä ompelee. Hunajata ko’otaan ja käytetään makeisiin
+						juomiin. Mutta elä ärsytä mehiläisiä; voitpa saada koko joukon päällesi.
+						Ne pistävät sinua terävällä piikillään, ja silloin ajettuu se paikka.
+						Onpa nähty mehiläis-parven tappavan ison <anchor xml:id="start2963"/>hevosen<anchor xml:id="end2963"/>.</p>
+					<head style="blackletter"><hi rend="bold">Muurahainen.</hi></head>
+					<p style="blackletter">Menemmepä nyt muurahaisen tykö. Oppikaamme hänestä mitä hyvä sopu,
+						ahkeruus ja <anchor xml:id="start2964"/>pitkittäminen<anchor xml:id="end2964"/> voipi saada mailmassa toimeen. Nämä
+						siivilliset muurahaiset ovat koiraita ja naaraita, jotka lentävät jonkun
+						ajan isoissa parvissa ympäriinsä ja tulevat juurikuin sateena alas;
+						mutta sitte kadottavat siipensä. Ne ovat laiskoja ja jättävät kaiken
+						vaivan työmuurahaisille. Mutta nämäpä ovatkin sitä ahkerampia. Nämä
+						tekevät kaikki työt, rakentavat pesät, kokoavat ruokaa ja hoitavat
+						sikiöitä. Pesä, jonka näet, ei ole hyvin korkea; kuitenkin asuu sen
+						kammioissa ja kerroksissa yhdessä monta tuhatta muurahaista. Koko kesän
+						kulettavat ne siihen havunneuloja rakennus-aineeksi ja pieniä hyönteisiä
+							ruu<pb type="orig" n="82"/>aksi. Katsoppa tuota pientä muurahaista, joka vetää
+						isoa kortta takaperin! Korsi on hänelle liian raskas; hän ei voi sille
+						mitään. Mutta ei se jätä työtään keskitekoiseksi. Muuan kumppaneista
+						rientää siihen. Molemmat ryhtyvät voimineen kiini, ja viimein jaksavat
+						he kulettaa korren. Nakataanpa pieni oksa pesään; muurahaiset juoksevat
+						sen yli ja koettavat saada oksaa pois. Nakataanpa siihen
+						sittisontiainen; muurahaiset luulevat sittisontiaisen tulevan päällensä.
+						Siinä vastustavat he urhoollisesti; sittisontiainen on pahoissa päivissä
+						ja kokee kaikin voimin päästä tiehensä pesästä. Käärme, joka on paljoa
+						isompi, varoo kyllä tulemasta muurahaispesään; siinä tulisi hänelle
+						kyllä tuho. Niin ahkerat, ymmärtävät, auttavat ja urhoolliset ovat
+						muurahaiset. <anchor xml:id="start2965"/>Jos niiden pesää hävitetään, pantavaksi kuumaan veteen
+						hauteeksi sairaille ihmisille<anchor xml:id="end2965"/>, nähdään muurahaisten hyvin sukkeloina
+						kantavan muniaan ja valkeita koteroitaan. Ne alkavat kohta rakentaa
+						uutta pesää. Muurahaiset hävittävät paljo vahingollisia hyönteisiä
+						puutarhoissa; mutta työlästä on istua <anchor xml:id="start2966"/>ruohokossa<anchor xml:id="end2966"/>, jossa muurahaisia
+						juoksentelee ympäriinsä.</p>
+					<head style="blackletter"><hi rend="bold">Hämähäkki.</hi></head>
+					<p style="blackletter">Parempi on katsoa ahkeraa muurahaista, kuin tuota <anchor xml:id="start2967"/>raateliasta<anchor xml:id="end2967"/> hämähäkkiä.
+						Mutta sen ihmeellistä älyä täytyy meidän kuitenkin kummastella. Näetkö,
+						tuolla on hämähäkki kutomassa verkkoa kahden oksan välille
+						<anchor xml:id="start2968"/>vaarain-pensaassa<anchor xml:id="end2968"/>. Sepä nyt miettii mistä tuuli käypi. Sitte laskee se
+						oksalta pitkän langan riippumaan ja antaa tuulen puhaltaa lankaa toiseen
+						oksaan kiini. Nyt on sillä silta molempien oksain välillä pensaassa.
+						Tätä siltaa myöten kulkee se edestakasin, kutoen verkkoansa. Se kutoo
+						langan <pb type="orig" n="83"/>lankaan, ja kaikki langat käyvät ulos keskuksesta,
+						juurikuin säteet tähdessä. Jopa on verkko valmiina. Istuupa hämähäkki
+						keskelle vaanimaan. Tuossa surisee paarma. Se on liian suuri; se lentää
+						verkon läpi. Kohta rientää hämähäkki parantamaan verkkonsa reikää.
+						Elähän vielä! Tuolla tulee kärpänen. Se tarttuu verkkoon. Turhaan kokee
+						se pyrkiä siitä irti. Hämähäkki töytää siihen, kutoo sen ympärille
+						juurikuin kerän kinasia lankoja, tappaa sen ja imee nesteet sen
+						ruumiista. Sitte asettuu hän taas vahtiin. Nyt tulee pieni perho.
+						Voipikohan tuo murtaa tietä itselleen verkon läpi? Ei, se tarttui kiini,
+						se kiertyi siihen. Hämähäkki tulee. Perho raukka, nyt on kyllä sinulla
+						loppu käsissä. Mutta eläpä, autetaanpa sitä. Nyt revimme verkon rikki.
+						Hämähäkki juoksee pakoon, ja perho lentää liuvottelee kiitollisena
+						tuonne niitylle kukkiin.</p>
+					<head style="romanType"><hi rend="bold"><anchor xml:id="start2969"/>Mettiäinen ja kyyhky.<anchor xml:id="end2969"/></hi></head>
+					<lg>
+						<l style="romanType"><hi rend="italics">Jokeen putosi mettinen.</hi></l>
+						<l style="romanType"><hi rend="italics">Näki sen kohta kyyhkynen</hi></l>
+						<l style="romanType"><hi rend="italics">Ja surkutellen tuota pientä</hi></l>
+						<l style="romanType"><hi rend="italics">Hän kohta alkoi lenteä</hi></l>
+						<l style="romanType"><hi rend="italics">Ja puuhun sukkelasti rientää,</hi></l>
+						<l style="romanType"><hi rend="italics">Siit’ ottamahan lehteä.</hi></l>
+						<l style="romanType"><hi rend="italics">Sen pu’otti mettisen etehen.</hi></l>
+						<l style="romanType"><hi rend="italics">Tämä ei hukkunut vetehen.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Iloisna istui illalla</hi></l>
+						<l style="romanType"><hi rend="italics">Ja nokki kyyhky oksalla</hi></l>
+						<l style="romanType"><hi rend="italics">Leh’ossa lehdikossa.</hi></l>
+						<l style="romanType"><hi rend="italics">Mutt’ auringon alettua</hi></l>
+						<pb type="orig" n="84"/>
+						<l style="romanType"><hi rend="italics">Käveli siinä ampuva</hi></l>
+						<l style="romanType"><hi rend="italics">Ja vaani metsikossa.</hi></l>
+						<l style="romanType"><hi rend="italics">Hän tähtäs kohta kyyhkyä;</hi></l>
+						<l style="romanType"><hi rend="italics">Sen mettiäinen nähtyä</hi></l>
+						<l style="romanType"><hi rend="italics">Nyt pisti ampuvan kätehen.</hi></l>
+						<l style="romanType"><hi rend="italics">Ei luoti käynyt kyyhkysehen.</hi></l>
+						<l style="romanType"><hi rend="italics">Vapaaks’ se pääsi vaarastaan.</hi></l>
+						<l style="romanType"><hi rend="italics">Hyvä hyvällä palkitaan.</hi></l>
+					</lg>
+					<head style="romanType"><hi rend="bold"><anchor xml:id="start2970"/>Eläinten tavoista.<anchor xml:id="end2970"/></hi></head>
+					<lg>
+						<l style="romanType"><hi rend="italics">Pidä <hi rend="expanded">leijonan</hi>
+								jalous,</hi></l>
+						<l style="romanType"><hi rend="italics">Elä <hi rend="expanded">tiikerin</hi>
+							tapoja,</hi></l>
+						<l style="romanType"><hi rend="italics">Veren juojan julman töitä.</hi></l>
+						<l style="romanType"><hi rend="italics">Pidä <hi rend="expanded">kyyhkyn</hi> kaunis
+								luonto,</hi></l>
+						<l style="romanType"><hi rend="italics"><hi rend="expanded">Lampahan</hi> lakea
+								mieli;</hi></l>
+						<l style="romanType"><hi rend="italics"><anchor xml:id="start2971"/>El’<anchor xml:id="end2971"/> ole kavala <hi rend="expanded">kissa,</hi></hi></l>
+						<l style="romanType"><hi rend="italics">Elä tuhma <hi rend="expanded">aasi</hi>
+								<anchor xml:id="start2972"/>töllö<anchor xml:id="end2972"/>;</hi></l>
+						<l style="romanType"><hi rend="italics">Elä kulje köyristellen,</hi></l>
+						<l style="romanType"><hi rend="italics"><hi rend="expanded">Koiran</hi> lailla
+								<anchor xml:id="start2973"/>lieherrellen<anchor xml:id="end2973"/>,</hi></l>
+						<l style="romanType"><hi rend="italics">Mutt’ ole aina uskollinen,</hi></l>
+						<l style="romanType"><hi rend="italics">Kuin on koirakin alati.</hi></l>
+						<l style="romanType"><hi rend="italics">Oo vapaa iloinen aina,</hi></l>
+						<l style="romanType"><hi rend="italics">Kuin on <hi rend="expanded">lintu</hi>
+								lehdikossa.</hi></l>
+						<l style="romanType"><hi rend="italics">Ole viisas, vaan ei viekas.</hi></l>
+						<l style="romanType"><hi rend="italics">Kuin on tuo kavala <hi rend="expanded">kettu.</hi></hi></l>
+						<l style="romanType"><hi rend="italics">Elä oo sä uppiniska,</hi></l>
+						<l style="romanType"><hi rend="italics">Elä kankea <anchor xml:id="start2974"/>kämärä<anchor xml:id="end2974"/>,</hi></l>
+						<l style="romanType"><hi rend="italics">Ne ovat <hi rend="expanded">härän</hi>
+								tapoja.</hi></l>
+						<l style="romanType"><hi rend="italics">Pysy puhdasna alati,</hi></l>
+						<l style="romanType"><hi rend="italics">Niinkuin <hi rend="expanded">joutsen</hi>
+								valkeana.</hi></l>
+						<l style="romanType"><hi rend="italics">Vaiti on <hi rend="expanded">kala</hi>
+								meressä,</hi></l>
+						<l style="romanType"><hi rend="italics">Pidä uskotut asiat</hi></l>
+						<l style="romanType"><hi rend="italics">Sinäkin salassa aina.</hi></l>
+						<pb type="orig" n="85"/>
+						<l style="romanType"><hi rend="italics">Ole sukkela sinäkin,</hi></l>
+						<l style="romanType"><hi rend="italics">Niinkuin on <hi rend="expanded">orava</hi>
+								puussa.</hi></l>
+						<l style="romanType"><hi rend="italics">Elä halkea hajalle</hi></l>
+						<l style="romanType"><hi rend="italics"><anchor xml:id="start2975"/>Häjystä<anchor xml:id="end2975"/> kateudesta</hi></l>
+						<l style="romanType"><hi rend="italics"><hi rend="expanded">Sammakon</hi> katalan
+								lailla.</hi></l>
+						<l style="romanType"><hi rend="italics">Elä jää <hi rend="expanded">jäniksen</hi>
+								lailla</hi></l>
+						<l style="romanType"><hi rend="italics"><anchor xml:id="start2976"/>Ijän päivän<anchor xml:id="end2976"/> pelkuriksi.</hi></l>
+						<l style="romanType"><hi rend="italics">Käy eteen, elä <hi rend="expanded">krapuna</hi></hi></l>
+						<l style="romanType"><hi rend="italics">Käy <anchor xml:id="start2977"/>kämpien<anchor xml:id="end2977"/> takasi.</hi></l>
+						<l style="romanType"><hi rend="italics">Elä ahnasna <hi rend="expanded">sutena,</hi></hi></l>
+						<l style="romanType"><hi rend="italics">Liukkahana <hi rend="expanded">airokkaana,</hi></hi></l>
+						<l style="romanType"><hi rend="italics">Liiku ihmisten seassa.</hi></l>
+						<l style="romanType"><hi rend="italics"><hi rend="expanded">Sika</hi> on aina
+								siivotoinna,</hi></l>
+						<l style="romanType"><hi rend="italics"><hi rend="expanded">Käärme</hi>
+								<anchor xml:id="start2978"/>kaksi-kielisenä<anchor xml:id="end2978"/>,</hi></l>
+						<l style="romanType"><hi rend="italics">El’ ota tapoja niiltä.</hi></l>
+						<l style="romanType"><hi rend="italics">Mee kuin <hi rend="expanded">kotka</hi>
+								korkialle,</hi></l>
+						<l style="romanType"><hi rend="italics">Elä aikaasi kuluta,</hi></l>
+						<l style="romanType"><hi rend="italics">Niinkuin <hi rend="expanded">karhu</hi> kaiken
+								talven;</hi></l>
+						<l style="romanType"><hi rend="italics">Ole <anchor xml:id="start2979"/>virkku<anchor xml:id="end2979"/> kuin <hi rend="expanded">hevoinen,</hi></hi></l>
+						<l style="romanType"><hi rend="italics">Ei kuin <hi rend="expanded">simpukka</hi>
+								hidasna.</hi></l>
+						<l style="romanType"><hi rend="italics">Elä <anchor xml:id="start2980"/>hänteä<anchor xml:id="end2980"/> koreeta</hi></l>
+						<l style="romanType"><hi rend="italics">Ilkeillä jaloilla kanna,</hi></l>
+						<l style="romanType"><hi rend="italics">Juuri kuin tuo riikinkukko.</hi></l>
+						<l style="romanType"><hi rend="italics">Elä mahtaile isosti,</hi></l>
+						<l style="romanType"><hi rend="italics">Pönäkkänä pöyhistele,</hi></l>
+						<l style="romanType"><hi rend="italics">Kuin on <hi rend="expanded">kalkkunan</hi>
+								tapana.</hi></l>
+						<l style="romanType"><hi rend="italics">Elä tee muassa muiden</hi></l>
+						<l style="romanType"><hi rend="italics">Aina <hi rend="expanded">apinan</hi>
+							tavalla.</hi></l>
+						<l style="romanType"><hi rend="italics">El’ ole <anchor xml:id="start2981"/>nuorra<anchor xml:id="end2981"/> nuottinesi</hi></l>
+						<l style="romanType"><hi rend="italics"><hi rend="expanded">Korpin</hi>
+								laulukumppanina,</hi></l>
+						<l style="romanType"><hi rend="italics">Laula leivosen tavalla.</hi></l>
+						<l style="romanType"><hi rend="italics">Oo kuin maalla <hi rend="expanded">muurahainen</hi></hi></l>
+						<l style="romanType"><hi rend="italics">Aina työssä ahkerana;</hi></l>
+						<l style="romanType"><hi rend="italics">Ota kuin <hi rend="expanded">mettinen</hi>
+								hunaja</hi></l>
+						<l style="romanType"><hi rend="italics">Kukastakin karvahasta.</hi></l>
+						<pb type="orig" n="86"/>
+						<l style="romanType"><hi rend="italics">Tee kuin <hi rend="expanded">koralli</hi>
+								työtä</hi></l>
+						<l style="romanType"><hi rend="italics">Vuosisatojen varaksi.</hi></l>
+						<l style="romanType"><hi rend="italics">Tätä kaikkea käsitä</hi></l>
+						<l style="romanType"><hi rend="italics">Ihminen ikäsi kaiken</hi></l>
+						<l style="romanType"><hi rend="italics">Luonnon kaiken haltijana,</hi></l>
+						<l style="romanType"><hi rend="italics">Niin opit eläimistäkin</hi></l>
+						<l style="romanType"><hi rend="italics">Vielä paljo viisautta!</hi></l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

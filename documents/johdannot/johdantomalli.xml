@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_redtextschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Johdanto teokseen X</title>
+				<respStmt>
+					<name>Kirjoittajien nimet</name>
+				</respStmt>
+			</titleStmt>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<!-- Sisällysluettelo, pelkkiä <head> joilla @type = heading2|heading3|heading4|heading5|heading6 -->
+			<div type="content" id="content">
+				<head type="title"><ref target="#top">Johdanto</ref> <hi rend="writer">(kirjoittajien nimet)</hi></head>
+				<head type="heading2"><ref target="#sec1">Luvun otsikko</ref></head>
+				<head type="heading2"><ref target="#sec2">Luvun otsikko</ref></head>
+					<head type="heading3"><ref target="#sec2-1">Alaluvun otsikko</ref></head>
+				<head type="heading2"><ref target="#sec_intro_notes">Viitteet</ref></head>
+				<lb/>
+				<head type="heading2"><ref target="#sec_sources">Lähteet</ref></head>
+					<head type="heading3"><ref target="#sec3">Kirjallisuutta</ref></head>
+			</div>
+			
+			<!-- Itse teksti. Jokainen artikkeli/luku/alaluku on sijoitettava <div> elementtiin jolla @id. Otsikot <head> joilla @type = heading2|heading3|heading4|heading5|heading6 -->
+			<div type="section" title="introduction" id="sec_intro">
+				<div type="header" id="top">
+					<!-- Koko tekstin otsikko on tässä <div type="header"> osassa. -->
+					<head type="title">Johdanto</head>
+					<p type="writer">Kirjoittajien nimet</p>
+			    </div>
+				<div id="sec1">
+					<head type="heading2">Luvun otsikko</head>
+					<p rend="noIndent">Lorem ipsum dolores<note place="foot" id="ftn1" n="1">Alavitteen teksti. Tämä on <xref type="ext" target="https://www.sls.fi/">linkki</xref>.</note> Kappale jatkuu.</p>
+					<p>Toinen kappale.</p>
+					<p>Kolmas kappale. Linkki lukutekstiin: <xref type="readingtext" target="1 5">teksti jolla ID 5 kokoelmassa jonka ID 1</xref>.</p>
+				</div>
+				<div id="sec2">
+					<head type="heading2">Luvun otsikko</head>
+					<div id="sec2-1">
+						<head type="heading3">Alaluvun otsikko</head>
+						<p rend="noIndent">Lorem ipsum ...</p>
+					</div>
+				</div>
+				<div id="sec_intro_notes">
+					<head type="heading2">Viitteet<!-- Viitetekstit kootaan automaattisesti tämän otsikon alle kun johdanto julkaistaan. --></head>
+				</div>
+			</div>
+			<lb/>
+			<lb/>
+			<!-- Lähdeluettelo, voi sisältää useita osioita, jokainen koodataan <div> elementillä ja otsikolla. -->
+			<div type="sources" id="sec_sources">
+				<head type="heading2">Lähteet</head>
+				<div id="sec3">
+					<head type="heading3">Kirjallisuutta</head>
+					<p rend="hangingIndent">Aarne, Antti (1911) Hölmöläiset vaiko hämäläiset? – <hi rend="italics">Virittäjä. Kotikielen seuran aikakauslehti</hi> 8/1911, 127–128.</p>
+					<p rend="hangingIndent">Engman, Max (2016) <hi rend="italics">Språkfrågan. Finlandssvenskhetens uppkomst 1812–1922. Finlands svenska historia 3.</hi> Skrifter utgivna af Svenska litteratursällskapet i Finland 702:3. Helsingfors: SLS och Stockholm: Atlantis.</p>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

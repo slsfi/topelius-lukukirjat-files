@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Kahdeksas Luku. Kivikunnasta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head type="section" style="blackletter"><hi rend="bold">Kahdeksas Luku.</hi></head>
+				<head type="section" style="blackletter"><hi rend="bold expanded">Kivikunnasta.</hi></head>
+				<p style="blackletter">Tule Liisa, mennäänpä isän luokse pellolle. Kanna sinä kruukkua, minä kannan
+					kirvestä. Kruukku on poltetusta savesta, ja siinä on suoloja. Kirves on
+					raudasta, ja sen terä on teräksestä. Isä kyntää peltoa ja korjaa siitä kiviä
+					pois.</p>
+				<p style="blackletter">Saatatteko sanoa meille, isä, mitä savi on? Ovatko suolat eläviä? Ovatko
+					rauta ja teräs kasveja? Ja mitä ovat multa ja kivet?</p>
+				<p style="blackletter">Muista se, sanoo isä<choice><orig>?</orig><reg>.</reg></choice> <anchor xml:id="start3312"/>Elävät<anchor xml:id="end3312"/> ja <anchor xml:id="start3313"/>kasvit<anchor xml:id="end3313"/> ovat <anchor xml:id="start3314"/>eläviä olentoja<anchor xml:id="end3314"/>. Ne syntyvät ja
+					kasvavat sisältäpäin kaikellaisella ravinnolla. Aikansa elettyä tulevat ne
+					vanhoiksi ja kuolevat; mutta niiden <anchor xml:id="start3315"/>sikiät<anchor xml:id="end3315"/> kasvavat niiden sijaan. Niin
+					muuttuvat alinomaa <anchor xml:id="start3316"/>eläinkunnan<anchor xml:id="end3316"/> ja <anchor xml:id="start3317"/>kasvikunnan<anchor xml:id="end3317"/> asujat. Ja kuitenkin näyttävät
+					ne alinomaa olevan samallaisia. <anchor xml:id="start3318"/>Kotivarpunen<anchor xml:id="end3318"/>, joka laulaa tirskuttaa
+					katolla, on laulanut siellä niinkauvan kuin minä muistan. Niitynruoho on
+					samaa ruohoa, jota kasvoi ollessani aivan pienenä. Ja kuitenkaan ei ole se
+					enää sama varpuinen, eikä sama ruohokaan, vaan uusi varpunen ja uusi ruoho.
+					Kokonaan toisin on kivien asia. Elävät ja kasvit elävät itsessään. Kivet
+					ovat itsessään <anchor xml:id="start3319"/>hengettömiä kappaleita<anchor xml:id="end3319"/> ja elävät ainoasti <pb type="orig" n="110"/>koko
+					sen suuren mailman osina. Ne eivät muutu itsessään. Ne eivät synny; ne eivät
+					kuole. Eivät koskaan kasva sisältäpäin. Ne eivät syö, eikä niillä ole
+					<anchor xml:id="start3320"/>sikiöitä<anchor xml:id="end3320"/> eikä siemeniä. Eivät koskaan vanhene nuo kovat <anchor xml:id="start3321"/>vuoret<anchor xml:id="end3321"/>. Näetkö tätä
+					pientä kiveä, joka minulla on kädessä? Sellainen kuin se nyt on, sellaisena
+					on se pysynyt monta tuhatta vuotta aina maan ensimäisestä ajasta. Näinä
+					tuhansina vuosina ei se ole kasvanut vähintäkään, ja tuhat vuotta kuluttua
+					eteenpäin ei se ole isompi kuin nytkään.</p>
+				<p style="blackletter">Katsoppa, nyt lyön kiven rikki. Se menee palaisiksi, ja jokainen palainen on
+					eri kivi. Mutta elävää eli kasvia en saata lyödä rikki, ilman etteivät ne
+					kuole. Kahdesta pienestä kirveestä saatan takoa ison kirveen. Mutta enpä
+					saata kahdesta pienestä kananpojasta tehdä kukkoa eli kahdesta pienestä
+					<anchor xml:id="start3322"/>männystä<anchor xml:id="end3322"/> isoa <anchor xml:id="start3323"/>petäjätä<anchor xml:id="end3323"/>. <anchor xml:id="start3324"/>Eläin<anchor xml:id="end3324"/> ja kasvi ovat kumpikin jo itsestään niinkuin
+					valmiita. Mutta suuresta rautakangista saatan takoa tuhat naulaa, ja
+					jokainen naula on rautaa.</p>
+				<p style="blackletter">Enkö saata takoa muuta kuin rautaa? Aivan vissisti, saatan takoa useampia <hi rend="expanded"><anchor xml:id="start3325"/>metalleja<anchor xml:id="end3325"/>.</hi> Sillä kivikuntaan luemme monta
+					kappaletta maan päällä, joilla ei ole erinäistä elämää. Metallit ovat
+					läpinäkymättömiä, tiheitä kappaleita. Useat sulavat kuumuudessa, mutta
+					kovenevat jälleen tultuaan kylmempään ilmaan. Olen nähnyt sellaisiakin,
+					joita on löydetty maasta puhtaina ja sekoittamattomina. Mutta tavallisesti
+					murretaan metalli-malmi kaivannoista vuorissa, ja rautamalmia saadaan
+					<anchor xml:id="start3326"/>järvien<anchor xml:id="end3326"/> pohjastakin. Sitte kuumennetaan <anchor xml:id="start3327"/>malmi<anchor xml:id="end3327"/> hiilillä sekoitettuna
+					<choice><orig>mas-uuneissa</orig><reg>masuuneissa</reg></choice>, puhdistettavaksi muista aineista. Silloin rauta sulaa, juoksee
+					ulos, jähmistyy harkoiksi eli taotaan kangiksi, niinkuin rauta-pruukeissa on
+					tapana. Muutamat metallit eivät ruostu ollen<pb type="orig" n="111"/>kaan ilmassa,
+					eivätkä kulu kovimmassakaan tulessa; ja siksi kutsutaan niitä <hi rend="expanded"><anchor xml:id="start3328"/>kalleiksi</hi> metalleiksi<anchor xml:id="end3328"/>. Sormessani on sormus ja
+					säästö-kukkarossani on keltanen raha. Molemmat ovat <hi rend="expanded">kultaa,</hi> joka on kallis metalli ja saatetaan takoa hienoimmiksi
+					levyiksi. Kultaa on harvassa, ja se on hyvin kallista. Se on yhdeksäntoista
+					kertaa raskaampi vettä, ja löytyy ainoasti yksi sitä raskaampi metalli,
+					nimittäin valkea <hi rend="expanded"><anchor xml:id="start3329"/>platina<anchor xml:id="end3329"/>.</hi> Mutta tuo valkea
+					metallinen lusikka ja tuo valkea raha ovat <hi rend="expanded">hopeaa,</hi>
+					joka on hyödyllisin kalliista metalleista, sillä siitä taotaan kaikellaisia
+					kaluja, jotka ovat sekä kauniita että lujia.</p>
+				<p style="blackletter">Niin on Jumala suonut ihmisten hyväksi, että <hi rend="expanded">rautaa,</hi>
+					joka on hyödyllisin kaikista metalleista, löytyy runsaimmin levinneenä maan
+					päällä. Ihminen, joka väärin-käyttää niin monia Jumalan lahjoja, on
+					käyttänyt rautaakin miekoiksi ja tappaviksi luodeiksi. Kun rautaa on
+					sekoitettu hiilillä, on siitä tullut <hi rend="expanded">terästä,</hi> josta
+					taotaan terä-aseita, niin että teräksellä voidaan kaivaa reikiä
+					kallioihinkin. Mutta jos puukkosi terä on jonkun ajan märkänä, tulee siihen
+					ruskeita pilkkoja, joita sanotaan <hi rend="expanded"><anchor xml:id="start3330"/>ruosteeksi<anchor xml:id="end3330"/>;</hi> ja se
+					syöpi sekä rautaa että terästä.</p>
+				<p style="blackletter">Sepän takoessa putoaa kuonaa raudasta. Ja rauta, jos se saapi olla kauvan
+					tulessa, palaa ruskeiksi jauhoiksi. Sellaisia metalleja, joita ruoste ja
+					tuli syöpi, kutsutaan <hi rend="expanded"><anchor xml:id="start3331"/>alhaisiksi</hi> metalleiksi<anchor xml:id="end3331"/>, ja
+					sellaisia ovat kaikki muut, joita nyt luettelen.</p>
+				<p style="blackletter">Antilla on lakkarissa punertava lantti ja äitillä on kotona kahvipannu.
+					Lantti ja kahvipannu ovat <hi rend="expanded"><anchor xml:id="start3332"/>kuparia<anchor xml:id="end3332"/>,</hi> joka sietää
+					kovan kuumuuden, ennenkuin sulaa. Kun äiti keittää rautapadassa, ei siitä
+					ole vahinkoa, jos rauta-ruostetta tulee velliin. Olen nähnyt rauta-jauhoa
+					käytettävän lääkkeeksi. Mutta aina <anchor xml:id="start3333"/>tinauttaa<anchor xml:id="end3333"/> äiti kupari-astiansa
+					sisäpuolelta. Muu<pb type="orig" n="112"/>toin <hi rend="expanded">ruostuu</hi> kupari
+					märkyydestä ja haposta, ja tämä ruoste on niin myrkyllistä, että ihmiset
+					saattavat kuolla siitä. Äitillä on kynttilä-jalkoja ja talrikkeja siitä
+					valkeasta ja pehmeästä <hi rend="expanded">tinasta,</hi> joka sulaa aivan
+					pian. Kelloin valurit sulaavat kuparia ja tinaa <anchor xml:id="start3334"/>sevoin<anchor xml:id="end3334"/>. Siitä tulee
+					valu-malmia, josta tehdään kirkonkelloja, kynttiläjalkoja ja kulkusia.
+					Valinkauhassa sulataan sitä raskasta ja pehmeää <hi rend="expanded"><anchor xml:id="start3335"/>plyijyä<anchor xml:id="end3335"/>,</hi> josta isä valaa luotia ja haulia pyssyihinsä. Plyijy on
+					myrkyllistä ja samoin on <anchor xml:id="start3336"/>plyyvittikin<anchor xml:id="end3336"/>, jota siitä valmistetaan
+					valkean-maaliksi. <hi rend="expanded"><anchor xml:id="start3337"/>Sinkki<anchor xml:id="end3337"/></hi> on valkeaa metallia; kun
+					sitä sulataan kuparin kanssa sevoin, tulee tästä se kellahtava <anchor xml:id="start3338"/>messinki<anchor xml:id="end3338"/>.
+					Kerran teki isä myrkky-leipiä rotille. Niihin pani hän <hi rend="expanded"><anchor xml:id="start3339"/>arsenikkia<anchor xml:id="end3339"/>,</hi> joka on itsestään harmajaa, mutta myydään valkeana
+					jauhona ja on hyvin vaarallista. Tuvassamme olevan peilin lasi on
+					takapuolelta peitetty tinan ja <hi rend="expanded"><anchor xml:id="start3340"/>elo-hopean<anchor xml:id="end3340"/></hi>
+					sekoituksella; elo-hopea on valkeaa ja näyttää sulatulta hopealta. Alinomaa
+					näkee elo-hopean sulana; mutta kun on oikein pakkainen talvella, jähmistyy
+					se kokoon, joka näyttää tinalta ja jota saattaa takoa vasaralla. Kohta
+					pakkaisen lauhemmaksi tultua sulaa elo-hopea itsestään. Jos elo-hopeaa
+					sulataan <anchor xml:id="start3341"/>tulikiven (rikin)<anchor xml:id="end3341"/> kanssa, saadaan tästä sitä kauniin punaista
+					sinooperi-väriä. Ne siniset lasit, joita on äitin kaapissa, ovat värjätyt
+					<anchor xml:id="start3342"/>kopoltilla<anchor xml:id="end3342"/>. <anchor xml:id="start3343"/>Yleesensä<anchor xml:id="end3343"/> lasketaan olevan 40 metallia. Mutta niitä muita on
+					harvassa.</p>
+				<p style="blackletter">Jos siis otan <anchor xml:id="start3344"/>sinooperia<anchor xml:id="end3344"/>, saatan sen eroittaa elo-hopeaksi ja tulikiveksi.
+					Mutta jos kuinka koetteleisin, niin en voisi enää elo-hopeasta saada muuta
+					ainetta erilleen enkä tulikivestäkään. Siksi kutsun elo-hopeaa ja tulikiveä
+						<hi rend="expanded"><anchor xml:id="start3345"/>selviksi aineiksi<anchor xml:id="end3345"/>.</hi> Sellaisia ovat kaikki
+					metallit ja useat muut aineet. Mutta sinooperia kutsun <hi rend="expanded"><anchor xml:id="start3346"/>sekoitetuksi aineeksi<anchor xml:id="end3346"/>,</hi> ja <pb type="orig" n="113"/>sellaisia ovat messinki,
+					valu-malmi, <anchor xml:id="start3347"/>kliitu<anchor xml:id="end3347"/>, suola, vesi ja useammat muut kappaleet maan päällä.</p>
+				<p style="blackletter">Muutamia maan aineita kutsutaan <hi rend="expanded"><anchor xml:id="start3348"/>palavaisiksi<anchor xml:id="end3348"/>,</hi> kun ne
+					pian syttyvät tulessa ja palavat. Useammista niistä lähtee savu, joka ei ole
+					muuta kuin hienoa nokea. Noki on taas hienoa tomua <hi rend="expanded"><anchor xml:id="start3349"/>hiilestä<anchor xml:id="end3349"/>,</hi> joka on selvä aine, jota löytyy runsaasti kaikissa
+					<anchor xml:id="start3350"/>luonnon-kunnissa<anchor xml:id="end3350"/>. Plyijyspännissä oleva <anchor xml:id="start3351"/>plyertsi<anchor xml:id="end3351"/> on palavaista, sillä siinä
+					on enimmästi hiiltä. <anchor xml:id="start3352"/>Kivihiiltä<anchor xml:id="end3352"/> murretaan kaivoksista ja poltetaan
+					ulkomaalla halkoin asemasta. Kaikki puu palaa aivan helposti, sillä siinä on
+					hyvin hiiltä. Paitsi näitä tiedän vielä paljon muitakin palavaisia aineita.
+					Ne keltaiset pötkylät, joita isä osti kaupungista, ovat <hi rend="expanded">tulikiveä,</hi> jota ynnä <hi rend="expanded"><anchor xml:id="start3353"/>fosforin</hi> (valokin)<anchor xml:id="end3353"/>
+					kanssa pannaan tulitikkuihin. Hiilestä, tulikivestä ja <anchor xml:id="start3354"/>saltpetteristä<anchor xml:id="end3354"/>
+					tehdään sitä hieno-rakeista mustaa <hi rend="expanded"><anchor xml:id="start3355"/>kruutia<anchor xml:id="end3355"/>,</hi> joka on
+					niin palavaista, että pieni kipuna kohta sytyttää sen. Siitä tulee monta
+					onnettomuutta, jos ei varoin menetellä kruudin kanssa.</p>
+				<p style="blackletter">Isä aikoo nyt syödä murkinaa. Kontissa on leipää, suolattua voita ja
+					suolaista kalaa. Mitä ovat suolat? Sen sanon sinulle. Suoloiksi kutsutaan
+					sellaisia aineita, jotka helposti sulavat vedessä ja antavat kieleen
+					kirpistelevän ma’un. Ne ovat <hi rend="expanded"><anchor xml:id="start3356"/>keittosuoloja<anchor xml:id="end3356"/>,</hi> jotka
+					parhaite tunnemme ja jotka suojelevat ruokamme pahentumasta. Välistä
+					murretaan vuorikaivannoista suoloja, joita kutsutaan <anchor xml:id="start3357"/>vuori-suoloiksi<anchor xml:id="end3357"/>. Eli
+					keitetäänkin niitä suolaisten lähdetten vedestä. Mutta suolat, joita isä
+					osti kaupungissa, ovat saadut <anchor xml:id="start3358"/>merestä<anchor xml:id="end3358"/>. Jos maistat merivettä, antaa se
+					suolan maun kieleesi. Suurien merien <anchor xml:id="start3359"/>rannoilla<anchor xml:id="end3359"/>, joilla vesi on suolaisempaa
+					kuin täällä, juoksutetaan sitä kuoppiin ja annetaan niissä <anchor xml:id="start3360"/>höyrytä pois<anchor xml:id="end3360"/>
+					auringon helteessä. Siinä jääpi val<pb type="orig" n="114"/>kea suola kuoppain pohjalle,
+					josta se kootaan ja tuodaan tänne laivoilla. Paitsi keitto-suolaa tunnen
+					vielä useita muitakin suola-lajeja, niinkuin <hi rend="expanded"><anchor xml:id="start3361"/>alunan<anchor xml:id="end3361"/></hi>
+					ja viheriäisen <hi rend="expanded"><anchor xml:id="start3366"/>vihtrillin<anchor xml:id="end3366"/>, <anchor xml:id="start3367"/>kuparröökin<anchor xml:id="end3367"/></hi> ja <hi rend="expanded"><anchor xml:id="start3371"/>salpetterin<anchor xml:id="end3371"/>,</hi> jota isä teki kerran
+					salpetteri-ladossa. Sellaiset suolat ovat hyödyllisiä useoihin käsitöihin,
+					mutta niitä ei saata syödä.</p>
+				<p style="blackletter">Monet aineet tulevat happaneviksi (<anchor xml:id="start3372"/>happanevat<anchor xml:id="end3372"/>) kun seisovat kauvan. Välistä
+					pannaan <hi rend="expanded"><anchor xml:id="start3373"/>etikkaa<anchor xml:id="end3373"/></hi> ruokaan; siitä tulee ruoka
+					happameksi. <hi rend="expanded"><anchor xml:id="start3374"/>Viinahappo<anchor xml:id="end3374"/></hi> tutaan viinamarjoissa ja <hi rend="expanded">omena-happo</hi> omenoissa. Mutta tunnenpa muita <hi rend="expanded"><anchor xml:id="start3375"/>happoja<anchor xml:id="end3375"/>,</hi> jotka ovat paljon väkevämmät, esim. sen
+					polttavan <hi rend="expanded"><anchor xml:id="start3376"/>vihtrilli-öljyn</hi> (tuli-kivihapon)<anchor xml:id="end3376"/>. Jos
+					panen kuparilantin <anchor xml:id="start3377"/>sieveteen (salpetteri-happoon)<anchor xml:id="end3377"/>, syöpi happo pois
+					ruosteen, ja lantti on niin kirkas kuin olisi uusi. Mutta jos pisarakaan
+					happoa tipahtaa vaatteisiin, polttaa se reijän; ja jos se sattuu sormeen,
+					tulee siitä keltainen pilkka ihoon. Siksi tiedän varoa itseäni sellaisista
+					väkevistä hapoista. Oli kerran päihtynyt mies, joka tahtoi kaataa enemmän
+					<choice><orig>viina</orig><reg>viinaa</reg></choice> pikariin, mutta erehtyipä lasin otossa ja kaasi sievettä paloviinan
+					sijaan pikariin. Kun hän sen ryyppäsi, poltti se niin kovasti sisuksia, että
+					hän vähän ajan perästä kuoli.</p>
+				<p style="blackletter">Kun äiti lijottaa tuhkaa kuumassa vedessä, tulee siitä <anchor xml:id="start3378"/>lipeää<anchor xml:id="end3378"/>, jota tarvitaan
+					vaatetten pesussa ja <anchor xml:id="start3379"/>peseen (soopan)<anchor xml:id="end3379"/> teossa. Isä polttaa juuri sitä varten
+					metsässä <anchor xml:id="start3380"/>koivuja<anchor xml:id="end3380"/> ja <anchor xml:id="start3381"/>haapoja<anchor xml:id="end3381"/> tuh’aksi. Tästä tekee hän <anchor xml:id="start3382"/>lipiää<anchor xml:id="end3382"/>, jonka sitte
+					keittää muuri-padassa kuiviin, ja saapi siitä ruskeaa <hi rend="expanded"><anchor xml:id="start3383"/>potaskaa<anchor xml:id="end3383"/>.</hi> Sitte polttaa hän sen valkeaksi ja myypi kaupunkiin,
+					sillä sitä tarvitaan värjäykseen ja muuhunki.</p>
+				<p style="blackletter">Otanpa nyt multaa käteeni maasta. Mitä on multa? Multa on erinäisten kaikissa
+						luonnon-kun<pb type="orig" n="115"/>nissa olevain ainetten sekoa. Siinä on jäänöksiä
+					mädänneistä kasvuista ja elävistä. Sellaisissa aineissa hyötyvät kasvien
+					juuret, ja siksi kutsutaan multaa, jossa on paljolta sellaisia aineita,
+					ruokamullaksi. Siksi höystetään peltoa, ja siksi kynnetään sitä, että multa
+					paremmin sekausisi, ja kaikki sen aineet paremmin lahoisivat ilmassa.
+					Mullassa on useita <hi rend="expanded"><anchor xml:id="start3384"/>maa-lajiakin<anchor xml:id="end3384"/>.</hi> Siinä on usein
+					sitä hyödyllistä <hi rend="expanded">savea,</hi> joka on maalaji, joka
+					kovenee tulessa. Siitä poltetaan tiilejä. Siitä tekevät kruukunmaakarit
+					savi-astiamme, ja posliini-vapriikeissa valmistetaan siitä talrikkiakin.
+					Meillä on pellossa punertavaa <hi rend="expanded"><anchor xml:id="start3385"/>mehu-maata</hi>
+					(merkeliä)<anchor xml:id="end3385"/>, joka on hyvin kasvavaa, ja siinä on savea ja kalkkia. Mutta <hi rend="expanded"><anchor xml:id="start3386"/>kalkki-maata<anchor xml:id="end3386"/></hi> on enimmästi vuorissa.</p>
+				<p style="blackletter"><anchor xml:id="start3387"/>Hietamaassa<anchor xml:id="end3387"/> ei menesty vilja hyvästi, sanoo isä, sillä <anchor xml:id="start3388"/>hieta<anchor xml:id="end3388"/> on löyhää ja
+					päästää sateen läpi. Hietaa on yleeseen sanomattomaan paljolta; kun se on
+					korkea-rakeista, sanotaan sitä <anchor xml:id="start3389"/>someroksi<anchor xml:id="end3389"/>. Mitä on hieta? Se on hienonnettuja
+					rakeita kovasta aineesta, jota kutsutaan <hi rend="expanded"><anchor xml:id="start3390"/>kiiseliksi<anchor xml:id="end3390"/></hi>
+					ja on kivilajia. Ei mitään ole niin runsaasti maan päällä. Kuka voipi lukea
+					hiedan rakeet meressä ja rannoilla ja <anchor xml:id="start3391"/>kankailla<anchor xml:id="end3391"/>, joilla petäjät kasvavat.
+					Kiiseliä on se punanen <hi rend="expanded"><anchor xml:id="start3392"/>hietakivi<anchor xml:id="end3392"/>,</hi> jota käytetään
+					tahkoiksi, ja se kova <hi rend="expanded"><anchor xml:id="start3393"/>pii<anchor xml:id="end3393"/>,</hi> joka antaa säkeneitä
+					tuliraudalla lyödessä ja <hi rend="expanded"><anchor xml:id="start3394"/>ukonkivi</hi> (kuutilo)<anchor xml:id="end3394"/>. <hi rend="expanded"><anchor xml:id="start3395"/>Kenttäkivi</hi> (vältspaati)<anchor xml:id="end3395"/> ja <hi rend="expanded"><anchor xml:id="start3396"/>kiiltoliuskakivi</hi> (katinkultakivi)<anchor xml:id="end3396"/> ovat enimmästi kiiseliä. Ja
+					näistä ovat ne kovat <hi rend="expanded"><anchor xml:id="start3397"/>kneissi<anchor xml:id="end3397"/></hi>- ja <hi rend="expanded"><anchor xml:id="start3398"/>harmaakiviset</hi> vuoret (kranitti-vuoret)<anchor xml:id="end3398"/> ja sanomattomat harmaat
+					kivet yhdistetyt. Välistä on muita kivilajia ikäänkuin pakattuina niiden
+					sisässä. Niissä näkyy <hi rend="expanded"><anchor xml:id="start3399"/>aluna-liuska-kiveä<anchor xml:id="end3399"/>,
+						kiilto-liuska-</hi> (katinkulta) kiveä ja <hi rend="expanded"><anchor xml:id="start3400"/>savi-liuska-kiveä<anchor xml:id="end3400"/>,</hi> jota saa<pb type="orig" n="116"/>tetaan halkoa liuskoiksi
+					ja tehdä luvunlasku-tauluiksi kouluihin.</p>
+				<p style="blackletter">Muutamat vuoret ovat löyhemmistä kivilajista. Oletko nähnyt
+					kalkkikivi-kalliota, josta murretaan valkeoita <hi rend="expanded">kalkki-kiviä?</hi> Ensin poltetaan kalkkikivet suurissa uuneissa, ja
+					niistä saadaan <choice><orig>kastele-matointa</orig><reg>kastelematointa</reg></choice> kalkkia. Kun siihen kaadetaan vettä, ottaa
+					se hetkeksi kovan kuumuuden, ja tätä sanotaan kalkin kastelemiseksi. Kalkkia
+					sekoitetaan saven ja <anchor xml:id="start3401"/>hiekan<anchor xml:id="end3401"/> kanssa, kun sitä käytetään <anchor xml:id="start3402"/>muuraus-pruukiksi<anchor xml:id="end3402"/>.
+					Olen nähnyt kovaa ja hieno-syistä kalkki-kiveä, jota kutsutaan <anchor xml:id="start3403"/>marmoriksi<anchor xml:id="end3403"/>.
+					Sitä on monennäköistä ulkomailla ja maassammekin <anchor xml:id="start3404"/>Ruskialassa<anchor xml:id="end3404"/>. Siitä hakataan
+					kauniita patsaita, portaita ja kuvia. Ja kun mainiot mestarit ovat
+					veistimellään hakanneet marmoriin kauniimpia ihmisten ja eläinten kuvia,
+					täytyypä, kuvat havaittua, pysähtyä ihmettelemään, että niin paljo elämän
+					näköä on voitu mukailla kovaan kiveen. Mutta, koska marmori on kallista ja
+					sitä löytyy harvassa, on havaittu kalkista ja vihtrilli-öljystä saatavan
+					valkea sekoitus, jota kutsutaan <hi rend="expanded"><anchor xml:id="start3405"/>kipsiksi<anchor xml:id="end3405"/>,</hi> ja se on
+					paljon huokeampaa. Tästä tehdään kipsikuvia, joita ulkomaalais-kipsimaakarit
+					kantelevat laudalla pää-laellaan kaupungeissa myytäviksi. Kovinta kipsiä on
+					valkea <hi rend="expanded"><anchor xml:id="start3406"/>alabasteri<anchor xml:id="end3406"/>.</hi> Mutta löyhintä kalkkilajia on
+						<hi rend="expanded">kliitu,</hi> jonka kaikki tuntevat, ja sitä on
+					ulkomailla niin paljolta, että siellä on kokonaisia kliitu-vuoria.</p>
+				<p style="blackletter">Sittenkin on vielä monia löyhiä kivilajia. Äiti kihnasi messinkiä kirkkaaksi
+					kivellä, joka oli niin keveää, että pysyi veden päällä, ja sitä sanottiin
+						<hi rend="expanded"><anchor xml:id="start3407"/>hohkakiveksi<anchor xml:id="end3407"/>.</hi> Isän paras piippu on <hi rend="expanded"><anchor xml:id="start3408"/>merenvahasta<anchor xml:id="end3408"/>,</hi> joka on niin pehmeää kiveä, että sitä
+					saatetaan leikata. <hi rend="expanded"><anchor xml:id="start3409"/>Vuolu-kiveä<anchor xml:id="end3409"/></hi> saatetaan vuolta ja
+					varvata padoiksi. Muutamain kivein luullaan en<pb type="orig" n="117"/>nen olleen niin
+					pehmeinä kuin <anchor xml:id="start3410"/>muta<anchor xml:id="end3410"/> on vedessä. Ja kun vesi, joka seisoi <anchor xml:id="start3411"/>yleeseensä<anchor xml:id="end3411"/> maan
+					päällä, juoksi pois, ovat kivet sittemmin kovenneet ilmassa. Tästä voidaan
+					selittää, kuinka muutamissa löyhemmissä vuorissa on tavattu jäänöksiä
+					<anchor xml:id="start3412"/>kasvuista<anchor xml:id="end3412"/> ja elävistä mudassa, jossa ne sitte ovat kovenneet sen kanssa
+					kiviksi. Mutta harmaa-kivi-vuorissa ei löydy kivettyneitä kappaleita. Siksi
+					luullaan harmaan kiven olleen maan päällä, ennenkuin kasveja ja eläviä on
+					ollutkaan. Mutta muut vuoret ja kivet ovat tulleet ja kovenneet paljon
+					jälempänä.</p>
+				<p style="blackletter">Tuolla kaupungissa näki äiti kiven, joka välkkyi kummallisesti kirkkaana ja
+					oli niin kova, että lasimestari leikkeli sillä laseja. Äitistä oli kivi
+					mieluinen ja pyyti sitä ostaaksensa muutamilla <anchor xml:id="start3413"/>kopeikoilla<anchor xml:id="end3413"/>. Ei, sanoi
+					lasimestari, se kivi on <hi rend="expanded"><anchor xml:id="start3414"/>timantti<anchor xml:id="end3414"/></hi> ja voipi maksaa
+					enemmän kuin koko teidän tupanne. Tuleppa kanssani kultasepälle, sanoi hän,
+					niin näytän teille useita <hi rend="expanded"><anchor xml:id="start3415"/>kalliita kivejä<anchor xml:id="end3415"/>.</hi>
+					Sellaisia löytään aivan harvoin ja ne maksavat hyvin paljon. Kun ne ovat
+					lasketut sileiksi, sijoitetaan ne kultaan ja kalleisiin koristuksiin. Mutta
+					timantti ei ole muuta kuin puhtainta <anchor xml:id="start3416"/>hiiltä<anchor xml:id="end3416"/>, ja siksi palaa se supi kovassa
+					tulessa.</p>
+				<p style="blackletter">Äiti näki kultasepällä muitakin kalliita kiviä, jotka kaikki olivat kovia,
+					välkkyviä ja läpikuultavia. Siellä näki hän sen helevän punaisen <hi rend="expanded"><anchor xml:id="start3417"/>rupiinin<anchor xml:id="end3417"/></hi> ja sen sinisen <hi rend="expanded"><anchor xml:id="start3418"/>safiirin<anchor xml:id="end3418"/>.</hi> Hän kysyi sen keltasen <hi rend="expanded"><anchor xml:id="start3419"/>topaasin<anchor xml:id="end3419"/></hi>
+					ja sen viheriäisen <hi rend="expanded"><anchor xml:id="start3420"/>smaragdin<anchor xml:id="end3420"/></hi> hintaa. Mutta niin
+					paljo ei ollut äitillä rahaa, että olisi voinut ostaa yhtäkään niistä.
+					Ainoasti tumman punainen <hi rend="expanded"><anchor xml:id="start3421"/>karnioli<anchor xml:id="end3421"/></hi> oli helpompi, ja
+					sen osti äiti sormukseensa. Tuleppas tänne, sanoi kultaseppä, niin saat
+					ostaa <hi rend="expanded"><anchor xml:id="start3422"/>mukailtuja kiviä<anchor xml:id="end3422"/></hi> helpolla hinnalla. Ovathan
+					ne kallisten kivein näköisiä, vaikka <pb type="orig" n="118"/>eivät ole niin kovia ja
+					välkkyviä. En huoli, sanoi äiti, en tahdo ylpeillä petollisuudella. Jos ei
+					minulla ole varaa ostaa sitä, joka on oikeaa, niin en huoli teidän
+					mukailluista kivistännekään.</p>
+				<p style="blackletter">Isä oli kerran <anchor xml:id="start3423"/>juonut terveydekseen vettä lähteestä<anchor xml:id="end3423"/>, jossa se <anchor xml:id="start3424"/>maistui
+					pläkiltä. Tämä tuli siitä, että vesi oli juossut maan läpitse ja siinä
+					kohdannut rautaa ja muuta metallia, joista vähäinen osa oli irtaunut veteen.<anchor xml:id="end3424"/>
+					Sellaista kutsutaan <hi rend="expanded"><anchor xml:id="start3425"/>mineraali-vedeksi</hi>
+					(kivennäis-vedeksi)<anchor xml:id="end3425"/>, sillä kivet ja malmit kutsutaan <hi rend="expanded"><anchor xml:id="start3426"/>mineraaleiksi</hi> (kivennäisiksi)<anchor xml:id="end3426"/>. Sen lähteen tyköä löyti isä
+					kivettyneen puupalaisen. Sillä muutamat kuolleet kasvit ja eläinten
+					luurangot, jotka ovat kauvan maanneet maassa, kastuvat läpi
+					mineraali-vedestä (kivennäis-vedestä). Ja niin kovenevat ne viimein kuin
+					kivettyneet kappaleet vuorissa.</p>
+				<p style="blackletter">Isä sanoi: nyt olemme nähneet jotakuta kaikista kolmesta luonto-kunnista.
+					Ihmeellisesti ja viisaasti on Jumala laittanut kaikki. Eläimille ja
+					kasveille on Jumala antanut pyöristetyn muodon, ikäänkuin siksi etteivät
+					loukkaisi toisiaan. Mutta kiville on hän antanut särmäisen muodon. Ja kumma
+					se on, että niiden särmät tulevat niin säännöllisiä. Jos katselet
+					keittosuoloja, näet jokaisella rakeella alusta olleen kuusi sileää sivua,
+					juurikuin kuutiolla. Jos kaadat kuumaa vettä vähäisen salpetteriko’on päälle
+					ja annat veden sitte jäähtyä, niin näet, kuinka salpetteri jälleen hyytyy
+					vedestä kuusikulmaisiksi neuloiksi. Sellaisia hyytyneitä neuloja ja
+					kipeneitä kutsutaan <hi rend="expanded"><anchor xml:id="start3427"/>rakeiksi,</hi> (kristalleiksi)<anchor xml:id="end3427"/>, ja
+					ne ovat aina samallaisia samassa aineessa.</p>
+				<p style="blackletter">Kivikuntaa löytyy jokapaikassa; koko tämä suuri maa on yhdistyksessä. Ja niin
+					on Jumala jokapaikassa, ja jokapaikassa näkee ihminen hänen äärettömän
+					kaikkivaltansa jälkiä.</p>
+				<pb type="orig" n="119"/>
+					<head style="blackletter"><hi rend="bold">Kullasta ja hopeasta.</hi></head>
+					<p style="blackletter">Kulta, jota ihmiset niin paljon haluavat, tulee tänne Venäjältä ja
+						Amerikasta. Välistä löydetään sitä puhtaana. Brasiliassa löydettiin
+						kerran kultakappale, joka painoi 128 (sata kahdeksankolmatta) leiviskää.
+						<anchor xml:id="start3428"/>Virrat<anchor xml:id="end3428"/> ja <anchor xml:id="start3429"/>ojat<anchor xml:id="end3429"/> tuovat muassaan kultaa vuorista. Silloin painuu se raskas
+						kulta virtain pohjalle. Sieltä otetaan hieta ja huuhdotaan astiassa; ja
+						koska kulta on raskainta, laskeupi se ennenkuin hieta pohjalle. Sitte
+						sulataan kulta-herneet kappaleihin. <anchor xml:id="start3430"/>Suomessa on etsitty kultaa Kemissä ja
+						Kuusamossa; mutta sitä on löytynyt niin vähältä, ettei saalis ole
+						maksanut työvaivaa.<anchor xml:id="end3430"/> Muutamia vuosia jälkeenpäin leveni huhu, Kalifornian
+						maassa löytyvän suunnattoman paljo kulta-hietaa. <anchor xml:id="start3431"/>Sinne matkusti monia
+						tuhansia ihmisiä kaikista mailman paikoista, äkkiä rikastuaksensa.<anchor xml:id="end3431"/> Ja
+						paha voitonhimo oli niin villinnyt niitä, että moni mies lähti pois
+						vaimonsa tyköä, ja vanhemmat lastensa tyköä, ja lapset vanhempainsa
+						luota. Ja ne myivät kaikki mitä heillä oli kotona ja jättivät
+						toimituksensa, päästäkseen kultaa kaivamaan. Mutta kun tulivat
+						Kaliforniaan, olivat siellä kaikki elämän tarpeet kauhean kalleita.
+						Monta kuoli nälkään. Toiset tekivät yötä ja päivää kovasti työtä vedessä
+						ja rapakossa, josta hakivat kulta-hietaa. Moni menetti kultansa ja
+						henkensä ryövärein käsissä. Niin tulivat jotkut harvat rikkaiksi: mutta
+						monta menetti henkensä viheljäisyydessä ja köyhyydessä. Ja ne, jotka
+						pahoilla mielin palasivat takasi kotiinsa, huokailivat surulla, kun
+						pahalla ahneudella on niin usein valtaa syntisen ihmisen sydämessä.</p>
+				
+				<pb type="orig" n="120"/>
+					<head style="blackletter"><hi rend="bold">Kaivannoista.</hi></head>
+					<p style="blackletter">Kun laskeupi alas syviin kaivantoihin ja näkee kaivantoväen liikkuvan
+						tulisoittoineen, tuleepa ajattelemaan satuissa mainittavia
+						lintukotolaisia, jotka takoivat kultaansa maan sisuksissa. Välistä
+						laskeutaan niihin alas tikapuita myöten; mutta syvimpiin kaivantoihin
+						vivutaan ihmisiä korissa. Fahlun kuparikaivanto ja Dannemoran
+						rautakaivanto ovat kaksi niin syvää kaivosta Ruotsissa, että saisi panna
+						neljä kirkontornia päälletysten seisomaan, ja tuskinpa ne sittekään
+						ylettyisivät kaivannon pohjasta ylimmäiseen maapintaan. Useat kaivannot
+						menevät alemmaksi meren pohjaa. Täällä Suomessa ei ole niin syviä
+						kaivannoita; mutta <anchor xml:id="start3432"/>Orijärven kupari-kaivanto<anchor xml:id="end3432"/> saatetaan verrata olevan
+						kahta kirkontornia syvän. Ja kaivannoissa hakataan metallein malmia
+						pitkistä solista, joita kutsutaan <hi rend="expanded">kaivoskuopiksi.</hi> Mutta on suola-kaivannoitakin. Pienen
+						kaupungin tienoilla, jonka nimi on <anchor xml:id="start3433"/>Vielizka<anchor xml:id="end3433"/>, <anchor xml:id="start3434"/>Galizian maassa<anchor xml:id="end3434"/>, on niin
+						avaroita suolakaivannoita syvässä maan sisässä, että ne ovat kuin suuri
+						kaupunki katuineen ja torineen. Ja sellaisia toreja on siellä
+						kolmikerrassa päälletysten. Siellä hakataan vuorisuoloja seinistä, ja
+						aivan kaunista on se katsoa, kuinka miljonittain suolan rakeita yleensä
+						kimaltelee valkean valossa, jos mihin katsoisi. Ihmiset ja eläimet
+						menettävät siellä kyllä usein henkensä, kun katto pudota rysyää niiden
+						päälle. Ja sitte käypi niinkin, että vasta monien vuotten perästä
+						löydetään niiden ruumiit muuttumattomina. Sillä suola on tunkeunut
+						niiden läpitse ja varjellut niitä mätänemästä.</p>
+					<head style="blackletter"><hi rend="bold">Kivettymisistä.</hi></head>
+					<p style="blackletter">Usein polemma me, kävellessämme maalla, jäänöksiä muinais-ajan kasvuista
+						ja elävistä. Niitä <pb type="orig" n="121"/>löytyy suuria vuoria, jotka ovat
+						<anchor xml:id="start3435"/>simpukkain<anchor xml:id="end3435"/> kuorista; koko se suuri Berlinin kaupunki on rakennettu
+						maalle, joka on <anchor xml:id="start3436"/>liko-eläväin (infusion-eläväin)<anchor xml:id="end3436"/> jäänöksistä. Muutamissa
+						kylmissä maissa on kaivettu maasta <anchor xml:id="start3437"/>elehvanttein<anchor xml:id="end3437"/> ja muiden eläinten
+						luita, joita eläimiä on vieläkin kuumissa maissa. Onpa nähty jäänöksiä
+						sellaisista muinaisajan eläinpuvuista, joita ei enää olekkaan maan
+						päällä. Välistä ovat nämä luut kivettyneinä. Kuitenkin käypi se useimmin
+						niin kasvein kanssa. Englannissa ja muissa maissa on useampain <anchor xml:id="start3438"/>syltäin<anchor xml:id="end3438"/>
+						syvyydestä maassa löydetty suuria metsiä, jotka ovat olleet varsin
+						mustat ja kovat. Sellaisista muinoin hiiltyneistä ja sittemmin
+						kivettyneistä metsistä on kivihiili tullut maan sisässä. Onpa löydetty
+						kivettyneitä jyvätähkiäkin. Maan sisästä on kaivettu vanhoja puita,
+						jotka ovat olleet rautamalmiksi muuttuneita. Muutamissa mineraalis
+						(kivennäis) lähteissä nähdään aivan pian sellainen muutos. Jos tänä
+						päivänä panen kukkaisen sellaiseen lähteesen ja otan sen huomena siitä
+						ylös, näenpä kummallista. Kukkaan ja lehtiin yleensä on tullut kova
+						kuori, joka on kokounut vedestä, ja koko kukka näyttää kuin olisi
+						leikattu ruskeasta kivestä.</p>
+					<head style="blackletter"><hi rend="bold">Kaikellaisista aineista.</hi></head>
+					<p style="blackletter">Kauvan sitte tuli eräs laiva haaksirikkoon <anchor xml:id="start3439"/>luotoja<anchor xml:id="end3439"/> vastaan meressä, ja
+						töin tuskin pelastivat merimiehet itsensä veneillä märkinä ja
+						kontettuneina tekivät he rannalle ison valkean kuivatakseen ja
+						lämmittääkseen itsiään. He mielivät keittää ruokaakin ja panivat
+						natroni-suolatönkkejä padan alle. Kun <anchor xml:id="start3440"/>natronisuola<anchor xml:id="end3440"/> kovassa kuumuudessa
+						suli hiedan kanssa yhteen, näkivät merimiehet ihmetellen, että siitä oli
+						tullut <hi rend="expanded">lasia.</hi> Siitä ajasta on alettu pitää
+							lasiruu<pb type="orig" n="122"/>tuja akkunoissa. Viheriäiseen lasiin kelpaa
+						takkatuhkakin, mutta valkiaan lasiin tarvitaan joko <anchor xml:id="start3441"/>natronia<anchor xml:id="end3441"/> tahi
+						potaskaa ja <anchor xml:id="start3442"/>ruskeaa kiveä<anchor xml:id="end3442"/>. Lasia värjätäänkin ja lasketaan
+						sileä-kulmaiseksi. Kauniilta se kyllä näyttää, kun lasinpuhaltaja puhuu
+						ilmaa sulaneesen lasi-aineesen ja siitä valmistaa putelleja ja
+						lasipalleja.</p>
+					<p style="blackletter"><anchor xml:id="start3443"/>Fahlunin suuresta kupari-kaivannosta<anchor xml:id="end3443"/> Ruotsissa on vanha tarina. Muuan
+						suomalainen paimen havaitsi kilinsä kylen olevan punaisena. Paimenella
+						teki mieli tietää, mistä tämä oli tullut ja huomaitsi pian, että kili
+						oli maannut sillä paikalla, jossa kuparia löytyi vuoressa. Näin
+						löydettiin Pohjolan rikkain kupari-kaivanto. Kupariseppä ei kuumenna
+						kuparia, niinkuin rautaseppä tekee raudalle, vaan takoo sitä kylmänä.
+						Kun hän tahtoo liittää kahta kupari-kappaletta yhteen, ei hän saa niitä
+						kiini takomalla, vaan hän yhdistää ne messingillä. Se on <hi rend="expanded"><anchor xml:id="start3444"/>juotta<anchor xml:id="end3444"/>a</hi> metallia.</p>
+					<p style="blackletter">Kun vissejä <anchor xml:id="start3445"/>hartseja<anchor xml:id="end3445"/> eli pihkoja sulataan öljyssä, jota kutsutaan
+						tärpätiksi, saadaan siitä <hi rend="expanded"><anchor xml:id="start3446"/>vernissaa</hi>
+						(kiilto-öljyä)<anchor xml:id="end3446"/>, jolla monellaisia teoksia <hi rend="expanded">lakeerataan</hi> (kiilloitetaan). Liimaa valmistetaan nahasta,
+						sarvista eli luista, kuin niitä keitetään vedessä. <anchor xml:id="start3447"/>Pläkkiä<anchor xml:id="end3447"/>, jolla
+						kirjoitetaan, tehdään pienistä <anchor xml:id="start3448"/>tammen kävyistä<anchor xml:id="end3448"/> ja <anchor xml:id="start3449"/>rautavihtrillistä<anchor xml:id="end3449"/>. <hi rend="expanded"><anchor xml:id="start3450"/>Tärkki<anchor xml:id="end3450"/></hi> on hienoa jauhoa, jota on monellaisissa
+						juurissa ja siemenissä. Leipä-taikinan annetaan <hi rend="expanded">kohota</hi> eli <hi rend="expanded">nousta,</hi> että leipä tulisi
+						mureaa. Mutta kun imelänlainen neste on käynyt, ei sillä ole enää imelän
+						makua, vaan se on väkevää. Siinä on <hi rend="expanded">väkiviinaa</hi>
+						(spiritus-viinaa). Nyt on monellaisissa kasvuissa makean- eli
+						sokeri-ainetta. Siksi saatetaan tehdä viiniä ei ainoastaan viina-puun
+						<anchor xml:id="start3451"/>rypäleistä<anchor xml:id="end3451"/>, vaan <anchor xml:id="start3452"/>pihlajan<anchor xml:id="end3452"/> ja <anchor xml:id="start3453"/>tuomen<anchor xml:id="end3453"/> marjoistakin. Paloviinaa poltetaan
+						elosta eli <pb type="orig" n="123"/>imelletyistä <anchor xml:id="start3454"/>potaateista<anchor xml:id="end3454"/>, joita pannaan mäskiksi
+						ja käytetään. Sitte kulkee paloviina höyrynä <choice><orig>jähdytys astian</orig><reg>jähdytysastian</reg></choice> läpi, ja
+						rankki jääpi jälelle. Mutta se on ilkeä taitoteos, sillä ei koskaan ole
+						mikään taito tehnyt niin paljo pahaa mailmassa. Ennemmin panemme <hi rend="expanded">olutta</hi> ja <hi rend="expanded">sahtia</hi>
+						maltaista, jotka ensin keitetään vierteeksi, ja se sitte käytetään. <hi rend="expanded">Simaa</hi> (mesijuomaa) valmistetaan hunajasta ja
+						vedestä kryytein kanssa.</p>
+					<head style="romanType"><hi rend="bold"><anchor xml:id="start3455"/>Orijärven kuparikaivanto.<anchor xml:id="end3455"/></hi></head>
+					<lg>
+						<l style="romanType"><hi rend="italics">Minä kuulin ukkosen <anchor xml:id="start3456"/>panevan maassa<anchor xml:id="end3456"/></hi></l>
+						<l style="romanType"><hi rend="italics">Ja tunsin sen tärinän allani,</hi></l>
+						<l style="romanType"><hi rend="italics">Ja nä’in syvyyden auki e’essäni;</hi></l>
+						<l style="romanType"><hi rend="italics">Pelosta huusin: näenkö pohjolassa</hi></l>
+						<l style="romanType"><hi rend="italics">Mit’oon <choice><orig>etelä</orig><reg>etelän</reg></choice> maista kuullunna,</hi></l>
+						<l style="romanType"><hi rend="italics">Kun kaupungit syvyys on niellynnä?</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Ei, ahkeruus ja taitokin ne saavat</hi></l>
+						<l style="romanType"><hi rend="italics">Tulen, veden, kuin luonto, murtamaan</hi></l>
+						<l style="romanType"><hi rend="italics">Kivet ja kallioita aukomaan</hi></l>
+						<l style="romanType"><hi rend="italics">Ja maan sisästä malmia ajaavat,</hi></l>
+						<l style="romanType"><hi rend="italics">Kaluksi kallihiksi karttumaan,</hi></l>
+						<l style="romanType"><hi rend="italics">Ja Peerun kullan kanssa vaihtumaan.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Teollisuus — sai kauppa siivet sulta —</hi></l>
+						<l style="romanType"><hi rend="italics">Neron kans kilvottelet kaunisna</hi></l>
+						<l style="romanType"><hi rend="italics">Yh’istämään mailman paikkoja.</hi></l>
+						<l style="romanType"><hi rend="italics">Niin Suomen mieski, unhotettu muilta,</hi></l>
+						<l style="romanType"><hi rend="italics">Mailman kauppahan viet viimein työs’,</hi></l>
+						<l style="romanType"><hi rend="italics">Kun valmistit, ja uudet miettimäsi myös.</hi></l>
+					</lg> 
+				<pb type="orig" n="124"/>
+					<head style="romanType"><hi rend="bold"><anchor xml:id="start3457"/>Timantti.<anchor xml:id="end3457"/></hi></head>
+					<lg>
+						<l style="romanType"><hi rend="italics">Arabiassa kaukana</hi></l>
+						<l style="romanType"><hi rend="italics">Asui se Amru vanha.</hi></l>
+						<l style="romanType"><hi rend="italics">Hän, kyll’elellen köyhänä,</hi></l>
+						<l style="romanType"><hi rend="italics">Ei Herran unhottanna.</hi></l>
+						<l style="romanType"><hi rend="italics">Jos puute kulki vierasna</hi></l>
+						<l style="romanType"><hi rend="italics">Piti hän kerran turvana.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Hän kerran virran aallosta</hi></l>
+						<l style="romanType"><hi rend="italics">Kiven käsitti kirkkaan;</hi></l>
+						<l style="romanType"><hi rend="italics">Kuin kaste-helmi ruohosta,</hi></l>
+						<l style="romanType"><hi rend="italics">Valon se antoi rikkaan.</hi></l>
+						<l style="romanType"><hi rend="italics">Kiven hän otti lystikseen,</hi></l>
+						<l style="romanType"><hi rend="italics">Sen lapset saivat leikukseen.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Oli se kauvan kummana,</hi></l>
+						<l style="romanType"><hi rend="italics">Mut viimein jäi se loukkoon;</hi></l>
+						<l style="romanType"><hi rend="italics">Vaan kun valaisi loukkoa,</hi></l>
+						<l style="romanType"><hi rend="italics">Kohotti hän sen kattoon.</hi></l>
+						<l style="romanType"><hi rend="italics">Nyt, kun ei ollut kynttilää,</hi></l>
+						<l style="romanType"><hi rend="italics">Se loisti sieltä lyhtynä.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Niin kauppias tul’ illalla,</hi></l>
+						<l style="romanType"><hi rend="italics">Kiven oli <anchor xml:id="start3458"/>havainna<anchor xml:id="end3458"/>;</hi></l>
+						<l style="romanType"><hi rend="italics">”Myy tuo, sovimme hinnalla,</hi></l>
+						<l style="romanType"><hi rend="italics">Jos et sit’ ilman anna!”</hi></l>
+						<l style="romanType"><hi rend="italics">”Noh, saat,” sanoi nyt Amrukin.</hi></l>
+						<l style="romanType"><hi rend="italics">Kivestä sai hän rinkelin.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Kiven se otti, lähti pois</hi></l>
+						<l style="romanType"><hi rend="italics">Ja kulki kaupunkihin,</hi></l>
+						<l style="romanType"><hi rend="italics">Ja kauppasi, joku jos vois’</hi></l>
+						<l style="romanType"><hi rend="italics">Sen hinnan maksaa kalliin;</hi></l>
+						<pb type="orig" n="125"/>
+						<l style="romanType"><hi rend="italics">Eip’ ollut niin rikastakaan</hi></l>
+						<l style="romanType"><hi rend="italics">Kiveä Amrun ostamaan.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Sileeks’ oli jo siistitty</hi></l>
+						<l style="romanType"><hi rend="italics">Kiven jokainen kantti;</hi></l>
+						<l style="romanType"><hi rend="italics">Nyt nähtiin, ett’ on löydetty</hi></l>
+						<l style="romanType"><hi rend="italics">Paras isoin timantti.</hi></l>
+						<l style="romanType"><hi rend="italics">Se miljonilla maksettiin</hi></l>
+						<l style="romanType"><hi rend="italics">Kuninkaan kruunuun ostettiin.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Sai juhlan maa nyt köyhilleen</hi></l>
+						<l style="romanType"><hi rend="italics">Kruunulle kunniaksi,</hi></l>
+						<l style="romanType"><hi rend="italics">Ja Amrukin nyt lapsineen</hi></l>
+						<l style="romanType"><hi rend="italics">Sai sinne vierahaksi;</hi></l>
+						<l style="romanType"><hi rend="italics">”Kah”, <anchor xml:id="start3459"/>huusit<anchor xml:id="end3459"/> lapset, ”katsomme,</hi></l>
+						<l style="romanType"><hi rend="italics">Kuninkaan pääss’ on lyhtymme!”</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Kuningas kuuli sen ja hän</hi></l>
+						<l style="romanType"><hi rend="italics">Nyt kutsui kauppamiehen,</hi></l>
+						<l style="romanType"><hi rend="italics">Ja niin asian tiettyään</hi></l>
+						<l style="romanType"><hi rend="italics">Hän käskyn antoi siihen:</hi></l>
+						<l style="romanType"><hi rend="italics">”Rahat saat, Amru, itse siis</hi></l>
+						<l style="romanType"><hi rend="italics">Ja, kauppias, saat — rinkelis!”</hi></l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

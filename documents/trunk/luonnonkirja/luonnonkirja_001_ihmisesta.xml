@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='UTF-8'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Ensimmäinen Luku. Ihmisestä</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head style="blackletter"><hi rend="bold"><hi rend="expanded"><choice><orig>Lnonnon-kirja</orig><reg>Luonnon-kirja</reg></choice></hi>.</hi></head>
+				<head type="section" style="blackletter"><hi rend="bold">Ensimäinen Luku.</hi></head> 
+				<head type="section" style="blackletter"><hi rend="bold expanded">Ihmisestä.</hi></head>
+				<p rend="noIndent" style="blackletter"><hi rend="bold">J</hi>umala on suuri. Jumala on hyvä. Hän on
+					luonut taivaan. Hän on luonut maan. Hän on luonut sinun. Kiitä Jumalata.
+					Pelkää Jumalata. Rakasta Jumalata. Tottele hänen käskyjänsä. Jumala olkoon
+					kiitetty.</p>
+				<p style="blackletter">Me olemme Jumalan lapset. Me katselemme hänen tekojansa. Me ihmettelemme
+					hänen viisauttansa. Me rukoilemme hänen suuruuttansa. Me ylistämme hänen
+					hyvyyttänsä. Jumala antakoon meille oikean nöyryyden. <anchor xml:id="start2513"/>Jumalan pelko on
+					viisauden alku.<anchor xml:id="end2513"/></p>
+				<p style="blackletter">Tämä kirja sisältää Jumalan töitä. Tämä kirja on lasten kirja. Lue tätä. Lue
+					kovasti. Lue hyvästi. <anchor xml:id="start2514"/>Pidä tarkka vaari<anchor xml:id="end2514"/>. Ajattele tarkasti. <anchor xml:id="start2515"/>Seiso suorana<anchor xml:id="end2515"/>.
+					Sano sanat selvästi. Rohkaise mielesi. Ahkera palkitaan. Lukemisen perästä
+					tulevat leikit. <anchor xml:id="start2516"/>Hupaisesti<anchor xml:id="end2516"/> saat sitte juoksennella.</p>
+				<p style="blackletter">Alottakaamme siis. Kuunteleppa nyt. Isä ei ole kotona. Missä on isä? Hän
+					tekee työtä lastensa eduksi. Hän tekee työtä isänmaansa hyödyksi. Hän tekee
+					työtä Jumalan kunniaksi. Työttä emme saa leipää. Leivättä ei voi kukaan
+					elää. Kiitok<pb type="orig" n="4"/>sia isä. Kiitos hyvä Jumala jokapäiväisestä
+					leivästä.</p>
+				<p style="blackletter">Äiti istuu tuvassa. Mitä tekee äiti? Hän tekee työtä lastensa eteen. Hän
+					ompelee vaatteemme. Hän keittää ruokamme. Vaatteitta palellumme. Ruuatta
+					näännymme nälkään. Kiitoksia äiti. Kiitos hyvä Jumala ruumiimme
+					vaatteista.</p>
+				<p style="blackletter">Kyllä vanhempamme ovat hyvät meille. He rukoilevat Jumalata kanssamme. He
+					opettavat meitä hyviksi lapsiksi. Rukouksetta ei ole siunausta. Hyvyydettä
+					ei ole oikeaa iloa. Mielellämme siis tottelemme vanhempiamme. Pidämme siis
+					heitä kaiken ikämme sydämellisesti rakkaina.</p>
+				<p style="blackletter">Liisa on sisareni. Hän on aivan pieni. Hän ei kävele. Hän konttaa. Hän ei
+					puhu. Hän <anchor xml:id="start2517"/>loruaa<anchor xml:id="end2517"/>. Nauraa hän osaa. Haukotella hän osaa. Aivastella hän osaa.
+					Ei se ole suuri oppi. Pieni lapsi ei osaa enempätä. Suuretkin ovat ennen
+					olleet yhtä pieniä. Väkevätkin ovat kerran olleet yhtä heikkoja. Oppineetkin
+					ovat kerran olleet yhtä tietämättömiä. Kyllähän ruumiimme kasvaa. Suokoon
+					Jumala sielummekin kasvaa. Jumala siunatkoon Liisaa. Kyllä hän on hyvä.</p>
+				<p style="blackletter">Antti on veljeni. Hän on neljän (4) vuoden vanha. Hän ratsastaa laukkaa
+					isolla puuhevosella. Antti osaa juosta. Antti osaa leikitellä. Ei se ole
+					suuri oppi. Ajan pitkään oppii hän kyllä enemmän. Sitte tulee hän
+					ymmärtäväisemmäksi. Sitte tulee hän vakavammaksi kaikissa. Jumala siunatkoon
+					Anttia. Kyllä hän on hyvä.</p>
+				<p style="blackletter">Iso-isä istuu pöydän takana. Hän on hyvin vanha. Hän on harmaissaan. Hänellä
+					ovat rynkkyiset kädet. Ei hänellä ole hampaitakaan. Mutta vallan hyvä hän
+					on. Hän on elänyt jo hyvin kauvan. Hän on nähnyt hyvin paljon. Hän on <pb type="orig" n="5"/>viisas mies. Jumalinen on hän kyllä. Hän osaa kertoa Jumalan
+					voimaa. Hän tuntee ihmiset. Hän tietää <anchor xml:id="start2518"/>eläinten<anchor xml:id="end2518"/> historian. <anchor xml:id="start2519"/>Kasvit<anchor xml:id="end2519"/> tietää hän
+					kaikki. Hän tahtoo kertoa meille kaikkia. Kiitoksia iso-isä. Jumala
+					siunatkoon vanhoja niiden viisaassa vanhuudessa.</p>
+				<p style="blackletter">Nyt istumme kaikki rinkiin. Pidä vaari. Nyt alkaa ensimäinen kertomus. Mitä
+					siinä on? Siinä puhutaan ihmisen ruumiista. Siinä puhutaan sen sielusta.
+					Siinä puhutaan sen aistimista.</p>
+
+					<head style="blackletter"><hi rend="bold"><anchor xml:id="start2520"/>Kuinka <anchor xml:id="start2521"/>Taivo<anchor xml:id="end2521"/> yritti luomaan ihmistä.<anchor xml:id="end2520"/></hi></head>
+					<p style="blackletter">Olipa kerran mies. Sen nimi oli Taivo. Hän asui yksinäisellä <anchor xml:id="start2522"/>saarella<anchor xml:id="end2522"/>.
+						Hänen päivänsä tulivat pitkiksi. Hänellä oli ikävä. Hän puhui itsekseen.
+						Minä teen itselleni kumppanin. Minä luon ihmisen.</p>
+					<p style="blackletter">Tuolla <anchor xml:id="start2523"/>rannalla<anchor xml:id="end2523"/> oli savea. Taivo otti savea käteensä. Hän teki siitä
+						<anchor xml:id="start2524"/>tönkin<anchor xml:id="end2524"/>. Hän teki tönkin ihmisen muotoiseksi. Hän teki pään. Hän teki
+						kaulan. Hän teki rinnan. Hän teki vatsan. Hän teki käsivarret. Hän teki
+						kädet. Hän teki sääret. Hän teki jalat. Hän asetti kuvan seisomaan puuta
+						vasten. Nyt on ihminen valmisna.</p>
+					<p style="blackletter">Eipä kuva hengittänytkään. Taivo sanoi näin: Hyvä Jumala suo kuvan
+						hengittää keuhoillansa. Hyvä Jumala suo veren juosta kuvan suonissa.
+						Hyvä <choice><orig>Jnmala</orig><reg>Jumala</reg></choice> suo kuvan sydän liikkumaan.</p>
+					<p style="blackletter">Jumala lähetti saarelle enkelin. Enkeli koski kuvaan. Alkoivatpa kuvan
+						keuhot hengittää. Juoksipa veri sen suonissa. Sydän alkoi tykyttää.
+						Taivo ihastui. Nyt on kaikki hyvästi. Nyt on ihminen valmisna.</p>
+					<p style="blackletter">Eipä kuva liikkunutkaan. <anchor xml:id="start2525"/>Ampiainen<anchor xml:id="end2525"/> pisti sitä. Tätä ei se tuntenut. Taivo
+						sanoi näin. Vielä <pb type="orig" n="6"/>puuttuu jotakin. <hi rend="expanded">Liikunto</hi> on poissa. <hi rend="expanded">Tunto</hi> on poissa.
+						Kuva on hermotoin. Hermotoin on onnetoin. Ontuvan täytyy kulkea sauvan
+						nojassa. Molemmat tarvitsevat toisten apua. Hyvä Jumala suo hänen ottaa
+						kiini käsillään. Suo koko ruumiin saada vapaan liikunnon. Suo koko hänen
+						ruumiinsa saada tunnon-aistimen.</p>
+					<p style="blackletter">Enkeli koski kuvaan. Kohta taittoi kuva oksan puusta. Kohta tunsi hän
+						ampiaisen piston. Koko kuva sai liikunnon. Koko kuva sai tunnon. Se
+						hikoili lämpimässä. Sitä paleli kylmässä. Hyvin iloisena oli Taivo. Nyt
+						on kaikki hyvästi. Nyt on ihminen valmisna.</p>
+					<p style="blackletter">Kuva löi päänsä puuhun. Kuva kompistui pienintäkin kiveä vasten. Taivo
+						peljästyi. Vielä puuttuu jotakin. Kuva on sokea. Sokea on onnetoin. Se
+						elää alinomaisessa pimeydessä. Muiden täytyy sitä käsillään taluttaa.
+						Hän on vieras maan päällä. Hyvä Jumala suo kuvan nähdä silmillään.</p>
+					<p style="blackletter">Enkeli koski kuvaan. Kuvapa näki silmillään. Jumala oli antanut kuvalle
+							<hi rend="expanded">näön-aistimen.</hi> Taivo tuli hyvin iloiseksi.
+						Nyt on kaikki hyvästi. Nyt on ihminen valmisna.</p>
+					<p style="blackletter">Taivo puhutteli kuvaa. Kuva ei kuullut hänen ääntänsä. Taivo peljästyi.
+						Vieläkin puuttuu jotakin. Kuva on kuuro. Kuuro on hyvin onnetoin. Ei hän
+						kuule ystäväinsä suloisia sanoja. Ei häntä ilahuta lintuin laulu. Hän on
+						vierasna vertaistensa seassa. Hyvä Jumala suo kuvan kuulla
+						korvillaan.</p>
+					<p style="blackletter">Enkeli koski kuvaan. Kuva alkoi kuunnella. Nyt kuuli hän korvillaan.
+						Jumala oli antanut hänelle <hi rend="expanded">kuulun-aistimen.</hi>
+						Taivo tuli hyvin iloiseksi. Nyt on kaikki hyvästi. Nyt on ihminen
+						valmisna.</p>
+					<pb type="orig" n="7"/>
+					<p style="blackletter">Taivo koetteli kuvaa. Oikeaan käteensä otti hän kukoistavan ruusun.
+						Vasempaan käteensä otti hän mädänneen munan. Kumpiko näistä haisee
+						paremmalta? Kuva osotti munaa. Taivo oli mielipahoillaan. Vielä puuttuu
+						jotakin. Haju on poissa. Haju eroittaa hyvähajusen pahalta haisevasta.
+						Hyvä Jumala suo kuvan saada nenäänsä <hi rend="expanded">hajun-aistimen.</hi></p>
+					<p style="blackletter">Enkeli koski kuvaan. Kuva saattoi eroittaa kukan hajun. Taivo tuli hyvin
+						iloiseksi. Nyt on kaikki hyvästi. Nyt on ihminen valmisna.</p>
+					<p style="blackletter">Taivo koetteli vielä kuvaa. Hän otti toiseen käteensä makean omenan.
+						Toiseen käteensä otti hän karvaan sienen. Syö molemmista. Kumpiko näistä
+						maistuu paremmalta? Kuva osotti sientä. Taivo tuli pahoille mielin.
+						Vielä puuttuu jotakin. Maku on poissa. Maku eroittaa makean karvaasta.
+						Hyvä Jumala suo kuvan kieleen maku.</p>
+					<p style="blackletter">Enkeli koski kuvaan. Kuvan kieli sai <hi rend="expanded">makuaistimen.</hi> Taivo tuli hyvin iloiseksi. Nyt on kaikki
+						hyvästi. Nyt on ihminen valmisna.</p>
+					<p style="blackletter">Taivo koetteli vielä kuvaa. Hän puheli ystävällisiä sanoja. Kuvapa ei
+						vastannutkaan. Taivo peljästyi. Vielä puuttuu jotakin. Kuva on mykkä.
+						Mykkä on hyvin onnetoin. Ei hän voi sanoa tarpeitaan. Ei hän voi saada
+						ajatuksilleen ääntä. Hän on vieras ihmisten seassa. Hyvä Jumala suo
+						kuvan <hi rend="expanded">puhua</hi> suullansa.</p>
+					<p style="blackletter">Enkeli koski kuvaan. Kuvan huulet saivat äänen. Hänen kielensä sujui
+						puheesen. Hänen suunsa sai puheen lahjan. Taivo tuli hyvin iloiseksi.
+						Nyt on kaikki hyvästi. Nyt on ihminen valmisna.</p>
+					<p style="blackletter">Vieläkin koetteli Taivo kuvaa. Taivo kyseli. Kuva vastasi hulluja sanoja.
+						Taivo peljästyi. Vieläkin puuttuu jotakin. Ymmärrys on poissa. Hullu <pb type="orig" n="8"/>on hyvin onnetoin. Hullu ihminen on peto. Hyvä Jumala suo
+						kuvan ajatella. Hyvä Jumala suo kuvan tietää mitä tahtoo. Hyvä Jumala
+						suo kuvalle ymmärrys.</p>
+					<p style="blackletter">Enkeli koski kuvaan. Ajatuksia tuli kuvan aivoihin. Ymmärryksen valo
+						yhdisti ajatukset. <hi rend="expanded">Tahto</hi> toi ajatukset kuvan
+						huulille. Nyt puhui kuva viisaita sanoja. Taivo tuli hyvin iloiseksi.
+						Nyt on kaikki hyvästi. Nyt on ihminen valmisna.</p>
+					<p style="blackletter">Taivo otti kuvan syliinsä. Yksinäni olen täällä. Tarvitsen ystävätä. Ole
+						ystävänäni. Kuva kääntyi pois. Kuva naurahti. Hänen naurunsa oli niin
+						kummallista. Taivo peljästyi hyvin. Vieläkin puuttuu jotakin. <hi rend="expanded">Mieli</hi> on poissa. Tässä puuttuu <hi rend="expanded">kuvattelemisen</hi> voima. Mielettä ei ole ihmisellä
+						iloa maan päällä. Kuvattelemisetta ei hän ymmärrä vertaistensa
+						<anchor xml:id="start2526"/>mielikarvautta<anchor xml:id="end2526"/>. Hyvä Jumala suo kuvalle kuvattelemisen lahja.</p>
+					<p style="blackletter">Enkeli koski kuvaan. Kuvan sydän tykytti ihmisen mielellä.
+						Kuvattelemisella ymmärti hän toisen ystävyyden. Taivo otti kuvan
+						syliinsä. Kuva itki ilosta. Taivo oli onnellinen. Nyt ei puutu mitään.
+						Nyt on ihminen valmisna.</p>
+					<p style="blackletter">Mutta enkeli naurahti suloisesti. Taivo raukka. Sinä tahdot tehdä Jumalan
+						töitä. Sinä tahdot luoda ihmistä. Sinä sanot näin. Nyt ei puutu enää
+						mitään. Mutta parhainta puuttuu vielä. Ihmisen ylevintä lahjaa puuttuu
+						vielä. <hi rend="expanded">Järkeä</hi> puuttuu vielä. <hi rend="expanded">Omaatuntoa</hi> puuttuu. Paljo olet kyllä tehnyt.
+						Jumalan kuvaa et ole voinut tehdä. <hi rend="expanded">Kuolematointa
+							henkeä</hi> puuttuu vielä. Kuva ei voi tuntea Jumalata. Kuva ei voi
+						rukoilla Jumalata. Siksi ei sillä ole osaa ijankaikkisessa elämässä.
+						Siksi ei ole kaikesta muusta mihinkään. Siksi on kuvasi savinen
+						tönkki.</p>
+					<pb type="orig" n="9"/>
+					<p style="blackletter">Enkeli koski kuvaan. Kohta musertui kuva tomuksi. Taivo peljästyi kovin.
+						Mitä on minulla tehtävä? Olen ylpeydelläni vihoittanut elävän
+						Jumalan.</p>
+					<p style="blackletter">Enkeli näki Taivon katumisen. <anchor xml:id="start2527"/>Nöyryytä itsesi<anchor xml:id="end2527"/> Jumalan edessä. Anna
+						hänelle ainoalle kunnia. Ota sauvasi. Seuraa minua. Minä johdatan sinun
+						ihmisiin. Yksinään ei voi kukaan tulla toimeen maan päällä. Käy Jumalan
+						teitä. Te’e Jumalan tahtoa. Niin on Jumala luopa sinuun uuden
+						ihmisen.</p>
+					<p style="blackletter">Taivo lankesi polvilleen. Hyvä Jumala suo anteeksi ylpeyteni. Ihminen on
+						sinun pyhä tekos. Ainoastaan sinä voit luoda hänen. Ainoastaan sinä voit
+						tehdä hänen täydelliseksi. Mutta minä olen tomu. Minä en voi mitään
+						itsestäni. Sinun on valta. Sinun on voima. Sinun on kunnia
+						ijankaikkisesta ijankaikkiseen.</p>
+					<p style="blackletter">Nyt loppui puhe Taivosta. Nyt tulee toinen kertomus. Mistä siinä
+						puhutaan? Siinä puhutaan ihmisen opista.</p>
+			 
+					<head style="blackletter"><hi rend="bold"><anchor xml:id="start2528"/>Kasper ei saanut oppia mitään.<anchor xml:id="end2528"/></hi></head>
+					<p style="blackletter">Olipa kerran kuningas. Hän meni muutamana päivänä metsään. Siellä oli
+						muurahaispesä. Monta <anchor xml:id="start2529"/>muurahaista<anchor xml:id="end2529"/> veti korsia pesään. Niistä olivat useat
+						hyvin pieniä. Ne olivat vasta pääsneet kuorestaan. Kohta aikoivat ne
+						tehdä työtä. Kohta taisivat ne kummia asioita. Ne keräsivät itselleen
+						ruokaa. Ne rakentivat itselleen kammioita. Ne tekivät kummallisia
+						kulkureikiä muurahaispesään. Ne menettelivät juuri kuin täydellisiksi
+						oppineet.</p>
+					<p style="blackletter">Tämäpä näytti kuninkaasta kummalta. Hän ajatteli itsekseen näin.
+						Muurahainen on ainoastaan <anchor xml:id="start2530"/><pb type="orig" n="10"/>elävä<anchor xml:id="end2530"/>. Se rakentaa niin
+						kummallisia kammioita. Mutta kukaan ei ole opettanut häntä rakentamaan.
+						Ihminenhän on paljoa ylevämpi. <hi rend="expanded">Miksi ei ihminen voi
+							oppia itsestänsä?</hi></p>
+					<p style="blackletter">Kuninkaalla oli puutarha. Sen ympärillä oli korkea muuri. Siinä oli puita
+						kauniine hedelmineen. Siinä oli kirkkaita vesihetteitä. Kuninkaalla oli
+						myös paimen. Hänen kutsui kuningas tykönsä. Kartanossani on poika.
+						Kasper on hänen nimensä. Hän on hyvin pieni. Hän ei taida vielä puhua.
+						Vie Kasper puutarhaan. Sulje se sinne. Anna hänelle ruokaa. Anna hänelle
+						juomaa. Mutta tätä tulee sinun tehdä yöllä. Kasper ei saa sinua nähdä.
+						Ei koskaan saa hän nähdä ihmistä. Ei koskaan saa hän oppia mitään muilta
+						ihmisiltä. Hänen pitää opettaa itsensä.</p>
+					<p style="blackletter">Paimen teki mitä kuningas käski. Neljä vuotta kului. Sitte tuli kuningas
+						puutarhaan. Elääkö Kasper vielä? Elää herra kuningas. Mitä on hän
+						oppinut? Hän ei ole oppinut mitään. Tämä näytti kuninkaasta hyvin
+						kummalta.</p>
+					<p style="blackletter">Taas kului neljä vuotta. Kuningas tuli puutarhaan. Elääkö Kasper vielä?
+						Elää herra kuningas. Mitä on hän oppinut? Hän on oppinut kaksi sanaa.
+						Muutamana päivänä juoksi lampaita puutarhan muurin takana. Niiden
+						jälessä juoksi koira. Kasper matki lammasten määkymistä. Kasper matki
+						koiran haukkumista. Siitä asti taitaa hän puhua kaksi sanaa. Yksi on
+						mää. Toinen on hau. Tätä kummeksi kuningas hyvin.</p>
+					<p style="blackletter">Vielä kului neljä vuotta. Kuningas tuli puutarhaan. Elääkö Kasper vielä?
+						Elää herra kuningas. Mitä on hän oppinut? Hän lirittää kuin lintu. Hän
+						kurnuttaa kuin sammakko. Hän kiipeää <pb type="orig" n="11"/>kuin orava. Hän laukkaa
+						kuin jänis. Enempätä ei ole hän oppinut. Kuningasta kummastutti.</p>
+					<p style="blackletter">Viimein kului vielä neljä vuotta. Kuningas tuli puutarhaan. Elääkö Kasper
+						vielä? Elää herra kuningas. Mitä on hän oppinut. Hän on kasvanut isoksi.
+						Hän on seitsemäntoista (17) vuotias. Hän on väkevä kuin karhu. Hän on
+						viekas kuin kettu. Hän on sukkela kuin kissa. Hän on ahnas kuin koira.
+						Hän on siivotoin kuin eläin. Hän syöpi veristä lihaa. Hän kulkee
+						vaatteitta. Hän ei tunne tulen pitoa. Hän ei tunne <anchor xml:id="start2531"/>metallien<anchor xml:id="end2531"/> hyötyä. Hän
+						ei tunne ihmisten tapoja. Hän on eläin.</p>
+					<p style="blackletter">Kuningas tahtoi nähdä oppimatointa ihmistä. Kuningas meni puutarhaan.
+						Kasper peljästyi. Kuningas puhui laupeoita sanoja. Kasper piilottui
+						puiden taakse. Kuningas meni likemmä. Kasper pakeni. Hän kiipesi muurin
+						ylitse. Hän juoksi metsään. Kuningas haetti häntä. Palvelijat etsivät
+						läpi koko metsän. Viimein löysivät he Kasperin puusta. Hän torjui
+						vastaan. Hän puri kuin susi. Hän kynsi kuin kissa. Hän karjui kuin
+						leijona. Viimein saatiin hän sidotuksi. Palvelijat veivät hänen
+						kuninkaan tykö. Taas puhui kuningas laupeoita sanoja. Hän tarjosi
+						Kasperille vaatteita. Hän tarjosi hänelle ruokaa. Kasper ei ymmärtänyt
+						mitään. Hän konttasi kuninkaan sängyn alle. Hän puri kuninkaan kättä.
+						Kasper oli peto.</p>
+					<p style="blackletter">Sitte armahti se hyvä kuningas. Hän sanoi näin. Nyt näen Jumalan
+						tarkoituksen. Eläintä ei tarvitse opettaa. Se tekee itsestään mitä sillä
+						on tehtävänä. Se on alusta miksi Jumala sen aikoi. Sellaisena pysyy se
+						koko elinaikansa. Eläin ei voi tulla täydellisemmäksi. Ihmisen pitää
+						tulla alinomaa paremmaksi. Siksi pitää hänen alinomaa oppia.
+						Oppimatoinna on hän eläin.</p>
+					<pb type="orig" n="12"/>
+					<p style="blackletter">Kuningas antoi Kasperin asua ihmisten seassa. Kasper oli kuin pieni
+						lapsi. Hän opetteli puhumaan. Hän opetteli ihmisten tapoja. Hän opetteli
+						hyödyllisiä oppia. Näin tuli hän ihmiseksi. Näin tuli hänestä hyvä
+						mies.</p>
+					<p style="blackletter">Pieni lapsi on kuin siemen. Jumala kylvää sen. Ihminen kastelee sitä.
+						Hoidotta <choice><orig>laskastuu</orig><reg>lakastuu</reg></choice> se. Siksi tulee pientä lasta opettaa. Tulee siis
+						ajatella näin. Se on Jumalan siemen. Minä kastelen sitä siementä. Näin
+						tulee siitä Jumalan kukka. Näin tulee siitä hyvä ihminen.</p>
+					<p style="blackletter">Sillä ihminen on Jumalan lapsi. Elämä maan päällä on hänen koulunsa.
+						Omatunto on hänellä vitsana. Ijankaikkinen elämä on hänellä päämääränä.
+						Viisaus on hänen kaunistuksensa. Jumalan pelko on viisauden alku.</p>
+					<p style="blackletter">Nyt loppui puhe Kasperista. Nyt tulee kolmas kertomus.</p>
+			   
+					<head style="blackletter"><hi rend="bold">Kuninkaan matkasta.</hi></head>
+					<p style="blackletter">Kuningas oli viisas mies. Hän tahtoi tuta ihmisiä. Hän tahtoi nähdä
+						niissä Jumalan tekoja. Siksi pukeusi hän alhaisiin vaatteisiin. Käteensä
+						otti hän sauvansa. Selkäänsä otti hän laukkunsa. Näin meni hän ulos
+						laveaan mailmaan.</p>
+					<p style="blackletter">Kuningas näki monta maata. Pian kaikissa maissa asui ihmisiä. Yksi maa ei
+						ollut toisen lainen. Yksi ihminen ei ollut toisensa kaltainen. Mutta
+						kaikilla oli ihmisten ruumis. Kaikilla oli ihmisten sielu. Ihmiset
+						samassa maassa kutsuttiin maan <hi rend="expanded">kansaksi.</hi> Yksi
+						kansa oli toistaan erilainen. Muutamat maat olivat hyvin kuumia. Niissä
+						olivat ihmiset mustia. Muut maat olivat vähemmin kuumia. Niissä olivat
+						ihmiset ruskeita. Muutamissa <pb type="orig" n="13"/>maissa olivat ne kuparin
+						punaisia. Toisissa maissa oli heidän ruumiinsa keltainen. Kylmemmissä
+						maissa olivat ihmiset valkeita. <anchor xml:id="start2532"/>Mutta kuningas oli lukenut raamattua.<anchor xml:id="end2532"/>
+						Hän tunsi <anchor xml:id="start2533"/>Aadamin<anchor xml:id="end2533"/> historian. Hän tiesi <anchor xml:id="start2534"/>Eevastakin<anchor xml:id="end2534"/>. Näistä ovat kaikki
+						ihmiset sukuisin. Siksi kaikki ihmiset ovat veljeksiä. Moni ei ajattele
+						sitä. Moni valkea ihminen pitää mustia huonompina. Valkeat ostavat
+						mustia rahalla. Ne pitävät niitä orjinaan. Tämän näki kuningas hyvin
+						vääräksi. Sillä kaikki ihmiset ovat yhdellaisia Jumalan edessä.</p>
+					<p style="blackletter">Kuningas näki vielä enemmän. Hän näki ihmisten ruuan. Siinä on ihminen
+						suurin kaikista pedoista. Hän tappaa monta eläintä. Sitte syöpi hän
+						niiden lihaa keitettynä. <anchor xml:id="start2535"/>Metsä-ihmiset<anchor xml:id="end2535"/> syövät veristä lihaa.
+						Raivokkaimmat syövät ihmisenkin lihaa. Tämän näki kuningas ilkeäksi.
+						Eläinten maito on terveellistä ruokaa. Ihminen syöpi monia kasvejakin.
+						Puiden hedelmät ovat monella ruokana. Jyvistä tulee ihmiselle ruokaa.
+						Hän valmistaa tulella ruokansa. Tätä eivät tee koskaan eläimet. Monta
+						ihmistä laittaa <anchor xml:id="start2536"/>konstillista<anchor xml:id="end2536"/> ruokaa. Siitä ei voi kukaan hyvin.</p>
+					<p style="blackletter">Kuningas näki vieläkin enemmän. Hän näki ihmisten <hi rend="expanded">pituuden.</hi> Sadut kertovat pitkistä jättiläisistä. Sellaisia ei
+						ole enää. Ihmisen tavallinen pituus on kolme kyynärää. Muutamat ovat
+						pitemmät. <anchor xml:id="start2537"/>Sata (100) vuotta takaperin eli mies Paltamon pitäjäässä. Hän
+						oli neljää kyynärätä pitkä. Siksi näyteltiin häntä rahan edestä.<anchor xml:id="end2537"/> Monet
+						ihmiset ovat kolmea kyynärää lyhyempiä. Muutamat ovat hyvin pieniä.
+						Sellaisia kutsutaan lintukotolaisiksi. <anchor xml:id="start2538"/>Sata vuotta jälkeenpäin eli
+						Puolassa mies. Hän oli kolmenkymmenen (30) vuoden vanha. Kuitenkaan ei
+						hän ollut täyttä kyynärätä pitkä. Siksi <pb type="orig" n="14"/>häntäkin näyteltiin
+						rahan edestä.<anchor xml:id="end2538"/> Sellaiset ihmiset ovat onnettomia. Ei ihmistä pidä kummana
+						katsella kuin outoa eläintä.</p>
+					<p style="blackletter">Kuningas näki vieläkin enemmän. Hän näki ihmisten <hi rend="expanded">elinajan.</hi> <anchor xml:id="start2539"/>Korppi<anchor xml:id="end2539"/> elää sata vuotta. <anchor xml:id="start2540"/>Elehvantti<anchor xml:id="end2540"/> voipi tulla
+						sadanviidenkymmenen (150) vuoden vanhaksi. Hauki voipi elää kolmesataa
+						(300) vuotta. <anchor xml:id="start2541"/>Valaskalan<anchor xml:id="end2541"/> sanotaan elävän tuhannen (1,000) vuotta. Moni
+						puu tulee sadan vuoden vanhaksi. Monien puiden ikä lasketaan aina
+						useiksi tuhansiksi vuosiksi. Vedenpaisumusta ennen elivät ihmisetkin
+						paljoa kauemmin. <anchor xml:id="start2542"/>Aadami eli yhdeksänsadan kolmenkymmenen (930) vuoden
+						vanhaksi. <anchor xml:id="start2543"/>Methusalemi<anchor xml:id="end2543"/> tuli yhdeksänsadan kuudenkymmenen-yhdeksän (969)
+						vuoden ikään.<anchor xml:id="end2542"/> Nyt ei enää tule monta ihmistä seitsemääkymmentä (70)
+						vuotta vanhemmaksi. Muutamat pääsevät kahdeksankymmenen (80) vuoden
+						vanhaksi. <anchor xml:id="start2544"/>Englannissa oli yksi mies Jenkins nimeltä. Hän eli
+						sataviisikymmentä-yhdeksän (159) vuotta.<anchor xml:id="end2544"/> Muutamat ihmiset kuolevat
+						nuoruudessaan. Monta lasta kuolee aivan pienenä. Ainoastaan Jumala
+						määrää ijän pituuden.</p>
+					<p style="blackletter">Kuningas näki vieläkin enemmän. Hän näki ihmisen neljä <hi rend="expanded">ikäkautta.</hi> Lapsuus lasketaan aina
+						viidenteentoista (15) vuoteen. Sitte tulee nuoruus kolmanteenkymmeneen
+						(30:neen) vuoteen asti. Sitte seuraa miehuus kuudenteenkymmeneen
+						(60:neen) vuoteen asti. Viimein tulee vanhuus kuudenkymmenen vuoden
+						perästä. Sekään ei ole aina yhtäläistä. Lapsi kasvaa. Sen sielu kasvaa
+						yhdessä ruumiin kanssa. Kolmenkymmenen vuoden ijässä on ruumiilla täysi
+						voimansa. Sielu kasvaa alinomaa enemmän. Siksi on vanhuus nuoruutta
+						viisaampi.</p>
+					<p style="blackletter">Kuningas näki vieläkin enemmän. Hän näki ihmisen <hi rend="expanded">aviopuolet.</hi> Kaikki elävät ovat jaetut <pb type="orig" n="15"/>kahteen
+						osaan. Muutamat elävät ovat koiraita. Toiset ovat naaraita. Kasvit
+						jakauvat samalla lailla. Väkevämpi ihminen on <hi rend="expanded">mies.</hi> Heikompi ihminen nimitetään <hi rend="expanded">vaimo.</hi> Kumpikaan näistä ei ole huonompi. Molemmat ovat yhtä
+						Jumalan edessä. Molemmat ovat Jumalan valtakunnan periviä. Molempain
+						tulee alinomaa auttaa toisiansa. Jumalan tahto on sellainen. Väkevämmän
+						ei saa olla kovan heikompaa kohtaan.</p>
+					<p style="blackletter">Kuningas näki vieläkin enemmän. Hän näki <hi rend="expanded">ihmisen
+							vallan luonnon ylitse.</hi> Ihminen kesyttää raivoimmatkin eläimet.
+						Hän tappaa mahdottoman suuren valaskalan. Se suuri elehvantti kantaa
+						häntä kuuliaisesti selässään. Se ylevä <anchor xml:id="start2545"/>hevonen<anchor xml:id="end2545"/> tottelee hänen
+						suitsiansa. Se väkevä <anchor xml:id="start2546"/>härkä<anchor xml:id="end2546"/> vetää hänen sahrojansa. Hänelle täytyy
+						<anchor xml:id="start2547"/>karhun<anchor xml:id="end2547"/> jättää turkkinsa. Hänelle täytyy lampaan antaa villansa. Hän
+						höyhentää linnulta untuvat. Hän ottaa <anchor xml:id="start2548"/>mehiläiseltä<anchor xml:id="end2548"/> hunajan. Hän kaataa
+						kirveellä suurimmatkin puut. Hän valmistaa pellon siemenille. Hän kutoo
+						<anchor xml:id="start2549"/>pellavista<anchor xml:id="end2549"/> vaatetta. Hän kehrää <anchor xml:id="start2550"/>hampuista<anchor xml:id="end2550"/> köyttä. Hän etsii metallia
+						maan sisuksista. Hän koristaa kullalla sormensa. Hän panee
+						ruokapöydälleen hopioita. Hän takoo kovaa rautaa. Hän koristaa
+						<anchor xml:id="start2551"/>timanteilla<anchor xml:id="end2551"/> keisarin kruunun. Hän särkee <anchor xml:id="start2552"/>vuorien<anchor xml:id="end2552"/> läpi tien. Hän
+						pyörittää vedellä myllyin rattaat. Hän purjehtii tuulessa laivalla. Hän
+						sulkee uuniinsa valtavan tulen. Hän kuvaa koko maanpiirin kartallensa.
+						Hän laskee jo edeltäkäsin auringon juoksun. Hän jakaa vuotensa kuun
+						vaiheiden mukaan. Hän mittaa numeroilla kiiluvain tähtien juoksun.</p>
+					<p style="blackletter">Niin on koko näkyvä mailma ihmiselle alamainen. Kyllä elää valtava henki
+						ihmisen heikossa ruumiissa. Mutta Jumalan edessä on ihminen kui<pb type="orig" n="16"/>tenkin aivan vähäinen. Hänen valtansa on maan päällä aivan
+						suuri. Mutta Jumalan valta on kuitenkin paljon suurempi. Väkevin sankari
+						ei ole Jumalan suhteen mitään. Viisain mies on Jumalan viisauden suhteen
+						hullu. Pieni <anchor xml:id="start2553"/>käärme<anchor xml:id="end2553"/> voipi surmata väkevimmän miehen. <anchor xml:id="start2554"/>Sääsken<anchor xml:id="end2554"/> siipi on
+						viisaammasti luotu kuin kaikkein ihmisten teot. Kuningas otti käteensä
+						yhden <anchor xml:id="start2555"/>ketokukan<anchor xml:id="end2555"/>. Voi kuin olet kaunis. Kultainen pukuni ei ole niin
+						kaunis kuin sinun.</p>
+					<p style="blackletter">Ihminen elää tänä päivänä. Vähän ajan perästä kuolee hän pois. Sitte
+						muuttuu hänen ruumiinsa maassa mullaksi. Sitte tulee hänen sielunsa
+						elävän Jumalan eteen. Sitte kuuluu hänelle Jumalan ääni. Minä panin
+						sinun luonnon valtakuntain kuninkaaksi. Kuinka käytit sinä suurta
+						valtaasi? Kuinka elit sinä ihmisten seassa? Kuinka menettelit sinä
+						eläinten kanssa? Kuinka täytit sinä toimesi maan päällä? Elä ole väärä.
+						Elä ole ylpeä. <anchor xml:id="start2556"/>Minä olen Herra sinun Jumalasi.<anchor xml:id="end2556"/> Sinä olet ainoasti taloni
+						hoitaja.</p>
+					<p style="blackletter">Kaikkea tätä ajatteli kuningas tarkasti. Hän sanoi itselleen näin. Olenpa
+						minäkin herra minun kuningas-valtakunnassani. Mutta nyt minä vaellan
+						ympäri mailmaa palvelijan puvussa. Niinpä on ihminenkin kaikkein eläväin
+						herra maan päällä. Mutta Jumalan edessä on hän vaan palvelija. Jumala
+						antakoon hänelle nöyrän sydämen. Sitte käyttää hän oikein valtansa.
+						Sitte on ihmisen kunnia Jumalan kunnia. Sitte on ihmisen valtakunta
+						Jumalan valtakunta maan päällä.</p>
+				
+					<pb type="orig" n="17"/>
+					<head style="romanType"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start2557"/>Mitä Jumala antoi
+								ruumiilleni.<anchor xml:id="end2557"/></hi></hi></head>
+					<lg>
+						<l style="romanType"><hi rend="italics">Kaks’ on silmeä minulla.</hi></l>
+						<l style="romanType"><hi rend="italics">Niillä katson kaikkiaalle.</hi></l>
+						<l style="romanType"><hi rend="italics">Näen auringon ihanan.</hi></l>
+						<l style="romanType"><hi rend="italics">Näen tähdet taivahalla.</hi></l>
+						<l style="romanType"><hi rend="italics">Kedolla näen kukatkin.</hi></l>
+						<l style="romanType"><hi rend="italics">Kaikk’ on Luojan laittamia.</hi></l>
+						<l style="romanType"><hi rend="italics">Kaikki Luoja loi hyväksi.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Kaksi on korvaa minulla.</hi></l>
+						<l style="romanType"><hi rend="italics">Miksi loi ne Luoja mulle?</hi></l>
+						<l style="romanType"><hi rend="italics">Suo sanaansa niillä kuulla.</hi></l>
+						<l style="romanType"><hi rend="italics">Niillä kuulen äitin äänen.</hi></l>
+						<l style="romanType"><hi rend="italics">Kuulen niillä neuvot hellät.</hi></l>
+						<l style="romanType"><hi rend="italics">Kuulen laulut lintujenkin.</hi></l>
+						<l style="romanType"><hi rend="italics">Kuulen kunniaa Jumalan.</hi></l>
+						<l style="romanType"><hi rend="italics">Kuulen oppia isäni.</hi></l>
+						<l style="romanType"><hi rend="italics">Opikseni kaikki kuulen.</hi></l>
+						<l style="romanType"><hi rend="italics">Tulen siitä tietäväksi.</hi></l>
+						<l style="romanType"><hi rend="italics">Opin siitä oppineeksi.</hi></l>
+						<l style="romanType"><hi rend="italics">Se paras on palkakseni.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Suun Jumala soi minulle.</hi></l>
+						<l style="romanType"><hi rend="italics">Kielen kanssa loi minulle.</hi></l>
+						<l style="romanType"><hi rend="italics">Laulan sillä Luojan töitä.</hi></l>
+						<l style="romanType"><hi rend="italics">Sillä myös minä puhelen.</hi></l>
+						<l style="romanType"><hi rend="italics">Kyselen mit’en käsitä.</hi></l>
+						<l style="romanType"><hi rend="italics">Suulla ruumista ravitsen.</hi></l>
+						<l style="romanType"><hi rend="italics">Suulla naurankin sulosta.</hi></l>
+						<l style="romanType"><hi rend="italics">Suo Jumala suu hyväksi.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Kaksi on minulla kättä.</hi></l>
+						<l style="romanType"><hi rend="italics">Tämä on käsi vasempi.</hi></l>
+						<l style="romanType"><hi rend="italics">Oikea on tässä toinen.</hi></l>
+						<pb type="orig" n="18"/>
+						<l style="romanType"><hi rend="italics">Paljo tällä taidan tehdä.</hi></l>
+						<l style="romanType"><hi rend="italics">Viis’ on sormea kädessä.</hi></l>
+						<l style="romanType"><hi rend="italics">Niillä tahdon työtä tehdä.</hi></l>
+						<l style="romanType"><hi rend="italics">Suo Jumala taito siihen.</hi></l>
+						<l style="romanType"><hi rend="italics">Suo se Suomeni suloksi.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Kaksi on jalkaa minulla.</hi></l>
+						<l style="romanType"><hi rend="italics">Sormet eivät oo jaloissa.</hi></l>
+						<l style="romanType"><hi rend="italics">Viis’ on varvasta jalassa.</hi></l>
+						<l style="romanType"><hi rend="italics">Jaloillani juoksentelen.</hi></l>
+						<l style="romanType"><hi rend="italics">Tulen äitini tah’osta.</hi></l>
+						<l style="romanType"><hi rend="italics">Käynpä käskystä isäni.</hi></l>
+						<l style="romanType"><hi rend="italics">Suo Jumala suunta suora.</hi></l>
+						<l style="romanType"><hi rend="italics">Tie totuutehen osota.</hi></l>
+						<l style="romanType"><hi rend="italics">Niin vakaasti vaellan aina.</hi></l>
+					</lg>
+					<lg>
+						<l style="romanType"><hi rend="italics">Loi sydämen Luoja mulle.</hi></l>
+						<l style="romanType"><hi rend="italics">Ei ole se vielä suuri.</hi></l>
+						<l style="romanType"><hi rend="italics">Eikä särkynyt suruista.</hi></l>
+						<l style="romanType"><hi rend="italics">Helposti se lyöpi vielä.</hi></l>
+						<l style="romanType"><hi rend="italics">Sen käteeni tunnen kyllä.</hi></l>
+						<l style="romanType"><hi rend="italics">Luoja suo sydän hyväksi.</hi></l>
+						<l style="romanType"><hi rend="italics">Siit’ on siunaus minulla.</hi></l>
+					</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
