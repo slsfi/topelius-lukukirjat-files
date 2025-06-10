@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Viidestoista Luku. Suuresta avarasta maailmasta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>15</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Viidestoista Luku. Suuresta avarasta maailmasta</title></creation><textClass><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="prose">
+				<head type="section" style="blackletter" xml:id="h1"><hi rend="bold"><anchor xml:id="start3814"/>Viidestoista Luku.</hi></head>
+				<head type="section" style="romanType" xml:id="h2"><hi rend="expanded">Suuresta avarasta mailmasta.<anchor xml:id="end3814"/></hi></head>
+				<p style="romanType" xml:id="p1">Tässä kirjassa olemme nähneet kaksi lasta tutkivan Jumalan luotuja
+					kappaleita. Antti oli pojan ja Liisa tytön nimi. Nämäpä menivät syys-iltana
+					isänsä kanssa ulos. Ilma oli selkeä, mutta kylmällainen. Tyven ja hiljaisuus
+					oli ulkona. Tummansinisenä, korkeana, juhlallisena ja <anchor xml:id="start3815"/>kupevana<anchor xml:id="end3815"/> oli taivas
+					lasten pään päällä. Sen kupeva puolisko<choice><orig>,</orig><reg type="empty"/></choice> oli kuin suulleen käännetty malja
+					ja loisti lukemattomilla tähdillä niin kauvas kuin silmä voi kantaa. Tämä
+					oli juhlallista ja hyvin kaunista. Molemmat lapset luulivat olevansa aivan
+					pienet Jumalan edessä.</p>
+				<p style="romanType" xml:id="p2">Mutta katseltuaan ympärillensä luulivat he seisovansa keskellä suurta ontta
+					palloa. Antti sanoi, piamite hämmästyksellä: kah, nyt seisomme keskellä
+					mailmaa!</p>
+				<p style="romanType" xml:id="p3">Isä sanoi: kaikkein silmissä näyttää se siltä. Jumala on tällä tahtonut
+					osottaa, että hän on asettanut ihmiset kauniin luodun mailmansa keskustaan.
+					Kun koko mailma kaunioittaa Jumalaa, kuinka paljo eikö ihmisen sitte tulisi
+					kunnioittaa Luojaansa, joka on asettanut hänet keskelle mailmaa! Kaikkea,
+					mitä huomaitsemme aistimillamme: kaikkea, mitä näemme, kuulemme, maistamme,
+					haistamme ja tunnemme, sitä kaikkea kutsumme <hi rend="expanded">luonnoksi</hi><note id="ftn4" n="*)" place="foot"><hi rend="expanded">Muistutus:</hi> Luonnon
+						erilaiset aineet tottelevat vissejä määrättyjä <hi rend="expanded"><anchor xml:id="start3884"/>luonnonlakeja<anchor xml:id="end3884"/>.</hi> Näiden lakien oppia kutsutaan <hi rend="expanded"><anchor xml:id="start3885"/>luonnon-opiksi<anchor xml:id="end3885"/>,</hi> ja niitä, joilla ovat suuret
+						tiedot näistä asioista, kutsutaan <hi rend="expanded">luonnon-oppineiksi.</hi></note>. Mutta sitä loppumatointa, jota ei
+					yksikään <pb type="orig" n="195"/>silmä näe, ei korva kuule, vaikka se on ihmisessä ja
+					mailmassa, sitä kutsutaan <hi rend="expanded">hengeksi.</hi> Luonto on
+					katoavainen, mutta henki on katoamatoin. Ja molemmissa on Jumala
+					kaikkivaltias, joka kaikki kaikissa vaikuttaa.</p>
+				<p style="romanType" xml:id="p4">Aurinkoa, kuuta ja tähtiä, jotka taivaalta paistavat meille, kutsutaan <hi rend="expanded"><anchor xml:id="start3816"/>taivaan-kappaleiksi<anchor xml:id="end3816"/>.</hi> Ovatko ne kiini taivaan
+					katossa? Eivät, ne liikkuvat kaikki suunnattoman suurissa piireissä mailman
+					avaruudessa. Kuinka ne liikkuvat? Sen sanon sinulle. Olemme nähneet, kuinka
+					kummallisesti maa <anchor xml:id="start3817"/>painovoimalla<anchor xml:id="end3817"/> vetää itseensä kaikki. Jos tätä voimaa ei
+					olisi, putoaisi kaikki tyyni pois maan pinnalta, ja me itsekin mennä
+					hurahtaisimme äärettömään <choice><orig>avaruutnen</orig><reg>avaruuteen</reg></choice>. Mutta ei ole se ainoastaan maa, joka
+					vetää kaikki itseensä, vaan aurinko, kuu ja kaikki tähdet tekevät samoin,
+					kukin niistä suuruutensa jälkeen. Jos nyt painovoima olisi ainoasti vallassa
+					mailmassa, vetäisivätpä suuret taivaan-kappaleet pienemmät itseensä. Maa
+					lentäisi aurinkohon, ja kuu putoaisi maahan. Siksi on Jumala pannut
+					kappaleisin toisen voiman, jonka heti saat nähdä. Otappa vanne ja pane sen
+					sisäpuolelle litteä kivi. Heiluta vannetta sukkelasti ympäriinsä. Ei kivi
+					sentähden putoa pois; heiluttaessa saapi se vauhdin ulospäin, niin että se
+					pysyy kiini, vaikka luulisi sen putoavan pois vanteesta. Jos otan sinun
+					käsivarsistasi kiini ja pyöritän sinua ympäri, niin lentävät jalkasi
+					ulospäin. Jos ratsastan <anchor xml:id="start3818"/>hevoisella<anchor xml:id="end3818"/> ympyrään, täytyy minun kumartua
+					sisällepäin, muutoin putoan hevoisen selästä. Ja jos käännän rekeä yhtäkkiä,
+					niin kiepsahtaa se ulospäin. Miksikä niin? Se tulee <hi rend="expanded"><anchor xml:id="start3819"/>pyörimä-voimasta<anchor xml:id="end3819"/>,</hi> joka tahtoo juurikuin lennättää ulospäin
+					kaikkea, jota sukkelasti pyöritetään. Tuo suuri aurinko vetää siis maatamme
+					itseensä painovoimalla, ja maa vetää itseensä kuuta. Mutta samassa vetää
+					pyörimä-voima maata ja kuuta ulospäin. Näiden molempain voimain näin
+					yht’aikaa vastapainossa ollen, ovat ne tasapainoisina; yksi vetää ulospäin
+					ja toi<pb type="orig" n="196"/>nen sisällepäin, ja niin pakottavat ne kuun juoksemaan
+					kiehkurapiirissä maan ympäri. Ja juuri niin on se <anchor xml:id="start3820"/>yleesensä<anchor xml:id="end3820"/> laajassa mailman
+					avaruudessa. Suuremmat taivaan kappaleet vetävät pienempiä eivätkä päästä
+					niitä irti; pienemmät juurikuin pyrkisivät niistä irtautua vapaiksi, mutta
+					eivät pääse pois, eivätkä putoa isompain päälle. Niin juoksee aurinko, maa,
+					kuu ja kaikki tähdet alinomaa suurissa kiehkurapiireissä, pienemmät isompain
+					ympäri.</p>
+				<p style="romanType" xml:id="p5">Jos kulen veneessä, näyttää minusta <anchor xml:id="start3821"/>ranta<anchor xml:id="end3821"/> juuri kuin juoksevan sivu, ja vene
+					näyttää olevan yhdessä kohden. Samalla lailla tuntuu meistä tämäkin suuri
+					maa olevan yhdessä kohden ja koko taivaan piiri liikkuvan ympäri meitä.
+					Mutta maa menee eteenpäin hirveää vauhtia mailman avaruudessa, lähes kolme
+					<anchor xml:id="start3822"/>peninkulmaa<anchor xml:id="end3822"/> <anchor xml:id="start3823"/>sekunnissa<anchor xml:id="end3823"/>, jona kello kerran napsahtaa. Ja tässä liikkuu maa
+					kolmella tavalla. Ensiksikin pyörii se ympäriinsä, samassa kulkee se
+					auringon ympäri ja samassa seuraa se aurinkoa eteenpäin avaruudessa. Siitä
+					tulee päivä ja yö ja vuodet ja vuoden ajat ja paljo muuta, jota kerron
+					sinulle.</p>
+				<p style="romanType" xml:id="p6">Nakkaanpa pallin ilmaan. Sepä pyörii ympäri, niin että, jos pistän sukkatikun
+					sen <hi rend="expanded">keskustan</hi> läpi, se pyörii tikun ympäri,
+					juurikuin ratas pyörii akselinsa ympäri. Niin pyörii maakin ympäriinsä. Jos
+					minulla olisi niin pitkä sukkatikku, että voisin pistää sen läpi maan
+					keskustan, niin olisi tikku <hi rend="expanded">maan akselina,</hi> jonka
+					ympäri se pyörii. Ja molempia tikun päitä kutsuisin <hi rend="expanded">maan
+						navoiksi: <anchor xml:id="start3824"/>pohjoisnavaksi<anchor xml:id="end3824"/> ja <anchor xml:id="start3825"/>etelä-navaksi<anchor xml:id="end3825"/>.</hi> Ei maan läpi ole
+					pistettynä sellaista tikkua, mutta niin ajattelen, että se on sillä
+					lailla.</p>
+				<p style="romanType" xml:id="p7">Jos olisi taikinaa eli jotakin pehmeää ainetta, ja se saisi pyöriä akselinsa
+					ympäri ilmassa, niin se pyöriessään muodostuisi pyöreäksi palliksi, mutta
+					vähä tasausi napainsa kohdassa. Sillä lailla on maakin pyöristynyt palloksi
+					ja tasaunut vähä napainsa kohdassa. Sillä <pb type="orig" n="197"/>alussa on maa ollut
+					tulisen kuuma ja pehmeä niinkuin taikina, vaikka se sittemmin on päältäpäin
+					jäähtynyt ja kuoreunut kovaksi. Luultavasti on niin käynyt kaikkein taivaan
+					kappaletten kanssa, sillä kaikki ovat ne pyöreitä kuin pallo. Ei se tee
+					mitään, jos täällä on <anchor xml:id="start3826"/>vuoria<anchor xml:id="end3826"/> ja <anchor xml:id="start3827"/>laksoja<anchor xml:id="end3827"/> maan päällä; kyllä pallo on
+					sentähden pyöreä, jos sen pinnalle pannaan hietamuruinen. Ja meistä näyttää,
+					missä seisomme, maa olevan tasanen kuin hyrrä eli pyöreä kuin pannukakku.
+					Mutta siksi on se niin, että me näemme aivan pienen osan maasta sen pyöreän
+					piirin sisällä, jota kutsumme <hi rend="expanded"><anchor xml:id="start3828"/>taivaan ranteeksi</hi> eli
+						<hi rend="expanded">näköpiiriksi<anchor xml:id="end3828"/>.</hi> Havaittuamme laivan kaukana
+					<anchor xml:id="start3829"/>merellä<anchor xml:id="end3829"/>, näemme siitä ensin ainoasti mastoin huiput, ennenkuin näemme koko
+					laivaa, ja se tulee siitä, että meren pinta, juurikuin maakin, on vähän
+					kupera ja estää laivan näkymästä. Setäni, joka oli merimies, on purjehtinut
+					laivalla ympäri koko maan, ja hän näytti minulle paperista tehdyn pallon,
+					jota hän kutsui <hi rend="expanded"><anchor xml:id="start3830"/>maapalloksi<anchor xml:id="end3830"/></hi> ja johon koko maa oli
+					kuvattu niin pyöreäksi, kuin se onkin. Kun hän näytti minulle sitä paikkaa,
+					jossa me asuimme, ja puhui ihmisten asuvan toisella puolella maapalloa aivan
+					jalkaimme alla, enpä <choice><orig>tähtonut</orig><reg>tahtonut</reg></choice> ensin uskoa häntä. Luulin niiden ihmisraukkain
+					seisovan päällään ja välttämättömästi putoavan pois, jos ei heillä ole
+					jotakin jaloissa kiini pitämässä, niinkuin kärpäsillä katossa. Mutta muistin
+					painovoiman ja niin ymmärsin niiden ihmisten täytyvän kävellä yhtä vakavasti
+					jaloillaan kuin meidänkin.</p>
+				<p style="romanType" xml:id="p8">Sanommehan joka päivä: aurinko nousee; aurinko laskeupi. Mutta ei se ole
+					aurinko, joka nousee ja laskeupi, se on maa, joka juhlallisesti pyörii
+					lännestä itäänpäin. Ja sen jälkeen kuin se kääntyy ja me sen muassa, alamme
+					me <hi rend="expanded">aamulla</hi> nähdä auringon idässä ja sitte <hi rend="expanded">puolenpäivän</hi> aikana korkeimmallaan taivaalla
+					<anchor xml:id="start3831"/>etelässä<anchor xml:id="end3831"/>, siksi kuin me ja maa jälleen käännymme siitä pois, ja silloin
+					vaipuu aurinko pois silmistämme länteen <hi rend="expanded">illalla.</hi>
+					<pb type="orig" n="198"/>Niinkauvan kuin aurinko valaisee sen paikan maata, jossa me
+					asumme, on <hi rend="expanded">päivää;</hi> ja kuin tämä paikka kääntyy pois
+					auringosta, tulee pimeä ja <hi rend="expanded">yö.</hi> Päivä ja yö yhteensä
+					on <hi rend="expanded">vuorokausi.</hi> Siinä on kulunut 24 <anchor xml:id="start3832"/>tiimaa<anchor xml:id="end3832"/>, ja sillä
+					ajalla on maa kääntynyt kerran akselinsa ympäri. Tiima jaetaan 60 <hi rend="expanded"><anchor xml:id="start3833"/>minuutiin<anchor xml:id="end3833"/></hi> ja minuuti 60 <hi rend="expanded">sekuntiin.</hi> Sitä varten on laitettu kello, jossa tiima-viisari
+					näyttää kaksitoista tiimaa jokaisessa puolessa vuorokaudessa. Mutta
+					seitsemän vuorokautta tekee yhteensä <hi rend="expanded">viikon,</hi> joka
+					alkaa sunnuntaina ja on pyhitetty Jumalan palvelukselle. Sitte seuraa kuusi
+					työpäivää: maanantai, tiistai, keskiviikko, torstai, perjantai ja
+					lauvantai.</p>
+				<p style="romanType" xml:id="p9">Kyllä meistä on maa hirmuisen suuri. Keskipaikasta ympäri mitaten on se 3,750
+					(kolmetuhatta seitsemänsataa viisikymmentä) Suomen peninkulmaa. Tiedämme jo
+					sen olevan kaksitoista sataa peninkulmaa keskustan läpi mitaten. Mutta
+					aurinko on kuitenkin paljoa suurempi. Jos sulaasimme yhteen 1,400,000
+					(miljonan ja neljäsataa tuhatta) samallaista palloa kuin maa on, niin tulisi
+					niistä kaikista yhteensä niin suuri kuin aurinko on. Ja jos panen neulan
+					nupin suuren nauriin viereen, saatan verrata neulan nupin olevan maan ja
+					nauriin auringon. Siksi vetää aurinko maata itseensä, vaikka se on niin
+					kaukana siitä. Juurikuin pallikin kulkee eteenpäin samalla kuin se pyörii
+					ympäri, niin liikkuu myös koko tämä suuri maakin samalla ympäriinsä, kuin se
+					kulkee auringon ympäri. Se on pitkä matka, joka maalla on auringon ympäri
+					kulettavana: aina 88 miljonaa peninkulmaa. 365 (kolmessasadassa
+					kuudessakymmenessä viidessä) päivässä ja piamite kuudessa tiimassa siihen
+					lisäksi, on maa kulkenut koko tämän pitkän piirin, ja sitä aikaa kutsumme
+						<hi rend="expanded">vuodeksi.</hi> Sataa vuotta kutsutaan <hi rend="expanded">vuosisadaksi.</hi> Mutta kun ne kuusi tiimaa tulevat
+					siihen lisäksi, niin säästämme ne yhteen ja panemme joka neljänteen vuoteen
+					päivän lisäksi. Sellaista vuotta kutsumme <hi rend="expanded">karkaus-vuodeksi.</hi>
+					<pb type="orig" n="199"/>Tasavamman laskun vuoksi ja’amme vuoden kahteentoista
+					kuukauteen, vaikka sitä pitäisi olla enemmänkin; sillä kuukaudeksi kutsutaan
+					sitä aikaa, jonka kuu tarvitsee maan ympäri kulkeissaan, ja siinä kuluu 29
+					ja puoli päivää. Mitkä ovat siis kuukaudet? Ne ovat tammikuu, helmikuu,
+					maaliskuu, huhtikuu, toukokuu, kesäkuu, heinäkuu, elokuu, syyskuu, lokakuu,
+					marraskuu, joulukuu. Ja koska ei kaikissa ole yhtä monta päivää, niin tulee
+					muistaaksesi seuraava värsy:</p>
+				<lg xml:id="lg10">
+					<l style="romanType"><anchor xml:id="start3834"/>Kolmekymmentä on syyskuussa,</l>
+					<l style="romanType">Marras-, huhti- ja kesäkuussa.</l>
+					<l style="romanType">Kahdeksankolmatta helmikuussa,</l>
+					<l style="romanType">Kolmekymmentä yksi on muissa.<anchor xml:id="end3834"/></l>
+				</lg>
+				<p style="romanType" xml:id="p11">Tuossa on palava kynttilä; pidämme sitä aurinkona. Otanpa kerän ja pistän
+					sukkatikun sen läpitse; kerä on maa, ja tikku on sen akseli. Asetanpa tikun
+					seisomaan vähä vinoon ja kuletan sitä ja kerää tällä kannalla ympäri
+					kynttilää. Kun nyt samassa pyöritän kerää akselinsa ympäri, saanpa nähdä,
+					kuinka päivä ja yö muuttelevat maan päällä. Näen senkin, että, kun meillä on
+					päivä, on ihmisillä toisella puolella yö; ja niin täytyy kaikkein kelloin
+					käydä sitä enemmän edellä, jota etempänä asutaan idässä päin, koska aurinko
+					siellä ennen tulee näkösälle. Näen senkin, kun maa vinossa kulkee auringon
+					ympäri, siitä että aurinko vissillä ajalla enemmän paistaa maan pohjoiseen
+					puoleen, ja taas jälleen vissillä ajalla enemmän eteläiseen puoleen. Tästä
+					syystä tulevat <hi rend="expanded">vuoden-ajat.</hi> Auringon lämpimimmästi
+					paistaessa <anchor xml:id="start3835"/>pohjoiseen<anchor xml:id="end3835"/>, jossa me asumme, on meillä kesä, ja talvi on silloin
+					etelä-puolella maata. Ja taas, kun eteläisillä kansoilla on kesä, on meillä
+					talvi. Ja kun meillä on kevä, on niillä syksy. Samasta syystä, aina sen
+					mukaan kuin aurinko paistaa enemmän eli vähemmän sille paikalle, jossa
+					asumme, eivät päivät ole yhtä pitkiä. Lyhyin päivä täällä pohjoisessa on
+					aina kohta jou<pb type="orig" n="200"/>lun edellä. Silloin on aurinko aivan matalalla
+					taivaalla ja laskeupi pian. Pohjoisnavan tienoilla on silloin alinomainen
+					pimeys, ja etelä-navan tienoilla alinomainen valosa päivä. Ja koska aurinko
+					silloin noin kolme päivää paistaa yhtä kauvan joka päivä, kutsumme näitä
+					päiviä <hi rend="expanded"><anchor xml:id="start3836"/>talvipäivän-seisaukseksi<anchor xml:id="end3836"/>.</hi> Silloin on
+					pakkaista ja lunta ja talvi meillä, niin että mielellään lämmittelee
+					valkealekolla.</p>
+				<p style="romanType" xml:id="p12">Kohta joulun jälkeen havaitsemme päiväin pitenevän ja öitten lyhenevän.
+					Jonkun ajan näin pitkitettyä, tulee päivä aivan yhtä pitkäksi yön kanssa, ja
+					tätä aikaa kutsutaan <hi rend="expanded"><anchor xml:id="start3837"/>keväpäivän-tasaukseksi<anchor xml:id="end3837"/>.</hi>
+					Silloin tulee <hi rend="expanded">kevä,</hi> hanget sulavat ja ruoho alkaa
+					viheriöidä. Päivät alkavat nyt tulla öitä pitemmiksi, ja niin tulee aika,
+					jona aurinko kolmena päivänä juhannuksen aikana on ainoastaan vähän aikaa
+					keski-yönä kateissa. Ylempänä pohjoisessa päin ei aurinko ollenkaan laskeu
+					öillä. Silloin on meillä <hi rend="expanded"><anchor xml:id="start3838"/>kesäpäivän-seisaus<anchor xml:id="end3838"/>.</hi> Ja nyt
+					kukoistaa kaunis kesä ympärillämme. Sitte alkaavat päivät jälleen lyhetä ja
+					yöt pitetä, siksi että päivä ja yö ovat taas yhtä pitkät, ja silloin on
+					meillä <hi rend="expanded"><anchor xml:id="start3839"/>syyspäivän-tasaus<anchor xml:id="end3839"/></hi>. Sitte seuraa <hi rend="expanded">syksy,</hi> kun heinät ovat korjatut niityiltä ja elot
+					pelloilta, ja <anchor xml:id="start3840"/>puolat<anchor xml:id="end3840"/> kypsyvät metsissä. Tänä aikana lakastuu kaikki
+					kukoistus, sillä nyt tulevat päivät jälleen öitä lyhyemmiksi, ja niin tulee
+					taas talvi; ja niin on koko elämämme alinomaisen muutoksen alainen. Mutta
+					niillä, jotka asuvat keskipaikalla maata, ovat päivät ja yöt alinomaa yhtä
+					pitkiä. Siellä nousee aurinko kello kuuden aikana aamulla ja laskeupi kello
+					kuuden aikana illalla; ja kohta auringon laskeuttua tulee synkkä pimeä.
+					Mutta meillä on aina kappale aikaa hämärää, ja siksi tulee aamuhämärä
+					kesällä niin pian iltahämärän perästä, että yöt ovat jonkun aikaa pian aivan
+					valosat.</p>
+				<p style="romanType" xml:id="p13">Setäni, joka on merimies, oli kerran ollut muutamassa maassa, jossa ei
+					koskaan ollut talvea. Se maa <pb type="orig" n="201"/>oli etelässä aivan kaukana meistä,
+					ja se oli juuri kuin keskellä maata. Siellä olevilla ihmisillä ei ole
+					ollenkaan vuoden aikoja vaan alinomainen kesä ja kova kuumuus, niin että
+					<anchor xml:id="start3841"/>kasvit<anchor xml:id="end3841"/> kyllä voivat lakastua kuivuudesta, mutta eivät kylmästä. Muutamana
+					aikana vuodesta sataa siellä pian alinomaa kahtena kuukautena, ja se on
+					niiden talvi. Samalla lailla ei ole vuodenajan muutoksia maan navoilla, vaan
+					on alinomainen talvi, ja siksi eivät ihmiset voi asua siellä. Kyllä siellä
+					on puoli vuotta päivää, niinkuin puoli vuotta yötä; mutta auringon säteet,
+					jotka paistavat aivan pystösuoraan maata vasten maan keskustalla
+					(<anchor xml:id="start3842"/>päiväntasaajan<anchor xml:id="end3842"/> kohdalla), paistavat niin vinoon maan navoille, etteivät voi
+					sulata ijäistä lunta.</p>
+				<p style="romanType" xml:id="p14">Nyt ymmärtänet, kuinka erilaisilla paikoilla maan päällä saattaa olla
+					erilainen <hi rend="expanded"><anchor xml:id="start3843"/>ilma<anchor xml:id="end3843"/>;</hi> niin että keskimaan paikoilla on
+					lämpimämpi ilma, kuin mailla etempänä etelässä ja pohjoisessa. Se tulee
+					siitä, kuinka likellä maannapaa eli kuinka kaukana päiväntasaajasta paikka
+					on, mutta vielä siitäkin, jos maa on korkeammalla eli matalammalla ylöspäin
+					meren pinnasta. Korkeampi maa on aina kylmempi, kuin alhaisempi maa. Jos
+					asun meren rannalla, niin siinä on kostea ilma. Ei siinä ole niin pikaisia
+					lämpimän ja kylmän muutoksiakaan, kuin etempänä ylhäällä <anchor xml:id="start3844"/>mannermaissa<anchor xml:id="end3844"/>.</p>
+				<p style="romanType" xml:id="p15">Puhuisin sinulle vielä jotakin niistä pitkistä viivoista, joita näet
+					mailman-kartalla, mutta sitä et sinä vielä ymmärrä. Sen verran sanon
+					sinulle, että viiva, joka ajatellaan vedetyksi ympäri maan keskustan (vaikka
+					sitä ei siinä ole), on <hi rend="expanded">päiväntasaaja.</hi> Tämän
+					molemmin puolin on kaksi samallaista linjaa, joita kutsutaan päivän<hi rend="expanded"><anchor xml:id="start3845"/>palaus-piiriksi<anchor xml:id="end3845"/>,</hi> eikä kaukana kummastakaan
+					maan-navasta ole ne kaksi piirua, joita kutsutaan <hi rend="expanded"><anchor xml:id="start3846"/>napapiiriksi<anchor xml:id="end3846"/>.</hi> Maat molempain päivänpalaus-piirien välillä ovat
+					kuumimpia maan päällä ja kutsutaan siis <hi rend="expanded"><anchor xml:id="start3847"/>kuumaksi
+						ilma-alaksi<anchor xml:id="end3847"/>.</hi> Maita päivänpalauspiirien ja napapiirien välillä
+						kut<pb type="orig" n="202"/>sutaan <hi rend="expanded"><anchor xml:id="start3848"/>lauhkeaksi ilma-alaksi<anchor xml:id="end3848"/>,</hi>
+					joka merkitsee pakkasen ja lämpimän olevan kohtuullisesti tasattuna
+					erinäisille vuoden-ajoille. Mutta maita napapiirien ja napain välillä
+					kutsutaan <hi rend="expanded"><anchor xml:id="start3849"/>kylmäksi ilma-alaksi<anchor xml:id="end3849"/>.</hi> Suomemme on
+					lauhkeassa ilma-alassa, mutta kuitenkin niin kaukana pohjoisessa, että
+					palanen maata on pohjoispuolella napapiiriä. Jumala on suonut tälle maalle
+					ja koko pohjoiselle enemmän valoa kuin pimeää. Juuri sekin aika, jona on
+					pimeys, paistaa yön kuuvalo ja ilman <anchor xml:id="start3850"/>revontulet<anchor xml:id="end3850"/> ja lumen kuumotus, niin että
+					se pitkä talvi kuluu hiljalleen loppuun asti, kevättä odottaessa.</p>
+					<head style="romanType" xml:id="h3"><hi rend="bold"><hi rend="expanded">Kuusta.</hi></hi></head>
+					<p style="romanType" xml:id="p16">Jumala on antanut meille kauniin lyhdyn yöksi tuonne taivaalle, ja se on
+						kuu. Mikä on kuu? Se on suuri pallo, joka alinomaa vierii maan ympäri.
+						Miksikä tekee se niin? Siksi että maa on viittäkymmentä kertaa suurempi,
+						ja siksi pakottaa hän kuuta seuraamaan itseänsä. Pitkältäkö kuuhun on?
+						Liki 36,000 (kolmekymmentä kuusituhatta) peninkulmaa. Se on pitkä matka.
+						Ja kuitenkin on kuu kaikista taivaankappaleista se, joka on likinnä
+						maata.</p>
+					<p style="romanType" xml:id="p17">Miksikä näyttää kuu niin suurelta, kun se ensin nousee? Ja miksi näyttää
+						se niin pieneltä ollessaan korkealla taivaalla. Siksi että kaikki, mitä
+						näemme kaukana ylhäällä tahi alhaalla, näyttää pienemmällä kuin mitä
+						katsomme sivultapäin. Mutta ei se paista omalla valollaan. Se on
+						juurikuin maakin itsestään pimeä kappale. Mistä paistaa siis kuu? Siitä
+						että auringon säteet palauvat takasi sen pinnasta ja tulevat takasi maan
+						päälle, juurikuin valon <choice><orig>sääteet</orig><reg>säteet</reg></choice> vuoren kukkulalta. Jos voisimme tulla
+						kuuhun, niin näkisimme sieltä maan paistavan samalla lailla. Maa, joka
+						on paljoa suurempi, lienee kaunis kuusta. Sieltä katsoen näkisi
+						juurikuin tummia paikkoja paistavassa maassa, ja nämä paikat ovat
+						nurmi-maita, joista valo vähimmän kirkkaana palaa takasi. Ja muutamat
+						paikat maasta paistaisivat kirkkaimpina, niinkuin vuoret ja <anchor xml:id="start3851"/>jär<pb type="orig" n="203"/>vet<anchor xml:id="end3851"/>, jotka kiiltelevät ja kimmouttavat paljo valoa takasi.
+						Samalla lailla näkyy tummia ja valosia paikkoja kuussa. <anchor xml:id="start3852"/>Vanha satu
+						juttelee Rahko nimisen miehen yrittäneen tervaamaan kuuta ja tarttuneen
+						ämpärinensä siihen, josta muka tummemmat paikat olisivat tulleet kuuhun<anchor xml:id="end3852"/>;
+						mutta tietävät ihmiset sanovat: kirkkaat paikat ovat korkeita vuoria, ja
+						tummemmat paikat ovat syviä laksoja.</p>
+					<p style="romanType" xml:id="p18"><anchor xml:id="start3853"/>Se on kummaa, kun kuu aina kääntää saman sivun maahan päin, ja toista
+						sivua emme näekkään. Mutta aurinko paistaa kuuhun visseinä aikoina eri
+						lailla.<anchor xml:id="end3853"/> Tästä tulee, ettemme ollenkaan näe kuuta joka aika kuukaudessa,
+						eli se siintää ainoastaan hyvin hämärästi. Sen jälkeen alkaa se näkyä,
+						ja silloin sanomme: nyt on <hi rend="expanded"><anchor xml:id="start3854"/>uusi kuu<anchor xml:id="end3854"/>.</hi> 7 päivän
+						perästä näemme puolen valosasta sivusta, ja silloin sanotaan: nyt on <hi rend="expanded"><anchor xml:id="start3855"/>puoli-kuuta<anchor xml:id="end3855"/>.</hi> Taas 7 päivän perästä näemme koko
+						valosan puolen, ja silloin sanomme: nyt on täysi-kuu <note id="ftn5" n="*)" place="foot">Ensimäinen täysikuu keväpäivän-tasauksen jälkeen 21 p. maaliskuuta
+							kutsutaan pääsiäis-täysikuuksi, ja ensimäisenä päivänä senjälkeen on
+							pääsiäispäivä. Siksi ei satu pääsiäinen joka vuosi samalle ajalle.
+							Helluntai-juhla asetetaan pääsiäisen jälkeen, ja on myös liikkuva
+							juhla. <anchor xml:id="start3886"/>Mutta muut juhlat niinkuin juhannus ja joulu ovat kaikkina
+							vuosina samoina päivinä.<anchor xml:id="end3886"/></note>. Sen jälkeen alkaa kuu vähetä, juuri
+						kuin hiiret söisivät sen laitaa, ja nyt sanomme olevan <hi rend="expanded">alakuun.</hi> Taas 7 päivän perästä on se puoliskona
+						ja vielä 7 päivän perästä ei sitä näykkään; mutta sitte alkaa taas kuun
+						syntyminen. Siksi puhutaan Allakassa kuun neljästä <hi rend="expanded">korttelista.</hi> Ensimäisestä täydestä kuusta toiseen on 29 ja
+						puoli vuorokautta kulunut; sillä niin pitkän ajan tarvitsee kuu
+						kulkeakseen kerran maan ympäri. Ja jos haluat saada tietää <anchor xml:id="start3856"/>yläkuuta<anchor xml:id="end3856"/> ja
+						alakuuta niin muista, että kun luulisit saattavaksi ottaa vasemmalla
+						kädelläsi kuun puoliskon sisällepäin käyrästä laidasta kiini <figure/>, niin on
+						uusi- eli ylä-kuu, mutta jos tarttuisit siihen oikealla kädelläsi <figure/>,
+						on alakuu. Muutoin saatat sinäkin muistaa sen tästä, jolla isä kerran
+						muistutti poikaansa kuuta tuntemaan, sanoen:</p>
+					<lg xml:id="lg19">
+						<l style="romanType">Etkös <anchor xml:id="start3857"/>tuhma<anchor xml:id="end3857"/> kuuta tunne?</l>
+						<l style="romanType">Idän puolen täytymässä,</l>
+						<l style="romanType">Luotehen vähenemässä.</l>
+					</lg>
+					<pb type="orig" n="204"/>
+					<p style="romanType" xml:id="p20">Sattuupa niinkin välistä, että tulee <hi rend="expanded"><anchor xml:id="start3858"/>kuun-pimeneminen<anchor xml:id="end3858"/>.</hi> Mistähän se tulee? Siitä että maa tulee
+						kohdastaan auringon ja kuun välille ja <anchor xml:id="start3859"/>varjottaa<anchor xml:id="end3859"/> pois kuun.</p>
+					<figure type="illustration"><graphic url="10_1_054.jpg"/></figure>
+					<p style="romanType" xml:id="p21">Tässä näet äärimmäisnä loistavan auringon kuvan. Tuo suurin kiehkura on
+						se tie, jota aurinko näyttää kulkevan maan ympäri (vaikka se on maa,
+						joka kulkee). Keskimäinen pallo on maa, ja tuo pieni musta pallo on kuu
+						maan ympärillä olevine rengasteineen. Näethän nyt, kuinka maa voipi
+						tulla auringon ja kuun välille, niin että maan varjo lankeaa kuuhun ja
+						varjottaa siitä pois auringon. Voipipa niinkin käydä, että varjo
+						piilottaa ainoastaan jonkun osan kuusta. Pian menee kuu eteenpäin: sitte
+						tulee se pois varjosta, sitte on se jälleen valosa, ja sitte saamme
+						jälleen kuun valon.</p>
+					<p style="romanType" xml:id="p22">Toisella kerralla saattaa niinkin tapahtua, että kuu tulee aivan auringon
+						ja maan väliin, niinkuin näet tässä allapäin kuvattuna. Silloin lankeaa
+						jälleen kuun varjo maan päälle ja pimittää meiltä auringon, silloin
+						sanomme olevan <hi rend="expanded"><anchor xml:id="start3860"/>auringon-pimenemisen<anchor xml:id="end3860"/>.</hi> Silloin
+						tulee pimeä koko maan päälle keskellä päivää, ja linnut herkeävät
+						laulamasta ja luulevat olevan illan. Ja ihmiset, jotka eivät paremmin
+						tiedä asiaa, luulevat sen suuren auringon saaneen vahingon. Mutta vähän
+						aikaa kuluttua ovat aurinko ja kuu kulkeneet eteenpäin, niin etteivät ne
+						enää ole kohdatusten. Silloin on kaikki jälleen valosaa ja kir<pb type="orig" n="205"/>kasta, ja ihmiset kiittävät <anchor xml:id="start3861"/>Jumalaa, joka taas antaa
+						auringon paistaa hyville ja pahoille maan päällä.<anchor xml:id="end3861"/></p>
+					<figure type="illustration"><graphic url="10_1_055.jpg"/></figure>
+					<p style="romanType" xml:id="p23">Tästä ymmärrät siis, että, kun meillä on kuun-pimeneminen, kuussa on
+						auringon pimeneminen. Ja kun meillä on auringon pimeneminen, niin kuussa
+						on maanpimeneminen. Sellaisia pimenemisiä ei näy yhtäläisesti kaikilla
+						paikoilla maata. Mutta allakka tietää kaikki sellaiset asiat edeltä
+						päin, sillä ne saatetaan jo edeltä käsin laskea. Mutta ei yksikään voi
+						tulla maasta kuuhun. Ja siksi ei tiedä kukaan, jos ihmisiä on kuussa, ja
+						minkälaiset paikat siellä ovat. Se ainoasti tiedetään, että siellä on
+						hyvin korkeita vuoria, mutta tuskin ilmaa ja ei ollenkaan vettä.</p>
+					<head style="romanType" xml:id="h4"><hi rend="bold"><hi rend="expanded">Auringosta ja
+						tähdeistä.</hi></hi></head>
+					<p style="romanType" xml:id="p24">Maa vierii akselinsa ympäri lännestä itään päin, ja siksi näyttää se,
+						kuin aurinko kulkisi idästä länteen. Ei aurinko ole siksi yhdessä kohti;
+						kyllä se kulkee pitkää tietään eteenpäin mailmassa ympäri vielä
+						suurempaa aurinkoa, jota emme vielä tunne. Aurinko pyörii niinkuin
+						maakin akselinsa ympäri; se on tunnettu auringossa olevista tummista
+						paikoista, joita siinä <choice><orig>kiikareille</orig><reg><anchor xml:id="start3862"/>kiikareilla</reg><anchor xml:id="end3862"/></choice> katsoen välistä nähdään. Ja sen
+						näemme, että aurinko omalla <pb type="orig" n="206"/>valollaan valaisee äärettömän
+						avaruuden ja lämmittää samassa. Mutta mistä tämä valo ja lämmin tulee,
+						sitä ei tiedä kukaan; sillä maasta aurinkoon on aina neljätoista
+						miljonaa peninkulmaa. Jos pääskyinen lentäisi aivan suoraan sata vuotta,
+						niin ei se sittenkään tulisi puoliväliinkään aurinkohon. Kanuunan kuula,
+						joka kulkee peninkulman minuutissa, tarvitseisi 27 vuotta tullakseen
+						aurinkohon. Suunnattoman suuri on aurinko, sen kyllä arvannet. Jos joka
+						päivä voisin kävellä 10 tiimaa suoraan eteenpäin, ennättäisinpä 3
+						vuodessa ympäri maan. Mutta auringon ympäri päästäväksi tarvittaisiin
+						320 vuotta.</p>
+					<p style="romanType" xml:id="p25">Ja juurikuin maata voisi kutsua auringon pieneksi lapseksi, niin
+						auringolla on vielä monta muuta sellaista pientä lasta, jotka, juurikuin
+						maakin alinomaa pyörivät suurissa piireissä äitinsä ympärillä. Nämä
+						auringon lapset ovat <hi rend="expanded"><anchor xml:id="start3863"/>kiertotähtiä</hi> eli <hi rend="expanded">planeetoja<anchor xml:id="end3863"/>,</hi> jotka kaikki itsessään ovat pimeitä
+						taivaan kappaleita, mutta paistavat auringon lainavalolla. Sellaisia
+						tutaan jo olevan 50, ja joka vuosi löydetään toisia. Useat niistä ovat
+						aivan pieniä, niin ettei niitä nähdä kiikaritta. Mutta toiset ovat
+						suuria ja näkyvät kirkkaina tähtinä taivaalla, jossa ne <pb type="orig" n="207"/>alinomaa muuttavat sijansa. Tässä näet kolme kiertotähteä, jotka ovat
+						likinnä aurinkoa. Ensimäinen, joka kiertää 87 vuorokaudessa piirinsä
+						ympäri auringon, on <hi rend="expanded">Merkurius.</hi> Se on maata
+						pienempi ja <anchor xml:id="start3866"/>merkitään allakassa näin ☿. Sitä likinnä kiertää <hi rend="expanded">Venus</hi> 7 kuukaudessa suuremman piirin auringon
+						ympäri, ja se merkitään ♀. Se on maan kokoinen ja paistaa meille
+						<anchor xml:id="start3864"/>kointähtenä<anchor xml:id="end3864"/> ja <anchor xml:id="start3865"/>ehtootähtenä<anchor xml:id="end3865"/> kaikkein kauniimmalla valolla, sillä se on
+						likeisin kaikista tähdistä. Sitte kulkee <hi rend="expanded">maa,</hi>
+						joka myös on kierto-tähti, 365 vuorokaudessa vielä suuremman piirin
+						ympäri ja se merkitään ♁<anchor xml:id="end3866"/>.</p>
+					<p style="romanType" xml:id="p26">Mutta muita suuria kiertotähtiä kulkee vielä suuremmissa piireissä
+						ulkopuolella näitä kolmea. Ensin kulkee <hi rend="expanded">Mars,</hi>
+						joka on maata pienempi. <hi rend="expanded">Jupiter, Saturnus,
+							Uranus</hi> ja <hi rend="expanded">Neptunus,</hi> jotka ovat paljoa
+						suuremmat maata, kulkevat sitte aina suuremmissa piireissä auringon
+						ympäri. Ja Neptunus, joka on äärimmäinen, tarvitsee 166 vuotta
+						kulkeakseen kerran auringon ympäri. Ja kaikki vierivät ne niinkuin
+						maakin akselinsa ympäri, ja niillä on päivä ja yö niinkuin meilläkin<choice><orig>,</orig><reg>.</reg></choice>
+						Mutta niille, jotka ovat kaukana auringon valosta, on Jumala sen sijaan
+						antanut kuita, jotka niitä valaisevat. Maalla on yksi kuu, suurella
+						Jupiterilla on 4 kuuta, Saturnuksella on 7 kuuta ja vielä paistava
+						rengas ympärillä. Niilläkin viimeisillä on useita kuita.</p>
+					<p style="romanType" xml:id="p27">Kerran illalla tuli lukkarin Maija meille ja oli niin peljästyksissään,
+						että oikein vapisi. Hän oli nähnyt taivaalla tähden, jolla oli hirveän
+						suuri pyrstö perässä. Se merkitsee sotaa, sanoi hän. Elä pelkää, sanoin
+						minä; se ei merkitse mitään. Se on <anchor xml:id="start3867"/>pyrstötähti<anchor xml:id="end3867"/>, ja sellaiset kulkevat
+						suurissa soikeissa piireissä auringon ympäri. Pitkäin aikain perästä
+						palaavat ne takasi, niin että ne jälleen tulevat näkyviin meidän
+						paikoillamme mailmaa.</p>
+					<p style="romanType" xml:id="p28">Kiertotähdet, kuut ja pyrstötähdet ovat <anchor xml:id="start3868"/>liikkuvia tähtiä<anchor xml:id="end3868"/>; mutta kaikkia
+						muita tähtiä kutsumme <hi rend="expanded"><anchor xml:id="start3869"/>liikkumattomiksi
+							tähdiksi<anchor xml:id="end3869"/>,</hi> kun ne näyttävät liikkumattomilta eivätkä ole koskaan
+						muuttuneet paikkaansa keskenään, niin kauvan kuin voidaan muistaa.
+						Kuitenkin ovat ne suuria auringoita, jotka kiertävät tuntemattomia
+						piirejä tuntemattoman mailma-auringon ympärillä. Paremmin muistettavaksi
+						tähtein olopaikkoja, on taivas jaettu <hi rend="expanded"><anchor xml:id="start3870"/>tähtitarhoihin<anchor xml:id="end3870"/>.</hi> Sellainen on Aaronin sauva, jonka <pb type="orig" n="208"/>tähdet näyttävät tämmöiseltä <figure/>. Tähdet, joiden sivu aurinko näyttää
+						kulkevan, ovat leveänä ratana, jota kutsutaan <hi rend="expanded"><anchor xml:id="start3871"/>eläin-radaksi<anchor xml:id="end3871"/>.</hi> Siinä jaetaan tähdet 12:sta taivaan-merkkiin,
+						joista puhutaan allakassa. Tietoa auringosta, kuusta ja tähdistä
+						kutsutaan <hi rend="expanded"><anchor xml:id="start3872"/>tähti-tiedoksi<anchor xml:id="end3872"/></hi><note id="ftn6" n="*)" place="foot"><hi rend="expanded">Muistutus.</hi> Tietoa <anchor xml:id="start3887"/>alku-aineista<anchor xml:id="end3887"/> ja luonnon
+							voimista kutsutaan <hi rend="expanded"><anchor xml:id="start3888"/>luonnon-opiksi<anchor xml:id="end3888"/>.</hi> Tietoa
+							kappalten osista kutsutaan <hi rend="expanded"><anchor xml:id="start3889"/>kemiaksi<anchor xml:id="end3889"/>.</hi> Tietoa
+							kaikellaisesta laskutavasta kutsutaan <hi rend="expanded"><anchor xml:id="start3890"/>määräysopiksi<anchor xml:id="end3890"/>.</hi> Tietoa kivistä kutsutaan <hi rend="expanded"><anchor xml:id="start3891"/>kivennäis-opiksi<anchor xml:id="end3891"/>.</hi> Tietoa kasvista kutsutaan
+								<hi rend="expanded"><anchor xml:id="start3892"/>kasvuin-opiksi<anchor xml:id="end3892"/>.</hi> Tietoa elävistä
+							kutsutaan <hi rend="expanded"><anchor xml:id="start3893"/>eläväopiksi<anchor xml:id="end3893"/>.</hi></note>.</p>
+					<p style="romanType" xml:id="p29">Joka iltana näyttävät tähdet nousevan idästä ja laskeuvan länteen, josta
+						näkyy juurikuin koko taivaan piiri vierisi ympäriinsä; mutta se on maa,
+						joka kääntyy. Muutamat tähdet taivaslaella päämme päällä eivät koskaan
+						laskeu, vaan kulkevat kiehkurassa. Sellaisia on <hi rend="expanded"><anchor xml:id="start3873"/>Otava,</hi> joka on 5 näkönen taivaalla<anchor xml:id="end3873"/>, ja jossa on 7 eri tähteä.
+						Yläpuolella otavaa on tähti, <choice><orig>joha</orig><reg>joka</reg></choice> on aivan yhdessä kohti. Tätä kutsutaan
+							<hi rend="expanded">pohjantähdeksi,</hi> ja se näyttää yöllä, missä
+						päin pohjoinen on.</p>
+					<p style="romanType" xml:id="p30">Isän vielä puhuessa lenti pienonen pilkka taivaalla kaitasella
+						tulileimulla. <anchor xml:id="start3874"/>Kah, huutivat lapset, tähti lenti alas! Ja se näytti
+						näistä kummalta, kun taivaan tähdet saattavat lentää alas ja kadota.</p>
+					<p style="romanType" xml:id="p31">Mutta isä sanoi: tuota kutsumme kyllä <hi rend="expanded"><anchor xml:id="start3875"/>tähdenlennoksi<anchor xml:id="end3875"/>,</hi> siksi että se siltä näyttää; mutta ne ovat
+						ainoasti pieniä palavia aineita, jotka lentävät ympäriinsä avaruudessa
+						ja välistä putoavat alas maan <anchor xml:id="start3876"/>ilmapiiriin<anchor xml:id="end3876"/>. Jumalan suuret tähdet eivät
+						putoa; ne kulkevat ratojaan monta tuhatta vuotta, eivätkä väsy, eivätkä
+						eksy äärettömässä avaruudessa.</p>
+					<p style="romanType" xml:id="p32">Onkohan tuonne tähtihin paljo matkaa? kysyi Liisa. Haluaisinpa kerran
+						päästä sinne.</p>
+					<p style="romanType" xml:id="p33">Isä sanoi: kun kerran kuolemme, ja Jumala vapauttaa lunastetun henkemme,
+						tulee tämä ja paljo muuta meille ilmoitetuksi. Mutta asuissamme täällä
+						maan tomussa, näyttää meistä tie olevan tähtihin piamite yhtä pitkä kuin
+						ijankaikkisuus. Meistä on aurinko äärettömästi kaukana, ja valo kulkee
+						kuitenkin tämän pitkän matkan puolessa yhdeksättä minuutissa. Siitä
+						saatamme arvata, kuinka kaukana muutamat pienet tähdet ovat, kun
+						tiedämme valon tarvitsevan tuhannen vuotta, ennät<pb type="orig" n="209"/>tääkseen
+						niistä meihin. Siksi on se vissi, että, jos Jumala sallisi niiden
+						pienten tähtein sammua tänä iltana, ihmiset vielä tuhannen vuotta
+						jälkeenpäin näkisivät niiden hienot valopiireet pilkoittavan etäällä
+						tuolla sinisellä taivaalla.</p>
+					<p style="romanType" xml:id="p34">Antti sanoi: no, mitä on tuolla etäällä, tähtein takana?</p>
+					<p style="romanType" xml:id="p35">Isä sanoi: toisia tähtiä.</p>
+					<p style="romanType" xml:id="p36">Ja mitä on siellä toisten tähtein takana?</p>
+					<p style="romanType" xml:id="p37">Vielä toisia tähtiä. Näethän tuon maitoharmaan radan, joka menee
+						juurikuin tie korkean tähtisen taivaan ylitse! Tätä rataa kutsutaan <hi rend="expanded">linnunradaksi.</hi> Kun tähän katsotaan suurilla
+						kiikareilla, nähdään sen olevan lukemattomista tähdeistä. Ne ovat niin
+						kaukana, ettemme voi eroittaakaan jokaista niistä erittäin, vaan niiden
+						valo sekaupi yhteen, ja tästä tulee se maitoharmaa valo.</p>
+					<p style="romanType" xml:id="p38">Lapset seisoivat vähän aikaa aivan äänettöminä. Viimein sanoi Liisa,
+						piamite vapisten: missä tähdessä asuu Jumala?<anchor xml:id="end3874"/></p>
+					<p style="romanType" xml:id="p39">Isä sanoi: etkö ole lukenut Jumalan olevan jokapaikassa läsnä? Hänen
+						henkensä käypi koko luonnon läpitse, kaikkein näiden mailmain läpitse,
+						jotka paistavat avaruudessa, ja jokaisen vähimmänkin tuulen hengen
+						<choice><orig>älpitse</orig><reg>läpitse</reg></choice>, jonka löyhäytellessä ruohot kumartuvat tässä, jossa seisomme
+						tämän matalan maan päällä. Lapset, kumartukaamme polvillemme illan
+						rauhassa ja rukoilkaamme Jumalaa nähdessämme hänen ääretöintä
+						voimaansa!</p>
+					<p style="romanType" xml:id="p40">Ja he kumartuivat ristissä käsin polvilleen tähtein valossa, ja isä
+						rukoili ja sanoi:</p>
+					<p style="romanType" xml:id="p41">Pyhä, kaikkivaltias Jumala, sinä, joka katsot alas meitä tähtein silmillä
+						ja levität allesi koko mailman äärettömän avaruuden kunniasi kirkkautena
+						ja ijankaikkisen majesteetisi istuimena! Sinä näet meidän olevan
+						heikkoja, köyhiä lapsia ja ainoasti hajoavaista tomua suuressa luodussa
+						mailmassasi. Ja meidän elämämme katoo kuin varjo, ja me olemme syntiä
+						tehneet sinun edessäsi ja emme uskaltaisi nostaa silmiämmekään
+						kaikkivaltaasi kohti, jos ei Vapahtajamme Jesus olisi ottanut syntiämme
+						pois. Kuitenkin olet sinä antanut meille, kuolevaisille ihmisille, armon
+						katsella tekojasi. Ja me olemme katselleet sinun tekojasi ihmisessä,
+						<anchor xml:id="start3877"/>elävissä<anchor xml:id="end3877"/>, kasveissa, kaikissa kolmessa <anchor xml:id="start3878"/>luonto-kunnissa<anchor xml:id="end3878"/> ja viimeksi
+						suuressa mailman rakennuk<pb type="orig" n="210"/>sessa, joka levenee päällämme
+						niinkuin palvelukseksesi rakettu temppeli. Ja kaikissa, pienimmästä
+						suurimpaan, olemme me nähneet sinun kaikkivaltasi ja sinun hyvyytesi ja
+						sinun viisautesi, joka on luonut kaikki niin ihmeellisen kauniiksi ja
+						hyväksi, kaikki tarkoitustensa mukaan mailmassa. Niin anna meille vielä
+						Pyhän Henkesi armo, että me kaiken tämän oikein ymmärtäisimme ja jota
+						pitemmältä sitä enemmän oppisimme tuntemaan sinua töissäsi. Me
+						rukoilemme sinun kaikkivaltaasi. Me ylistämme sinun hyvyyttäsi. Me
+						ihmettelemme sinun viisauttasi. Nämä tähdet ja mailmat katoavat. Mekin
+						kuolemme pois; mutta sielumme pitää tulla sinun tykösi. Sillä sinä
+						yksinäsi, Herra, et katoa; sinä pysyt ijankaikkisesti, niinkuin sinä
+						olet: pyhä, kaikkivaltias, kaikkiviisas ja kaikki-hyvä. Korkiasti
+						ylistetty olkoon sinun pyhä nimesi nyt ja ainiaan! Amen.</p>
+					<head style="romanType" xml:id="h5"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3879"/>Vuoden ajat.<anchor xml:id="end3879"/></hi></hi></head>
+					<lg xml:id="lg42">
+						<l style="romanType"><hi rend="expanded">Keväimen</hi> toi Jumala,</l>
+						<l style="romanType">Lumen vei lämpimä,</l>
+						<l style="romanType">Ja jää sulausi maalla,</l>
+						<l style="romanType">Sai lehto lehtiä,</l>
+						<l style="romanType">Ja kaikk’ oli valossa,</l>
+						<l style="romanType">Ja linnut lauloivat,</l>
+						<l style="romanType">Ja lapset lehdikossa</l>
+						<l style="romanType"><choice><orig>Jloa</orig><reg>Iloa</reg></choice> nauttivat.</l>
+					</lg>
+					<lg xml:id="lg43">
+						<l style="romanType">Tuli aika taas <hi rend="expanded">kesäinen,</hi></l>
+						<l style="romanType">Ja niitty ruohottui,</l>
+						<l style="romanType">Ja ruoho vihriäinen</l>
+						<l style="romanType">Kukista kaunistui;</l>
+						<l style="romanType">Vesillä soutelimme,</l>
+						<l style="romanType">Kulimme metsiä</l>
+						<l style="romanType">Ja mailla marjailimme,</l>
+						<l style="romanType">Oli se lystiä.</l>
+					</lg>
+					<pb type="orig" n="211"/>
+					<lg xml:id="lg44">
+						<l style="romanType">Tulivat <hi rend="expanded">syksyn</hi> päivät</l>
+						<l style="romanType">Ja myrskyt pauhusat;</l>
+						<l style="romanType">Ne laulurinnat veivät</l>
+						<l style="romanType">Ja kaunihit kukat;</l>
+						<l style="romanType">Eloa korjattihin</l>
+						<l style="romanType">Ja riihtä puitihin</l>
+						<l style="romanType">Ja puoloja poimittihin,</l>
+						<l style="romanType">Ilossa oltihin.</l>
+					</lg>
+					<lg xml:id="lg45">
+						<l style="romanType">Sai <hi rend="expanded">talvi</hi> tulleheksi,</l>
+						<l style="romanType">Kokous kinoksia,</l>
+						<l style="romanType">Sai suksi luistimeksi</l>
+						<l style="romanType">Helisi tiukuja.</l>
+						<l style="romanType">Takassa lekko lämmin</l>
+						<l style="romanType">Paloi nyt kaunisna,</l>
+						<l style="romanType">Ja talvi sit’ enemmin</l>
+						<l style="romanType">On lasten riemuna.</l>
+					</lg>
+					<lg xml:id="lg46">
+						<l style="romanType">Kun hanki kyynelehtii,</l>
+						<l style="romanType">Oo harras mielinen;</l>
+						<l style="romanType">Kevä taas tänne ehtii</l>
+						<l style="romanType">Iloja antaen,</l>
+						<l style="romanType">On aika ain’ iloista,</l>
+						<l style="romanType">Kun Herran tunnemme</l>
+						<l style="romanType">Elomme on hupaista,</l>
+						<l style="romanType">Kun häntä kiitämme.</l>
+					</lg>
+					<head style="romanType" xml:id="h6"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3880"/>Taivahan tähdet.<anchor xml:id="end3880"/></hi></hi></head>
+					<lg xml:id="lg47">
+						<l style="romanType"><anchor xml:id="start3881"/>Te maahamme loistavat liemut,</l>
+						<l style="romanType">Taas näytätte taivahan riemut,</l>
+						<l style="romanType">Suloitatte meidänki sielut</l>
+						<l style="romanType">Vapaalla valolla.<anchor xml:id="end3881"/></l>
+					</lg>
+					<pb type="orig" n="212"/>
+					<lg xml:id="lg48">
+						<l style="romanType">On maailman murheetkin poissa,</l>
+						<l style="romanType">Ne ei Jumalan asunnoissa,</l>
+						<l style="romanType">Kun siellä on kaikki valoissa,</l>
+						<l style="romanType">Peloita pakolla.</l>
+					</lg>
+					<lg xml:id="lg49">
+						<l style="romanType">Ne vuosituhannet paloivat,</l>
+						<l style="romanType">Noin kirkkaina loistonsa loivat,</l>
+						<l style="romanType">Ja vielä, kuin ennenkin, voivat</l>
+						<l style="romanType">Ne leimuta loistain.</l>
+					</lg>
+					<lg xml:id="lg50">
+						<l style="romanType">Mut syntisnä täällä surussa</l>
+						<l style="romanType">Olen minä kurja kulussa,</l>
+						<l style="romanType">Puettu pahuuden puvussa,</l>
+						<l style="romanType">Nyt yönne valossa.</l>
+					</lg>
+					<lg xml:id="lg51">
+						<l style="romanType">Sydämellä <anchor xml:id="start3882"/>sylkyttävällä<anchor xml:id="end3882"/>,</l>
+						<l style="romanType">Mut murheita lievittävällä,</l>
+						<l style="romanType">Mä katselen yön pimeällä</l>
+						<l style="romanType">Valonne säteitä.</l>
+					</lg>
+					<lg xml:id="lg52">
+						<l style="romanType">Ja rinnassa rauhattomassa</l>
+						<l style="romanType">On toivokin lohduttamassa,</l>
+						<l style="romanType">Kun rakkaus on Jumalassa,</l>
+						<l style="romanType">Ja häntä rukoilen.</l>
+					</lg>
+					<lg xml:id="lg53">
+						<l style="romanType">Voi, suuri ja peljättäväinen,</l>
+						<l style="romanType">Mut ainoa armahtavainen</l>
+						<l style="romanType">Ijäite ylistettäväinen</l>
+						<l style="romanType">On Herra Jumala!</l>
+					</lg>
+					<lg xml:id="lg54">
+						<l style="romanType">Me heikot ja huonot olemme</l>
+						<l style="romanType">Ja maasta ja maaksi tulemme</l>
+						<l style="romanType">Ja Herran sanaa me luemme,</l>
+						<l style="romanType">Sen antoi hän meille.</l>
+					</lg>
+					<pb type="orig" n="213"/>
+					<lg xml:id="lg55">
+						<l style="romanType">Ja Kristus, hän on Jumalasta,</l>
+						<l style="romanType">Sen tunnemme Herran sanasta,</l>
+						<l style="romanType">Pelastus on meille pahasta,</l>
+						<l style="romanType">Ja toivona taivas.</l>
+					</lg>
+					<p style="romanType" xml:id="p56"><hi rend="bold">Herra, Sinä olet mahdollinen saamaan ylistyksen ja
+							kunnian ja voiman; sillä sinä olet kaikki luonut, ja sinun
+							tahdostasi he ovat, ja luodut ovat.</hi> Ilmestyskirja 4 l., 11
+						v.</p>
+					<p style="romanType" xml:id="p57"><hi rend="bold">Kuka taitaa häntä niin korkeasti ylistää, kuin hän on? Me
+							näemme ainoastaan vähimmän hänen töistänsä; sillä paljon suuremmat
+							ovat meiltä vielä peitetyt.</hi> Sirakin kirjan 43 l., 36 v.</p>
+					<p style="romanType" xml:id="p58"><hi rend="bold">Herra, meidän Herramme, kuinka ihmeellinen on Sinun
+							nimesi kaikessa maassa!</hi> <anchor xml:id="start3883"/>Ps. 8, 10 v.<anchor xml:id="end3883"/></p>
+			</div>
+		</body>
+	</text>
+</TEI>
