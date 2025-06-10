@@ -1,0 +1,1 @@
+Kuva: Tekoälyn jäljennös *Maamme kirjassa* esiintyvästä Aavasaksaa ja Yli-Tornion kirkkoa esittävästä puupiirroksesta, joka perustuu Lennart Forsténin (1817–1886) litografiaan teoksessa *Finland framställdt i teckningar* (1845–1852).

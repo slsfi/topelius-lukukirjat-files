@@ -1,0 +1,1 @@
+![Teoksen Luonnonkirja nimiölehti](assets/images/collection-covers/luonnonkirja-1860.jpg)

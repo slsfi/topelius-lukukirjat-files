@@ -1,0 +1,1 @@
+![Teoksen Maamme kirja nimiölehti](assets/images/collection-covers/maamme-kirja-1878.jpg)
