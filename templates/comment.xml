@@ -1,24 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-      	<title>Kommentit</title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-      </publicationStmt>
-      <sourceDesc>
-        <p>Born digital.</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <body>
-	  <div type="comment">
-	  </div>
-	  <div type="notes">
-	  </div>
-    </body>
-  </text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Kommentit</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Born digital.</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="notes"></div>
+		</body>
+	</text>
 </TEI>
