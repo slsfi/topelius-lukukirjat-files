@@ -1644,6 +1644,9 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 	<xsl:template match="tei:graphic">
 		<img>
 			<xsl:attribute name="src">
+				<xsl:value-of select="$illustrations-path"/>
+				<xsl:value-of select="$collection-name"/>
+				<xsl:text>/</xsl:text>
 				<xsl:value-of select="@url"/>
 			</xsl:attribute>
 			<xsl:attribute name="class">
@@ -1654,7 +1657,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 				</xsl:if>
 			</xsl:attribute>
 			<xsl:attribute name="alt">
-				<xsl:text>bild</xsl:text>
+				<xsl:text>kuvitus</xsl:text>
 			</xsl:attribute>
 			<xsl:attribute name="loading">
 				<xsl:text>lazy</xsl:text>

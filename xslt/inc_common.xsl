@@ -12,7 +12,23 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 	<xsl:output method="html"/>
 	<xsl:param name="bookId"/>
 
-	
+	<!-- Map bookId to collection name -->
+	<xsl:variable name="collection-name">
+		<xsl:choose>
+			<xsl:when test="$bookId = '1'">
+				<xsl:value-of select="'luonnonkirja'"/>
+			</xsl:when>
+			<xsl:when test="$bookId = '2'">
+				<xsl:value-of select="'maammekirja'"/>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:value-of select="''"/>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:variable>
+
+	<xsl:variable name="illustrations-path" select="'assets/images/illustrations/'"/>
+
 	<xsl:variable name="backendMediaBaseURL" select="'https://api.sls.fi/digitaledition/topelius/gallery/get/'"/> 
 
 	<!-- OPENER CLOSER START -->
