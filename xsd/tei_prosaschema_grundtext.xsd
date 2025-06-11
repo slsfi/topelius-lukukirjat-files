@@ -938,7 +938,7 @@
       <xs:complexContent>
         <xs:extension base="ns1:tei_macro.paraContent">
           <xs:attribute name="source"/>
-          <xs:attribute name="resp" use="required"/>
+          <xs:attribute name="resp"/>
         </xs:extension>
       </xs:complexContent>
     </xs:complexType>
