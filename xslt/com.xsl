@@ -67,52 +67,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 
 	<xsl:template name="printEditorNoteHeader">
 		<xsl:param name="noteCount"/>
-		<xsl:choose>
-			<xsl:when test="$noteCount = 1">
-				<xsl:choose>
-					<xsl:when test="string-length(normalize-space(//tei:div[@type = 'comment'])) > 0 and not($fileDiv = '2' and $sectionId != 'ch1')">
-						<h4 class="teiComment italics">Punktkommentarer</h4>
-					</xsl:when>
-					<xsl:when test="string-length(normalize-space(//tei:div[@type = 'comment'])) = 0 and not($fileDiv = '2' and $sectionId != 'ch1') and ($bookId = '30' or $bookId = '31')">
-						<p class="teiComment paragraphSpace"/>
-						<h4 class="teiComment italics">Punktkommentarer</h4>
-					</xsl:when>
-					<xsl:otherwise>
-						<p class="teiComment paragraphSpace"/>
-					</xsl:otherwise>
-				</xsl:choose>
-				<xsl:choose>
-					<xsl:when test="$bookId = '1' or $bookId = '2' or $bookId = '16'">
-						<p class="teiComment noteLegend"><i>vers&#160;–&#160;textställe – kommentar</i></p>
-					</xsl:when>
-					<xsl:otherwise>
-						<p class="teiComment noteLegend"><i>stycke&#160;–&#160;textställe – kommentar</i></p>
-					</xsl:otherwise>
-				</xsl:choose>
-			</xsl:when>
-			<xsl:when test="$noteCount > 1">
-				<xsl:choose>
-					<xsl:when test="string-length(normalize-space(//tei:div[@type = 'comment'])) > 0 and not($fileDiv = '2' and $sectionId != 'ch1')">
-						<h4 class="teiComment italics">Punktkommentarer</h4>
-					</xsl:when>
-					<xsl:when test="string-length(normalize-space(//tei:div[@type = 'comment'])) = 0 and not($fileDiv = '2' and $sectionId != 'ch1') and ($bookId = '30' or $bookId = '31')">
-						<p class="teiComment paragraphSpace"/>
-						<h4 class="teiComment italics">Punktkommentarer</h4>
-					</xsl:when>
-					<xsl:otherwise>
-						<p class="teiComment paragraphSpace"/>
-					</xsl:otherwise>
-				</xsl:choose>
-				<xsl:choose>
-					<xsl:when test="$bookId = '1' or $bookId = '2' or $bookId = '16'">
-						<p class="teiComment noteLegend"><i>vers&#160;–&#160;textställe – kommentar</i></p>
-					</xsl:when>
-					<xsl:otherwise>
-						<p class="teiComment noteLegend"><i>stycke&#160;–&#160;textställe – kommentar</i></p>
-					</xsl:otherwise>
-				</xsl:choose>
-			</xsl:when>
-		</xsl:choose>
+		<p class="teiComment noteLegend"><i>sijainti&#160;–&#160;tekstikohta – kommentti</i></p>
 	</xsl:template>
 
 	<xsl:template name="printEditorNote">
@@ -232,7 +187,23 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					<xsl:otherwise>
 						<xsl:choose>
 							<xsl:when test="$notePos = 'Datering' or $notePos = 'Fotnot' or $notePos = 'Titel' or $notePos = 'Rubrik'">
-								<xsl:value-of select="$sFrom"/>
+								<xsl:choose>
+									<xsl:when test="$notePos = 'Datering'">
+										<xsl:value-of select="'Päiväys'"/>
+									</xsl:when>
+									<xsl:when test="$notePos = 'Fotnot'">
+										<xsl:value-of select="'Viite'"/>
+									</xsl:when>
+									<xsl:when test="$notePos = 'Titel'">
+										<xsl:value-of select="'Otsikko'"/>
+									</xsl:when>
+									<xsl:when test="$notePos = 'Rubrik'">
+										<xsl:value-of select="'Otsikko'"/>
+									</xsl:when>
+									<xsl:otherwise>
+										<xsl:value-of select="$sFrom"/>
+									</xsl:otherwise>
+								</xsl:choose>
 							</xsl:when>
 							<xsl:when test="contains($sFrom, 'lg') or contains($sFrom, 'li')">
 								<xsl:value-of select="$sFrom"/>
@@ -265,7 +236,23 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					<xsl:otherwise>
 						<xsl:choose>
 							<xsl:when test="$notePos = 'Datering' or $notePos = 'Fotnot' or $notePos = 'Titel' or $notePos = 'Rubrik'">
-								<xsl:value-of select="$notePos"/>
+								<xsl:choose>
+									<xsl:when test="$notePos = 'Datering'">
+										<xsl:value-of select="'Päiväys'"/>
+									</xsl:when>
+									<xsl:when test="$notePos = 'Fotnot'">
+										<xsl:value-of select="'Viite'"/>
+									</xsl:when>
+									<xsl:when test="$notePos = 'Titel'">
+										<xsl:value-of select="'Otsikko'"/>
+									</xsl:when>
+									<xsl:when test="$notePos = 'Rubrik'">
+										<xsl:value-of select="'Otsikko'"/>
+									</xsl:when>
+									<xsl:otherwise>
+										<xsl:value-of select="$notePos"/>
+									</xsl:otherwise>
+								</xsl:choose>
 							</xsl:when>
 							<xsl:when test="contains($notePos, 'lg') or contains($notePos, 'li')">
 								<xsl:value-of select="$notePos"/>
