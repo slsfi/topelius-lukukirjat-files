@@ -117,7 +117,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					</xsl:when>
 					<xsl:when test="@type = 'notePosition' and contains($notePosition, '–')">
 						<xsl:choose>	
-							<xsl:when test="starts-with($notePosition, 'Fotnot') or starts-with($notePosition, 'Rubrik') or starts-with($notePosition, 'Titel') or starts-with($notePosition, 'Datering')">
+							<xsl:when test="starts-with($notePosition, 'Viite') or starts-with($notePosition, 'Otsikko') or starts-with($notePosition, 'Päiväys')">
 								<!-- Remove unwanted characters only from latter part of position -->
 								<xsl:variable name="sTo" select="substring-after($notePosition, '–')"/>
 								<xsl:variable name="sFrom" select="substring-before($notePosition, '–')"/>
@@ -134,7 +134,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					</xsl:when>
 					<xsl:when test="@type = 'notePosition'">
 						<xsl:choose>
-							<xsl:when test="contains($notePosition, 'Fotnot') or contains($notePosition, 'Rubrik') or contains($notePosition, 'Titel') or contains($notePosition, 'Datering')">
+							<xsl:when test="contains($notePosition, 'Viite') or contains($notePosition, 'Otsikko') or contains($notePosition, 'Päiväys')">
 								<xsl:value-of select="$notePosition"/>
 								<xsl:text> </xsl:text>
 							</xsl:when>
