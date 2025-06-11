@@ -16,7 +16,7 @@
 	<text>
 		<body xml:space="preserve">
 			<div type="prose">
-				<head style="blackletter" xml:id="h1"><hi rend="bold"><hi rend="expanded"><choice><orig>Lnonnon-kirja</orig><reg>Luonnon-kirja</reg></choice></hi>.</hi></head>
+				<head type="title" style="blackletter" xml:id="h1"><hi rend="bold"><hi rend="expanded"><choice><orig>Lnonnon-kirja</orig><reg>Luonnon-kirja</reg></choice></hi>.</hi></head>
 				<head type="section" style="blackletter" xml:id="h2"><hi rend="bold">Ensimäinen Luku.</hi></head> 
 				<head type="section" style="blackletter" xml:id="h3"><hi rend="bold expanded">Ihmisestä.</hi></head>
 				<p rend="noIndent" style="blackletter" xml:id="p1"><hi rend="bold">J</hi>umala on suuri. Jumala on hyvä. Hän on
