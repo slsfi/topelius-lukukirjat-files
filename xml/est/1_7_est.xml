@@ -16,8 +16,8 @@
 	<text>
 		<body xml:space="preserve">
 			<div type="prose">
-				<head style="blackletter" xml:id="h1"><hi rend="bold">Seitsemäs Luku.</hi></head>
-				<head style="romanType" xml:id="h2"><hi rend="bold expanded"><anchor xml:id="start2982"/>Kasveista<anchor xml:id="end2982"/>.</hi></head>
+				<head type="section" style="blackletter" xml:id="h1"><hi rend="bold">Seitsemäs Luku.</hi></head>
+				<head type="section" style="romanType" xml:id="h2"><hi rend="bold expanded"><anchor xml:id="start2982"/>Kasveista<anchor xml:id="end2982"/>.</hi></head>
 				<figure type="illustration"><graphic url="10_1_035.jpg"/></figure>
 				<p style="romanType" xml:id="p1">Tuossa pienessä huoneessa liki herrastalon veräjää asuu vanha mies. Se on
 					puutarhan-hoitaja, joka tekee niin ahkerasti työtä lapiolla ja
