@@ -20,12 +20,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 	<xsl:template match="tei:teiHeader"/>
 
 	<xsl:template match="tei:body">
-		<xsl:choose>
-			<xsl:when test="//tei:div[@type = 'comment']">
-				<xsl:apply-templates/>
-			</xsl:when>
-			<xsl:otherwise/>
-		</xsl:choose>
+		<xsl:apply-templates/>
 	</xsl:template>
 
 	<xsl:template name="listEditorNotes">
