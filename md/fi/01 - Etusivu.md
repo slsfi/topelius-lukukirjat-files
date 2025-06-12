@@ -7,13 +7,13 @@ Zacharias Topeliuksen lukukirjat *Naturens Bok* (1856) ja *Boken om Vårt Land* 
 <div class="edition-tiles">
   <a href="collection/1/title" title="Luonnonkirja">
     <figure>
-      <img src="assets/images/collection-covers/luonnonkirja-1860.jpg" alt="Luonnonkirjan nimiölehti" loading="lazy">
+      <img src="assets/images/collection-covers/luonnonkirja-1860.jpg" alt="Luonnonkirjan nimiölehti">
       <figcaption>Luonnonkirja</figcaption>
     </figure>
   </a>
   <a href="collection/2/title" title="Maamme kirja">
     <figure>
-      <img src="assets/images/collection-covers/maamme-kirja-1878.jpg" alt="Maamme kirjan nimiölehti" loading="lazy">
+      <img src="assets/images/collection-covers/maamme-kirja-1878.jpg" alt="Maamme kirjan nimiölehti">
       <figcaption>Maamme kirja</figcaption>
     </figure>
   </a>
