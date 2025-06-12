@@ -1584,86 +1584,39 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 	</xsl:template>
 
 	<xsl:template match="tei:figure">
-		<xsl:choose>
-			<xsl:when test="@type = 'pictogram' and not(child::tei:figDesc)">
-				<span class="tei reg tooltiptrigger ttNormalisations">
-					<img class="tei symbol" src="assets/images/symbol_illustration.svg" alt="illustration" loading="lazy">
-						<xsl:attribute name="id">
-							<xsl:value-of select="substring-before(@url, '.')"/>
-						</xsl:attribute>
-						<xsl:attribute name="class">
-							<xsl:text>tei it_image hand doodle unknown</xsl:text>
-						</xsl:attribute>
-						<xsl:attribute name="tabindex">
-							<xsl:text>0</xsl:text>
-						</xsl:attribute>
-					</img>
-				</span>
-				<span class="tei tooltip ttNormalisations">
-					<xsl:text>otytt piktogram</xsl:text>
-				</span>
-			</xsl:when>
-			<xsl:when test="@type = 'pictogram' and $bookId = '29'">
-				<xsl:apply-templates/>
-				<img class="tei symbol" src="assets/images/symbol_illustration_red.svg" alt="illustration" loading="lazy">
-					<xsl:attribute name="id">
-						<xsl:text>tag_</xsl:text>
-						<xsl:value-of select="substring-before(@url, '.')"/>
-					</xsl:attribute>
-					<xsl:attribute name="class">
-						<xsl:text>tei it_image hand doodle</xsl:text>
-					</xsl:attribute>
-					<xsl:attribute name="tabindex">
-						<xsl:text>0</xsl:text>
-					</xsl:attribute>
-				</img>
-			</xsl:when>
-			<xsl:when test="@type = 'illustration' and $bookId = '29'">
-				<img class="tei symbol" src="assets/images/image_symbol.svg" alt="illustration" loading="lazy"/>
-			</xsl:when>
-			<xsl:when test="@type = 'illustration' and $bookId = '22'">
-				<span class="tei figure">
-					<xsl:apply-templates/>
-				</span>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:apply-templates/>
-			</xsl:otherwise>
-		</xsl:choose>
-	</xsl:template>
-
-	<xsl:template match="tei:figDesc">
-		<span class="tei reg tooltiptrigger ttNormalisations">
-			<xsl:apply-templates/>
-		</span>
-		<span class="tei tooltip ttNormalisations">
-			<xsl:text>uttolkat piktogram</xsl:text>
-		</span>
-	</xsl:template>
-
-	<xsl:template match="tei:graphic">
 		<img>
 			<xsl:attribute name="src">
 				<xsl:value-of select="$illustrations-path"/>
 				<xsl:value-of select="$collection-name"/>
 				<xsl:text>/</xsl:text>
-				<xsl:value-of select="@url"/>
+				<xsl:value-of select="tei:graphic/@url"/>
 			</xsl:attribute>
 			<xsl:attribute name="class">
 				<xsl:text>tei est_figure_graphic</xsl:text>
-				<xsl:if test="@align != ''">
+				<xsl:if test="@rend != ''">
 					<xsl:text> align_figure_</xsl:text>
-					<xsl:value-of select="@align"/>
+					<xsl:value-of select="@rend"/>
 				</xsl:if>
 			</xsl:attribute>
 			<xsl:attribute name="alt">
-				<xsl:text>kuvitus</xsl:text>
+				<xsl:choose>
+					<xsl:when test="tei:figDesc">
+						<xsl:value-of select="tei:figDesc"/>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:text>kuvitus</xsl:text>
+					</xsl:otherwise>
+				</xsl:choose>
 			</xsl:attribute>
 			<xsl:attribute name="loading">
 				<xsl:text>lazy</xsl:text>
 			</xsl:attribute>
 		</img>
 	</xsl:template>
+
+	<xsl:template match="tei:figDesc"/>
+
+	<xsl:template match="tei:graphic"/>
 
 	<xsl:template match="tei:unclear">
 		<span>
