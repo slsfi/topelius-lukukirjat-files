@@ -1178,8 +1178,16 @@
       <xs:choice minOccurs="0" maxOccurs="2">
         <xs:element ref="ns1:p"/>
         <xs:element ref="ns1:graphic"/>
+      	<xs:element ref="ns1:figDesc"/>
       </xs:choice>
       <xs:attribute name="type" fixed="illustration"/>
+      <xs:attribute name="rend">
+    <xs:simpleType>
+      <xs:restriction base="xs:token">
+        <xs:enumeration value="inline"/>
+      </xs:restriction>
+    </xs:simpleType>
+    </xs:attribute>
     </xs:complexType>
   </xs:element>
   <xs:element name="graphic">
@@ -1188,6 +1196,7 @@
       </xs:attribute>
     </xs:complexType>
   </xs:element>
+  <xs:element name="figDesc"/>
   <xs:element name="table">
     <xs:annotation>
       <xs:documentation>contains text displayed in tabular form, in rows and columns.</xs:documentation>
