@@ -1211,17 +1211,17 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 		<xsl:choose>
 			<xsl:when test="child::tei:sic">
 				<span class="tei tooltip ttChanges">
-					<xsl:text>original: </xsl:text>
+					<xsl:text>alunperin: </xsl:text>
 					<xsl:apply-templates mode="tooltip"/>
 					<!--<xsl:value-of select="tei:sic"/>-->
 				</span>
 			</xsl:when>
 			<xsl:when test="child::tei:orig">
 				<span class="tei tooltip ttChanges">
-					<xsl:text>original: </xsl:text>
+					<xsl:text>alunperin: </xsl:text>
 					<xsl:apply-templates mode="tooltip"/>
 					<xsl:if test="child::tei:reg/@source">
-						<xsl:text> (källa för ändring: </xsl:text>
+						<xsl:text> (muutoksen lähdeteos: </xsl:text>
 						<xsl:value-of select="tei:reg/@source"/>
 						<xsl:text>)</xsl:text>
 					</xsl:if>
@@ -1284,7 +1284,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					<img src="assets/images/squared_times_gray.svg" alt="tomt" loading="lazy"/>
 				</span>
 				<span class="tei tooltip ttChanges">
-					<xsl:text>rättelse i originalet</xsl:text>
+					<xsl:text>korjaus alkuteoksessa</xsl:text>
 				</span>
 			</xsl:when>
 			<xsl:when test="@source = 'Rättelser'">
@@ -1292,7 +1292,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					<xsl:apply-templates/>
 				</span>
 				<span class="tei tooltip ttChanges">
-					<xsl:text>rättelse i originalet</xsl:text>
+					<xsl:text>korjaus alkuteoksessa</xsl:text>
 				</span>
 			</xsl:when>
 			<xsl:otherwise>
