@@ -1211,14 +1211,14 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 		<xsl:choose>
 			<xsl:when test="child::tei:sic">
 				<span class="tei tooltip ttChanges">
-					<xsl:text>alunperin: </xsl:text>
+					<xsl:text>alkuteoksessa: </xsl:text>
 					<xsl:apply-templates mode="tooltip"/>
 					<!--<xsl:value-of select="tei:sic"/>-->
 				</span>
 			</xsl:when>
 			<xsl:when test="child::tei:orig">
 				<span class="tei tooltip ttChanges">
-					<xsl:text>alunperin: </xsl:text>
+					<xsl:text>alkuteoksessa: </xsl:text>
 					<xsl:apply-templates mode="tooltip"/>
 					<xsl:if test="child::tei:reg/@source">
 						<xsl:text> (muutoksen lähdeteos: </xsl:text>
