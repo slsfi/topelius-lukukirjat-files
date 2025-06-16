@@ -1,0 +1,7 @@
+Tämän kansion tiedostot
+Luonnon_kirja_perusteksti.xml
+Luonnon_kirja_varianttiteksti.xml
+
+ovat alkuperäiset XML-tiedostot varianttikoodausta varten. Näissä koko Luonnonkirja on yksissä tiedostoissa, ei pilkottuna 1 luku per tiedosto, kuten alakansioissa.
+
+ÄLÄ KÄYTÄ näitä alkuperäisiä tiedostoja, vaan "pilkottuja".
