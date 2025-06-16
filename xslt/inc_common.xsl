@@ -679,7 +679,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 				<xsl:text>.svg</xsl:text>
 			</xsl:attribute>
 			<xsl:attribute name="alt">
-				<xsl:text>horisontellt streck</xsl:text>
+				<xsl:text>horisontaalinen viiva</xsl:text>
 			</xsl:attribute>
 		</img>
 	</xsl:template>
@@ -689,34 +689,34 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 			<span class="tei teiVariant tooltip ttVariant">
 				<xsl:choose>
 					<xsl:when test="contains(@type, 'sub') and contains(@type, 'ort') and contains(@type, 'int')">
-						<xsl:text>substantiell skillnad och skillnad i ortografi/typografi samt i interpunktion</xsl:text>
+						<xsl:text>asiamuutos, ortograafinen muutos ja välimerkkimuutos</xsl:text>
 					</xsl:when>
 					<xsl:when test="contains(@type, 'sub') and contains(@type, 'ort')">
-						<xsl:text>substantiell och ortografisk/typografisk skillnad</xsl:text>
+						<xsl:text>asiamuutos ja ortograafinen muutos</xsl:text>
 					</xsl:when>
 					<xsl:when test="contains(@type, 'sub') and contains(@type, 'int')">
-						<xsl:text>substantiell skillnad och skillnad i interpunktion</xsl:text>
+						<xsl:text>asiamuutos ja välimerkkimuutos</xsl:text>
 					</xsl:when>
 					<xsl:when test="contains(@type, 'ort') and contains(@type, 'int')">
-						<xsl:text>skillnad i ortografi/typografi och i interpunktion</xsl:text>
+						<xsl:text>ortograafinen muutos ja välimerkkimuutos</xsl:text>
 					</xsl:when>
 					<xsl:when test="substring(@type, 1, 3) = 'sub'">
-						<xsl:text>substantiell skillnad</xsl:text>
+						<xsl:text>asiamuutos</xsl:text>
 					</xsl:when>
 					<xsl:when test="substring(@type, 1, 3) = 'ort'">
-						<xsl:text>skillnad i ortografi/typografi</xsl:text>
+						<xsl:text>ortograafinen muutos</xsl:text>
 					</xsl:when>
 					<xsl:when test="substring(@type, 1, 3) = 'int'">
-						<xsl:text>skillnad i interpunktion</xsl:text>
+						<xsl:text>välimerkkimuutos</xsl:text>
 					</xsl:when>
 					<xsl:when test="substring(@type, 1, 3) = 'ide'">
-						<xsl:text>identiskt</xsl:text>
+						<xsl:text>ei muutosta</xsl:text>
 					</xsl:when>
 					<xsl:when test="substring(@type, 1, 3) = 'err'">
-						<xsl:text>sättnings-/tryckfel i endera texten</xsl:text>
+						<xsl:text>ladonta- tai painovirhe jossain versiossa</xsl:text>
 					</xsl:when>
 					<xsl:when test="substring(@type, 1, 3) = 'typ'">
-						<xsl:text>skillnad i typografi</xsl:text>
+						<xsl:text>kirjoitusasun muutos</xsl:text>
 					</xsl:when>
 				</xsl:choose>
 			</span>
