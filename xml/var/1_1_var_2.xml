@@ -1,0 +1,1094 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1929). Luku 1, varianttikoodattu</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo: Werner Söderström 1929</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+            <head type="section" style="blackletter"><app id="var2" type="sub">
+                    <rdg><hi rend="bold">Ensimmäinen luku.</hi></rdg>
+                </app></head>
+            <head type="section" style="blackletter"><hi rend="bold">Ihmisestä.</hi></head>
+            <p style="blackletter">Jumala on suuri. Jumala on hyvä. Hän on luonut taivaan.
+                <app id="var3" type="sub"><rdg>Hän on luonut
+                   meren.</rdg></app> Hän on luonut maan.
+                 Hän on luonut <app id="var4" type="sub">
+                    <rdg>sinut.</rdg>
+                </app> Kiitä <app id="var5" type="sub">
+                    <rdg>Jumalaa.</rdg>
+                </app> Pelkää <app id="var6" type="sub">
+                    <rdg>Jumalaa.</rdg>
+                </app> Rakasta <app id="var7" type="sub">
+                    <rdg>Jumalaa. Kuule</rdg>
+                </app> hänen käskyjänsä. Jumala olkoon kiitetty.</p>
+            <p style="blackletter">Me olemme Jumalan <app id="var8" type="sub">
+                    <rdg>lapsia.</rdg>
+                </app> Me katselemme hänen tekojansa. Me ihmettelemme hänen viisauttansa. Me
+                    <app id="var9" type="sub">
+                    <rdg>kunnioitamme</rdg>
+                </app> hänen suuruuttansa. Me ylistämme hänen hyvyyttänsä. <app id="var10" type="sub">
+                    <rdg>Jumala antakoon siihen armonsa.</rdg>
+                </app> Jumala antakoon meille oikean nöyryyden. Jumalan pelko on viisauden
+                alku.</p>
+            <pb type="orig" n="6"/>
+            <p style="blackletter">Tämä kirja <app id="var11" type="sub">
+                    <rdg>puhuu</rdg>
+                </app> Jumalan <app id="var12" type="sub">
+                    <rdg>töistä.</rdg>
+                </app> Tämä kirja on lasten kirja. Lue tätä. Lue <app id="var13" type="sub">
+                    <rdg>ääneen.</rdg>
+                </app> Lue <app id="var14" type="sub">
+                    <rdg>hyvin. Ota</rdg>
+                </app> tarkka vaari. Ajattele tarkasti. Seiso suorana. <app id="var15" type="sub">
+                    <rdg>Lausu</rdg>
+                </app> sanat selvästi. Rohkaise mielesi. Ahkera palkitaan. Lukemisen <app id="var16" type="sub">
+                    <rdg>jälkeen</rdg>
+                </app> tulevat leikit. <app id="var17" type="sub">
+                    <rdg>Sitten</rdg>
+                </app> saat <app id="var18" type="sub">
+                    <rdg>iloisesti</rdg>
+                </app> juoksennella.</p>
+            <p style="blackletter"><app id="var19" type="sub">
+                    <rdg>Aloittakaamme</rdg>
+                </app> siis. <app id="var20" type="sub">
+                    <rdg>Kuuntelepa</rdg>
+                </app> nyt. Isä ei ole kotona. Missä <app id="var21" type="sub int">
+                    <rdg>isä on?</rdg>
+                </app> Hän tekee työtä lastensa eduksi. Hän tekee työtä isänmaansa hyödyksi.
+                Hän tekee työtä Jumalan kunniaksi. Työttä emme saa leipää. Leivättä ei voi
+                kukaan elää. <app id="var22" type="int">
+                    <rdg>Kiitoksia,</rdg>
+                </app> isä. <app id="var23" type="int">
+                    <rdg>Kiitos,</rdg>
+                </app> hyvä <app id="var24" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> jokapäiväisestä leivästä.</p>
+            <p style="blackletter">Äiti istuu tuvassa. Mitä <app id="var25" type="sub int">
+                    <rdg>äiti tekee?</rdg>
+                </app> Hän tekee työtä lastensa <app id="var26" type="sub">
+                    <rdg>hyväksi.</rdg>
+                </app> Hän ompelee vaatteemme. Hän keittää ruokamme. Vaatteitta <app id="var27" type="sub">
+                    <rdg>paleltuisimme.</rdg>
+                </app> Ruuatta <app id="var28" type="sub">
+                    <rdg>nääntyisimme</rdg>
+                </app> nälkään. <app id="var29" type="int">
+                    <rdg>Kiitoksia,</rdg>
+                </app> äiti. <app id="var30" type="int">
+                    <rdg>Kiitos,</rdg>
+                </app> hyvä <app id="var31" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> ruumiimme vaatteista.</p>
+            <p style="blackletter">Kyllä vanhempamme ovat <app id="var32" type="sub">
+                    <rdg>hyviä</rdg>
+                </app> meille. He rukoilevat <app id="var33" type="sub">
+                    <rdg>Jumalaa</rdg>
+                </app> kanssamme. He opettavat meitä hyviksi lapsiksi. Rukouksetta ei ole
+                siunausta. Hyvyydettä ei ole <app id="var34" type="sub">
+                    <rdg>oikeata</rdg>
+                </app> iloa. Mielellämme <app id="var35" type="sub">
+                    <rdg>me <seg>siis</seg></rdg>
+                </app> tottelemme vanhempiamme. <app id="var36" type="sub">
+                    <rdg>Sydämestämme</rdg>
+                </app> siis heitä <app id="var37" type="sub int">
+                    <rdg>rakastamme <seg>kaiken</seg> elinaikamme.</rdg>
+                </app></p>
+            <p style="blackletter">Liisa on sisareni. Hän on aivan pieni. Hän ei kävele. Hän
+                konttaa. Hän ei puhu. Hän loruaa. Nauraa hän osaa. Haukotella hän osaa.
+                Aivastella hän osaa. <app id="var38" type="sub">
+                    <rdg>Se ei</rdg>
+                </app> ole suuri oppi. Pieni lapsi ei osaa <app id="var39" type="sub">
+                    <rdg>enempää.</rdg>
+                </app> Suuretkin ovat <app id="var40" type="sub">
+                    <rdg>kerran</rdg>
+                </app> olleet <app id="var41" type="sub">
+                    <rdg><seg>pieniä.</seg></rdg>
+                </app> Väkevätkin ovat kerran olleet <app id="var42" type="sub">
+                    <rdg><seg>heikkoja.</seg></rdg>
+                </app> Oppineetkin ovat <app id="var43" type="sub">
+                    <rdg>olleet</rdg>
+                </app> tietämättömiä. Kyllähän ruumiimme kasvaa. Suokoon Jumala sielummekin
+                kasvaa. Jumala siunatkoon Liisaa. Kyllä hän on hyvä.</p>
+            <p style="blackletter">Antti on veljeni. Hän on neljän (4) vuoden vanha. Hän
+                ratsastaa laukkaa isolla puuhevosella. Antti osaa juosta. Antti osaa
+                leikitellä. Ei se ole suuri oppi. Ajan pitkään oppii hän kyllä enemmän. <app id="var44" type="sub">
+                    <rdg>Silloin</rdg>
+                </app> tulee hän ymmärtäväisemmäksi. <app id="var45" type="sub">
+                    <rdg>Silloin</rdg>
+                </app> tulee hän vakavammaksi <app id="var46" type="sub">
+                    <rdg>kaikessa.</rdg>
+                </app> Jumala siunatkoon Anttia. Kyllä hän on hyvä.</p>
+            <pb type="orig" n="7"/>
+            <p style="blackletter"><app id="var47" type="sub">
+                    <rdg>Isoisä</rdg>
+                </app> istuu pöydän takana. Hän on hyvin vanha. Hän on <app id="var48" type="sub int">
+                    <rdg>aivan harmaapäinen.</rdg>
+                </app> Hänellä <app id="var49" type="sub">
+                    <rdg>on kurttuiset</rdg>
+                </app> kädet. Ei hänellä ole hampaitakaan. Mutta vallan hyvä hän on. Hän on
+                elänyt <app id="var50" type="sub">
+                    <rdg><seg>hyvin</seg> kauan.</rdg>
+                </app> Hän on nähnyt hyvin paljon. Hän on viisas mies. Jumalinen <app id="var51" type="sub int">
+                    <rdg>hän <seg>on</seg> varmaan.</rdg>
+                </app> Hän osaa kertoa Jumalan <app id="var52" type="sub">
+                    <rdg>voimasta.</rdg>
+                </app> Hän tuntee ihmiset. Hän tietää eläinten <app id="var53" type="sub">
+                    <rdg>elämän.</rdg>
+                </app> Kasvit tietää hän kaikki. Hän tahtoo kertoa meille <app id="var54" type="sub">
+                    <rdg>kaikkea.</rdg>
+                </app> Kiitoksia <app id="var55" type="sub">
+                    <rdg>isoisä.</rdg>
+                </app> Jumala siunatkoon <app id="var56" type="sub">
+                    <rdg>vanhuksia heidän viisaasta vanhuudestaan.</rdg>
+                </app></p>
+            <p style="blackletter">Nyt istumme kaikki <app id="var57" type="sub">
+                    <rdg>piiriin. Ole huomaavainen.</rdg>
+                </app> Nyt alkaa <app id="var58" type="sub">
+                    <rdg>ensimmäinen</rdg>
+                </app> kertomus. <app id="var59" type="sub">
+                    <rdg>Mistä</rdg>
+                </app> siinä <app id="var60" type="sub">
+                    <rdg>puhutaan?</rdg>
+                </app> Siinä puhutaan ihmisen ruumiista. Siinä puhutaan <app id="var61" type="sub">
+                    <rdg>ihmisen</rdg>
+                </app> sielusta. Siinä puhutaan <app id="var62" type="sub">
+                    <rdg>ihmisen</rdg>
+                </app> aistimista.</p>
+            <head><hi rend="bold">Kuinka </hi><app id="var63" type="sub">
+                    <rdg><hi rend="bold">Dion</hi></rdg>
+                </app><hi rend="bold"> yritti </hi><app id="var64" type="sub">
+                    <rdg><hi rend="bold">luoda</hi></rdg>
+                </app><hi rend="bold"> ihmistä.</hi></head>
+            <p style="blackletter">Olipa kerran mies. <app id="var65" type="sub">
+                    <rdg>Hänen nimensä</rdg>
+                </app> oli <app id="var66" type="sub">
+                    <rdg>Dion.</rdg>
+                </app> Hän asui yksinäisellä saarella. Hänen päivänsä tulivat pitkiksi. <app id="var67" type="sub">
+                    <rdg>Hänen</rdg>
+                </app> oli ikävä. Hän puhui itsekseen. Minä teen itselleni kumppanin. Minä
+                luon ihmisen.</p>
+            <p style="blackletter"><app id="var68" type="sub">
+                    <rdg>Rannalla</rdg>
+                </app> oli savea. <app id="var69" type="sub">
+                    <rdg>Dion</rdg>
+                </app> otti savea käteensä. Hän teki siitä tönkin. Hän teki tönkin ihmisen
+                muotoiseksi. Hän teki pään. Hän teki kaulan. Hän teki rinnan. Hän teki
+                vatsan. Hän teki käsivarret. Hän teki <app id="var70" type="sub">
+                    <rdg>lädet.</rdg>
+                </app> Hän teki sääret. Hän teki jalat. Hän asetti kuvan seisomaan puuta
+                    <app id="var71" type="sub">
+                    <rdg>vastaan.</rdg>
+                </app> Nyt on ihminen <app id="var72" type="sub">
+                    <rdg>valmis.</rdg>
+                </app></p>
+            <p style="blackletter"><app id="var73" type="sub">
+                    <rdg>Kuva ei hengittänyt. Dion</rdg>
+                </app> sanoi <app id="var74" type="sub int">
+                    <rdg>näin. Vielä puuttuu jotakin.</rdg>
+                </app> Hyvä <app id="var75" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo kuvan hengittää <app id="var76" type="sub">
+                    <rdg>keuhkoillansa.</rdg>
+                </app> Hyvä <app id="var77" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo veren juosta kuvan suonissa. Hyvä <app id="var78" type="sub int">
+                    <rdg>Jumala,</rdg>
+                </app> suo kuvan <app id="var79" type="sub">
+                    <rdg>sydämen sykkiä.</rdg>
+                </app></p>
+            <p style="blackletter">Jumala lähetti saarelle enkelin. Enkeli <app id="var80" type="sub">
+                    <rdg>kosketti kuvaa. Nyt alkoivat</rdg>
+                </app> kuvan <app id="var81" type="sub">
+                    <rdg>keuhkot</rdg>
+                </app> hengittää. <app id="var82" type="sub">
+                    <rdg>Veri juoksi</rdg>
+                </app> sen suonissa. Sydän alkoi tykyttää. <app id="var83" type="sub">
+                    <rdg>Dion</rdg>
+                </app> ihastui. Nyt on kaikki <app id="var84" type="sub">
+                    <rdg>hyvin.</rdg>
+                </app> Nyt on ihminen <app id="var85" type="sub">
+                    <rdg>valmis.</rdg>
+                </app></p>
+            <pb type="orig" n="8"/>
+            <p style="blackletter"><app id="var86" type="sub">
+                    <rdg>Kuva ei liikkunut.</rdg>
+                </app> Ampiainen pisti sitä. Tätä <app id="var87" type="sub">
+                    <rdg>se <seg>ei</seg></rdg>
+                </app> tuntenut. <app id="var88" type="sub">
+                    <rdg>Dion</rdg>
+                </app> sanoi näin. Vielä puuttuu jotakin. <app id="var89" type="sub">
+                    <rdg><hi rend="expanded">Liikuntakyky</hi></rdg>
+                </app> on poissa. <hi rend="expanded">Tunto</hi> on poissa. Kuva on <app id="var90" type="sub">
+                    <rdg>hermoton. Hermoton</rdg>
+                </app> on <app id="var91" type="sub int">
+                    <rdg>kovin onneton.</rdg>
+                </app> Ontuvan täytyy kulkea sauvan nojassa. <app id="var92" type="sub">
+                    <rdg>Kumpikin tarvitsee muiden</rdg>
+                </app> apua. Hyvä <app id="var93" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo <app id="var94" type="sub">
+                    <rdg>kuvan kävellä jaloillaan. Hyvä Jumala, suo sen</rdg>
+                </app> ottaa <app id="var95" type="sub">
+                    <rdg>kiinni</rdg>
+                </app> käsillään. Suo koko <app id="var96" type="sub">
+                    <rdg>sen ruumiille vapaa liikuntakyky.</rdg>
+                </app> Suo koko <app id="var97" type="sub">
+                    <rdg>sen ruumiille tuntoaisti.</rdg>
+                </app></p>
+            <p style="blackletter">Enkeli <app id="var98" type="sub">
+                    <rdg>kosketti kuvaa. Kuva</rdg>
+                </app> taittoi <app id="var99" type="sub">
+                    <rdg>kohta</rdg>
+                </app> oksan puusta. Kohta <app id="var100" type="sub">
+                    <rdg>se <seg>tunsi</seg></rdg>
+                </app> ampiaisen piston. Koko kuva sai <app id="var101" type="sub">
+                    <rdg>liikuntakyvyn.</rdg>
+                </app> Koko kuva sai tunnon. Se hikoili <app id="var102" type="sub">
+                    <rdg>lämmöstä.</rdg>
+                </app> Sitä <app id="var103" type="sub">
+                    <rdg>vilutti</rdg>
+                </app> kylmässä. <app id="var104" type="sub">
+                    <rdg>Dion oli hyvin iloinen.</rdg>
+                </app> Nyt on kaikki <app id="var105" type="sub">
+                    <rdg>hyvin.</rdg>
+                </app> Nyt on ihminen <app id="var106" type="sub">
+                    <rdg>valmis.</rdg>
+                </app></p>
+            <p style="blackletter">Kuva löi päänsä puuhun. Kuva <app id="var107" type="sub">
+                    <rdg>kompastui pienimpäänkin kiveen. Dion pelästyi.</rdg>
+                </app> Vielä <app id="var108" type="sub">
+                    <rdg>puuttui</rdg>
+                </app> jotakin. Kuva on sokea. Sokea on <app id="var109" type="sub int">
+                    <rdg>kovin onneton. Hän</rdg>
+                </app> elää alinomaisessa pimeydessä. Muiden täytyy <app id="var110" type="sub">
+                    <rdg>häntä taluttaa kädestä.</rdg>
+                </app> Hän on vieras maan päällä. Hyvä <app id="var111" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo kuvan nähdä silmillään.</p>
+            <p style="blackletter">Enkeli <app id="var112" type="sub">
+                    <rdg>kosketti kuvaa.</rdg>
+                </app> Kuvapa näki <app id="var113" type="sub">
+                    <rdg>nyt <seg>silmillään.</seg></rdg>
+                </app> Jumala oli antanut kuvalle <app id="var114" type="sub">
+                    <rdg><hi rend="expanded">näköaistin.</hi> Dion</rdg>
+                </app> tuli hyvin iloiseksi. Nyt on kaikki <app id="var115" type="sub">
+                    <rdg>hyvin.</rdg>
+                </app> Nyt on ihminen <app id="var116" type="sub">
+                    <rdg>valmis.</rdg>
+                </app></p>
+            <p style="blackletter"><app id="var117" type="sub">
+                    <rdg>Dion</rdg>
+                </app> puhutteli kuvaa. Kuva ei kuullut hänen ääntänsä. <app id="var118" type="sub">
+                    <rdg>Dion pelästyi. Vielä</rdg>
+                </app> puuttuu jotakin. Kuva on kuuro. Kuuro on <app id="var119" type="sub">
+                    <rdg>kovin onneton. Hän ei</rdg>
+                </app> kuule ystäväinsä suloisia sanoja. <app id="var120" type="sub">
+                    <rdg>Häntä ei ilahduta lintujen</rdg>
+                </app> laulu. Hän on <app id="var121" type="sub">
+                    <rdg>vieras</rdg>
+                </app> vertaistensa <app id="var122" type="sub">
+                    <rdg>keskellä.</rdg>
+                </app> Hyvä <app id="var123" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo kuvan kuulla korvillaan.</p>
+            <p style="blackletter">Enkeli <app id="var124" type="sub">
+                    <rdg>kosketti kuvaa.</rdg>
+                </app> Kuva alkoi kuunnella. Nyt kuuli hän korvillaan. Jumala oli antanut
+                hänelle <app id="var125" type="sub">
+                    <rdg><hi rend="expanded">kuuloaistin.</hi> Dion</rdg>
+                </app> tuli hyvin iloiseksi. Nyt on kaikki <app id="var126" type="sub">
+                    <rdg>hyvin.</rdg>
+                </app> Nyt on ihminen <app id="var127" type="sub">
+                    <rdg>valmis.</rdg>
+                </app></p>
+            <p style="blackletter"><app id="var128" type="sub">
+                    <rdg>Dion</rdg>
+                </app> koetteli kuvaa. Oikeaan käteensä <app id="var129" type="sub">
+                    <rdg>hän <seg>otti</seg></rdg>
+                </app> kukoistavan ruusun. Vasempaan käteensä <app id="var130" type="sub">
+                    <rdg>hän <seg>otti</seg> mädäntyneen</rdg>
+                </app> munan. Kumpiko näistä <app id="var131" type="sub">
+                    <rdg>tuoksuu paremmalle?</rdg>
+                </app> Kuva <app id="var132" type="sub">
+                    <rdg>osoitti</rdg>
+                </app> munaa. <app id="var133" type="sub">
+                    <rdg>Dion tuli pahoilleen.</rdg>
+                </app> Vielä puuttuu jotakin. <app id="var134" type="sub">
+                    <rdg>Hajuaisti</rdg>
+                </app> on <pb type="orig" n="9"/>poissa. <app id="var135" type="sub">
+                    <rdg>Hajuaisti erottaa hyvänhajuisen pahanhajuisesta.</rdg>
+                </app> Hyvä <app id="var136" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo kuvan saada nenäänsä <app id="var137" type="sub">
+                    <rdg><hi rend="expanded">hajuaisti.</hi></rdg>
+                </app></p>
+            <p style="blackletter">Enkeli <app id="var138" type="sub">
+                    <rdg>kosketti kuvaa.</rdg>
+                </app> Kuva saattoi <app id="var139" type="sub">
+                    <rdg>nyt tuntea</rdg>
+                </app> kukan hajun. <app id="var140" type="sub">
+                    <rdg>Dion</rdg>
+                </app> tuli hyvin iloiseksi. Nyt on kaikki <app id="var141" type="sub">
+                    <rdg>hyvin.</rdg>
+                </app> Nyt on ihminen <app id="var142" type="sub">
+                    <rdg>valmis.</rdg>
+                </app></p>
+            <p style="blackletter"><app id="var143" type="sub">
+                    <rdg>Dion</rdg>
+                </app> koetteli vielä kuvaa. Hän otti toiseen käteensä makean omenan.
+                Toiseen käteensä otti hän karvaan sienen. Syö <app id="var144" type="sub">
+                    <rdg>kumpaakin.</rdg>
+                </app> Kumpiko näistä maistuu paremmalta? Kuva <app id="var145" type="sub">
+                    <rdg>osoitti</rdg>
+                </app> sientä. <app id="var146" type="sub">
+                    <rdg>Dion</rdg>
+                </app> tuli <app id="var147" type="sub">
+                    <rdg>pahoilleen.</rdg>
+                </app> Vielä <app id="var148" type="sub">
+                    <rdg>puuttui</rdg>
+                </app> jotakin. <app id="var149" type="sub">
+                    <rdg>Makuaisti</rdg>
+                </app> on poissa. <app id="var150" type="sub">
+                    <rdg>Makuaisti erottaa</rdg>
+                </app> makean karvaasta. Hyvä <app id="var151" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo kuvan kieleen <app id="var152" type="sub">
+                    <rdg>makuaisti.</rdg>
+                </app></p>
+            <p style="blackletter">Enkeli <app id="var153" type="sub">
+                    <rdg>kosketti kuvaa.</rdg>
+                </app> Kuvan kieli sai <app id="var154" type="sub">
+                    <rdg><hi rend="expanded">makuaistin.</hi> Dion</rdg>
+                </app> tuli hyvin iloiseksi. Nyt on kaikki <app id="var155" type="sub">
+                    <rdg>hyvin.</rdg>
+                </app> Nyt on ihminen <app id="var156" type="sub">
+                    <rdg>valmis.</rdg>
+                </app></p>
+            <p style="blackletter"><app id="var157" type="sub">
+                    <rdg>Dion koetti</rdg>
+                </app> vielä kuvaa. Hän puheli <app id="var158" type="sub">
+                    <rdg>sille <seg>ystävällisiä</seg></rdg>
+                </app> sanoja. Kuvapa ei vastannutkaan. <app id="var159" type="sub">
+                    <rdg>Dion pelästyi.</rdg>
+                </app> Vielä puuttuu jotakin. Kuva on mykkä. Mykkä on hyvin <app id="var160" type="sub">
+                    <rdg>onneton. Hän ei voi ilmoittaa</rdg>
+                </app> tarpeitaan. <app id="var161" type="sub">
+                    <rdg>Hän ei voi sanoa ajatuksiaan ääneen.</rdg>
+                </app> Hän on vieras ihmisten <app id="var162" type="sub">
+                    <rdg>joukossa.</rdg>
+                </app> Hyvä <app id="var163" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo kuvan puhua suullansa.</p>
+            <p style="blackletter">Enkeli <app id="var164" type="sub">
+                    <rdg>kosketti kuvaa.</rdg>
+                </app> Kuvan huulet saivat äänen. Hänen kielensä sujui <app id="var165" type="sub">
+                    <rdg>puhumaan.</rdg>
+                </app> Hänen suunsa sai <app id="var166" type="sub int">
+                    <rdg>puheenlahjan. Dion</rdg>
+                </app> tuli hyvin iloiseksi. Nyt on kaikki <app id="var167" type="sub">
+                    <rdg>hyvin.</rdg>
+                </app> Nyt on ihminen <app id="var168" type="sub">
+                    <rdg>valmis.</rdg>
+                </app></p>
+            <p style="blackletter">Vieläkin koetteli <app id="var169" type="sub">
+                    <rdg>Dion</rdg>
+                </app> kuvaa. <app id="var170" type="sub">
+                    <rdg>Dion</rdg>
+                </app> kyseli. Kuva <app id="var171" type="sub">
+                    <rdg>vastaili. Kuva vastaili</rdg>
+                </app> hulluja sanoja. <app id="var172" type="sub">
+                    <rdg>Dion pelästyi. Vielä</rdg>
+                </app> puuttuu jotakin. <hi rend="expanded">Ymmärrys</hi> on poissa. Hullu
+                on hyvin <app id="var173" type="sub">
+                    <rdg>onneton.</rdg>
+                </app> Hullu ihminen on peto. Hyvä <app id="var174" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo kuvan ajatella. Hyvä <app id="var175" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo kuvan <app id="var176" type="int">
+                    <rdg>tietää,</rdg>
+                </app> mitä tahtoo. Hyvä <app id="var177" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo kuvalle ymmärrys.</p>
+            <p style="blackletter">Enkeli <app id="var178" type="sub">
+                    <rdg>kosketti kuvaa.</rdg>
+                </app> Ajatuksia tuli kuvan aivoihin. Ymmärryksen valo yhdisti ajatukset.
+                    <hi rend="expanded">Tahto</hi> toi ajatukset kuvan huulille. Nyt puhui
+                kuva viisaita sanoja. <app id="var179" type="sub">
+                    <rdg>Dion</rdg>
+                </app> tuli hyvin iloiseksi. Nyt on kaikki <app id="var180" type="sub">
+                    <rdg>hyvin.</rdg>
+                </app> Nyt on ihminen <app id="var181" type="sub">
+                    <rdg>valmis.</rdg>
+                </app></p>
+            <pb type="orig" n="10"/>
+            <p style="blackletter"><app id="var182" type="sub">
+                    <rdg>Dion</rdg>
+                </app> otti kuvan syliinsä. Yksinäni olen täällä. Tarvitsen <app id="var183" type="sub">
+                    <rdg>ystävää.</rdg>
+                </app> Ole ystävänäni. Kuva kääntyi pois. Kuva naurahti. <app id="var184" type="sub">
+                    <rdg>Sen nauru</rdg>
+                </app> oli niin kummallista. <app id="var185" type="sub">
+                    <rdg>Dion pelästyi kovin. Vielä</rdg>
+                </app> puuttuu jotakin. <hi rend="expanded">Mieli</hi> on poissa. <app id="var186" type="sub">
+                    <rdg>Tästä</rdg>
+                </app> puuttuu <app id="var187" type="sub">
+                    <rdg><hi rend="expanded">mielikuvituksen</hi></rdg>
+                </app> voima. Mielettä ei ole ihmisellä iloa maan päällä. <app id="var188" type="sub">
+                    <rdg>Mielikuvituksetta hän</rdg>
+                </app> ei <app id="var189" type="sub">
+                    <rdg><seg>ymmärrä</seg></rdg>
+                </app> vertaistensa mielikarvautta. Hyvä <app id="var190" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo kuvalle <app id="var191" type="sub">
+                    <rdg>mielikuvituksen</rdg>
+                </app> lahja.</p>
+            <p style="blackletter">Enkeli <app id="var192" type="sub">
+                    <rdg>kosketti kuvaa.</rdg>
+                </app> Kuvan sydän <app id="var193" type="sub">
+                    <rdg>sykki</rdg>
+                </app> ihmisen <app id="var194" type="sub">
+                    <rdg>tunteilla. Mielikuvituksellaan</rdg>
+                </app> hän <app id="var195" type="sub">
+                    <rdg>tajusi <seg>toisen</seg></rdg>
+                </app> ystävyyden. <app id="var196" type="sub">
+                    <rdg>Kuva</rdg>
+                </app> otti <app id="var197" type="sub">
+                    <rdg>Dionin</rdg>
+                </app> syliinsä. Kuva itki ilosta. <app id="var198" type="sub">
+                    <rdg>Dion</rdg>
+                </app> oli onnellinen. <app id="var199" type="sub">
+                    <rdg>Nyt on kaikki täydellistä. <seg>Nyt</seg></rdg>
+                </app> ei puutu mitään. Nyt on ihminen <app id="var200" type="sub">
+                    <rdg>valmis.</rdg>
+                </app></p>
+            <p style="blackletter">Mutta enkeli <app id="var201" type="sub">
+                    <rdg>hymyili</rdg>
+                </app> suloisesti. <app id="var202" type="sub">
+                    <rdg>Dion</rdg>
+                </app> raukka. Sinä tahdot tehdä Jumalan töitä. <app id="var203" type="sub">
+                    <rdg>Tahdot</rdg>
+                </app> luoda <app id="var204" type="sub">
+                    <rdg>ihmisen. Sanot</rdg>
+                </app> näin. Nyt ei puutu enää mitään. Mutta parhainta puuttuu vielä.
+                Ihmisen ylevintä lahjaa puuttuu vielä. Järkeä puuttuu <app id="var205" type="sub">
+                    <rdg>siltä <seg>vielä.</seg></rdg>
+                </app>
+                <hi rend="expanded">Omaatuntoa</hi> puuttuu. <app id="var206" type="sub">
+                    <rdg>Paljon</rdg>
+                </app> olet kyllä tehnyt. Jumalan kuvaa et ole voinut tehdä. <app id="var207" type="sub">
+                    <rdg>Kuolematonta</rdg>
+                </app> henkeä puuttuu vielä. Kuva ei voi tuntea <app id="var208" type="sub">
+                    <rdg>Jumalaa.</rdg>
+                </app> Kuva ei voi rukoilla <app id="var209" type="sub">
+                    <rdg>Jumalaa. Sentähden</rdg>
+                </app> ei sillä ole osaa <app id="var210" type="sub">
+                    <rdg>iankaikkisesta elämästä. Sentähden</rdg>
+                </app> ei <app id="var211" type="sub">
+                    <rdg><seg>kaikesta</seg></rdg>
+                </app> muusta <app id="var212" type="sub">
+                    <rdg>ole <seg>mihinkään.</seg> Sentähden</rdg>
+                </app> on kuvasi savinen tönkki.</p>
+            <p style="blackletter">Enkeli <app id="var213" type="sub">
+                    <rdg>kosketti kuvaa.</rdg>
+                </app> Kohta musertui kuva tomuksi. <app id="var214" type="sub">
+                    <rdg>Dion pelästyi</rdg>
+                </app> kovin. Mitä <app id="var215" type="sub int">
+                    <rdg>minun <seg>on</seg> tekeminen?</rdg>
+                </app> Olen ylpeydelläni vihoittanut elävän Jumalan.</p>
+            <p style="blackletter">Enkeli näki <app id="var216" type="sub">
+                    <rdg>Dionin katumuksen.</rdg>
+                </app> Nöyryytä itsesi Jumalan <app id="var217" type="sub">
+                    <rdg>kaikkivaltiaan <seg>edessä.</seg></rdg>
+                </app> Anna hänelle ainoalle kunnia. Ota sauvasi. Seuraa minua. Minä
+                johdatan <app id="var218" type="sub">
+                    <rdg>sinut ihmisten luo.</rdg>
+                </app> Yksinään ei voi kukaan tulla toimeen maan päällä. Käy Jumalan teitä.
+                Tee Jumalan <app id="var219" type="sub">
+                    <rdg>tahto.</rdg>
+                </app> Niin on Jumala <app id="var220" type="sub">
+                    <rdg>luova</rdg>
+                </app> sinuun uuden ihmisen.</p>
+            <p style="blackletter"><app id="var221" type="sub">
+                    <rdg>Dion</rdg>
+                </app> lankesi polvilleen. Hyvä <app id="var222" type="int">
+                    <rdg>Jumala,</rdg>
+                </app> suo anteeksi ylpeyteni. Ihminen on <app id="var223" type="sub">
+                    <rdg>Sinun</rdg>
+                </app> pyhä <app id="var224" type="sub">
+                    <rdg>tekosi.</rdg>
+                </app> Ainoastaan <app id="var225" type="sub">
+                    <rdg>Sinä</rdg>
+                </app>
+                <pb type="orig" n="11"/>voit luoda <app id="var226" type="sub">
+                    <rdg>hänet.</rdg>
+                </app> Ainoastaan <app id="var227" type="sub">
+                    <rdg>Sinä</rdg>
+                </app> voit tehdä <app id="var228" type="sub">
+                    <rdg>hänet</rdg>
+                </app> täydelliseksi. Mutta minä olen <app id="var229" type="sub">
+                    <rdg>tomua.</rdg>
+                </app> Minä en voi mitään itsestäni. Sinun on valta. Sinun on voima. Sinun
+                on kunnia <app id="var230" type="sub">
+                    <rdg>iankaikkisesta iankaikkiseen.</rdg>
+                </app></p>
+            <p style="blackletter">Nyt loppui <app id="var231" type="sub">
+                    <rdg>kertomus Dionista.</rdg>
+                </app> Nyt tulee toinen kertomus. Mistä siinä puhutaan? Siinä puhutaan
+                ihmisen opista.</p>
+            <head><hi rend="bold">Kasper ei saanut oppia mitään.</hi></head>
+            <p style="blackletter">Olipa kerran kuningas. Hän <app id="var232" type="sub">
+                    <rdg>käveli</rdg>
+                </app> muutamana päivänä <app id="var233" type="sub">
+                    <rdg>metsässä.</rdg>
+                </app> Siellä oli muurahaispesä. <app id="var234" type="sub">
+                    <rdg>Monet muurahaiset vetivät</rdg>
+                </app> korsia pesään. <app id="var235" type="sub">
+                    <rdg>Useat niistä</rdg>
+                </app> olivat vasta <app id="var236" type="sub">
+                    <rdg>päässeet kotelostaan.</rdg>
+                </app> Kohta <app id="var237" type="sub">
+                    <rdg>ne alkoivat</rdg>
+                </app> tehdä työtä. Kohta <app id="var238" type="sub">
+                    <rdg>ne <seg>taisivat</seg> toimittaa</rdg>
+                </app> kummia asioita. Ne keräsivät itselleen ruokaa. Ne <app id="var239" type="sub">
+                    <rdg>rakensivat</rdg>
+                </app> itselleen kammioita. Ne tekivät kummallisia kulkureikiä <app id="var240" type="sub">
+                    <rdg>muurahaispesässään.</rdg>
+                </app> Ne menettelivät <app id="var241" type="sub">
+                    <rdg>kohta</rdg>
+                </app> kuin <app id="var242" type="sub">
+                    <rdg>täysin</rdg>
+                </app> oppineet.</p>
+            <p style="blackletter">Tämäpä <app id="var243" type="sub int">
+                    <rdg>kuninkaasta <seg>näytti</seg> ihmeelliseltä.</rdg>
+                </app> Hän ajatteli itsekseen näin. Muurahainen on <app id="var244" type="sub">
+                    <rdg>vain eläin.</rdg>
+                </app> Se rakentaa niin kummallisia kammioita. Mutta kukaan ei ole opettanut
+                    <app id="var245" type="sub">
+                    <rdg>sitä</rdg>
+                </app> rakentamaan. Ihminenhän on <app id="var246" type="sub">
+                    <rdg>paljon täydellisempi.</rdg>
+                </app>
+                <hi rend="expanded">Miksi ei ihminen voi oppia itsestänsä?</hi></p>
+            <p style="blackletter">Kuninkaalla oli puutarha. Sen ympärillä oli korkea muuri.
+                Siinä oli <app id="var247" type="sub int">
+                    <rdg>kauniita hedelmäpuita.</rdg>
+                </app> Siinä oli kirkkaita <app id="var248" type="sub">
+                    <rdg>lähteitä.</rdg>
+                </app> Kuninkaalla oli myös paimen. <app id="var249" type="sub">
+                    <rdg>Kuningas</rdg>
+                </app> kutsui <app id="var250" type="sub">
+                    <rdg>hänet luoksensa.</rdg>
+                </app> Kartanossani on poika. <app id="var251" type="sub">
+                    <rdg>Hänen nimensä</rdg>
+                </app> on <app id="var252" type="sub int">
+                    <rdg>Kasper.</rdg>
+                </app> Hän on hyvin pieni. Hän ei taida vielä puhua. Vie Kasper puutarhaan.
+                Sulje <app id="var253" type="sub">
+                    <rdg>hänet</rdg>
+                </app> sinne. Anna hänelle ruokaa. Anna hänelle juomaa. Mutta <app id="var254" type="sub">
+                    <rdg>tämä</rdg>
+                </app> tulee sinun tehdä yöllä. Kasper ei saa sinua nähdä. <app id="var255" type="sub">
+                    <rdg>Hän ei</rdg>
+                </app> koskaan saa <app id="var256" type="sub">
+                    <rdg><seg>nähdä</seg></rdg>
+                </app> ihmistä. <pb type="orig" n="12"/><app id="var257" type="sub">
+                    <rdg>Hän ei</rdg>
+                </app> koskaan saa <app id="var258" type="sub">
+                    <rdg>kuulla kenenkään puhuvan. Hän ei koskaan saa</rdg>
+                </app> oppia mitään muilta ihmisiltä. Hänen pitää <app id="var259" type="sub">
+                    <rdg>oppia itsestänsä.</rdg>
+                </app></p>
+            <p style="blackletter">Paimen <app id="var260" type="int">
+                    <rdg>teki,</rdg>
+                </app> mitä kuningas käski. Neljä vuotta kului. <app id="var261" type="sub">
+                    <rdg>Silloin kuningas</rdg>
+                </app> tuli <app id="var262" type="sub">
+                    <rdg><seg>puutarhaan.</seg></rdg>
+                </app> Elääkö Kasper vielä? <app id="var263" type="int">
+                    <rdg>Elää,</rdg>
+                </app> herra kuningas. Mitä <app id="var264" type="sub">
+                    <rdg>hän <seg>on</seg></rdg>
+                </app> oppinut? Hän ei ole oppinut mitään. Tämä näytti kuninkaasta hyvin
+                kummalta.</p>
+            <p style="blackletter">Taas kului neljä vuotta. Kuningas tuli puutarhaan. Elääkö
+                Kasper vielä? <app id="var265" type="int">
+                    <rdg>Elää,</rdg>
+                </app> herra kuningas. Mitä <app id="var266" type="sub">
+                    <rdg>hän <seg>on</seg></rdg>
+                </app> oppinut? Hän on oppinut kaksi sanaa. Muutamana päivänä juoksi
+                lampaita puutarhan muurin takana. Niiden <app id="var267" type="sub">
+                    <rdg>jäljestä</rdg>
+                </app> juoksi koira. Kasper matki lammasten määkymistä. Kasper matki koiran
+                haukkumista. Siitä asti <app id="var268" type="sub">
+                    <rdg><seg>hän</seg> osaa <seg>puhua</seg></rdg>
+                </app> kaksi sanaa. <app id="var269" type="sub">
+                    <rdg>Toinen</rdg>
+                </app> on mää. Toinen on hau. Tätä <app id="var270" type="sub">
+                    <rdg>kummeksui</rdg>
+                </app> kuningas <app id="var271" type="sub">
+                    <rdg>suuresti.</rdg>
+                </app></p>
+            <p style="blackletter">Vielä kului neljä vuotta. Kuningas tuli puutarhaan.
+                Elääkö Kasper vielä? <app id="var272" type="int">
+                    <rdg>Elää,</rdg>
+                </app> herra kuningas. Mitä <app id="var273" type="sub">
+                    <rdg>hän <seg>on</seg></rdg>
+                </app> oppinut? Hän lirittää kuin lintu. Hän kurnuttaa kuin sammakko. Hän
+                kiipeää kuin orava. Hän <app id="var274" type="sub">
+                    <rdg>hyppii</rdg>
+                </app> kuin jänis. <app id="var275" type="sub">
+                    <rdg>Enempää hän</rdg>
+                </app> ei ole <app id="var276" type="sub">
+                    <rdg><seg>oppinut.</seg></rdg>
+                </app> Kuningasta kummastutti.</p>
+            <p style="blackletter"><app id="var277" type="sub">
+                    <rdg>Vihdoin</rdg>
+                </app> kului vielä neljä vuotta. Kuningas tuli puutarhaan. Elääkö Kasper
+                vielä? <app id="var278" type="int">
+                    <rdg>Elää,</rdg>
+                </app> herra kuningas. Mitä <app id="var279" type="sub int">
+                    <rdg>hän <seg>on</seg> oppinut?</rdg>
+                </app> Hän on kasvanut isoksi. Hän on <app id="var280" type="sub">
+                    <rdg>kohta <seg>seitsemäntoista</seg></rdg>
+                </app> (17) vuotias. Hän on väkevä kuin karhu. Hän on viekas kuin kettu. Hän
+                on sukkela kuin kissa. Hän on ahnas kuin koira. Hän on <app id="var281" type="sub">
+                    <rdg>siivoton</rdg>
+                </app> kuin <app id="var282" type="sub">
+                    <rdg>nauta.</rdg>
+                </app> Hän <app id="var283" type="sub">
+                    <rdg>syö raakaa</rdg>
+                </app> lihaa. Hän kulkee vaatteitta. Hän ei tunne tulen <app id="var284" type="sub">
+                    <rdg>käyttöä.</rdg>
+                </app> Hän ei tunne metallien hyötyä. Hän ei tunne ihmisten tapoja. Hän on
+                eläin.</p>
+            <p style="blackletter">Kuningas tahtoi nähdä <app id="var285" type="sub">
+                    <rdg>oppimatonta</rdg>
+                </app> ihmistä. Kuningas meni puutarhaan. Kasper <app id="var286" type="sub">
+                    <rdg>pelästyi.</rdg>
+                </app> Kuningas puhui <app id="var287" type="sub">
+                    <rdg>lempeitä</rdg>
+                </app> sanoja. Kasper <app id="var288" type="sub">
+                    <rdg>piiloutui</rdg>
+                </app> puiden taakse. Kuningas meni <app id="var289" type="sub">
+                    <rdg>likemmäksi.</rdg>
+                </app> Kasper pakeni. Hän kiipesi muurin ylitse. Hän juoksi metsään.
+                Kuningas <app id="var290" type="sub int">
+                    <rdg>käski hakea hänet.</rdg>
+                </app> Palvelijat etsivät <pb type="orig" n="13"/>läpi koko metsän. Viimein
+                    <app id="var291" type="sub">
+                    <rdg>he <seg>löysivät</seg></rdg>
+                </app> Kasperin puusta. Hän torjui vastaan. Hän puri kuin susi. Hän kynsi
+                kuin kissa. Hän karjui kuin leijona. <app id="var292" type="sub">
+                    <rdg>Vihdoin</rdg>
+                </app> saatiin <app id="var293" type="sub">
+                    <rdg>hänet</rdg>
+                </app> sidotuksi. Palvelijat veivät <app id="var294" type="sub">
+                    <rdg>hänet</rdg>
+                </app> kuninkaan <app id="var295" type="sub">
+                    <rdg>luo.</rdg>
+                </app> Taas puhui kuningas <app id="var296" type="sub">
+                    <rdg>lempeitä</rdg>
+                </app> sanoja. Hän tarjosi Kasperille vaatteita. Hän tarjosi hänelle ruokaa.
+                Kasper ei ymmärtänyt mitään. Hän <app id="var297" type="sub">
+                    <rdg>ryömi</rdg>
+                </app> kuninkaan sängyn alle. Hän puri <app id="var298" type="sub">
+                    <rdg>kuningasta käteen. Hän</rdg>
+                </app> oli peto.</p>
+            <p style="blackletter"><app id="var299" type="sub">
+                    <rdg>Silloin</rdg>
+                </app> hyvä <app id="var300" type="sub int">
+                    <rdg>kuningas surkutteli häntä.</rdg>
+                </app> Hän sanoi näin. Nyt näen Jumalan tarkoituksen. Eläintä ei tarvitse
+                opettaa. Se tekee itsestään <app id="var301" type="sub int">
+                    <rdg>tehtävänsä.</rdg>
+                </app> Se on <app id="var302" type="sub">
+                    <rdg>jo <seg>alusta</seg> semmoinen, <seg>miksi</seg></rdg>
+                </app> Jumala sen aikoi. Sellaisena <app id="var303" type="sub">
+                    <rdg>se <seg>pysyy</seg> kaiken</rdg>
+                </app> elinaikansa. Eläin ei voi tulla täydellisemmäksi. Ihmisen pitää tulla
+                    <app id="var304" type="sub">
+                    <rdg>aina</rdg>
+                </app> paremmaksi. <app id="var305" type="sub">
+                    <rdg>Sentähden on häntä aina opetettava. Oppimattomana hän</rdg>
+                </app> on <app id="var306" type="sub">
+                    <rdg><seg>eläin.</seg></rdg>
+                </app></p>
+            <p style="blackletter">Kuningas antoi Kasperin asua ihmisten <app id="var307" type="sub">
+                    <rdg>seurassa.</rdg>
+                </app> Kasper oli kuin pieni lapsi. Hän opetteli puhumaan. Hän opetteli
+                ihmisten tapoja. Hän opetteli hyödyllisiä <app id="var308" type="sub">
+                    <rdg>tietoja.</rdg>
+                </app> Näin tuli <app id="var309" type="sub">
+                    <rdg>hänestä ihminen.</rdg>
+                </app> Näin tuli hänestä hyvä mies.</p>
+            <p style="blackletter">Pieni lapsi on kuin siemen. Jumala kylvää sen. Ihminen
+                kastelee sitä. Hoidotta <app id="var310" type="sub int">
+                    <rdg>se lakastuu. Sentähden</rdg>
+                </app> tulee pientä lasta opettaa. Tulee siis ajatella näin. <app id="var311" type="sub">
+                    <rdg>Lapsi</rdg>
+                </app> on Jumalan siemen. Minä kastelen sitä siementä. Näin tulee siitä
+                Jumalan kukka. Näin tulee siitä hyvä ihminen.</p>
+            <p style="blackletter">Sillä ihminen on Jumalan lapsi. Elämä maan päällä on
+                hänen koulunsa. Omatunto on <app id="var312" type="sub">
+                    <rdg>hänen vitsansa. Jankaikkinen</rdg>
+                </app> elämä on <app id="var313" type="sub">
+                    <rdg>hänen päämääränsä.</rdg>
+                </app> Viisaus on hänen kaunistuksensa. Jumalan pelko on viisauden alku.</p>
+            <p style="blackletter">Nyt loppui <app id="var314" type="sub">
+                    <rdg>kertomus</rdg>
+                </app> Kasperista. Nyt tulee kolmas kertomus.</p>
+            <pb type="orig" n="14"/>
+            <head style="blackletter"><hi rend="bold">Kuninkaan matkasta.</hi></head>
+            <p style="blackletter">Kuningas oli viisas mies. Hän tahtoi <app id="var315" type="sub">
+                    <rdg>oppia tuntemaan</rdg>
+                </app> ihmisiä. Hän tahtoi nähdä niissä Jumalan tekoja. <app id="var316" type="sub">
+                    <rdg>Sentähden</rdg>
+                </app> pukeusi hän <app id="var317" type="sub">
+                    <rdg>yksinkertaisiin</rdg>
+                </app> vaatteisiin. Käteensä <app id="var318" type="sub int">
+                    <rdg>hän <seg>otti</seg> sauvan.</rdg>
+                </app> Selkäänsä otti hän <app id="var319" type="sub">
+                    <rdg>laukun.</rdg>
+                </app> Näin <app id="var320" type="sub">
+                    <rdg>hän <seg>meni</seg></rdg>
+                </app> ulos <app id="var321" type="sub">
+                    <rdg>avaraan maailmaan.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter">Kuningas näki monta maata. <app id="var322" type="sub">
+                    <rdg>Melkein</rdg>
+                </app> kaikissa maissa asui ihmisiä. <app id="var323" type="sub">
+                    <rdg>Toinen</rdg>
+                </app> maa ei ollut toisen <app id="var324" type="sub int">
+                    <rdg>maan näköinen. Toinen</rdg>
+                </app> ihminen ei ollut toisensa kaltainen. Mutta kaikilla oli <app id="var325" type="sub">
+                    <rdg>ihmisen</rdg>
+                </app> ruumis. Kaikilla oli <app id="var326" type="sub">
+                    <rdg>ihmisen</rdg>
+                </app> sielu. <app id="var327" type="sub">
+                    <rdg>Saman maan ihmisiä sanottiin sen</rdg>
+                </app> maan <hi rend="expanded">kansaksi.</hi>
+                <app id="var328" type="sub">
+                    <rdg>Toinen</rdg>
+                </app> kansa <app id="var329" type="sub">
+                    <rdg>ei ollut toisensa kaltainen.</rdg>
+                </app> Muutamat maat olivat hyvin kuumia. Niissä olivat ihmiset mustia. <app id="var330" type="sub">
+                    <rdg>Toiset</rdg>
+                </app> maat olivat <app id="var331" type="sub">
+                    <rdg>vähemmän</rdg>
+                </app> kuumia. Niissä olivat ihmiset ruskeita. Muutamissa maissa <app id="var332" type="sub int">
+                    <rdg>he <seg>olivat</seg> vaskenvärisiä.</rdg>
+                </app> Toisissa maissa <app id="var333" type="sub">
+                    <rdg><seg>heidän</seg></rdg>
+                </app> ruumiinsa <app id="var334" type="sub">
+                    <rdg>oli <seg>keltainen.</seg></rdg>
+                </app> Kylmemmissä maissa olivat ihmiset valkeita. Mutta kuningas oli
+                lukenut <app id="var335" type="sub">
+                    <rdg>Raamattua.</rdg>
+                </app> Hän tunsi <app id="var336" type="sub">
+                    <rdg>Aatamin</rdg>
+                </app> historian. Hän tiesi Eevastakin. <app id="var337" type="sub">
+                    <rdg>Heistä</rdg>
+                </app> ovat kaikki ihmiset sukuisin. <app id="var338" type="sub">
+                    <rdg>Sentähden</rdg>
+                </app> kaikki ihmiset ovat veljeksiä. Moni ei ajattele sitä. Moni valkea
+                ihminen pitää mustia huonompina. Valkeat ostavat mustia rahalla. <app id="var339" type="sub">
+                    <rdg>He</rdg>
+                </app> pitävät niitä orjinaan. <app id="var340" type="sub">
+                    <rdg>Tätä <pb type="orig" n="15"/>piti</rdg>
+                </app> kuningas <app id="var341" type="sub">
+                    <rdg>aivan vääränä.</rdg>
+                </app> Sillä kaikki ihmiset ovat <app id="var342" type="sub">
+                    <rdg>samanlaisia</rdg>
+                </app> Jumalan edessä.</p>
+            <p style="blackletter">Kuningas näki vielä enemmän. Hän näki ihmisten <hi rend="expanded">ruuan.</hi> Siinä <app id="var343" type="sub">
+                    <rdg>kohdin <seg>on</seg></rdg>
+                </app> ihminen suurin kaikista pedoista. Hän tappaa monta eläintä. <app id="var344" type="sub">
+                    <rdg>Sitten syö</rdg>
+                </app> hän niiden lihaa keitettynä. <app id="var345" type="sub">
+                    <rdg>Metsäihmiset</rdg>
+                </app> syövät <app id="var346" type="sub">
+                    <rdg>raakaa</rdg>
+                </app> lihaa. <app id="var347" type="sub">
+                    <rdg>Pahimmat raakalaiset</rdg>
+                </app> syövät ihmisenkin lihaa. <app id="var348" type="sub">
+                    <rdg>Tätä piti</rdg>
+                </app> kuningas <app id="var349" type="sub">
+                    <rdg>inhoittavana.</rdg>
+                </app> Eläinten maito on terveellistä ruokaa. Ihminen <app id="var350" type="sub">
+                    <rdg>syö</rdg>
+                </app> monia kasvejakin. Puiden hedelmät ovat <app id="var351" type="sub">
+                    <rdg>monen</rdg>
+                </app> ruokana. <app id="var352" type="sub">
+                    <rdg>Iyvistä saa ihminen leipänsä.</rdg>
+                </app> Hän valmistaa <app id="var353" type="sub">
+                    <rdg>tulen avulla</rdg>
+                </app> ruokansa. Tätä <app id="var354" type="sub">
+                    <rdg>eläimet <seg>eivät</seg></rdg>
+                </app> tee <app id="var355" type="sub int">
+                    <rdg>koskaan. Moni ihminen</rdg>
+                </app> laittaa <app id="var356" type="sub">
+                    <rdg>taidokasta</rdg>
+                </app> ruokaa. Siitä ei <app id="var357" type="sub">
+                    <rdg>kukaan <seg>voi</seg></rdg>
+                </app> hyvin.</p>
+            <figure type="illustration"/>
+            <p style="blackletter">Kuningas näki <app id="var358" type="sub">
+                    <rdg>vielä</rdg>
+                </app> enemmän. Hän näki ihmisten <hi rend="expanded">pituuden.</hi> Sadut
+                kertovat pitkistä jättiläisistä. Sellaisia ei ole enää. Ihmisen tavallinen
+                pituus on <app id="var359" type="sub int">
+                    <rdg>yksi ja <seg>kolme</seg> neljäsosaa metriä.</rdg>
+                </app> Muutamat ovat <app id="var360" type="sub">
+                    <rdg>pitempiä.</rdg>
+                </app> Sata <app id="var361" type="sub">
+                    <rdg>viisikymmentä (150)</rdg>
+                </app> vuotta <app id="var362" type="sub">
+                    <rdg>sitten</rdg>
+                </app> eli mies Paltamon <app id="var363" type="sub">
+                    <rdg>pitäjässä.</rdg>
+                </app> Hän oli <app id="var364" type="sub">
+                    <rdg>yli kaksi ja yksi kolmasosa metriä</rdg>
+                </app> pitkä. <app id="var365" type="sub">
+                    <rdg>Sentähden näytettiin</rdg>
+                </app> häntä <app id="var366" type="sub">
+                    <rdg>rahasta. Useat</rdg>
+                </app> ihmiset ovat <app id="var367" type="sub">
+                    <rdg>yhtä ja <seg>kolmea</seg> neljäsosaa metriä</rdg>
+                </app> lyhyempiä. Muutamat ovat hyvin <app id="var368" type="int">
+                    <rdg>pieniä</rdg>
+                </app>
+                <pb type="orig" n="16"/>Sellaisia <app id="var369" type="sub">
+                    <rdg>sanotaan kääpiöiksi eli</rdg>
+                </app> lintukotolaisiksi. Sata <app id="var370" type="sub">
+                    <rdg>viisikymmentä (150) <seg>vuotta</seg> sitten</rdg>
+                </app> eli Puolassa mies. Hän oli kolmenkymmenen (30) vuoden vanha.
+                Kuitenkaan <app id="var371" type="sub">
+                    <rdg><seg>hän</seg> ei <seg>ollut</seg> puolta metriä</rdg>
+                </app> pitkä. <app id="var372" type="sub">
+                    <rdg>Sentähden</rdg>
+                </app> häntäkin <app id="var373" type="sub">
+                    <rdg>näytettiin rahasta.</rdg>
+                </app> Sellaiset ihmiset ovat onnettomia. <app id="var374" type="sub">
+                    <rdg>Ihmistä ei sovi katsella</rdg>
+                </app> kummana <app id="var375" type="sub">
+                    <rdg><seg>kuin</seg></rdg>
+                </app> outoa eläintä.</p>
+            <p style="blackletter">Kuningas näki vieläkin enemmän. Hän näki ihmisten <hi rend="expanded">elinajan.</hi> Korppi elää sata vuotta. <app id="var376" type="sub">
+                    <rdg>Norsu eli elefantti saattaa</rdg>
+                </app> tulla <app id="var377" type="sub">
+                    <rdg>sadan viidenkymmenen</rdg>
+                </app> (150) vuoden vanhaksi. Hauki <app id="var378" type="sub">
+                    <rdg>voi</rdg>
+                </app> elää kolmesataa (300) vuotta. <app id="var379" type="sub">
+                    <rdg>Valaan</rdg>
+                </app> sanotaan elävän <app id="var380" type="sub">
+                    <rdg>tuhat</rdg>
+                </app> (1,000) vuotta. Moni puu <app id="var381" type="sub">
+                    <rdg>elää satoja vuosia. Eräiden</rdg>
+                </app> puiden ikä lasketaan <app id="var382" type="sub">
+                    <rdg>useissa tuhansissa vuosissa Ennen vedenpaisumusta</rdg>
+                </app> elivät ihmisetkin <app id="var383" type="sub">
+                    <rdg>paljon</rdg>
+                </app> kauemmin. <app id="var384" type="sub">
+                    <rdg>Aatami</rdg>
+                </app> eli yhdeksänsadan kolmenkymmenen (930) vuoden vanhaksi. <app id="var385" type="sub">
+                    <rdg>Methusalem</rdg>
+                </app> tuli yhdeksänsadan <app id="var386" type="sub">
+                    <rdg>kuudenkymmenen hydeksän</rdg>
+                </app> (969) vuoden ikään. Nyt ei enää <app id="var387" type="sub">
+                    <rdg>moni ihminen elä</rdg>
+                </app> seitsemääkymmentä (70) vuotta vanhemmaksi. Muutamat <app id="var388" type="sub">
+                    <rdg>ehtivät</rdg>
+                </app> kahdeksankymmenen (80) <app id="var389" type="sub">
+                    <rdg>vuoden ikään. Hyvin harva elää sadan <seg>vuoden</seg></rdg>
+                </app> vanhaksi. Englannissa oli <app id="var390" type="sub int">
+                    <rdg>mies,</rdg>
+                </app> Jenkins nimeltä. Hän eli <app id="var391" type="sub">
+                    <rdg>sata viisikymmentä yhdeksän</rdg>
+                </app> (159) vuotta. <app id="var392" type="sub">
+                    <rdg>Paljon ihmisiä kuolee nuorena. Moni lapsi</rdg>
+                </app> kuolee aivan pienenä. <app id="var393" type="sub">
+                    <rdg><seg>Jumala</seg> yksin <seg>määrää</seg> iän</rdg>
+                </app> pituuden.</p>
+            <p style="blackletter">Kuningas näki vieläkin enemmän. Hän näki ihmisen <hi rend="expanded">neljä ikäkautta.</hi> Lapsuus lasketaan <app id="var394" type="sub int">
+                    <rdg>viiteentoista (15:een) vuoteen asti. Sitten</rdg>
+                </app> tulee nuoruus <app id="var395" type="sub">
+                    <rdg>kolmanteenkymmenenteen (30:een)</rdg>
+                </app> vuoteen asti. <app id="var396" type="sub">
+                    <rdg>Sitten</rdg>
+                </app> seuraa miehuus <app id="var397" type="sub">
+                    <rdg>kuudenteenkymmenenteen (60:een)</rdg>
+                </app> vuoteen asti. Viimein tulee vanhuus <app id="var398" type="sub">
+                    <rdg>näiden <seg>kuudenkymmenen</seg></rdg>
+                </app> vuoden perästä. Sekään ei ole aina <app id="var399" type="sub">
+                    <rdg>yhdenlaista.</rdg>
+                </app> Lapsi kasvaa. <app id="var400" type="sub">
+                    <rdg>Hänen sielunsa</rdg>
+                </app> kasvaa yhdessä ruumiin kanssa. Kolmenkymmenen vuoden <app id="var401" type="sub">
+                    <rdg>iässä</rdg>
+                </app> on <app id="var402" type="sub int">
+                    <rdg>ruumis täysivoimainen.</rdg>
+                </app> Sielu kasvaa <app id="var403" type="sub">
+                    <rdg>yhä edelleen. Sentähden</rdg>
+                </app> on vanhuus nuoruutta viisaampi.</p>
+            <p style="blackletter">Kuningas näki vieläkin enemmän. Hän näki ihmisen <app id="var404" type="sub">
+                    <rdg><hi rend="expanded">sukupuolet.</hi></rdg>
+                </app> Kaikki elävät <app id="var405" type="sub">
+                    <rdg>on jaettu</rdg>
+                </app> kahteen <app id="var406" type="sub">
+                    <rdg>lajiin.</rdg>
+                </app> Muu<pb type="orig" n="17"/>tamat elävät ovat <app id="var407" type="sub">
+                    <rdg>uroksia.</rdg>
+                </app> Toiset ovat naaraita. Kasvit <app id="var408" type="sub">
+                    <rdg>jakautuvat</rdg>
+                </app> samalla lailla. <app id="var409" type="sub">
+                    <rdg>Samoin jakautuvat ihmisetkin. <seg>Väkevämpi</seg></rdg>
+                </app> ihminen on <hi rend="expanded">mies.</hi> Heikompi ihminen <app id="var410" type="sub">
+                    <rdg>on <hi rend="expanded">nainen.</hi></rdg>
+                </app> Kumpikaan näistä ei ole <app id="var411" type="sub">
+                    <rdg>toistaan parempi. Kumpikaan näistä ei ole toistaan
+                            <seg>huonompi.</seg> He ovat molemmat yhtäläisiä</rdg>
+                </app> Jumalan edessä. <app id="var412" type="sub">
+                    <rdg>He ovat molemmat</rdg>
+                </app> Jumalan valtakunnan <app id="var413" type="sub">
+                    <rdg>perillisiä.</rdg>
+                </app> Molempain tulee <app id="var414" type="sub">
+                    <rdg><seg>auttaa</seg></rdg>
+                </app> toisiansa. <app id="var415" type="sub int">
+                    <rdg>Se on <seg>Jumalan</seg> tahto. Väkevämpi</rdg>
+                </app> ei saa olla <app id="var416" type="sub">
+                    <rdg>kova</rdg>
+                </app> heikompaa kohtaan.</p>
+            <figure type="illustration"/>
+            <p style="blackletter">Kuningas näki vieläkin enemmän. Hän näki <hi rend="expanded">ihmisen </hi><app id="var417" type="sub">
+                    <rdg><hi rend="expanded">hallitsevan luontoa.</hi></rdg>
+                </app> Ihminen kesyttää raivoimmatkin eläimet. Hän tappaa mahdottoman suuren
+                    <app id="var418" type="sub">
+                    <rdg>valaan. Suuri elefantti</rdg>
+                </app> kantaa häntä kuuliaisesti selässään. <app id="var419" type="sub">
+                    <rdg>Jalo</rdg>
+                </app> hevonen tottelee hänen <app id="var420" type="sub">
+                    <rdg>ohjiansa. Väkevä</rdg>
+                </app> härkä vetää hänen <app id="var421" type="sub">
+                    <rdg>auraansa.</rdg>
+                </app>
+                <pb type="orig" n="18"/>Hänelle täytyy karhun <app id="var422" type="sub">
+                    <rdg>luovuttaa</rdg>
+                </app> turkkinsa. Hänelle täytyy lampaan antaa villansa. Hän höyhentää
+                linnulta untuvat. Hän ottaa mehiläiseltä hunajan. Hän kaataa kirveellä
+                suurimmatkin puut. Hän valmistaa pellon siemenille. Hän kutoo <app id="var423" type="sub">
+                    <rdg>pellavasta</rdg>
+                </app> vaatetta. Hän kehrää <app id="var424" type="sub">
+                    <rdg>hampusta</rdg>
+                </app> köyttä. Hän etsii <app id="var425" type="sub">
+                    <rdg>metalleja</rdg>
+                </app> maan sisuksista. Hän koristaa kullalla sormensa. Hän panee <app id="var426" type="sub">
+                    <rdg>ruokapöydälle hopeita.</rdg>
+                </app> Hän takoo kovaa rautaa. Hän koristaa timanteilla keisarin kruunun.
+                Hän <app id="var427" type="sub">
+                    <rdg>murtaa tien</rdg>
+                </app> vuorien <app id="var428" type="sub int">
+                    <rdg>läpi.</rdg>
+                </app> Hän <app id="var429" type="sub">
+                    <rdg>panee veden myllyjen rattaita pyörittämään.</rdg>
+                </app> Hän purjehtii tuulessa <app id="var430" type="sub">
+                    <rdg>laivallansa.</rdg>
+                </app> Hän sulkee uuniinsa valtavan tulen. Hän kuvaa koko maanpiirin
+                kartallensa. Hän laskee <app id="var431" type="sub">
+                    <rdg><seg>edeltäkäsin</seg></rdg>
+                </app> auringon <app id="var432" type="sub">
+                    <rdg>kulun.</rdg>
+                </app> Hän jakaa vuotensa kuun vaiheiden mukaan. Hän mittaa numeroilla
+                kiiluvain tähtien <app id="var433" type="sub">
+                    <rdg>radat.</rdg>
+                </app></p>
+            <p style="blackletter">Niin on koko näkyvä <app id="var434" type="sub">
+                    <rdg>maailma</rdg>
+                </app> ihmiselle alamainen. Kyllä <app id="var435" type="sub">
+                    <rdg>asuu</rdg>
+                </app> valtava henki ihmisen heikossa ruumiissa. Mutta Jumalan edessä on
+                ihminen kuitenkin <app id="var436" type="sub">
+                    <rdg>vähäpätöinen olento.</rdg>
+                </app> Hänen valtansa <app id="var437" type="sub">
+                    <rdg><seg>maan</seg></rdg>
+                </app> päällä <app id="var438" type="sub">
+                    <rdg>on <seg>aivan</seg></rdg>
+                </app> suuri. Mutta Jumalan valta on kuitenkin paljon suurempi. Väkevin
+                sankari ei ole Jumalan suhteen mitään. Viisain <app id="var439" type="sub">
+                    <rdg>ihminen</rdg>
+                </app> on Jumalan viisauden <app id="var440" type="sub">
+                    <rdg>rinnalla ymmärtämätön.</rdg>
+                </app> Pieni käärme <app id="var441" type="sub">
+                    <rdg>voi</rdg>
+                </app> surmata väkevimmän miehen. Sääsken siipi on <app id="var442" type="sub">
+                    <rdg>viisaammin</rdg>
+                </app> luotu kuin <app id="var443" type="sub">
+                    <rdg>kaikki</rdg>
+                </app> ihmisten teot. Kuningas otti käteensä <app id="var444" type="sub">
+                    <rdg>pienen nurmikukan. Oi, kuinka</rdg>
+                </app> olet kaunis. <app id="var445" type="sub">
+                    <rdg>Minun kultainen</rdg>
+                </app> pukuni ei ole niin kaunis kuin sinun.</p>
+            <p style="blackletter">Ihminen elää tänä päivänä. Vähän ajan perästä kuolee hän
+                pois. <app id="var446" type="sub">
+                    <rdg>Sitten</rdg>
+                </app> muuttuu hänen ruumiinsa maassa mullaksi. <app id="var447" type="sub">
+                    <rdg>Sitten</rdg>
+                </app> tulee hänen sielunsa elävän Jumalan eteen. <app id="var448" type="sub">
+                    <rdg>Sitten</rdg>
+                </app> kuuluu hänelle Jumalan ääni. Minä panin <app id="var449" type="sub">
+                    <rdg>sinut</rdg>
+                </app> luonnon valtakuntain kuninkaaksi. Kuinka käytit sinä suurta valtaasi?
+                Kuinka <app id="var450" type="sub">
+                    <rdg>sinä <seg>elit</seg></rdg>
+                </app> ihmisten <app id="var451" type="sub">
+                    <rdg>seurassa?</rdg>
+                </app> Kuinka <app id="var452" type="sub">
+                    <rdg><seg>sinä</seg> kohtelit eläimiä?</rdg>
+                </app> Kuinka <app id="var453" type="sub">
+                    <rdg>sinä <seg>täytit</seg></rdg>
+                </app> toimesi maan päällä? <app id="var454" type="sub">
+                    <rdg>Älä</rdg>
+                </app> ole ylpeä. Minä olen <app id="var455" type="int">
+                    <rdg>Herra,</rdg>
+                </app> sinun Jumalasi. Sinä olet <app id="var456" type="sub">
+                    <rdg>vain</rdg>
+                </app> taloni hoitaja.</p>
+            <pb type="orig" n="19"/>
+            <p style="blackletter">Kaikkea tätä <app id="var457" type="sub int">
+                    <rdg>kuningas <seg>ajatteli</seg> tarkoin.</rdg>
+                </app> Hän sanoi <app id="var458" type="sub">
+                    <rdg>itsekseen</rdg>
+                </app> näin. Olenpa minäkin herra <app id="var459" type="sub int">
+                    <rdg>kuningaskunnassani.</rdg>
+                </app> Mutta nyt <app id="var460" type="sub">
+                    <rdg><seg>vaellan</seg></rdg>
+                </app> ympäri <app id="var461" type="sub">
+                    <rdg>maailmaa</rdg>
+                </app> palvelijan puvussa. Niinpä on ihminenkin <app id="var462" type="sub">
+                    <rdg>kaikkien</rdg>
+                </app> eläväin herra maan päällä. Mutta Jumalan edessä <app id="var463" type="sub">
+                    <rdg>hän <seg>on</seg> vain köyhä</rdg>
+                </app> palvelija. Jumala antakoon hänelle nöyrän sydämen. <app id="var464" type="sub">
+                    <rdg>Silloin</rdg>
+                </app> käyttää hän oikein <app id="var465" type="sub">
+                    <rdg>valtaansa. Silloin</rdg>
+                </app> on ihmisen kunnia Jumalan kunnia. <app id="var466" type="sub">
+                    <rdg>Silloin</rdg>
+                </app> on ihmisen valtakunta Jumalan valtakunta maan päällä.</p>
+                
+        </body>
+    </text>
+</TEI>
