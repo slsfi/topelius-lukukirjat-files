@@ -1,0 +1,1737 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Luku 2, varianttikoodattu (perusteksti)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>2</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Toinen Luku. Imettävistä eläimistä</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
+    <text>
+        <body xml:space="preserve">
+            <head style="blackletter" type="section"><hi rend="bold">Toinen </hi><app id="var467" type="sub">
+                    <lem><hi rend="bold">Luku.</hi></lem>
+                </app></head>
+            <head style="blackletter" type="section"><anchor id="struct78a"/><app id="var2116">
+                    <lem><hi rend="bold expanded">Imettävistä</hi></lem>
+                </app><hi rend="bold expanded"> eläimistä.</hi><anchor id="struct78b"/></head>
+            <head><anchor id="struct8a"/>
+                <anchor id="struct8b"/></head>
+            <p style="blackletter">Tule, veljeni. Tule, sisareni. <app id="var468" type="sub">
+                    <lem>Menemmepä</lem>
+                </app> nyt ulos. Jo seisomme kartanolla. Ympärillämme on koko suuri <app id="var469" type="sub">
+                    <lem>luonto<choice>
+                            <orig>?</orig>
+                            <reg>.</reg>
+                        </choice></lem>
+                </app><choice>
+                    <reg/>
+                </choice> Se on koko <app id="var470" type="sub">
+                    <lem>mailma,</lem>
+                </app> jota aistimillamme käsitämme.</p>
+            <pb type="orig" n="19"/>
+            <p style="blackletter">Koko luonto on <app id="var471" type="sub">
+                    <lem>niinkuin</lem>
+                </app> kirja. <app id="var472" type="sub">
+                    <lem>Joka</lem>
+                </app> sitä kirjaa <app id="var473" type="sub">
+                    <lem>taitaa</lem>
+                </app> lukea, hänellä on siitä <app id="var474" type="sub">
+                    <lem>iso</lem>
+                </app> ilo. Se kirja on täynnä kauniita kuvia. Se kirja on täynnä
+                hyödyllistä oppia. Siinä kirjassa on joka lehti täynnä Jumalan
+                viisautta.</p>
+            <p style="blackletter">Koko luonto on kuin suuri maa. Siinä maassa on monta
+                valtakuntaa. Mitkä ovat luonnon <app id="var475" type="sub">
+                    <lem>kunnat?</lem>
+                </app> Niitä on kolme. <app id="var476" type="sub">
+                    <lem>Ensimäinen</lem>
+                </app> on eläinkunta. Toinen on kasvikunta. Kolmas on kivikunta.</p>
+            <p style="blackletter">Mennäänpä nyt ensin <app id="var477" type="sub">
+                    <lem>ulos siihen suureen</lem>
+                </app> eläinkuntaan. Ympärillämme on <app id="var478" type="sub">
+                    <lem>mailma</lem>
+                </app> täynnä eläviä <app id="var479" type="sub">
+                    <lem>olennoita.</lem>
+                </app> Muutamat elävät aivan liki meitä omassa maassamme. Muutamat asuvat
+                muissa maissa aivan kaukana täältä. Muutamat ovat paljon isommat meitä.
+                Muutamat ovat pienemmät pienintä <app id="var480" type="int">
+                    <lem>sääskeä.</lem>
+                </app> Kaikilla on tarkoituksensa, jota varten ne elävät. Jumala ei ole <app id="var481" type="sub">
+                    <lem>niitä</lem>
+                </app> tyhjän vuoksi luonut. Välistä ymmärrämme hänen tarkoituksensa.
+                Välistä on se <app id="var482" type="sub">
+                    <lem>meille</lem>
+                </app> salassa. Uskokaamme aina Jumalan <app id="var483" type="sub">
+                    <lem>ijankaikkista hyvyyttä.</lem>
+                </app></p>
+            <head style="blackletter"><hi rend="bold">Kuinka kuningas Leijona </hi><app id="var484" type="sub">
+                    <lem><hi rend="bold">(Jalopeura) kokosi kansaansa.</hi></lem>
+                </app></head>
+            <p style="blackletter">Olipa kerran <app id="var485" type="sub">
+                    <lem>kesällä.</lem>
+                </app> Leijona, <app id="var486" type="sub">
+                    <lem>joka on eläinten</lem>
+                </app> kuningas, istui <app id="var487" type="sub">
+                    <lem>hallitus-istuimellansa</lem>
+                </app> metsässä. <app id="var488" type="sub">
+                    <lem>Siinä</lem>
+                </app> olivat kaikki eläimet, jotka <app id="var489" type="sub">
+                    <lem>maalla</lem>
+                </app> elävät. Linnut lentelivät kauniissa <app id="var490" type="sub">
+                    <lem>aamu-ilmassa. Likellä</lem>
+                </app> oli <app id="var491" type="sub">
+                    <lem>meri,</lem>
+                </app> jonka vesi oli täynnä <app id="var492" type="sub">
+                    <lem>monellaisia</lem>
+                </app> eläviä. Kaikki kuulivat leijonan äänen, <app id="var493" type="sub">
+                    <lem>joka</lem>
+                </app> kiljui metsässä.</p>
+            <p style="blackletter">Näin sanoi leijona. Minä olen kutsunut teidät kaikki,
+                jotka <app id="var494" type="sub">
+                    <lem>mailmassa</lem>
+                </app> asutte. <app id="var495" type="sub">
+                    <lem>Minä tahdon lukea</lem>
+                </app> teidän <app id="var496" type="sub">
+                    <lem>määränne. Minä tahdon</lem>
+                </app> tietää kansani. Kivet eivät kuulu <app id="var497" type="sub">
+                    <lem>valtakuntaani.</lem>
+                </app> Kasvitkaan eivät kuulu <app id="var498" type="sub">
+                    <lem>siihen.</lem>
+                </app> Kivi ei voi itsestään liikkua. Kasvi imee ruokansa juurillaan. Mutta
+                eläin <pb type="orig" n="20"/><app id="var499" type="sub">
+                    <lem>voipi liikkua mihinkä</lem>
+                </app> tahtoo. Eläimellä on suu, jolla <app id="var500" type="sub">
+                    <lem>syöpi.</lem>
+                </app> Eläin <app id="var501" type="int">
+                    <lem>tuntee</lem>
+                </app> mikä <app id="var502" type="sub">
+                    <lem>käypi kipeästi.</lem>
+                </app> Eläin <app id="var503" type="int">
+                    <lem>tuntee</lem>
+                </app> mikä tekee hyvää. <app id="var504" type="sub">
+                    <lem>Eläimessä</lem>
+                </app> on <app id="var505" type="sub">
+                    <lem>luonto, josta</lem>
+                </app> tietää <app id="var506" type="sub">
+                    <lem>ilman opitta tehdä mitä hänellä on toimena mailmassa.</lem>
+                </app></p>
+            <p style="blackletter">Leijona kutsui <app id="var507" type="sub">
+                    <lem>Koiran.</lem>
+                </app> Mikä sinä olet? Minä olen <app id="var508" type="sub">
+                    <lem><hi rend="expanded">imettävä eläin.</hi></lem>
+                </app> Miksikä <app id="var509" type="sub">
+                    <lem>se?</lem>
+                </app> Minä synnytän eläviä penikoita. Minä imetän niitä. Minä hengitän <app id="var510" type="sub">
+                    <lem>keuh’oilla. Minulla</lem>
+                </app> on <app id="var511" type="sub">
+                    <lem>lämmin veri.</lem>
+                </app> — <app id="var512" type="sub">
+                    <lem>Se on hyvä.</lem>
+                </app> Mene tiehesi.</p>
+            <p style="blackletter">Leijona <app id="var513" type="sub">
+                    <lem>huuti Varpuisen tykönsä.</lem>
+                </app> Mikä sinä olet? Minä olen <hi rend="expanded">lintu.</hi>
+                <app id="var514" type="sub">
+                    <lem>Miksikä se?</lem>
+                </app> Minä munin pesääni. Minä haudon munistani pojat. Minä hengitän <app id="var515" type="sub">
+                    <lem>keuhoilla. Minulla</lem>
+                </app> on <app id="var516" type="sub">
+                    <lem>lämmin veri.</lem>
+                </app> Minulla on <app id="var517" type="sub">
+                    <lem>höyhenpuku päällä.</lem>
+                </app> Minä lennän siivillä. Minä kävelen kahdella jalalla. — <app id="var518" type="sub">
+                    <lem>Se</lem>
+                </app> on <app id="var519" type="sub">
+                    <lem>hyvä. Lennä</lem>
+                </app> matkoihisi.</p>
+            <p style="blackletter">Leijona kutsui <app id="var520" type="sub">
+                    <lem>Käärmeen eteensä.</lem>
+                </app> Mikä sinä olet? Minä olen <app id="var521" type="sub">
+                    <lem><hi rend="expanded">matava elävä.</hi></lem>
+                </app> Miksikä <app id="var522" type="sub">
+                    <lem>se? Minä matelen maata.</lem>
+                </app> Minä hengitän <app id="var523" type="sub">
+                    <lem>keuhoilla. Minulla</lem>
+                </app> on <app id="var524" type="sub">
+                    <lem>kylmä veri.</lem>
+                </app> — <app id="var525" type="sub">
+                    <lem>Se on hyvä. Matele matkoihisi.</lem>
+                </app></p>
+            <p style="blackletter">Leijona <app id="var526" type="sub">
+                    <lem>huuti Hauvin</lem>
+                </app> eteensä. Mikä sinä olet? Minä olen <hi rend="expanded">kala.</hi>
+                Miksikä <app id="var527" type="sub">
+                    <lem>se?</lem>
+                </app> Minä <app id="var528" type="sub">
+                    <lem>päästän</lem>
+                </app> mätini veteen. <app id="var529" type="sub">
+                    <lem>Minä</lem>
+                </app> hengitän <app id="var530" type="sub">
+                    <lem>kituisilla.</lem>
+                </app> Minä uin evillä. <app id="var531" type="sub">
+                    <lem>Minulla</lem>
+                </app> on <app id="var532" type="sub">
+                    <lem>kylmä veri.</lem>
+                </app> Ruumiini <app id="var533" type="sub">
+                    <lem>peittävät suomut.</lem>
+                </app> — <app id="var534" type="sub">
+                    <lem>Se on hyvä.</lem>
+                </app> Ui matkoihisi.</p>
+            <p style="blackletter">Leijona kutsui <app id="var535" type="sub">
+                    <lem>Perhon</lem>
+                </app> nimeltä. Mikä sinä olet? Minä olen <app id="var536" type="sub">
+                    <lem><hi rend="expanded">nivel-elävä.</hi></lem>
+                </app> Miksikä <app id="var537" type="sub">
+                    <lem>se? Ruumiini</lem>
+                </app> on <app id="var538" type="sub">
+                    <lem>monesta niveleestä.</lem>
+                </app> Muutamat meistä ovat <app id="var539" type="sub">
+                    <lem>toisellaisia.</lem>
+                </app> Muilla eläimillä on luinen selkäranka. Minulla ei ole sitä ollenkaan.
+                Minä hengitän <app id="var540" type="sub">
+                    <lem>ruumiini hienoista reijistä.</lem>
+                </app> Vereni on kylmä. Minulla on kuusi jalkaa. Minä munin. Munasta tulee
+                toukka. Toukasta tulee <app id="var541" type="sub">
+                    <lem>kotero. Koterosta</lem>
+                </app> ma<pb type="orig" n="21"/>taa <app id="var542" type="sub">
+                    <lem>sikiäni</lem>
+                </app> täysikasvuisena ulos. — <app id="var543" type="sub">
+                    <lem>Se on hyvä.</lem>
+                </app> Lennä tiehesi.</p>
+            <p style="blackletter">Leijona kutsui <app id="var544" type="sub">
+                    <lem>Simpukan.</lem>
+                </app> Mikä sinä olet? Minä olen <app id="var545" type="sub">
+                    <lem><hi rend="expanded">nilvi-elävä.</hi></lem>
+                </app> Miksikä <app id="var546" type="sub">
+                    <lem>se?</lem>
+                </app> Ruumiini on aivan pehmeä. Minä asun kovassa kuoressa. <app id="var547" type="sub">
+                    <lem>Minulla</lem>
+                </app> ei ole <app id="var548" type="sub">
+                    <lem>niveliä ruumiissa.</lem>
+                </app> Minä liikun aivan <app id="var549" type="sub">
+                    <lem>hiljaa.</lem>
+                </app> — <app id="var550" type="sub">
+                    <lem>Se on hyvä. Mada</lem>
+                </app> hiljaa tiehesi.</p>
+            <p style="blackletter">Leijona puhui vielä. <app id="var551" type="sub">
+                    <lem>Tunnenpa ne <hi rend="expanded">kuusi</hi></lem>
+                </app><hi rend="expanded"> eläinluokkaa.</hi> Jokaisen luokan ja’an <app id="var552" type="sub">
+                    <lem>järjestyksiin.</lem>
+                </app> Jokaisen <app id="var553" type="sub">
+                    <lem>järjestyksen</lem>
+                </app> ja’an sukuihin. Jokaisen suvun ja’an <app id="var554" type="sub">
+                    <lem>lajihin.</lem>
+                </app> Sen saamme <app id="var555" type="sub">
+                    <lem>sitte</lem>
+                </app> paremmin oppia. Itse olen <app id="var556" type="sub">
+                    <lem>imettävä eläin.</lem>
+                </app> En saata lentää linnun lailla. En voi <app id="var557" type="sub">
+                    <lem>mataa käärmeen</lem>
+                </app> tavalla. <app id="var558" type="sub">
+                    <lem>En</lem>
+                </app> voi uida niinkuin kala. En voi <app id="var559" type="sub">
+                    <lem>muuttauda</lem>
+                </app> perhon lailla. En voi asua kuoressa <app id="var560" type="sub">
+                    <lem>simpukan</lem>
+                </app> tavalla. <app id="var561" type="sub">
+                    <lem>Siksi</lem>
+                </app> menkööt <app id="var562" type="sub">
+                    <lem>nyt muut</lem>
+                </app> pois. <app id="var563" type="sub">
+                    <lem>Imettävät eläimet vaan</lem>
+                </app> kutsun <app id="var564" type="sub">
+                    <lem>valta-istuimeni</lem>
+                </app> eteen.</p>
+            <p style="blackletter"><app id="var565" type="sub">
+                    <lem>Eläpä vielä.</lem>
+                </app> Tuolla näen <app id="var566" type="sub">
+                    <lem>sen ylevän</lem>
+                </app>
+                <hi rend="expanded">ihmisen</hi> tulevan. Mitä sinä tahdot, ihminen? <app id="var567" type="sub">
+                    <lem>Yksinäsi</lem>
+                </app> seisot <app id="var568" type="sub">
+                    <lem>sinä suorana niinkuin</lem>
+                </app> petäjä metsässä. <app id="var569" type="sub">
+                    <lem>Yksinäsi katsot sinä pysty-päisenä sinistä taivasta</lem>
+                </app> kohti.</p>
+            <p style="blackletter"><app id="var570" type="sub">
+                    <lem>Ihminen katsoi majesteetillisesti kokouneita</lem>
+                </app> eläimiä. <app id="var571" type="sub">
+                    <lem>Kuningas Leijona,</lem>
+                </app> sinä olet kutsunut tänne kaikki, jotka <app id="var572" type="sub">
+                    <lem>imettävät sikiöitään. Niin</lem>
+                </app> teen minäkin. Ruumiini on monissa toimissa eläinten ruumiin <app id="var573" type="sub">
+                    <lem>lainen. Siksi</lem>
+                </app> saat lukea <app id="var574" type="sub">
+                    <lem>minunkin imettäväin eläinten</lem>
+                </app> luokkaan. Mutta kaikkivaltias Jumala on antanut minulle kuolemattoman
+                sielun. Hänen viisautensa on antanut minulle järjen valon. Suuni <app id="var575" type="sub">
+                    <lem>taitaa</lem>
+                </app> puhua. Tahtoni on vapaa. Saatan nauraa. Saatan itkeä. Sitä eivät <app id="var576" type="sub">
+                    <lem>saata</lem>
+                </app> eläimet. <app id="var577" type="sub">
+                    <lem>Siksi</lem>
+                </app> olen <app id="var578" type="sub">
+                    <lem>ylevämpi kaikkia muita eläimiä.</lem>
+                </app> Kuningas <app id="var579" type="sub">
+                    <lem>leijona</lem>
+                </app> ei ole <app id="var580" type="sub">
+                    <lem>pää-mieheni.</lem>
+                </app> Hyvästi, herra kuningas. Huomenna <app id="var581" type="sub">
+                    <lem>otan sinun kiini</lem>
+                </app> rautahäkkiin.</p>
+            <pb type="orig" n="22"/>
+            <p style="blackletter">Leijona pudisti <app id="var582" type="sub">
+                    <lem>vihassa</lem>
+                </app> pitkää harjaansa. Hyvästi, ihminen. Sinä et kuulu minun
+                valtakuntaani. Huomenna revin <app id="var583" type="sub">
+                    <lem>sinun penikoilleni</lem>
+                </app> ruuaksi.</p>
+            <p style="blackletter">Ihminen <app id="var584" type="sub">
+                    <lem>meni pois,</lem>
+                </app> ylevänä kuin kuningas. Nyt vapisivat kaikki eläimet. Leijona näki
+                aran <hi rend="expanded">apinan</hi> kiipeävän puuhun. <app id="var585" type="sub">
+                    <lem>Eläpä vielä.</lem>
+                </app> Etkö sinä ole ihminen?</p>
+            <figure type="illustration"/>
+            <p style="blackletter">Apina, joka muutoin mielellään tahtoi <app id="var586" type="sub">
+                    <lem>olla</lem>
+                </app> ihmisenä, kielsi <app id="var587" type="sub">
+                    <lem>nyt oikeastaan sen olevansa. En suinkaan</lem>
+                </app> ole mikään ihminen. Niin kaunis en <app id="var588" type="sub">
+                    <lem>suinkaan</lem>
+                </app> ole. Enhän minä <app id="var589" type="sub">
+                    <lem>kule</lem>
+                </app> aivan suorana. Jalkani näyttävät käsiltä. <app id="var590" type="sub">
+                    <lem>Useoilla meillä</lem>
+                </app> on häntä. <app id="var591" type="sub">
+                    <lem>Kertoisin</lem>
+                </app> sinulle jotakin, herra kuningas. Jumala loi ihmisen kuvakseen. <app id="var592" type="sub">
+                    <lem>Siksi</lem>
+                </app> luotiin <app id="var593" type="sub">
+                    <lem>hän</lem>
+                </app> alusta <app id="var594" type="sub">
+                    <lem>niin</lem>
+                </app> kauniiksi. <app id="var595" type="sub">
+                    <lem>Mutta</lem>
+                </app> Jumalan <app id="var596" type="sub">
+                    <lem>vihollinen kadehti tätä. Herra Jumala, suo minunkin luoda olento.
+                        Jumala soi sen. Luotiinpa apina, joka matkii sitä ilkeätä, jota
+                        ihmisellä on. Siksi on minulla ruma ruumis. Siksi on minulla
+                        häjy</lem>
+                </app> sisu. Minä varastan. <app id="var597" type="sub">
+                    <lem>Minä olen ahnas. Minä olen</lem>
+                </app> kavala. Kuitenkin <app id="var598" type="sub">
+                    <lem>armahti</lem>
+                </app> Jumala <app id="var599" type="sub">
+                    <lem>minua. Apina raukka, annan sinulle yhden</lem>
+                </app> ihmisen hyvistä <app id="var600" type="sub">
+                    <lem>taipumuksista. Sinun pitää rakastaa lapsiasi</lem>
+                </app> yhtä hellästi kuin ihminenkin <app id="var601" type="sub">
+                    <lem>rakastaa omiaan.</lem>
+                </app></p>
+            <p style="blackletter">Leijona antoi apinan mennä. Samassa tuli <app id="var602" type="sub">
+                    <lem><hi rend="expanded">nahkasiipi</hi></lem>
+                </app> lentäen. Oletko sinä lintu? En, herra <app id="var603" type="sub">
+                    <lem>kuningas. Minä</lem>
+                </app> lennän <app id="var604" type="sub">
+                    <lem>pitkäin kynsieni välillä olevilla hienoilla nah’oilla. Imettävä
+                        eläin olen minä, joka koko talven</lem>
+                </app> nukun <app id="var605" type="sub">
+                    <lem>pimeissä</lem>
+                </app> koloissa. <app id="var606" type="sub">
+                    <lem>Kesällä</lem>
+                </app> lentelen <app id="var607" type="sub">
+                    <lem>minä ainoastaan</lem>
+                </app> öillä. <app id="var608" type="sub">
+                    <lem>Minä kerron</lem>
+                </app> sinulle jotakin, herra kuningas. Muutamana iltana ajoin <app id="var609" type="sub">
+                    <lem>surisevaa sittisontiaista. Olipa</lem>
+                </app> siinä poika, joka huiski <app id="var610" type="sub">
+                    <lem>ilmaan</lem>
+                </app> notkealla <app id="var611" type="sub">
+                    <lem>saikaralla. Minä len<pb type="orig" n="23"/>nin äänen perässä.
+                        Saikara kävi</lem>
+                </app> minuun. <app id="var612" type="sub">
+                    <lem>Putosinpa</lem>
+                </app> maahan. Poika, joka otti <app id="var613" type="sub">
+                    <lem>minun,</lem>
+                </app> elätti minua vankina häkissä.</p>
+            <figure type="illustration"/>
+            <p style="blackletter">Leijona <app id="var614" type="sub">
+                    <lem>antoi nahkasiiven lentää. Puhaltipa <hi rend="expanded">valaskala</hi></lem>
+                </app> vettä korkealle meren pinnasta. Oletko sinä kala? En, herra kuningas.
+                Minä synnytän eläviä <app id="var615" type="sub">
+                    <lem>sikiöitä,</lem>
+                </app> jotka <app id="var616" type="sub">
+                    <lem>imevät maitoani. Siksi</lem>
+                </app> olen <app id="var617" type="sub">
+                    <lem>imettävä eläin,</lem>
+                </app> joka hengitän ilmaa. <app id="var618" type="sub">
+                    <lem>Minä kerron</lem>
+                </app> jotakin sinulle, herra kuningas. Kerran ajoin <app id="var619" type="sub">
+                    <lem>silliä</lem>
+                </app> syvässä meressä. Purjehtipa <app id="var620" type="sub">
+                    <lem>siinä</lem>
+                </app> laiva, joka lähetti <app id="var621" type="sub">
+                    <lem>ulos veneen.</lem>
+                </app> Mies nakkasi veneestä selkääni terävän keihään, joka oli köydessä
+                    <app id="var622" type="sub">
+                    <lem>kiini. Uinpa</lem>
+                </app> useita <app id="var623" type="sub">
+                    <lem>peninkulmia</lem>
+                </app> vetäen venettä perässäni. Viimein löin pyrstölläni veneen kumoon.
+                Ihminen, joka <app id="var624" type="sub">
+                    <lem>keittää raania ihrastani, väjyy</lem>
+                </app> henkeäni. Minä olen suurin <app id="var625" type="sub">
+                    <lem>eläin, mitä on.</lem>
+                </app> Kuitenkin on ihminen tappanut monta sataa <app id="var626" type="sub">
+                    <lem>veljistäni. <hi rend="expanded">Hylekin,</hi></lem>
+                </app> jolla on pää <app id="var627" type="sub">
+                    <lem>kuin</lem>
+                </app> koiralla, <app id="var628" type="sub">
+                    <lem>on imettävä eläin, joka elää vedessä. <hi rend="expanded">Saukko,</hi></lem>
+                </app> joka pyytää kaloja, <app id="var629" type="sub">
+                    <lem>on samallainen eläin.</lem>
+                </app></p>
+            <p style="blackletter">Leijona <app id="var630" type="sub">
+                    <lem>tuskauntui.</lem>
+                </app> Ui <app id="var631" type="sub">
+                    <lem>tiehesi, valaskala.</lem>
+                </app> Sinä olet kuitenkin <app id="var632" type="sub">
+                    <lem><hi rend="expanded">meri-eläin.</hi> Kuulisin</lem>
+                </app> vielä <app id="var633" type="sub">
+                    <lem>jotakin enempätä <hi rend="expanded">maa-eläimistä.</hi> Kuulisin
+                        niistä, jotka ovat <hi rend="expanded">kesyjä.</hi> Kuulisin niistä,
+                        jotka ovat <hi rend="expanded">kesyttömiä.</hi></lem>
+                </app> Niiden <app id="var634" type="sub">
+                    <lem>pitää antaa</lem>
+                </app> minulle <app id="var635" type="sub">
+                    <lem>kertomus elämästään.</lem>
+                </app></p>
+            <p style="blackletter"><app id="var636" type="sub">
+                    <lem>Tulivat</lem>
+                </app> siis <app id="var637" type="sub">
+                    <lem>imettävät eläimet</lem>
+                </app> leijonan istuimen eteen. Ne kertoivat monta kummallista asiaa, joita
+                leijona mielellään kuunteli. Et vielä saa <app id="var638" type="sub">
+                    <lem>kuulla kaikkia mitä</lem>
+                </app> ne <app id="var639" type="sub">
+                    <lem>sanoivat itsestään.</lem>
+                </app> Siitä tulisi suuri kirja. Mutta se, joka tarkasti kuuntelee, <app id="var640" type="sub">
+                    <lem>saapi</lem>
+                </app> tietää entistä enemmän.</p>
+            <pb type="orig" n="24"/>
+            <head style="blackletter"><hi rend="bold">Mitä </hi><app id="var641" type="sub">
+                    <lem><hi rend="bold">koti-eläimet</hi></lem>
+                </app><hi rend="bold"> kertoivat.</hi></head>
+            <p style="blackletter">Koira murisi leijonalle. Sinä uskollinen koira, mitä
+                sinulla on sanomista? <app id="var642" type="sub">
+                    <lem>Alinomaa</lem>
+                </app> haukut sinä isäntäsi ovella.</p>
+            <p style="blackletter">Koira vastasi. Uskollinen kyllä olen, herra kuningas.
+                Häpeän <app id="var643" type="sub">
+                    <lem>tuota kettua,</lem>
+                </app> sukulaistani. Susi, riitaveljeni, minua <app id="var644" type="sub">
+                    <lem>harmittaa.</lem>
+                </app> Sukulaisteni vuoksi olen tullut <app id="var645" type="sub">
+                    <lem>peto-eläinten</lem>
+                </app> lukuun. Kuitenkin olen uskollisin <app id="var646" type="sub">
+                    <lem>koti-eläimistä,</lem>
+                </app> jotka <app id="var647" type="sub">
+                    <lem>seuraavat ihmistä totellen. Minä olen</lem>
+                </app> ihmisen uskollisin palvelija. <app id="var648" type="sub">
+                    <lem>Minä vartioin</lem>
+                </app> hänen kartanoansa. Metsässä etsin hänelle saalista. Kylmimmissä
+                maissa vedän hänen rekeänsä. <app id="var649" type="sub">
+                    <lem>Me olemma</lem>
+                </app> monta <app id="var650" type="sub">
+                    <lem>eri-näköistä veljestä. Pentukoira</lem>
+                </app> on välistä niin pieni kuin rotta. <app id="var651" type="sub">
+                    <lem>Englanninkoira</lem>
+                </app> on <app id="var652" type="sub">
+                    <lem>välistä</lem>
+                </app> vasikan <app id="var653" type="sub">
+                    <lem>kokonen. Vinttikoiralla</lem>
+                </app> on terävä kuono. Rakkikoiralla on <app id="var654" type="sub">
+                    <lem>tölppä</lem>
+                </app> kuono. Mäyräkoiralla <app id="var655" type="sub">
+                    <lem>ovat</lem>
+                </app> lyhyet jalat. Villakoiralla on <app id="var656" type="sub">
+                    <lem>villa päällä.</lem>
+                </app> Kaikki olemme <app id="var657" type="sub">
+                    <lem>samanlajisia koiria.</lem>
+                </app> Naaraani <app id="var658" type="sub">
+                    <lem>on</lem>
+                </app> narttu. <app id="var659" type="sub">
+                    <lem>Sikiäni</lem>
+                </app> on penikka. Me <app id="var660" type="sub">
+                    <lem>olemma viisaimmat eläimet.</lem>
+                </app> Meillä on tarkin vainu. <app id="var661" type="sub">
+                    <lem>Sillä tunnemma</lem>
+                </app> me <app id="var662" type="sub">
+                    <lem>askeleet.</lem>
+                </app> Monia <app id="var663" type="sub">
+                    <lem>keinoja</lem>
+                </app> opimme ihmisten hyödyksi. Usein olemme pelastaneet <app id="var664" type="sub">
+                    <lem>lapsen, joka oli pudonnut mereen.</lem>
+                </app> Palvelinpa kerran miestä, joka eksyi talvella. Tuli <app id="var665" type="sub">
+                    <lem>pyry-ilma,</lem>
+                </app> joka hautasi <app id="var666" type="sub">
+                    <lem>hänen</lem>
+                </app> syvään lumen alle. Sinne hän kyllä olisi paleltunut. Mutta minä <app id="var667" type="sub">
+                    <lem>paneusin</lem>
+                </app> maata hänen rinnallensa, joka siitä pysyi lämpimänä. <app id="var668" type="sub">
+                    <lem>Haukuinpa</lem>
+                </app> kaikin voimin. Viimein <app id="var669" type="sub">
+                    <lem>tuli väkeä, joka vei</lem>
+                </app> isäntäni lämpimään tupaan.</p>
+            <p style="blackletter">Leijona nyökäytti <app id="var670" type="sub">
+                    <lem>päätään tytyväisenä.</lem>
+                </app> Uskollista palvelijaa ei <app id="var671" type="sub">
+                    <lem>voida</lem>
+                </app> kullalla palkita.</p>
+            <pb type="orig" n="25"/>
+            <figure type="illustration"/>
+            <p style="blackletter"><hi rend="expanded">Kissa</hi> köyristi <app id="var672" type="sub">
+                    <lem>selkäänsä naukuen</lem>
+                </app> leijonan edessä. Herra kuningas, minä olen likeinen sukulaisesi. Me
+                molemmat <app id="var673" type="sub">
+                    <lem>kuulumma</lem>
+                </app> kissan <app id="var674" type="sub">
+                    <lem>sukuun,</lem>
+                </app> joka saattaa vetää kyntensä piiloon. <app id="var675" type="sub">
+                    <lem>Sukumme</lem>
+                </app> on <app id="var676" type="sub">
+                    <lem>parhaimmin varustettu eläinten seassa. Siksi olenkin</lem>
+                </app> oikein <app id="var677" type="sub">
+                    <lem>luontoni mukainen peto.</lem>
+                </app> Varo itseäsi, lintu, joka <app id="var678" type="sub">
+                    <lem>nokit siemeniä</lem>
+                </app> maasta. Varo itseäsi, <app id="var679" type="sub">
+                    <lem>rotta,</lem>
+                </app> joka <app id="var680" type="sub">
+                    <lem>katselet reijästäsi ulos.</lem>
+                </app> Minä <app id="var681" type="sub">
+                    <lem>väjyn</lem>
+                </app> sinua. <app id="var682" type="sub">
+                    <lem>Minä kyyristyn alas. Minä hyppään.</lem>
+                </app> Isken kynteni <app id="var683" type="sub">
+                    <lem>armahtamatta niskaasi.</lem>
+                </app> Semmoinen on <app id="var684" type="sub">
+                    <lem>oikea</lem>
+                </app> haluni. <app id="var685" type="sub">
+                    <lem>Minä tapan kaikki ne,</lem>
+                </app> jotka ovat <app id="var686" type="sub">
+                    <lem>heikommat minua.</lem>
+                </app> Kuitenkin olen <app id="var687" type="sub">
+                    <lem>kesyttynyt ihmisen palveluksessa.</lem>
+                </app> Hän <app id="var688" type="sub">
+                    <lem>silittää säihkyvää</lem>
+                </app> selkääni. Minä nukun hänen polvellansa. <app id="var689" type="sub">
+                    <lem>Minä vartioitsen</lem>
+                </app> hänen <app id="var690" type="sub">
+                    <lem>tallellushuonettansa.</lem>
+                </app> Kauniit <app id="var691" type="sub">
+                    <lem>sikiäni leikitsevät</lem>
+                </app> hänen lastensa kanssa. Hän kiittää siisteyttäni. Kissa pesee
+                silmiänsä. <app id="var692" type="sub">
+                    <lem>Saammepa</lem>
+                </app> vieraita. Mutta eipä <app id="var693" type="sub">
+                    <lem>parane paha sisuni hyvyydestä. Minä olen</lem>
+                </app> julma. <app id="var694" type="sub">
+                    <lem>Minä olen</lem>
+                </app> viekas. <app id="var695" type="sub">
+                    <lem>Minä voin hyljätä</lem>
+                </app> parhaan ystäväni. <app id="var696" type="sub">
+                    <lem>Minä saatan</lem>
+                </app> kynsiä sitä kättä, joka <app id="var697" type="sub">
+                    <lem>vasta</lem>
+                </app> antoi minulle ruokaa.</p>
+            <p style="blackletter">Leijona pudisti <app id="var698" type="sub">
+                    <lem>suutuksissa</lem>
+                </app> pitkää harjaansa. Mene, kissa. <app id="var699" type="sub">
+                    <lem>Olet</lem>
+                </app> kyllä <app id="var700" type="sub">
+                    <lem>hyvin kaunis.</lem>
+                </app> Mutta <app id="var701" type="sub">
+                    <lem>luontosi</lem>
+                </app> on <app id="var702" type="sub">
+                    <lem>häjy. Ennen</lem>
+                </app> olkoon ruumiini <app id="var703" type="int">
+                    <lem>ruma</lem>
+                </app> kuin sydämeni <app id="var704" type="sub">
+                    <lem>häjy.</lem>
+                </app></p>
+            <p style="blackletter"><hi rend="expanded">Hevonen</hi> hirnui. Minä olen <app id="var705" type="sub">
+                    <lem>ylevin koti-eläimistä. Minä olen</lem>
+                </app> kaunis. <app id="var706" type="sub">
+                    <lem>Minä olen</lem>
+                </app> väkevä. <app id="var707" type="sub">
+                    <lem>Minä olen</lem>
+                </app> kärsivällinen. <app id="var708" type="sub">
+                    <lem>Minä olen</lem>
+                </app> oppivainen. <app id="var709" type="sub">
+                    <lem>Minä olen</lem>
+                </app> ihmisen hyödyllisin palvelija <app id="var710" type="sub">
+                    <lem>useammissa maakunnissa maan päällä.</lem>
+                </app> Hän naulaa kavioihini <app id="var711" type="sub">
+                    <lem>rautaset</lem>
+                </app> kengät. Hän täyttää tyynynsä häntäni jouhilla. Minä vedän hänen
+                kuormaansa. Hän ratsastaa selässäni. Sodassa <app id="var712" type="sub">
+                    <lem>kannan minä herraani</lem>
+                </app>
+                <pb type="orig" n="26"/>vihollisten <app id="var713" type="sub">
+                    <lem>pajunetteja</lem>
+                </app> vastaan. Välistä <app id="var714" type="sub">
+                    <lem>olen minä ori.</lem>
+                </app> Välistä <app id="var715" type="sub">
+                    <lem>kutsutaan minua ruunaksi.</lem>
+                </app> Naaraani nimi on tamma. <app id="var716" type="sub">
+                    <lem>Sikiäni nimitetään varsaksi. Punanen</lem>
+                </app> veljeni <app id="var717" type="sub">
+                    <lem>on voilakka. Tumman punanen</lem>
+                </app> on raudikko. Harmaan veljeni nimi on <app id="var718" type="sub">
+                    <lem>hiirenkarva. Kaksikarvalla</lem>
+                </app> on <app id="var719" type="sub">
+                    <lem>vaaleoita karvoja tummempain seassa. Papumuksella on tummia
+                        pilkkoja valkiassa nahassa. Se laiska</lem>
+                </app>
+                <hi rend="expanded">aasi,</hi> jolla <app id="var720" type="sub">
+                    <lem>ovat</lem>
+                </app> pitkät korvat, on sukulaiseni <app id="var721" type="sub">
+                    <lem>eteläisimmissä</lem>
+                </app> maissa. <app id="var722" type="sub">
+                    <lem>Karvoja kaulassani kutsutaan</lem>
+                </app> harjaksi. Minä juosta <app id="var723" type="sub">
+                    <lem>hölkkäsen.</lem>
+                </app> Minä <app id="var724" type="sub">
+                    <lem>juoksen.</lem>
+                </app> Minä laukkaan. Usein lyöpi herrani minua <app id="var725" type="sub">
+                    <lem>armahtamatta.</lem>
+                </app> Silloin on <app id="var726" type="sub">
+                    <lem>uskollisessa mielessäni suru</lem>
+                </app> ihmisen kiittämättömyydestä.</p>
+            <figure type="illustration"/>
+            <p style="blackletter">Leijona kiitti hevosen ylevyyttä. Miksikä sinä, joka olet
+                niin väkevä, kärsit ihmisen kovuutta?</p>
+            <p style="blackletter">Herra kuningas, minä tiedän tarkoitukseni. Jumala on
+                pannut <app id="var727" type="sub">
+                    <lem>minun</lem>
+                </app> palvelijaksi maan päälle. <app id="var728" type="sub">
+                    <lem>Moni ihminen rakastaa</lem>
+                </app> minua <app id="var729" type="sub">
+                    <lem>hyvin. Ne</lem>
+                </app> hoitavat minua hyvänä kumppaninansa. Minä tunnen <pb type="orig" n="27"/>herrani äänen. Minä syön leipää hänen kädestänsä. <app id="var730" type="sub">
+                    <lem>Niin on</lem>
+                </app> hänen hoitonsa <app id="var731" type="sub">
+                    <lem>minulla palkkana.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter"><hi rend="expanded">Härkä</hi>
+                <app id="var732" type="sub">
+                    <lem>mölisi. Katsoppa</lem>
+                </app> minuakin, herra kuningas. Minä olen <app id="var733" type="sub">
+                    <lem>niiden hyödyllisten <hi rend="expanded">raavas-eläinten</hi></lem>
+                </app> isä. <app id="var734" type="sub">
+                    <lem>Sukuni,</lem>
+                </app> jolla <app id="var735" type="sub">
+                    <lem>ovat</lem>
+                </app> sarvet, <app id="var736" type="sub">
+                    <lem>kutsutaan senvuoksi</lem>
+                </app>
+                <hi rend="expanded">sarvieläimiksi.</hi> Me <app id="var737" type="sub">
+                    <lem>kuulumma <hi rend="expanded">märehtiviin eläimihin.</hi></lem>
+                </app> Me <app id="var738" type="sub">
+                    <lem>purekselemma kaksi kertaa ruohot, joita</lem>
+                </app> syömme. Me <app id="var739" type="sub">
+                    <lem>kulemma yhdessä karjassa</lem>
+                </app> laitumella. <app id="var740" type="sub">
+                    <lem>Saattanenpa olla</lem>
+                </app> kukatiesi <app id="var741" type="sub">
+                    <lem>kömpelö. Mahdollisesti saatat pitää</lem>
+                </app> minua <app id="var742" type="sub">
+                    <lem>tyhmänä.</lem>
+                </app> Mutta jäykkä kuormanvetäjä minä olen. Lihani on <app id="var743" type="sub">
+                    <lem>ihmisen voimallinen ruoka.</lem>
+                </app> Vuotani parkitaan nahaksi. Talistani <app id="var744" type="sub">
+                    <lem>kastetaan</lem>
+                </app> kynttilöitä. Sarvistani tehdään kampoja. Mutta <app id="var745" type="sub">
+                    <lem>teurastaja ei ole minusta mieluinen. Sonni</lem>
+                </app> on <app id="var746" type="sub">
+                    <lem>nimeni välistä.</lem>
+                </app> Naaraani nimi on lehmä. Sen hyvästä maidosta saadaan kermaa. Siitä
+                saadaan viiliä. Tästä kirnutaan voita, jota lapset <app id="var747" type="sub">
+                    <lem>panevat</lem>
+                </app> mielellään <app id="var748" type="sub">
+                    <lem>leivälle.</lem>
+                </app> Vanhimman tyttäreni nimi on hieho. <app id="var749" type="sub">
+                    <lem>Nuorin</lem>
+                </app> lapseni on vasikka. <app id="var750" type="sub">
+                    <lem>Elä</lem>
+                </app> ärsytä minua, herra kuningas. Silloin pusken sinua käyrillä
+                sarvillani.</p>
+            <p style="blackletter">Leijona <app id="var751" type="sub">
+                    <lem>nyökäytti päätään leikillään.</lem>
+                </app> Ihminen <app id="var752" type="sub">
+                    <lem>kutsuu</lem>
+                </app> sitä, joka on <app id="var753" type="sub">
+                    <lem>uppiniskanen,</lem>
+                </app> härkäpääksi. Rehellinen otus sinä kuitenkin olet. Tunnen useita
+                sukulaisiasi <app id="var754" type="sub">
+                    <lem>lämpimissä maissa. Niiden seassa</lem>
+                </app> on <app id="var755" type="sub">
+                    <lem>se</lem>
+                </app> väkevä <hi rend="expanded">puhvelihärkä.</hi>
+                <app id="var756" type="sub">
+                    <lem>Niiden seassa</lem>
+                </app> on <app id="var757" type="sub">
+                    <lem><hi rend="expanded">kameli,</hi></lem>
+                </app> jota <app id="var758" type="sub">
+                    <lem>kutsutaan</lem>
+                </app> erämaan laivaksi. <app id="var759" type="sub">
+                    <lem>Niiden seassa</lem>
+                </app> on <app id="var760" type="sub">
+                    <lem>kyttyräselkänen dromedario.</lem>
+                </app></p>
+            <p style="blackletter"><hi rend="expanded">Lammas</hi> määkyi. Minäkin <app id="var761" type="sub">
+                    <lem>kuulun märehtiviin eläimiin. Isäni,</lem>
+                </app> jolla <app id="var762" type="sub">
+                    <lem>ovat</lem>
+                </app> sarvet, <app id="var763" type="sub">
+                    <lem>kutsutaan</lem>
+                </app> jääräksi. Äitini nimi on uuhi. <app id="var764" type="sub">
+                    <lem>Sikiäni</lem>
+                </app> nimi on <pb type="orig" n="28"/>karitsa. Minä olen <app id="var765" type="sub">
+                    <lem>turvatoin</lem>
+                </app> eläin, joka <app id="var766" type="sub">
+                    <lem>vastuksetta tapetaan. Siksi on kutsuttu</lem>
+                </app> Vapahtajaamme <app id="var767" type="sub">
+                    <lem>Jesusta</lem>
+                </app> Jumalan karitsaksi. Minä olen <app id="var768" type="sub">
+                    <lem>ensimäinen eläin, joka</lem>
+                </app> on <app id="var769" type="sub">
+                    <lem>ihmisiin kesyttynyt. Siksi kutsutaan</lem>
+                </app> jo <app id="var770" type="sub">
+                    <lem>Aabeli Aadamin poika</lem>
+                </app> lammasten paimeneksi. Minusta on <app id="var771" type="sub">
+                    <lem>ihmiselle paljo</lem>
+                </app> hyötyä. Hän keritsee minulta villan, <app id="var772" type="sub">
+                    <lem>joka sitte langoiksi kehrätään. Langoista kudotaan monellaista
+                        vaatetta, josta saadaan lämpimiä vaatteita. Niistä kudotaan myös
+                        pehmeitä sukkia. Nahoistani tehdään turkkia. Lihastani tulee hyvä
+                        ruoka.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter">Leijona vastasi ystävällisesti. <app id="var773" type="sub">
+                    <lem>Lakeamielinen</lem>
+                </app> sinä <app id="var774" type="sub">
+                    <lem>kyllä olet. Minä tunnen</lem>
+                </app> sukulaisesi, <app id="var775" type="sub">
+                    <lem>partavan</lem>
+                </app>
+                <hi rend="expanded">vuohen,</hi> jonka <app id="var776" type="sub">
+                    <lem>uros kutsutaan</lem>
+                </app> pukiksi. <app id="var777" type="sub">
+                    <lem>Järjestykseesi kuuluu sekin kaunis peura,</lem>
+                </app> jolla <app id="var778" type="sub">
+                    <lem>ovat haaraset</lem>
+                </app> sarvet. <app id="var779" type="sub">
+                    <lem>Siihen kuuluu se</lem>
+                </app> iso <hi rend="expanded">hirvi,</hi> jota ajetaan metsissä. <app id="var780" type="sub">
+                    <lem>Siihen kuuluu se sukkela</lem>
+                </app>
+                <hi rend="expanded">porokin,</hi> joka <app id="var781" type="sub">
+                    <lem>vetää Lappalaisen pulkkaa pohjois-tuntureilla.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter"><hi rend="expanded">Sika</hi> röhki. <app id="var782" type="sub">
+                    <lem>Katsoppa</lem>
+                </app> minuakin, herra kuningas. Minä olen siivoton otus, joka mielelläni
+                    <app id="var783" type="sub">
+                    <lem>tulen lijassa toimeen.</lem>
+                </app> Minä tongin maata <app id="var784" type="sub">
+                    <lem>turvallani,</lem>
+                </app> jota sanotaan kärsäksi. Isäni nimi <app id="var785" type="sub">
+                    <lem>on</lem>
+                </app> karju. Äitini nimi on <app id="var786" type="sub">
+                    <lem>emäsika.</lem>
+                </app> Lapseni nimi on porsas. Ihminen, joka <app id="var787" type="sub">
+                    <lem>ylenkatsoo minun, syöpi</lem>
+                </app> mielellään lihaani. Siitä saadaan <app id="var788" type="sub">
+                    <lem>läskiä.</lem>
+                </app> Siitä saadaan <app id="var789" type="sub">
+                    <lem>kinkkua.</lem>
+                </app> Siitä saadaan sylttyä. Harjaksistani tehdään harjoja, joilla <app id="var790" type="sub">
+                    <lem>pellavia harjataan.</lem>
+                </app> Kesyttömän veljeni nimi on <app id="var791" type="sub">
+                    <lem>metsäsika. <hi rend="expanded">Siilillä</hi> ovat pitkät piikit
+                        selässä.</lem>
+                </app></p>
+            <p style="blackletter">Leijona vastasi. Tunnen <app id="var792" type="sub">
+                    <lem>muutaman</lem>
+                </app> ison eläimen <app id="var793" type="sub">
+                    <lem>samasta järjestyksestä, johon</lem>
+                </app> sinäkin <app id="var794" type="sub">
+                    <lem>kuulut.</lem>
+                </app> Kerran <app id="var795" type="sub">
+                    <lem>kulin</lem>
+                </app> etelämaissa, <app id="var796" type="sub">
+                    <lem>joissa</lem>
+                </app> aurinko <app id="var797" type="sub">
+                    <lem>on kuuma.</lem>
+                </app> Siellä kohtasin hirveän kummallisen eläimen, jota <pb type="orig" n="29"/><app id="var798" type="sub">
+                    <lem>kutsuttiin <hi rend="expanded">elehvantiksi.</hi></lem>
+                </app> Näin hevosen <app id="var799" type="sub">
+                    <lem>menevän suorana hänen vatsansa alate.</lem>
+                </app> Suussa oli sillä kaksi hirmuisen isoa hammasta, joista saadaan <app id="var800" type="sub">
+                    <lem>sitä kallista elehvantin-luuta.</lem>
+                </app> Se pani ruokaa suuhunsa pitkällä turvalla, jota <app id="var801" type="sub">
+                    <lem>kutsuttiin</lem>
+                </app> kärsäksi. <app id="var802" type="sub">
+                    <lem>Tällä</lem>
+                </app> saattoi <app id="var803" type="sub">
+                    <lem>hän toimittaa</lem>
+                </app> kummallisia asioita. Sillä <app id="var804" type="sub">
+                    <lem>saattoi hän</lem>
+                </app> nostaa ihmisen <app id="var805" type="sub">
+                    <lem>ylös. Ihmiset</lem>
+                </app> olivat <app id="var806" type="sub">
+                    <lem>kesyttäneet hänen. Ne</lem>
+                </app> olivat rakentaneet <app id="var807" type="sub">
+                    <lem>hänelle</lem>
+                </app> selkään tornin, <app id="var808" type="sub">
+                    <lem>jossa</lem>
+                </app> 20 (kaksikymmentä) <app id="var809" type="sub">
+                    <lem>sotamiestä asui.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter"><app id="var810" type="sub">
+                    <lem>Tulipa</lem>
+                </app> nyt kova <app id="var811" type="sub">
+                    <lem>karjumisen meteli</lem>
+                </app> metsässä. Arat <app id="var812" type="sub">
+                    <lem>koti-eläimet</lem>
+                </app> pakenivat <app id="var813" type="sub">
+                    <lem>peljästyneinä</lem>
+                </app> ihmisten <app id="var814" type="sub">
+                    <lem>asuntoihin.</lem>
+                </app> Pedot tulivat leijonan istuimen eteen.</p>
+            <head style="blackletter"><hi rend="bold">Mitä pedot kertoivat.</hi></head>
+            <p style="blackletter">Ne tunnustivat leijonalle kaiken julmuutensa. Me elämme
+                    <app id="var815" type="sub">
+                    <lem>enimmästi</lem>
+                </app> muiden eläinten lihasta. Jumala on antanut meille terävät kynnet,
+                joilla <app id="var816" type="sub">
+                    <lem>tartumme saaliisemme.</lem>
+                </app> Suussa <app id="var817" type="sub">
+                    <lem>ovat</lem>
+                </app> meillä terävät <app id="var818" type="sub">
+                    <lem>hampaat, joilla</lem>
+                </app> revimme <app id="var819" type="sub">
+                    <lem>eläimen,</lem>
+                </app> jonka olemme saaneet <app id="var820" type="sub">
+                    <lem>kiini.</lem>
+                </app> Yöllä olemme <app id="var821" type="sub">
+                    <lem>pyydössä.</lem>
+                </app> Päivällä nukumme luolissamme. Emme <app id="var822" type="sub">
+                    <lem>tule koskaan</lem>
+                </app> oikein kesyiksi. Välistä ovat ihmiset ottaneet <app id="var823" type="sub">
+                    <lem>meiltä penikat</lem>
+                </app> pesästä. <app id="var824" type="sub">
+                    <lem>Ne</lem>
+                </app> ovat <app id="var825" type="sub">
+                    <lem>antaneet meille</lem>
+                </app> ruokaa. <app id="var826" type="sub">
+                    <lem>Me olemme</lem>
+                </app> kasvaneet isoiksi heidän taloissansa. Olemme <app id="var827" type="sub">
+                    <lem>olleet jonkun</lem>
+                </app> ajan nöyrinä <app id="var828" type="sub">
+                    <lem>ihmisten</lem>
+                </app> vallassa. <app id="var829" type="sub">
+                    <lem>Olemmepa</lem>
+                </app> joskus nähneet <app id="var830" type="sub">
+                    <lem>vertä juoksevan. Jonkun kerran</lem>
+                </app> on kesy eläin tullut <app id="var831" type="sub">
+                    <lem>meitä likelle.</lem>
+                </app> Kohta on <app id="var832" type="sub">
+                    <lem>tullut raju</lem>
+                </app> luontomme <app id="var833" type="sub">
+                    <lem>takasi. Me olemma</lem>
+                </app> repineet <app id="var834" type="sub">
+                    <lem>vahtimme,</lem>
+                </app> jotka ovat <app id="var835" type="sub">
+                    <lem>antaneet meille</lem>
+                </app> ruokaa.</p>
+            <pb type="orig" n="30"/>
+            <figure type="illustration"/>
+            <p style="blackletter"><hi rend="expanded">Tiikeri</hi>
+                <app id="var836" type="sub">
+                    <lem>karjui</lem>
+                </app> hirmuisesti. Tunnetko minua, herra kuningas? <app id="var837" type="sub">
+                    <lem>Kissan-sukuun kuulumme kaikki, jotka olemme julmimpia petoja.</lem>
+                </app> Haluatko tietää muotoani? <app id="var838" type="sub">
+                    <lem>Halaatko</lem>
+                </app> tietää voimaani? Katso tarkasti kissaa, joka on <app id="var839" type="sub">
+                    <lem>vähäisenä kuvanani. Ajattele kissaa</lem>
+                </app> pienen hevosen <app id="var840" type="sub">
+                    <lem>kokoisena.</lem>
+                </app> Varo <app id="var841" type="int">
+                    <lem>itseäsi,</lem>
+                </app> herra kuningas. Minä en säästä <app id="var842" type="sub">
+                    <lem>yhtään elävää, johonka</lem>
+                </app> pääsen <app id="var843" type="sub">
+                    <lem>kiini</lem>
+                </app> hampaillani. Minä murhaan huvikseni. <app id="var844" type="sub">
+                    <lem>Minä olen kavala peijakas,</lem>
+                </app> ja <app id="var845" type="sub">
+                    <lem>väjyn</lem>
+                </app> heikompia eläimiä, jotka sammuttavat janoansa <app id="var846" type="sub">
+                    <lem>hetteistä. Minä revin</lem>
+                </app> pyytäjän, jonka <app id="var847" type="sub">
+                    <lem>mieli tekee papumusta</lem>
+                </app> nahkaani.</p>
+            <figure type="illustration"/>
+            <p style="blackletter"><hi rend="expanded">Leijona</hi> kiljui <app id="var848" type="sub">
+                    <lem>vihassa.</lem>
+                </app> Minäkin olen <app id="var849" type="sub">
+                    <lem>kissan-sukua. Minä tunnen</lem>
+                </app> teidät kaikki, jotka <app id="var850" type="sub">
+                    <lem>siihen kuulutte.</lem>
+                </app> Kavala tiikeri, <app id="var851" type="sub">
+                    <lem>minä tunnen sinun</lem>
+                </app> hyvin. <app id="var852" type="sub">
+                    <lem>Minä tunnen</lem>
+                </app>
+                <hi rend="expanded">ilveksen</hi>
+                <app id="var853" type="sub">
+                    <lem>pohjan</lem>
+                </app> metsissä. <app id="var854" type="sub">
+                    <lem>Minä tunnen</lem>
+                </app>
+                <hi rend="expanded">pantterin.</hi>
+                <app id="var855" type="sub">
+                    <lem>Minä tunnen <hi rend="expanded">leopardin.</hi></lem>
+                </app> Kaikki <app id="var856" type="sub">
+                    <lem>olette te</lem>
+                </app> viekkaita murhaajia. <app id="var857" type="sub">
+                    <lem>Minä häpeän</lem>
+                </app> sukulaisiani. <app id="var858" type="sub">
+                    <lem>Minä</lem>
+                </app> olen myös jalomielisin. En <app id="var859" type="sub">
+                    <lem>unhota</lem>
+                </app> koskaan <app id="var860" type="sub">
+                    <lem>sitä,</lem>
+                </app> joka on <app id="var861" type="sub">
+                    <lem>minulle tehnyt</lem>
+                </app> hyvää. Olipa kerran <app id="var862" type="int">
+                    <lem>orja</lem>
+                </app> nimeltä Androkles, joka <app id="var863" type="sub">
+                    <lem>pakeni pois vainojiltaan.</lem>
+                </app> Hän kohtasi <app id="var864" type="sub">
+                    <lem>minun</lem>
+                </app> metsässä. Hän otti pois orjantappurapiikin haavoitetusta jalastani.
+                Kiitollisuudesta <app id="var865" type="sub">
+                    <lem>tulin</lem>
+                </app> hänen ystäväksensä. <app id="var866" type="sub">
+                    <lem>Kauvan</lem>
+                </app> asui hän <app id="var867" type="sub">
+                    <lem>suojassa</lem>
+                </app> luolassani. Mutta muutamana päivänä saivat ihmiset <app id="var868" type="sub">
+                    <lem>minun kiini.</lem>
+                </app> Ystävänikin <app id="var869" type="sub">
+                    <lem>tuli</lem>
+                </app> vangiksi. Neljään päivään en saanut ruokaa. Ihmiset, <app id="var870" type="sub">
+                    <lem>julmemmat minua, nakkasivat</lem>
+                </app> ystäväni Androkleen <app id="var871" type="sub">
+                    <lem>jalkaini eteen. Ne kiusasivat</lem>
+                </app> minua <app id="var872" type="sub">
+                    <lem>kovasti.</lem>
+                </app> Nälkäinen <pb type="orig" n="31"/>leijona, syö nyt ystäväsi. Mutta
+                minä köyristyin kiitollisena Androkleen <app id="var873" type="sub">
+                    <lem>edessä. Minä näytin julmia hampaitani</lem>
+                </app> niille, jotka mielivät <app id="var874" type="sub">
+                    <lem>tarttua häneen.</lem>
+                </app> Silloin <app id="var875" type="sub">
+                    <lem>liikkui mieli kaikilla,</lem>
+                </app> jotka <app id="var876" type="sub">
+                    <lem>tämän</lem>
+                </app> näkivät. Jalomielinen leijona, ystäväsi on vapaa. <app id="var877" type="sub">
+                    <lem>Niin</lem>
+                </app> päästivät <app id="var878" type="sub">
+                    <lem>Androkleen</lem>
+                </app> irti <app id="var879" type="sub">
+                    <lem>uskollisuuteni</lem>
+                </app> tähden.</p>
+            <figure type="illustration"/>
+            <p style="blackletter"><hi rend="expanded">Karhusta</hi> tuntui tämä kertomus
+                hyvältä. Hän mörisi hyvillä mielin. Herra kuningas, ymmärrän
+                jalomielisyytesi. Varo <app id="var880" type="sub">
+                    <lem>itseäsi</lem>
+                </app> käpäläni <app id="var881" type="sub">
+                    <lem>lyönnistä,</lem>
+                </app> jolla on kahdentoista miehen voima. Varo <app id="var882" type="sub">
+                    <lem>itseäsi julmemmalta veljeltäni jääkarhulta,</lem>
+                </app> joka asuu <app id="var883" type="sub">
+                    <lem>ylhäällä meren</lem>
+                </app> jäillä. Minä olen <app id="var884" type="sub">
+                    <lem>herrana pohjan metsissä. Siellä valmistan</lem>
+                </app> pesäni, jossa <app id="var885" type="sub">
+                    <lem>makaan talvella.</lem>
+                </app> Siellä syön marjoja mättäiltä. Siellä <app id="var886" type="sub">
+                    <lem>makustelen mettiäisten hunajaa.</lem>
+                </app> Välistä kaadan talonpojan lehmän, jonka <app id="var887" type="sub">
+                    <lem>sitte</lem>
+                </app> syön suuhuni. <app id="var888" type="sub">
+                    <lem>Siksi</lem>
+                </app> pyytää minua metsästäjä, joka käyttää <app id="var889" type="sub">
+                    <lem>karvasen turkkini peitoksensa talvella.</lem>
+                </app> Usein <app id="var890" type="sub">
+                    <lem>tappelen</lem>
+                </app> silloin henkeni <app id="var891" type="sub">
+                    <lem>edestä.</lem>
+                </app> Välistä kohtaan pieniä lapsia, jotka ovat <app id="var892" type="sub">
+                    <lem>eksyneet metsässä.</lem>
+                </app> Kohta tulee heidän äitinsä, joka hädissään <app id="var893" type="sub">
+                    <lem>etsii heitä. En minä</lem>
+                </app> tee pahaa lapsille. <app id="var894" type="sub">
+                    <lem>En minä</lem>
+                </app> tee pahaa <app id="var895" type="sub">
+                    <lem>äitille.</lem>
+                </app> Hiljaa <app id="var896" type="sub">
+                    <lem>menen pois niiden tieltä.</lem>
+                </app></p>
+            <p style="blackletter">Leijona nyökäytti <app id="var897" type="sub">
+                    <lem>päätään hyvin leikillisesti.</lem>
+                </app> Karhu äijä on <app id="var898" type="sub">
+                    <lem>hyvä</lem>
+                </app> mies. Mutta <app id="var899" type="sub">
+                    <lem>ei hän</lem>
+                </app> puhu <app id="var900" type="sub">
+                    <lem>kaikkia mitä hän</lem>
+                </app> tietää. Näinpä kerran miehen, joka talutti karhua <app id="var901" type="sub">
+                    <lem>turvassa kiini olevasta</lem>
+                </app> renkaasta. <app id="var902" type="sub">
+                    <lem>Siihenpä kokousi paljo väkeä,</lem>
+                </app> joka halusi nähdä karhun <app id="var903" type="sub">
+                    <lem>tanssaavan. Mies</lem>
+                </app> löi karhua <app id="var904" type="sub">
+                    <lem>armahtamatta. Jopa tanssasi karhu. Jopa väki</lem>
+                </app> nauroi. <app id="var905" type="sub">
+                    <lem>Aivan kömpelö oli karhu tansissa.</lem>
+                </app></p>
+            <pb type="orig" n="32"/>
+            <figure type="illustration"/>
+            <p style="blackletter"><hi rend="expanded">Susi</hi> ulvoi. Onko täällä
+                saalista? <app id="var906" type="sub">
+                    <lem>Kunhan olisi jotakaan. Sukulaiseni koiran</lem>
+                </app> kanssa <app id="var907" type="sub">
+                    <lem>olen alinomaisessa sodassa.</lem>
+                </app> Koira, joka on <app id="var908" type="sub">
+                    <lem>tappanut suden,</lem>
+                </app> jättää <app id="var909" type="sub">
+                    <lem>suden siihen.</lem>
+                </app> Susi, joka on <app id="var910" type="sub">
+                    <lem>tappanut koiran, syöpi hänen</lem>
+                </app> kohta suuhunsa. <app id="var911" type="sub">
+                    <lem>Talvi-illoilla kulemme</lem>
+                </app> isoissa <app id="var912" type="sub">
+                    <lem>joukoissa saaliin pyydössä. Varo</lem>
+                </app> silloin pieniä <app id="var913" type="sub">
+                    <lem>lapsia,</lem>
+                </app> jotka <app id="var914" type="sub">
+                    <lem>juoksevat kartanon poikki. Minä saan varoa itseäni
+                        metsästäjältä,</lem>
+                </app> joka <app id="var915" type="sub">
+                    <lem>ajaa</lem>
+                </app> minua <app id="var916" type="sub">
+                    <lem>suksilla</lem>
+                </app> talvella. Joka <app id="var917" type="sub">
+                    <lem>minun</lem>
+                </app> tappaa, saapi rahaa palkinnoksi.</p>
+            <p style="blackletter">Leijona tiesi <app id="var918" type="sub">
+                    <lem>kertomuksen sudestakin.</lem>
+                </app> Sinähän se olit, joka kerran putosit <app id="var919" type="sub">
+                    <lem>suden-hautaan.</lem>
+                </app> Köyhä akka käveli <app id="var920" type="sub">
+                    <lem>haudan sivu.</lem>
+                </app> Pilkkasipa siinä sutta. Parhaiksi sinulle, <app id="var921" type="sub">
+                    <lem>ilkeä eläin.</lem>
+                </app> Samassa putosi akka itse <app id="var922" type="sub">
+                    <lem>hautaan. Puhuipa nyt peljästyksissään</lem>
+                </app> kokonaan toista. Susi kulta, <app id="var923" type="sub">
+                    <lem>etkö</lem>
+                </app> söisi <app id="var924" type="sub">
+                    <lem>näkkileipää</lem>
+                </app> pussistani?</p>
+            <p style="blackletter"><app id="var925" type="sub">
+                    <lem>Vielä tiesi</lem>
+                </app> leijona <app id="var926" type="sub">
+                    <lem>toisen kertomuksen. Poikanen</lem>
+                </app> ajoi <app id="var927" type="sub">
+                    <lem>järvelle</lem>
+                </app> vettä <app id="var928" type="sub">
+                    <lem>noutamaan avannosta. Tulipa joukko susia ympärille. Poikanen</lem>
+                </app> antoi hevosen juosta tiehensä. Ammeen <app id="var929" type="sub">
+                    <lem>kaatoi hän jäällä yllensä.</lem>
+                </app> Sudet, <app id="var930" type="sub">
+                    <lem>jotka halusivat</lem>
+                </app> saada <app id="var931" type="sub">
+                    <lem>poikaa,</lem>
+                </app> pistivät käpälänsä ammeen laidan alle. Poikapa lyödä <app id="var932" type="sub">
+                    <lem>sätkäytti</lem>
+                </app> kirveellään käpälät poikki. Muutamat sudet, jotka näkivät toisista
+                    <app id="var933" type="sub">
+                    <lem>vertä juoksevan,</lem>
+                </app> karkasivat niiden päälle, jotka olivat <app id="var934" type="sub">
+                    <lem>verisinä. Tulipa kova</lem>
+                </app> tappelu ammeen ympärillä. Monta sutta siinä purtiin kuoliaaksi. <app id="var935" type="sub">
+                    <lem>Muut</lem>
+                </app> juoksivat tiehensä. <app id="var936" type="sub">
+                    <lem>Poikanen,</lem>
+                </app> joka <app id="var937" type="sub">
+                    <lem>konttasi ammeen</lem>
+                </app> alta, sai <app id="var938" type="sub">
+                    <lem>paljo</lem>
+                </app> rahaa kuolleitten susien nahoista.</p>
+            <p style="blackletter"><hi rend="expanded">Kettu</hi><app id="var939" type="sub">
+                    <lem> tulla</lem>
+                </app> sipsutteli <app id="var940" type="sub">
+                    <lem>esiin ulkokullatun näkösenä.</lem>
+                </app> Herra kuningas, minäkin olen koiran sukua. <pb type="orig" n="33"/>Viekkauteni on hyvin <app id="var941" type="sub">
+                    <lem>kuulusa. Saatan purra poikki häntänikin, joka</lem>
+                </app> on <app id="var942" type="sub">
+                    <lem>tarttunut ketun-rautoihin.</lem>
+                </app> Viekkaasti petän minä pyytäjän, joka <app id="var943" type="sub">
+                    <lem>käyttää nahkaani pehmeimmiksi turkiksi.</lem>
+                </app> Useampia kertomuksia saat <app id="var944" type="sub">
+                    <lem>sitte</lem>
+                </app> kuulla. <app id="var945" type="sub">
+                    <lem>Vertaistani ei löydy viekkaudessa.</lem>
+                </app></p>
+            <p style="blackletter">Leijona julmisti kulmakarvojaan. <app id="var946" type="sub">
+                    <lem>Elä pöyhistele kovin paljon</lem>
+                </app> sinä Mikko <app id="var947" type="sub">
+                    <lem>kettu.</lem>
+                </app> Viekkaus ei ole <app id="var948" type="sub">
+                    <lem>viisaus.</lem>
+                </app> Kavaluus ei ole <app id="var949" type="sub">
+                    <lem>ymmärrys.</lem>
+                </app> Jo tiedän tarpeeksi <app id="var950" type="sub">
+                    <lem>peto-eläimistä. Minua inhottavat ne,</lem>
+                </app> jotka <app id="var951" type="sub">
+                    <lem>elävät muiden turmiosta.</lem>
+                </app></p>
+            <p style="blackletter">Leijona ajoi <app id="var952" type="sub">
+                    <lem>peto-eläimet</lem>
+                </app> pois. Niiden <app id="var953" type="sub">
+                    <lem>perästä</lem>
+                </app> tuli vielä muita <app id="var954" type="sub">
+                    <lem>imettäviä eläimiä, joita kutsutaan:</lem>
+                </app></p>
+            <head style="blackletter"><anchor id="struct31a"/><hi rend="bold">Nävertäjät.</hi><anchor id="struct31b"/></head>
+            <head><anchor id="struct32a"/>
+                <anchor id="struct32b"/></head>
+            <p style="blackletter">Nämä <app id="var955" type="sub">
+                    <lem>olivat</lem>
+                </app> edellisiä pienemmät. Kaikilla oli <app id="var956" type="sub">
+                    <lem>kaksi pitkää etuhammasta,</lem>
+                </app> joilla he <app id="var957" type="sub">
+                    <lem>kasvikunnasta nävertävät enimmän ruokansa.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter"><hi rend="expanded">Orava</hi>
+                <app id="var958" type="sub">
+                    <lem>hyppäsi</lem>
+                </app> likimmäiselle oksalle istumaan. Katso <app id="var959" type="sub">
+                    <lem>minuakin,</lem>
+                </app> herra kuningas. Minä olen <app id="var960" type="sub">
+                    <lem>luotu merimieheksi. Minä</lem>
+                </app> kiipeän <app id="var961" type="sub">
+                    <lem>sukkelasti puuhun. Minä purjehdin hännälläni lastun päällä</lem>
+                </app> joen <app id="var962" type="sub">
+                    <lem>poikki. Saanpa varoa itseäni.</lem>
+                </app> Poika panee paulojansa <app id="var963" type="sub">
+                    <lem>eteeni. Vankina</lem>
+                </app> ollessani <app id="var964" type="sub">
+                    <lem>häkissä hyppään sukkelasti</lem>
+                </app> pyörivässä rattaassa.</p>
+            <p style="blackletter">Leijona vastasi. Pysy <app id="var965" type="sub">
+                    <lem>metsässä,</lem>
+                </app> kaunis orava. Pahoin <app id="var966" type="sub">
+                    <lem>käypi</lem>
+                </app> sinulle merellä. Mitä <app id="var967" type="sub">
+                    <lem>nuo</lem>
+                </app> pienet <app id="var968" type="sub">
+                    <lem>eläimet ovat,</lem>
+                </app> jotka <app id="var969" type="sub">
+                    <lem>isossa joukossa juoksentelevat jalkaini vieressä?</lem>
+                </app></p>
+            <p style="blackletter"><hi rend="expanded">Rotta</hi> vikisi. <app id="var970" type="sub">
+                    <lem>Täällä</lem>
+                </app> olen minä, joka <app id="var971" type="sub">
+                    <lem>näpistelen</lem>
+                </app> akan ruokaa <app id="var972" type="sub">
+                    <lem>lukitussa huoneessa.</lem>
+                </app>
+                <hi rend="expanded">Hiiri</hi> juosta piiperti esiin. <app id="var973" type="sub">
+                    <lem>Täällä</lem>
+                </app> olen minä, joka <app id="var974" type="sub">
+                    <lem>näverrän</lem>
+                </app> rei<pb type="orig" n="34"/>kiä <app id="var975" type="sub">
+                    <lem>leipälaariin.</lem>
+                </app>
+                <hi rend="expanded">Myyrä</hi> katsoa pilkisti <app id="var976" type="sub">
+                    <lem>reijästään. Täällä</lem>
+                </app> olen minä, joka kaivan <app id="var977" type="sub">
+                    <lem>kulkureikiä yrttitarhan penkkien alle. Elä</lem>
+                </app> tule meitä <app id="var978" type="sub">
+                    <lem>kovin likelle.</lem>
+                </app> Me <app id="var979" type="sub">
+                    <lem>olemma urhoollisia otuksia.</lem>
+                </app> Sano meille kuitenkin yksi asia, herra kuningas. Oletko nähnyt kissaa
+                näillä <app id="var980" type="sub">
+                    <lem>tienoilla?</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter">Leijona <app id="var981" type="sub">
+                    <lem>puhui</lem>
+                </app> leikkiä. <app id="var982" type="sub">
+                    <lem>Kyllähän te oletta urhoollisia.</lem>
+                </app> Kerran oli teillä <app id="var983" type="sub">
+                    <lem>iso neuvotteleminen.</lem>
+                </app> Viisaimmat teistä keksivät hyvän keinon. <app id="var984" type="sub">
+                    <lem>Pitäisipä ripustaa tiuku kissan kaulaan.</lem>
+                </app> Tätä pitivät kaikki viisaana neuvona. Puuttuipa <app id="var985" type="sub">
+                    <lem>kuitenkin ainoastaan</lem>
+                </app> yksi asia. Ei <app id="var986" type="sub">
+                    <lem>ollut yhtään, jolla oli halua ripustaa</lem>
+                </app> tiukua kissan kaulaan.</p>
+            <figure type="illustration"/>
+            <p style="blackletter"><hi rend="expanded">Jänis</hi> laukkasi <app id="var987" type="sub">
+                    <lem>ottaen pitkiä hyppyjä. Täällä</lem>
+                </app> olen minä. Sukulaiseni, sievä <hi rend="expanded">kaniini,</hi>
+                <app id="var988" type="sub">
+                    <lem>nävertää</lem>
+                </app> tuolla kuorta puista. Kesällä olen <app id="var989" type="sub">
+                    <lem>mullan harmaa.</lem>
+                </app> Talvella olen <app id="var990" type="sub">
+                    <lem>lumen valkoinen.</lem>
+                </app> Katsopa komeita korviani. Katsopa pitkiä turpakarvojani. Enkö ole
+                    <app id="var991" type="sub">
+                    <lem>mahtava veitikka?</lem>
+                </app></p>
+            <p style="blackletter">Leijona kuuli <app id="var992" type="sub">
+                    <lem>rymyn ulohtaalta.</lem>
+                </app> Jänis <app id="var993" type="sub">
+                    <lem>lähti</lem>
+                </app> pakoon. Miksikä piilotat pääsi <app id="var994" type="sub">
+                    <lem>pensaasen?</lem>
+                </app> Herra kuningas, kuulen koirain <app id="var995" type="sub">
+                    <lem>haukkuvan.</lem>
+                </app> Metsästäjä ampuu <app id="var996" type="sub">
+                    <lem>minun. Köökkipiika</lem>
+                </app> paistaa <app id="var997" type="sub">
+                    <lem>minun.</lem>
+                </app> Pojat <app id="var998" type="sub">
+                    <lem>pyhkivät luvunlasku-taulujaan</lem>
+                </app> katkaistulla käpälälläni.</p>
+            <p style="blackletter"><app id="var999" type="sub">
+                    <lem><hi rend="expanded">Majava</hi> kämpi ylös uima-jaloillaan</lem>
+                </app> rannalle. Herra kuningas, minäkin kuulun <app id="var1000" type="sub">
+                    <lem>nävertäväin järjestykseen.</lem>
+                </app> Vedessä pyydän kaloja ruuakseni. <app id="var1001" type="sub">
+                    <lem>Sitte</lem>
+                </app> rakennan rannalle <app id="var1002" type="sub">
+                    <lem>kummallisia</lem>
+                </app> huoneita. <app id="var1003" type="sub">
+                    <lem>Muuraus-<pb type="orig" n="35"/>lastana pidän</lem>
+                </app> leveätä häntääni. Ihmiset pyytävät minua <app id="var1004" type="sub">
+                    <lem>sen</lem>
+                </app> lääkkeen tähden, jota <app id="var1005" type="sub">
+                    <lem>saadaan ruumiistani.</lem>
+                </app></p>
+            <p style="blackletter">Leijona kohosi <app id="var1006" type="sub">
+                    <lem>ylös valtavassa ylevyydessään.</lem>
+                </app> Nyt näen teissä Luojan kaikkivallan. Hyvin erilaisiksi <app id="var1007" type="sub">
+                    <lem>on hän</lem>
+                </app> luonut eläimet. <app id="var1008" type="sub">
+                    <lem>Muutamat</lem>
+                </app> meistä ovat <app id="var1009" type="sub">
+                    <lem>leppeitä. Muutamat</lem>
+                </app> ovat julmia. <app id="var1010" type="sub">
+                    <lem>Muutamat</lem>
+                </app> ovat heikkoja. <app id="var1011" type="sub">
+                    <lem>Muutamat</lem>
+                </app> ovat väkeviä. <app id="var1012" type="sub">
+                    <lem>Muutamat</lem>
+                </app> elävät maan <app id="var1013" type="sub">
+                    <lem>kasvuista. Muutamat</lem>
+                </app> elävät <app id="var1014" type="sub">
+                    <lem>toisten</lem>
+                </app> eläinten lihasta. <app id="var1015" type="sub">
+                    <lem>Syntiin-lankeemuksen</lem>
+                </app> jälkeen on <app id="var1016" type="sub">
+                    <lem>alinomainen</lem>
+                </app> sota maan päällä. Jumala, joka on hyvä kaikille, on kerran antava
+                meille kaikille rauhan. Hän on kuuleva <app id="var1017" type="sub">
+                    <lem>luontokappaltenkin</lem>
+                </app> huokaukset. Hänen nimensä olkoon ylistetty <app id="var1018" type="sub">
+                    <lem>koko maan päällä.</lem>
+                </app></p>
+            <p style="blackletter">Nyt vaikeni <app id="var1019" type="sub">
+                    <lem>leijona puhumasta.</lem>
+                </app> Nyt <app id="var1020" type="sub">
+                    <lem>menivät</lem>
+                </app> kaikki <app id="var1021" type="sub">
+                    <lem>imettävät eläimet pois.</lem>
+                </app> Aurinko paistoi <app id="var1022" type="sub">
+                    <lem>pitkihin</lem>
+                </app> puihin. Kylän pienet lapset <choice>
+                    <orig/>
+                </choice><app id="var1023" type="sub">
+                    <lem><choice>
+                            <orig>iuoksivat</orig>
+                            <reg>juoksivat</reg>
+                        </choice></lem>
+                </app><choice>
+                    <reg/>
+                </choice> iloisina metsässä. <app id="var1024" type="sub">
+                    <lem>Niille</lem>
+                </app> ei tehnyt <app id="var1025" type="sub">
+                    <lem>kukaan</lem>
+                </app> pahaa. Julmimmat pedot eivät asu <app id="var1026" type="sub">
+                    <lem>maassamme.</lem>
+                </app> Rukoile alinomaa Jumalalta suojelusta. Ole hyvä eläimille. Silloin ei
+                    <app id="var1027" type="sub">
+                    <lem>vahingoita karhu.</lem>
+                </app> Silloin ei <app id="var1028" type="sub">
+                    <lem>pure susi.</lem>
+                </app> Silloin <app id="var1029" type="sub">
+                    <lem>juoksevat ne lauhkeat</lem>
+                </app> eläimet iloisina <app id="var1030" type="sub">
+                    <lem>vastaasi.</lem>
+                </app></p>
+            <head style="blackletter"><hi rend="bold">Apinat.</hi></head>
+            <p style="blackletter">Kaksi <choice>
+                    <orig/>
+                </choice><app id="var1031" type="sub">
+                    <lem><choice>
+                            <orig>poika</orig>
+                            <reg>poikaa</reg>
+                        </choice></lem>
+                </app><choice>
+                    <reg/>
+                </choice> meni kerran metsään. Toinen <app id="var1032" type="sub">
+                    <lem>pani</lem>
+                </app> maahan <app id="var1033" type="sub">
+                    <lem>savi-astian,</lem>
+                </app> joka oli rusinoita täynnä. Molemmat pojat, jotka olivat <app id="var1034" type="sub">
+                    <lem>väsyneinä,</lem>
+                </app> nukkuivat heti puolipäivän <app id="var1035" type="sub">
+                    <lem>lämpimässä.</lem>
+                </app></p>
+            <p style="blackletter"><app id="var1036" type="sub">
+                    <lem>Laskeusipa</lem>
+                </app> useita apinoita puista. <app id="var1037" type="sub">
+                    <lem>Yhden ahneimman</lem>
+                </app> mieli <app id="var1038" type="sub">
+                    <lem>teki rusinoita. Pistipä</lem>
+                </app> kätensä <app id="var1039" type="sub">
+                    <lem>savi-astiaan.</lem>
+                </app> Siinä <app id="var1040" type="sub">
+                    <lem>puristi hän</lem>
+                </app> kouransa <app id="var1041" type="sub">
+                    <lem>täyteen rusinoita.</lem>
+                </app> Mutta <app id="var1042" type="sub">
+                    <lem>savi-astian</lem>
+                </app> suu olikin ahdas. Apina, joka ei <app id="var1043" type="sub">
+                    <lem>ollenkaan</lem>
+                </app> tahtonut <app id="var1044" type="sub">
+                    <lem>jättää saalistaan,</lem>
+                </app> ei <app id="var1045" type="sub">
+                    <lem>saa<pb type="orig" n="36"/>nutkaan</lem>
+                </app> kättään pois. <app id="var1046" type="sub">
+                    <lem>Niin</lem>
+                </app> juoksi <app id="var1047" type="sub">
+                    <lem>hän, vetäen</lem>
+                </app> raskasta <app id="var1048" type="sub">
+                    <lem>savi-astiaa</lem>
+                </app> muassaan. Pojat, jotka samassa heräsivät, saivat sen helposti <app id="var1049" type="sub">
+                    <lem>kiini</lem>
+                </app> ahneuden tähden.</p>
+            <p style="blackletter"><app id="var1050" type="sub">
+                    <lem>Miettipä</lem>
+                </app> toinenkin poika <app id="var1051" type="sub">
+                    <lem>petosta.</lem>
+                </app> Hän riisui saappaansa. <app id="var1052" type="sub">
+                    <lem>Sitte</lem>
+                </app> veti <app id="var1053" type="sub">
+                    <lem>hän ne taas</lem>
+                </app> jalkaansa. <app id="var1054" type="sub">
+                    <lem>Sitte</lem>
+                </app> riisui <app id="var1055" type="sub">
+                    <lem>hän ne jälleen.</lem>
+                </app> Sen <app id="var1056" type="sub">
+                    <lem>perästä</lem>
+                </app> menivät <app id="var1057" type="sub">
+                    <lem>pojat kappaleen matkan päähän.</lem>
+                </app> Apinat, jotka <app id="var1058" type="sub">
+                    <lem>katselivat näitä puista,</lem>
+                </app> tahtoivat matkia poikaa. Yksi niistä veti saappaat jalkaansa. Samassa
+                    <app id="var1059" type="sub">
+                    <lem>tulivat pojat takasi.</lem>
+                </app> Mielipä nyt <app id="var1060" type="sub">
+                    <lem>saapasjalkanen</lem>
+                </app> apina juosta tiehensä. Mutta saappaat olivat <app id="var1061" type="sub">
+                    <lem>esteenä. Apina kompastui.</lem>
+                </app> Apina lankesi. <app id="var1062" type="sub">
+                    <lem>Tulipa</lem>
+                </app> sekin <app id="var1063" type="sub">
+                    <lem>kiini matkima-halunsa</lem>
+                </app> tähden.</p>
+            <head style="blackletter"><hi rend="bold">Leijona.</hi></head>
+            <p style="blackletter">Kaukana kuumassa Afrikassa kuuluu <app id="var1064" type="sub">
+                    <lem>öillä</lem>
+                </app> leijonan kiljuminen. Silloin vapisevat kaikki <app id="var1065" type="sub">
+                    <lem>elävät,</lem>
+                </app> jotka <app id="var1066" type="sub">
+                    <lem>ovat tienoilla.</lem>
+                </app> Uskaliaimmatkin koirat <app id="var1067" type="sub">
+                    <lem>hätäyvät</lem>
+                </app> silloin <app id="var1068" type="sub">
+                    <lem>ihmisten</lem>
+                </app> jalkoihin. Karja <app id="var1069" type="sub">
+                    <lem>ammoo.</lem>
+                </app> Hevoset <app id="var1070" type="sub">
+                    <lem>kuopivat</lem>
+                </app> pelosta. Lampaat <app id="var1071" type="sub">
+                    <lem>pakkauvat kokoon päin toisiansa vastaan. Ainoastaan harvat eläimet
+                        saattavat voittaa leijonan. Elehvantti</lem>
+                </app> lyöpi sen kärsällään maahan. <app id="var1072" type="sub">
+                    <lem>Puhveli-härkä</lem>
+                </app> viiltää sen vatsan halki sarvillaan. <app id="var1073" type="sub">
+                    <lem>Jättiläis-käärme kääriypi musertaen</lem>
+                </app> leijonan ruumiin ympärille. Usein <app id="var1074" type="sub">
+                    <lem>voittaa leijona</lem>
+                </app> tappelussa <app id="var1075" type="sub">
+                    <lem>nämäkin.</lem>
+                </app> Yksi ainoa olento <app id="var1076" type="sub">
+                    <lem>pelottaa leijonaa.</lem>
+                </app> Tämä olento on ihminen. Hän <app id="var1077" type="sub">
+                    <lem>leijonan pyytää hautaan.</lem>
+                </app> Hän <app id="var1078" type="sub">
+                    <lem>sen ampuu</lem>
+                </app> luodilla. Mutta se, joka <app id="var1079" type="sub">
+                    <lem>juoksee pakoon,</lem>
+                </app> on kuoleman oma.</p>
+            <p style="blackletter">Metsästäjä, joka oli ampunut ruutinsa <app id="var1080" type="int">
+                    <lem>loppuun,</lem>
+                </app> tapasi yhtäkkiä metsässä leijonan. Metsästäjä pysähtyi. Leijona
+                pysähtyi. Metsästäjä käveli. Leijona käveli. Metsästäjä katsoi <app id="var1081" type="sub">
+                    <lem>kiivaasti leijonaa silmiin.</lem>
+                </app> Leijona katsoi samoin <app id="var1082" type="sub">
+                    <lem>häntä.</lem>
+                </app> Näin seisoivat he <app id="var1083" type="sub">
+                    <lem>kauvan.</lem>
+                </app> Viimein meni leijona, <app id="var1084" type="sub">
+                    <lem>peläten <pb type="orig" n="37"/>metsästäjän katsantoa,</lem>
+                </app> aivan <app id="var1085" type="sub">
+                    <lem>hiljoilleen</lem>
+                </app> tiehensä. Niin valtavasti <app id="var1086" type="sub">
+                    <lem>koskee</lem>
+                </app> ihmisen <app id="var1087" type="sub">
+                    <lem>sula katsanto</lem>
+                </app> väkevimpiinkin eläimiin.</p>
+            <head style="blackletter"><anchor id="struct38a"/><hi rend="bold">Kuningas-tiikeri.</hi><anchor id="struct38b"/></head>
+            <p style="blackletter"><app id="var1088" type="sub">
+                    <lem>Tämä</lem>
+                </app> asuu Aasiassa. <app id="var1089" type="sub">
+                    <lem>Hän</lem>
+                </app> on hirmuinen. <app id="var1090" type="sub">
+                    <lem>Hänen silmänsä</lem>
+                </app> näyttävät <app id="var1091" type="sub">
+                    <lem>sädehtivän. Hänen kielensä</lem>
+                </app> riippuu <app id="var1092" type="sub">
+                    <lem>veri-punasena ulkona</lem>
+                </app> kidasta. <app id="var1093" type="sub">
+                    <lem>Hän tavoittaa sukkelimmankin</lem>
+                </app> hevosen. <app id="var1094" type="sub">
+                    <lem>Hän</lem>
+                </app> juoksee <app id="var1095" type="sub">
+                    <lem>härkäpuussa. Elehvantti</lem>
+                </app> yksinään voipi <app id="var1096" type="sub">
+                    <lem>hänen</lem>
+                </app> rusentaa. Ihminen on <app id="var1097" type="sub">
+                    <lem>häntä pyytäessä</lem>
+                </app> suuressa vaarassa. Kuitenkin <app id="var1098" type="sub">
+                    <lem>saatetaan häntä säikyttää.</lem>
+                </app> Muuan <app id="var1099" type="sub">
+                    <lem>rouvasihminen näki</lem>
+                </app> yhtäkkiä kuningastiikerin vieressään. Hän löi <app id="var1100" type="sub">
+                    <lem>tätä</lem>
+                </app> silmille pienellä kepillä. Tiikeri pakeni. Eläinten kesyttäjät <app id="var1101" type="sub">
+                    <lem>näyttävät tiikerejä rauta-häkeissä. Ne</lem>
+                </app> uskaltavat pistää kätensä <app id="var1102" type="sub">
+                    <lem>niiden</lem>
+                </app> kitaan. Niin suuri on ihmisen valta koko luonnon <app id="var1103" type="sub">
+                    <lem>ylitse.</lem>
+                </app></p>
+            <head style="blackletter"><hi rend="bold">Karhu-Pekka.</hi></head>
+            <p style="blackletter"><app id="var1104" type="sub">
+                    <lem>Rovaniemen pitäjäässä</lem>
+                </app> asui <app id="var1105" type="sub">
+                    <lem>mies</lem>
+                </app> nimeltä Karhu-Pekka. Hän <app id="var1106" type="sub">
+                    <lem>oli</lem>
+                </app> tappanut <app id="var1107" type="sub">
+                    <lem>enimmästi yksinään kuusikymmentä</lem>
+                </app> karhua. <app id="var1108" type="sub">
+                    <lem>Se on</lem>
+                </app> maassamme <app id="var1109" type="sub">
+                    <lem>jo suuri kunnia. Karhu-Pekka haki</lem>
+                </app> talvella karhun pesän. Siitä ajavat koirat karhun ulos. <app id="var1110" type="sub">
+                    <lem>Sitte</lem>
+                </app> tappaa pyytäjä <app id="var1111" type="sub">
+                    <lem>karhun keihäällä. Muutamat</lem>
+                </app> sen <app id="var1112" type="sub">
+                    <lem>ampuvat pyssyllä.</lem>
+                </app> Sellainen <app id="var1113" type="sub">
+                    <lem>pyytökeino</lem>
+                </app> on vaarallinen. Monen pyytäjän on karhu <app id="var1114" type="sub">
+                    <lem>kouristanut kuoliaaksi.</lem>
+                </app> Mutta <app id="var1115" type="sub">
+                    <lem>Karhu-Pekka taisi keinonsa.</lem>
+                </app> Karhu, joka on kaatunut, pannaan <app id="var1116" type="sub">
+                    <lem>re’elle. Sitte</lem>
+                </app> viedään se kotiin kylään. <app id="var1117" type="sub">
+                    <lem>Sielläpä tulee iso</lem>
+                </app> ilo. <app id="var1118" type="sub">
+                    <lem>Vietetäänpä karhun</lem>
+                </app> peijaisia <app id="var1119" type="sub">
+                    <lem>isoilla</lem>
+                </app> pidoilla, <app id="var1120" type="sub">
+                    <lem>joissa</lem>
+                </app> lauletaan monta runoa karhun kunniaksi.</p>
+            <pb type="orig" n="38"/>
+            <head style="blackletter"><hi rend="bold">Kettu ja kalastaja.</hi></head>
+            <p style="blackletter">Olipa kerran ukko. Hän sai eräänä talvipäivänä niin
+                paljon kaloja, kuin <app id="var1121" type="sub">
+                    <lem>mahtui</lem>
+                </app> hänen <app id="var1122" type="sub">
+                    <lem>laituriinsa.</lem>
+                </app> Hyvin iloisena <app id="var1123" type="sub">
+                    <lem>lähti hän</lem>
+                </app> kotiinsa, <app id="var1124" type="sub">
+                    <lem>ajaen</lem>
+                </app> isoa kuormaansa. <app id="var1125" type="sub">
+                    <lem>Siinä</lem>
+                </app> lauleli hän <app id="var1126" type="sub">
+                    <lem>ilomielin.</lem>
+                </app> Mutta mikähän tuo on, joka makaa tuolla keskellä tietä? Kuollut <app id="var1127" type="sub">
+                    <lem>kettupa</lem>
+                </app> se on. Tämän <app id="var1128" type="sub">
+                    <lem>piti ukko</lem>
+                </app> hyvänä saaliina. Kaunis turkkisi, kettu kulta, <app id="var1129" type="sub">
+                    <lem>sattuikin</lem>
+                </app> minulle hyvään <app id="var1130" type="sub">
+                    <lem>tarpeesen. Nostipa ukko</lem>
+                </app> ketun <app id="var1131" type="sub">
+                    <lem>takapuolelle kuormansa päälle.</lem>
+                </app> Mutta itse <app id="var1132" type="sub">
+                    <lem>istui hän</lem>
+                </app> etupuolelle.</p>
+            <p style="blackletter"><anchor id="struct39a"/>Eipä se ilkeäjuoninen kettu
+                ollutkaan oikein kuolleena. Oli vaan niin olevinaan. Hän tiesi kyllä,
+                miksikä hän niin oli.<anchor id="struct39b"/></p>
+            <p><anchor id="struct40a"/>
+                <anchor id="struct40b"/></p>
+            <p style="blackletter">Ukon <app id="var1133" type="sub">
+                    <lem>havaitsematta</lem>
+                </app> nakkeli <app id="var1134" type="sub">
+                    <lem>hän</lem>
+                </app> kuormasta kaikki kalat tielle. <app id="var1135" type="sub">
+                    <lem>Sitte</lem>
+                </app> hyppäsi <app id="var1136" type="sub">
+                    <lem>hän itse pois</lem>
+                </app> reestä. <app id="var1137" type="sub">
+                    <lem>Rupesipa heti kokoamaan</lem>
+                </app> kaloja <app id="var1138" type="sub">
+                    <lem>tieltä. Muutamat säästi hän.</lem>
+                </app> Toiset <app id="var1139" type="sub">
+                    <lem>söi hän</lem>
+                </app> suuhunsa. Niin hyvää <app id="var1140" type="sub">
+                    <lem>atriaa</lem>
+                </app> ei <app id="var1141" type="sub">
+                    <lem>hän</lem>
+                </app> ollut <app id="var1142" type="sub">
+                    <lem>saanut kaukaan aikaan.</lem>
+                </app></p>
+            <p style="blackletter">Ukko, joka ajeli iloisena eteenpäin, ei <app id="var1143" type="sub">
+                    <lem>havainnut tätä ollenkaan.</lem>
+                </app> Viimein tuli hän kotiin kuormineen. Vaimo tuli häntä vastaan. Missä
+                olet <app id="var1144" type="sub">
+                    <lem>viipynyt niin kauvan, ukkoni? Elä</lem>
+                </app> ole milläsikään, <app id="var1145" type="sub">
+                    <lem>akkani.</lem>
+                </app> Nyt <app id="var1146" type="sub">
+                    <lem>pidetäänkin isot</lem>
+                </app> pidot. Laita pata tulelle. Minulla on reki täynnä kaloja. <app id="var1147" type="sub">
+                    <lem>Niinkö,</lem>
+                </app> ukkoseni? <app id="var1148" type="sub">
+                    <lem>Se on tietty. Minulla on</lem>
+                </app> vielä <app id="var1149" type="sub">
+                    <lem>sitte komea kettu,</lem>
+                </app> jonka löysin tieltä kuolleena.</p>
+            <p style="blackletter">Akka tuli reelle. <app id="var1150" type="sub">
+                    <lem>Voi kuin narraat, ukkoseni.</lem>
+                </app> Eihän tässä ole <app id="var1151" type="sub">
+                    <lem>yhtään</lem>
+                </app> kalaa. Vielä vähemmin tässä <app id="var1152" type="sub">
+                    <lem>on kettua.</lem>
+                </app> Ukkoa <app id="var1153" type="sub">
+                    <lem>hyvin hävetti. Näen sen kyllä,</lem>
+                </app> akkaseni. <app id="var1154" type="sub">
+                    <lem>Kavala</lem>
+                </app> kettu on tehnyt <app id="var1155" type="sub">
+                    <lem>minulle</lem>
+                </app> aika <app id="var1156" type="sub">
+                    <lem>kolttosen.</lem>
+                </app></p>
+            <pb type="orig" n="39"/>
+            <head style="blackletter"><hi rend="bold">Karhun </hi><app id="var1157" type="sub">
+                    <lem><hi rend="bold">kalanpyytö.</hi></lem>
+                </app></head>
+            <p style="blackletter">Kettu, joka oli syönyt vatsansa täyteen, istui <app id="var1158" type="sub">
+                    <lem>aivan</lem>
+                </app> hyvillä mielin metsän <app id="var1159" type="sub">
+                    <lem>rinteellä.</lem>
+                </app> Iso <app id="var1160" type="sub">
+                    <lem>koko</lem>
+                </app> kaloja oli vielä <app id="var1161" type="sub">
+                    <lem>hänellä</lem>
+                </app> vieressä. <app id="var1162" type="sub">
+                    <lem>Juosta jolkuttelipa karhu metsästä.</lem>
+                </app> Hyvää päivää, <app id="var1163" type="sub">
+                    <lem>nepaimeni kettu.</lem>
+                </app> — <app id="var1164" type="sub">
+                    <lem>Jumal’antakoon, nepaimeni karhu.</lem>
+                </app> — Miten vain olet saanut noin paljon kaloja? — Olen ne <app id="var1165" type="sub">
+                    <lem>onkinut järvestä.</lem>
+                </app> — Sepä <app id="var1166" type="sub">
+                    <lem>oli oivallinen</lem>
+                </app> saalis. Etkö opettaisi minuakin onkimaan? — Aivan mielelläni, <app id="var1167" type="sub">
+                    <lem>nepain</lem>
+                </app> kulta. — <app id="var1168" type="int">
+                    <lem>No</lem>
+                </app> miten se <app id="var1169" type="sub">
+                    <lem>käypi laatuun?</lem>
+                </app> — Kyllä sen sanon sinulle, karhu. Mene avannolle <app id="var1170" type="sub">
+                    <lem>jonakuna</lem>
+                </app> talvi-iltana, kun on <app id="var1171" type="sub">
+                    <lem>hyvin</lem>
+                </app> kiiluvaisia taivaalla. Laske <app id="var1172" type="sub">
+                    <lem>siinä häntäsi</lem>
+                </app> avantoon. Istu <app id="var1173" type="sub">
+                    <lem>sitte</lem>
+                </app> siinä aivan <app id="var1174" type="sub">
+                    <lem>yhdessä kohti</lem>
+                </app> aamuun asti. Vedä <app id="var1175" type="sub">
+                    <lem>sitte</lem>
+                </app> häntäsi ylös. <app id="var1176" type="sub">
+                    <lem>Niin</lem>
+                </app> on <app id="var1177" type="sub">
+                    <lem>kala</lem>
+                </app> tarttunut <app id="var1178" type="sub">
+                    <lem>kiini jokaiseen karvaan.</lem>
+                </app> Sillä lailla minä ongin. — <app id="var1179" type="sub">
+                    <lem>Kiitoksia nepaimeni, kettu. Se on</lem>
+                </app> hyvä neuvo. — Pidä hyvänäsi, <app id="var1180" type="sub">
+                    <lem>nepaimeni karhu.</lem>
+                </app></p>
+            <p style="blackletter">Samana iltana oli kova pakkanen. Tähdet <app id="var1181" type="sub">
+                    <lem>paistoivat</lem>
+                </app> taivaalla. Karhu, joka muisti ketun opetuksen, meni järven jäälle.
+                Siellä <app id="var1182" type="sub">
+                    <lem>istui hän</lem>
+                </app> kohta häntineen avantoon. Vähän ajan perästä tunsi hän <app id="var1183" type="sub">
+                    <lem>juurikuin puristettavan häntäänsä. Ne ovat kaloja, jotka tarttuvat
+                        kiini. Kyllä vain tuleeki hyvä saalis.</lem>
+                </app></p>
+            <p style="blackletter">Siinä istua kökötti karhu aina aamuun asti. Sillä aikaa
+                oli avanto mennyt vahvaan jäähän. Karhun häntä oli jäätynyt siihen <app id="var1184" type="sub">
+                    <lem>kiini. Jo</lem>
+                </app> alkoi <app id="var1185" type="sub">
+                    <lem>karhua</lem>
+                </app> ikävystyttää. <app id="var1186" type="sub">
+                    <lem>Pitäähän</lem>
+                </app> minun <app id="var1187" type="sub">
+                    <lem>vetää</lem>
+                </app> ylös kalani. Mutta <app id="var1188" type="sub">
+                    <lem>sepä ei tahtonutkaan onnistua.</lem>
+                </app> Häntä oli <app id="var1189" type="sub">
+                    <lem>kiini.</lem>
+                </app> Karhu ei <app id="var1190" type="sub">
+                    <lem>pääsnyt paikalta</lem>
+                </app> liikkumaan.</p>
+            <p style="blackletter">Kettu, joka <app id="var1191" type="sub">
+                    <lem>juuri nyt</lem>
+                </app> oli <app id="var1192" type="sub">
+                    <lem>aamukeinoillaan,</lem>
+                </app> havaitsi karhun surkean tilan. Ilkeä <app id="var1193" type="sub">
+                    <lem>veiari</lem>
+                </app> oli tuo kettu. Ei hän <app id="var1194" type="sub">
+                    <lem>auttanut ollenkaan</lem>
+                </app> karhua. Juoksipa <app id="var1195" type="sub">
+                    <lem>vaan</lem>
+                </app> kalastajan <app id="var1196" type="sub">
+                    <lem>tuvan tykö. Siinä</lem>
+                </app> kiipesi <app id="var1197" type="sub">
+                    <lem>hän ka<pb type="orig" n="40"/>tolle. Sieltä huuti hän korsteenin
+                        läpi.</lem>
+                </app> Akka kulta, mene heti järvelle. Siellä istuu karhu häntineen
+                avannossasi, josta noudat vettä.</p>
+            <p style="blackletter">Akka, joka kirnusi voita, vihastui kovin. <app id="var1198" type="sub">
+                    <lem>Kohta juoksi hän</lem>
+                </app> korento <app id="var1199" type="sub">
+                    <lem>kädessä</lem>
+                </app> järvelle. Karhu ryökäle, <app id="var1200" type="sub">
+                    <lem>miksikä avantoani pilaat?</lem>
+                </app> Kyllä minä <app id="var1201" type="sub">
+                    <lem>sinulle opetan</lem>
+                </app> parempia tapoja.</p>
+            <p style="blackletter">Niin pieksi hän karhua kaikin voimin korennolla. Karhu
+                raukka oli suuressa hädässä. Aina <app id="var1202" type="sub">
+                    <lem>lujemmasti</lem>
+                </app> koki hän repiä häntäänsä irti. Viimein kävi kovin pahasti. Koko häntä
+                katkesi avantoon. <app id="var1203" type="sub">
+                    <lem>Aivan siitä</lem>
+                </app> päivästä asti ei <app id="var1204" type="sub">
+                    <lem>ole karhulla</lem>
+                </app> enää <app id="var1205" type="sub">
+                    <lem>ollut</lem>
+                </app> häntää.</p>
+            <p style="blackletter">Kettu taas mennä livahti tupaan, jonka oven akka oli
+                jättänyt lukitsematta. Siellä <app id="var1206" type="sub">
+                    <lem>kaatoi hän</lem>
+                </app> kirnun. <app id="var1207" type="sub">
+                    <lem>Niin sai</lem>
+                </app> hän taas <app id="var1208" type="sub">
+                    <lem>hyvän atrian.</lem>
+                </app> Kyllä <app id="var1209" type="sub">
+                    <lem>hänelle onnistuivat ilkeät keinonsa.</lem>
+                </app> Mutta <app id="var1210" type="sub">
+                    <lem>siksi kadotti</lem>
+                </app> hän kaikki ystävänsä. Ei yksikään <app id="var1211" type="sub">
+                    <lem>uskonut enää koko ilkeää</lem>
+                </app> kettua.</p>
+        </body>
+    </text>
+</TEI>
