@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Luku 5, varianttikoodattu (perusteksti)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+            <head type="section" style="blackletter"><hi rend="bold expanded">Viides</hi> <app id="var1862"><lem><hi rend="bold expanded">Luku.</hi></lem></app></head>
+            <head type="section" style="romanType"><hi rend="bold expanded"
+                >Kaloista.</hi></head>
+            <p style="romanType">Antti ja Liisa <app id="var1863">
+                    <lem>seurasivat</lem>
+                </app> eräänä päivänä <app id="var1864">
+                    <lem>vanhaa Simunaa, joka souteli veneellä merellä. Siinä</lem>
+                </app> laski <app id="var1865">
+                    <lem>Simuna verkkojaan</lem>
+                </app> ja sai monta kalaa. <app id="var1866">
+                    <lem>Kauvan</lem>
+                </app> ne eivät <app id="var1867">
+                    <lem>olleet veneessä,</lem>
+                </app> ennenkuin kuolivat. Miksikä, <app id="var1868">
+                    <lem>sanoi</lem>
+                </app> Antti, kalat <app id="var1869">
+                    <lem>kuolevat</lem>
+                </app> vedestä <app id="var1870">
+                    <lem>ylös otettuina?</lem>
+                </app> Siksi, sanoi Simuna, että kalat hengittävät <app id="var1871">
+                    <lem>vettä suullaan</lem>
+                </app> ja <app id="var1872">
+                    <lem>päästävät sen kitaisistaan takasin</lem>
+                </app> ulos. Vedessä on juuri niin <app id="var1873">
+                    <lem>paljo</lem>
+                </app> ilmaa, kuin kalat <app id="var1874">
+                    <lem>sitä tarvitsevat. Kaloilta, vedestä ylös otettuina, kuivavat
+                        kitaiset. Ja</lem>
+                </app> silloin <app id="var1875">
+                    <lem>kuolevat kalat, juurikuin maa-eläimet</lem>
+                </app> kuolevat vedessä, kun eivät <app id="var1876">
+                    <lem>voi</lem>
+                </app> siinä hengittää.</p>
+            <p style="romanType">Liisa sanoi: <app id="var1877">
+                    <lem>miksikä</lem>
+                </app> ei kala saata valittaa, kun sille <app id="var1878">
+                    <lem>tehdään pahaa?</lem>
+                </app> Simuna vastasi: <app id="var1879">
+                    <lem>se</lem>
+                </app> on mykkä, <app id="var1880">
+                    <lem>siksi</lem>
+                </app> että <app id="var1881">
+                    <lem>kaikkien</lem>
+                </app> eläinten ääni <app id="var1882">
+                    <lem>tulee keuhoissa</lem>
+                </app> olevasta ilmasta. <app id="var1883">
+                    <lem>Ja</lem>
+                </app> kalalla ei ole keuhkoja. Se elää ja kuolee <app id="var1884">
+                    <lem>äänetöinnä. Siksipä</lem>
+                </app> sillä lieneekin niin <app id="var1885">
+                    <lem>vähä</lem>
+                </app> huolta vertaisistaan. <app id="var1886">
+                    <lem>Ei kalalla</lem>
+                </app> ole isää eikä äitiä, ei puolisoa eikä lasta, jota se rakastaa. Ei
+                sillä ole veljeä eikä ystävää; <app id="var1887">
+                    <lem>ei sillä</lem>
+                </app> ole pesää eikä vuodetta. Sillä on <app id="var1888">
+                    <lem>ainoasti</lem>
+                </app> muutamia paikkoja, joissa se <app id="var1889">
+                    <lem>mieluisemmasti</lem>
+                </app> oleskelee. <app id="var1890">
+                    <lem>Mutta</lem>
+                </app> jos yhtä hätyytetään, eivät toiset tule koskaan sen <app id="var1891">
+                    <lem>apuun.</lem>
+                </app> Pyrs<pb type="orig" n="66"/>töllään ja evillään <app id="var1892">
+                    <lem>liikuttelee se sukkelasti</lem>
+                </app> liukasta <app id="var1893">
+                    <lem>ruumistaan vedessä.</lem>
+                </app> Monella kalalla on kylmäverisessä <app id="var1894">
+                    <lem>ruumiissa rakko</lem>
+                </app> ilmaa <app id="var1895">
+                    <lem>täynnä,</lem>
+                </app> joka pitää sitä <app id="var1896">
+                    <lem>tarpeeksi yläällä,</lem>
+                </app> ettei se painu. <app id="var1897">
+                    <lem>Naaras-kalain laskettua</lem>
+                </app> mätinsä rannoille <app id="var1898">
+                    <lem>ja koiraskalain juoksutettua</lem>
+                </app> maitinsa mädin <app id="var1899">
+                    <lem>sekaan,</lem>
+                </app> eivät <app id="var1900">
+                    <lem>he enää huoli sikiöistään.</lem>
+                </app> Aurinko lämmittää mätiä. <app id="var1901">
+                    <lem>Sikiät</lem>
+                </app> matavat itse siitä <app id="var1902">
+                    <lem>pois</lem>
+                </app> ja hoitavat itsensä pieninä ollessaan. Ne syövät <app id="var1903">
+                    <lem>vesi-kasvuin</lem>
+                </app> siemeniä ja <app id="var1904">
+                    <lem>nokkivat</lem>
+                </app> sääskiä, jotka liehuvat veden <app id="var1905">
+                    <lem>pinnassa.</lem>
+                </app> Pian tulee <app id="var1906">
+                    <lem>niistä monta ahnasta petoa. Sitte iskevät he</lem>
+                </app> terävillä hampaillaan <app id="var1907">
+                    <lem>pienempiä kaloja</lem>
+                </app> ja nielevät ne pureskelematta. <app id="var1908">
+                    <lem>Kaloista on</lem>
+                </app> ihmisille <app id="var1909">
+                    <lem>suuri hyöty, siksi</lem>
+                </app> niitä <app id="var1910">
+                    <lem>paljo pyydetään</lem>
+                </app> ja mieluisesti syödään.</p>
+            <p style="romanType">Pysähdytäänpä tähän, sanoi Antti. Tässä <app id="var1911">
+                    <lem>juoksee</lem>
+                </app> tuo kirkas <app id="var1912">
+                    <lem>virta</lem>
+                </app> suureen mereen. Tässä näemme sekä <hi rend="italics">suolattoman
+                    veden kaloja</hi> että <hi rend="italics">suolaisen veden kaloja.</hi>
+                Ja muutamat elävät <app id="var1913">
+                    <lem>välistä suolattomassa vedessä, välistä</lem>
+                </app> suolaisessa vedessä. <app id="var1914">
+                    <lem>Tässä uipi <hi rend="italics">rustokaloja,</hi> joilla ei ole
+                        oikeita luita ruumiissa, vaan ainoastaan rustoja. Liisa</lem>
+                </app> sanoi: <app id="var1915">
+                    <lem>varo itseäsi, veljeni;</lem>
+                </app> tuolla uipi käärme. Antti sanoi: <app id="var1916">
+                    <lem>ei</lem>
+                </app> se ole käärme. <app id="var1917">
+                    <lem><hi rend="italics">Nahkiainenhan</hi> tuo on,</lem>
+                </app> joka saattaa <app id="var1918">
+                    <lem>imeytä</lem>
+                </app> käteesi <app id="var1919">
+                    <lem>kiini</lem>
+                </app> ja jolla on <app id="var1920">
+                    <lem>kitaisten</lem>
+                </app> sijassa <app id="var1921">
+                    <lem>seitsemän ilman-reikää kummallakin puolella.</lem>
+                </app> Simuna sanoi: tunnen kyllä useita <app id="var1922">
+                    <lem>rusto-kaloja;</lem>
+                </app> mutta <app id="var1923">
+                    <lem>ei niitä</lem>
+                </app> ole monta. <app id="var1924">
+                    <lem>Näetkö tuota suurta kalaa, jolla on pitkä hampaaton turpa? Se on se
+                        musta <hi rend="expanded">sampi,</hi> jonka</lem>
+                </app> mädistä saadaan <app id="var1925">
+                    <lem>makeaa kaviaria.</lem>
+                </app> Ja kaukana tuolla valtameressä vaanii <app id="var1926">
+                    <lem>se ahnas</lem>
+                </app>
+                <hi rend="expanded">hai,</hi> joka synnyttää eläviä sikiöitä ja jota <app
+                    id="var1927">
+                    <lem>kutsutaan</lem>
+                </app> meren tiikeriksi. <app id="var1928">
+                    <lem>Hyvä on,</lem>
+                </app> ettei sitä ole täällä meidän <app id="var1929">
+                    <lem>meressä.</lem>
+                </app></p>
+            <p style="romanType">Ne, jotka nyt tulevat, ovat <app id="var1930">
+                    <lem><hi rend="italics">ruoto-kaloja,</hi></lem>
+                </app> sanoi Simuna. Niillä on <app id="var1931">
+                    <lem>oikea selkä-ranka</lem>
+                </app> ja kylkiruodot. <app id="var1932">
+                    <lem>Ne jaetaan myös <hi rend="italics">suomukaloihin</hi></lem>
+                </app> ja <app id="var1933">
+                    <lem><hi rend="italics">nahkakaloihin.</hi></lem>
+                </app> Tässä luikertelee <hi rend="expanded">ankerias,</hi> joka on kovin
+                liukas käsissä <app id="var1934">
+                    <lem>pysymään</lem>
+                </app> ja <app id="var1935">
+                    <lem>on enemmän</lem>
+                </app> kuin mikään muu kala käärmeen <pb type="orig" n="67"/>näköinen. Öillä
+                    <app id="var1936">
+                    <lem>mataa se</lem>
+                </app> kosteassa ruohossa <app id="var1937">
+                    <lem>ylös herne-maihin.</lem>
+                </app> Tässä on <hi rend="expanded">turska</hi> ja <hi rend="expanded"
+                    >saita,</hi>
+                <app id="var1938">
+                    <lem>jotka saatuina kuivataan päiväpaisteessa ja</lem>
+                </app> tehdään <app id="var1939">
+                    <lem>lipeäkalaksi</lem>
+                </app> jouluksi. Tässä on <app id="var1940">
+                    <lem><hi rend="expanded">made,</hi> niiden heimolainen, hienone</lem>
+                </app> ja <app id="var1941">
+                    <lem>makeine mätineen.</lem>
+                </app> Pohjamudassa makaa <app id="var1942">
+                    <lem>se kiero <hi rend="expanded">pallas</hi></lem>
+                </app> eli <app id="var1943">
+                    <lem><hi rend="expanded">maarian-kala,</hi></lem>
+                </app> jonka silmät ovat <app id="var1944">
+                    <lem>yhdellä puolella</lem>
+                </app> ruumista. Tässä on <hi rend="expanded">ahven,</hi> jota kaikki <app
+                    id="var1945">
+                    <lem>poikaiset</lem>
+                </app> mielellään onkivat. Tässä näet <app id="var1946">
+                    <lem>sen hopean-näköisen</lem>
+                </app>
+                <hi rend="expanded">kuhan</hi> ja tuon <app id="var1947">
+                    <lem>ahnaan kiiskin leveine suineen ja paksuine kinoineen.</lem>
+                </app> Tässä <app id="var1948">
+                    <lem>uipi se pieni piikkinen <hi rend="expanded">rautunen</hi></lem>
+                </app> ja <app id="var1949">
+                    <lem>se kaunis <hi rend="expanded">makrilli</hi></lem>
+                </app> ja <app id="var1950">
+                    <lem>tuo ilkeä,</lem>
+                </app> mutta hyvänmakuinen <app id="var1951">
+                    <lem>simppu,</lem>
+                </app> jolla on <app id="var1952">
+                    <lem>ruma</lem>
+                </app> ja iso pää. Tässä on <app id="var1953">
+                    <lem><hi rend="expanded">säkiä,</hi></lem>
+                </app> suurin kaikista suolattoman veden kaloista. Koskea ylös <app
+                    id="var1954">
+                    <lem>lähättäypi</lem>
+                </app> voimakkaalla pyrstöllään <app id="var1955">
+                    <lem>se kaunis <hi rend="expanded">lohi,</hi></lem>
+                </app> joka on <app id="var1956">
+                    <lem>ylevin vettemme kaloista. Sen vieressä uivat heimolaisensa</lem>
+                </app>
+                <hi rend="expanded">taimen, </hi><app id="var1957">
+                    <lem><hi rend="expanded">rautulohi,</hi></lem>
+                </app><hi rend="expanded"> kuore</hi> ja <app id="var1958">
+                    <lem>se hyvänmakuinen</lem>
+                </app>
+                <hi rend="expanded">siika.</hi>
+                <app id="var1959">
+                    <lem>Niinkuin lohikin, menee se</lem>
+                </app> virtoja <app id="var1960">
+                    <lem>ylöspäin kutemaan suolattomassa vedessä.</lem>
+                </app> Täällä pyytää saalista <app id="var1961">
+                    <lem>virtain</lem>
+                </app> susi, <app id="var1962">
+                    <lem>tuo ahnas</lem>
+                </app>
+                <hi rend="expanded">hauki,</hi> joka usein nielee <app id="var1963">
+                    <lem>vertaisiaan</lem>
+                </app> ja omia sikiöitään. Tässä <app id="var1964">
+                    <lem>menee</lem>
+                </app> parvi, jossa on <app id="var1965">
+                    <lem>miljonittain <hi rend="expanded">sillijä</hi></lem>
+                </app> kerroksissa päälletysten. Silli muuttaa <app id="var1966">
+                    <lem>kauvas</lem>
+                </app> suuriin meriin, joihin <app id="var1967">
+                    <lem>lukemattomia kalastajia</lem>
+                </app> ja <app id="var1968">
+                    <lem>merenpetoja niitä ajaat.</lem>
+                </app> Ainoastaan harvoin <app id="var1969">
+                    <lem>tulee se maamme rannoille.</lem>
+                </app> Sen <app id="var1970">
+                    <lem>sijaan</lem>
+                </app> on meillä täällä sen velipuoli <app id="var1971">
+                    <lem><hi rend="expanded">silahka</hi></lem>
+                </app> ja sen pieni <app id="var1972">
+                    <lem>heimolainen <hi rend="expanded">kilosilakka,</hi> jotka, niinkuin
+                        sillikin,</lem>
+                </app> suolataan <app id="var1973">
+                    <lem>nelikoihin</lem>
+                </app> ja <app id="var1974">
+                    <lem>tulevat</lem>
+                </app> monen ihmisen ruuaksi.</p>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var1975">
+                    <lem>Potkeppa</lem>
+                </app> nuottasi <app id="var1976">
+                    <lem>mereen</lem>
+                </app> ja vedä hyvä <app id="var1977">
+                    <lem>apaja, sillä täällä tulee jo parvi</lem>
+                </app> turvattomia <app id="var1978">
+                    <lem><hi rend="expanded">kiiltokaloja,</hi></lem>
+                </app> jotka usein <app id="var1979">
+                    <lem>käyvät</lem>
+                </app> isompain saaliiksi. Tässä <app id="var1980">
+                    <lem>uipi <hi rend="expanded">toutain,</hi></lem>
+                </app> jota rikkaat ihmiset <app id="var1981">
+                    <lem>elättävät lammikoissa.</lem>
+                </app>
+                <hi rend="expanded">Kouri</hi><app id="var1982">
+                    <lem> tulee;</lem>
+                </app>
+                <pb type="orig" n="68"/>se <app id="var1983">
+                    <lem>on se, joka asuu</lem>
+                </app> mutaisessa <app id="var1984">
+                    <lem>järvessä.</lem>
+                </app> Jopa <app id="var1985">
+                    <lem>jäit</lem>
+                </app> nuottaani, <app id="var1986">
+                    <lem>leveä</lem>
+                </app>
+                <hi rend="expanded">lahna!</hi> Tuolla <app id="var1987">
+                    <lem>lentää kalalokki.</lem>
+                </app> Varo <app id="var1988">
+                    <lem>itseäsi sen kourista</lem>
+                </app> sinä <app id="var1989">
+                    <lem>kullalta välkkyvä</lem>
+                </app>
+                <hi rend="expanded">sorva!</hi> Varo <app id="var1990">
+                    <lem>itseäsi hauvilta, punasilmänen</lem>
+                </app>
+                <hi rend="expanded">särki!</hi> Kuka <app id="var1991">
+                    <lem>läiskyttää</lem>
+                </app> niin <app id="var1992">
+                    <lem>tiheään</lem>
+                </app> tuolla kaukana veden pinnassa? Se on <app id="var1993">
+                    <lem>se iloinen <hi rend="expanded">säynäjä</hi> punasine evineen</lem>
+                </app> ja <app id="var1994">
+                    <lem>köyryine niskoineen.</lem>
+                </app> Tuolla välkkyy <app id="var1995">
+                    <lem>se pieni hopean-valkoinen <hi rend="expanded">salahka,</hi></lem>
+                </app> joka uida kieruilee veden pinnassa <app id="var1996">
+                    <lem>auringon paisteessa illalla.</lem>
+                </app> Pyydä minulle, sanoi Liisa, elävä <app id="var1997">
+                    <lem>salahka.</lem>
+                </app> Minä vien sen <app id="var1998">
+                    <lem>huviksi</lem>
+                </app> vieraalleni. Kotona kamarissamme on meillä <app id="var1999">
+                    <lem>kulta-kala lasi-astiassa vedessä.</lem>
+                </app> Se on <app id="var2000">
+                    <lem>tuotu tänne</lem>
+                </app> laivalla <app id="var2001">
+                    <lem>kaukaisista mailman-osista.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var2002">
+                    <lem>Kalat,</lem>
+                </app> sanoi Simuna, ovat <app id="var2003">
+                    <lem>juurikuin kotoisin toisista mailman-osista veden
+                        valta-kunnissa.</lem>
+                </app> Ne eivät ymmärrä meitä, jotka <app id="var2004">
+                    <lem>asumme täällä selvässä ilmassa.</lem>
+                </app> Ja <app id="var2005">
+                    <lem>me</lem>
+                </app> ymmärrämme <app id="var2006">
+                    <lem>ainoastaan hyvin vähä heidän elämästään</lem>
+                </app> synkässä syvyydessä. Mutta me <app id="var2007">
+                    <lem>ymmärrämme Jumalan tahtovan</lem>
+                </app> täyttää <app id="var2008">
+                    <lem>kaikkia mailman paikkoja elävillä</lem>
+                </app> olennoilla, jotka <app id="var2009">
+                    <lem>siellä</lem>
+                </app> todistavat hänen <app id="var2010">
+                    <lem>kaikkivallastaan</lem>
+                </app> ja <app id="var2011">
+                    <lem>viisaudestaan.</lem>
+                </app> Ja koska vesi peittää niin suuria <app id="var2012">
+                    <lem>maan-aloja,</lem>
+                </app> ajattelemme iloisina: eivät nämäkään avarat <app id="var2013">
+                    <lem>alueet</lem>
+                </app> ole autioina Jumalan ihanassa luonnossa. Sielläkin <app id="var2014">
+                    <lem>ylistävät Jumalan</lem>
+                </app> pyhää <app id="var2015">
+                    <lem>nimeä hänen luodut tekonsa.</lem>
+                </app></p>
+            <head style="romanType"><hi rend="bold"><hi rend="expanded"
+                >Hai.</hi></hi></head>
+            <p style="romanType">Suurin hai on <app id="var2016">
+                    <lem>viittätoista kyynärää pitkä</lem>
+                </app> ja <app id="var2017">
+                    <lem>kutsutaan</lem>
+                </app> ihmisten syöjäksi. Sen kita on hyvin iso. <app id="var2018">
+                    <lem>Leukainsa aukaistua voipi hän</lem>
+                </app> niellä <app id="var2019">
+                    <lem>tyysikasvuisen</lem>
+                </app> miehen, ja koira saattaa <app id="var2020">
+                    <lem>kontata</lem>
+                </app> sisälle <app id="var2021">
+                    <lem>ja ulos hänen vatsassansa.</lem>
+                </app> Norjalaisen kalastajan nieli hai. Kahden päivän <app id="var2022">
+                    <lem>perästä saatiin</lem>
+                </app> sama <app id="var2023">
+                    <lem>hai.</lem>
+                </app> Kalastaja oli täysissä vaatteissa ja kuolleena hain vatsassa. <app
+                    id="var2024">
+                    <lem>Itä-intiassa</lem>
+                </app> hyppäsi <app id="var2025">
+                    <lem>muutamia</lem>
+                </app>
+                <pb type="orig" n="69"/>merimiehiä <app id="var2026">
+                    <lem>englantilais-laivasta mereen</lem>
+                </app> uimaan. <app id="var2027">
+                    <lem>Varsin tätä varten panivat he vahdin. Vahtipa huuti:</lem>
+                </app> hai <app id="var2028">
+                    <lem>tulee. Kohta hyökäsivät kaikki veneesen.</lem>
+                </app> Mutta viimeinen merimies pääsi <app id="var2029">
+                    <lem>ainoasti</lem>
+                </app> puoleksi ylös, <app id="var2030">
+                    <lem>kun</lem>
+                </app> hai <app id="var2031">
+                    <lem>jo ennätti</lem>
+                </app> purra <app id="var2032">
+                    <lem>häneltä</lem>
+                </app> molemmat <app id="var2033">
+                    <lem>jalat</lem>
+                </app> poikki, <app id="var2034">
+                    <lem>niin että</lem>
+                </app> hän kuoli. Merimiehellä oli hyvä ystävä, jonka sydämeen <app
+                    id="var2035">
+                    <lem>koski tämä</lem>
+                </app> tapaus <app id="var2036">
+                    <lem>kovasti.</lem>
+                </app> Hän sieppasi puukon, hyppäsi mereen, <app id="var2037">
+                    <lem>sukelti</lem>
+                </app> hain vatsan alle ja <app id="var2038">
+                    <lem>paiskasi puukon</lem>
+                </app> sen <app id="var2039">
+                    <lem>ruumiisen.</lem>
+                </app> Hirmuisesti <app id="var2040">
+                    <lem>pieksi peto</lem>
+                </app> aaltoja pitkällä pyrstöllään. Mutta viimein <app id="var2041">
+                    <lem>nähtiin sen veren juoksevan</lem>
+                </app> kuiviin, <app id="var2042">
+                    <lem>hain kääntyvän kylelleen</lem>
+                </app> ja <app id="var2043">
+                    <lem>kuolevan.</lem>
+                </app></p>
+            <head style="romanType"><hi rend="bold"><hi rend="expanded"
+                >Hauki.</hi></hi></head>
+            <p style="romanType"><app id="var2044">
+                    <lem>Hai</lem>
+                </app> pyydetään isoilla <app id="var2045">
+                    <lem>rauta-koukuilla, joita</lem>
+                </app> se <app id="var2046">
+                    <lem>nielee,</lem>
+                </app> kun niissä on <app id="var2047">
+                    <lem>läskiä</lem>
+                </app> syöttinä. <app id="var2048">
+                    <lem>Haukeja</lem>
+                </app> pyydetään <app id="var2049">
+                    <lem>messinki-koukuilla,</lem>
+                </app> joihin <app id="var2050">
+                    <lem>pannaan pieni</lem>
+                </app> kala <app id="var2051">
+                    <lem>syötiksi. Usein, hauvin saatua,</lem>
+                </app> on sen vatsassa <app id="var2052">
+                    <lem>pienempi</lem>
+                </app> hauki. Pienemmän <app id="var2053">
+                    <lem>hauvin</lem>
+                </app> sisässä on ahven. Ahvenen vatsassa on salakka. Niin <app id="var2054">
+                    <lem>tulee</lem>
+                </app> heikompi <app id="var2055">
+                    <lem>väkevämmän</lem>
+                </app> saaliiksi. Hauki tarttuu ahneesti <app id="var2056">
+                    <lem>kiini kaikkiin, jotka kiiltävät.</lem>
+                </app> Usein <app id="var2057">
+                    <lem>keinotellaan se</lem>
+                </app> tarttumaan koukkuun, <app id="var2058">
+                    <lem>jota</lem>
+                </app> vedetään veneen <app id="var2059">
+                    <lem>perässä pantuna kirkkaasen messinki-palaseen kiini.</lem>
+                </app> Monta satua on <app id="var2060">
+                    <lem>haukiloista,</lem>
+                </app> jotka ovat nielleet <app id="var2061">
+                    <lem>kulta-sormuksia, joita on nakattu mereen.</lem>
+                </app> Oulusta purjehti kerran laiva etelään päin. Kolmen päivän perästä sen
+                lähdettyä osti laivan omistaja <app id="var2062">
+                    <lem>saadun hauvin. Hauvin perkattua murkinakeitoksi</lem>
+                </app> löydettiin sen vatsasta <app id="var2063">
+                    <lem>hopea-lusikka, johon</lem>
+                </app> oli <app id="var2064">
+                    <lem>merkitty laivan nimi. Hyvin mieli-pahoilleen meni</lem>
+                </app> laivan omistaja, sillä hän pelkäsi koko laivan <app id="var2065">
+                    <lem>uponneen</lem>
+                </app> mereen. Mutta niin pahasti ei ollut kuitenkaan käynyt. Laivan kokki
+                oli vahingossa <app id="var2066">
+                    <lem>pudottanut</lem>
+                </app> hopealusikan <app id="var2067">
+                    <lem>mereen pesu-vedessä.</lem>
+                </app> Hauki oli nähnyt lusikan välkkyvän ja niellyt sen.</p>
+            <head style="romanType"><hi rend="bold"><hi rend="expanded"
+                >Lohi.</hi></hi></head>
+            <p style="romanType"><app id="var2068">
+                    <lem>Sillä</lem>
+                </app> on <app id="var2069">
+                    <lem>pyrstössä niin iso voima,</lem>
+                </app> että se usein <app id="var2070">
+                    <lem>lähättäypi kolme kyynärätä ylös vedestä.</lem>
+                </app> Koskeen rakennetaan sille <app id="var2071">
+                    <lem>pato lujilla vaajoilla,</lem>
+                </app> joka on <app id="var2072">
+                    <lem>näöltään kuin</lem>
+                </app>
+                <figure type="illustration"/>. <app id="var2073">
+                    <lem>Uidessaan koskea ylöspäin</lem>
+                </app> pyrkii <app id="var2074">
+                    <lem>lohi siitä</lem>
+                </app> pienestä <app id="var2075">
+                    <lem>reijästä</lem>
+                </app> sisälle. <app id="var2076">
+                    <lem>Mutta ei päästyään etemmä pa<pb type="orig" n="70"/>dossa</lem>
+                </app> kääntyy se <app id="var2077">
+                    <lem>takasi eikä osaakkaan</lem>
+                </app> enää tulla ulos <app id="var2078">
+                    <lem>reijästä. Niin</lem>
+                </app> saadaan <app id="var2079">
+                    <lem>usein Oulussa sadottain</lem>
+                </app> lohia päivässä. Lohia pyydetään <app id="var2080">
+                    <lem>verkoilla eli</lem>
+                </app> koukuilla. Ja vaikka se on niin väkevä, kuolee se <app id="var2081">
+                    <lem>kuitenkin</lem>
+                </app> kuonoon <app id="var2082">
+                    <lem>vähä lyötyä.</lem>
+                </app></p>
+            <head style="romanType"><hi rend="bold"><hi rend="expanded">Muista
+                        kaloista.</hi></hi></head>
+            <p style="romanType">Kala on tottunut meren pohjassa <app id="var2083">
+                    <lem>oleviin ruohoihin; siksi</lem>
+                </app> ei <app id="var2084">
+                    <lem>se välttele kala-miehen</lem>
+                </app> verkkoa. <app id="var2085">
+                    <lem>Välistä</lem>
+                </app> tarttuu <app id="var2086">
+                    <lem>se siihen päästä, välistä evistä.</lem>
+                </app> Näin pyydetään <app id="var2087">
+                    <lem>silahkoita rannoillamme alavilla</lem>
+                </app> verkoilla, joita <app id="var2088">
+                    <lem>kutsutaan</lem>
+                </app> potkuiksi ja lasketaan mereen <app id="var2089">
+                    <lem>mataloille</lem>
+                </app> yöksi. <app id="var2090">
+                    <lem>Niin</lem>
+                </app> pyydetään <app id="var2091">
+                    <lem>silliäkin. Paljo</lem>
+                </app> saadaan <app id="var2092">
+                    <lem>kaloja nuotalla,</lem>
+                </app> joka potketaan kierrokseen <app id="var2093">
+                    <lem>apajalle</lem>
+                </app> ja vedetään joka <app id="var2094">
+                    <lem>kerta</lem>
+                </app> maalle pitkillä köysillä. Kuninkaat ja <app id="var2095">
+                    <lem>rikkaat miehet</lem>
+                </app> elättävät kaloja lammikoissa. Siitä tiedetään haukien ja <app
+                    id="var2096">
+                    <lem>toutainten</lem>
+                </app> elävän kahden ja kolmen sadan vuoden vanhoiksi. <app id="var2097">
+                    <lem>Muutamilla naaras-kaloilla</lem>
+                </app> on <app id="var2098">
+                    <lem>yhdeksään miljonaan mädin siemeniä sisässä.</lem>
+                </app> Se on niin <app id="var2099">
+                    <lem>paljo,</lem>
+                </app> että <app id="var2100">
+                    <lem>jos niitä luettaisiin yötä ja päivää, saisi</lem>
+                </app> niitä <app id="var2101">
+                    <lem>lukea</lem>
+                </app> monta viikkoa. Jos jokaisesta <app id="var2102">
+                    <lem>mäti-siemenestä</lem>
+                </app> tulisi kala, <app id="var2103">
+                    <lem>olisivat kyllä</lem>
+                </app> kaikki vedet <app id="var2104">
+                    <lem>aivan</lem>
+                </app> täynnä kaloja. Mutta <app id="var2105">
+                    <lem>kaikkein suurimman</lem>
+                </app> osan <app id="var2106">
+                    <lem>kaloista</lem>
+                </app> syövät muut kalat <app id="var2107">
+                    <lem>eli</lem>
+                </app> ihmiset. Samoin <app id="var2108">
+                    <lem>käypi lukemattomille kalan-pojille</lem>
+                </app> pieninä <app id="var2109">
+                    <lem>ollessa.</lem>
+                </app> Nyt ovat viisaat ihmiset oppineet <app id="var2110">
+                    <lem>kalan</lem>
+                </app> mädistä <app id="var2111">
+                    <lem>hautomaan poikia vedessä olevissa loodissa.</lem>
+                </app> Isommiksi <app id="var2112">
+                    <lem>tultua</lem>
+                </app> päästetään sikiöt <app id="var2113">
+                    <lem>mereen pyydettäviksi,</lem>
+                </app> kun ovat <app id="var2114">
+                    <lem>tulleet</lem>
+                </app> täysikasvuisiksi.</p>
+        </body>
+    </text>
+</TEI>
