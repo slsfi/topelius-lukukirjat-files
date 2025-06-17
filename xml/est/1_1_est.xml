@@ -65,7 +65,7 @@
 					siinä on? Siinä puhutaan ihmisen ruumiista. Siinä puhutaan sen sielusta.
 					Siinä puhutaan sen aistimista.</p>
 
-					<head style="blackletter" xml:id="h4"><hi rend="bold"><anchor xml:id="start2520"/>Kuinka <anchor xml:id="start2521"/>Taivo<anchor xml:id="end2521"/> yritti luomaan ihmistä.<anchor xml:id="end2520"/></hi></head>
+					<head style="blackletter" xml:id="h4"><anchor id="pos1"/><hi rend="bold"><anchor xml:id="start2520"/>Kuinka <anchor xml:id="start2521"/>Taivo<anchor xml:id="end2521"/> yritti luomaan ihmistä.<anchor xml:id="end2520"/></hi></head>
 					<p style="blackletter" xml:id="p11">Olipa kerran mies. Sen nimi oli Taivo. Hän asui yksinäisellä <anchor xml:id="start2522"/>saarella<anchor xml:id="end2522"/>.
 						Hänen päivänsä tulivat pitkiksi. Hänellä oli ikävä. Hän puhui itsekseen.
 						Minä teen itselleni kumppanin. Minä luon ihmisen.</p>
@@ -172,7 +172,7 @@
 					<p style="blackletter" xml:id="p35">Nyt loppui puhe Taivosta. Nyt tulee toinen kertomus. Mistä siinä
 						puhutaan? Siinä puhutaan ihmisen opista.</p>
 			 
-					<head style="blackletter" xml:id="h5"><hi rend="bold"><anchor xml:id="start2528"/>Kasper ei saanut oppia mitään.<anchor xml:id="end2528"/></hi></head>
+					<head style="blackletter" xml:id="h5"><anchor id="pos2"/><hi rend="bold"><anchor xml:id="start2528"/>Kasper ei saanut oppia mitään.<anchor xml:id="end2528"/></hi></head>
 					<p style="blackletter" xml:id="p36">Olipa kerran kuningas. Hän meni muutamana päivänä metsään. Siellä oli
 						muurahaispesä. Monta <anchor xml:id="start2529"/>muurahaista<anchor xml:id="end2529"/> veti korsia pesään. Niistä olivat useat
 						hyvin pieniä. Ne olivat vasta pääsneet kuorestaan. Kohta aikoivat ne
@@ -245,7 +245,7 @@
 						Viisaus on hänen kaunistuksensa. Jumalan pelko on viisauden alku.</p>
 					<p style="blackletter" xml:id="p48">Nyt loppui puhe Kasperista. Nyt tulee kolmas kertomus.</p>
 			   
-					<head style="blackletter" xml:id="h6"><hi rend="bold">Kuninkaan matkasta.</hi></head>
+					<head style="blackletter" xml:id="h6"><anchor id="pos3"/><hi rend="bold">Kuninkaan matkasta.</hi></head>
 					<p style="blackletter" xml:id="p49">Kuningas oli viisas mies. Hän tahtoi tuta ihmisiä. Hän tahtoi nähdä
 						niissä Jumalan tekoja. Siksi pukeusi hän alhaisiin vaatteisiin. Käteensä
 						otti hän sauvansa. Selkäänsä otti hän laukkunsa. Näin meni hän ulos
@@ -350,7 +350,7 @@
 						Jumalan valtakunta maan päällä.</p>
 				
 					<pb type="orig" n="17"/>
-					<head style="romanType" xml:id="h7"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start2557"/>Mitä Jumala antoi
+					<head style="romanType" xml:id="h7"><anchor id="pos4"/><hi rend="bold"><hi rend="expanded"><anchor xml:id="start2557"/>Mitä Jumala antoi
 								ruumiilleni.<anchor xml:id="end2557"/></hi></hi></head>
 					<lg xml:id="lg60">
 						<l style="romanType"><hi rend="italics">Kaks’ on silmeä minulla.</hi></l>
