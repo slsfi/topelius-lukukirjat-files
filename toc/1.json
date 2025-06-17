@@ -6,11 +6,30 @@
 		{
 			"text": "Ensimmäinen Luku. Ihmisestä",
 			"itemId": "1_1",
-			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"type": "subtitle",
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Kuinka Taivo yritti luomaan ihmistä",
+					"itemId": "1_1;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Kasper ei saanut oppia mitään",
+					"itemId": "1_1;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Kuninkaan matkasta",
+					"itemId": "1_1;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Mitä Jumala antoi ruumiilleni",
+					"itemId": "1_1;pos4",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Toinen Luku. Imettävistä eläimistä",
