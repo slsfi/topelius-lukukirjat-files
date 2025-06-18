@@ -15,1022 +15,547 @@
 	<profileDesc><creation><idNo>13</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Kolmastoista Luku. Valosta ja lämpimästä</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
     <text>
         <body xml:space="preserve">
-            <head type="section" style="blackletter"><hi rend="bold">Kolmastoista</hi> <app id="var6051" type="sub">
-                    <lem><hi rend="bold">Luku.</hi></lem>
-                </app></head>
+            <head type="section" style="blackletter"><hi rend="bold">Kolmastoista</hi> 
+                <app id="var6051" type="sub"><lem><hi rend="bold">Luku.</hi></lem></app></head>
             <head type="section" style="romanType"><hi rend="bold expanded">Valosta ja
-                    </hi><app id="var6052" type="sub">
-                    <lem><hi rend="bold expanded">lämpimästä.</hi></lem>
-                </app></head>
-            <p style="romanType"><app id="var6053" type="sub">
-                    <lem>Onpa nyt valosa</lem>
-                </app> päivä, aurinko paistaa ikkunoista <app id="var6054" type="sub">
-                    <lem>sisälle, voipi siis</lem>
-                </app> nähdä kaikki <app id="var6055" type="sub">
-                    <lem>tuvassamme.</lem>
-                </app> Illan tultua <app id="var6056" type="sub">
-                    <lem>laskeupi</lem>
-                </app> aurinko. <app id="var6057" type="sub">
-                    <lem>Sitte vasta</lem>
-                </app> tulee <app id="var6058" type="sub">
-                    <lem><hi rend="expanded">hämärä,</hi></lem>
-                </app> niin ettei enää niin selvästi voi <app id="var6059" type="sub">
-                    <lem>nähdä kaikkia,</lem>
-                </app> ja <app id="var6060" type="sub">
-                    <lem>sitte</lem>
-                </app> tulee <app id="var6061" type="sub">
-                    <lem><hi rend="expanded">pimeys,</hi> jossa</lem>
-                </app> ei <app id="var6062" type="sub">
-                    <lem>voi</lem>
-                </app> nähdä <app id="var6063" type="sub">
-                    <lem>juuri</lem>
-                </app> mitään. Mutta silloin <app id="var6064" type="sub">
-                    <lem>sytytetään valkea takkaan, päre pannaan palamaan pihtiin <pb type="orig" n="174"/>eli talikynttilä sytytetään</lem>
-                </app> pöydälle, <app id="var6065" type="sub">
-                    <lem>vaikka näiden valossa</lem>
-                </app> emme näe <app id="var6066" type="sub">
-                    <lem>niin selvästi</lem>
-                </app> kuin päivän valossa. Jos <app id="var6067" type="sub">
-                    <lem>tällöin</lem>
-                </app> menemme kartanolle, niin näemme <app id="var6068" type="sub">
-                    <lem>kuun paistavan ja</lem>
-                </app> valaisevan maata. <app id="var6069" type="sub">
-                    <lem>Eli nuo</lem>
-                </app> kirkkaat tähdet <app id="var6070" type="sub">
-                    <lem>paistavat niin ihmeellisesti kauniina meille illalla tuolta
-                        siniseltä taivaalta.</lem>
-                </app></p>
-            <p style="romanType">Mistä tulee <app id="var6071" type="sub">
-                    <lem>siis valo?</lem>
-                </app> Se tulee meille auringosta, kuusta ja tähdistä, tulesta ja monista
-                kappaleista, niinkuin kiiltomadoista, <app id="var6072" type="sub">
-                    <lem>valkoimesta</lem>
-                </app> ja vanhoista lahonneista <app id="var6073" type="sub">
-                    <lem>puu-palaisista.</lem>
-                </app> Mitä <app id="var6074" type="sub">
-                    <lem>on valo?</lem>
-                </app> Onko se <app id="var6075" type="sub">
-                    <lem>itsestään kappale eli</lem>
-                </app> onko se <app id="var6076" type="sub">
-                    <lem>kappaleiden luonto,</lem>
-                </app> joka saattaa <app id="var6077" type="sub">
-                    <lem>meitä</lem>
-                </app> niitä näkemään? Sitä <app id="var6078" type="sub">
-                    <lem>kyllä ei voi kukaan oikein selittää.</lem>
-                </app> Me <app id="var6079" type="sub">
-                    <lem>näemmä ainoasti valon täyttävän</lem>
-                </app> koko <app id="var6080" type="sub">
-                    <lem>mailman,</lem>
-                </app> ja kun se katoaa, <app id="var6081" type="sub">
-                    <lem>ovat</lem>
-                </app> kaikki <app id="var6082" type="sub">
-                    <lem>asiat toisin.</lem>
-                </app> Muutamat sanovat koko <app id="var6083" type="sub">
-                    <lem>mailman</lem>
-                </app> avaruuden olevan <app id="var6084" type="sub">
-                    <lem>täytetyn aineella,</lem>
-                </app> joka on <app id="var6085" type="sub">
-                    <lem>paljoa hienompi</lem>
-                </app> kuin <app id="var6086" type="int">
-                    <lem>ilma,</lem>
-                </app> ja <app id="var6087" type="sub">
-                    <lem>tätä kutsutaan eeteriksi.</lem>
-                </app> Ja <app id="var6088" type="sub">
-                    <lem>juurikuin</lem>
-                </app> ääni <app id="var6089" type="sub">
-                    <lem>tulee</lem>
-                </app> ilman <app id="var6090" type="sub">
-                    <lem>tärinästä, niin tulee valo siitä, että eeteri tärisee,</lem>
-                </app> kun <app id="var6091" type="sub">
-                    <lem>joku panee sen liikkeelle. Niin paljon tarkoin tiedetään,</lem>
-                </app> että valo kulkee <app id="var6092" type="sub">
-                    <lem>paljoa sukkelammasti</lem>
-                </app> kuin ääni. <app id="var6093" type="sub">
-                    <lem>Ja jokaisen sekunnin välillä, kun</lem>
-                </app> kello <app id="var6094" type="sub">
-                    <lem>napsahtaa,</lem>
-                </app> lentää valo <app id="var6095" type="sub">
-                    <lem>29,000 (yhdeksänkolmatta</lem>
-                </app> tuhatta) <app id="var6096" type="sub">
-                    <lem>peninkulmaa</lem>
-                </app> eteenpäin, ja vaikka aurinko on niin <app id="var6097" type="sub">
-                    <lem>hirveän</lem>
-                </app> kaukana, ei valo kuitenkaan tarvitse <app id="var6098" type="sub">
-                    <lem>kuin vähä</lem>
-                </app> yli 8 <app id="var6099" type="sub">
-                    <lem>minuutin tullakseen</lem>
-                </app> auringosta tänne.</p>
-            <p style="romanType"><app id="var6100" type="sub">
-                    <lem>Juurikuin</lem>
-                </app> ääni tulee meille <app id="var6101" type="sub">
-                    <lem>korvain</lem>
-                </app> kautta, <app id="var6102" type="sub">
-                    <lem>niin</lem>
-                </app> tulee meille valo <app id="var6103" type="sub">
-                    <lem>silmäin</lem>
-                </app> kautta. <app id="var6104" type="sub">
-                    <lem>Me <hi rend="expanded">näemmä</hi> silmillä,</lem>
-                </app> ja silloin <hi rend="expanded">näkyvät</hi>
-                <app id="var6105" type="sub">
-                    <lem>meille kappaleet.</lem>
-                </app> Kun <app id="var6106" type="sub">
-                    <lem>korvat sisältä pilautuvat, tullaan sokeaksi.</lem>
-                </app> Sokeina syntyneet ihmiset eivät tunne valoa. Mutta miksikä <app id="var6107" type="sub">
-                    <lem>välistä juurikuin sädehtisi ummessa olevissa silmissämme,</lem>
-                </app> kun lyömme <app id="var6108" type="sub">
-                    <lem>otsaamme</lem>
-                </app> seinään? <app id="var6109" type="sub">
-                    <lem>Siitä se tulee,</lem>
-                </app> että silmän <app id="var6110" type="sub">
-                    <lem>sisällä</lem>
-                </app> on <app id="var6111" type="sub">
-                    <lem>hellä tuntosuoni,</lem>
-                </app> joka <app id="var6112" type="sub">
-                    <lem>johdattaa</lem>
-                </app> valon tuntoomme. Ja joka kerta, <app id="var6113" type="sub">
-                    <lem>kun</lem>
-                </app> tämä <app id="var6114" type="sub">
-                    <lem>tuntosuoni</lem>
-                </app> loukkaantuu, <app id="var6115" type="sub">
-                    <lem>tutaan, juurikuin</lem>
-                </app> valon <app id="var6116" type="sub">
-                    <lem>säde nähtäisiin.</lem>
-                </app></p>
+                    </hi>
+                <app id="var6052" type="sub"><lem><hi rend="bold expanded">lämpimästä.</hi></lem></app></head>
+            <p style="romanType">
+                <app id="var6053" type="sub"><lem>Onpa nyt valosa</lem></app> päivä, aurinko paistaa ikkunoista 
+                <app id="var6054" type="sub"><lem>sisälle, voipi siis</lem></app> nähdä kaikki 
+                <app id="var6055" type="sub"><lem>tuvassamme.</lem></app> Illan tultua 
+                <app id="var6056" type="sub"><lem>laskeupi</lem></app> aurinko. 
+                <app id="var6057" type="sub"><lem>Sitte vasta</lem></app> tulee 
+                <app id="var6058" type="sub"><lem><hi rend="expanded">hämärä,</hi></lem></app> niin ettei enää niin selvästi voi 
+                <app id="var6059" type="sub"><lem>nähdä kaikkia,</lem></app> ja 
+                <app id="var6060" type="sub"><lem>sitte</lem></app> tulee 
+                <app id="var6061" type="sub"><lem><hi rend="expanded">pimeys,</hi> jossa</lem></app> ei 
+                <app id="var6062" type="sub"><lem>voi</lem></app> nähdä 
+                <app id="var6063" type="sub"><lem>juuri</lem></app> mitään. Mutta silloin 
+                <app id="var6064" type="sub"><lem>sytytetään valkea takkaan, päre pannaan palamaan pihtiin <pb type="orig" n="174"/>eli talikynttilä sytytetään</lem></app> pöydälle, 
+                <app id="var6065" type="sub"><lem>vaikka näiden valossa</lem></app> emme näe 
+                <app id="var6066" type="sub"><lem>niin selvästi</lem></app> kuin päivän valossa. Jos 
+                <app id="var6067" type="sub"><lem>tällöin</lem></app> menemme kartanolle, niin näemme 
+                <app id="var6068" type="sub"><lem>kuun paistavan ja</lem></app> valaisevan maata. 
+                <app id="var6069" type="sub"><lem>Eli nuo</lem></app> kirkkaat tähdet 
+                <app id="var6070" type="sub"><lem>paistavat niin ihmeellisesti kauniina meille illalla tuolta
+                        siniseltä taivaalta.</lem></app></p>
+            <p style="romanType">Mistä tulee 
+                <app id="var6071" type="sub"><lem>siis valo?</lem></app> Se tulee meille auringosta, kuusta ja tähdistä, tulesta ja monista
+                kappaleista, niinkuin kiiltomadoista, 
+                <app id="var6072" type="sub"><lem>valkoimesta</lem></app> ja vanhoista lahonneista 
+                <app id="var6073" type="sub"><lem>puu-palaisista.</lem></app> Mitä 
+                <app id="var6074" type="sub"><lem>on valo?</lem></app> Onko se 
+                <app id="var6075" type="sub"><lem>itsestään kappale eli</lem></app> onko se 
+                <app id="var6076" type="sub"><lem>kappaleiden luonto,</lem></app> joka saattaa 
+                <app id="var6077" type="sub"><lem>meitä</lem></app> niitä näkemään? Sitä 
+                <app id="var6078" type="sub"><lem>kyllä ei voi kukaan oikein selittää.</lem></app> Me 
+                <app id="var6079" type="sub"><lem>näemmä ainoasti valon täyttävän</lem></app> koko 
+                <app id="var6080" type="sub"><lem>mailman,</lem></app> ja kun se katoaa, 
+                <app id="var6081" type="sub"><lem>ovat</lem></app> kaikki 
+                <app id="var6082" type="sub"><lem>asiat toisin.</lem></app> Muutamat sanovat koko 
+                <app id="var6083" type="sub"><lem>mailman</lem></app> avaruuden olevan 
+                <app id="var6084" type="sub"><lem>täytetyn aineella,</lem></app> joka on 
+                <app id="var6085" type="sub"><lem>paljoa hienompi</lem></app> kuin 
+                <app id="var6086" type="int"><lem>ilma,</lem></app> ja 
+                <app id="var6087" type="sub"><lem>tätä kutsutaan eeteriksi.</lem></app> Ja 
+                <app id="var6088" type="sub"><lem>juurikuin</lem></app> ääni 
+                <app id="var6089" type="sub"><lem>tulee</lem></app> ilman 
+                <app id="var6090" type="sub"><lem>tärinästä, niin tulee valo siitä, että eeteri tärisee,</lem></app> kun 
+                <app id="var6091" type="sub"><lem>joku panee sen liikkeelle. Niin paljon tarkoin tiedetään,</lem></app> että valo kulkee 
+                <app id="var6092" type="sub"><lem>paljoa sukkelammasti</lem></app> kuin ääni. 
+                <app id="var6093" type="sub"><lem>Ja jokaisen sekunnin välillä, kun</lem></app> kello 
+                <app id="var6094" type="sub"><lem>napsahtaa,</lem></app> lentää valo 
+                <app id="var6095" type="sub"><lem>29,000 (yhdeksänkolmatta</lem></app> tuhatta) 
+                <app id="var6096" type="sub"><lem>peninkulmaa</lem></app> eteenpäin, ja vaikka aurinko on niin 
+                <app id="var6097" type="sub"><lem>hirveän</lem></app> kaukana, ei valo kuitenkaan tarvitse 
+                <app id="var6098" type="sub"><lem>kuin vähä</lem></app> yli 8 
+                <app id="var6099" type="sub"><lem>minuutin tullakseen</lem></app> auringosta tänne.</p>
+            <p style="romanType">
+                <app id="var6100" type="sub"><lem>Juurikuin</lem></app> ääni tulee meille 
+                <app id="var6101" type="sub"><lem>korvain</lem></app> kautta, 
+                <app id="var6102" type="sub"><lem>niin</lem></app> tulee meille valo 
+                <app id="var6103" type="sub"><lem>silmäin</lem></app> kautta. 
+                <app id="var6104" type="sub"><lem>Me <hi rend="expanded">näemmä</hi> silmillä,</lem></app> ja silloin <hi rend="expanded">näkyvät</hi>
+                
+                <app id="var6105" type="sub"><lem>meille kappaleet.</lem></app> Kun 
+                <app id="var6106" type="sub"><lem>korvat sisältä pilautuvat, tullaan sokeaksi.</lem></app> Sokeina syntyneet ihmiset eivät tunne valoa. Mutta miksikä 
+                <app id="var6107" type="sub"><lem>välistä juurikuin sädehtisi ummessa olevissa silmissämme,</lem></app> kun lyömme 
+                <app id="var6108" type="sub"><lem>otsaamme</lem></app> seinään? 
+                <app id="var6109" type="sub"><lem>Siitä se tulee,</lem></app> että silmän 
+                <app id="var6110" type="sub"><lem>sisällä</lem></app> on 
+                <app id="var6111" type="sub"><lem>hellä tuntosuoni,</lem></app> joka 
+                <app id="var6112" type="sub"><lem>johdattaa</lem></app> valon tuntoomme. Ja joka kerta, 
+                <app id="var6113" type="sub"><lem>kun</lem></app> tämä 
+                <app id="var6114" type="sub"><lem>tuntosuoni</lem></app> loukkaantuu, 
+                <app id="var6115" type="sub"><lem>tutaan, juurikuin</lem></app> valon 
+                <app id="var6116" type="sub"><lem>säde nähtäisiin.</lem></app></p>
             <pb type="orig" n="175"/>
-            <p style="romanType"><app id="var6117" type="sub">
-                    <lem>Otanpa</lem>
-                </app> nyt <app id="var6118" type="sub">
-                    <lem>paperin, pistän reijän sen läpi</lem>
-                </app> neulalla <app id="var6119" type="sub">
-                    <lem>ja katson reijän läpitse. Näenpä siitä</lem>
-                </app> pienestä <app id="var6120" type="sub">
-                    <lem>reijästä</lem>
-                </app> ladon ja niityn <app id="var6121" type="sub">
-                    <lem>kaukana tuolla</lem>
-                </app> metsän <app id="var6122" type="sub">
-                    <lem>rinnassa. Tiedänpä nyt jonkun</lem>
-                </app> kappaleen tulevan <app id="var6123" type="sub">
-                    <lem>silmälle nähtäväksi sillä,</lem>
-                </app> että <app id="var6124" type="sub">
-                    <lem>valon säteet tulevat silmään</lem>
-                </app> kaikista kappaleen osista. <app id="var6125" type="sub">
-                    <lem>Sanomattoman hienojahan silloin</lem>
-                </app> valon säteet <app id="var6126" type="sub">
-                    <lem>ovat, kun</lem>
-                </app> niin <app id="var6127" type="sub">
-                    <lem>mahdottoman paljo</lem>
-                </app> säteitä ladosta ja niitystä tulee silmään yhden ainoan, paperiin <app id="var6128" type="int">
-                    <lem>pistetyn,</lem>
-                </app> pienen <app id="var6129" type="sub">
-                    <lem>reijän läpitse!</lem>
-                </app></p>
+            <p style="romanType">
+                <app id="var6117" type="sub"><lem>Otanpa</lem></app> nyt 
+                <app id="var6118" type="sub"><lem>paperin, pistän reijän sen läpi</lem></app> neulalla 
+                <app id="var6119" type="sub"><lem>ja katson reijän läpitse. Näenpä siitä</lem></app> pienestä 
+                <app id="var6120" type="sub"><lem>reijästä</lem></app> ladon ja niityn 
+                <app id="var6121" type="sub"><lem>kaukana tuolla</lem></app> metsän 
+                <app id="var6122" type="sub"><lem>rinnassa. Tiedänpä nyt jonkun</lem></app> kappaleen tulevan 
+                <app id="var6123" type="sub"><lem>silmälle nähtäväksi sillä,</lem></app> että 
+                <app id="var6124" type="sub"><lem>valon säteet tulevat silmään</lem></app> kaikista kappaleen osista. 
+                <app id="var6125" type="sub"><lem>Sanomattoman hienojahan silloin</lem></app> valon säteet 
+                <app id="var6126" type="sub"><lem>ovat, kun</lem></app> niin 
+                <app id="var6127" type="sub"><lem>mahdottoman paljo</lem></app> säteitä ladosta ja niitystä tulee silmään yhden ainoan, paperiin 
+                <app id="var6128" type="int"><lem>pistetyn,</lem></app> pienen 
+                <app id="var6129" type="sub"><lem>reijän läpitse!</lem></app></p>
             <figure type="illustration"/>
             <p style="romanType">Mutta miksikä lato ja muut kappaleet, jotka ovat tuolla
-                etäällä, <app id="var6130" type="sub">
-                    <lem>näkyvät</lem>
-                </app> pienemmiltä kuin ovatkaan likempää katsoen? Sen nyt <app id="var6131" type="sub">
-                    <lem>näytän</lem>
-                </app> sinulle <app id="var6132" type="sub">
-                    <lem>kuvalla. Tässä ovat puut,</lem>
-                </app> ja <app id="var6133" type="sub">
-                    <lem>tässä</lem>
-                </app> seison minä <app id="var6134" type="sub">
-                    <lem>katsoen niitä.</lem>
-                </app> Puut ovat yhtä <app id="var6135" type="sub">
-                    <lem>isoja;</lem>
-                </app> mutta kuitenkin <app id="var6136" type="sub">
-                    <lem>näen</lem>
-                </app> likempänä <app id="var6137" type="sub">
-                    <lem>seisovan puun olevan pienemmän etempänä olevaa puuta. Miksikä niin?
+                etäällä, 
+                <app id="var6130" type="sub"><lem>näkyvät</lem></app> pienemmiltä kuin ovatkaan likempää katsoen? Sen nyt 
+                <app id="var6131" type="sub"><lem>näytän</lem></app> sinulle 
+                <app id="var6132" type="sub"><lem>kuvalla. Tässä ovat puut,</lem></app> ja 
+                <app id="var6133" type="sub"><lem>tässä</lem></app> seison minä 
+                <app id="var6134" type="sub"><lem>katsoen niitä.</lem></app> Puut ovat yhtä 
+                <app id="var6135" type="sub"><lem>isoja;</lem></app> mutta kuitenkin 
+                <app id="var6136" type="sub"><lem>näen</lem></app> likempänä 
+                <app id="var6137" type="sub"><lem>seisovan puun olevan pienemmän etempänä olevaa puuta. Miksikä niin?
                         No siksi, kun ajattelen kumpaisenkin puun latvan (huipun)
-                        päästä</lem>
-                </app> tulevan silmääni <app id="var6138" type="sub">
-                    <lem>valon säteen,</lem>
-                </app> ja toisen säteen <app id="var6139" type="sub">
-                    <lem>juoksevan juuresta maan pinnassa. Ymmärränpä molempain
-                        likimmäisestä</lem>
-                </app> puusta <app id="var6140" type="sub">
-                    <lem>tulevan säteen tekevän</lem>
-                </app> isomman kulman <app id="var6141" type="sub">
-                    <lem>(vinkkelin) silmääni vasten ja juurikuin enemmän levenevän.</lem>
-                </app> Mutta <app id="var6142" type="sub">
-                    <lem>etimmäisestä puusta tekevät ne suipumman</lem>
-                </app> kulman ja <app id="var6143" type="sub">
-                    <lem>vähemmän levenevät. <pb type="orig" n="176"/>Vedänkö</lem>
-                </app> viivan <app id="var6144" type="sub">
-                    <lem>sädetten välille,</lem>
-                </app> niin <app id="var6145" type="sub">
-                    <lem>käsitän likimmäisen puun näkyvän niin paljoa isommalta kuin
-                        etimmäisen puun,</lem>
-                </app> kuin sen <app id="var6146" type="sub">
-                    <lem>sädetten välillä oleva</lem>
-                </app> viiva on <app id="var6147" type="sub">
-                    <lem>isompi</lem>
-                </app> viivaa, joka on <app id="var6148" type="sub">
-                    <lem>etempänä olevasta puusta tulevain sädetten välillä.</lem>
-                </app></p>
-            <p style="romanType">Mutta <app id="var6149" type="sub">
-                    <lem>et tarvitse ajatella toisen puun olevan juuri</lem>
-                </app> toisen <app id="var6150" type="sub">
-                    <lem>kohdalla,</lem>
-                </app> sillä silloin <app id="var6151" type="sub">
-                    <lem>toinen varjottaisi pois näkymästä sen etimmäisen.</lem>
-                </app> Sillä puut ja <app id="var6152" type="sub">
-                    <lem>monta muuta kappaletta</lem>
-                </app> ovat <app id="var6153" type="sub">
-                    <lem><hi rend="expanded">läpinäkymätömiä.</hi></lem>
-                </app> Mutta <app id="var6154" type="sub">
-                    <lem>muut</lem>
-                </app> kappaleet, <app id="var6155" type="sub">
-                    <lem>niinkuin</lem>
-                </app> ilma, vesi ja lasi, päästävät valon <app id="var6156" type="sub">
-                    <lem>läpitsensä,</lem>
-                </app> niin että niiden <app id="var6157" type="sub">
-                    <lem>läpi nähdään,</lem>
-                </app> ja sellaisia kappaleita <app id="var6158" type="sub">
-                    <lem>kutsutaan</lem>
-                </app>
-                <hi rend="expanded">läpinäkyviksi.</hi> Kun valo <app id="var6159" type="sub">
-                    <lem>paistaa läpinäkymättömihin kappaleisin, tulee</lem>
-                </app> niiden <app id="var6160" type="sub">
-                    <lem>taaksi</lem>
-                </app> varjo. Nyt palaa <app id="var6161" type="sub">
-                    <lem>talikynttilä</lem>
-                </app> pöydällä, ja minä asetun kynttilän eteen. <app id="var6162" type="sub">
-                    <lem>Näenpä</lem>
-                </app> jotakin mustaa <app id="var6163" type="sub">
-                    <lem>seinällä.</lem>
-                </app> Mikä se on? Se on varjoni. Jota <app id="var6164" type="sub">
-                    <lem>likemmä</lem>
-                </app> seinää menen, sitä pienemmäksi tulee <app id="var6165" type="sub">
-                    <lem>varjoni.</lem>
-                </app> Jota <app id="var6166" type="sub">
-                    <lem>etemmäksi</lem>
-                </app> menen seinästä, sitä suuremmaksi tulee varjo. Mutta <app id="var6167" type="sub">
-                    <lem>varjo tulee sen mukaan miten kynttilä on asetettu.</lem>
-                </app> Jos <app id="var6168" type="sub">
-                    <lem>kynttilä asetetaan</lem>
-                </app> lattialle, niin tulee varjoni <app id="var6169" type="sub">
-                    <lem>seinälle</lem>
-                </app> hyvin pitkäksi. Jos nostan kynttilän pääni päälle, tulee <app id="var6170" type="sub">
-                    <lem>varjoni lyhemmäksi.</lem>
-                </app> Samalla lailla <app id="var6171" type="sub">
-                    <lem>tulee varjoni pitkäksi edelläni tiellä kävellessäni,</lem>
-                </app> kun aurinko <app id="var6172" type="sub">
-                    <lem>eli</lem>
-                </app> kuu <app id="var6173" type="sub">
-                    <lem>on alaalla</lem>
-                </app> taivaalla. Mutta jos ne ovat korkealla, tulee varjo aivan lyhyeksi.
-                Ja jos ne <app id="var6174" type="sub">
-                    <lem>ovat aivan</lem>
-                </app> pääni päällä, <app id="var6175" type="sub">
-                    <lem>niin en</lem>
-                </app> näkisi <app id="var6176" type="sub">
-                    <lem>ollenkaan mitään varjoa. Sitä saat nähdä tiimatukissaki,</lem>
-                </app> joka <app id="var6177" type="sub">
-                    <lem>näyttää päivän</lem>
-                </app> aikoja <app id="var6178" type="sub">
-                    <lem>juuri sillä,</lem>
-                </app> että <app id="var6179" type="sub">
-                    <lem>navan</lem>
-                </app> varjo <app id="var6180" type="sub">
-                    <lem>muuttuu</lem>
-                </app> auringon kulun mukaan.</p>
-            <p style="romanType"><app id="var6181" type="sub">
-                    <lem>Näenpä läpinäkyväin kappaletten toisinaan</lem>
-                </app> olevan <hi rend="expanded">värittömiä,</hi> mutta <app id="var6182" type="sub">
-                    <lem>läpinäkymättömillä kappaleilla on erilaiset <hi rend="expanded">värit.</hi> Mistä tulevat värit?</lem>
-                </app> Ne <app id="var6183" type="sub">
-                    <lem>tulevat siitä</lem>
-                </app> että <app id="var6184" type="sub">
-                    <lem>kappaletten pinnoista palaa valo erilailla.</lem>
-                </app> Nenäliinani on valkea; sen pinnasta <app id="var6185" type="sub">
-                    <lem>palaupi</lem>
-                </app> enin <app id="var6186" type="sub">
-                    <lem>valoa takasi,</lem>
-                </app> ja <app id="var6187" type="sub">
-                    <lem>siksi</lem>
-                </app> se <app id="var6188" type="sub">
-                    <lem>tulee valkeaksi.</lem>
-                </app> Huivini on <app id="var6189" type="int">
-                    <lem>musta,</lem>
-                </app> se imee <app id="var6190" type="sub">
-                    <lem>sisäänsä</lem>
-                </app> enimmän <app id="var6191" type="sub">
-                    <lem>valoa,</lem>
-                </app> ja <app id="var6192" type="sub">
-                    <lem>siksi</lem>
-                </app> se <app id="var6193" type="sub">
-                    <lem>tulee mustaksi.</lem>
-                </app> Musta <pb type="orig" n="177"/>huivi lämpeneekin <app id="var6194" type="sub">
-                    <lem>pikemmin, kun aurinko paistaa siihen</lem>
-                </app>
+                        päästä</lem></app> tulevan silmääni 
+                <app id="var6138" type="sub"><lem>valon säteen,</lem></app> ja toisen säteen 
+                <app id="var6139" type="sub"><lem>juoksevan juuresta maan pinnassa. Ymmärränpä molempain
+                        likimmäisestä</lem></app> puusta 
+                <app id="var6140" type="sub"><lem>tulevan säteen tekevän</lem></app> isomman kulman 
+                <app id="var6141" type="sub"><lem>(vinkkelin) silmääni vasten ja juurikuin enemmän levenevän.</lem></app> Mutta 
+                <app id="var6142" type="sub"><lem>etimmäisestä puusta tekevät ne suipumman</lem></app> kulman ja 
+                <app id="var6143" type="sub"><lem>vähemmän levenevät. <pb type="orig" n="176"/>Vedänkö</lem></app> viivan 
+                <app id="var6144" type="sub"><lem>sädetten välille,</lem></app> niin 
+                <app id="var6145" type="sub"><lem>käsitän likimmäisen puun näkyvän niin paljoa isommalta kuin
+                        etimmäisen puun,</lem></app> kuin sen 
+                <app id="var6146" type="sub"><lem>sädetten välillä oleva</lem></app> viiva on 
+                <app id="var6147" type="sub"><lem>isompi</lem></app> viivaa, joka on 
+                <app id="var6148" type="sub"><lem>etempänä olevasta puusta tulevain sädetten välillä.</lem></app></p>
+            <p style="romanType">Mutta 
+                <app id="var6149" type="sub"><lem>et tarvitse ajatella toisen puun olevan juuri</lem></app> toisen 
+                <app id="var6150" type="sub"><lem>kohdalla,</lem></app> sillä silloin 
+                <app id="var6151" type="sub"><lem>toinen varjottaisi pois näkymästä sen etimmäisen.</lem></app> Sillä puut ja 
+                <app id="var6152" type="sub"><lem>monta muuta kappaletta</lem></app> ovat 
+                <app id="var6153" type="sub"><lem><hi rend="expanded">läpinäkymätömiä.</hi></lem></app> Mutta 
+                <app id="var6154" type="sub"><lem>muut</lem></app> kappaleet, 
+                <app id="var6155" type="sub"><lem>niinkuin</lem></app> ilma, vesi ja lasi, päästävät valon 
+                <app id="var6156" type="sub"><lem>läpitsensä,</lem></app> niin että niiden 
+                <app id="var6157" type="sub"><lem>läpi nähdään,</lem></app> ja sellaisia kappaleita 
+                <app id="var6158" type="sub"><lem>kutsutaan</lem></app>
+                <hi rend="expanded">läpinäkyviksi.</hi> Kun valo 
+                <app id="var6159" type="sub"><lem>paistaa läpinäkymättömihin kappaleisin, tulee</lem></app> niiden 
+                <app id="var6160" type="sub"><lem>taaksi</lem></app> varjo. Nyt palaa 
+                <app id="var6161" type="sub"><lem>talikynttilä</lem></app> pöydällä, ja minä asetun kynttilän eteen. 
+                <app id="var6162" type="sub"><lem>Näenpä</lem></app> jotakin mustaa 
+                <app id="var6163" type="sub"><lem>seinällä.</lem></app> Mikä se on? Se on varjoni. Jota 
+                <app id="var6164" type="sub"><lem>likemmä</lem></app> seinää menen, sitä pienemmäksi tulee 
+                <app id="var6165" type="sub"><lem>varjoni.</lem></app> Jota 
+                <app id="var6166" type="sub"><lem>etemmäksi</lem></app> menen seinästä, sitä suuremmaksi tulee varjo. Mutta 
+                <app id="var6167" type="sub"><lem>varjo tulee sen mukaan miten kynttilä on asetettu.</lem></app> Jos 
+                <app id="var6168" type="sub"><lem>kynttilä asetetaan</lem></app> lattialle, niin tulee varjoni 
+                <app id="var6169" type="sub"><lem>seinälle</lem></app> hyvin pitkäksi. Jos nostan kynttilän pääni päälle, tulee 
+                <app id="var6170" type="sub"><lem>varjoni lyhemmäksi.</lem></app> Samalla lailla 
+                <app id="var6171" type="sub"><lem>tulee varjoni pitkäksi edelläni tiellä kävellessäni,</lem></app> kun aurinko 
+                <app id="var6172" type="sub"><lem>eli</lem></app> kuu 
+                <app id="var6173" type="sub"><lem>on alaalla</lem></app> taivaalla. Mutta jos ne ovat korkealla, tulee varjo aivan lyhyeksi.
+                Ja jos ne 
+                <app id="var6174" type="sub"><lem>ovat aivan</lem></app> pääni päällä, 
+                <app id="var6175" type="sub"><lem>niin en</lem></app> näkisi 
+                <app id="var6176" type="sub"><lem>ollenkaan mitään varjoa. Sitä saat nähdä tiimatukissaki,</lem></app> joka 
+                <app id="var6177" type="sub"><lem>näyttää päivän</lem></app> aikoja 
+                <app id="var6178" type="sub"><lem>juuri sillä,</lem></app> että 
+                <app id="var6179" type="sub"><lem>navan</lem></app> varjo 
+                <app id="var6180" type="sub"><lem>muuttuu</lem></app> auringon kulun mukaan.</p>
+            <p style="romanType">
+                <app id="var6181" type="sub"><lem>Näenpä läpinäkyväin kappaletten toisinaan</lem></app> olevan <hi rend="expanded">värittömiä,</hi> mutta 
+                <app id="var6182" type="sub"><lem>läpinäkymättömillä kappaleilla on erilaiset <hi rend="expanded">värit.</hi> Mistä tulevat värit?</lem></app> Ne 
+                <app id="var6183" type="sub"><lem>tulevat siitä</lem></app> että 
+                <app id="var6184" type="sub"><lem>kappaletten pinnoista palaa valo erilailla.</lem></app> Nenäliinani on valkea; sen pinnasta 
+                <app id="var6185" type="sub"><lem>palaupi</lem></app> enin 
+                <app id="var6186" type="sub"><lem>valoa takasi,</lem></app> ja 
+                <app id="var6187" type="sub"><lem>siksi</lem></app> se 
+                <app id="var6188" type="sub"><lem>tulee valkeaksi.</lem></app> Huivini on 
+                <app id="var6189" type="int"><lem>musta,</lem></app> se imee 
+                <app id="var6190" type="sub"><lem>sisäänsä</lem></app> enimmän 
+                <app id="var6191" type="sub"><lem>valoa,</lem></app> ja 
+                <app id="var6192" type="sub"><lem>siksi</lem></app> se 
+                <app id="var6193" type="sub"><lem>tulee mustaksi.</lem></app> Musta <pb type="orig" n="177"/>huivi lämpeneekin 
+                <app id="var6194" type="sub"><lem>pikemmin, kun aurinko paistaa siihen</lem></app>
                 <note id="ftn3" n="*)" place="foot"><hi rend="expanded">Muist.</hi>
-                <app id="var6195" type="sub">
-                    <lem>Valkea ja musta
-                        eivät</lem>
-                </app> ole <app id="var6196" type="sub">
-                    <lem>oikeastaan mitään</lem>
-                </app> väriä. <app id="var6197" type="sub">
-                    <lem>Valkea on valoa, ja musta</lem>
-                </app> on pimeyttä. En saata nähdä
-                    <app id="var6198" type="int">
-                    <lem>mustaa,</lem>
-                </app> enkä saata nähdä varjoa, jos ei
-                    niiden vieressä ole valkeampia <app id="var6199" type="int">
-                    <lem>kappaleita</lem></app>.</note>.
-                Muistatko <app id="var6200" type="sub">
-                    <lem>niitä</lem>
-                </app> kauniita <app id="var6201" type="sub">
-                    <lem>värejä vesikaaressa,</lem>
-                </app> jotka <app id="var6202" type="sub">
-                    <lem>tulevat</lem>
-                </app> auringon <app id="var6203" type="sub">
-                    <lem>sädetten murtumisesta niissä</lem>
-                </app> pienissä <app id="var6204" type="sub">
-                    <lem>vesiherneissä? Yläpuolelta</lem>
-                </app> on <app id="var6205" type="sub">
-                    <lem>se punanen, sitte helevän keltanen, sitte viheriäinen, sitte
-                        vaalean-sininen, sitte tummansininen,</lem>
-                </app> ja <app id="var6206" type="sub">
-                    <lem>sisimmäinen laita on kihtaava.</lem>
-                </app> Jos <app id="var6207" type="sub">
-                    <lem>maalaan</lem>
-                </app> samat värit <app id="var6208" type="sub">
-                    <lem>hyrrään samaan järjestykseen</lem>
-                </app> ja <app id="var6209" type="sub">
-                    <lem>nakkaan hyrrän sukkelasti</lem>
-                </app> pyörimään, <app id="var6210" type="sub">
-                    <lem>näyttää</lem>
-                </app> hyrrä aivan valkealta. Siitä <app id="var6211" type="sub">
-                    <lem>näen valkean valon olevan yhdistetyn vesikaaren</lem>
-                </app> seitsemästä väristä, ja <app id="var6212" type="sub">
-                    <lem>se saatetaan</lem>
-                </app> jälleen <app id="var6213" type="sub">
-                    <lem>jakaa erilleen niihin, niinkuin</lem>
-                </app> valon <app id="var6214" type="sub">
-                    <lem>sädetten paistaessa liipatun</lem>
-                </app> lasin läpi. Kun valo <app id="var6215" type="sub">
-                    <lem>paistaa</lem>
-                </app> kukkaan, <app id="var6216" type="sub">
-                    <lem>tulee se punaseksi,</lem>
-                </app> jos se imee sisäänsä kaikki muut säteet, mutta <app id="var6217" type="sub">
-                    <lem>palauttaa itsestään pois</lem>
-                </app> ainoasti <app id="var6218" type="sub">
-                    <lem>ne punaiset.</lem>
-                </app> Jos se <app id="var6219" type="sub">
-                    <lem>palauttaa itsestään</lem>
-                </app> siniset säteet, näyttää se siniseltä, ja <app id="var6220" type="sub">
-                    <lem>niin</lem>
-                </app> on <app id="var6221" type="sub">
-                    <lem>kaikkein</lem>
-                </app> värien <app id="var6222" type="sub">
-                    <lem>kanssa.</lem>
-                </app> Paitsi <app id="var6223" type="sub">
-                    <lem>vesikaaren värejä,</lem>
-                </app> on <app id="var6224" type="sub">
-                    <lem>niitä muunkin näköiselle vivahtavia,</lem>
-                </app> jotka <app id="var6225" type="sub">
-                    <lem>tulevat</lem>
-                </app> värien <app id="var6226" type="sub">
-                    <lem>sekoituksesta.</lem>
-                </app> Mustasta ja valkeasta saadaan harmaata, mustasta ja punaisesta
-                ruskeata j. n. e. <app id="var6227" type="sub">
-                    <lem>Sen</lem>
-                </app> pitää <app id="var6228" type="sub">
-                    <lem>kaikkein</lem>
-                </app> maalarien hyvästi <app id="var6229" type="sub">
-                    <lem>tuta.</lem>
-                </app> Ja tarkasti tulee <app id="var6230" type="sub">
-                    <lem>niiden</lem>
-                </app> osata kuvata <app id="var6231" type="sub">
-                    <lem>valoisia</lem>
-                </app> ja <app id="var6232" type="sub">
-                    <lem>varjopaikkoja; muuten</lem>
-                </app> ei ole kuvaus kuvatun näköinen.</p>
-            <p style="romanType">Jos <app id="var6233" type="sub">
-                    <lem>jollakulla</lem>
-                </app> kappaleella on hyvin kiiltävä pinta, <app id="var6234" type="sub">
-                    <lem>näen</lem>
-                </app> siinä <app id="var6235" type="sub">
-                    <lem>kuvani juurikuin</lem>
-                </app>
-                <hi rend="expanded">kuvastimessa</hi> (peilissä). <app id="var6236" type="sub">
-                    <lem>Siksi kuvauvat</lem>
-                </app> kaikki ympärillä olevat <app id="var6237" type="sub">
-                    <lem>kappaleet</lem>
-                </app> kirkkaassa lähteessä <app id="var6238" type="sub">
-                    <lem>eli tyvenessä</lem>
-                </app> järvessä <app id="var6239" type="sub">
-                    <lem>eli</lem>
-                </app> hiljaa juoksevassa joessa. Mutta jos <app id="var6240" type="sub">
-                    <lem>menen</lem>
-                </app> kuvastimen <app id="var6241" type="sub">
-                    <lem>sivulle, enpä näekkään itseäni,</lem>
-                </app> vaan <app id="var6242" type="sub">
-                    <lem>muita,</lem>
-                </app> jotka ovat kuvastimen <app id="var6243" type="sub">
-                    <lem>edessä toisella puolella.</lem>
-                </app> Siitä <app id="var6244" type="sub">
-                    <lem>näen</lem>
-                </app> etteivät valon sä<pb type="orig" n="178"/>teet <app id="var6245" type="sub">
-                    <lem>kimpoa kuvastimesta joka</lem>
-                </app> suunnalle. Jos säteet tulevat suoraan, <app id="var6246" type="sub">
-                    <lem>palauvat</lem>
-                </app> ne suoraan <app id="var6247" type="sub">
-                    <lem>takasi vastassa olevalle kohdalle. Soutaessani veneellä</lem>
-                </app> joella, <app id="var6248" type="sub">
-                    <lem>näen</lem>
-                </app> rannan <app id="var6249" type="sub">
-                    <lem>kuvastelevan niin</lem>
-                </app> että sen kuva vedessä <app id="var6250" type="sub">
-                    <lem>juurikuin kääntyisi</lem>
-                </app> sisäänpäin. Se tulee <app id="var6251" type="int">
-                    <lem>siitä</lem>
-                </app> että valon säteet rannalta <app id="var6252" type="sub">
-                    <lem>lankeavat vinoon</lem>
-                </app> veden <app id="var6253" type="sub">
-                    <lem>pintaan.</lem>
-                </app></p>
-            <p style="romanType">Mutta jos <app id="var6254" type="sub">
-                    <lem>asetan</lem>
-                </app> suoran kepin <app id="var6255" type="sub">
-                    <lem>puolitiestä</lem>
-                </app> veteen, niin näyttää sen kuva <app id="var6256" type="sub">
-                    <lem>juurikuin murretulta. Ja jos panen vesikuppiin lantin,</lem>
-                </app> näyttää tämä olevan toisessa <app id="var6257" type="int">
-                    <lem>paikassa,</lem>
-                </app> kuin se onkaan. <app id="var6258" type="sub">
-                    <lem>Miksikä niin? Siksi kuin</lem>
-                </app> valo <app id="var6259" type="sub">
-                    <lem>menee suoraan</lem>
-                </app> aineen <app id="var6260" type="sub">
-                    <lem>läpi,</lem>
-                </app> joka on yhtä <app id="var6261" type="sub">
-                    <lem>tiheää jokapaikasta;</lem>
-                </app> mutta jos se <app id="var6262" type="sub">
-                    <lem>menee harvemman aineen läpi</lem>
-                </app> tiheämpään <app id="var6263" type="sub">
-                    <lem>eli perinvastoin,</lem>
-                </app> niin <app id="var6264" type="sub">
-                    <lem>murtuvat</lem>
-                </app> säteet ja <app id="var6265" type="sub">
-                    <lem>juurikuin sujuvat</lem>
-                </app> syrjään. Vesi on <app id="var6266" type="sub">
-                    <lem>harvempaa</lem>
-                </app> kuin ilma, <app id="var6267" type="sub">
-                    <lem>siksi</lem>
-                </app> näyttää keppi <app id="var6268" type="sub">
-                    <lem>murtuneelta,</lem>
-                </app> ja <app id="var6269" type="sub">
-                    <lem>lantti</lem>
-                </app> näyttää olevan <app id="var6270" type="sub">
-                    <lem>eri sijalla.</lem>
-                </app> Ylempänä oleva ilma on <app id="var6271" type="int">
-                    <lem>harvempaa</lem>
-                </app> kuin alempana oleva, <app id="var6272" type="sub">
-                    <lem>siksi</lem>
-                </app> näyttää aurinko aina olevan <app id="var6273" type="sub">
-                    <lem>taivaalla ylempänä,</lem>
-                </app> kuin se onkaan.</p>
-            <p style="romanType">Lasi on <app id="var6274" type="sub">
-                    <lem>paljoa</lem>
-                </app> tiheämpää kuin <app id="var6275" type="sub">
-                    <lem>ilma: siksi murtaa paksu</lem>
-                </app> lasi hyvin <app id="var6276" type="sub">
-                    <lem>valon</lem>
-                </app> säteet. Jos <app id="var6277" type="sub">
-                    <lem>otan</lem>
-                </app> pyöreän <app id="var6278" type="sub">
-                    <lem>lasikappaleen,</lem>
-                </app> joka on molemmin puolin <app id="var6279" type="sub">
-                    <lem>mykevä, näenpä tavallisella matkalla kaikkia suurempana,</lem>
-                </app> kuin <app id="var6280" type="sub">
-                    <lem>itsestään</lem>
-                </app> ovatkaan. <app id="var6281" type="sub">
-                    <lem>Sellaiset suurennus-lasit ovat ihmeellisiä läpikatsottaessa, kun
-                        niillä katsotaan aivan</lem>
-                </app> pieniä <app id="var6282" type="sub">
-                    <lem>kappaleita.</lem>
-                </app> Isällä on sellainen lasi, jota hän <app id="var6283" type="sub">
-                    <lem>kutsuu <hi rend="expanded">tulilasiksi,</hi></lem>
-                </app> ja sillä sytyttää hän piippunsa, sillä se kokoaa auringon säteet
-                yhteen <app id="var6284" type="sub">
-                    <lem>polttopilkkuun. Äitillä ovat</lem>
-                </app>
+                
+                <app id="var6195" type="sub"><lem>Valkea ja musta
+                        eivät</lem></app> ole 
+                <app id="var6196" type="sub"><lem>oikeastaan mitään</lem></app> väriä. 
+                <app id="var6197" type="sub"><lem>Valkea on valoa, ja musta</lem></app> on pimeyttä. En saata nähdä
+                    
+                <app id="var6198" type="int"><lem>mustaa,</lem></app> enkä saata nähdä varjoa, jos ei
+                    niiden vieressä ole valkeampia 
+                <app id="var6199" type="int"><lem>kappaleita</lem></app>.</note>.
+                Muistatko 
+                <app id="var6200" type="sub"><lem>niitä</lem></app> kauniita 
+                <app id="var6201" type="sub"><lem>värejä vesikaaressa,</lem></app> jotka 
+                <app id="var6202" type="sub"><lem>tulevat</lem></app> auringon 
+                <app id="var6203" type="sub"><lem>sädetten murtumisesta niissä</lem></app> pienissä 
+                <app id="var6204" type="sub"><lem>vesiherneissä? Yläpuolelta</lem></app> on 
+                <app id="var6205" type="sub"><lem>se punanen, sitte helevän keltanen, sitte viheriäinen, sitte
+                        vaalean-sininen, sitte tummansininen,</lem></app> ja 
+                <app id="var6206" type="sub"><lem>sisimmäinen laita on kihtaava.</lem></app> Jos 
+                <app id="var6207" type="sub"><lem>maalaan</lem></app> samat värit 
+                <app id="var6208" type="sub"><lem>hyrrään samaan järjestykseen</lem></app> ja 
+                <app id="var6209" type="sub"><lem>nakkaan hyrrän sukkelasti</lem></app> pyörimään, 
+                <app id="var6210" type="sub"><lem>näyttää</lem></app> hyrrä aivan valkealta. Siitä 
+                <app id="var6211" type="sub"><lem>näen valkean valon olevan yhdistetyn vesikaaren</lem></app> seitsemästä väristä, ja 
+                <app id="var6212" type="sub"><lem>se saatetaan</lem></app> jälleen 
+                <app id="var6213" type="sub"><lem>jakaa erilleen niihin, niinkuin</lem></app> valon 
+                <app id="var6214" type="sub"><lem>sädetten paistaessa liipatun</lem></app> lasin läpi. Kun valo 
+                <app id="var6215" type="sub"><lem>paistaa</lem></app> kukkaan, 
+                <app id="var6216" type="sub"><lem>tulee se punaseksi,</lem></app> jos se imee sisäänsä kaikki muut säteet, mutta 
+                <app id="var6217" type="sub"><lem>palauttaa itsestään pois</lem></app> ainoasti 
+                <app id="var6218" type="sub"><lem>ne punaiset.</lem></app> Jos se 
+                <app id="var6219" type="sub"><lem>palauttaa itsestään</lem></app> siniset säteet, näyttää se siniseltä, ja 
+                <app id="var6220" type="sub"><lem>niin</lem></app> on 
+                <app id="var6221" type="sub"><lem>kaikkein</lem></app> värien 
+                <app id="var6222" type="sub"><lem>kanssa.</lem></app> Paitsi 
+                <app id="var6223" type="sub"><lem>vesikaaren värejä,</lem></app> on 
+                <app id="var6224" type="sub"><lem>niitä muunkin näköiselle vivahtavia,</lem></app> jotka 
+                <app id="var6225" type="sub"><lem>tulevat</lem></app> värien 
+                <app id="var6226" type="sub"><lem>sekoituksesta.</lem></app> Mustasta ja valkeasta saadaan harmaata, mustasta ja punaisesta
+                ruskeata j. n. e. 
+                <app id="var6227" type="sub"><lem>Sen</lem></app> pitää 
+                <app id="var6228" type="sub"><lem>kaikkein</lem></app> maalarien hyvästi 
+                <app id="var6229" type="sub"><lem>tuta.</lem></app> Ja tarkasti tulee 
+                <app id="var6230" type="sub"><lem>niiden</lem></app> osata kuvata 
+                <app id="var6231" type="sub"><lem>valoisia</lem></app> ja 
+                <app id="var6232" type="sub"><lem>varjopaikkoja; muuten</lem></app> ei ole kuvaus kuvatun näköinen.</p>
+            <p style="romanType">Jos 
+                <app id="var6233" type="sub"><lem>jollakulla</lem></app> kappaleella on hyvin kiiltävä pinta, 
+                <app id="var6234" type="sub"><lem>näen</lem></app> siinä 
+                <app id="var6235" type="sub"><lem>kuvani juurikuin</lem></app>
+                <hi rend="expanded">kuvastimessa</hi> (peilissä). 
+                <app id="var6236" type="sub"><lem>Siksi kuvauvat</lem></app> kaikki ympärillä olevat 
+                <app id="var6237" type="sub"><lem>kappaleet</lem></app> kirkkaassa lähteessä 
+                <app id="var6238" type="sub"><lem>eli tyvenessä</lem></app> järvessä 
+                <app id="var6239" type="sub"><lem>eli</lem></app> hiljaa juoksevassa joessa. Mutta jos 
+                <app id="var6240" type="sub"><lem>menen</lem></app> kuvastimen 
+                <app id="var6241" type="sub"><lem>sivulle, enpä näekkään itseäni,</lem></app> vaan 
+                <app id="var6242" type="sub"><lem>muita,</lem></app> jotka ovat kuvastimen 
+                <app id="var6243" type="sub"><lem>edessä toisella puolella.</lem></app> Siitä 
+                <app id="var6244" type="sub"><lem>näen</lem></app> etteivät valon sä<pb type="orig" n="178"/>teet 
+                <app id="var6245" type="sub"><lem>kimpoa kuvastimesta joka</lem></app> suunnalle. Jos säteet tulevat suoraan, 
+                <app id="var6246" type="sub"><lem>palauvat</lem></app> ne suoraan 
+                <app id="var6247" type="sub"><lem>takasi vastassa olevalle kohdalle. Soutaessani veneellä</lem></app> joella, 
+                <app id="var6248" type="sub"><lem>näen</lem></app> rannan 
+                <app id="var6249" type="sub"><lem>kuvastelevan niin</lem></app> että sen kuva vedessä 
+                <app id="var6250" type="sub"><lem>juurikuin kääntyisi</lem></app> sisäänpäin. Se tulee 
+                <app id="var6251" type="int"><lem>siitä</lem></app> että valon säteet rannalta 
+                <app id="var6252" type="sub"><lem>lankeavat vinoon</lem></app> veden 
+                <app id="var6253" type="sub"><lem>pintaan.</lem></app></p>
+            <p style="romanType">Mutta jos 
+                <app id="var6254" type="sub"><lem>asetan</lem></app> suoran kepin 
+                <app id="var6255" type="sub"><lem>puolitiestä</lem></app> veteen, niin näyttää sen kuva 
+                <app id="var6256" type="sub"><lem>juurikuin murretulta. Ja jos panen vesikuppiin lantin,</lem></app> näyttää tämä olevan toisessa 
+                <app id="var6257" type="int"><lem>paikassa,</lem></app> kuin se onkaan. 
+                <app id="var6258" type="sub"><lem>Miksikä niin? Siksi kuin</lem></app> valo 
+                <app id="var6259" type="sub"><lem>menee suoraan</lem></app> aineen 
+                <app id="var6260" type="sub"><lem>läpi,</lem></app> joka on yhtä 
+                <app id="var6261" type="sub"><lem>tiheää jokapaikasta;</lem></app> mutta jos se 
+                <app id="var6262" type="sub"><lem>menee harvemman aineen läpi</lem></app> tiheämpään 
+                <app id="var6263" type="sub"><lem>eli perinvastoin,</lem></app> niin 
+                <app id="var6264" type="sub"><lem>murtuvat</lem></app> säteet ja 
+                <app id="var6265" type="sub"><lem>juurikuin sujuvat</lem></app> syrjään. Vesi on 
+                <app id="var6266" type="sub"><lem>harvempaa</lem></app> kuin ilma, 
+                <app id="var6267" type="sub"><lem>siksi</lem></app> näyttää keppi 
+                <app id="var6268" type="sub"><lem>murtuneelta,</lem></app> ja 
+                <app id="var6269" type="sub"><lem>lantti</lem></app> näyttää olevan 
+                <app id="var6270" type="sub"><lem>eri sijalla.</lem></app> Ylempänä oleva ilma on 
+                <app id="var6271" type="int"><lem>harvempaa</lem></app> kuin alempana oleva, 
+                <app id="var6272" type="sub"><lem>siksi</lem></app> näyttää aurinko aina olevan 
+                <app id="var6273" type="sub"><lem>taivaalla ylempänä,</lem></app> kuin se onkaan.</p>
+            <p style="romanType">Lasi on 
+                <app id="var6274" type="sub"><lem>paljoa</lem></app> tiheämpää kuin 
+                <app id="var6275" type="sub"><lem>ilma: siksi murtaa paksu</lem></app> lasi hyvin 
+                <app id="var6276" type="sub"><lem>valon</lem></app> säteet. Jos 
+                <app id="var6277" type="sub"><lem>otan</lem></app> pyöreän 
+                <app id="var6278" type="sub"><lem>lasikappaleen,</lem></app> joka on molemmin puolin 
+                <app id="var6279" type="sub"><lem>mykevä, näenpä tavallisella matkalla kaikkia suurempana,</lem></app> kuin 
+                <app id="var6280" type="sub"><lem>itsestään</lem></app> ovatkaan. 
+                <app id="var6281" type="sub"><lem>Sellaiset suurennus-lasit ovat ihmeellisiä läpikatsottaessa, kun
+                        niillä katsotaan aivan</lem></app> pieniä 
+                <app id="var6282" type="sub"><lem>kappaleita.</lem></app> Isällä on sellainen lasi, jota hän 
+                <app id="var6283" type="sub"><lem>kutsuu <hi rend="expanded">tulilasiksi,</hi></lem></app> ja sillä sytyttää hän piippunsa, sillä se kokoaa auringon säteet
+                yhteen 
+                <app id="var6284" type="sub"><lem>polttopilkkuun. Äitillä ovat</lem></app>
                 <hi rend="expanded">silmälasit</hi>
-                <app id="var6285" type="sub">
-                    <lem>mykevästä</lem>
-                </app> lasista, <app id="var6286" type="sub">
-                    <lem>kun</lem>
-                </app> hän ei näe selvästi <app id="var6287" type="sub">
-                    <lem>likeltä. Kouruilla lasilla nähdään kaikkia pienempänä</lem>
-                </app> kuin <app id="var6288" type="sub">
-                    <lem>ovatkaan;</lem>
-                </app> sellaisia <app id="var6289" type="sub">
-                    <lem>silmälasia</lem>
-                </app> pitää lukkari, joka on <app id="var6290" type="int">
-                    <lem>likinäköinen</lem>
-                </app> eikä <app id="var6291" type="sub">
-                    <lem>näe hyvästi pitkälle matkalle.</lem>
-                </app> Ja jos <app id="var6292" type="sub">
-                    <lem>sovitan</lem>
-                </app> useita <app id="var6293" type="sub">
-                    <lem>mykeviä lasia kohtalaisesti</lem>
-                </app> pitkään putkeen, niin <app id="var6294" type="sub">
-                    <lem>saan</lem>
-                </app> siitä <app id="var6295" type="sub">
-                    <lem><hi rend="expanded">kiikarin,</hi></lem>
-                </app> joka samalla näyttää <app id="var6296" type="sub">
-                    <lem>isontavan edessä olevat</lem>
-                </app> kappaleet ja tuovan ne <app id="var6297" type="sub">
-                    <lem>likemmä.</lem>
-                </app></p>
-            <p style="romanType"><app id="var6298" type="sub">
-                    <lem>Joka kerran</lem>
-                </app> kun seison auringon paisteessa <app id="var6299" type="sub">
-                    <lem>eli</lem>
-                </app> is<pb type="orig" n="179"/>tun <app id="var6300" type="sub">
-                    <lem>valkean lekolla,</lem>
-                </app> tunnen auringon ja tulen samalla paistavan ja <app id="var6301" type="sub">
-                    <lem>lämmittävän.</lem>
-                </app> Ajattelen silloin usein itsekseni: <app id="var6302" type="sub">
-                    <lem>kuka tiesi, jos ei</lem>
-                </app>
-                <hi rend="expanded">valo</hi> ja <app id="var6303" type="sub">
-                    <lem><hi rend="expanded">lämmin</hi> ole juuri</lem>
-                </app> samaa, joka <app id="var6304" type="sub">
-                    <lem>ilmestyy</lem>
-                </app> kahdella eri tavalla? <app id="var6305" type="sub">
-                    <lem>Toisella kerralla</lem>
-                </app> olen nähnyt <app id="var6306" type="sub">
-                    <lem>valon lämpimättä,</lem>
-                </app> niinkuin <app id="var6307" type="sub">
-                    <lem>kiiltomadon, ja lämpimän valotta,</lem>
-                </app> niinkuin kylmää naulaa <app id="var6308" type="sub">
-                    <lem>takoessa,</lem>
-                </app> siksi <app id="var6309" type="sub">
-                    <lem>että</lem>
-                </app> se tulee aivan kuumaksi. Silloin olen ajatellut: <app id="var6310" type="sub">
-                    <lem>ihmeellisiä</lem>
-                </app> ovat luonnon voimat!</p>
-            <p style="romanType">Olen havainnut lämpimäin <app id="var6311" type="sub">
-                    <lem>kappaletten</lem>
-                </app> antavan <app id="var6312" type="sub">
-                    <lem>lämmintänsä</lem>
-                </app> kylmille kappaleille; mutta silloin <app id="var6313" type="sub">
-                    <lem>menettävät lämpimät</lem>
-                </app> kappaleet <app id="var6314" type="sub">
-                    <lem>lämpimäänsä.</lem>
-                </app> Jos <app id="var6315" type="sub">
-                    <lem>tartun talvella rauta-lukkoon, tunnenpa, kuinka</lem>
-                </app> se viepi <app id="var6316" type="sub">
-                    <lem>lämmintä</lem>
-                </app> kädestäni. <app id="var6317" type="sub">
-                    <lem>Olenpa</lem>
-                </app> havainnut muutamain <app id="var6318" type="sub">
-                    <lem>kappaletten pikemmin kuin toisten</lem>
-                </app> tulevan kylmiksi <app id="var6319" type="sub">
-                    <lem>eli lämpimiksi.</lem>
-                </app> Saatan pitää <app id="var6320" type="sub">
-                    <lem>hiiltä hyppisissäni</lem>
-                </app> vaikka sen toinen pää <app id="var6321" type="sub">
-                    <lem>on tulinen.</lem>
-                </app> Mutta jos kiehutan vettä rautapannussa ja tartun käsin sen <app id="var6322" type="sub">
-                    <lem>rautaseen</lem>
-                </app> varteen, niin <app id="var6323" type="sub">
-                    <lem>se polttaa.</lem>
-                </app> Jos pannussa on puinen varsi, tohdin siihen kyllä tarttua. Siitä
-                tiedän raudan ja <app id="var6324" type="sub">
-                    <lem>kaikkein metallein</lem>
-                </app> olevan hyviä <app id="var6325" type="sub">
-                    <lem><hi rend="expanded">lämpimänjohdattajia,</hi></lem>
-                </app> mutta puun, kiven, villan, ilman, veden ja muiden <app id="var6326" type="sub">
-                    <lem>kappaletten johdattavan hitaammasti lämmintä läpitsensä.
-                        Siksi</lem>
-                </app> rakennetaan huoneita puusta <app id="var6327" type="sub">
-                    <lem>eli</lem>
-                </app> kivestä. Sillä jos niitä rakennettaisiin raudasta, niin olisivat ne
-                    <app id="var6328" type="sub">
-                    <lem>tukalaksi asti</lem>
-                </app> lämpimät kesällä ja hirveän <app id="var6329" type="sub">
-                    <lem>kylmiä</lem>
-                </app> talvella. <app id="var6330" type="sub">
-                    <lem>Siksi</lem>
-                </app> pidämmekin <app id="var6331" type="sub">
-                    <lem>mieluisimmasti villa-vaatteita,</lem>
-                </app> jotka eivät päästä <app id="var6332" type="sub">
-                    <lem>lämmintä ulos ja</lem>
-                </app> kylmää <app id="var6333" type="sub">
-                    <lem>sisälle. Siksi</lem>
-                </app> on <app id="var6334" type="sub">
-                    <lem>Jumalaki vaatettanut monta eläintä turkkiin, joissa ovat karvat eli
-                        villa.</lem>
-                </app> Ja <app id="var6335" type="sub">
-                    <lem>siksi</lem>
-                </app> pidetään <app id="var6336" type="sub">
-                    <lem>kaksinkertaisia akkunoita talvella, sillä ruutuin</lem>
-                </app> välissä oleva ilma estää <app id="var6337" type="sub">
-                    <lem>tulemasta kylmän</lem>
-                </app> ulkoa <app id="var6338" type="sub">
-                    <lem>ja lämpimän sisäpuolelta.</lem>
-                </app></p>
-            <p style="romanType">Mitä <app id="var6339" type="sub">
-                    <lem>on siis lämmin?</lem>
-                </app> Niin, mitä se <app id="var6340" type="sub">
-                    <lem>itsessään</lem>
-                </app> on, sitä en <app id="var6341" type="sub">
-                    <lem>voi</lem>
-                </app> sinulle <app id="var6342" type="sub">
-                    <lem>sanoa.</lem>
-                </app>
+                
+                <app id="var6285" type="sub"><lem>mykevästä</lem></app> lasista, 
+                <app id="var6286" type="sub"><lem>kun</lem></app> hän ei näe selvästi 
+                <app id="var6287" type="sub"><lem>likeltä. Kouruilla lasilla nähdään kaikkia pienempänä</lem></app> kuin 
+                <app id="var6288" type="sub"><lem>ovatkaan;</lem></app> sellaisia 
+                <app id="var6289" type="sub"><lem>silmälasia</lem></app> pitää lukkari, joka on 
+                <app id="var6290" type="int"><lem>likinäköinen</lem></app> eikä 
+                <app id="var6291" type="sub"><lem>näe hyvästi pitkälle matkalle.</lem></app> Ja jos 
+                <app id="var6292" type="sub"><lem>sovitan</lem></app> useita 
+                <app id="var6293" type="sub"><lem>mykeviä lasia kohtalaisesti</lem></app> pitkään putkeen, niin 
+                <app id="var6294" type="sub"><lem>saan</lem></app> siitä 
+                <app id="var6295" type="sub"><lem><hi rend="expanded">kiikarin,</hi></lem></app> joka samalla näyttää 
+                <app id="var6296" type="sub"><lem>isontavan edessä olevat</lem></app> kappaleet ja tuovan ne 
+                <app id="var6297" type="sub"><lem>likemmä.</lem></app></p>
+            <p style="romanType">
+                <app id="var6298" type="sub"><lem>Joka kerran</lem></app> kun seison auringon paisteessa 
+                <app id="var6299" type="sub"><lem>eli</lem></app> is<pb type="orig" n="179"/>tun 
+                <app id="var6300" type="sub"><lem>valkean lekolla,</lem></app> tunnen auringon ja tulen samalla paistavan ja 
+                <app id="var6301" type="sub"><lem>lämmittävän.</lem></app> Ajattelen silloin usein itsekseni: 
+                <app id="var6302" type="sub"><lem>kuka tiesi, jos ei</lem></app>
+                <hi rend="expanded">valo</hi> ja 
+                <app id="var6303" type="sub"><lem><hi rend="expanded">lämmin</hi> ole juuri</lem></app> samaa, joka 
+                <app id="var6304" type="sub"><lem>ilmestyy</lem></app> kahdella eri tavalla? 
+                <app id="var6305" type="sub"><lem>Toisella kerralla</lem></app> olen nähnyt 
+                <app id="var6306" type="sub"><lem>valon lämpimättä,</lem></app> niinkuin 
+                <app id="var6307" type="sub"><lem>kiiltomadon, ja lämpimän valotta,</lem></app> niinkuin kylmää naulaa 
+                <app id="var6308" type="sub"><lem>takoessa,</lem></app> siksi 
+                <app id="var6309" type="sub"><lem>että</lem></app> se tulee aivan kuumaksi. Silloin olen ajatellut: 
+                <app id="var6310" type="sub"><lem>ihmeellisiä</lem></app> ovat luonnon voimat!</p>
+            <p style="romanType">Olen havainnut lämpimäin 
+                <app id="var6311" type="sub"><lem>kappaletten</lem></app> antavan 
+                <app id="var6312" type="sub"><lem>lämmintänsä</lem></app> kylmille kappaleille; mutta silloin 
+                <app id="var6313" type="sub"><lem>menettävät lämpimät</lem></app> kappaleet 
+                <app id="var6314" type="sub"><lem>lämpimäänsä.</lem></app> Jos 
+                <app id="var6315" type="sub"><lem>tartun talvella rauta-lukkoon, tunnenpa, kuinka</lem></app> se viepi 
+                <app id="var6316" type="sub"><lem>lämmintä</lem></app> kädestäni. 
+                <app id="var6317" type="sub"><lem>Olenpa</lem></app> havainnut muutamain 
+                <app id="var6318" type="sub"><lem>kappaletten pikemmin kuin toisten</lem></app> tulevan kylmiksi 
+                <app id="var6319" type="sub"><lem>eli lämpimiksi.</lem></app> Saatan pitää 
+                <app id="var6320" type="sub"><lem>hiiltä hyppisissäni</lem></app> vaikka sen toinen pää 
+                <app id="var6321" type="sub"><lem>on tulinen.</lem></app> Mutta jos kiehutan vettä rautapannussa ja tartun käsin sen 
+                <app id="var6322" type="sub"><lem>rautaseen</lem></app> varteen, niin 
+                <app id="var6323" type="sub"><lem>se polttaa.</lem></app> Jos pannussa on puinen varsi, tohdin siihen kyllä tarttua. Siitä
+                tiedän raudan ja 
+                <app id="var6324" type="sub"><lem>kaikkein metallein</lem></app> olevan hyviä 
+                <app id="var6325" type="sub"><lem><hi rend="expanded">lämpimänjohdattajia,</hi></lem></app> mutta puun, kiven, villan, ilman, veden ja muiden 
+                <app id="var6326" type="sub"><lem>kappaletten johdattavan hitaammasti lämmintä läpitsensä.
+                        Siksi</lem></app> rakennetaan huoneita puusta 
+                <app id="var6327" type="sub"><lem>eli</lem></app> kivestä. Sillä jos niitä rakennettaisiin raudasta, niin olisivat ne
+                    
+                <app id="var6328" type="sub"><lem>tukalaksi asti</lem></app> lämpimät kesällä ja hirveän 
+                <app id="var6329" type="sub"><lem>kylmiä</lem></app> talvella. 
+                <app id="var6330" type="sub"><lem>Siksi</lem></app> pidämmekin 
+                <app id="var6331" type="sub"><lem>mieluisimmasti villa-vaatteita,</lem></app> jotka eivät päästä 
+                <app id="var6332" type="sub"><lem>lämmintä ulos ja</lem></app> kylmää 
+                <app id="var6333" type="sub"><lem>sisälle. Siksi</lem></app> on 
+                <app id="var6334" type="sub"><lem>Jumalaki vaatettanut monta eläintä turkkiin, joissa ovat karvat eli
+                        villa.</lem></app> Ja 
+                <app id="var6335" type="sub"><lem>siksi</lem></app> pidetään 
+                <app id="var6336" type="sub"><lem>kaksinkertaisia akkunoita talvella, sillä ruutuin</lem></app> välissä oleva ilma estää 
+                <app id="var6337" type="sub"><lem>tulemasta kylmän</lem></app> ulkoa 
+                <app id="var6338" type="sub"><lem>ja lämpimän sisäpuolelta.</lem></app></p>
+            <p style="romanType">Mitä 
+                <app id="var6339" type="sub"><lem>on siis lämmin?</lem></app> Niin, mitä se 
+                <app id="var6340" type="sub"><lem>itsessään</lem></app> on, sitä en 
+                <app id="var6341" type="sub"><lem>voi</lem></app> sinulle 
+                <app id="var6342" type="sub"><lem>sanoa.</lem></app>
                 <hi rend="expanded">Lämpimäksi</hi>
-                <app id="var6343" type="sub">
-                    <lem>kutsumme</lem>
-                </app> sitä, <app id="var6344" type="sub">
-                    <lem>joka</lem>
-                </app> on yhtä <app id="var6345" type="sub">
-                    <lem>lämmin eli lämpimämpi</lem>
-                </app> kuin oma ruumiimme, ja <hi rend="expanded">kuumaksi</hi> sitä, <app id="var6346" type="sub">
-                    <lem>joka</lem>
-                </app> on <app id="var6347" type="sub">
-                    <lem>vielä paljoa lämpimämpi.</lem>
-                </app> Mutta <hi rend="expanded">kylmää</hi> on se, joka on omaa ruumistamme
-                    <app id="var6348" type="sub">
-                    <lem>kyl<pb type="orig" n="180"/>mempi. Se tulee usein
-                        harjaumisesta.</lem>
-                </app> Jos usein <app id="var6349" type="sub">
-                    <lem>lämmittelein</lem>
-                </app> valkean <app id="var6350" type="sub">
-                    <lem>lekolla, tulenpa</lem>
-                </app> viluisemmaksi ja <app id="var6351" type="int">
-                    <lem>aremmaksi,</lem>
-                </app> kuin ennen <app id="var6352" type="sub">
-                    <lem>olin. Ensin tultuani saunaan,</lem>
-                </app> on <app id="var6353" type="sub">
-                    <lem>minusta siinä</lem>
-                </app> hirmuisen kuuma, ja meressä <app id="var6354" type="sub">
-                    <lem>uidessani</lem>
-                </app> on <app id="var6355" type="sub">
-                    <lem>minusta ensin</lem>
-                </app> vesi hirveän kylmää. Mutta vähitellen <app id="var6356" type="sub">
-                    <lem>totun</lem>
-                </app> siihen. <app id="var6357" type="sub">
-                    <lem>Siitäpä käsitän kuumuuden</lem>
-                </app> ja <app id="var6358" type="sub">
-                    <lem>pakkasen olevan vaan vähä enemmän eli vähä vähemmän lämmintä.</lem>
-                </app></p>
-            <p style="romanType"><app id="var6359" type="sub">
-                    <lem>En</lem>
-                </app> kuitenkaan <app id="var6360" type="sub">
-                    <lem>siksi voi</lem>
-                </app> tottua kaikkeen kuumuuteen, <app id="var6361" type="sub">
-                    <lem>enkä</lem>
-                </app> kaikkeen kylmyyteenkään. Jos <app id="var6362" type="sub">
-                    <lem>kosken</lem>
-                </app> paljaalla <app id="var6363" type="sub">
-                    <lem>sormellani hiillokseen eli</lem>
-                </app> liekkiin <app id="var6364" type="sub">
-                    <lem>eli</lem>
-                </app> tuliseen rautaan, <app id="var6365" type="sub">
-                    <lem>saanpa rakon sormeeni,</lem>
-                </app> sillä nahka <app id="var6366" type="sub">
-                    <lem>turmeltuupi siinä. Silloin ei ole hyvä pistää sormeani</lem>
-                </app> kylmään veteen, sillä <app id="var6367" type="sub">
-                    <lem>siitä</lem>
-                </app> alkaa <app id="var6368" type="sub">
-                    <lem>sitä pahemmin</lem>
-                </app> pakottaa. Kuuma kuumaa ja kylmä kylmää <app id="var6369" type="int">
-                    <lem>vastaan.</lem>
-                </app> Jos heti <app id="var6370" type="sub">
-                    <lem>pidän sormeani kuumuudessa,</lem>
-                </app> niin <app id="var6371" type="sub">
-                    <lem>pääsen</lem>
-                </app> rakosta. Jos <app id="var6372" type="sub">
-                    <lem>olen</lem>
-                </app> hyvin <app id="var6373" type="sub">
-                    <lem>palavissani</lem>
-                </app> ja <app id="var6374" type="sub">
-                    <lem>juon</lem>
-                </app> kylmää vettä <app id="var6375" type="sub">
-                    <lem>eli jäähdyn</lem>
-                </app> ilmassa, niin <app id="var6376" type="sub">
-                    <lem>vilustun</lem>
-                </app> ja <app id="var6377" type="sub">
-                    <lem>siitä sairastun. Käteni, jalkani</lem>
-                </app> ja <app id="var6378" type="sub">
-                    <lem>poskeni saatan palelluttaa</lem>
-                </app> kylmänä <app id="var6379" type="sub">
-                    <lem>talvipäivänä,</lem>
-                </app> niin että ne jähmettyvät ja tulevat valkeiksi ja <app id="var6380" type="sub">
-                    <lem>turriksi.</lem>
-                </app> Jos niitä silloin <app id="var6381" type="sub">
-                    <lem>lämmitän valkealla,</lem>
-                </app> tulevat ne <app id="var6382" type="sub">
-                    <lem>heti kipeiksi,</lem>
-                </app> ja <app id="var6383" type="sub">
-                    <lem>niitä alkaa pakottaa.</lem>
-                </app> Näinpä kerran ukon kävelevän puujaloilla. Hän oli palelluttanut
-                jalkansa metsässä. Kotiin <app id="var6384" type="sub">
-                    <lem>tultua</lem>
-                </app> oli <app id="var6385" type="sub">
-                    <lem>hän lämmittänyt</lem>
-                </app> niitä <app id="var6386" type="sub">
-                    <lem>valkean paisteella,</lem>
-                </app> ja <app id="var6387" type="sub">
-                    <lem>nyt</lem>
-                </app> tulivat <app id="var6388" type="sub">
-                    <lem>kuoleman</lem>
-                </app> vihat <app id="var6389" type="sub">
-                    <lem>jalkoihin, niin että</lem>
-                </app> lääkärin täytyi sahata ne poikki. Mutta jos <app id="var6390" type="sub">
-                    <lem>hieron</lem>
-                </app> paleltunutta <app id="var6391" type="sub">
-                    <lem>kättä, jalkaa eli poskea hyvin</lem>
-                </app> lumella, niin tulevat ne viimein <app id="var6392" type="sub">
-                    <lem>hyviksi. Niin voidaan saada henki ihmisiinkin, jotka</lem>
-                </app> löydetään <app id="var6393" type="sub">
-                    <lem>pakkaisesta hengetöinnä metsässä eli maantiellä. Voipi</lem>
-                </app> niinkin <app id="var6394" type="sub">
-                    <lem>olla,</lem>
-                </app> että <app id="var6395" type="sub">
-                    <lem>ne</lem>
-                </app> ovat kokonaan <app id="var6396" type="sub">
-                    <lem>paleltuneet hengettömiksi. Samalla lailla saatetaan</lem>
-                </app> kuolla tulesta <app id="var6397" type="sub">
-                    <lem>eli</lem>
-                </app> kovasta kuumuudesta.</p>
-            <p style="romanType"><app id="var6398" type="sub">
-                    <lem>On se ihmeellistä nähdä</lem>
-                </app> kuinka kappale <app id="var6399" type="sub">
-                    <lem>isonee, kun sitä kuumennetaan,</lem>
-                </app> ja pienenee <app id="var6400" type="sub">
-                    <lem><hi rend="expanded">jäähdyttyänsä.</hi></lem>
-                </app> Jos <app id="var6401" type="sub">
-                    <lem>minulla</lem>
-                </app> on rautakanki, joka <app id="var6402" type="sub">
-                    <lem>sopii paraiksi</lem>
-                </app> reikään, ja <app id="var6403" type="sub">
-                    <lem>kuumennan tuliseksi kangin, eipä</lem>
-                </app> se <app id="var6404" type="sub">
-                    <lem>mahdukaan</lem>
-                </app> enää sa<pb type="orig" n="181"/>maan reikään, ennenkuin <app id="var6405" type="sub">
-                    <lem>on jäähtynyt kylmäksi. Miksikä</lem>
-                </app> kuumentaa seppä <app id="var6406" type="sub">
-                    <lem>kärrynrattaan selkärautaa,</lem>
-                </app> ennenkuin <app id="var6407" type="sub">
-                    <lem>panee</lem>
-                </app> sen <app id="var6408" type="sub">
-                    <lem>rattaan ympäri? Siksi</lem>
-                </app> että <app id="var6409" type="sub">
-                    <lem>selkärauta</lem>
-                </app> kuumana on <app id="var6410" type="sub">
-                    <lem>suurempi;</lem>
-                </app> mutta <app id="var6411" type="sub">
-                    <lem>jäähdyttyä</lem>
-                </app> kutistuu se <app id="var6412" type="sub">
-                    <lem>kokoon ja</lem>
-                </app> puristuu <app id="var6413" type="sub">
-                    <lem>lujempaan rattaan selkään. Miksikä</lem>
-                </app> nurkat <app id="var6414" type="sub">
-                    <lem>paukkuvat talvella? Siksi kuin</lem>
-                </app> seinähirret halkeilevat, <app id="var6415" type="sub">
-                    <lem>kuin</lem>
-                </app> on lämmin sisällä ja kylmä <app id="var6416" type="sub">
-                    <lem>ulkopuolella. Miksikä</lem>
-                </app> putoaa sormus <app id="var6417" type="sub">
-                    <lem>sormestani,</lem>
-                </app> kun <app id="var6418" type="sub">
-                    <lem>pistän sen</lem>
-                </app> kylmään veteen? <app id="var6419" type="sub">
-                    <lem>Siksi kun</lem>
-                </app> sormi kutistuu enemmän kuin sormus. <app id="var6420" type="sub">
-                    <lem>Miksikä kuohuu</lem>
-                </app> vesi <app id="var6421" type="sub">
-                    <lem>padassa, joka on sillä täytetty? Siksi kun</lem>
-                </app> vesi <app id="var6422" type="sub">
-                    <lem>paisuu lämpimästä enemmän kuin pata.</lem>
-                </app></p>
-            <p style="romanType"><app id="var6423" type="sub">
-                    <lem>Miksikä</lem>
-                </app> siis <app id="var6424" type="sub">
-                    <lem>pata</lem>
-                </app> kiehuu? <app id="var6425" type="sub">
-                    <lem>Siksi kun</lem>
-                </app> kuuma vesi padan pohjalla kevenee, nousee <app id="var6426" type="sub">
-                    <lem>ylöspäin pintaan</lem>
-                </app> ja <app id="var6427" type="sub">
-                    <lem>pakottaa</lem>
-                </app> muun veden pois <app id="var6428" type="sub">
-                    <lem>edestään. Siitä tulee liike padassa. Pohjassa oleva vesi</lem>
-                </app> tulee viimein niin kuumaksi, että se muuttuu <app id="var6429" type="sub">
-                    <lem>höyryiksi</lem>
-                </app> ja nousee poreina eli kuplina ylöspäin. Jos tämä höyry <app id="var6430" type="sub">
-                    <lem>lasketaan</lem>
-                </app> kylmän putken lävitse, niin jäähtyy se ja <app id="var6431" type="sub">
-                    <lem>tulee</lem>
-                </app> jälleen vedeksi; ja <app id="var6432" type="sub">
-                    <lem>niin tisleerataan</lem>
-                </app> juoksevia aineita. Ja <app id="var6433" type="sub">
-                    <lem>samalla lailla</lem>
-                </app> kuin lämmin vesi nousee ylöspäin padassa, <app id="var6434" type="sub">
-                    <lem>niin</lem>
-                </app> nousee lämmin ilmakin <app id="var6435" type="sub">
-                    <lem>ylöspäin huoneessa.</lem>
-                </app> Sen kyllä <app id="var6436" type="sub">
-                    <lem>tunnen</lem>
-                </app> saunan <app id="var6437" type="sub">
-                    <lem>lavalla.</lem>
-                </app></p>
-            <p style="romanType">Mutta vaikka kaikki muut kappaleet <app id="var6438" type="sub">
-                    <lem>kutistuvat pienemmiksi pakkasessa,</lem>
-                </app> niin <app id="var6439" type="sub">
-                    <lem>tekee vesi kokonaan toisin, sillä se</lem>
-                </app> paisuu <app id="var6440" type="sub">
-                    <lem>muuttuessaan jääksi.</lem>
-                </app> Jos <app id="var6441" type="sub">
-                    <lem>putelin täytän</lem>
-                </app> vedellä ja <app id="var6442" type="sub">
-                    <lem>panen</lem>
-                </app> sen pakkaseen, niin <app id="var6443" type="sub">
-                    <lem>särkyy putelli.</lem>
-                </app> Jos <app id="var6444" type="sub">
-                    <lem>reijän poraan</lem>
-                </app> kiveen, <app id="var6445" type="sub">
-                    <lem>täytän reijän</lem>
-                </app> vedellä ja <app id="var6446" type="sub">
-                    <lem>lyön</lem>
-                </app> tulpan sen suulle, niin kivi halkeaa, kun vesi <app id="var6447" type="sub">
-                    <lem>on talvella jäätynyt reijässä. Siksi</lem>
-                </app> on jää <app id="var6448" type="sub">
-                    <lem>keveämpi</lem>
-                </app> kuin vesi, ja pysyy veden <app id="var6449" type="sub">
-                    <lem>päällä.</lem>
-                </app> Jos jää painuisi pohjaan, niin ei se <app id="var6450" type="sub">
-                    <lem>sulaisi keväällä, ja ei yhtään elävää</lem>
-                </app> pysyisi <app id="var6451" type="sub">
-                    <lem>silloin hengissä vedessä.</lem>
-                </app></p>
-            <p style="romanType">Meillä oli tuvan <app id="var6452" type="sub">
-                    <lem>rinnalla</lem>
-                </app> kylmä kamari, jota ei <app id="var6453" type="sub">
-                    <lem>oltu lämmitetty kaukaan</lem>
-                </app> aikaan <app id="var6454" type="sub">
-                    <lem>talvella.</lem>
-                </app> Siinä oli <app id="var6455" type="sub">
-                    <lem>ilmasta tullut märkyys</lem>
-                </app> jäätynyt <app id="var6456" type="sub">
-                    <lem>jää-neuloiksi akkunalasissa.</lem>
-                </app> Kun <pb type="orig" n="182"/><app id="var6457" type="sub">
-                    <lem>teimme valkean</lem>
-                </app> takkaan, <app id="var6458" type="sub">
-                    <lem>havaitsin</lem>
-                </app> jään <app id="var6459" type="sub">
-                    <lem>alkavan sulaa akkunaruudussa valkean kohdalla.</lem>
-                </app> Mutta samalla <app id="var6460" type="sub">
-                    <lem>kertaa oli</lem>
-                </app> lattialla takan ja akkunan välillä niin kylmä, että maito jäätyi
-                kupissa, jonka <app id="var6461" type="sub">
-                    <lem>panin</lem>
-                </app> lattialle. <app id="var6462" type="sub">
-                    <lem>Miksi niin kävi? Siksi kun lämmin <hi rend="expanded">paistoi</hi></lem>
-                </app> tulesta <app id="var6463" type="sub">
-                    <lem>ja lämmitti ruudun,</lem>
-                </app> mutta <app id="var6464" type="sub">
-                    <lem>se valkean</lem>
-                </app> ja ruudun välillä oleva <app id="var6465" type="sub">
-                    <lem>ilma</lem>
-                </app> lämpeni <app id="var6466" type="sub">
-                    <lem>paljoa</lem>
-                </app> hitaammin.</p>
-            <p style="romanType"><app id="var6467" type="sub">
-                    <lem>Lämpimäin</lem>
-                </app> auringon <app id="var6468" type="sub">
-                    <lem>sädetten mennessä</lem>
-                </app> ilman <app id="var6469" type="sub">
-                    <lem>läpi</lem>
-                </app> ei ilma <app id="var6470" type="sub">
-                    <lem>ota</lem>
-                </app> niistä <app id="var6471" type="sub">
-                    <lem>paljo lämmintä,</lem>
-                </app> vaan maa <app id="var6472" type="sub">
-                    <lem>ottaa enimmän. Sitte</lem>
-                </app> lämmittää maa <app id="var6473" type="sub">
-                    <lem>ilmaa, joka on sitä likinnä,</lem>
-                </app> ja <app id="var6474" type="sub">
-                    <lem>siksi</lem>
-                </app> on ilma alhaalla maan pinnalla <app id="var6475" type="sub">
-                    <lem>lämpimämpi</lem>
-                </app> kuin <app id="var6476" type="sub">
-                    <lem>korkeammalla</lem>
-                </app> vuorilla. <app id="var6477" type="sub">
-                    <lem>Siksi</lem>
-                </app> puhaltaakin toisia tuulia <app id="var6478" type="sub">
-                    <lem>ylhäällä,</lem>
-                </app> ja <app id="var6479" type="sub">
-                    <lem>siltä se</lem>
-                </app> usein <app id="var6480" type="sub">
-                    <lem>näyttää,</lem>
-                </app> kuin pilvet kulkisivat <app id="var6481" type="sub">
-                    <lem>tuulta vastaan.</lem>
-                </app> Jos <app id="var6482" type="sub">
-                    <lem>nousen</lem>
-                </app> hyvin korkealle vuorelle, <app id="var6483" type="sub">
-                    <lem>tulenpa</lem>
-                </app> viimein <app id="var6484" type="sub">
-                    <lem>sellaiselle paikalle,</lem>
-                </app> jossa lumi ei enää <app id="var6485" type="sub">
-                    <lem>sula kesällä,</lem>
-                </app> ja sitä paikkaa <app id="var6486" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">lumirajaksi.</hi> Korkeammalla ei voi
-                        mitään kasveja</lem>
-                </app> menestyä; mutta <app id="var6487" type="sub">
-                    <lem>puista on koivu, joka</lem>
-                </app> kasvaa <app id="var6488" type="sub">
-                    <lem>likinnä lumirajaa.</lem>
-                </app> Keskellä <app id="var6489" type="sub">
-                    <lem>maata,</lem>
-                </app> jossa <app id="var6490" type="sub">
-                    <lem>on</lem>
-                </app> lämpimin, on <app id="var6491" type="sub">
-                    <lem>lumiraja korkealla ylhäällä;</lem>
-                </app> mutta kaikkein kylmimmissä paikoissa on se <app id="var6492" type="sub">
-                    <lem>juuri</lem>
-                </app> maan <app id="var6493" type="sub">
-                    <lem>pinnalla.</lem>
-                </app></p>
-            <p style="romanType">Oi Jumala, joka olet antanut silmillemme <app id="var6494" type="sub">
-                    <lem>valkeuden</lem>
-                </app> ja ruumiillemme <app id="var6495" type="sub">
-                    <lem>lämpimän,</lem>
-                </app> valaise sielummekin totuuden valolla, että mielemme <app id="var6496" type="sub">
-                    <lem>olisi lämpimästi halukas hyvään, jota maan päällä on!</lem>
-                </app> Olemme lukeneet pyhässä <app id="var6497" type="sub">
-                    <lem>sanassasi Jesuksen Kristuksen olevan totisen valkeuden,</lem>
-                </app> joka valaisee kaikki ihmiset. Anna meille siis armosi, ettemme
+                
+                <app id="var6343" type="sub"><lem>kutsumme</lem></app> sitä, 
+                <app id="var6344" type="sub"><lem>joka</lem></app> on yhtä 
+                <app id="var6345" type="sub"><lem>lämmin eli lämpimämpi</lem></app> kuin oma ruumiimme, ja <hi rend="expanded">kuumaksi</hi> sitä, 
+                <app id="var6346" type="sub"><lem>joka</lem></app> on 
+                <app id="var6347" type="sub"><lem>vielä paljoa lämpimämpi.</lem></app> Mutta <hi rend="expanded">kylmää</hi> on se, joka on omaa ruumistamme
+                    
+                <app id="var6348" type="sub"><lem>kyl<pb type="orig" n="180"/>mempi. Se tulee usein
+                        harjaumisesta.</lem></app> Jos usein 
+                <app id="var6349" type="sub"><lem>lämmittelein</lem></app> valkean 
+                <app id="var6350" type="sub"><lem>lekolla, tulenpa</lem></app> viluisemmaksi ja 
+                <app id="var6351" type="int"><lem>aremmaksi,</lem></app> kuin ennen 
+                <app id="var6352" type="sub"><lem>olin. Ensin tultuani saunaan,</lem></app> on 
+                <app id="var6353" type="sub"><lem>minusta siinä</lem></app> hirmuisen kuuma, ja meressä 
+                <app id="var6354" type="sub"><lem>uidessani</lem></app> on 
+                <app id="var6355" type="sub"><lem>minusta ensin</lem></app> vesi hirveän kylmää. Mutta vähitellen 
+                <app id="var6356" type="sub"><lem>totun</lem></app> siihen. 
+                <app id="var6357" type="sub"><lem>Siitäpä käsitän kuumuuden</lem></app> ja 
+                <app id="var6358" type="sub"><lem>pakkasen olevan vaan vähä enemmän eli vähä vähemmän lämmintä.</lem></app></p>
+            <p style="romanType">
+                <app id="var6359" type="sub"><lem>En</lem></app> kuitenkaan 
+                <app id="var6360" type="sub"><lem>siksi voi</lem></app> tottua kaikkeen kuumuuteen, 
+                <app id="var6361" type="sub"><lem>enkä</lem></app> kaikkeen kylmyyteenkään. Jos 
+                <app id="var6362" type="sub"><lem>kosken</lem></app> paljaalla 
+                <app id="var6363" type="sub"><lem>sormellani hiillokseen eli</lem></app> liekkiin 
+                <app id="var6364" type="sub"><lem>eli</lem></app> tuliseen rautaan, 
+                <app id="var6365" type="sub"><lem>saanpa rakon sormeeni,</lem></app> sillä nahka 
+                <app id="var6366" type="sub"><lem>turmeltuupi siinä. Silloin ei ole hyvä pistää sormeani</lem></app> kylmään veteen, sillä 
+                <app id="var6367" type="sub"><lem>siitä</lem></app> alkaa 
+                <app id="var6368" type="sub"><lem>sitä pahemmin</lem></app> pakottaa. Kuuma kuumaa ja kylmä kylmää 
+                <app id="var6369" type="int"><lem>vastaan.</lem></app> Jos heti 
+                <app id="var6370" type="sub"><lem>pidän sormeani kuumuudessa,</lem></app> niin 
+                <app id="var6371" type="sub"><lem>pääsen</lem></app> rakosta. Jos 
+                <app id="var6372" type="sub"><lem>olen</lem></app> hyvin 
+                <app id="var6373" type="sub"><lem>palavissani</lem></app> ja 
+                <app id="var6374" type="sub"><lem>juon</lem></app> kylmää vettä 
+                <app id="var6375" type="sub"><lem>eli jäähdyn</lem></app> ilmassa, niin 
+                <app id="var6376" type="sub"><lem>vilustun</lem></app> ja 
+                <app id="var6377" type="sub"><lem>siitä sairastun. Käteni, jalkani</lem></app> ja 
+                <app id="var6378" type="sub"><lem>poskeni saatan palelluttaa</lem></app> kylmänä 
+                <app id="var6379" type="sub"><lem>talvipäivänä,</lem></app> niin että ne jähmettyvät ja tulevat valkeiksi ja 
+                <app id="var6380" type="sub"><lem>turriksi.</lem></app> Jos niitä silloin 
+                <app id="var6381" type="sub"><lem>lämmitän valkealla,</lem></app> tulevat ne 
+                <app id="var6382" type="sub"><lem>heti kipeiksi,</lem></app> ja 
+                <app id="var6383" type="sub"><lem>niitä alkaa pakottaa.</lem></app> Näinpä kerran ukon kävelevän puujaloilla. Hän oli palelluttanut
+                jalkansa metsässä. Kotiin 
+                <app id="var6384" type="sub"><lem>tultua</lem></app> oli 
+                <app id="var6385" type="sub"><lem>hän lämmittänyt</lem></app> niitä 
+                <app id="var6386" type="sub"><lem>valkean paisteella,</lem></app> ja 
+                <app id="var6387" type="sub"><lem>nyt</lem></app> tulivat 
+                <app id="var6388" type="sub"><lem>kuoleman</lem></app> vihat 
+                <app id="var6389" type="sub"><lem>jalkoihin, niin että</lem></app> lääkärin täytyi sahata ne poikki. Mutta jos 
+                <app id="var6390" type="sub"><lem>hieron</lem></app> paleltunutta 
+                <app id="var6391" type="sub"><lem>kättä, jalkaa eli poskea hyvin</lem></app> lumella, niin tulevat ne viimein 
+                <app id="var6392" type="sub"><lem>hyviksi. Niin voidaan saada henki ihmisiinkin, jotka</lem></app> löydetään 
+                <app id="var6393" type="sub"><lem>pakkaisesta hengetöinnä metsässä eli maantiellä. Voipi</lem></app> niinkin 
+                <app id="var6394" type="sub"><lem>olla,</lem></app> että 
+                <app id="var6395" type="sub"><lem>ne</lem></app> ovat kokonaan 
+                <app id="var6396" type="sub"><lem>paleltuneet hengettömiksi. Samalla lailla saatetaan</lem></app> kuolla tulesta 
+                <app id="var6397" type="sub"><lem>eli</lem></app> kovasta kuumuudesta.</p>
+            <p style="romanType">
+                <app id="var6398" type="sub"><lem>On se ihmeellistä nähdä</lem></app> kuinka kappale 
+                <app id="var6399" type="sub"><lem>isonee, kun sitä kuumennetaan,</lem></app> ja pienenee 
+                <app id="var6400" type="sub"><lem><hi rend="expanded">jäähdyttyänsä.</hi></lem></app> Jos 
+                <app id="var6401" type="sub"><lem>minulla</lem></app> on rautakanki, joka 
+                <app id="var6402" type="sub"><lem>sopii paraiksi</lem></app> reikään, ja 
+                <app id="var6403" type="sub"><lem>kuumennan tuliseksi kangin, eipä</lem></app> se 
+                <app id="var6404" type="sub"><lem>mahdukaan</lem></app> enää sa<pb type="orig" n="181"/>maan reikään, ennenkuin 
+                <app id="var6405" type="sub"><lem>on jäähtynyt kylmäksi. Miksikä</lem></app> kuumentaa seppä 
+                <app id="var6406" type="sub"><lem>kärrynrattaan selkärautaa,</lem></app> ennenkuin 
+                <app id="var6407" type="sub"><lem>panee</lem></app> sen 
+                <app id="var6408" type="sub"><lem>rattaan ympäri? Siksi</lem></app> että 
+                <app id="var6409" type="sub"><lem>selkärauta</lem></app> kuumana on 
+                <app id="var6410" type="sub"><lem>suurempi;</lem></app> mutta 
+                <app id="var6411" type="sub"><lem>jäähdyttyä</lem></app> kutistuu se 
+                <app id="var6412" type="sub"><lem>kokoon ja</lem></app> puristuu 
+                <app id="var6413" type="sub"><lem>lujempaan rattaan selkään. Miksikä</lem></app> nurkat 
+                <app id="var6414" type="sub"><lem>paukkuvat talvella? Siksi kuin</lem></app> seinähirret halkeilevat, 
+                <app id="var6415" type="sub"><lem>kuin</lem></app> on lämmin sisällä ja kylmä 
+                <app id="var6416" type="sub"><lem>ulkopuolella. Miksikä</lem></app> putoaa sormus 
+                <app id="var6417" type="sub"><lem>sormestani,</lem></app> kun 
+                <app id="var6418" type="sub"><lem>pistän sen</lem></app> kylmään veteen? 
+                <app id="var6419" type="sub"><lem>Siksi kun</lem></app> sormi kutistuu enemmän kuin sormus. 
+                <app id="var6420" type="sub"><lem>Miksikä kuohuu</lem></app> vesi 
+                <app id="var6421" type="sub"><lem>padassa, joka on sillä täytetty? Siksi kun</lem></app> vesi 
+                <app id="var6422" type="sub"><lem>paisuu lämpimästä enemmän kuin pata.</lem></app></p>
+            <p style="romanType">
+                <app id="var6423" type="sub"><lem>Miksikä</lem></app> siis 
+                <app id="var6424" type="sub"><lem>pata</lem></app> kiehuu? 
+                <app id="var6425" type="sub"><lem>Siksi kun</lem></app> kuuma vesi padan pohjalla kevenee, nousee 
+                <app id="var6426" type="sub"><lem>ylöspäin pintaan</lem></app> ja 
+                <app id="var6427" type="sub"><lem>pakottaa</lem></app> muun veden pois 
+                <app id="var6428" type="sub"><lem>edestään. Siitä tulee liike padassa. Pohjassa oleva vesi</lem></app> tulee viimein niin kuumaksi, että se muuttuu 
+                <app id="var6429" type="sub"><lem>höyryiksi</lem></app> ja nousee poreina eli kuplina ylöspäin. Jos tämä höyry 
+                <app id="var6430" type="sub"><lem>lasketaan</lem></app> kylmän putken lävitse, niin jäähtyy se ja 
+                <app id="var6431" type="sub"><lem>tulee</lem></app> jälleen vedeksi; ja 
+                <app id="var6432" type="sub"><lem>niin tisleerataan</lem></app> juoksevia aineita. Ja 
+                <app id="var6433" type="sub"><lem>samalla lailla</lem></app> kuin lämmin vesi nousee ylöspäin padassa, 
+                <app id="var6434" type="sub"><lem>niin</lem></app> nousee lämmin ilmakin 
+                <app id="var6435" type="sub"><lem>ylöspäin huoneessa.</lem></app> Sen kyllä 
+                <app id="var6436" type="sub"><lem>tunnen</lem></app> saunan 
+                <app id="var6437" type="sub"><lem>lavalla.</lem></app></p>
+            <p style="romanType">Mutta vaikka kaikki muut kappaleet 
+                <app id="var6438" type="sub"><lem>kutistuvat pienemmiksi pakkasessa,</lem></app> niin 
+                <app id="var6439" type="sub"><lem>tekee vesi kokonaan toisin, sillä se</lem></app> paisuu 
+                <app id="var6440" type="sub"><lem>muuttuessaan jääksi.</lem></app> Jos 
+                <app id="var6441" type="sub"><lem>putelin täytän</lem></app> vedellä ja 
+                <app id="var6442" type="sub"><lem>panen</lem></app> sen pakkaseen, niin 
+                <app id="var6443" type="sub"><lem>särkyy putelli.</lem></app> Jos 
+                <app id="var6444" type="sub"><lem>reijän poraan</lem></app> kiveen, 
+                <app id="var6445" type="sub"><lem>täytän reijän</lem></app> vedellä ja 
+                <app id="var6446" type="sub"><lem>lyön</lem></app> tulpan sen suulle, niin kivi halkeaa, kun vesi 
+                <app id="var6447" type="sub"><lem>on talvella jäätynyt reijässä. Siksi</lem></app> on jää 
+                <app id="var6448" type="sub"><lem>keveämpi</lem></app> kuin vesi, ja pysyy veden 
+                <app id="var6449" type="sub"><lem>päällä.</lem></app> Jos jää painuisi pohjaan, niin ei se 
+                <app id="var6450" type="sub"><lem>sulaisi keväällä, ja ei yhtään elävää</lem></app> pysyisi 
+                <app id="var6451" type="sub"><lem>silloin hengissä vedessä.</lem></app></p>
+            <p style="romanType">Meillä oli tuvan 
+                <app id="var6452" type="sub"><lem>rinnalla</lem></app> kylmä kamari, jota ei 
+                <app id="var6453" type="sub"><lem>oltu lämmitetty kaukaan</lem></app> aikaan 
+                <app id="var6454" type="sub"><lem>talvella.</lem></app> Siinä oli 
+                <app id="var6455" type="sub"><lem>ilmasta tullut märkyys</lem></app> jäätynyt 
+                <app id="var6456" type="sub"><lem>jää-neuloiksi akkunalasissa.</lem></app> Kun <pb type="orig" n="182"/>
+                <app id="var6457" type="sub"><lem>teimme valkean</lem></app> takkaan, 
+                <app id="var6458" type="sub"><lem>havaitsin</lem></app> jään 
+                <app id="var6459" type="sub"><lem>alkavan sulaa akkunaruudussa valkean kohdalla.</lem></app> Mutta samalla 
+                <app id="var6460" type="sub"><lem>kertaa oli</lem></app> lattialla takan ja akkunan välillä niin kylmä, että maito jäätyi
+                kupissa, jonka 
+                <app id="var6461" type="sub"><lem>panin</lem></app> lattialle. 
+                <app id="var6462" type="sub"><lem>Miksi niin kävi? Siksi kun lämmin <hi rend="expanded">paistoi</hi></lem></app> tulesta 
+                <app id="var6463" type="sub"><lem>ja lämmitti ruudun,</lem></app> mutta 
+                <app id="var6464" type="sub"><lem>se valkean</lem></app> ja ruudun välillä oleva 
+                <app id="var6465" type="sub"><lem>ilma</lem></app> lämpeni 
+                <app id="var6466" type="sub"><lem>paljoa</lem></app> hitaammin.</p>
+            <p style="romanType">
+                <app id="var6467" type="sub"><lem>Lämpimäin</lem></app> auringon 
+                <app id="var6468" type="sub"><lem>sädetten mennessä</lem></app> ilman 
+                <app id="var6469" type="sub"><lem>läpi</lem></app> ei ilma 
+                <app id="var6470" type="sub"><lem>ota</lem></app> niistä 
+                <app id="var6471" type="sub"><lem>paljo lämmintä,</lem></app> vaan maa 
+                <app id="var6472" type="sub"><lem>ottaa enimmän. Sitte</lem></app> lämmittää maa 
+                <app id="var6473" type="sub"><lem>ilmaa, joka on sitä likinnä,</lem></app> ja 
+                <app id="var6474" type="sub"><lem>siksi</lem></app> on ilma alhaalla maan pinnalla 
+                <app id="var6475" type="sub"><lem>lämpimämpi</lem></app> kuin 
+                <app id="var6476" type="sub"><lem>korkeammalla</lem></app> vuorilla. 
+                <app id="var6477" type="sub"><lem>Siksi</lem></app> puhaltaakin toisia tuulia 
+                <app id="var6478" type="sub"><lem>ylhäällä,</lem></app> ja 
+                <app id="var6479" type="sub"><lem>siltä se</lem></app> usein 
+                <app id="var6480" type="sub"><lem>näyttää,</lem></app> kuin pilvet kulkisivat 
+                <app id="var6481" type="sub"><lem>tuulta vastaan.</lem></app> Jos 
+                <app id="var6482" type="sub"><lem>nousen</lem></app> hyvin korkealle vuorelle, 
+                <app id="var6483" type="sub"><lem>tulenpa</lem></app> viimein 
+                <app id="var6484" type="sub"><lem>sellaiselle paikalle,</lem></app> jossa lumi ei enää 
+                <app id="var6485" type="sub"><lem>sula kesällä,</lem></app> ja sitä paikkaa 
+                <app id="var6486" type="sub"><lem>kutsutaan <hi rend="expanded">lumirajaksi.</hi> Korkeammalla ei voi
+                        mitään kasveja</lem></app> menestyä; mutta 
+                <app id="var6487" type="sub"><lem>puista on koivu, joka</lem></app> kasvaa 
+                <app id="var6488" type="sub"><lem>likinnä lumirajaa.</lem></app> Keskellä 
+                <app id="var6489" type="sub"><lem>maata,</lem></app> jossa 
+                <app id="var6490" type="sub"><lem>on</lem></app> lämpimin, on 
+                <app id="var6491" type="sub"><lem>lumiraja korkealla ylhäällä;</lem></app> mutta kaikkein kylmimmissä paikoissa on se 
+                <app id="var6492" type="sub"><lem>juuri</lem></app> maan 
+                <app id="var6493" type="sub"><lem>pinnalla.</lem></app></p>
+            <p style="romanType">Oi Jumala, joka olet antanut silmillemme 
+                <app id="var6494" type="sub"><lem>valkeuden</lem></app> ja ruumiillemme 
+                <app id="var6495" type="sub"><lem>lämpimän,</lem></app> valaise sielummekin totuuden valolla, että mielemme 
+                <app id="var6496" type="sub"><lem>olisi lämpimästi halukas hyvään, jota maan päällä on!</lem></app> Olemme lukeneet pyhässä 
+                <app id="var6497" type="sub"><lem>sanassasi Jesuksen Kristuksen olevan totisen valkeuden,</lem></app> joka valaisee kaikki ihmiset. Anna meille siis armosi, ettemme
                 koskaan erkanisi Vapahtajastamme synnin teille; sillä siellä on pimeys ja
                 kylmyys, ja siellä sielumme paleltuu kuoleman varjossa. Mutta sinun tykönäsi
-                on armo ja <app id="var6498" type="sub">
-                    <lem>ijankaikkinen</lem>
-                </app> kirkkaus, ja <app id="var6499" type="sub">
-                    <lem>valkeudessasi</lem>
-                </app> on meillä valkeus.</p>
+                on armo ja 
+                <app id="var6498" type="sub"><lem>ijankaikkinen</lem></app> kirkkaus, ja 
+                <app id="var6499" type="sub"><lem>valkeudessasi</lem></app> on meillä valkeus.</p>
             <head style="romanType"><hi rend="bold">Magneetista ja kompassista.</hi></head>
-            <p style="romanType"><app id="var6500" type="sub">
-                    <lem>Näjinpä</lem>
-                </app> kerran <app id="var6501" type="sub">
-                    <lem>teräspalaisen,</lem>
-                </app> joka oli <app id="var6502" type="sub">
-                    <lem>hevoisen</lem>
-                </app> kengän <app id="var6503" type="sub">
-                    <lem>mukainen,</lem>
-                </app> ja sen <app id="var6504" type="sub">
-                    <lem>pienemmässä haarassa</lem>
-                </app> riippui <app id="var6505" type="sub">
-                    <lem>rauta<pb type="orig" n="183"/>kappale kiini,</lem>
-                </app> eikä näkynyt mitään, joka olisi sitä siinä <app id="var6506" type="sub">
-                    <lem>pitänyt.</lem>
-                </app> Miten se <app id="var6507" type="sub">
-                    <lem>voi käydä laatuun?</lem>
-                </app> Sen sanon <app id="var6508" type="sub">
-                    <lem>sinulle. Muutamalla</lem>
-                </app> rauta- <app id="var6509" type="sub">
-                    <lem>eli teräs-lajilla</lem>
-                </app> on <app id="var6510" type="sub">
-                    <lem>kummallinen luonto</lem>
-                </app> vetää toista rautaa <app id="var6511" type="sub">
-                    <lem>itseensä kiini</lem>
-                </app> ja pitää sitä <app id="var6512" type="sub">
-                    <lem>siinä. Sellainen rauta eli teräs on <hi rend="expanded">magneeti,</hi></lem>
-                </app> ja <app id="var6513" type="sub">
-                    <lem>isoon magneetiin saatan</lem>
-                </app> panna <app id="var6514" type="sub">
-                    <lem>useita leivisköitä painoa riippumaan.</lem>
-                </app> Jos <app id="var6515" type="sub">
-                    <lem>tahdon</lem>
-                </app> tehdä <app id="var6516" type="sub">
-                    <lem>leikki-kalun tästä,</lem>
-                </app> niin <app id="var6517" type="sub">
-                    <lem>leikkaan</lem>
-                </app> korkista <app id="var6518" type="sub">
-                    <lem>kalanmoisen kappaleen, pistän siihen pienen teräskipeneen</lem>
-                </app> ja <app id="var6519" type="sub">
-                    <lem>annan tämän uida vesikupissa.</lem>
-                </app> Jos <app id="var6520" type="sub">
-                    <lem>minulla</lem>
-                </app> on <app id="var6521" type="sub">
-                    <lem>nyt pieni</lem>
-                </app> ongenmuotoinen <app id="var6522" type="sub">
-                    <lem>magneeti,</lem>
-                </app> ja <app id="var6523" type="sub">
-                    <lem>pidän</lem>
-                </app> tätä vähän matkan päässä korkkikalasta, niin <app id="var6524" type="sub">
-                    <lem>näen kuinka kala uipi</lem>
-                </app> ongen perässä, <app id="var6525" type="sub">
-                    <lem>vein</lem>
-                </app> sitä <app id="var6526" type="sub">
-                    <lem>vaikka mihin.</lem>
-                </app></p>
+            <p style="romanType">
+                <app id="var6500" type="sub"><lem>Näjinpä</lem></app> kerran 
+                <app id="var6501" type="sub"><lem>teräspalaisen,</lem></app> joka oli 
+                <app id="var6502" type="sub"><lem>hevoisen</lem></app> kengän 
+                <app id="var6503" type="sub"><lem>mukainen,</lem></app> ja sen 
+                <app id="var6504" type="sub"><lem>pienemmässä haarassa</lem></app> riippui 
+                <app id="var6505" type="sub"><lem>rauta<pb type="orig" n="183"/>kappale kiini,</lem></app> eikä näkynyt mitään, joka olisi sitä siinä 
+                <app id="var6506" type="sub"><lem>pitänyt.</lem></app> Miten se 
+                <app id="var6507" type="sub"><lem>voi käydä laatuun?</lem></app> Sen sanon 
+                <app id="var6508" type="sub"><lem>sinulle. Muutamalla</lem></app> rauta- 
+                <app id="var6509" type="sub"><lem>eli teräs-lajilla</lem></app> on 
+                <app id="var6510" type="sub"><lem>kummallinen luonto</lem></app> vetää toista rautaa 
+                <app id="var6511" type="sub"><lem>itseensä kiini</lem></app> ja pitää sitä 
+                <app id="var6512" type="sub"><lem>siinä. Sellainen rauta eli teräs on <hi rend="expanded">magneeti,</hi></lem></app> ja 
+                <app id="var6513" type="sub"><lem>isoon magneetiin saatan</lem></app> panna 
+                <app id="var6514" type="sub"><lem>useita leivisköitä painoa riippumaan.</lem></app> Jos 
+                <app id="var6515" type="sub"><lem>tahdon</lem></app> tehdä 
+                <app id="var6516" type="sub"><lem>leikki-kalun tästä,</lem></app> niin 
+                <app id="var6517" type="sub"><lem>leikkaan</lem></app> korkista 
+                <app id="var6518" type="sub"><lem>kalanmoisen kappaleen, pistän siihen pienen teräskipeneen</lem></app> ja 
+                <app id="var6519" type="sub"><lem>annan tämän uida vesikupissa.</lem></app> Jos 
+                <app id="var6520" type="sub"><lem>minulla</lem></app> on 
+                <app id="var6521" type="sub"><lem>nyt pieni</lem></app> ongenmuotoinen 
+                <app id="var6522" type="sub"><lem>magneeti,</lem></app> ja 
+                <app id="var6523" type="sub"><lem>pidän</lem></app> tätä vähän matkan päässä korkkikalasta, niin 
+                <app id="var6524" type="sub"><lem>näen kuinka kala uipi</lem></app> ongen perässä, 
+                <app id="var6525" type="sub"><lem>vein</lem></app> sitä 
+                <app id="var6526" type="sub"><lem>vaikka mihin.</lem></app></p>
             <p style="romanType">Saatanpa tehdä magneetilliseksi
                 esim. teräsneuloja, joissa ei ennestään ole magneetia, niin että hivutan
                 niitä magneetiin. Jos minulla on sellainen magneeti-neula ja panen sen kiini
@@ -1043,259 +568,139 @@
                 näy. Mutta nyt on paljoa vakavampi laskea kompassin jälkeen. Sillä jos
                 kerran tiedän missä pohjoinen on, tiedänpä sitte muutkin ilmain
                     suunnat.</p>
-            <p style="romanType">Mikä vetää siis <app id="var6527" type="sub">
-                    <lem>magneetineulan</lem>
-                </app> kärkeä pohjoista kohti? <app id="var6528" type="sub">
-                    <lem>Se on</lem>
-                </app> maassa oleva salainen voima; mutta <app id="var6529" type="sub">
-                    <lem>joka kerralla,</lem>
-                </app> kun neula tulee <app id="var6530" type="sub">
-                    <lem>rautaa liki, kääntyy</lem>
-                </app> se <app id="var6531" type="sub">
-                    <lem>tämän puoleen, ja pyörii levotoinna</lem>
-                </app> sinne <app id="var6532" type="sub">
-                    <lem>ja tänne.</lem>
-                </app> Ja mitä se salainen voima on, jota <app id="var6533" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">magneeti-voimaksi,</hi></lem>
-                </app> sitä ei <app id="var6534" type="sub">
-                    <lem>voi kukaan oikein selittää.</lem>
-                </app> Se on <app id="var6535" type="sub">
-                    <lem>kuuluva niihin näkymättömiin mailman voimiin, joita</lem>
-                </app> jo olemme <app id="var6536" type="sub">
-                    <lem>tulleet</lem>
-                </app> tuntemaan <app id="var6537" type="sub">
-                    <lem>sähkönä eli liekkeenä, valona</lem>
-                </app> ja <app id="var6538" type="sub">
-                    <lem>lämminnä.</lem>
-                </app></p>
+            <p style="romanType">Mikä vetää siis 
+                <app id="var6527" type="sub"><lem>magneetineulan</lem></app> kärkeä pohjoista kohti? 
+                <app id="var6528" type="sub"><lem>Se on</lem></app> maassa oleva salainen voima; mutta 
+                <app id="var6529" type="sub"><lem>joka kerralla,</lem></app> kun neula tulee 
+                <app id="var6530" type="sub"><lem>rautaa liki, kääntyy</lem></app> se 
+                <app id="var6531" type="sub"><lem>tämän puoleen, ja pyörii levotoinna</lem></app> sinne 
+                <app id="var6532" type="sub"><lem>ja tänne.</lem></app> Ja mitä se salainen voima on, jota 
+                <app id="var6533" type="sub"><lem>kutsutaan <hi rend="expanded">magneeti-voimaksi,</hi></lem></app> sitä ei 
+                <app id="var6534" type="sub"><lem>voi kukaan oikein selittää.</lem></app> Se on 
+                <app id="var6535" type="sub"><lem>kuuluva niihin näkymättömiin mailman voimiin, joita</lem></app> jo olemme 
+                <app id="var6536" type="sub"><lem>tulleet</lem></app> tuntemaan 
+                <app id="var6537" type="sub"><lem>sähkönä eli liekkeenä, valona</lem></app> ja 
+                <app id="var6538" type="sub"><lem>lämminnä.</lem></app></p>
             <head style="romanType"><hi rend="bold">Revontulista.</hi></head>
-            <p style="romanType"><app id="var6539" type="sub">
-                    <lem>Syys- eli talvi-illalla, kun on kylmä,</lem>
-                </app> näemme <app id="var6540" type="sub">
-                    <lem>taivaan vaalenevan pohjoisessa leimuavasta valosta,</lem>
-                </app> joka alinomaa <app id="var6541" type="sub">
-                    <lem>muuttuu. Välistä leimahtelee</lem>
-                </app> se säteinä, <app id="var6542" type="sub">
-                    <lem>välistä</lem>
-                </app> palaa se <app id="var6543" type="sub">
-                    <lem>suurina</lem>
-                </app> kaarina; <app id="var6544" type="sub">
-                    <lem>välistä</lem>
-                </app> on <app id="var6545" type="sub">
-                    <lem>se valkeana, välistä vaalian punaisena, ja</lem>
-                </app> sen <app id="var6546" type="sub">
-                    <lem>luulisi sähisevän.</lem>
-                </app> Sitä <app id="var6547" type="sub">
-                    <lem>kutsu<pb type="orig" n="184"/>taan</lem>
-                </app>
-                <hi rend="expanded">revontuliksi,</hi> ja <app id="var6548" type="sub">
-                    <lem>tämä</lem>
-                </app> on <app id="var6549" type="sub">
-                    <lem>kaunista</lem>
-                </app> ja <app id="var6550" type="sub">
-                    <lem>juhlallista katsoa.</lem>
-                </app> Mutta mitä se on, sitä ei <app id="var6551" type="sub">
-                    <lem>voida oikein tietää.</lem>
-                </app> Sen luullaan olevan <app id="var6552" type="sub">
-                    <lem>sähkö- eli lieke-valoa,</lem>
-                </app> joka <app id="var6553" type="sub">
-                    <lem>loistaa</lem>
-                </app> korkealla ilmassa. Ja revontulien palaessa tulee <app id="var6554" type="sub">
-                    <lem>aina magneeti-neula</lem>
-                </app> levottomaksi.</p>
-            <head style="romanType"><hi rend="bold">Kiikarista eli </hi><app id="var6555" type="sub">
-                    <lem><hi rend="bold">pitkäsilmästä.</hi></lem>
-                </app></head>
-            <p style="romanType"><app id="var6556" type="sub">
-                    <lem>Suurennuslasilla näen</lem>
-                </app> pienimmätkin kappaleet <app id="var6557" type="sub">
-                    <lem>paljoa suurempina,</lem>
-                </app> kuin ne <app id="var6558" type="sub">
-                    <lem>oikeastaan</lem>
-                </app> ovatkaan. <app id="var6559" type="sub">
-                    <lem>Sillä katsoen</lem>
-                </app> on kirppu rotan kokoinen, ja <app id="var6560" type="sub">
-                    <lem>vesiherneessä näen</lem>
-                </app> mahdottoman <app id="var6561" type="sub">
-                    <lem>paljo</lem>
-                </app> pieniä <app id="var6562" type="sub">
-                    <lem>eläviä,</lem>
-                </app> joita <app id="var6563" type="sub">
-                    <lem>en voi</lem>
-                </app> ollenkaan <app id="var6564" type="sub">
-                    <lem>nähdä paljailla silmillä.</lem>
-                </app> Kiikarilla <app id="var6565" type="sub">
-                    <lem>näen kaukana olevat</lem>
-                </app> kappaleet <app id="var6566" type="sub">
-                    <lem>likempänä. Rannalla seisoessani näen</lem>
-                </app> pienen mustan <app id="var6567" type="sub">
-                    <lem>pilkun tuolla ulkona</lem>
-                </app> merellä, <app id="var6568" type="sub">
-                    <lem>ja</lem>
-                </app> jos <app id="var6569" type="sub">
-                    <lem>ojennan</lem>
-                </app> kiikarin <app id="var6570" type="sub">
-                    <lem>pilkkua</lem>
-                </app> kohti, niin <app id="var6571" type="sub">
-                    <lem>näen</lem>
-                </app> sen <app id="var6572" type="sub">
-                    <lem>olevan veneen eli laivan eli suuren kiven.</lem>
-                </app> Kaukana maantiellä <app id="var6573" type="sub">
-                    <lem>näen</lem>
-                </app> jotakin liikkuvan; <app id="var6574" type="sub">
-                    <lem>otanpa kiikarin ja näen</lem>
-                </app> selvästi pojan <app id="var6575" type="sub">
-                    <lem>ratsastavan, eli tyttöisen</lem>
-                </app> ajavan lehmiä laitumelle. <app id="var6576" type="sub">
-                    <lem>Toisella kerralla otan</lem>
-                </app> suuren kiikarin ja <app id="var6577" type="sub">
-                    <lem>ojennan</lem>
-                </app> sen illalla kuuta <app id="var6578" type="sub">
-                    <lem>kohti. Kuupa</lem>
-                </app> näyttää <app id="var6579" type="sub">
-                    <lem>kummalliselta</lem>
-                </app> ja <app id="var6580" type="sub">
-                    <lem>vaunun-rattaan</lem>
-                </app> kokoiselta. <app id="var6581" type="sub">
-                    <lem>Eli</lem>
-                </app> jos <app id="var6582" type="sub">
-                    <lem>katson sillä tähtejä, näenpä</lem>
-                </app> monta tähteä, joita <app id="var6583" type="sub">
-                    <lem>en</lem>
-                </app> ennen <app id="var6584" type="sub">
-                    <lem>paljain</lem>
-                </app> silmin nähnyt.</p>
+            <p style="romanType">
+                <app id="var6539" type="sub"><lem>Syys- eli talvi-illalla, kun on kylmä,</lem></app> näemme 
+                <app id="var6540" type="sub"><lem>taivaan vaalenevan pohjoisessa leimuavasta valosta,</lem></app> joka alinomaa 
+                <app id="var6541" type="sub"><lem>muuttuu. Välistä leimahtelee</lem></app> se säteinä, 
+                <app id="var6542" type="sub"><lem>välistä</lem></app> palaa se 
+                <app id="var6543" type="sub"><lem>suurina</lem></app> kaarina; 
+                <app id="var6544" type="sub"><lem>välistä</lem></app> on 
+                <app id="var6545" type="sub"><lem>se valkeana, välistä vaalian punaisena, ja</lem></app> sen 
+                <app id="var6546" type="sub"><lem>luulisi sähisevän.</lem></app> Sitä 
+                <app id="var6547" type="sub"><lem>kutsu<pb type="orig" n="184"/>taan</lem></app>
+                <hi rend="expanded">revontuliksi,</hi> ja 
+                <app id="var6548" type="sub"><lem>tämä</lem></app> on 
+                <app id="var6549" type="sub"><lem>kaunista</lem></app> ja 
+                <app id="var6550" type="sub"><lem>juhlallista katsoa.</lem></app> Mutta mitä se on, sitä ei 
+                <app id="var6551" type="sub"><lem>voida oikein tietää.</lem></app> Sen luullaan olevan 
+                <app id="var6552" type="sub"><lem>sähkö- eli lieke-valoa,</lem></app> joka 
+                <app id="var6553" type="sub"><lem>loistaa</lem></app> korkealla ilmassa. Ja revontulien palaessa tulee 
+                <app id="var6554" type="sub"><lem>aina magneeti-neula</lem></app> levottomaksi.</p>
+            <head style="romanType"><hi rend="bold">Kiikarista eli </hi>
+                <app id="var6555" type="sub"><lem><hi rend="bold">pitkäsilmästä.</hi></lem></app></head>
+            <p style="romanType">
+                <app id="var6556" type="sub"><lem>Suurennuslasilla näen</lem></app> pienimmätkin kappaleet 
+                <app id="var6557" type="sub"><lem>paljoa suurempina,</lem></app> kuin ne 
+                <app id="var6558" type="sub"><lem>oikeastaan</lem></app> ovatkaan. 
+                <app id="var6559" type="sub"><lem>Sillä katsoen</lem></app> on kirppu rotan kokoinen, ja 
+                <app id="var6560" type="sub"><lem>vesiherneessä näen</lem></app> mahdottoman 
+                <app id="var6561" type="sub"><lem>paljo</lem></app> pieniä 
+                <app id="var6562" type="sub"><lem>eläviä,</lem></app> joita 
+                <app id="var6563" type="sub"><lem>en voi</lem></app> ollenkaan 
+                <app id="var6564" type="sub"><lem>nähdä paljailla silmillä.</lem></app> Kiikarilla 
+                <app id="var6565" type="sub"><lem>näen kaukana olevat</lem></app> kappaleet 
+                <app id="var6566" type="sub"><lem>likempänä. Rannalla seisoessani näen</lem></app> pienen mustan 
+                <app id="var6567" type="sub"><lem>pilkun tuolla ulkona</lem></app> merellä, 
+                <app id="var6568" type="sub"><lem>ja</lem></app> jos 
+                <app id="var6569" type="sub"><lem>ojennan</lem></app> kiikarin 
+                <app id="var6570" type="sub"><lem>pilkkua</lem></app> kohti, niin 
+                <app id="var6571" type="sub"><lem>näen</lem></app> sen 
+                <app id="var6572" type="sub"><lem>olevan veneen eli laivan eli suuren kiven.</lem></app> Kaukana maantiellä 
+                <app id="var6573" type="sub"><lem>näen</lem></app> jotakin liikkuvan; 
+                <app id="var6574" type="sub"><lem>otanpa kiikarin ja näen</lem></app> selvästi pojan 
+                <app id="var6575" type="sub"><lem>ratsastavan, eli tyttöisen</lem></app> ajavan lehmiä laitumelle. 
+                <app id="var6576" type="sub"><lem>Toisella kerralla otan</lem></app> suuren kiikarin ja 
+                <app id="var6577" type="sub"><lem>ojennan</lem></app> sen illalla kuuta 
+                <app id="var6578" type="sub"><lem>kohti. Kuupa</lem></app> näyttää 
+                <app id="var6579" type="sub"><lem>kummalliselta</lem></app> ja 
+                <app id="var6580" type="sub"><lem>vaunun-rattaan</lem></app> kokoiselta. 
+                <app id="var6581" type="sub"><lem>Eli</lem></app> jos 
+                <app id="var6582" type="sub"><lem>katson sillä tähtejä, näenpä</lem></app> monta tähteä, joita 
+                <app id="var6583" type="sub"><lem>en</lem></app> ennen 
+                <app id="var6584" type="sub"><lem>paljain</lem></app> silmin nähnyt.</p>
             <head style="romanType"><anchor id="struct204a"/><hi rend="bold">Lämpö-mittarista.</hi><anchor id="struct204b"/></head>
-            <p style="romanType">Usein tahdon <app id="var6585" type="sub">
-                    <lem>tietää vissiin,</lem>
-                </app> kuinka lämmin on huoneessa ja ulkona. <app id="var6586" type="sub">
-                    <lem>Siihen</lem>
-                </app> on minulla <app id="var6587" type="sub">
-                    <lem>kone,</lem>
-                </app> jota <app id="var6588" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">lämpömittariksi,</hi></lem>
-                </app> ja jonka näet <app id="var6589" type="sub">
-                    <lem>tässä kirjan laidassa</lem>
-                </app> kuvattuna. Se on <app id="var6590" type="sub">
-                    <lem>oikein viisaasti tehtynä. Ensiksi on koneniekka pannut
-                        elo-hopeaa</lem>
-                </app> pieneen <app id="var6591" type="sub">
-                    <lem>tukittuun lasipilliin,</lem>
-                </app> jonka alapäässä on onsi <app id="var6592" type="sub">
-                    <lem>palli.</lem>
-                </app> Hän tietää <app id="var6593" type="sub">
-                    <lem>elo-hopean</lem>
-                </app> ja muiden <app id="var6594" type="sub">
-                    <lem>ainetten</lem>
-                </app> paisuvan lämpimässä ja kutistuvan <app id="var6595" type="sub">
-                    <lem>pakkaisessa.</lem>
-                </app> Hän <app id="var6596" type="sub">
-                    <lem>panee lasipillin messinki-levyyn</lem>
-                </app> ja <app id="var6597" type="sub">
-                    <lem>pistää kaikki</lem>
-                </app> sulavaan lumeen. <app id="var6598" type="sub">
-                    <lem>Elo-hopea</lem>
-                </app> kutistuu kokoon <app id="var6599" type="sub">
-                    <lem>pillissä. No</lem>
-                </app> hyvä, sanoo <app id="var6600" type="sub">
-                    <lem>koneniekka, piirränpä pykälän messinkilevyyn</lem>
-                </app> pillissä olevan <app id="var6601" type="sub">
-                    <lem>elo-hopean tasalle,</lem>
-                </app> ja sen <app id="var6602" type="sub">
-                    <lem>merkin</lem>
-                </app> nimitän <app id="var6603" type="sub">
-                    <lem><hi rend="expanded">jäätö-pykäläksi,</hi></lem>
-                </app> sillä niin kylmä <app id="var6604" type="sub">
-                    <lem>silloin on, kun vesi jäätyy. Siihen viivaan</lem>
-                </app> piirtää hän <app id="var6605" type="sub">
-                    <lem>0. Sitte hän lasipillin</lem>
-                </app> panee <app id="var6606" type="sub">
-                    <lem>kiehuvaan</lem>
-                </app> veteen. Elohopea <app id="var6607" type="sub">
-                    <lem>paisuu</lem>
-                </app> ja nousee <app id="var6608" type="sub">
-                    <lem>lasipillissä.</lem>
-                </app> Hyvä, sanoo <app id="var6609" type="sub">
-                    <lem>koneniekka;</lem>
-                </app> piirränpä tuohon <app id="var6610" type="sub">
-                    <lem>samallaisen pykälän,</lem>
-                </app> ja sen ni<pb type="orig" n="185"/>mitän <app id="var6611" type="sub">
-                    <lem><hi rend="expanded">kiehuma-pykäläksi.</hi> Sitte</lem>
-                </app> jakaa hän levyn <app id="var6612" type="sub">
-                    <lem>jäätöpykälän</lem>
-                </app> ja <app id="var6613" type="sub">
-                    <lem>kiehuma-pykälän</lem>
-                </app> välillä <app id="var6614" type="sub">
-                    <lem>100 yhtä-isoon</lem>
-                </app> osaan. Näitä <app id="var6615" type="sub">
-                    <lem>kutsuu</lem>
-                </app> hän <app id="var6616" type="sub">
-                    <lem><hi rend="expanded">pykälöiksi</hi></lem>
-                </app> ja merkitsee ne numeroilla. <app id="var6617" type="sub">
-                    <lem>Jäätöpykälän alle</lem>
-                </app> tekee hän <app id="var6618" type="sub">
-                    <lem>myös</lem>
-                </app> yhtä <app id="var6619" type="sub">
-                    <lem>isoja osia.</lem>
-                </app> Kun <app id="var6620" type="sub">
-                    <lem>elo-hopea</lem>
-                </app> on ylempänä <app id="var6621" type="sub">
-                    <lem>jäätö-pykälää, niin lukee</lem>
-                </app> hän sen korkeuden messinkilevyssä olevain <app id="var6622" type="sub">
-                    <lem>osain jälkeen</lem>
-                </app> ja sanoo: nyt on niin ja niin <app id="var6623" type="sub">
-                    <lem>monen pykälän lämmin.</lem>
-                </app> Mutta jos <app id="var6624" type="sub">
-                    <lem>elo-hopea</lem>
-                </app> on <app id="var6625" type="sub">
-                    <lem>jäätöpykälän alla, niin hän sanoo:</lem>
-                </app> nyt on niin ja niin <app id="var6626" type="sub">
-                    <lem>monen pykälän pakkanen. Ja alemma</lem>
-                </app> 40 <app id="var6627" type="sub">
-                    <lem>pykälää</lem>
-                </app> ei <app id="var6628" type="sub">
-                    <lem>voi elo-hopea laskeuda,</lem>
-                </app> sillä silloin <app id="var6629" type="sub">
-                    <lem>jäätyy se kovaksi.</lem>
-                </app></p>
+            <p style="romanType">Usein tahdon 
+                <app id="var6585" type="sub"><lem>tietää vissiin,</lem></app> kuinka lämmin on huoneessa ja ulkona. 
+                <app id="var6586" type="sub"><lem>Siihen</lem></app> on minulla 
+                <app id="var6587" type="sub"><lem>kone,</lem></app> jota 
+                <app id="var6588" type="sub"><lem>kutsutaan <hi rend="expanded">lämpömittariksi,</hi></lem></app> ja jonka näet 
+                <app id="var6589" type="sub"><lem>tässä kirjan laidassa</lem></app> kuvattuna. Se on 
+                <app id="var6590" type="sub"><lem>oikein viisaasti tehtynä. Ensiksi on koneniekka pannut
+                        elo-hopeaa</lem></app> pieneen 
+                <app id="var6591" type="sub"><lem>tukittuun lasipilliin,</lem></app> jonka alapäässä on onsi 
+                <app id="var6592" type="sub"><lem>palli.</lem></app> Hän tietää 
+                <app id="var6593" type="sub"><lem>elo-hopean</lem></app> ja muiden 
+                <app id="var6594" type="sub"><lem>ainetten</lem></app> paisuvan lämpimässä ja kutistuvan 
+                <app id="var6595" type="sub"><lem>pakkaisessa.</lem></app> Hän 
+                <app id="var6596" type="sub"><lem>panee lasipillin messinki-levyyn</lem></app> ja 
+                <app id="var6597" type="sub"><lem>pistää kaikki</lem></app> sulavaan lumeen. 
+                <app id="var6598" type="sub"><lem>Elo-hopea</lem></app> kutistuu kokoon 
+                <app id="var6599" type="sub"><lem>pillissä. No</lem></app> hyvä, sanoo 
+                <app id="var6600" type="sub"><lem>koneniekka, piirränpä pykälän messinkilevyyn</lem></app> pillissä olevan 
+                <app id="var6601" type="sub"><lem>elo-hopean tasalle,</lem></app> ja sen 
+                <app id="var6602" type="sub"><lem>merkin</lem></app> nimitän 
+                <app id="var6603" type="sub"><lem><hi rend="expanded">jäätö-pykäläksi,</hi></lem></app> sillä niin kylmä 
+                <app id="var6604" type="sub"><lem>silloin on, kun vesi jäätyy. Siihen viivaan</lem></app> piirtää hän 
+                <app id="var6605" type="sub"><lem>0. Sitte hän lasipillin</lem></app> panee 
+                <app id="var6606" type="sub"><lem>kiehuvaan</lem></app> veteen. Elohopea 
+                <app id="var6607" type="sub"><lem>paisuu</lem></app> ja nousee 
+                <app id="var6608" type="sub"><lem>lasipillissä.</lem></app> Hyvä, sanoo 
+                <app id="var6609" type="sub"><lem>koneniekka;</lem></app> piirränpä tuohon 
+                <app id="var6610" type="sub"><lem>samallaisen pykälän,</lem></app> ja sen ni<pb type="orig" n="185"/>mitän 
+                <app id="var6611" type="sub"><lem><hi rend="expanded">kiehuma-pykäläksi.</hi> Sitte</lem></app> jakaa hän levyn 
+                <app id="var6612" type="sub"><lem>jäätöpykälän</lem></app> ja 
+                <app id="var6613" type="sub"><lem>kiehuma-pykälän</lem></app> välillä 
+                <app id="var6614" type="sub"><lem>100 yhtä-isoon</lem></app> osaan. Näitä 
+                <app id="var6615" type="sub"><lem>kutsuu</lem></app> hän 
+                <app id="var6616" type="sub"><lem><hi rend="expanded">pykälöiksi</hi></lem></app> ja merkitsee ne numeroilla. 
+                <app id="var6617" type="sub"><lem>Jäätöpykälän alle</lem></app> tekee hän 
+                <app id="var6618" type="sub"><lem>myös</lem></app> yhtä 
+                <app id="var6619" type="sub"><lem>isoja osia.</lem></app> Kun 
+                <app id="var6620" type="sub"><lem>elo-hopea</lem></app> on ylempänä 
+                <app id="var6621" type="sub"><lem>jäätö-pykälää, niin lukee</lem></app> hän sen korkeuden messinkilevyssä olevain 
+                <app id="var6622" type="sub"><lem>osain jälkeen</lem></app> ja sanoo: nyt on niin ja niin 
+                <app id="var6623" type="sub"><lem>monen pykälän lämmin.</lem></app> Mutta jos 
+                <app id="var6624" type="sub"><lem>elo-hopea</lem></app> on 
+                <app id="var6625" type="sub"><lem>jäätöpykälän alla, niin hän sanoo:</lem></app> nyt on niin ja niin 
+                <app id="var6626" type="sub"><lem>monen pykälän pakkanen. Ja alemma</lem></app> 40 
+                <app id="var6627" type="sub"><lem>pykälää</lem></app> ei 
+                <app id="var6628" type="sub"><lem>voi elo-hopea laskeuda,</lem></app> sillä silloin 
+                <app id="var6629" type="sub"><lem>jäätyy se kovaksi.</lem></app></p>
             <figure type="illustration"/>
-            <p style="romanType"><app id="var6630" type="sub">
-                    <lem>Lämpömittarilla</lem>
-                </app> tiedämme <app id="var6631" type="sub">
-                    <lem>ruumiissamme</lem>
-                </app> olevan 37 <app id="var6632" type="sub">
-                    <lem>pykälän lämpimän.</lem>
-                </app> Kun ilma <app id="var6633" type="sub">
-                    <lem>tuntuu</lem>
-                </app> hyvin <app id="var6634" type="sub">
-                    <lem>kuumalta kesällä, näyttää</lem>
-                </app> lämpömittari 30 <app id="var6635" type="sub">
-                    <lem>pykälää</lem>
-                </app> varjossa. Harvoin on talvella 40 <app id="var6636" type="sub">
-                    <lem>pykälän pakkanen.</lem>
-                </app></p>
-            <p style="romanType">Ja jos jolloinkin kuulet <app id="var6637" type="sub">
-                    <lem>puhuttuvan</lem>
-                </app>
-                <hi rend="expanded">ilmapuntarista,</hi> niin <app id="var6638" type="sub">
-                    <lem>elä</lem>
-                </app> luule sen olevan saman kuin lämpömittarin. Ilmapuntari on <app id="var6639" type="sub">
-                    <lem>muullainen kone.</lem>
-                </app> Se on <app id="var6640" type="sub">
-                    <lem>laitettu niin,</lem>
-                </app> että ilma painaa <app id="var6641" type="sub">
-                    <lem>ylöspäin elo-hopeaa korkeammalle eli alemmalle lasiputkessa.</lem>
-                </app> Ja siitä ennustetaan sadetta <app id="var6642" type="sub">
-                    <lem>eli</lem>
-                </app> kaunista ilmaa, <app id="var6643" type="sub">
-                    <lem>kun raskas ja</lem>
-                </app> kostea <app id="var6644" type="sub">
-                    <lem>ilman</lem>
-                </app> painaa <app id="var6645" type="sub">
-                    <lem>enemmän</lem>
-                </app> kuin kuiva <app id="var6646" type="sub">
-                    <lem>ja keveä ilma.</lem>
-                </app></p>
+            <p style="romanType">
+                <app id="var6630" type="sub"><lem>Lämpömittarilla</lem></app> tiedämme 
+                <app id="var6631" type="sub"><lem>ruumiissamme</lem></app> olevan 37 
+                <app id="var6632" type="sub"><lem>pykälän lämpimän.</lem></app> Kun ilma 
+                <app id="var6633" type="sub"><lem>tuntuu</lem></app> hyvin 
+                <app id="var6634" type="sub"><lem>kuumalta kesällä, näyttää</lem></app> lämpömittari 30 
+                <app id="var6635" type="sub"><lem>pykälää</lem></app> varjossa. Harvoin on talvella 40 
+                <app id="var6636" type="sub"><lem>pykälän pakkanen.</lem></app></p>
+            <p style="romanType">Ja jos jolloinkin kuulet 
+                <app id="var6637" type="sub"><lem>puhuttuvan</lem></app>
+                <hi rend="expanded">ilmapuntarista,</hi> niin 
+                <app id="var6638" type="sub"><lem>elä</lem></app> luule sen olevan saman kuin lämpömittarin. Ilmapuntari on 
+                <app id="var6639" type="sub"><lem>muullainen kone.</lem></app> Se on 
+                <app id="var6640" type="sub"><lem>laitettu niin,</lem></app> että ilma painaa 
+                <app id="var6641" type="sub"><lem>ylöspäin elo-hopeaa korkeammalle eli alemmalle lasiputkessa.</lem></app> Ja siitä ennustetaan sadetta 
+                <app id="var6642" type="sub"><lem>eli</lem></app> kaunista ilmaa, 
+                <app id="var6643" type="sub"><lem>kun raskas ja</lem></app> kostea 
+                <app id="var6644" type="sub"><lem>ilman</lem></app> painaa 
+                <app id="var6645" type="sub"><lem>enemmän</lem></app> kuin kuiva 
+                <app id="var6646" type="sub"><lem>ja keveä ilma.</lem></app></p>
             <head style="romanType"><anchor id="struct206a"/><hi rend="bold"><hi rend="expanded"><choice>
                             <orig>Sunnuntai aamu</orig>
                             <reg>Sunnuntaiaamu</reg>

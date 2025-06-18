@@ -15,1204 +15,649 @@
 	<profileDesc><creation><idNo>10</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Kymmenes Luku. Vedestä</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
     <text>
         <body xml:space="preserve">
-            <head type="section" style="blackletter"><hi rend="bold">Kymmenes </hi><app id="var4509" type="sub">
-                    <lem><hi rend="bold">Luku.</hi></lem>
-                </app></head>
+            <head type="section" style="blackletter"><hi rend="bold">Kymmenes </hi>
+                <app id="var4509" type="sub"><lem><hi rend="bold">Luku.</hi></lem></app></head>
             <head type="section" style="blackletter"><hi rend="expanded">Vedestä.</hi></head>
-            <p style="blackletter">Kerran, kun myrsky pauhasi <app id="var4510" type="sub">
-                    <lem>kovasti, ja vesi hyökysi aaltoina,</lem>
-                </app> sanoi isä: <app id="var4511" type="sub">
-                    <lem>katso</lem>
-                </app> Jumalan voimaa! Elementit <app id="var4512" type="sub">
-                    <lem>(alku-aineet) pauhaavat.</lem>
-                </app></p>
-            <p style="blackletter">Antti sanoi: <app id="var4513" type="sub">
-                    <lem><hi rend="expanded">Elementit,</hi></lem>
-                </app> mitä <app id="var4514" type="sub">
-                    <lem>se on?</lem>
-                </app></p>
-            <p style="blackletter">Isä sanoi: <app id="var4515" type="sub">
-                    <lem>muutamat kappaleet maan päällä</lem>
-                </app> pysyvät lujemmasti <app id="var4516" type="sub">
-                    <lem>kiini toisissaan. Puun palasen eli</lem>
-                </app> kiven <app id="var4517" type="sub">
-                    <lem>saatan</lem>
-                </app> ottaa <app id="var4518" type="sub">
-                    <lem>käteeni</lem>
-                </app> ja <app id="var4519" type="sub">
-                    <lem>pitää kiini,</lem>
-                </app> ja sellaisia <app id="var4520" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">koviksi</hi></lem>
-                </app><hi rend="expanded"> aineiksi.</hi> Mutta vettä <app id="var4521" type="sub">
-                    <lem>en</lem>
-                </app> saata ottaa <app id="var4522" type="sub">
-                    <lem>käteeni</lem>
-                </app> ja <app id="var4523" type="sub">
-                    <lem>pitää sitä kiini,</lem>
-                </app> ja sellaisia <app id="var4524" type="sub">
-                    <lem>nesteitä eli märkiä aineita kutsutaan <hi rend="expanded">juokseviksi.</hi></lem>
-                </app> Sellaisia <app id="var4525" type="sub">
-                    <lem>saatan</lem>
-                </app> kuitenkin ottaa kauhaan <app id="var4526" type="sub">
-                    <lem>eli</lem>
-                </app> ämpäriin, <app id="var4527" type="sub">
-                    <lem>jolloin</lem>
-                </app> ne <app id="var4528" type="sub">
-                    <lem>kuitenkin pysyvät koossa.</lem>
-                </app> Mutta <app id="var4529" type="sub">
-                    <lem>niin ei</lem>
-                </app> voi pitää <app id="var4530" type="sub">
-                    <lem>koossa höyryä,</lem>
-                </app> joka kohoaa kiehuvasta <app id="var4531" type="sub">
-                    <lem>padasta eli</lem>
-                </app> häkää, jota tulee <app id="var4532" type="sub">
-                    <lem>kakeluunista eli ilmaa, joka tuulee.</lem>
-                </app> Sellaiset aineet ovat <app id="var4533" type="sub">
-                    <lem><hi rend="expanded">ilman-muotoisia.</hi></lem>
-                </app></p>
-            <p style="blackletter"><app id="var4534" type="sub">
-                    <lem>Muinais-aikoina</lem>
-                </app> ei tunnettu luonnon aineita niin tarkoin kuin nyt. <app id="var4535" type="sub">
-                    <lem>Siksi puhuttiin tavallisesti neljästä <hi rend="expanded">alku-aineesta,</hi></lem>
-                </app> joista <app id="var4536" type="sub">
-                    <lem>luultiin kaikkein saaneen</lem>
-                </app> alkunsa. Ja näitä <app id="var4537" type="sub">
-                    <lem>alku-aineita</lem>
-                </app> sanottiin <hi rend="expanded">elementeiksi.</hi>
-                <app id="var4538" type="sub">
-                    <lem>Ne neljä</lem>
-                </app> elementtiä <app id="var4539" type="sub">
-                    <lem>ovat:</lem>
-                </app> 1) <hi rend="expanded">maa,</hi> joka on <app id="var4540" type="sub">
-                    <lem>kovista aineista;</lem>
-                </app> 2) <hi rend="expanded">vesi,</hi> joka tavallisesti <app id="var4541" type="sub">
-                    <lem>on juoksevaa ainetta;</lem>
-                </app> 3) <hi rend="expanded">ilma,</hi> joka on <app id="var4542" type="sub">
-                    <lem><hi rend="expanded">ilman-muotoista</hi> ainetta,</lem>
-                </app> ja 4) <hi rend="expanded">tuli,</hi> joka ei ole <app id="var4543" type="sub">
-                    <lem>minkäänlaista</lem>
-                </app> ainetta, vaan toisten <app id="var4544" type="sub">
-                    <lem>ainetten hävitys.</lem>
-                </app></p>
-            <p style="blackletter"><app id="var4545" type="sub">
-                    <lem>Nyt menemme merelle. Katsotaanpa</lem>
-                </app> tarkemmin <hi rend="expanded">vettä.</hi><app id="var4546" type="sub">
-                    <lem> Nakkaan mereen puukappaleen. Miksi <pb type="orig" n="135"/>puukappale</lem>
-                </app> pysyy veden <app id="var4547" type="sub">
-                    <lem>päällä? Siksi</lem>
-                </app> että <app id="var4548" type="sub">
-                    <lem>on</lem>
-                </app> keveämpi <app id="var4549" type="sub">
-                    <lem>kuin vesi. Nakkaan</lem>
-                </app> kiven veteen. <app id="var4550" type="sub">
-                    <lem>Miksikä</lem>
-                </app> kivi uppoaa? <app id="var4551" type="sub">
-                    <lem>Siksi</lem>
-                </app> että se on vettä raskaampi. Tuolla <app id="var4552" type="sub">
-                    <lem>uipi vesi-lintu;</lem>
-                </app> tuolla soutaa poika <app id="var4553" type="sub">
-                    <lem>veneessä. Miksikä</lem>
-                </app> ne kulkevat eteenpäin veden <app id="var4554" type="sub">
-                    <lem>pinnalla. Siksi kun soutelevat</lem>
-                </app> vettä <app id="var4555" type="sub">
-                    <lem>takansa,</lem>
-                </app> vesilintu jaloillaan ja poika <app id="var4556" type="sub">
-                    <lem>airoillaan.</lem>
-                </app> Tuolla <app id="var4557" type="sub">
-                    <lem>käypi vesi-mylly.</lem>
-                </app> Mikä panee sen <app id="var4558" type="sub">
-                    <lem>rattaat</lem>
-                </app> liikkeelle? Vesi <app id="var4559" type="sub">
-                    <lem>töyttii</lem>
-                </app> alinomaa <app id="var4560" type="sub">
-                    <lem>rattaasen.</lem>
-                </app> Niin raskasta ja voimakasta on <app id="var4561" type="sub">
-                    <lem>juostessaan vesi. Kyllä</lem>
-                </app> se <app id="var4562" type="sub">
-                    <lem>on vielä voimakkaampaakin, niin</lem>
-                </app> että se murtaa rikki suuria laivoja ja <app id="var4563" type="sub">
-                    <lem>viepi muassaan suuria kallioita ja jää-telejä, kun se on tullut
-                        kovaan liikkeesen.</lem>
-                </app></p>
-            <p style="blackletter">Eilen, kun satoi, oli <app id="var4564" type="sub">
-                    <lem>kartano märkänä</lem>
-                </app> ja suuria <app id="var4565" type="sub">
-                    <lem>vesi-lammikoita</lem>
-                </app> oli <app id="var4566" type="sub">
-                    <lem>kokounut</lem>
-                </app> maantielle. Mutta <app id="var4567" type="sub">
-                    <lem>tänäpäivänä</lem>
-                </app> on <app id="var4568" type="sub">
-                    <lem>päivä-paiste,</lem>
-                </app> ja <app id="var4569" type="sub">
-                    <lem>kartano</lem>
-                </app> ja tie ovat taas kuivina. <app id="var4570" type="sub">
-                    <lem>Miksikä niin?</lem>
-                </app> Onko kaikki <app id="var4571" type="sub">
-                    <lem>sade-vesi</lem>
-                </app> juossut pois? Eilen panin <app id="var4572" type="sub">
-                    <lem>vesi-kupin lämpenemään takalle.</lem>
-                </app> Kun <app id="var4573" type="sub">
-                    <lem>tänäpäivänä rupesin silmiäni</lem>
-                </app> ja käsiäni pesemään, <app id="var4574" type="sub">
-                    <lem>olipa</lem>
-                </app> kuppi <app id="var4575" type="sub">
-                    <lem>tyhjänä. Miksi niin kävi?</lem>
-                </app> Ei suinkaan <app id="var4576" type="sub">
-                    <lem>ollut vesi</lem>
-                </app> saattanut juosta pois kupin <app id="var4577" type="sub">
-                    <lem>läpi.</lem>
-                </app> Ei, se oli <app id="var4578" type="sub">
-                    <lem><hi rend="expanded">höyrynnyt</hi></lem>
-                </app> pois ja <app id="var4579" type="sub">
-                    <lem>kohonnut näkymätöinä kaasuna ilmaan.</lem>
-                </app> Niin kävi <app id="var4580" type="sub">
-                    <lem>kartanollakin,</lem>
-                </app> ja niin kävi <app id="var4581" type="sub">
-                    <lem>vesikupissakin.</lem>
-                </app> Tiedän <app id="var4582" type="sub">
-                    <lem>paljo</lem>
-                </app> vettä olevan höyrynä ilmassa, varsinkin <app id="var4583" type="sub">
-                    <lem>lämpimällä.</lem>
-                </app> Nämä höyryt <app id="var4584" type="sub">
-                    <lem>jähtyvät</lem>
-                </app> ja <app id="var4585" type="sub">
-                    <lem>kokouvat sitte</lem>
-                </app>
+            <p style="blackletter">Kerran, kun myrsky pauhasi 
+                <app id="var4510" type="sub"><lem>kovasti, ja vesi hyökysi aaltoina,</lem></app> sanoi isä: 
+                <app id="var4511" type="sub"><lem>katso</lem></app> Jumalan voimaa! Elementit 
+                <app id="var4512" type="sub"><lem>(alku-aineet) pauhaavat.</lem></app></p>
+            <p style="blackletter">Antti sanoi: 
+                <app id="var4513" type="sub"><lem><hi rend="expanded">Elementit,</hi></lem></app> mitä 
+                <app id="var4514" type="sub"><lem>se on?</lem></app></p>
+            <p style="blackletter">Isä sanoi: 
+                <app id="var4515" type="sub"><lem>muutamat kappaleet maan päällä</lem></app> pysyvät lujemmasti 
+                <app id="var4516" type="sub"><lem>kiini toisissaan. Puun palasen eli</lem></app> kiven 
+                <app id="var4517" type="sub"><lem>saatan</lem></app> ottaa 
+                <app id="var4518" type="sub"><lem>käteeni</lem></app> ja 
+                <app id="var4519" type="sub"><lem>pitää kiini,</lem></app> ja sellaisia 
+                <app id="var4520" type="sub"><lem>kutsutaan <hi rend="expanded">koviksi</hi></lem></app><hi rend="expanded"> aineiksi.</hi> Mutta vettä 
+                <app id="var4521" type="sub"><lem>en</lem></app> saata ottaa 
+                <app id="var4522" type="sub"><lem>käteeni</lem></app> ja 
+                <app id="var4523" type="sub"><lem>pitää sitä kiini,</lem></app> ja sellaisia 
+                <app id="var4524" type="sub"><lem>nesteitä eli märkiä aineita kutsutaan <hi rend="expanded">juokseviksi.</hi></lem></app> Sellaisia 
+                <app id="var4525" type="sub"><lem>saatan</lem></app> kuitenkin ottaa kauhaan 
+                <app id="var4526" type="sub"><lem>eli</lem></app> ämpäriin, 
+                <app id="var4527" type="sub"><lem>jolloin</lem></app> ne 
+                <app id="var4528" type="sub"><lem>kuitenkin pysyvät koossa.</lem></app> Mutta 
+                <app id="var4529" type="sub"><lem>niin ei</lem></app> voi pitää 
+                <app id="var4530" type="sub"><lem>koossa höyryä,</lem></app> joka kohoaa kiehuvasta 
+                <app id="var4531" type="sub"><lem>padasta eli</lem></app> häkää, jota tulee 
+                <app id="var4532" type="sub"><lem>kakeluunista eli ilmaa, joka tuulee.</lem></app> Sellaiset aineet ovat 
+                <app id="var4533" type="sub"><lem><hi rend="expanded">ilman-muotoisia.</hi></lem></app></p>
+            <p style="blackletter">
+                <app id="var4534" type="sub"><lem>Muinais-aikoina</lem></app> ei tunnettu luonnon aineita niin tarkoin kuin nyt. 
+                <app id="var4535" type="sub"><lem>Siksi puhuttiin tavallisesti neljästä <hi rend="expanded">alku-aineesta,</hi></lem></app> joista 
+                <app id="var4536" type="sub"><lem>luultiin kaikkein saaneen</lem></app> alkunsa. Ja näitä 
+                <app id="var4537" type="sub"><lem>alku-aineita</lem></app> sanottiin <hi rend="expanded">elementeiksi.</hi>
+                
+                <app id="var4538" type="sub"><lem>Ne neljä</lem></app> elementtiä 
+                <app id="var4539" type="sub"><lem>ovat:</lem></app> 1) <hi rend="expanded">maa,</hi> joka on 
+                <app id="var4540" type="sub"><lem>kovista aineista;</lem></app> 2) <hi rend="expanded">vesi,</hi> joka tavallisesti 
+                <app id="var4541" type="sub"><lem>on juoksevaa ainetta;</lem></app> 3) <hi rend="expanded">ilma,</hi> joka on 
+                <app id="var4542" type="sub"><lem><hi rend="expanded">ilman-muotoista</hi> ainetta,</lem></app> ja 4) <hi rend="expanded">tuli,</hi> joka ei ole 
+                <app id="var4543" type="sub"><lem>minkäänlaista</lem></app> ainetta, vaan toisten 
+                <app id="var4544" type="sub"><lem>ainetten hävitys.</lem></app></p>
+            <p style="blackletter">
+                <app id="var4545" type="sub"><lem>Nyt menemme merelle. Katsotaanpa</lem></app> tarkemmin <hi rend="expanded">vettä.</hi>
+                <app id="var4546" type="sub"><lem> Nakkaan mereen puukappaleen. Miksi <pb type="orig" n="135"/>puukappale</lem></app> pysyy veden 
+                <app id="var4547" type="sub"><lem>päällä? Siksi</lem></app> että 
+                <app id="var4548" type="sub"><lem>on</lem></app> keveämpi 
+                <app id="var4549" type="sub"><lem>kuin vesi. Nakkaan</lem></app> kiven veteen. 
+                <app id="var4550" type="sub"><lem>Miksikä</lem></app> kivi uppoaa? 
+                <app id="var4551" type="sub"><lem>Siksi</lem></app> että se on vettä raskaampi. Tuolla 
+                <app id="var4552" type="sub"><lem>uipi vesi-lintu;</lem></app> tuolla soutaa poika 
+                <app id="var4553" type="sub"><lem>veneessä. Miksikä</lem></app> ne kulkevat eteenpäin veden 
+                <app id="var4554" type="sub"><lem>pinnalla. Siksi kun soutelevat</lem></app> vettä 
+                <app id="var4555" type="sub"><lem>takansa,</lem></app> vesilintu jaloillaan ja poika 
+                <app id="var4556" type="sub"><lem>airoillaan.</lem></app> Tuolla 
+                <app id="var4557" type="sub"><lem>käypi vesi-mylly.</lem></app> Mikä panee sen 
+                <app id="var4558" type="sub"><lem>rattaat</lem></app> liikkeelle? Vesi 
+                <app id="var4559" type="sub"><lem>töyttii</lem></app> alinomaa 
+                <app id="var4560" type="sub"><lem>rattaasen.</lem></app> Niin raskasta ja voimakasta on 
+                <app id="var4561" type="sub"><lem>juostessaan vesi. Kyllä</lem></app> se 
+                <app id="var4562" type="sub"><lem>on vielä voimakkaampaakin, niin</lem></app> että se murtaa rikki suuria laivoja ja 
+                <app id="var4563" type="sub"><lem>viepi muassaan suuria kallioita ja jää-telejä, kun se on tullut
+                        kovaan liikkeesen.</lem></app></p>
+            <p style="blackletter">Eilen, kun satoi, oli 
+                <app id="var4564" type="sub"><lem>kartano märkänä</lem></app> ja suuria 
+                <app id="var4565" type="sub"><lem>vesi-lammikoita</lem></app> oli 
+                <app id="var4566" type="sub"><lem>kokounut</lem></app> maantielle. Mutta 
+                <app id="var4567" type="sub"><lem>tänäpäivänä</lem></app> on 
+                <app id="var4568" type="sub"><lem>päivä-paiste,</lem></app> ja 
+                <app id="var4569" type="sub"><lem>kartano</lem></app> ja tie ovat taas kuivina. 
+                <app id="var4570" type="sub"><lem>Miksikä niin?</lem></app> Onko kaikki 
+                <app id="var4571" type="sub"><lem>sade-vesi</lem></app> juossut pois? Eilen panin 
+                <app id="var4572" type="sub"><lem>vesi-kupin lämpenemään takalle.</lem></app> Kun 
+                <app id="var4573" type="sub"><lem>tänäpäivänä rupesin silmiäni</lem></app> ja käsiäni pesemään, 
+                <app id="var4574" type="sub"><lem>olipa</lem></app> kuppi 
+                <app id="var4575" type="sub"><lem>tyhjänä. Miksi niin kävi?</lem></app> Ei suinkaan 
+                <app id="var4576" type="sub"><lem>ollut vesi</lem></app> saattanut juosta pois kupin 
+                <app id="var4577" type="sub"><lem>läpi.</lem></app> Ei, se oli 
+                <app id="var4578" type="sub"><lem><hi rend="expanded">höyrynnyt</hi></lem></app> pois ja 
+                <app id="var4579" type="sub"><lem>kohonnut näkymätöinä kaasuna ilmaan.</lem></app> Niin kävi 
+                <app id="var4580" type="sub"><lem>kartanollakin,</lem></app> ja niin kävi 
+                <app id="var4581" type="sub"><lem>vesikupissakin.</lem></app> Tiedän 
+                <app id="var4582" type="sub"><lem>paljo</lem></app> vettä olevan höyrynä ilmassa, varsinkin 
+                <app id="var4583" type="sub"><lem>lämpimällä.</lem></app> Nämä höyryt 
+                <app id="var4584" type="sub"><lem>jähtyvät</lem></app> ja 
+                <app id="var4585" type="sub"><lem>kokouvat sitte</lem></app>
                 <hi rend="expanded">pilviksi.</hi>
-                <app id="var4586" type="sub">
-                    <lem>Ilman vielä enemmän jähdyttyä sakeuvat höyryt</lem>
-                </app> pieniksi <app id="var4587" type="sub">
-                    <lem>vesiherneiksi</lem>
-                </app> ja <app id="var4588" type="sub">
-                    <lem>putoavat</lem>
-                </app>
-                <hi rend="expanded">sateena</hi> maahan. Ja koska kesällä yö on <app id="var4589" type="sub">
-                    <lem>koliampi</lem>
-                </app> päivää, <app id="var4590" type="sub">
-                    <lem>tivenevät vesi-höyryt jähtyneessä ilmassa</lem>
-                </app> ja <app id="var4591" type="sub">
-                    <lem>laskeuvat alas</lem>
-                </app> aivan <app id="var4592" type="sub">
-                    <lem>pienissä herneissä <hi rend="expanded">kasteeksi</hi></lem>
-                </app> ruohoon ja muihin <app id="var4593" type="sub">
-                    <lem>kappaleisin ulkona. Välistä ilman jähdyttyä märkäin paikkain</lem>
-                </app> ja vetten <app id="var4594" type="sub">
-                    <lem>kohdalla tivenevät</lem>
-                </app> höyryt <hi rend="expanded">sumuksi.</hi> Eilen <app id="var4595" type="sub">
-                    <lem>kävellessäni sumussa</lem>
-                </app> ajattelin itsekseni: kah, nytpä <app id="var4596" type="sub">
-                    <lem>olen</lem>
-                </app> pilvessä aivan maan pinnalla. <pb type="orig" n="136"/>Ja <app id="var4597" type="sub">
-                    <lem>vettä,</lem>
-                </app> joka <app id="var4598" type="sub">
-                    <lem>putoaa ilmasta, vetävät kasvut ja elävät sisäänsä:</lem>
-                </app> mutta <app id="var4599" type="sub">
-                    <lem>suurin</lem>
-                </app> osa <app id="var4600" type="sub">
-                    <lem>höyryää</lem>
-                </app> jälleen <app id="var4601" type="sub">
-                    <lem>pois</lem>
-                </app> ja <app id="var4602" type="sub">
-                    <lem>tulee</lem>
-                </app> sateeksi. Ja <app id="var4603" type="sub">
-                    <lem>kasvut</lem>
-                </app> ja <app id="var4604" type="sub">
-                    <lem>elävät</lem>
-                </app> ja <app id="var4605" type="sub">
-                    <lem>joet</lem>
-                </app> ja <app id="var4606" type="sub">
-                    <lem>järvet</lem>
-                </app> ja <app id="var4607" type="sub">
-                    <lem>meret höyryävät vettä jälleen ylös. Niin</lem>
-                </app> on <app id="var4608" type="sub">
-                    <lem>vedellä alinomainen kiertäminen</lem>
-                </app> maan <app id="var4609" type="sub">
-                    <lem>päällä,</lem>
-                </app> eikä <app id="var4610" type="sub">
-                    <lem>sitä ole</lem>
-                </app> vielä koskaan <app id="var4611" type="sub">
-                    <lem>nähty, että vesi sentähden olisi vähennyt,</lem>
-                </app> vaikka se <app id="var4612" type="sub">
-                    <lem>muutamissa paikoissa</lem>
-                </app> saattaa vähetä muista syistä.</p>
+                
+                <app id="var4586" type="sub"><lem>Ilman vielä enemmän jähdyttyä sakeuvat höyryt</lem></app> pieniksi 
+                <app id="var4587" type="sub"><lem>vesiherneiksi</lem></app> ja 
+                <app id="var4588" type="sub"><lem>putoavat</lem></app>
+                <hi rend="expanded">sateena</hi> maahan. Ja koska kesällä yö on 
+                <app id="var4589" type="sub"><lem>koliampi</lem></app> päivää, 
+                <app id="var4590" type="sub"><lem>tivenevät vesi-höyryt jähtyneessä ilmassa</lem></app> ja 
+                <app id="var4591" type="sub"><lem>laskeuvat alas</lem></app> aivan 
+                <app id="var4592" type="sub"><lem>pienissä herneissä <hi rend="expanded">kasteeksi</hi></lem></app> ruohoon ja muihin 
+                <app id="var4593" type="sub"><lem>kappaleisin ulkona. Välistä ilman jähdyttyä märkäin paikkain</lem></app> ja vetten 
+                <app id="var4594" type="sub"><lem>kohdalla tivenevät</lem></app> höyryt <hi rend="expanded">sumuksi.</hi> Eilen 
+                <app id="var4595" type="sub"><lem>kävellessäni sumussa</lem></app> ajattelin itsekseni: kah, nytpä 
+                <app id="var4596" type="sub"><lem>olen</lem></app> pilvessä aivan maan pinnalla. <pb type="orig" n="136"/>Ja 
+                <app id="var4597" type="sub"><lem>vettä,</lem></app> joka 
+                <app id="var4598" type="sub"><lem>putoaa ilmasta, vetävät kasvut ja elävät sisäänsä:</lem></app> mutta 
+                <app id="var4599" type="sub"><lem>suurin</lem></app> osa 
+                <app id="var4600" type="sub"><lem>höyryää</lem></app> jälleen 
+                <app id="var4601" type="sub"><lem>pois</lem></app> ja 
+                <app id="var4602" type="sub"><lem>tulee</lem></app> sateeksi. Ja 
+                <app id="var4603" type="sub"><lem>kasvut</lem></app> ja 
+                <app id="var4604" type="sub"><lem>elävät</lem></app> ja 
+                <app id="var4605" type="sub"><lem>joet</lem></app> ja 
+                <app id="var4606" type="sub"><lem>järvet</lem></app> ja 
+                <app id="var4607" type="sub"><lem>meret höyryävät vettä jälleen ylös. Niin</lem></app> on 
+                <app id="var4608" type="sub"><lem>vedellä alinomainen kiertäminen</lem></app> maan 
+                <app id="var4609" type="sub"><lem>päällä,</lem></app> eikä 
+                <app id="var4610" type="sub"><lem>sitä ole</lem></app> vielä koskaan 
+                <app id="var4611" type="sub"><lem>nähty, että vesi sentähden olisi vähennyt,</lem></app> vaikka se 
+                <app id="var4612" type="sub"><lem>muutamissa paikoissa</lem></app> saattaa vähetä muista syistä.</p>
             <p style="blackletter">Välistä tapahtuu kesällä, kun
                 pilvet satavat, että ilma niitä alempana on hyvin kylmä. Silloin jäätyvät
                 vesiherneet pudotessaan, ja tulevat <hi rend="expanded">jäärakeina</hi>
                 alas. Mutta jos ne jäätyvät pilvissä, putoavat ne <hi rend="expanded">lumena</hi> alas.</p>
-            <p style="blackletter"><app id="var4613" type="sub">
-                    <lem>Talvella hyytyy</lem>
-                </app> veden pinta kaikissa järvissä ja <app id="var4614" type="sub">
-                    <lem>jokiloissa</lem>
-                </app> täällä pohjoisessa <app id="var4615" type="sub">
-                    <lem><hi rend="expanded">jääksi,</hi></lem>
-                </app> mutta alimmainen vesi ei jäädy, sillä se vesi, joka on raskainta ja
+            <p style="blackletter">
+                <app id="var4613" type="sub"><lem>Talvella hyytyy</lem></app> veden pinta kaikissa järvissä ja 
+                <app id="var4614" type="sub"><lem>jokiloissa</lem></app> täällä pohjoisessa 
+                <app id="var4615" type="sub"><lem><hi rend="expanded">jääksi,</hi></lem></app> mutta alimmainen vesi ei jäädy, sillä se vesi, joka on raskainta ja
                 painuu pohjaan, on silloin vähän lämpimämpää. Talvella jäällä ajaessamme
-                sanoi isä: <app id="var4616" type="sub">
-                    <lem>tässä pitää varoa,</lem>
-                </app> tässä <app id="var4617" type="sub">
-                    <lem>käypi virta,</lem>
-                </app> ja jää on heikkoa. Sillä vesi, joka <app id="var4618" type="sub">
-                    <lem>juoksee sukkelammin koskissa</lem>
-                </app> ja <app id="var4619" type="sub">
-                    <lem>virroissa,</lem>
-                </app> ei <app id="var4620" type="sub">
-                    <lem>jäädy niin helposti,</lem>
-                </app> ja suolainen vesi meressä ei <app id="var4621" type="sub">
-                    <lem>tule</lem>
-                </app> niin pian <app id="var4622" type="sub">
-                    <lem>jääksi.</lem>
-                </app> Lämpimimmissä <app id="var4623" type="sub">
-                    <lem>maissa etelän puolella</lem>
-                </app> on harvoin <app id="var4624" type="sub">
-                    <lem>eli</lem>
-                </app> ei koskaan niin <app id="var4625" type="sub">
-                    <lem>kova pakkainen,</lem>
-                </app> että vesi <app id="var4626" type="sub">
-                    <lem>jäätyy.</lem>
-                </app> Ja ihmiset, jotka tulevat sieltä tänne pohjoiseen, eivät <app id="var4627" type="sub">
-                    <lem>voi</lem>
-                </app> kyllin <app id="var4628" type="int">
-                    <lem>ihmetellä</lem>
-                </app> nähdessään koko maan <app id="var4629" type="sub">
-                    <lem>olevan peitettynä lumella, juurikuin sokerilla,</lem>
-                </app> ja katsellessaan, kuinka täällä <app id="var4630" type="sub">
-                    <lem>kävellään</lem>
-                </app> ja ajetaan <app id="var4631" type="sub">
-                    <lem>järviä ja merta talvella, juuri kuin sileää valkeaa lattiaa.</lem>
-                </app></p>
-            <p style="blackletter">Oletko nähnyt, kuinka kauniina tähtinä <app id="var4632" type="sub">
-                    <lem>lumisipaleet</lem>
-                </app> tarttuvat <app id="var4633" type="sub">
-                    <lem>akkuna-ruutuun?</lem>
-                </app> Nämä pienet lumitähdet, <app id="var4634" type="sub">
-                    <lem>jotka</lem>
-                </app> näet <app id="var4635" type="sub">
-                    <lem>nyt tässä kirjassa kuvattuina,</lem>
-                </app> ovat <app id="var4636" type="sub">
-                    <lem>rakeita.</lem>
-                </app> Niitä <app id="var4637" type="sub">
-                    <lem>tulee</lem>
-                </app> veden jäätyessä, samalla lailla kuin <app id="var4638" type="sub">
-                    <lem>keittosuola</lem>
-                </app> ja muut aineet <app id="var4639" type="sub">
-                    <lem>laskeuvat</lem>
-                </app> astian pohjalle. Silloin sanotaan aineen muuttuvan juokse<pb type="orig" n="137"/>vasta <app id="var4640" type="sub">
-                    <lem>muodosta kovan muotoiseksi.</lem>
-                </app> Vedellä on se <app id="var4641" type="sub">
-                    <lem>kummallinen luonto,</lem>
-                </app> että se saattaa <app id="var4642" type="sub">
-                    <lem>olla kaiken muotoisena.</lem>
-                </app> Kun lumi ja jää sulaa, <choice>
+                sanoi isä: 
+                <app id="var4616" type="sub"><lem>tässä pitää varoa,</lem></app> tässä 
+                <app id="var4617" type="sub"><lem>käypi virta,</lem></app> ja jää on heikkoa. Sillä vesi, joka 
+                <app id="var4618" type="sub"><lem>juoksee sukkelammin koskissa</lem></app> ja 
+                <app id="var4619" type="sub"><lem>virroissa,</lem></app> ei 
+                <app id="var4620" type="sub"><lem>jäädy niin helposti,</lem></app> ja suolainen vesi meressä ei 
+                <app id="var4621" type="sub"><lem>tule</lem></app> niin pian 
+                <app id="var4622" type="sub"><lem>jääksi.</lem></app> Lämpimimmissä 
+                <app id="var4623" type="sub"><lem>maissa etelän puolella</lem></app> on harvoin 
+                <app id="var4624" type="sub"><lem>eli</lem></app> ei koskaan niin 
+                <app id="var4625" type="sub"><lem>kova pakkainen,</lem></app> että vesi 
+                <app id="var4626" type="sub"><lem>jäätyy.</lem></app> Ja ihmiset, jotka tulevat sieltä tänne pohjoiseen, eivät 
+                <app id="var4627" type="sub"><lem>voi</lem></app> kyllin 
+                <app id="var4628" type="int"><lem>ihmetellä</lem></app> nähdessään koko maan 
+                <app id="var4629" type="sub"><lem>olevan peitettynä lumella, juurikuin sokerilla,</lem></app> ja katsellessaan, kuinka täällä 
+                <app id="var4630" type="sub"><lem>kävellään</lem></app> ja ajetaan 
+                <app id="var4631" type="sub"><lem>järviä ja merta talvella, juuri kuin sileää valkeaa lattiaa.</lem></app></p>
+            <p style="blackletter">Oletko nähnyt, kuinka kauniina tähtinä 
+                <app id="var4632" type="sub"><lem>lumisipaleet</lem></app> tarttuvat 
+                <app id="var4633" type="sub"><lem>akkuna-ruutuun?</lem></app> Nämä pienet lumitähdet, 
+                <app id="var4634" type="sub"><lem>jotka</lem></app> näet 
+                <app id="var4635" type="sub"><lem>nyt tässä kirjassa kuvattuina,</lem></app> ovat 
+                <app id="var4636" type="sub"><lem>rakeita.</lem></app> Niitä 
+                <app id="var4637" type="sub"><lem>tulee</lem></app> veden jäätyessä, samalla lailla kuin 
+                <app id="var4638" type="sub"><lem>keittosuola</lem></app> ja muut aineet 
+                <app id="var4639" type="sub"><lem>laskeuvat</lem></app> astian pohjalle. Silloin sanotaan aineen muuttuvan juokse<pb type="orig" n="137"/>vasta 
+                <app id="var4640" type="sub"><lem>muodosta kovan muotoiseksi.</lem></app> Vedellä on se 
+                <app id="var4641" type="sub"><lem>kummallinen luonto,</lem></app> että se saattaa 
+                <app id="var4642" type="sub"><lem>olla kaiken muotoisena.</lem></app> Kun lumi ja jää sulaa, <choice>
                     <orig/>
-                </choice><app id="var4643" type="sub">
-                    <lem><choice>
+                </choice>
+                <app id="var4643" type="sub"><lem><choice>
                             <orig>muuttu</orig>
                             <reg>muuttuu</reg>
-                        </choice></lem>
-                </app><choice>
+                        </choice></lem></app><choice>
                     <reg/>
-                </choice> vesi <app id="var4644" type="sub">
-                    <lem>kovan muotoisesta juoksevan muotoiseksi.</lem>
-                </app> Kun <app id="var4645" type="sub">
-                    <lem>sula</lem>
-                </app> vesi <app id="var4646" type="sub">
-                    <lem>nousee</lem>
-                </app> höyrynä <app id="var4647" type="sub">
-                    <lem>ylös,</lem>
-                </app> muuttuu se <app id="var4648" type="sub">
-                    <lem>ilman-muotoiseksi. Tämä tulee aina</lem>
-                </app> aineen <app id="var4649" type="sub">
-                    <lem>kylmyydestä eli lämpimästä.</lem>
-                </app></p>
+                </choice> vesi 
+                <app id="var4644" type="sub"><lem>kovan muotoisesta juoksevan muotoiseksi.</lem></app> Kun 
+                <app id="var4645" type="sub"><lem>sula</lem></app> vesi 
+                <app id="var4646" type="sub"><lem>nousee</lem></app> höyrynä 
+                <app id="var4647" type="sub"><lem>ylös,</lem></app> muuttuu se 
+                <app id="var4648" type="sub"><lem>ilman-muotoiseksi. Tämä tulee aina</lem></app> aineen 
+                <app id="var4649" type="sub"><lem>kylmyydestä eli lämpimästä.</lem></app></p>
             <figure type="illustration"/>
-            <p style="blackletter">Tuolla vuoren rinteellä <app id="var4650" type="sub">
-                    <lem>ei kaukana tuvastamme</lem>
-                </app> on lähde, jossa on <app id="var4651" type="sub">
-                    <lem>selvä kirkas vesi,</lem>
-                </app> jota äiti sanoo <app id="var4652" type="sub">
-                    <lem><hi rend="expanded">karkkaaksi,</hi> kun</lem>
-                </app> se <app id="var4653" type="sub">
-                    <lem>ei</lem>
-                </app> ole niin <app id="var4654" type="sub">
-                    <lem><hi rend="expanded">liukeaa</hi></lem>
-                </app> kuin sade- <app id="var4655" type="sub">
-                    <lem>eli joki-vesi saipualla pestessä. Ei se</lem>
-                </app> ole <app id="var4656" type="sub">
-                    <lem><hi rend="expanded">mineraali-</hi> (kivennäis) lähde,</lem>
-                </app> jonka vesi maistuu raudalta <app id="var4657" type="sub">
-                    <lem>eli</lem>
-                </app> muilta <app id="var4658" type="sub">
-                    <lem>sulanneilta</lem>
-                </app> aineilta. <app id="var4659" type="sub">
-                    <lem>Eikä</lem>
-                </app> se <app id="var4660" type="sub">
-                    <lem>ole sellainen</lem>
-                </app>
-                <hi rend="expanded">lämmin</hi> lähde, <app id="var4661" type="sub">
-                    <lem>joka</lem>
-                </app> muissa maissa <app id="var4662" type="sub">
-                    <lem>juoksee lämpimällä vedellä.</lem>
-                </app> Eikä se ole <app id="var4663" type="sub">
-                    <lem><hi rend="expanded">kuohu-lähde,</hi></lem>
-                </app> joka <app id="var4664" type="sub">
-                    <lem>puhaltaa</lem>
-                </app> suihkuna maasta <app id="var4665" type="sub">
-                    <lem>ylös.</lem>
-                </app> Se on parempi kaivoamme, jonka isä kaivoi <app id="var4666" type="sub">
-                    <lem>sille paikalle, jossa <hi rend="expanded">vesisuonet</hi>
-                        kulkevat</lem>
-                </app> maassa <app id="var4667" type="sub">
-                    <lem>kartanon alate.</lem>
-                </app> Ensin <app id="var4668" type="sub">
-                    <lem>juosta</lem>
-                </app> lirisee <app id="var4669" type="sub">
-                    <lem>se pienenä</lem>
-                </app> norona, joka <app id="var4670" type="sub">
-                    <lem>tulee</lem>
-                </app> suohon. Siinä <app id="var4671" type="sub">
-                    <lem>kokoupi</lem>
-                </app> monta sellaista noroa <app id="var4672" type="sub">
-                    <lem><hi rend="expanded">seuroksi,</hi></lem>
-                </app> joka <app id="var4673" type="sub">
-                    <lem>kiertelee metsän läpi,</lem>
-                </app> aina <app id="var4674" type="sub">
-                    <lem>maan <choice>
+            <p style="blackletter">Tuolla vuoren rinteellä 
+                <app id="var4650" type="sub"><lem>ei kaukana tuvastamme</lem></app> on lähde, jossa on 
+                <app id="var4651" type="sub"><lem>selvä kirkas vesi,</lem></app> jota äiti sanoo 
+                <app id="var4652" type="sub"><lem><hi rend="expanded">karkkaaksi,</hi> kun</lem></app> se 
+                <app id="var4653" type="sub"><lem>ei</lem></app> ole niin 
+                <app id="var4654" type="sub"><lem><hi rend="expanded">liukeaa</hi></lem></app> kuin sade- 
+                <app id="var4655" type="sub"><lem>eli joki-vesi saipualla pestessä. Ei se</lem></app> ole 
+                <app id="var4656" type="sub"><lem><hi rend="expanded">mineraali-</hi> (kivennäis) lähde,</lem></app> jonka vesi maistuu raudalta 
+                <app id="var4657" type="sub"><lem>eli</lem></app> muilta 
+                <app id="var4658" type="sub"><lem>sulanneilta</lem></app> aineilta. 
+                <app id="var4659" type="sub"><lem>Eikä</lem></app> se 
+                <app id="var4660" type="sub"><lem>ole sellainen</lem></app>
+                <hi rend="expanded">lämmin</hi> lähde, 
+                <app id="var4661" type="sub"><lem>joka</lem></app> muissa maissa 
+                <app id="var4662" type="sub"><lem>juoksee lämpimällä vedellä.</lem></app> Eikä se ole 
+                <app id="var4663" type="sub"><lem><hi rend="expanded">kuohu-lähde,</hi></lem></app> joka 
+                <app id="var4664" type="sub"><lem>puhaltaa</lem></app> suihkuna maasta 
+                <app id="var4665" type="sub"><lem>ylös.</lem></app> Se on parempi kaivoamme, jonka isä kaivoi 
+                <app id="var4666" type="sub"><lem>sille paikalle, jossa <hi rend="expanded">vesisuonet</hi>
+                        kulkevat</lem></app> maassa 
+                <app id="var4667" type="sub"><lem>kartanon alate.</lem></app> Ensin 
+                <app id="var4668" type="sub"><lem>juosta</lem></app> lirisee 
+                <app id="var4669" type="sub"><lem>se pienenä</lem></app> norona, joka 
+                <app id="var4670" type="sub"><lem>tulee</lem></app> suohon. Siinä 
+                <app id="var4671" type="sub"><lem>kokoupi</lem></app> monta sellaista noroa 
+                <app id="var4672" type="sub"><lem><hi rend="expanded">seuroksi,</hi></lem></app> joka 
+                <app id="var4673" type="sub"><lem>kiertelee metsän läpi,</lem></app> aina 
+                <app id="var4674" type="sub"><lem>maan <choice>
                             <orig>viettamisen</orig>
                             <reg>viettämisen</reg>
-                        </choice> mukaan.</lem>
-                </app> Vähän aikaa <app id="var4675" type="sub">
-                    <lem>kulkeissani</lem>
-                </app> puron viertä havaitsin sen <app id="var4676" type="sub">
-                    <lem>alinomaa isonevan monien muiden puroin siihen vesineen
-                        yhdistymällä.</lem>
-                </app> Viimein <app id="var4677" type="sub">
-                    <lem>tuli</lem>
-                </app> se <pb type="orig" n="138"/><hi rend="expanded">pieneksi joeksi,</hi>
-                joka juoksi <app id="var4678" type="int">
-                    <lem>järveen,</lem>
-                </app> ja järven toisesta päästä jälleen <app id="var4679" type="sub">
-                    <lem>siitä ulos.</lem>
-                </app> Joki oli <app id="var4680" type="sub">
-                    <lem>saanut</lem>
-                </app> enemmän vettä ja paisunut <app id="var4681" type="sub">
-                    <lem><hi rend="expanded">isommaksi joeksi,</hi> jota myös kutsuttiin <hi rend="expanded">virraksi,</hi> kun</lem>
-                </app> vesi <app id="var4682" type="sub">
-                    <lem>kävi siinä väkevästi.</lem>
-                </app> Kun <app id="var4683" type="sub">
-                    <lem>aina</lem>
-                </app> useampia puroja ja <app id="var4684" type="sub">
-                    <lem><hi rend="expanded">olka-jokia</hi></lem>
-                </app> juoksi <app id="var4685" type="sub">
-                    <lem>isompaan jokeen,</lem>
-                </app> tuli siitä viimein <hi rend="expanded">leveä</hi> ja <hi rend="expanded">iso </hi><app id="var4686" type="sub">
-                    <lem><hi rend="expanded">virta (kymi).</hi></lem>
-                </app> Ja koko <app id="var4687" type="sub">
-                    <lem>maata,</lem>
-                </app> josta virta ja sen <app id="var4688" type="sub">
-                    <lem>olka-joet</lem>
-                </app> saivat vetensä, <app id="var4689" type="sub">
-                    <lem>kutsuttiin <hi rend="expanded">virran-ympäristöksi.</hi>
-                        Jossa</lem>
-                </app> maa virran <app id="var4690" type="sub">
-                    <lem><hi rend="expanded">juovassa</hi></lem>
-                </app> oli hyvin <app id="var4691" type="sub">
-                    <lem>viettävä alaspäin ja paljo</lem>
-                </app> kiviä, vesi juoksi <app id="var4692" type="sub">
-                    <lem>väkevästi,</lem>
-                </app> ja siinä <app id="var4693" type="sub">
-                    <lem>oli</lem>
-                </app>
-                <hi rend="expanded">koski.</hi> Yhdessä paikassa <app id="var4694" type="sub">
-                    <lem>putosi</lem>
-                </app> virta <app id="var4695" type="sub">
-                    <lem>vahtuavana</lem>
-                </app> ja <app id="var4696" type="sub">
-                    <lem>pauhuten</lem>
-                </app> jyrkkää kallion <app id="var4697" type="sub">
-                    <lem>rinnettä,</lem>
-                </app> ja <app id="var4698" type="sub">
-                    <lem>oli <hi rend="expanded">putous</hi> (ämmä,</lem>
-                </app> köngäs). Viimein tuli virta niin suureksi, että laivat purjehtivat
-                sen <app id="var4699" type="sub">
-                    <lem>juovaa.</lem>
-                </app> Ja sen rannoille rakensivat ihmiset myllyjä ja sahoja ja <app id="var4700" type="sub">
-                    <lem>vapriikeja</lem>
-                </app> ja suuria kaupunkeja. Mutta viimein <app id="var4701" type="sub">
-                    <lem>juoksi virta monia <hi rend="expanded">suita</hi> (putaita)</lem>
-                </app> äärettömään <hi rend="expanded">mereen.</hi></p>
+                        </choice> mukaan.</lem></app> Vähän aikaa 
+                <app id="var4675" type="sub"><lem>kulkeissani</lem></app> puron viertä havaitsin sen 
+                <app id="var4676" type="sub"><lem>alinomaa isonevan monien muiden puroin siihen vesineen
+                        yhdistymällä.</lem></app> Viimein 
+                <app id="var4677" type="sub"><lem>tuli</lem></app> se <pb type="orig" n="138"/><hi rend="expanded">pieneksi joeksi,</hi>
+                joka juoksi 
+                <app id="var4678" type="int"><lem>järveen,</lem></app> ja järven toisesta päästä jälleen 
+                <app id="var4679" type="sub"><lem>siitä ulos.</lem></app> Joki oli 
+                <app id="var4680" type="sub"><lem>saanut</lem></app> enemmän vettä ja paisunut 
+                <app id="var4681" type="sub"><lem><hi rend="expanded">isommaksi joeksi,</hi> jota myös kutsuttiin <hi rend="expanded">virraksi,</hi> kun</lem></app> vesi 
+                <app id="var4682" type="sub"><lem>kävi siinä väkevästi.</lem></app> Kun 
+                <app id="var4683" type="sub"><lem>aina</lem></app> useampia puroja ja 
+                <app id="var4684" type="sub"><lem><hi rend="expanded">olka-jokia</hi></lem></app> juoksi 
+                <app id="var4685" type="sub"><lem>isompaan jokeen,</lem></app> tuli siitä viimein <hi rend="expanded">leveä</hi> ja <hi rend="expanded">iso </hi>
+                <app id="var4686" type="sub"><lem><hi rend="expanded">virta (kymi).</hi></lem></app> Ja koko 
+                <app id="var4687" type="sub"><lem>maata,</lem></app> josta virta ja sen 
+                <app id="var4688" type="sub"><lem>olka-joet</lem></app> saivat vetensä, 
+                <app id="var4689" type="sub"><lem>kutsuttiin <hi rend="expanded">virran-ympäristöksi.</hi>
+                        Jossa</lem></app> maa virran 
+                <app id="var4690" type="sub"><lem><hi rend="expanded">juovassa</hi></lem></app> oli hyvin 
+                <app id="var4691" type="sub"><lem>viettävä alaspäin ja paljo</lem></app> kiviä, vesi juoksi 
+                <app id="var4692" type="sub"><lem>väkevästi,</lem></app> ja siinä 
+                <app id="var4693" type="sub"><lem>oli</lem></app>
+                <hi rend="expanded">koski.</hi> Yhdessä paikassa 
+                <app id="var4694" type="sub"><lem>putosi</lem></app> virta 
+                <app id="var4695" type="sub"><lem>vahtuavana</lem></app> ja 
+                <app id="var4696" type="sub"><lem>pauhuten</lem></app> jyrkkää kallion 
+                <app id="var4697" type="sub"><lem>rinnettä,</lem></app> ja 
+                <app id="var4698" type="sub"><lem>oli <hi rend="expanded">putous</hi> (ämmä,</lem></app> köngäs). Viimein tuli virta niin suureksi, että laivat purjehtivat
+                sen 
+                <app id="var4699" type="sub"><lem>juovaa.</lem></app> Ja sen rannoille rakensivat ihmiset myllyjä ja sahoja ja 
+                <app id="var4700" type="sub"><lem>vapriikeja</lem></app> ja suuria kaupunkeja. Mutta viimein 
+                <app id="var4701" type="sub"><lem>juoksi virta monia <hi rend="expanded">suita</hi> (putaita)</lem></app> äärettömään <hi rend="expanded">mereen.</hi></p>
             <figure type="illustration"/>
-            <p style="blackletter"><app id="var4702" type="sub">
-                    <lem>Pyydinpä hyvää ystävääni merimiestä päästäkseni</lem>
-                </app> hänen <app id="var4703" type="sub">
-                    <lem>laivaansa. Ottipa minun</lem>
-                </app> laivaansa, ja me purjehdimme niin <app id="var4704" type="sub">
-                    <lem>kauvas</lem>
-                </app> merelle, <app id="var4705" type="sub">
-                    <lem>ettemme kohta</lem>
-                </app> enää <app id="var4706" type="sub">
-                    <lem>nähneet mitään maata,</lem>
-                </app> vaan <app id="var4707" type="sub">
-                    <lem>ainoasti taivaan</lem>
-                </app> päällämme ja <app id="var4708" type="sub">
-                    <lem>meren-veden ympäri laivaa.</lem>
-                </app> Nyt vasta näin, kuinka <app id="var4709" type="sub">
-                    <lem>suuri</lem>
-                </app> Jumalan voima <app id="var4710" type="sub">
-                    <lem>oli</lem>
-                </app> elementeissä, ja vapisin pelosta, että me, heikot ihmiset,
-                hukkuisimme. Mutta yhtä selvästi näin, <app id="var4711" type="sub">
-                    <lem>kuinka</lem>
-                </app>
-                <pb type="orig" n="139"/>Jumala <app id="var4712" type="sub">
-                    <lem>oli</lem>
-                </app> luonut ihmisen <app id="var4713" type="sub">
-                    <lem>tänne koko</lem>
-                </app> luonnon herraksi. <app id="var4714" type="sub">
-                    <lem>Sukkelasti</lem>
-                </app> ja taitavasti <app id="var4715" type="sub">
-                    <lem>rienti</lem>
-                </app> laiva eteenpäin <app id="var4716" type="sub">
-                    <lem><hi rend="expanded">hyökyn</hi> läpi</lem>
-                </app> myrskyn <app id="var4717" type="sub">
-                    <lem>perästä,</lem>
-                </app> joka <app id="var4718" type="sub">
-                    <lem>tätä</lem>
-                </app> ennen oli <app id="var4719" type="sub">
-                    <lem>ajanut</lem>
-                </app> meren <app id="var4720" type="sub">
-                    <lem>suuriin <hi rend="expanded">aaltoihin.</hi></lem>
-                </app> Silloin <app id="var4721" type="sub">
-                    <lem>näin</lem>
-                </app> meren <app id="var4722" type="sub">
-                    <lem>näön muuttuvan senjälkeen kuin</lem>
-                </app> taivas oli sininen <app id="var4723" type="sub">
-                    <lem>eli</lem>
-                </app> pilvinen; mutta usein <app id="var4724" type="sub">
-                    <lem>vivahteli</lem>
-                </app> se <app id="var4725" type="sub">
-                    <lem>viheriäiselle. Meri-vesi</lem>
-                </app> oli hyvin <hi rend="expanded">suolaista,</hi> ja nyt <app id="var4726" type="int">
-                    <lem>ymmärsin</lem>
-                </app> miksi <app id="var4727" type="sub">
-                    <lem>jokein</lem>
-                </app> ja <app id="var4728" type="sub">
-                    <lem>lähdetten</lem>
-                </app> vettä sanottiin suolattomaksi, <app id="var4729" type="sub">
-                    <lem>kun</lem>
-                </app> siinä ei ole suolaa.</p>
-            <p style="blackletter">Täällä, sanoi merimies, <app id="var4730" type="sub">
-                    <lem>juoksee</lem>
-                </app> vesi <app id="var4731" type="sub">
-                    <lem>alinomaa samaa suuntaa, jos tuulikin olisi</lem>
-                </app> vastainen, ja sitä <app id="var4732" type="sub">
-                    <lem>kutsuttiin <hi rend="expanded">merivirraksi.</hi> Varotaanpa
-                        nyt,</lem>
-                </app> ettemme <app id="var4733" type="sub">
-                    <lem>tule <hi rend="expanded">meren-pyörteesen.</hi></lem>
-                </app> Siinä <app id="var4734" type="sub">
-                    <lem>käypi</lem>
-                </app> virta pyörien, <app id="var4735" type="sub">
-                    <lem>juuri kuin rattiin kaadettaisi vettä</lem>
-                </app> ja <app id="var4736" type="sub">
-                    <lem>vetää</lem>
-                </app> laivan <app id="var4737" type="sub">
-                    <lem>mukaansa, siksi että</lem>
-                </app> se uppoaa keskelle pyörrettä. Mutta tultuamme <app id="var4738" type="sub">
-                    <lem>suuriin <hi rend="expanded">valtameriin</hi> näemme</lem>
-                </app> jotakin <app id="var4739" type="sub">
-                    <lem>kummallista. Kun laiva parhaaltaan purjehtii rantavettä, vetäypi
-                        vesi takasi,</lem>
-                </app> niin että <app id="var4740" type="sub">
-                    <lem>kuiva hieta</lem>
-                </app> näkyy laivan pohjan <app id="var4741" type="sub">
-                    <lem>alla.</lem>
-                </app> Sitä <app id="var4742" type="sub">
-                    <lem>kutsutaan</lem>
-                </app>
-                <hi rend="expanded">pakovedeksi</hi> (luoteeksi). Ja kun <app id="var4743" type="sub">
-                    <lem>kuivin</lem>
-                </app> jaloin <app id="var4744" type="sub">
-                    <lem>poimii</lem>
-                </app> simpukoita meren <app id="var4745" type="sub">
-                    <lem>pohjasta, saapi tarkasti kyllä pitää ajasta vaarin.</lem>
-                </app> Sillä kuuden <app id="var4746" type="sub">
-                    <lem>tiiman perästä</lem>
-                </app> palaa vesi <app id="var4747" type="sub">
-                    <lem>takasi,</lem>
-                </app> niin että <app id="var4748" type="sub">
-                    <lem>jossa juuri vasta sai kävellä</lem>
-                </app> kuivin <app id="var4749" type="sub">
-                    <lem>jaloin, siinä</lem>
-                </app> purjehtivat jälleen suuret laivat. Ja tätä <app id="var4750" type="sub">
-                    <lem>kutsutaan</lem>
-                </app>
+            <p style="blackletter">
+                <app id="var4702" type="sub"><lem>Pyydinpä hyvää ystävääni merimiestä päästäkseni</lem></app> hänen 
+                <app id="var4703" type="sub"><lem>laivaansa. Ottipa minun</lem></app> laivaansa, ja me purjehdimme niin 
+                <app id="var4704" type="sub"><lem>kauvas</lem></app> merelle, 
+                <app id="var4705" type="sub"><lem>ettemme kohta</lem></app> enää 
+                <app id="var4706" type="sub"><lem>nähneet mitään maata,</lem></app> vaan 
+                <app id="var4707" type="sub"><lem>ainoasti taivaan</lem></app> päällämme ja 
+                <app id="var4708" type="sub"><lem>meren-veden ympäri laivaa.</lem></app> Nyt vasta näin, kuinka 
+                <app id="var4709" type="sub"><lem>suuri</lem></app> Jumalan voima 
+                <app id="var4710" type="sub"><lem>oli</lem></app> elementeissä, ja vapisin pelosta, että me, heikot ihmiset,
+                hukkuisimme. Mutta yhtä selvästi näin, 
+                <app id="var4711" type="sub"><lem>kuinka</lem></app>
+                <pb type="orig" n="139"/>Jumala 
+                <app id="var4712" type="sub"><lem>oli</lem></app> luonut ihmisen 
+                <app id="var4713" type="sub"><lem>tänne koko</lem></app> luonnon herraksi. 
+                <app id="var4714" type="sub"><lem>Sukkelasti</lem></app> ja taitavasti 
+                <app id="var4715" type="sub"><lem>rienti</lem></app> laiva eteenpäin 
+                <app id="var4716" type="sub"><lem><hi rend="expanded">hyökyn</hi> läpi</lem></app> myrskyn 
+                <app id="var4717" type="sub"><lem>perästä,</lem></app> joka 
+                <app id="var4718" type="sub"><lem>tätä</lem></app> ennen oli 
+                <app id="var4719" type="sub"><lem>ajanut</lem></app> meren 
+                <app id="var4720" type="sub"><lem>suuriin <hi rend="expanded">aaltoihin.</hi></lem></app> Silloin 
+                <app id="var4721" type="sub"><lem>näin</lem></app> meren 
+                <app id="var4722" type="sub"><lem>näön muuttuvan senjälkeen kuin</lem></app> taivas oli sininen 
+                <app id="var4723" type="sub"><lem>eli</lem></app> pilvinen; mutta usein 
+                <app id="var4724" type="sub"><lem>vivahteli</lem></app> se 
+                <app id="var4725" type="sub"><lem>viheriäiselle. Meri-vesi</lem></app> oli hyvin <hi rend="expanded">suolaista,</hi> ja nyt 
+                <app id="var4726" type="int"><lem>ymmärsin</lem></app> miksi 
+                <app id="var4727" type="sub"><lem>jokein</lem></app> ja 
+                <app id="var4728" type="sub"><lem>lähdetten</lem></app> vettä sanottiin suolattomaksi, 
+                <app id="var4729" type="sub"><lem>kun</lem></app> siinä ei ole suolaa.</p>
+            <p style="blackletter">Täällä, sanoi merimies, 
+                <app id="var4730" type="sub"><lem>juoksee</lem></app> vesi 
+                <app id="var4731" type="sub"><lem>alinomaa samaa suuntaa, jos tuulikin olisi</lem></app> vastainen, ja sitä 
+                <app id="var4732" type="sub"><lem>kutsuttiin <hi rend="expanded">merivirraksi.</hi> Varotaanpa
+                        nyt,</lem></app> ettemme 
+                <app id="var4733" type="sub"><lem>tule <hi rend="expanded">meren-pyörteesen.</hi></lem></app> Siinä 
+                <app id="var4734" type="sub"><lem>käypi</lem></app> virta pyörien, 
+                <app id="var4735" type="sub"><lem>juuri kuin rattiin kaadettaisi vettä</lem></app> ja 
+                <app id="var4736" type="sub"><lem>vetää</lem></app> laivan 
+                <app id="var4737" type="sub"><lem>mukaansa, siksi että</lem></app> se uppoaa keskelle pyörrettä. Mutta tultuamme 
+                <app id="var4738" type="sub"><lem>suuriin <hi rend="expanded">valtameriin</hi> näemme</lem></app> jotakin 
+                <app id="var4739" type="sub"><lem>kummallista. Kun laiva parhaaltaan purjehtii rantavettä, vetäypi
+                        vesi takasi,</lem></app> niin että 
+                <app id="var4740" type="sub"><lem>kuiva hieta</lem></app> näkyy laivan pohjan 
+                <app id="var4741" type="sub"><lem>alla.</lem></app> Sitä 
+                <app id="var4742" type="sub"><lem>kutsutaan</lem></app>
+                <hi rend="expanded">pakovedeksi</hi> (luoteeksi). Ja kun 
+                <app id="var4743" type="sub"><lem>kuivin</lem></app> jaloin 
+                <app id="var4744" type="sub"><lem>poimii</lem></app> simpukoita meren 
+                <app id="var4745" type="sub"><lem>pohjasta, saapi tarkasti kyllä pitää ajasta vaarin.</lem></app> Sillä kuuden 
+                <app id="var4746" type="sub"><lem>tiiman perästä</lem></app> palaa vesi 
+                <app id="var4747" type="sub"><lem>takasi,</lem></app> niin että 
+                <app id="var4748" type="sub"><lem>jossa juuri vasta sai kävellä</lem></app> kuivin 
+                <app id="var4749" type="sub"><lem>jaloin, siinä</lem></app> purjehtivat jälleen suuret laivat. Ja tätä 
+                <app id="var4750" type="sub"><lem>kutsutaan</lem></app>
                 <hi rend="expanded">nousuvedeksi</hi> (vuokseksi). Mutta pakovesi ja
-                nousuvesi <app id="var4751" type="sub">
-                    <lem>tulevat useista syistä,</lem>
-                </app> joita <app id="var4752" type="sub">
-                    <lem>on</lem>
-                </app> vaikea <app id="var4753" type="sub">
-                    <lem>ymmärtääksemme, vielä pieninä ollessamme.</lem>
-                </app> Kuka uskoisi kuun, joka on niin kaukana maasta, vetävän vettä <app id="var4754" type="sub">
-                    <lem>ylemmä vissinä</lem>
-                </app> aikoina? <app id="var4755" type="sub">
-                    <lem>Paremmin voinet</lem>
-                </app> käsittää valtamerien vetten tulevan <app id="var4756" type="sub">
-                    <lem>liikkeelle, kun saat tietää,</lem>
-                </app> että koko tämä suuri maa <app id="var4757" type="sub">
-                    <lem>kääntyy ympäri, juuri kuin</lem>
-                </app> vesi <app id="var4758" type="sub">
-                    <lem>liikkuu maljassa,</lem>
-                </app> kun sitä <app id="var4759" type="sub">
-                    <lem>sukkelasti käännän.</lem>
-                </app> Ja samalla lailla <app id="var4760" type="sub">
-                    <lem>tulee pakovesi</lem>
-                </app> ja nousuvesi <app id="var4761" type="sub">
-                    <lem>meren läikkymisestä edes takasin.</lem>
-                </app></p>
+                nousuvesi 
+                <app id="var4751" type="sub"><lem>tulevat useista syistä,</lem></app> joita 
+                <app id="var4752" type="sub"><lem>on</lem></app> vaikea 
+                <app id="var4753" type="sub"><lem>ymmärtääksemme, vielä pieninä ollessamme.</lem></app> Kuka uskoisi kuun, joka on niin kaukana maasta, vetävän vettä 
+                <app id="var4754" type="sub"><lem>ylemmä vissinä</lem></app> aikoina? 
+                <app id="var4755" type="sub"><lem>Paremmin voinet</lem></app> käsittää valtamerien vetten tulevan 
+                <app id="var4756" type="sub"><lem>liikkeelle, kun saat tietää,</lem></app> että koko tämä suuri maa 
+                <app id="var4757" type="sub"><lem>kääntyy ympäri, juuri kuin</lem></app> vesi 
+                <app id="var4758" type="sub"><lem>liikkuu maljassa,</lem></app> kun sitä 
+                <app id="var4759" type="sub"><lem>sukkelasti käännän.</lem></app> Ja samalla lailla 
+                <app id="var4760" type="sub"><lem>tulee pakovesi</lem></app> ja nousuvesi 
+                <app id="var4761" type="sub"><lem>meren läikkymisestä edes takasin.</lem></app></p>
             <pb type="orig" n="140"/>
-            <p style="blackletter"><app id="var4762" type="sub">
-                    <lem>Kerran</lem>
-                </app> sattui <app id="var4763" type="sub">
-                    <lem>purjehtiessamme</lem>
-                </app> laiva <app id="var4764" type="sub">
-                    <lem>matalalle</lem>
-                </app> eikä päässyt <app id="var4765" type="sub">
-                    <lem>ennen irti, kuin</lem>
-                </app> olimme <app id="var4766" type="sub">
-                    <lem>nakanneet</lem>
-                </app> osan lastista mereen. Olipa onni, sanoi merimies, että satuimme <app id="var4767" type="sub">
-                    <lem><hi rend="expanded">hietaharjanteelle,</hi></lem>
-                </app> sillä jos olisimme karahtaneet karille <app id="var4768" type="sub">
-                    <lem>eli terävä-kiviseen luotoon,</lem>
-                </app> olisimme <app id="var4769" type="sub">
-                    <lem>vissiin tulleet</lem>
-                </app> haaksirikkoon. Sillä <app id="var4770" type="sub">
-                    <lem>tietänet</lem>
-                </app> meren pohjan olevan <app id="var4771" type="sub">
-                    <lem>yhtä epätasaisen kuin</lem>
-                </app> maankin pinnan. Meren pohjassa on mäkiä ja vuoria ja <app id="var4772" type="sub">
-                    <lem>laksoja,</lem>
-                </app> niin että vedellä on <app id="var4773" type="sub">
-                    <lem>aivan</lem>
-                </app> erilainen <hi rend="expanded">syvyys.</hi>
-                <app id="var4774" type="sub">
-                    <lem>Siinä</lem>
-                </app> on <app id="var4775" type="sub">
-                    <lem>juurikuin metsiä koralleista</lem>
-                </app> ja <app id="var4776" type="sub">
-                    <lem>korkeista vesikasveista, joissa</lem>
-                </app> kalat mielellään asuvat. Mutta suurissa merissä, jotka ovat <app id="var4777" type="sub">
-                    <lem>syvempiä</lem>
-                </app> kuin korkein kirkontorni on <app id="var4778" type="sub">
-                    <lem>pitkä, siellä on alinomainen</lem>
-                </app> pimeys ja <app id="var4779" type="sub">
-                    <lem>hiljaisuus syvyydessä.</lem>
-                </app> Sillä vesi ei ole <app id="var4780" type="sub">
-                    <lem>aivan</lem>
-                </app> niin <app id="var4781" type="sub">
-                    <lem>läpikuultava</lem>
-                </app> kuin <app id="var4782" type="int">
-                    <lem>ilma</lem>
-                </app> ja <app id="var4783" type="sub">
-                    <lem>paitsi tätä on se raskaampi,</lem>
-                </app> niin että <app id="var4784" type="sub">
-                    <lem>se mahtaa painaa</lem>
-                </app> hirveän <app id="var4785" type="sub">
-                    <lem>raskaasti hyvin syvissä paikoissa.</lem>
-                </app> Ja ihmiset, jotka <app id="var4786" type="sub">
-                    <lem>taitavat</lem>
-                </app> sukeltaa, ovat <app id="var4787" type="sub">
-                    <lem>laskeuneet hyvin syvään meressä.</lem>
-                </app> Mutta viimein on veri <app id="var4788" type="sub">
-                    <lem>puhennut niiltä</lem>
-                </app> suusta ja <app id="var4789" type="sub">
-                    <lem>sieramista veden painamisen tähden. Ja ei</lem>
-                </app> kukaan <app id="var4790" type="sub">
-                    <lem>ole elävänä</lem>
-                </app> päässyt syvimpiin paikkoihin, eikä <app id="var4791" type="sub">
-                    <lem>yksikään</lem>
-                </app> tunne kaikkea, <app id="var4792" type="sub">
-                    <lem>jota on</lem>
-                </app> meren <app id="var4793" type="sub">
-                    <lem>pohjassa.</lem>
-                </app> Sen tiedämme <app id="var4794" type="sub">
-                    <lem>vaan,</lem>
-                </app> että kasvien ja <app id="var4795" type="sub">
-                    <lem>eläväin</lem>
-                </app> siellä syvyydessä täytyy olla <app id="var4796" type="sub">
-                    <lem>niin varustetut,</lem>
-                </app> että ne <app id="var4797" type="sub">
-                    <lem>voivat</lem>
-                </app> kestää veden <app id="var4798" type="sub">
-                    <lem>suunnattoman painon</lem>
-                </app> joka <app id="var4799" type="sub">
-                    <lem>kulmalta.</lem>
-                </app></p>
-            <p style="blackletter"><app id="var4800" type="sub">
-                    <lem>Purjehdittuamme vähän</lem>
-                </app> aikaa <app id="var4801" type="sub">
-                    <lem>näimme meren-rannan</lem>
-                </app> eli <app id="var4802" type="sub">
-                    <lem><hi rend="expanded">ranta-maan</hi> vieraasta maasta.</lem>
-                </app> Tässä saamme varoa <app id="var4803" type="sub">
-                    <lem><hi rend="expanded">kuohua,</hi></lem>
-                </app> sanoi merimies; sillä tässä <app id="var4804" type="sub">
-                    <lem>murtuvat aallot vahtuun kiviä vastaan.</lem>
-                </app> Onneksemme emme tavanneet <app id="var4805" type="sub">
-                    <lem><hi rend="expanded">jää-vuoria,</hi> jotka ajelehtavat
-                        alaspäin</lem>
-                </app> kylmimmistä <app id="var4806" type="sub">
-                    <lem>meristä, muutoin olisimme</lem>
-                </app> saattaneet <app id="var4807" type="sub">
-                    <lem>pian mennä</lem>
-                </app> kumoon <app id="var4808" type="sub">
-                    <lem>niitä vastaan. Mennäänpä</lem>
-                </app> nyt maalle. Tämä maa ei ole <app id="var4809" type="sub">
-                    <lem><hi rend="expanded">manner-maata,</hi></lem>
-                </app> joka on <app id="var4810" type="sub">
-                    <lem>yhdistyksessä muiden</lem>
-                </app> suur<pb type="orig" n="141"/>ten maiden <app id="var4811" type="sub">
-                    <lem>kanssa.</lem>
-                </app> Nyt olemme tulleet <app id="var4812" type="sub">
-                    <lem><hi rend="expanded">saarelle,</hi></lem>
-                </app> sillä sen ympärillä on <app id="var4813" type="sub">
-                    <lem>vesi joka suunnalla.</lem>
-                </app> Mutta kun monta saarta on <app id="var4814" type="sub">
-                    <lem>likitysten, kutsutaan</lem>
-                </app> niitä <app id="var4815" type="sub">
-                    <lem>yhteensä</lem>
-                </app>
-                <hi rend="expanded">saaristoksi.</hi> Ja jos tässä olisi kolmella <app id="var4816" type="sub">
-                    <lem>kulmalla</lem>
-                </app> vettä, mutta neljäs sivu olisi <app id="var4817" type="sub">
-                    <lem>kiini muissa maissa,</lem>
-                </app> niin olisi tämä maa <app id="var4818" type="sub">
-                    <lem><hi rend="expanded">niemi.</hi></lem>
-                </app> Ja <app id="var4819" type="sub">
-                    <lem>kaitasta paikkaa niemen juurella kutsuttaisiin <hi rend="expanded">kunnakseksi.</hi> Täällä</lem>
-                </app> pistää <app id="var4820" type="sub">
-                    <lem>kaitanen maa-kaistale</lem>
-                </app> mereen, ja sitä <app id="var4821" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">niemekkeeksi.</hi></lem>
-                </app> Toisella puolella pistää <app id="var4822" type="sub">
-                    <lem>kaitaselta merta maahan,</lem>
-                </app> ja tätä vettä <app id="var4823" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">lahdekkeeksi;</hi></lem>
-                </app> mutta jos <app id="var4824" type="sub">
-                    <lem>lahdeke</lem>
-                </app> olisi isompi ja laajempi, <app id="var4825" type="sub">
-                    <lem>kutsuttaisiin</lem>
-                </app> sitä <app id="var4826" type="sub">
-                    <lem><hi rend="expanded">lahdeksi.</hi> Isoimpia</lem>
-                </app> pitkiä <app id="var4827" type="sub">
-                    <lem>lahteja meressä kutsutaan</lem>
-                </app> myös <hi rend="expanded">vuonoiksi.</hi><app id="var4828" type="sub">
-                    <lem> Ja</lem>
-                </app> nyt purjehdimme <app id="var4829" type="sub">
-                    <lem>kaitasta</lem>
-                </app> vettä kahden maan <app id="var4830" type="sub">
-                    <lem>välillä yhdestä vuonosta</lem>
-                </app> toiseen. Tätä <app id="var4831" type="sub">
-                    <lem>kaitasta</lem>
-                </app> vettä <app id="var4832" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">salmeksi</hi> eli <hi rend="expanded">raumaksi;</hi></lem>
-                </app> mutta jos <app id="var4833" type="sub">
-                    <lem>tämä</lem>
-                </app> olisi suurempi ja leveämpi, <app id="var4834" type="sub">
-                    <lem>kutsuttaisiin</lem>
-                </app> sitä <app id="var4835" type="sub">
-                    <lem><hi rend="expanded">kanavaksi.</hi></lem>
-                </app> Ja sellaisia pienempiä meriä, <app id="var4836" type="sub">
-                    <lem>jotka kaitaset</lem>
-                </app> salmet yhdistävät <app id="var4837" type="sub">
-                    <lem>suuren meren kanssa, kutsutaan <hi rend="expanded">sisämeriksi.</hi></lem>
-                </app></p>
-            <p style="blackletter">Nyt muistin maassamme olevan <app id="var4838" type="sub">
-                    <lem>paljo</lem>
-                </app>
-                <hi rend="expanded">maavesiä</hi><app id="var4839" type="sub">
-                    <lem> ja</lem>
-                </app> pyysin siis <app id="var4840" type="sub">
-                    <lem>lähteä purjehtimaan maavesille.</lem>
-                </app> Silloin nauroi merimies ja sanoi: <app id="var4841" type="sub">
-                    <lem>maavesien</lem>
-                </app> ympärillä on <app id="var4842" type="sub">
-                    <lem>maa</lem>
-                </app> joka sivulla, niin ettei <app id="var4843" type="sub">
-                    <lem>yksikään voi purjehtia</lem>
-                </app> niihin <app id="var4844" type="sub">
-                    <lem>mereltä. Ja jos maavedet ovat pienempiä, kutsutaan niitä <hi rend="expanded">järviksi,</hi> ja</lem>
-                </app> hyvin <app id="var4845" type="sub">
-                    <lem>pieniä</lem>
-                </app> järviä sanotaan <hi rend="expanded">lammiksi.</hi> Mutta kun ihmiset
-                mielellään tahtovat <app id="var4846" type="sub">
-                    <lem>tulla</lem>
-                </app> vettä myöten järvestä merelle, kaivavat he <app id="var4847" type="sub">
-                    <lem>vesijuovan,</lem>
-                </app> niin että veneet ja alukset saattavat <app id="var4848" type="sub">
-                    <lem>purjehtia tätä</lem>
-                </app> väliä <app id="var4849" type="sub">
-                    <lem>ja</lem>
-                </app> sellaista <app id="var4850" type="sub">
-                    <lem>kulkujuovaa kutsutaan <hi rend="expanded">kaivannoksi.</hi></lem>
-                </app> Vesi juoksee aina <app id="var4851" type="sub">
-                    <lem>korkeammasta</lem>
-                </app> paikasta <app id="var4852" type="sub">
-                    <lem>alaisempaan.</lem>
-                </app> Ja koska <app id="var4853" type="sub">
-                    <lem>useammat</lem>
-                </app> järvet ovat merta <app id="var4854" type="sub">
-                    <lem>korkeammalla,</lem>
-                </app> niin juoksisi järvien vesi kaikki <app id="var4855" type="sub">
-                    <lem>tyyni pois kaivantoa</lem>
-                </app> myöten, jos ei olisi keksitty pieniä <app id="var4856" type="sub">
-                    <lem>kamareja eli salpa<pb type="orig" n="142"/>rakennuksia,</lem>
-                </app> joita <app id="var4857" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">suluiksi,</hi></lem>
-                </app> joissa <app id="var4858" type="sub">
-                    <lem>alukset nostetaan eli lasketaan vedellä,</lem>
-                </app> niin että <app id="var4859" type="sub">
-                    <lem>kaivannossa</lem>
-                </app> on <app id="var4860" type="sub">
-                    <lem>juuri kuin</lem>
-                </app> portaita, joissa <app id="var4861" type="sub">
-                    <lem>enin osa vettä on tyveneenä.</lem>
-                </app></p>
-            <p style="blackletter"><app id="var4862" type="sub">
-                    <lem>Nyt palaamme jälleen</lem>
-                </app> omaan maahamme, sanoi merimies. Mutta <app id="var4863" type="int">
-                    <lem>muistaaksesi</lem>
-                </app> mitä olet <app id="var4864" type="int">
-                    <lem>nähnyt</lem>
-                </app> annan sinulle <hi rend="expanded">kartan,</hi> jossa näet koko maan
-                pinnan <app id="var4865" type="sub">
-                    <lem>kuvattuna maineen ja vesineen. Siinä</lem>
-                </app> näet, <app id="var4866" type="sub">
-                    <lem>kuinka</lem>
-                </app> maan päällä on <app id="var4867" type="sub">
-                    <lem>paljo</lem>
-                </app> enemmän vettä kuin maata, niin että suuret meret <app id="var4868" type="sub">
-                    <lem>peittävät kahta</lem>
-                </app> vertaa suuremman <app id="var4869" type="sub">
-                    <lem>pinnan</lem>
-                </app> kuin maat. Siitä saat myös oppia <app id="var4870" type="sub">
-                    <lem>tuntemaan <hi rend="expanded">mailman-osat</hi></lem>
-                </app> ja <app id="var4871" type="sub">
-                    <lem>koko</lem>
-                </app> sen <app id="var4872" type="sub">
-                    <lem>hyödyttävän opin,</lem>
-                </app> jota <app id="var4873" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">maan-tiedoksi</hi></lem>
-                </app> eli <app id="var4874" type="sub">
-                    <lem>maanselitykseksi.</lem>
-                </app> Ja annan sinulle sellaisen kartan, <app id="var4875" type="sub">
-                    <lem>johon</lem>
-                </app> maa on <app id="var4876" type="sub">
-                    <lem>kuvattu väreillä, joka onkin tarpeellisinta;</lem>
-                </app> tämä on <app id="var4877" type="sub">
-                    <lem><hi rend="expanded">maan-kartta.</hi></lem>
-                </app> Mutta merimiehillä on toisia karttoja, joihin meri ja vedet ovat
-                tarkoin kuvatut kaikkine <app id="var4878" type="sub">
-                    <lem>karineen,</lem>
-                </app> luotoineen ja <app id="var4879" type="sub">
-                    <lem>mataloineen,</lem>
-                </app> ja sellaisia <app id="var4880" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">meri-kartoiksi.</hi></lem>
-                </app></p>
-            <p style="blackletter"><app id="var4881" type="sub">
-                    <lem>Sanoin:</lem>
-                </app> kuinka suuri on viisautesi, Herra Jumala, <app id="var4882" type="sub">
-                    <lem>että</lem>
-                </app> levität <app id="var4883" type="sub">
-                    <lem>meret peitteeksi</lem>
-                </app> maan <app id="var4884" type="sub">
-                    <lem>syvyyksihin</lem>
-                </app> ja valmistat ne <app id="var4885" type="sub">
-                    <lem>tieksi</lem>
-                </app> ihmisten lapsille! Sinä suot sateen virvoittaa <app id="var4886" type="sub">
-                    <lem>janoavan maan;</lem>
-                </app> sinä annat <app id="var4887" type="sub">
-                    <lem>lähdetten</lem>
-                </app> ja <app id="var4888" type="sub">
-                    <lem>virtain</lem>
-                </app> kulkea <app id="var4889" type="sub">
-                    <lem>elämän-suonina maiden pinnalla,</lem>
-                </app> niin että ihmiset ja eläimet ja kasvit saavat <app id="var4890" type="sub">
-                    <lem>siitä</lem>
-                </app> ravintonsa. Vähinkin <app id="var4891" type="sub">
-                    <lem>kasteherne</lem>
-                </app> kuvastaa sinun kunniaasi, sinun henkesi kulkee pimeäin <app id="var4892" type="sub">
-                    <lem>syvyytten</lem>
-                </app> päällitse. Ja kun purjehtija <app id="var4893" type="sub">
-                    <lem>panee</lem>
-                </app> levolle <app id="var4894" type="sub">
-                    <lem>heikolle alukselleen</lem>
-                </app> keskellä valtameren aaltoja, sanoo hän itsekseen: <app id="var4895" type="sub">
-                    <lem>katso,</lem>
-                </app> Herramme Kristus on kerran kävellyt <app id="var4896" type="sub">
-                    <lem>myrskyistä merta,</lem>
-                </app> ja aallot asettuivat hänen <app id="var4897" type="sub">
-                    <lem>allansa. Niin tiedän minäkin</lem>
-                </app> vielä <app id="var4898" type="sub">
-                    <lem>tänäpäivänä</lem>
-                </app> Jumalan <app id="var4899" type="sub">
-                    <lem>kaikkivallan käden hallitsevan</lem>
-                </app> elementtejä. Ja <app id="var4900" type="sub">
-                    <lem>joita</lem>
-                </app> Jumala suojelee, <app id="var4901" type="sub">
-                    <lem>niitä ei</lem>
-                </app> vahingoita vesi eikä tuli eikä <app id="var4902" type="sub">
-                    <lem>muu loukkaus. Niillä</lem>
-                </app> on <pb type="orig" n="143"/>rauha ja iloinen <app id="var4903" type="sub">
-                    <lem>turva.</lem>
-                </app> Sillä Jumala on <app id="var4904" type="sub">
-                    <lem>väkevyytemme,</lem>
-                </app> ja meren aallot, jotka murtavat kallioita ja muureja, asettuvat <app id="var4905" type="sub">
-                    <lem>lakioiksi</lem>
-                </app> kuin lampaat hänen kunniansa istuimen eteen.</p>
-            <head style="blackletter"><hi rend="bold">Veden </hi><app id="var4906" type="sub">
-                    <lem><hi rend="bold">hävittämisistä.</hi></lem>
-                </app></head>
-            <p style="blackletter">Pyhä raamattu puhuu <app id="var4907" type="sub">
-                    <lem>ensimäisessä Moseksen</lem>
-                </app> kirjassa suuresta <app id="var4908" type="sub">
-                    <lem>vedenpaisumisesta,</lem>
-                </app> joka hukutti kaikki ihmiset heidän <app id="var4909" type="sub">
-                    <lem>synteinsä</lem>
-                </app> tähden, paitsi <app id="var4910" type="sub">
-                    <lem>Noakkia sukuineen. Sitte lupasi</lem>
-                </app> Jumala <app id="var4911" type="sub">
-                    <lem>vesikaaren merkillä,</lem>
-                </app> ettei <app id="var4912" type="sub">
-                    <lem>yhdenkään niin suuren <hi rend="expanded">tulvan</hi></lem>
-                </app> enää <app id="var4913" type="sub">
-                    <lem>pitänyt maata hävittämään.</lem>
-                </app> Sellaista ei ole sittemmin ollutkaan. Mutta kyllä vieläkin <app id="var4914" type="sub">
-                    <lem>tapahtuu välistä, että vesi tekee</lem>
-                </app> suuria <app id="var4915" type="sub">
-                    <lem>häviöitä.</lem>
-                </app> Kun suuret virrat paisuvat sateista, <app id="var4916" type="sub">
-                    <lem>eli</lem>
-                </app> kun <app id="var4917" type="sub">
-                    <lem>niiden suut tukkeuvat jäistä, kohoaa</lem>
-                </app> vesi <app id="var4918" type="sub">
-                    <lem>ylemmä virran ääriä</lem>
-                </app> ja <app id="var4919" type="sub">
-                    <lem>levenee maille.</lem>
-                </app> Silloin täytyy ihmisten ja eläinten <app id="var4920" type="sub">
-                    <lem>pelastaa itsiään</lem>
-                </app> miten <app id="var4921" type="sub">
-                    <lem>parhaite taitavat,</lem>
-                </app> muutamain <app id="var4922" type="sub">
-                    <lem>veneissä,</lem>
-                </app> toisten katoille, toisten vuorille. <app id="var4923" type="sub">
-                    <lem>Metsät</lem>
-                </app> ja pellot <app id="var4924" type="sub">
-                    <lem>hävitetään,</lem>
-                </app> myllyt ja ladot <app id="var4925" type="sub">
-                    <lem>viepi vesi mukaansa.</lem>
-                </app> Kaduilla ja maanteillä soudellaan; kalat uiskentelevat ihmisten <app id="var4926" type="sub">
-                    <lem>huoneissa.</lem>
-                </app> Silloin tulee useinkin suuri hätä maahan. Mutta suuri Niilin virta
-                Afrikassa tekee maat hedelmällisiksi. Joka vuosi <app id="var4927" type="sub">
-                    <lem>paisuu se maille,</lem>
-                </app> ja kun vesi <app id="var4928" type="sub">
-                    <lem>laskeupi takasi,</lem>
-                </app> jättää se paksulta <app id="var4929" type="sub">
-                    <lem>likaa,</lem>
-                </app> jossa kasvaa <app id="var4930" type="sub">
-                    <lem>sanomattomasti paljo eloa.</lem>
-                </app></p>
-            <p style="blackletter">Tunnen <app id="var4931" type="sub">
-                    <lem>kummallisen</lem>
-                </app> maan, jota <app id="var4932" type="sub">
-                    <lem>kutsutaan <choice>
+            <p style="blackletter">
+                <app id="var4762" type="sub"><lem>Kerran</lem></app> sattui 
+                <app id="var4763" type="sub"><lem>purjehtiessamme</lem></app> laiva 
+                <app id="var4764" type="sub"><lem>matalalle</lem></app> eikä päässyt 
+                <app id="var4765" type="sub"><lem>ennen irti, kuin</lem></app> olimme 
+                <app id="var4766" type="sub"><lem>nakanneet</lem></app> osan lastista mereen. Olipa onni, sanoi merimies, että satuimme 
+                <app id="var4767" type="sub"><lem><hi rend="expanded">hietaharjanteelle,</hi></lem></app> sillä jos olisimme karahtaneet karille 
+                <app id="var4768" type="sub"><lem>eli terävä-kiviseen luotoon,</lem></app> olisimme 
+                <app id="var4769" type="sub"><lem>vissiin tulleet</lem></app> haaksirikkoon. Sillä 
+                <app id="var4770" type="sub"><lem>tietänet</lem></app> meren pohjan olevan 
+                <app id="var4771" type="sub"><lem>yhtä epätasaisen kuin</lem></app> maankin pinnan. Meren pohjassa on mäkiä ja vuoria ja 
+                <app id="var4772" type="sub"><lem>laksoja,</lem></app> niin että vedellä on 
+                <app id="var4773" type="sub"><lem>aivan</lem></app> erilainen <hi rend="expanded">syvyys.</hi>
+                
+                <app id="var4774" type="sub"><lem>Siinä</lem></app> on 
+                <app id="var4775" type="sub"><lem>juurikuin metsiä koralleista</lem></app> ja 
+                <app id="var4776" type="sub"><lem>korkeista vesikasveista, joissa</lem></app> kalat mielellään asuvat. Mutta suurissa merissä, jotka ovat 
+                <app id="var4777" type="sub"><lem>syvempiä</lem></app> kuin korkein kirkontorni on 
+                <app id="var4778" type="sub"><lem>pitkä, siellä on alinomainen</lem></app> pimeys ja 
+                <app id="var4779" type="sub"><lem>hiljaisuus syvyydessä.</lem></app> Sillä vesi ei ole 
+                <app id="var4780" type="sub"><lem>aivan</lem></app> niin 
+                <app id="var4781" type="sub"><lem>läpikuultava</lem></app> kuin 
+                <app id="var4782" type="int"><lem>ilma</lem></app> ja 
+                <app id="var4783" type="sub"><lem>paitsi tätä on se raskaampi,</lem></app> niin että 
+                <app id="var4784" type="sub"><lem>se mahtaa painaa</lem></app> hirveän 
+                <app id="var4785" type="sub"><lem>raskaasti hyvin syvissä paikoissa.</lem></app> Ja ihmiset, jotka 
+                <app id="var4786" type="sub"><lem>taitavat</lem></app> sukeltaa, ovat 
+                <app id="var4787" type="sub"><lem>laskeuneet hyvin syvään meressä.</lem></app> Mutta viimein on veri 
+                <app id="var4788" type="sub"><lem>puhennut niiltä</lem></app> suusta ja 
+                <app id="var4789" type="sub"><lem>sieramista veden painamisen tähden. Ja ei</lem></app> kukaan 
+                <app id="var4790" type="sub"><lem>ole elävänä</lem></app> päässyt syvimpiin paikkoihin, eikä 
+                <app id="var4791" type="sub"><lem>yksikään</lem></app> tunne kaikkea, 
+                <app id="var4792" type="sub"><lem>jota on</lem></app> meren 
+                <app id="var4793" type="sub"><lem>pohjassa.</lem></app> Sen tiedämme 
+                <app id="var4794" type="sub"><lem>vaan,</lem></app> että kasvien ja 
+                <app id="var4795" type="sub"><lem>eläväin</lem></app> siellä syvyydessä täytyy olla 
+                <app id="var4796" type="sub"><lem>niin varustetut,</lem></app> että ne 
+                <app id="var4797" type="sub"><lem>voivat</lem></app> kestää veden 
+                <app id="var4798" type="sub"><lem>suunnattoman painon</lem></app> joka 
+                <app id="var4799" type="sub"><lem>kulmalta.</lem></app></p>
+            <p style="blackletter">
+                <app id="var4800" type="sub"><lem>Purjehdittuamme vähän</lem></app> aikaa 
+                <app id="var4801" type="sub"><lem>näimme meren-rannan</lem></app> eli 
+                <app id="var4802" type="sub"><lem><hi rend="expanded">ranta-maan</hi> vieraasta maasta.</lem></app> Tässä saamme varoa 
+                <app id="var4803" type="sub"><lem><hi rend="expanded">kuohua,</hi></lem></app> sanoi merimies; sillä tässä 
+                <app id="var4804" type="sub"><lem>murtuvat aallot vahtuun kiviä vastaan.</lem></app> Onneksemme emme tavanneet 
+                <app id="var4805" type="sub"><lem><hi rend="expanded">jää-vuoria,</hi> jotka ajelehtavat
+                        alaspäin</lem></app> kylmimmistä 
+                <app id="var4806" type="sub"><lem>meristä, muutoin olisimme</lem></app> saattaneet 
+                <app id="var4807" type="sub"><lem>pian mennä</lem></app> kumoon 
+                <app id="var4808" type="sub"><lem>niitä vastaan. Mennäänpä</lem></app> nyt maalle. Tämä maa ei ole 
+                <app id="var4809" type="sub"><lem><hi rend="expanded">manner-maata,</hi></lem></app> joka on 
+                <app id="var4810" type="sub"><lem>yhdistyksessä muiden</lem></app> suur<pb type="orig" n="141"/>ten maiden 
+                <app id="var4811" type="sub"><lem>kanssa.</lem></app> Nyt olemme tulleet 
+                <app id="var4812" type="sub"><lem><hi rend="expanded">saarelle,</hi></lem></app> sillä sen ympärillä on 
+                <app id="var4813" type="sub"><lem>vesi joka suunnalla.</lem></app> Mutta kun monta saarta on 
+                <app id="var4814" type="sub"><lem>likitysten, kutsutaan</lem></app> niitä 
+                <app id="var4815" type="sub"><lem>yhteensä</lem></app>
+                <hi rend="expanded">saaristoksi.</hi> Ja jos tässä olisi kolmella 
+                <app id="var4816" type="sub"><lem>kulmalla</lem></app> vettä, mutta neljäs sivu olisi 
+                <app id="var4817" type="sub"><lem>kiini muissa maissa,</lem></app> niin olisi tämä maa 
+                <app id="var4818" type="sub"><lem><hi rend="expanded">niemi.</hi></lem></app> Ja 
+                <app id="var4819" type="sub"><lem>kaitasta paikkaa niemen juurella kutsuttaisiin <hi rend="expanded">kunnakseksi.</hi> Täällä</lem></app> pistää 
+                <app id="var4820" type="sub"><lem>kaitanen maa-kaistale</lem></app> mereen, ja sitä 
+                <app id="var4821" type="sub"><lem>kutsutaan <hi rend="expanded">niemekkeeksi.</hi></lem></app> Toisella puolella pistää 
+                <app id="var4822" type="sub"><lem>kaitaselta merta maahan,</lem></app> ja tätä vettä 
+                <app id="var4823" type="sub"><lem>kutsutaan <hi rend="expanded">lahdekkeeksi;</hi></lem></app> mutta jos 
+                <app id="var4824" type="sub"><lem>lahdeke</lem></app> olisi isompi ja laajempi, 
+                <app id="var4825" type="sub"><lem>kutsuttaisiin</lem></app> sitä 
+                <app id="var4826" type="sub"><lem><hi rend="expanded">lahdeksi.</hi> Isoimpia</lem></app> pitkiä 
+                <app id="var4827" type="sub"><lem>lahteja meressä kutsutaan</lem></app> myös <hi rend="expanded">vuonoiksi.</hi>
+                <app id="var4828" type="sub"><lem> Ja</lem></app> nyt purjehdimme 
+                <app id="var4829" type="sub"><lem>kaitasta</lem></app> vettä kahden maan 
+                <app id="var4830" type="sub"><lem>välillä yhdestä vuonosta</lem></app> toiseen. Tätä 
+                <app id="var4831" type="sub"><lem>kaitasta</lem></app> vettä 
+                <app id="var4832" type="sub"><lem>kutsutaan <hi rend="expanded">salmeksi</hi> eli <hi rend="expanded">raumaksi;</hi></lem></app> mutta jos 
+                <app id="var4833" type="sub"><lem>tämä</lem></app> olisi suurempi ja leveämpi, 
+                <app id="var4834" type="sub"><lem>kutsuttaisiin</lem></app> sitä 
+                <app id="var4835" type="sub"><lem><hi rend="expanded">kanavaksi.</hi></lem></app> Ja sellaisia pienempiä meriä, 
+                <app id="var4836" type="sub"><lem>jotka kaitaset</lem></app> salmet yhdistävät 
+                <app id="var4837" type="sub"><lem>suuren meren kanssa, kutsutaan <hi rend="expanded">sisämeriksi.</hi></lem></app></p>
+            <p style="blackletter">Nyt muistin maassamme olevan 
+                <app id="var4838" type="sub"><lem>paljo</lem></app>
+                <hi rend="expanded">maavesiä</hi>
+                <app id="var4839" type="sub"><lem> ja</lem></app> pyysin siis 
+                <app id="var4840" type="sub"><lem>lähteä purjehtimaan maavesille.</lem></app> Silloin nauroi merimies ja sanoi: 
+                <app id="var4841" type="sub"><lem>maavesien</lem></app> ympärillä on 
+                <app id="var4842" type="sub"><lem>maa</lem></app> joka sivulla, niin ettei 
+                <app id="var4843" type="sub"><lem>yksikään voi purjehtia</lem></app> niihin 
+                <app id="var4844" type="sub"><lem>mereltä. Ja jos maavedet ovat pienempiä, kutsutaan niitä <hi rend="expanded">järviksi,</hi> ja</lem></app> hyvin 
+                <app id="var4845" type="sub"><lem>pieniä</lem></app> järviä sanotaan <hi rend="expanded">lammiksi.</hi> Mutta kun ihmiset
+                mielellään tahtovat 
+                <app id="var4846" type="sub"><lem>tulla</lem></app> vettä myöten järvestä merelle, kaivavat he 
+                <app id="var4847" type="sub"><lem>vesijuovan,</lem></app> niin että veneet ja alukset saattavat 
+                <app id="var4848" type="sub"><lem>purjehtia tätä</lem></app> väliä 
+                <app id="var4849" type="sub"><lem>ja</lem></app> sellaista 
+                <app id="var4850" type="sub"><lem>kulkujuovaa kutsutaan <hi rend="expanded">kaivannoksi.</hi></lem></app> Vesi juoksee aina 
+                <app id="var4851" type="sub"><lem>korkeammasta</lem></app> paikasta 
+                <app id="var4852" type="sub"><lem>alaisempaan.</lem></app> Ja koska 
+                <app id="var4853" type="sub"><lem>useammat</lem></app> järvet ovat merta 
+                <app id="var4854" type="sub"><lem>korkeammalla,</lem></app> niin juoksisi järvien vesi kaikki 
+                <app id="var4855" type="sub"><lem>tyyni pois kaivantoa</lem></app> myöten, jos ei olisi keksitty pieniä 
+                <app id="var4856" type="sub"><lem>kamareja eli salpa<pb type="orig" n="142"/>rakennuksia,</lem></app> joita 
+                <app id="var4857" type="sub"><lem>kutsutaan <hi rend="expanded">suluiksi,</hi></lem></app> joissa 
+                <app id="var4858" type="sub"><lem>alukset nostetaan eli lasketaan vedellä,</lem></app> niin että 
+                <app id="var4859" type="sub"><lem>kaivannossa</lem></app> on 
+                <app id="var4860" type="sub"><lem>juuri kuin</lem></app> portaita, joissa 
+                <app id="var4861" type="sub"><lem>enin osa vettä on tyveneenä.</lem></app></p>
+            <p style="blackletter">
+                <app id="var4862" type="sub"><lem>Nyt palaamme jälleen</lem></app> omaan maahamme, sanoi merimies. Mutta 
+                <app id="var4863" type="int"><lem>muistaaksesi</lem></app> mitä olet 
+                <app id="var4864" type="int"><lem>nähnyt</lem></app> annan sinulle <hi rend="expanded">kartan,</hi> jossa näet koko maan
+                pinnan 
+                <app id="var4865" type="sub"><lem>kuvattuna maineen ja vesineen. Siinä</lem></app> näet, 
+                <app id="var4866" type="sub"><lem>kuinka</lem></app> maan päällä on 
+                <app id="var4867" type="sub"><lem>paljo</lem></app> enemmän vettä kuin maata, niin että suuret meret 
+                <app id="var4868" type="sub"><lem>peittävät kahta</lem></app> vertaa suuremman 
+                <app id="var4869" type="sub"><lem>pinnan</lem></app> kuin maat. Siitä saat myös oppia 
+                <app id="var4870" type="sub"><lem>tuntemaan <hi rend="expanded">mailman-osat</hi></lem></app> ja 
+                <app id="var4871" type="sub"><lem>koko</lem></app> sen 
+                <app id="var4872" type="sub"><lem>hyödyttävän opin,</lem></app> jota 
+                <app id="var4873" type="sub"><lem>kutsutaan <hi rend="expanded">maan-tiedoksi</hi></lem></app> eli 
+                <app id="var4874" type="sub"><lem>maanselitykseksi.</lem></app> Ja annan sinulle sellaisen kartan, 
+                <app id="var4875" type="sub"><lem>johon</lem></app> maa on 
+                <app id="var4876" type="sub"><lem>kuvattu väreillä, joka onkin tarpeellisinta;</lem></app> tämä on 
+                <app id="var4877" type="sub"><lem><hi rend="expanded">maan-kartta.</hi></lem></app> Mutta merimiehillä on toisia karttoja, joihin meri ja vedet ovat
+                tarkoin kuvatut kaikkine 
+                <app id="var4878" type="sub"><lem>karineen,</lem></app> luotoineen ja 
+                <app id="var4879" type="sub"><lem>mataloineen,</lem></app> ja sellaisia 
+                <app id="var4880" type="sub"><lem>kutsutaan <hi rend="expanded">meri-kartoiksi.</hi></lem></app></p>
+            <p style="blackletter">
+                <app id="var4881" type="sub"><lem>Sanoin:</lem></app> kuinka suuri on viisautesi, Herra Jumala, 
+                <app id="var4882" type="sub"><lem>että</lem></app> levität 
+                <app id="var4883" type="sub"><lem>meret peitteeksi</lem></app> maan 
+                <app id="var4884" type="sub"><lem>syvyyksihin</lem></app> ja valmistat ne 
+                <app id="var4885" type="sub"><lem>tieksi</lem></app> ihmisten lapsille! Sinä suot sateen virvoittaa 
+                <app id="var4886" type="sub"><lem>janoavan maan;</lem></app> sinä annat 
+                <app id="var4887" type="sub"><lem>lähdetten</lem></app> ja 
+                <app id="var4888" type="sub"><lem>virtain</lem></app> kulkea 
+                <app id="var4889" type="sub"><lem>elämän-suonina maiden pinnalla,</lem></app> niin että ihmiset ja eläimet ja kasvit saavat 
+                <app id="var4890" type="sub"><lem>siitä</lem></app> ravintonsa. Vähinkin 
+                <app id="var4891" type="sub"><lem>kasteherne</lem></app> kuvastaa sinun kunniaasi, sinun henkesi kulkee pimeäin 
+                <app id="var4892" type="sub"><lem>syvyytten</lem></app> päällitse. Ja kun purjehtija 
+                <app id="var4893" type="sub"><lem>panee</lem></app> levolle 
+                <app id="var4894" type="sub"><lem>heikolle alukselleen</lem></app> keskellä valtameren aaltoja, sanoo hän itsekseen: 
+                <app id="var4895" type="sub"><lem>katso,</lem></app> Herramme Kristus on kerran kävellyt 
+                <app id="var4896" type="sub"><lem>myrskyistä merta,</lem></app> ja aallot asettuivat hänen 
+                <app id="var4897" type="sub"><lem>allansa. Niin tiedän minäkin</lem></app> vielä 
+                <app id="var4898" type="sub"><lem>tänäpäivänä</lem></app> Jumalan 
+                <app id="var4899" type="sub"><lem>kaikkivallan käden hallitsevan</lem></app> elementtejä. Ja 
+                <app id="var4900" type="sub"><lem>joita</lem></app> Jumala suojelee, 
+                <app id="var4901" type="sub"><lem>niitä ei</lem></app> vahingoita vesi eikä tuli eikä 
+                <app id="var4902" type="sub"><lem>muu loukkaus. Niillä</lem></app> on <pb type="orig" n="143"/>rauha ja iloinen 
+                <app id="var4903" type="sub"><lem>turva.</lem></app> Sillä Jumala on 
+                <app id="var4904" type="sub"><lem>väkevyytemme,</lem></app> ja meren aallot, jotka murtavat kallioita ja muureja, asettuvat 
+                <app id="var4905" type="sub"><lem>lakioiksi</lem></app> kuin lampaat hänen kunniansa istuimen eteen.</p>
+            <head style="blackletter"><hi rend="bold">Veden </hi>
+                <app id="var4906" type="sub"><lem><hi rend="bold">hävittämisistä.</hi></lem></app></head>
+            <p style="blackletter">Pyhä raamattu puhuu 
+                <app id="var4907" type="sub"><lem>ensimäisessä Moseksen</lem></app> kirjassa suuresta 
+                <app id="var4908" type="sub"><lem>vedenpaisumisesta,</lem></app> joka hukutti kaikki ihmiset heidän 
+                <app id="var4909" type="sub"><lem>synteinsä</lem></app> tähden, paitsi 
+                <app id="var4910" type="sub"><lem>Noakkia sukuineen. Sitte lupasi</lem></app> Jumala 
+                <app id="var4911" type="sub"><lem>vesikaaren merkillä,</lem></app> ettei 
+                <app id="var4912" type="sub"><lem>yhdenkään niin suuren <hi rend="expanded">tulvan</hi></lem></app> enää 
+                <app id="var4913" type="sub"><lem>pitänyt maata hävittämään.</lem></app> Sellaista ei ole sittemmin ollutkaan. Mutta kyllä vieläkin 
+                <app id="var4914" type="sub"><lem>tapahtuu välistä, että vesi tekee</lem></app> suuria 
+                <app id="var4915" type="sub"><lem>häviöitä.</lem></app> Kun suuret virrat paisuvat sateista, 
+                <app id="var4916" type="sub"><lem>eli</lem></app> kun 
+                <app id="var4917" type="sub"><lem>niiden suut tukkeuvat jäistä, kohoaa</lem></app> vesi 
+                <app id="var4918" type="sub"><lem>ylemmä virran ääriä</lem></app> ja 
+                <app id="var4919" type="sub"><lem>levenee maille.</lem></app> Silloin täytyy ihmisten ja eläinten 
+                <app id="var4920" type="sub"><lem>pelastaa itsiään</lem></app> miten 
+                <app id="var4921" type="sub"><lem>parhaite taitavat,</lem></app> muutamain 
+                <app id="var4922" type="sub"><lem>veneissä,</lem></app> toisten katoille, toisten vuorille. 
+                <app id="var4923" type="sub"><lem>Metsät</lem></app> ja pellot 
+                <app id="var4924" type="sub"><lem>hävitetään,</lem></app> myllyt ja ladot 
+                <app id="var4925" type="sub"><lem>viepi vesi mukaansa.</lem></app> Kaduilla ja maanteillä soudellaan; kalat uiskentelevat ihmisten 
+                <app id="var4926" type="sub"><lem>huoneissa.</lem></app> Silloin tulee useinkin suuri hätä maahan. Mutta suuri Niilin virta
+                Afrikassa tekee maat hedelmällisiksi. Joka vuosi 
+                <app id="var4927" type="sub"><lem>paisuu se maille,</lem></app> ja kun vesi 
+                <app id="var4928" type="sub"><lem>laskeupi takasi,</lem></app> jättää se paksulta 
+                <app id="var4929" type="sub"><lem>likaa,</lem></app> jossa kasvaa 
+                <app id="var4930" type="sub"><lem>sanomattomasti paljo eloa.</lem></app></p>
+            <p style="blackletter">Tunnen 
+                <app id="var4931" type="sub"><lem>kummallisen</lem></app> maan, jota 
+                <app id="var4932" type="sub"><lem>kutsutaan <choice>
                             <orig>alankomaiksi</orig>
                             <reg>Alankomaiksi</reg>
-                        </choice>, siksi kun</lem>
-                </app> se on hyvin <app id="var4933" type="sub">
-                    <lem>alaista. Siinä</lem>
-                </app> on meri muinoin <app id="var4934" type="sub">
-                    <lem>lainehtinut maan päällä,</lem>
-                </app> mutta <app id="var4935" type="sub">
-                    <lem>sitte</lem>
-                </app> on <app id="var4936" type="sub">
-                    <lem>meren-hieta kokounut harjanteihin rannoille, juuri kuin
-                        muureiksi</lem>
-                </app> aaltoja vastaan. <app id="var4937" type="sub">
-                    <lem>Uuttera väki on rakentanut suuria patoja</lem>
-                </app> puista, kivistä ja savesta <pb type="orig" n="144"/><app id="var4938" type="sub">
-                    <lem>merta</lem>
-                </app> vastaan. Ja se vesi, <app id="var4939" type="sub">
-                    <lem>jonka meri</lem>
-                </app> on <app id="var4940" type="sub">
-                    <lem>jättänyt sisäpuolelle patoja,</lem>
-                </app> on pumputtu <app id="var4941" type="sub">
-                    <lem>takasi</lem>
-                </app> mereen. <app id="var4942" type="sub">
-                    <lem>Niin</lem>
-                </app> on <app id="var4943" type="sub">
-                    <lem>saatu suuri kappale maata meren alta.</lem>
-                </app> Mutta välistä, kun on kova myrsky ja <app id="var4944" type="sub">
-                    <lem>meri-vesi pauhuaa korkealla,</lem>
-                </app> tapahtuu vieläkin, että meri murtaa padot ja <app id="var4945" type="sub">
-                    <lem>juurikuin ottaa valtaansa</lem>
-                </app> entisen <app id="var4946" type="sub">
-                    <lem>alustansa.</lem>
-                </app> Silloin tapahtuu näillä <app id="var4947" type="sub">
-                    <lem>tienoilla</lem>
-                </app> suuria <app id="var4948" type="sub">
-                    <lem>häviöitä,</lem>
-                </app> niin että on nähty <app id="var4949" type="sub">
-                    <lem>monia kaupunkeja</lem>
-                </app> ja <app id="var4950" type="sub">
-                    <lem>kyliä</lem>
-                </app> kaikkine <app id="var4951" type="sub">
-                    <lem>asukkaineen nieleyvän meren aaltoihin. Niin nähdään siinäkin,
-                        jossa</lem>
-                </app> nyt laivat <app id="var4952" type="sub">
-                    <lem>purjehtivat merellä, jotakuta pistäyvän ylös vedestä,</lem>
-                </app> ja tarkemmin <app id="var4953" type="sub">
-                    <lem>katsottua tutaan se kirkontorniksi kylässä,</lem>
-                </app> joka <app id="var4954" type="sub">
-                    <lem>kauvan aikaa jälkeenpäin</lem>
-                </app> on <app id="var4955" type="sub">
-                    <lem>mennyt veden alle.</lem>
-                </app> — Usein <app id="var4956" type="sub">
-                    <lem>kuullaan, kuinka laivoja</lem>
-                </app> ja <app id="var4957" type="sub">
-                    <lem>veneitä tulee haaksi-rikkoon merellä,</lem>
-                </app> ja joka vuosi hukkuu tällä lailla monta ihmistä. <app id="var4958" type="sub">
-                    <lem>Muita putoaa kehnoon</lem>
-                </app> jäähän, <app id="var4959" type="sub">
-                    <lem>eli hukkuu uidessa;</lem>
-                </app> sillä ihmiset kuolevat <app id="var4960" type="sub">
-                    <lem>vedessä sentähden,</lem>
-                </app> etteivät <app id="var4961" type="sub">
-                    <lem>siinä voi</lem>
-                </app> hengittää.</p>
-            <head style="blackletter"><app id="var4962" type="sub">
-                    <lem><hi rend="bold">Vedestä</hi></lem>
-                </app><hi rend="bold"> lääkkeenä.</hi></head>
-            <p style="blackletter">Mutta onpa Jumala <app id="var4963" type="sub">
-                    <lem>antanut vedelle avullisen, virvoittavan</lem>
-                </app> ja parantavan voiman. Vedettä ei voi yksikään <app id="var4964" type="sub">
-                    <lem>kasvu,</lem>
-                </app> ei yksikään eläin, ei yksikään ihminen <app id="var4965" type="sub">
-                    <lem>elää;</lem>
-                </app> moni <app id="var4966" type="sub">
-                    <lem>kivuloinen</lem>
-                </app> saapi vedellä terveytensä <app id="var4967" type="sub">
-                    <lem>takasi. Monta sairasta</lem>
-                </app> matkustaa <app id="var4968" type="sub">
-                    <lem>satoja peninkulmia</lem>
-                </app> kylpemään ja uimaan <app id="var4969" type="sub">
-                    <lem>etelä-maiden</lem>
-                </app> lämpimissä lähteissä. Moni <app id="var4970" type="sub">
-                    <lem>tervehtyy</lem>
-                </app>
-                <hi rend="expanded">terveysvettä juomalla;</hi> muut saavat terveytensä <app id="var4971" type="sub">
-                    <lem>takasi</lem>
-                </app> uimalla eli kylpemällä kylmässä vedessä <app id="var4972" type="sub">
-                    <lem>vissein</lem>
-                </app> määräysten <app id="var4973" type="sub">
-                    <lem>jälkeen, joita lääkäri säätää. Maassammekin</lem>
-                </app> on <app id="var4974" type="sub">
-                    <lem><hi rend="expanded">terveys-vesi-lähteitä,</hi></lem>
-                </app> mutta ei <app id="var4975" type="sub">
-                    <lem>yhtään</lem>
-                </app> lämmintä. <app id="var4976" type="sub">
-                    <lem>Turussa</lem>
-                </app> on <app id="var4977" type="sub">
-                    <lem><hi rend="expanded">kylmä-vesinen parannuslaitos.</hi> Jos uit
-                        meressä eli</lem>
-                </app> muuten kylmässä <app id="var4978" type="sub">
-                    <lem>vedessä, elä</lem>
-                </app> pelkää <app id="var4979" type="sub">
-                    <lem>ollenkaan vettä,</lem>
-                </app> jos <pb type="orig" n="145"/><app id="var4980" type="sub">
-                    <lem>olet palavissasikin.</lem>
-                </app> Vedessä <app id="var4981" type="sub">
-                    <lem>ei vilustuta,</lem>
-                </app> vaan <app id="var4982" type="sub">
-                    <lem>paremmin</lem>
-                </app> kylmässä ilmassa. Riisu <app id="var4983" type="sub">
-                    <lem>siis sukkelasti vaatteesi</lem>
-                </app> ja <app id="var4984" type="sub">
-                    <lem>pukeu niihin jälleen pian. Eläkä juokse, niin</lem>
-                </app> että hengästyt, <app id="var4985" type="sub">
-                    <lem>ennen uimista, eläkä</lem>
-                </app> ui <app id="var4986" type="sub">
-                    <lem>kohta syönnin jälkeen,</lem>
-                </app> sillä se <app id="var4987" type="sub">
-                    <lem>on vahingollista.</lem>
-                </app></p>
+                        </choice>, siksi kun</lem></app> se on hyvin 
+                <app id="var4933" type="sub"><lem>alaista. Siinä</lem></app> on meri muinoin 
+                <app id="var4934" type="sub"><lem>lainehtinut maan päällä,</lem></app> mutta 
+                <app id="var4935" type="sub"><lem>sitte</lem></app> on 
+                <app id="var4936" type="sub"><lem>meren-hieta kokounut harjanteihin rannoille, juuri kuin
+                        muureiksi</lem></app> aaltoja vastaan. 
+                <app id="var4937" type="sub"><lem>Uuttera väki on rakentanut suuria patoja</lem></app> puista, kivistä ja savesta <pb type="orig" n="144"/>
+                <app id="var4938" type="sub"><lem>merta</lem></app> vastaan. Ja se vesi, 
+                <app id="var4939" type="sub"><lem>jonka meri</lem></app> on 
+                <app id="var4940" type="sub"><lem>jättänyt sisäpuolelle patoja,</lem></app> on pumputtu 
+                <app id="var4941" type="sub"><lem>takasi</lem></app> mereen. 
+                <app id="var4942" type="sub"><lem>Niin</lem></app> on 
+                <app id="var4943" type="sub"><lem>saatu suuri kappale maata meren alta.</lem></app> Mutta välistä, kun on kova myrsky ja 
+                <app id="var4944" type="sub"><lem>meri-vesi pauhuaa korkealla,</lem></app> tapahtuu vieläkin, että meri murtaa padot ja 
+                <app id="var4945" type="sub"><lem>juurikuin ottaa valtaansa</lem></app> entisen 
+                <app id="var4946" type="sub"><lem>alustansa.</lem></app> Silloin tapahtuu näillä 
+                <app id="var4947" type="sub"><lem>tienoilla</lem></app> suuria 
+                <app id="var4948" type="sub"><lem>häviöitä,</lem></app> niin että on nähty 
+                <app id="var4949" type="sub"><lem>monia kaupunkeja</lem></app> ja 
+                <app id="var4950" type="sub"><lem>kyliä</lem></app> kaikkine 
+                <app id="var4951" type="sub"><lem>asukkaineen nieleyvän meren aaltoihin. Niin nähdään siinäkin,
+                        jossa</lem></app> nyt laivat 
+                <app id="var4952" type="sub"><lem>purjehtivat merellä, jotakuta pistäyvän ylös vedestä,</lem></app> ja tarkemmin 
+                <app id="var4953" type="sub"><lem>katsottua tutaan se kirkontorniksi kylässä,</lem></app> joka 
+                <app id="var4954" type="sub"><lem>kauvan aikaa jälkeenpäin</lem></app> on 
+                <app id="var4955" type="sub"><lem>mennyt veden alle.</lem></app> — Usein 
+                <app id="var4956" type="sub"><lem>kuullaan, kuinka laivoja</lem></app> ja 
+                <app id="var4957" type="sub"><lem>veneitä tulee haaksi-rikkoon merellä,</lem></app> ja joka vuosi hukkuu tällä lailla monta ihmistä. 
+                <app id="var4958" type="sub"><lem>Muita putoaa kehnoon</lem></app> jäähän, 
+                <app id="var4959" type="sub"><lem>eli hukkuu uidessa;</lem></app> sillä ihmiset kuolevat 
+                <app id="var4960" type="sub"><lem>vedessä sentähden,</lem></app> etteivät 
+                <app id="var4961" type="sub"><lem>siinä voi</lem></app> hengittää.</p>
+            <head style="blackletter">
+                <app id="var4962" type="sub"><lem><hi rend="bold">Vedestä</hi></lem></app><hi rend="bold"> lääkkeenä.</hi></head>
+            <p style="blackletter">Mutta onpa Jumala 
+                <app id="var4963" type="sub"><lem>antanut vedelle avullisen, virvoittavan</lem></app> ja parantavan voiman. Vedettä ei voi yksikään 
+                <app id="var4964" type="sub"><lem>kasvu,</lem></app> ei yksikään eläin, ei yksikään ihminen 
+                <app id="var4965" type="sub"><lem>elää;</lem></app> moni 
+                <app id="var4966" type="sub"><lem>kivuloinen</lem></app> saapi vedellä terveytensä 
+                <app id="var4967" type="sub"><lem>takasi. Monta sairasta</lem></app> matkustaa 
+                <app id="var4968" type="sub"><lem>satoja peninkulmia</lem></app> kylpemään ja uimaan 
+                <app id="var4969" type="sub"><lem>etelä-maiden</lem></app> lämpimissä lähteissä. Moni 
+                <app id="var4970" type="sub"><lem>tervehtyy</lem></app>
+                <hi rend="expanded">terveysvettä juomalla;</hi> muut saavat terveytensä 
+                <app id="var4971" type="sub"><lem>takasi</lem></app> uimalla eli kylpemällä kylmässä vedessä 
+                <app id="var4972" type="sub"><lem>vissein</lem></app> määräysten 
+                <app id="var4973" type="sub"><lem>jälkeen, joita lääkäri säätää. Maassammekin</lem></app> on 
+                <app id="var4974" type="sub"><lem><hi rend="expanded">terveys-vesi-lähteitä,</hi></lem></app> mutta ei 
+                <app id="var4975" type="sub"><lem>yhtään</lem></app> lämmintä. 
+                <app id="var4976" type="sub"><lem>Turussa</lem></app> on 
+                <app id="var4977" type="sub"><lem><hi rend="expanded">kylmä-vesinen parannuslaitos.</hi> Jos uit
+                        meressä eli</lem></app> muuten kylmässä 
+                <app id="var4978" type="sub"><lem>vedessä, elä</lem></app> pelkää 
+                <app id="var4979" type="sub"><lem>ollenkaan vettä,</lem></app> jos <pb type="orig" n="145"/>
+                <app id="var4980" type="sub"><lem>olet palavissasikin.</lem></app> Vedessä 
+                <app id="var4981" type="sub"><lem>ei vilustuta,</lem></app> vaan 
+                <app id="var4982" type="sub"><lem>paremmin</lem></app> kylmässä ilmassa. Riisu 
+                <app id="var4983" type="sub"><lem>siis sukkelasti vaatteesi</lem></app> ja 
+                <app id="var4984" type="sub"><lem>pukeu niihin jälleen pian. Eläkä juokse, niin</lem></app> että hengästyt, 
+                <app id="var4985" type="sub"><lem>ennen uimista, eläkä</lem></app> ui 
+                <app id="var4986" type="sub"><lem>kohta syönnin jälkeen,</lem></app> sillä se 
+                <app id="var4987" type="sub"><lem>on vahingollista.</lem></app></p>
             <head style="blackletter"><hi rend="bold">Maamme vesistä.</hi></head>
-            <p style="blackletter">Maassamme on <app id="var4988" type="sub">
-                    <lem>useita isoja jokia, niinkun Keminjoki, Oulunjoki,</lem>
-                </app> Kokemäenjoki ja <app id="var4989" type="sub">
-                    <lem>Vuoksenjoki;</lem>
-                </app> mutta muissa maissa on <app id="var4990" type="sub">
-                    <lem>vielä paljoa</lem>
-                </app> isompia jokia, <app id="var4991" type="sub">
-                    <lem>ja sellaisia, jotka suista</lem>
-                </app> ovat <app id="var4992" type="sub">
-                    <lem>juurikuin meriä.</lem>
-                </app> Maamme joissa on <app id="var4993" type="sub">
-                    <lem>monta koskea, joissa tarvitaan hyvää</lem>
-                </app> taitoa <app id="var4994" type="sub">
-                    <lem>saattaa laskea</lem>
-                </app> kivien välitse. Täällä on <app id="var4995" type="sub">
-                    <lem>myös</lem>
-                </app> monta <app id="var4996" type="sub">
-                    <lem>pienempääkin</lem>
-                </app> jokea ja <app id="var4997" type="sub">
-                    <lem>ojaa.</lem>
-                </app> Kaksi suurta <app id="var4998" type="sub">
-                    <lem><hi rend="expanded">koskiputousta</hi> (köngästä),</lem>
-                </app> Imatra ja <app id="var4999" type="sub">
-                    <lem>Kyrönkoski, ovat</lem>
-                </app> Suomen <app id="var5000" type="sub">
-                    <lem>kaunistuksina.</lem>
-                </app> Siellä ei kuule <app id="var5001" type="sub">
-                    <lem>kukaan</lem>
-                </app> toisen <app id="var5002" type="sub">
-                    <lem>puhetta rannalla, sillä</lem>
-                </app> niin kova on pauhu. Niitä ei <app id="var5003" type="sub">
-                    <lem>voi</lem>
-                </app> yksikään vene <app id="var5004" type="sub">
-                    <lem>häveämättä päästä alas.</lem>
-                </app> Välistä nähdään paksun <app id="var5005" type="sub">
-                    <lem>hirren menevän putousta alas, ja</lem>
-                </app> ennenkuin se on <app id="var5006" type="sub">
-                    <lem>päässyt alle, on</lem>
-                </app> sen jo <app id="var5007" type="sub">
-                    <lem>koski kivissä rouhinut pieniksi</lem>
-                </app> säpäleiksi. Mutta <app id="var5008" type="sub">
-                    <lem>suurin koskiputous (köngäs) koko maan päällä</lem>
-                </app> on Amerikassa, ja sen nimi on Niagara. Siitä kuuluu <app id="var5009" type="sub">
-                    <lem>hirmuinen pauhu monen peninkulman päähän.</lem>
-                </app> Ja <app id="var5010" type="sub">
-                    <lem>kuin</lem>
-                </app> aurinko paistaa utuun, <app id="var5011" type="sub">
-                    <lem>joka alinomaa pirskuu ylös putouksesta,</lem>
-                </app> näkyy siinä <app id="var5012" type="sub">
-                    <lem>kaunis vesikaari.</lem>
-                </app></p>
-            <p style="blackletter">Kaksi merta <app id="var5013" type="sub">
-                    <lem>lainehtii</lem>
-                </app> Suomen <app id="var5014" type="sub">
-                    <lem>rantamaita vasten,</lem>
-                </app> nimittäin Pohjanlahti ja Suomenlahti. Nämä molemmat suuret lahdet
-                ovat osia sisämerestä, <app id="var5015" type="sub">
-                    <lem>Itämerestä,</lem>
-                </app> joka taas on valtameren lahti. Maassamme on monta tuhatta <app id="var5016" type="sub">
-                    <lem><hi rend="expanded">maavesiä,</hi> järveä</lem>
-                </app> ja <app id="var5017" type="sub">
-                    <lem>lampia, muutamat suuria, toiset</lem>
-                </app> pieniä. <app id="var5018" type="sub">
-                    <lem>On</lem>
-                </app> siis <app id="var5019" type="sub">
-                    <lem>Jumala</lem>
-                </app> siunannut <app id="var5020" type="sub">
-                    <lem>tämän kauniin maan paremmin <pb type="orig" n="146"/>kuin usiat
-                        muut maat maan päällä suurella</lem>
-                </app> veden rikkaudella. <app id="var5021" type="sub">
-                    <lem>Merenranta-vesissä</lem>
-                </app> on <app id="var5022" type="sub">
-                    <lem>saaristoja, saaria, kareja</lem>
-                </app> ja <app id="var5023" type="sub">
-                    <lem>luotoja,</lem>
-                </app> joskus ihanoita, joskus vaarallisiakin. Onpa <app id="var5024" type="sub">
-                    <lem>koko maakuntia</lem>
-                </app> ja <app id="var5025" type="sub">
-                    <lem>pitäjiä,</lem>
-                </app> niinkuin <app id="var5026" type="sub">
-                    <lem>Ahvenanmaa (Oolanti),</lem>
-                </app> meren piirittämiä. Mutta <app id="var5027" type="sub">
-                    <lem>se on kummallista,</lem>
-                </app> että rantamaamme <app id="var5028" type="sub">
-                    <lem>alinomaa lisäyvät. Alinomaa levenevät</lem>
-                </app> ne <app id="var5029" type="sub">
-                    <lem>ulospäin, sillä</lem>
-                </app> että vesi <app id="var5030" type="sub">
-                    <lem>vetäypi takasi,</lem>
-                </app> niin että nyt <app id="var5031" type="sub">
-                    <lem>saatetaan</lem>
-                </app> kävellä kuivin <app id="var5032" type="sub">
-                    <lem>jaloin,</lem>
-                </app> missä satoja vuosia tätä ennen vedettiin nuottaa ja <app id="var5033" type="sub">
-                    <lem>soudeltiin</lem>
-                </app> veneellä. Tämä <app id="var5034" type="sub">
-                    <lem>tulee siitä syystä,</lem>
-                </app> että maa <app id="var5035" type="sub">
-                    <lem>nousee maanalaisesta voimasta. Sitämyöten vetäypi</lem>
-                </app> vesikin <app id="var5036" type="sub">
-                    <lem>rannoilta etemmä,</lem>
-                </app> ja näin <app id="var5037" type="sub">
-                    <lem>tulee</lem>
-                </app> Suomemme alinomaa <app id="var5038" type="sub">
-                    <lem>isommaksi.</lem>
-                </app></p>
-            <p style="blackletter"><app id="var5039" type="sub">
-                    <lem>Haluatko</lem>
-                </app> nähdä <app id="var5040" type="sub">
-                    <lem>kaivantoa,</lem>
-                </app> niin <app id="var5041" type="sub">
-                    <lem>mene Saiman</lem>
-                </app> rannalle; se on maamme suurin <app id="var5042" type="sub">
-                    <lem>maavesi. Siihen</lem>
-                </app> on <app id="var5043" type="sub">
-                    <lem>keisari maamme rahain suurella kustannuksella teettänyt
-                        kaivannon,</lem>
-                </app> joka on <app id="var5044" type="sub">
-                    <lem>liki viittä peninkulmaa pitkä,</lem>
-                </app> ja <app id="var5045" type="sub">
-                    <lem>siinä</lem>
-                </app> on 28 sulkulaitosta. Yksitoista vuotta on monta sataa miestä sitä
-                valmistanut. <app id="var5046" type="sub">
-                    <lem>Ne</lem>
-                </app> ovat murtaneet <app id="var5047" type="sub">
-                    <lem>juovan</lem>
-                </app> suurten vuorten <app id="var5048" type="sub">
-                    <lem>läpi</lem>
-                </app> ja kaivaneet <app id="var5049" type="sub">
-                    <lem>sen</lem>
-                </app> sekä <app id="var5050" type="sub">
-                    <lem>soiden</lem>
-                </app> että <app id="var5051" type="sub">
-                    <lem>hietaharjuin läpitse. Ne</lem>
-                </app> ovat muuranneet lujia seiniä kivestä ja rakentaneet <app id="var5052" type="sub">
-                    <lem>kauniimpia</lem>
-                </app> patoja ja <app id="var5053" type="sub">
-                    <lem>kamareja sulkulaitoksiin.</lem>
-                </app> Mutta <app id="var5054" type="sub">
-                    <lem>onki se nyt teos, josta</lem>
-                </app> maallemme <app id="var5055" type="sub">
-                    <lem>on ijäistä</lem>
-                </app> hyötyä. Sillä ennen täytyi <app id="var5056" type="sub">
-                    <lem>kulettaa kaikellaisia kaluja maisin reillä</lem>
-                </app> ja <app id="var5057" type="sub">
-                    <lem>kärryillä Saiman rannoilta mereen.</lem>
-                </app> Se vei paljon aikaa ja oli hyvin <app id="var5058" type="sub">
-                    <lem>vaivaloista.</lem>
-                </app> Mutta nyt saadaan <app id="var5059" type="sub">
-                    <lem>kaikkia</lem>
-                </app> paljoa <app id="var5060" type="sub">
-                    <lem>sukkelammasti</lem>
-                </app> ja <app id="var5061" type="sub">
-                    <lem>helpommasti</lem>
-                </app> aluksilla, jotka kulkevat <app id="var5062" type="sub">
-                    <lem>ylös- ja alaspäin pitkin <hi rend="expanded">Saiman
-                        kaivantoa.</hi></lem>
-                </app></p>
+            <p style="blackletter">Maassamme on 
+                <app id="var4988" type="sub"><lem>useita isoja jokia, niinkun Keminjoki, Oulunjoki,</lem></app> Kokemäenjoki ja 
+                <app id="var4989" type="sub"><lem>Vuoksenjoki;</lem></app> mutta muissa maissa on 
+                <app id="var4990" type="sub"><lem>vielä paljoa</lem></app> isompia jokia, 
+                <app id="var4991" type="sub"><lem>ja sellaisia, jotka suista</lem></app> ovat 
+                <app id="var4992" type="sub"><lem>juurikuin meriä.</lem></app> Maamme joissa on 
+                <app id="var4993" type="sub"><lem>monta koskea, joissa tarvitaan hyvää</lem></app> taitoa 
+                <app id="var4994" type="sub"><lem>saattaa laskea</lem></app> kivien välitse. Täällä on 
+                <app id="var4995" type="sub"><lem>myös</lem></app> monta 
+                <app id="var4996" type="sub"><lem>pienempääkin</lem></app> jokea ja 
+                <app id="var4997" type="sub"><lem>ojaa.</lem></app> Kaksi suurta 
+                <app id="var4998" type="sub"><lem><hi rend="expanded">koskiputousta</hi> (köngästä),</lem></app> Imatra ja 
+                <app id="var4999" type="sub"><lem>Kyrönkoski, ovat</lem></app> Suomen 
+                <app id="var5000" type="sub"><lem>kaunistuksina.</lem></app> Siellä ei kuule 
+                <app id="var5001" type="sub"><lem>kukaan</lem></app> toisen 
+                <app id="var5002" type="sub"><lem>puhetta rannalla, sillä</lem></app> niin kova on pauhu. Niitä ei 
+                <app id="var5003" type="sub"><lem>voi</lem></app> yksikään vene 
+                <app id="var5004" type="sub"><lem>häveämättä päästä alas.</lem></app> Välistä nähdään paksun 
+                <app id="var5005" type="sub"><lem>hirren menevän putousta alas, ja</lem></app> ennenkuin se on 
+                <app id="var5006" type="sub"><lem>päässyt alle, on</lem></app> sen jo 
+                <app id="var5007" type="sub"><lem>koski kivissä rouhinut pieniksi</lem></app> säpäleiksi. Mutta 
+                <app id="var5008" type="sub"><lem>suurin koskiputous (köngäs) koko maan päällä</lem></app> on Amerikassa, ja sen nimi on Niagara. Siitä kuuluu 
+                <app id="var5009" type="sub"><lem>hirmuinen pauhu monen peninkulman päähän.</lem></app> Ja 
+                <app id="var5010" type="sub"><lem>kuin</lem></app> aurinko paistaa utuun, 
+                <app id="var5011" type="sub"><lem>joka alinomaa pirskuu ylös putouksesta,</lem></app> näkyy siinä 
+                <app id="var5012" type="sub"><lem>kaunis vesikaari.</lem></app></p>
+            <p style="blackletter">Kaksi merta 
+                <app id="var5013" type="sub"><lem>lainehtii</lem></app> Suomen 
+                <app id="var5014" type="sub"><lem>rantamaita vasten,</lem></app> nimittäin Pohjanlahti ja Suomenlahti. Nämä molemmat suuret lahdet
+                ovat osia sisämerestä, 
+                <app id="var5015" type="sub"><lem>Itämerestä,</lem></app> joka taas on valtameren lahti. Maassamme on monta tuhatta 
+                <app id="var5016" type="sub"><lem><hi rend="expanded">maavesiä,</hi> järveä</lem></app> ja 
+                <app id="var5017" type="sub"><lem>lampia, muutamat suuria, toiset</lem></app> pieniä. 
+                <app id="var5018" type="sub"><lem>On</lem></app> siis 
+                <app id="var5019" type="sub"><lem>Jumala</lem></app> siunannut 
+                <app id="var5020" type="sub"><lem>tämän kauniin maan paremmin <pb type="orig" n="146"/>kuin usiat
+                        muut maat maan päällä suurella</lem></app> veden rikkaudella. 
+                <app id="var5021" type="sub"><lem>Merenranta-vesissä</lem></app> on 
+                <app id="var5022" type="sub"><lem>saaristoja, saaria, kareja</lem></app> ja 
+                <app id="var5023" type="sub"><lem>luotoja,</lem></app> joskus ihanoita, joskus vaarallisiakin. Onpa 
+                <app id="var5024" type="sub"><lem>koko maakuntia</lem></app> ja 
+                <app id="var5025" type="sub"><lem>pitäjiä,</lem></app> niinkuin 
+                <app id="var5026" type="sub"><lem>Ahvenanmaa (Oolanti),</lem></app> meren piirittämiä. Mutta 
+                <app id="var5027" type="sub"><lem>se on kummallista,</lem></app> että rantamaamme 
+                <app id="var5028" type="sub"><lem>alinomaa lisäyvät. Alinomaa levenevät</lem></app> ne 
+                <app id="var5029" type="sub"><lem>ulospäin, sillä</lem></app> että vesi 
+                <app id="var5030" type="sub"><lem>vetäypi takasi,</lem></app> niin että nyt 
+                <app id="var5031" type="sub"><lem>saatetaan</lem></app> kävellä kuivin 
+                <app id="var5032" type="sub"><lem>jaloin,</lem></app> missä satoja vuosia tätä ennen vedettiin nuottaa ja 
+                <app id="var5033" type="sub"><lem>soudeltiin</lem></app> veneellä. Tämä 
+                <app id="var5034" type="sub"><lem>tulee siitä syystä,</lem></app> että maa 
+                <app id="var5035" type="sub"><lem>nousee maanalaisesta voimasta. Sitämyöten vetäypi</lem></app> vesikin 
+                <app id="var5036" type="sub"><lem>rannoilta etemmä,</lem></app> ja näin 
+                <app id="var5037" type="sub"><lem>tulee</lem></app> Suomemme alinomaa 
+                <app id="var5038" type="sub"><lem>isommaksi.</lem></app></p>
+            <p style="blackletter">
+                <app id="var5039" type="sub"><lem>Haluatko</lem></app> nähdä 
+                <app id="var5040" type="sub"><lem>kaivantoa,</lem></app> niin 
+                <app id="var5041" type="sub"><lem>mene Saiman</lem></app> rannalle; se on maamme suurin 
+                <app id="var5042" type="sub"><lem>maavesi. Siihen</lem></app> on 
+                <app id="var5043" type="sub"><lem>keisari maamme rahain suurella kustannuksella teettänyt
+                        kaivannon,</lem></app> joka on 
+                <app id="var5044" type="sub"><lem>liki viittä peninkulmaa pitkä,</lem></app> ja 
+                <app id="var5045" type="sub"><lem>siinä</lem></app> on 28 sulkulaitosta. Yksitoista vuotta on monta sataa miestä sitä
+                valmistanut. 
+                <app id="var5046" type="sub"><lem>Ne</lem></app> ovat murtaneet 
+                <app id="var5047" type="sub"><lem>juovan</lem></app> suurten vuorten 
+                <app id="var5048" type="sub"><lem>läpi</lem></app> ja kaivaneet 
+                <app id="var5049" type="sub"><lem>sen</lem></app> sekä 
+                <app id="var5050" type="sub"><lem>soiden</lem></app> että 
+                <app id="var5051" type="sub"><lem>hietaharjuin läpitse. Ne</lem></app> ovat muuranneet lujia seiniä kivestä ja rakentaneet 
+                <app id="var5052" type="sub"><lem>kauniimpia</lem></app> patoja ja 
+                <app id="var5053" type="sub"><lem>kamareja sulkulaitoksiin.</lem></app> Mutta 
+                <app id="var5054" type="sub"><lem>onki se nyt teos, josta</lem></app> maallemme 
+                <app id="var5055" type="sub"><lem>on ijäistä</lem></app> hyötyä. Sillä ennen täytyi 
+                <app id="var5056" type="sub"><lem>kulettaa kaikellaisia kaluja maisin reillä</lem></app> ja 
+                <app id="var5057" type="sub"><lem>kärryillä Saiman rannoilta mereen.</lem></app> Se vei paljon aikaa ja oli hyvin 
+                <app id="var5058" type="sub"><lem>vaivaloista.</lem></app> Mutta nyt saadaan 
+                <app id="var5059" type="sub"><lem>kaikkia</lem></app> paljoa 
+                <app id="var5060" type="sub"><lem>sukkelammasti</lem></app> ja 
+                <app id="var5061" type="sub"><lem>helpommasti</lem></app> aluksilla, jotka kulkevat 
+                <app id="var5062" type="sub"><lem>ylös- ja alaspäin pitkin <hi rend="expanded">Saiman
+                        kaivantoa.</hi></lem></app></p>
             <pb type="orig" n="147"/>
             <head style="romanType"><anchor id="struct168a"/><hi rend="bold">Lähde.</hi><anchor id="struct168b"/></head>
-            <head style="romanType"><hi rend="bold">Lähde </hi><app id="var5063" type="sub">
-                    <lem><hi rend="bold">keväillä.</hi></lem>
-                </app></head>
+            <head style="romanType"><hi rend="bold">Lähde </hi>
+                <app id="var5063" type="sub"><lem><hi rend="bold">keväillä.</hi></lem></app></head>
             <pb type="orig" n="149"/>
             <head><anchor id="struct169a"/>
                 <anchor id="struct169b"/></head>

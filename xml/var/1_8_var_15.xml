@@ -15,1360 +15,747 @@
 	<profileDesc><creation><idNo>8</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Kahdeksas Luku. Kivikunnasta</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
     <text>
         <body xml:space="preserve">
-            <head type="section" style="blackletter"><hi rend="bold">Kahdeksas</hi> <app id="var3556" type="sub">
-                    <lem><hi rend="bold">Luku.</hi></lem>
-                </app></head>
+            <head type="section" style="blackletter"><hi rend="bold">Kahdeksas</hi> 
+                <app id="var3556" type="sub"><lem><hi rend="bold">Luku.</hi></lem></app></head>
             <head type="section" style="blackletter"><hi rend="bold expanded">Kivikunnasta.</hi></head>
-            <p style="blackletter"><app id="var3557" type="int">
-                    <lem>Tule</lem>
-                </app> Liisa, mennäänpä isän <app id="var3558" type="sub">
-                    <lem>luokse</lem>
-                </app> pellolle. Kanna sinä <app id="var3559" type="sub">
-                    <lem>kruukkua,</lem>
-                </app> minä kannan kirvestä. <app id="var3560" type="sub">
-                    <lem>Kruukku</lem>
-                </app> on <app id="var3561" type="sub">
-                    <lem>poltetusta savesta,</lem>
-                </app> ja <app id="var3562" type="sub">
-                    <lem>siinä</lem>
-                </app> on suoloja. Kirves on <app id="var3563" type="sub">
-                    <lem>raudasta,</lem>
-                </app> ja sen terä <app id="var3564" type="sub">
-                    <lem>on teräksestä.</lem>
-                </app> Isä kyntää peltoa ja <app id="var3565" type="sub">
-                    <lem>korjaa</lem>
-                </app> siitä <app id="var3566" type="sub">
-                    <lem>kiviä</lem>
-                </app> pois.</p>
-            <p style="blackletter"><app id="var3567" type="sub">
-                    <lem>Saatatteko</lem>
-                </app> sanoa meille, isä, mitä savi on? Ovatko suolat <app id="var3568" type="sub">
-                    <lem>eläviä?</lem>
-                </app> Ovatko rauta ja teräs kasveja? Ja mitä ovat multa ja kivet?</p>
-            <p style="blackletter">Muista <app id="var3569" type="sub">
-                    <lem>se,</lem>
-                </app> sanoo <app id="var3570" type="sub">
-                    <lem>isä<choice>
+            <p style="blackletter">
+                <app id="var3557" type="int"><lem>Tule</lem></app> Liisa, mennäänpä isän 
+                <app id="var3558" type="sub"><lem>luokse</lem></app> pellolle. Kanna sinä 
+                <app id="var3559" type="sub"><lem>kruukkua,</lem></app> minä kannan kirvestä. 
+                <app id="var3560" type="sub"><lem>Kruukku</lem></app> on 
+                <app id="var3561" type="sub"><lem>poltetusta savesta,</lem></app> ja 
+                <app id="var3562" type="sub"><lem>siinä</lem></app> on suoloja. Kirves on 
+                <app id="var3563" type="sub"><lem>raudasta,</lem></app> ja sen terä 
+                <app id="var3564" type="sub"><lem>on teräksestä.</lem></app> Isä kyntää peltoa ja 
+                <app id="var3565" type="sub"><lem>korjaa</lem></app> siitä 
+                <app id="var3566" type="sub"><lem>kiviä</lem></app> pois.</p>
+            <p style="blackletter">
+                <app id="var3567" type="sub"><lem>Saatatteko</lem></app> sanoa meille, isä, mitä savi on? Ovatko suolat 
+                <app id="var3568" type="sub"><lem>eläviä?</lem></app> Ovatko rauta ja teräs kasveja? Ja mitä ovat multa ja kivet?</p>
+            <p style="blackletter">Muista 
+                <app id="var3569" type="sub"><lem>se,</lem></app> sanoo 
+                <app id="var3570" type="sub"><lem>isä<choice>
                             <orig>?</orig>
                             <reg>.</reg>
-                        </choice> Elävät</lem>
-                </app> ja kasvit ovat eläviä olentoja. Ne syntyvät ja kasvavat sisältäpäin
-                    <app id="var3571" type="sub">
-                    <lem>kaikellaisella ravinnolla.</lem>
-                </app> Aikansa <app id="var3572" type="sub">
-                    <lem>elettyä</lem>
-                </app> tulevat ne vanhoiksi ja kuolevat; mutta <app id="var3573" type="sub">
-                    <lem>niiden sikiät</lem>
-                </app> kasvavat <app id="var3574" type="sub">
-                    <lem>niiden sijaan. Niin</lem>
-                </app> muuttuvat alinomaa eläinkunnan ja kasvikunnan asujat. Ja kuitenkin
-                    <app id="var3575" type="sub">
-                    <lem>näyttävät ne alinomaa</lem>
-                </app> olevan <app id="var3576" type="sub">
-                    <lem>samallaisia.</lem>
-                </app> Kotivarpunen, joka <app id="var3577" type="sub">
-                    <lem>laulaa tirskuttaa katolla,</lem>
-                </app> on laulanut siellä <app id="var3578" type="sub">
-                    <lem>niinkauvan</lem>
-                </app> kuin minä muistan. <app id="var3579" type="sub">
-                    <lem>Niitynruoho</lem>
-                </app> on <app id="var3580" type="sub">
-                    <lem>samaa</lem>
-                </app> ruohoa, jota <app id="var3581" type="sub">
-                    <lem>kasvoi ollessani aivan pienenä.</lem>
-                </app> Ja kuitenkaan ei ole <app id="var3582" type="sub">
-                    <lem>se enää sama varpuinen,</lem>
-                </app> eikä <app id="var3583" type="sub">
-                    <lem>sama ruohokaan,</lem>
-                </app> vaan uusi <app id="var3584" type="sub">
-                    <lem>varpunen</lem>
-                </app> ja uusi <app id="var3585" type="sub">
-                    <lem>ruoho. Kokonaan</lem>
-                </app> toisin on kivien <app id="var3586" type="sub">
-                    <lem>asia. Elävät</lem>
-                </app> ja kasvit elävät <app id="var3587" type="sub">
-                    <lem>itsessään.</lem>
-                </app> Kivet ovat <app id="var3588" type="sub">
-                    <lem>itsessään</lem>
-                </app> hengettömiä kappaleita ja elävät <app id="var3589" type="sub">
-                    <lem>ainoasti</lem>
-                </app>
-                <pb type="orig" n="110"/>koko <app id="var3590" type="sub">
-                    <lem>sen</lem>
-                </app> suuren <app id="var3591" type="sub">
-                    <lem>mailman</lem>
-                </app> osina. Ne eivät muutu <app id="var3592" type="sub">
-                    <lem>itsessään.</lem>
-                </app> Ne eivät <app id="var3593" type="sub">
-                    <lem>synny; ne</lem>
-                </app> eivät kuole. <app id="var3594" type="sub">
-                    <lem>Eivät</lem>
-                </app> koskaan kasva sisältäpäin. Ne eivät syö, eikä niillä ole sikiöitä
+                        </choice> Elävät</lem></app> ja kasvit ovat eläviä olentoja. Ne syntyvät ja kasvavat sisältäpäin
+                    
+                <app id="var3571" type="sub"><lem>kaikellaisella ravinnolla.</lem></app> Aikansa 
+                <app id="var3572" type="sub"><lem>elettyä</lem></app> tulevat ne vanhoiksi ja kuolevat; mutta 
+                <app id="var3573" type="sub"><lem>niiden sikiät</lem></app> kasvavat 
+                <app id="var3574" type="sub"><lem>niiden sijaan. Niin</lem></app> muuttuvat alinomaa eläinkunnan ja kasvikunnan asujat. Ja kuitenkin
+                    
+                <app id="var3575" type="sub"><lem>näyttävät ne alinomaa</lem></app> olevan 
+                <app id="var3576" type="sub"><lem>samallaisia.</lem></app> Kotivarpunen, joka 
+                <app id="var3577" type="sub"><lem>laulaa tirskuttaa katolla,</lem></app> on laulanut siellä 
+                <app id="var3578" type="sub"><lem>niinkauvan</lem></app> kuin minä muistan. 
+                <app id="var3579" type="sub"><lem>Niitynruoho</lem></app> on 
+                <app id="var3580" type="sub"><lem>samaa</lem></app> ruohoa, jota 
+                <app id="var3581" type="sub"><lem>kasvoi ollessani aivan pienenä.</lem></app> Ja kuitenkaan ei ole 
+                <app id="var3582" type="sub"><lem>se enää sama varpuinen,</lem></app> eikä 
+                <app id="var3583" type="sub"><lem>sama ruohokaan,</lem></app> vaan uusi 
+                <app id="var3584" type="sub"><lem>varpunen</lem></app> ja uusi 
+                <app id="var3585" type="sub"><lem>ruoho. Kokonaan</lem></app> toisin on kivien 
+                <app id="var3586" type="sub"><lem>asia. Elävät</lem></app> ja kasvit elävät 
+                <app id="var3587" type="sub"><lem>itsessään.</lem></app> Kivet ovat 
+                <app id="var3588" type="sub"><lem>itsessään</lem></app> hengettömiä kappaleita ja elävät 
+                <app id="var3589" type="sub"><lem>ainoasti</lem></app>
+                <pb type="orig" n="110"/>koko 
+                <app id="var3590" type="sub"><lem>sen</lem></app> suuren 
+                <app id="var3591" type="sub"><lem>mailman</lem></app> osina. Ne eivät muutu 
+                <app id="var3592" type="sub"><lem>itsessään.</lem></app> Ne eivät 
+                <app id="var3593" type="sub"><lem>synny; ne</lem></app> eivät kuole. 
+                <app id="var3594" type="sub"><lem>Eivät</lem></app> koskaan kasva sisältäpäin. Ne eivät syö, eikä niillä ole sikiöitä
                 eikä siemeniä. Eivät koskaan vanhene nuo kovat vuoret. Näetkö tätä pientä
-                kiveä, joka minulla on <app id="var3595" type="sub">
-                    <lem>kädessä? Sellainen</lem>
-                </app> kuin se nyt on, sellaisena <app id="var3596" type="sub">
-                    <lem>on se pysynyt</lem>
-                </app> monta tuhatta <app id="var3597" type="sub">
-                    <lem>vuotta aina</lem>
-                </app> maan <app id="var3598" type="sub">
-                    <lem>ensimäisestä ajasta.</lem>
-                </app> Näinä tuhansina vuosina <app id="var3599" type="sub">
-                    <lem>ei se</lem>
-                </app> ole <app id="var3600" type="sub">
-                    <lem>kasvanut vähintäkään,</lem>
-                </app> ja <app id="var3601" type="sub">
-                    <lem>tuhat vuotta</lem>
-                </app> kuluttua <app id="var3602" type="sub">
-                    <lem>eteenpäin</lem>
-                </app> ei <app id="var3603" type="sub">
-                    <lem>se ole</lem>
-                </app> isompi kuin nytkään.</p>
-            <p style="blackletter"><app id="var3604" type="sub">
-                    <lem>Katsoppa,</lem>
-                </app> nyt lyön kiven rikki. Se menee <app id="var3605" type="sub">
-                    <lem>palaisiksi,</lem>
-                </app> ja jokainen <app id="var3606" type="sub">
-                    <lem>palainen</lem>
-                </app> on eri kivi. Mutta <app id="var3607" type="sub">
-                    <lem>elävää eli</lem>
-                </app> kasvia en saata lyödä rikki, <app id="var3608" type="sub">
-                    <lem>ilman etteivät ne kuole.</lem>
-                </app> Kahdesta pienestä kirveestä saatan takoa ison kirveen. Mutta enpä
-                saata kahdesta pienestä kananpojasta tehdä <app id="var3609" type="sub">
-                    <lem>kukkoa eli</lem>
-                </app> kahdesta pienestä männystä isoa <app id="var3610" type="sub">
-                    <lem>petäjätä.</lem>
-                </app> Eläin ja kasvi ovat kumpikin <app id="var3611" type="sub">
-                    <lem>jo itsestään niinkuin valmiita.</lem>
-                </app> Mutta suuresta <app id="var3612" type="sub">
-                    <lem>rautakangista</lem>
-                </app> saatan takoa <app id="var3613" type="sub">
-                    <lem>tuhat</lem>
-                </app> naulaa, ja jokainen naula on rautaa.</p>
-            <p style="blackletter">Enkö saata takoa muuta kuin rautaa? <app id="var3614" type="sub">
-                    <lem>Aivan vissisti,</lem>
-                </app> saatan takoa useampia <hi rend="expanded">metalleja.</hi> Sillä
-                kivikuntaan luemme monta kappaletta maan päällä, joilla ei ole <app id="var3615" type="sub">
-                    <lem>erinäistä</lem>
-                </app> elämää. Metallit ovat läpinäkymättömiä, <app id="var3616" type="sub">
-                    <lem>tiheitä</lem>
-                </app> kappaleita. <app id="var3617" type="sub">
-                    <lem>Useat</lem>
-                </app> sulavat kuumuudessa, mutta kovenevat <app id="var3618" type="int">
-                    <lem>jälleen</lem>
-                </app> tultuaan kylmempään ilmaan. Olen nähnyt sellaisiakin, joita on <app id="var3619" type="sub">
-                    <lem>löydetty maasta</lem>
-                </app> puhtaina ja <app id="var3620" type="sub">
-                    <lem>sekoittamattomina.</lem>
-                </app> Mutta tavallisesti murretaan <app id="var3621" type="sub">
-                    <lem>metalli-malmi kaivannoista vuorissa,</lem>
-                </app> ja rautamalmia saadaan <app id="var3622" type="sub">
-                    <lem>järvien</lem>
-                </app> pohjastakin. <app id="var3623" type="sub">
-                    <lem>Sitte kuumennetaan</lem>
-                </app> malmi hiilillä sekoitettuna <app id="var3624" type="sub">
-                    <lem>mas-uuneissa, puhdistettavaksi</lem>
-                </app> muista aineista. Silloin rauta sulaa, juoksee ulos, <app id="var3625" type="sub">
-                    <lem>jähmistyy</lem>
-                </app> harkoiksi <app id="var3626" type="sub">
-                    <lem>eli</lem>
-                </app> taotaan kangiksi, niinkuin <app id="var3627" type="sub">
-                    <lem>rauta-pruukeissa</lem>
-                </app> on tapana. Muutamat metallit eivät <app id="var3628" type="sub">
-                    <lem>ruostu ollen<pb type="orig" n="111"/>kaan</lem>
-                </app> ilmassa, eivätkä kulu kovimmassakaan tulessa; <app id="var3629" type="sub">
-                    <lem>ja siksi kutsutaan</lem>
-                </app> niitä <app id="var3630" type="sub">
-                    <lem><hi rend="expanded">kalleiksi</hi></lem>
-                </app> metalleiksi. Sormessani on sormus ja <app id="var3631" type="sub">
-                    <lem>säästö-kukkarossani</lem>
-                </app> on <app id="var3632" type="sub">
-                    <lem>keltanen</lem>
-                </app> raha. Molemmat ovat <hi rend="expanded">kultaa,</hi> joka on <app id="var3633" type="sub">
-                    <lem>kallis</lem>
-                </app> metalli ja <app id="var3634" type="sub">
-                    <lem>saatetaan</lem>
-                </app> takoa <app id="var3635" type="sub">
-                    <lem>hienoimmiksi</lem>
-                </app> levyiksi. Kultaa on harvassa, ja se on hyvin kallista. Se on
-                yhdeksäntoista kertaa raskaampi vettä, ja <app id="var3636" type="sub">
-                    <lem>löytyy ainoasti</lem>
-                </app> yksi sitä raskaampi <app id="var3637" type="sub">
-                    <lem>metalli,</lem>
-                </app> nimittäin valkea <hi rend="expanded">platina.</hi> Mutta <app id="var3638" type="sub">
-                    <lem>tuo valkea metallinen lusikka</lem>
-                </app> ja tuo <app id="var3639" type="sub">
-                    <lem>valkea raha</lem>
-                </app> ovat <app id="var3640" type="sub">
-                    <lem><hi rend="expanded">hopeaa,</hi></lem>
-                </app> joka on <app id="var3641" type="sub">
-                    <lem>hyödyllisin kalliista metalleista,</lem>
-                </app> sillä siitä taotaan <app id="var3642" type="sub">
-                    <lem>kaikellaisia</lem>
-                </app> kaluja, <app id="var3643" type="sub">
-                    <lem>jotka ovat sekä</lem>
-                </app> kauniita että lujia.</p>
-            <p style="blackletter">Niin on Jumala <app id="var3644" type="sub">
-                    <lem>suonut</lem>
-                </app> ihmisten <app id="var3645" type="sub">
-                    <lem>hyväksi,</lem>
-                </app> että <hi rend="expanded">rautaa,</hi> joka on hyödyllisin kaikista
-                metalleista, <app id="var3646" type="sub">
-                    <lem>löytyy</lem>
-                </app> runsaimmin <app id="var3647" type="sub">
-                    <lem>levinneenä maan</lem>
-                </app> päällä. Ihminen, joka <app id="var3648" type="sub">
-                    <lem>väärin-käyttää</lem>
-                </app> niin monia Jumalan lahjoja, on käyttänyt rautaakin miekoiksi ja
-                tappaviksi luodeiksi. <app id="var3649" type="sub">
-                    <lem>Kun rautaa on sekoitettu hiilillä,</lem>
-                </app> on siitä <app id="var3650" type="sub">
-                    <lem>tullut</lem>
-                </app>
-                <hi rend="expanded">terästä,</hi> josta taotaan <app id="var3651" type="sub">
-                    <lem>terä-aseita,</lem>
-                </app> niin että teräksellä <app id="var3652" type="sub">
-                    <lem>voidaan</lem>
-                </app> kaivaa <app id="var3653" type="sub">
-                    <lem>reikiä kallioihinkin.</lem>
-                </app> Mutta jos puukkosi terä <app id="var3654" type="sub">
-                    <lem>on jonkun</lem>
-                </app> ajan <app id="var3655" type="sub">
-                    <lem>märkänä,</lem>
-                </app> tulee siihen ruskeita <app id="var3656" type="sub">
-                    <lem>pilkkoja,</lem>
-                </app> joita sanotaan <app id="var3657" type="int">
-                    <lem><hi rend="expanded">ruosteeksi;</hi></lem>
-                </app> ja se <app id="var3658" type="sub">
-                    <lem>syöpi</lem>
-                </app> sekä rautaa että terästä.</p>
-            <p style="blackletter">Sepän takoessa <app id="var3659" type="sub">
-                    <lem>putoaa kuonaa raudasta.</lem>
-                </app> Ja rauta, jos se <app id="var3660" type="sub">
-                    <lem>saapi</lem>
-                </app> olla <app id="var3661" type="sub">
-                    <lem>kauvan</lem>
-                </app> tulessa, palaa <app id="var3662" type="sub">
-                    <lem>ruskeiksi jauhoiksi.</lem>
-                </app> Sellaisia metalleja, joita ruoste ja tuli <app id="var3663" type="sub">
-                    <lem>syöpi, kutsutaan <hi rend="expanded">alhaisiksi</hi></lem>
-                </app> metalleiksi, ja sellaisia ovat kaikki <app id="var3664" type="sub">
-                    <lem>muut,</lem>
-                </app> joita nyt luettelen.</p>
-            <p style="blackletter">Antilla on <app id="var3665" type="sub">
-                    <lem>lakkarissa</lem>
-                </app> punertava <app id="var3666" type="sub">
-                    <lem>lantti</lem>
-                </app> ja <app id="var3667" type="sub">
-                    <lem>äitillä</lem>
-                </app> on kotona kahvipannu. <app id="var3668" type="sub">
-                    <lem>Lantti</lem>
-                </app> ja kahvipannu ovat <app id="var3669" type="sub">
-                    <lem><hi rend="expanded">kuparia,</hi></lem>
-                </app> joka sietää <app id="var3670" type="sub">
-                    <lem>kovan kuumuuden,</lem>
-                </app> ennenkuin sulaa. Kun äiti keittää rautapadassa, ei <app id="var3671" type="sub">
-                    <lem>siitä ole vahinkoa, jos rauta-ruostetta tulee</lem>
-                </app> velliin. Olen nähnyt <app id="var3672" type="sub">
-                    <lem>rauta-jauhoa</lem>
-                </app> käytettävän lääkkeeksi. Mutta <app id="var3673" type="sub">
-                    <lem>aina</lem>
-                </app> tinauttaa <app id="var3674" type="sub">
-                    <lem>äiti kupari-astiansa</lem>
-                </app> sisäpuolelta. Muu<pb type="orig" n="112"/>toin <app id="var3675" type="sub">
-                    <lem><hi rend="expanded">ruostuu</hi> kupari märkyydestä</lem>
-                </app> ja <app id="var3676" type="sub">
-                    <lem>haposta,</lem>
-                </app> ja tämä ruoste on niin myrkyllistä, että ihmiset saattavat <app id="var3677" type="sub">
-                    <lem>kuolla siitä. Äitillä</lem>
-                </app> on <app id="var3678" type="sub">
-                    <lem>kynttilä-jalkoja</lem>
-                </app> ja <app id="var3679" type="sub">
-                    <lem>talrikkeja siitä</lem>
-                </app> valkeasta ja pehmeästä <hi rend="expanded">tinasta,</hi> joka <app id="var3680" type="sub">
-                    <lem>sulaa aivan pian. Kelloin valurit sulaavat kuparia</lem>
-                </app> ja <app id="var3681" type="sub">
-                    <lem>tinaa sevoin.</lem>
-                </app> Siitä tulee <app id="var3682" type="sub">
-                    <lem>valu-malmia,</lem>
-                </app> josta tehdään kirkonkelloja, <app id="var3683" type="sub">
-                    <lem>kynttiläjalkoja</lem>
-                </app> ja kulkusia. Valinkauhassa <app id="var3684" type="sub">
-                    <lem>sulataan sitä raskasta</lem>
-                </app> ja <app id="var3685" type="sub">
-                    <lem>pehmeää <hi rend="expanded">plyijyä,</hi></lem>
-                </app> josta isä valaa <app id="var3686" type="sub">
-                    <lem>luotia</lem>
-                </app> ja <app id="var3687" type="sub">
-                    <lem>haulia</lem>
-                </app> pyssyihinsä. <app id="var3688" type="sub">
-                    <lem>Plyijy</lem>
-                </app> on myrkyllistä ja samoin <app id="var3689" type="sub">
-                    <lem>on plyyvittikin,</lem>
-                </app> jota <app id="var3690" type="sub">
-                    <lem>siitä valmistetaan valkean-maaliksi.</lem>
-                </app>
-                <hi rend="expanded">Sinkki</hi> on <app id="var3691" type="sub">
-                    <lem>valkeaa</lem>
-                </app> metallia; kun sitä <app id="var3692" type="sub">
-                    <lem>sulataan kuparin</lem>
-                </app> kanssa <app id="var3693" type="sub">
-                    <lem>sevoin, tulee tästä se</lem>
-                </app> kellahtava <app id="var3694" type="sub">
-                    <lem>messinki.</lem>
-                </app> Kerran <app id="var3695" type="sub">
-                    <lem>teki isä myrkky-leipiä</lem>
-                </app> rotille. Niihin <app id="var3696" type="sub">
-                    <lem>pani hän</lem>
-                </app>
+                kiveä, joka minulla on 
+                <app id="var3595" type="sub"><lem>kädessä? Sellainen</lem></app> kuin se nyt on, sellaisena 
+                <app id="var3596" type="sub"><lem>on se pysynyt</lem></app> monta tuhatta 
+                <app id="var3597" type="sub"><lem>vuotta aina</lem></app> maan 
+                <app id="var3598" type="sub"><lem>ensimäisestä ajasta.</lem></app> Näinä tuhansina vuosina 
+                <app id="var3599" type="sub"><lem>ei se</lem></app> ole 
+                <app id="var3600" type="sub"><lem>kasvanut vähintäkään,</lem></app> ja 
+                <app id="var3601" type="sub"><lem>tuhat vuotta</lem></app> kuluttua 
+                <app id="var3602" type="sub"><lem>eteenpäin</lem></app> ei 
+                <app id="var3603" type="sub"><lem>se ole</lem></app> isompi kuin nytkään.</p>
+            <p style="blackletter">
+                <app id="var3604" type="sub"><lem>Katsoppa,</lem></app> nyt lyön kiven rikki. Se menee 
+                <app id="var3605" type="sub"><lem>palaisiksi,</lem></app> ja jokainen 
+                <app id="var3606" type="sub"><lem>palainen</lem></app> on eri kivi. Mutta 
+                <app id="var3607" type="sub"><lem>elävää eli</lem></app> kasvia en saata lyödä rikki, 
+                <app id="var3608" type="sub"><lem>ilman etteivät ne kuole.</lem></app> Kahdesta pienestä kirveestä saatan takoa ison kirveen. Mutta enpä
+                saata kahdesta pienestä kananpojasta tehdä 
+                <app id="var3609" type="sub"><lem>kukkoa eli</lem></app> kahdesta pienestä männystä isoa 
+                <app id="var3610" type="sub"><lem>petäjätä.</lem></app> Eläin ja kasvi ovat kumpikin 
+                <app id="var3611" type="sub"><lem>jo itsestään niinkuin valmiita.</lem></app> Mutta suuresta 
+                <app id="var3612" type="sub"><lem>rautakangista</lem></app> saatan takoa 
+                <app id="var3613" type="sub"><lem>tuhat</lem></app> naulaa, ja jokainen naula on rautaa.</p>
+            <p style="blackletter">Enkö saata takoa muuta kuin rautaa? 
+                <app id="var3614" type="sub"><lem>Aivan vissisti,</lem></app> saatan takoa useampia <hi rend="expanded">metalleja.</hi> Sillä
+                kivikuntaan luemme monta kappaletta maan päällä, joilla ei ole 
+                <app id="var3615" type="sub"><lem>erinäistä</lem></app> elämää. Metallit ovat läpinäkymättömiä, 
+                <app id="var3616" type="sub"><lem>tiheitä</lem></app> kappaleita. 
+                <app id="var3617" type="sub"><lem>Useat</lem></app> sulavat kuumuudessa, mutta kovenevat 
+                <app id="var3618" type="int"><lem>jälleen</lem></app> tultuaan kylmempään ilmaan. Olen nähnyt sellaisiakin, joita on 
+                <app id="var3619" type="sub"><lem>löydetty maasta</lem></app> puhtaina ja 
+                <app id="var3620" type="sub"><lem>sekoittamattomina.</lem></app> Mutta tavallisesti murretaan 
+                <app id="var3621" type="sub"><lem>metalli-malmi kaivannoista vuorissa,</lem></app> ja rautamalmia saadaan 
+                <app id="var3622" type="sub"><lem>järvien</lem></app> pohjastakin. 
+                <app id="var3623" type="sub"><lem>Sitte kuumennetaan</lem></app> malmi hiilillä sekoitettuna 
+                <app id="var3624" type="sub"><lem>mas-uuneissa, puhdistettavaksi</lem></app> muista aineista. Silloin rauta sulaa, juoksee ulos, 
+                <app id="var3625" type="sub"><lem>jähmistyy</lem></app> harkoiksi 
+                <app id="var3626" type="sub"><lem>eli</lem></app> taotaan kangiksi, niinkuin 
+                <app id="var3627" type="sub"><lem>rauta-pruukeissa</lem></app> on tapana. Muutamat metallit eivät 
+                <app id="var3628" type="sub"><lem>ruostu ollen<pb type="orig" n="111"/>kaan</lem></app> ilmassa, eivätkä kulu kovimmassakaan tulessa; 
+                <app id="var3629" type="sub"><lem>ja siksi kutsutaan</lem></app> niitä 
+                <app id="var3630" type="sub"><lem><hi rend="expanded">kalleiksi</hi></lem></app> metalleiksi. Sormessani on sormus ja 
+                <app id="var3631" type="sub"><lem>säästö-kukkarossani</lem></app> on 
+                <app id="var3632" type="sub"><lem>keltanen</lem></app> raha. Molemmat ovat <hi rend="expanded">kultaa,</hi> joka on 
+                <app id="var3633" type="sub"><lem>kallis</lem></app> metalli ja 
+                <app id="var3634" type="sub"><lem>saatetaan</lem></app> takoa 
+                <app id="var3635" type="sub"><lem>hienoimmiksi</lem></app> levyiksi. Kultaa on harvassa, ja se on hyvin kallista. Se on
+                yhdeksäntoista kertaa raskaampi vettä, ja 
+                <app id="var3636" type="sub"><lem>löytyy ainoasti</lem></app> yksi sitä raskaampi 
+                <app id="var3637" type="sub"><lem>metalli,</lem></app> nimittäin valkea <hi rend="expanded">platina.</hi> Mutta 
+                <app id="var3638" type="sub"><lem>tuo valkea metallinen lusikka</lem></app> ja tuo 
+                <app id="var3639" type="sub"><lem>valkea raha</lem></app> ovat 
+                <app id="var3640" type="sub"><lem><hi rend="expanded">hopeaa,</hi></lem></app> joka on 
+                <app id="var3641" type="sub"><lem>hyödyllisin kalliista metalleista,</lem></app> sillä siitä taotaan 
+                <app id="var3642" type="sub"><lem>kaikellaisia</lem></app> kaluja, 
+                <app id="var3643" type="sub"><lem>jotka ovat sekä</lem></app> kauniita että lujia.</p>
+            <p style="blackletter">Niin on Jumala 
+                <app id="var3644" type="sub"><lem>suonut</lem></app> ihmisten 
+                <app id="var3645" type="sub"><lem>hyväksi,</lem></app> että <hi rend="expanded">rautaa,</hi> joka on hyödyllisin kaikista
+                metalleista, 
+                <app id="var3646" type="sub"><lem>löytyy</lem></app> runsaimmin 
+                <app id="var3647" type="sub"><lem>levinneenä maan</lem></app> päällä. Ihminen, joka 
+                <app id="var3648" type="sub"><lem>väärin-käyttää</lem></app> niin monia Jumalan lahjoja, on käyttänyt rautaakin miekoiksi ja
+                tappaviksi luodeiksi. 
+                <app id="var3649" type="sub"><lem>Kun rautaa on sekoitettu hiilillä,</lem></app> on siitä 
+                <app id="var3650" type="sub"><lem>tullut</lem></app>
+                <hi rend="expanded">terästä,</hi> josta taotaan 
+                <app id="var3651" type="sub"><lem>terä-aseita,</lem></app> niin että teräksellä 
+                <app id="var3652" type="sub"><lem>voidaan</lem></app> kaivaa 
+                <app id="var3653" type="sub"><lem>reikiä kallioihinkin.</lem></app> Mutta jos puukkosi terä 
+                <app id="var3654" type="sub"><lem>on jonkun</lem></app> ajan 
+                <app id="var3655" type="sub"><lem>märkänä,</lem></app> tulee siihen ruskeita 
+                <app id="var3656" type="sub"><lem>pilkkoja,</lem></app> joita sanotaan 
+                <app id="var3657" type="int"><lem><hi rend="expanded">ruosteeksi;</hi></lem></app> ja se 
+                <app id="var3658" type="sub"><lem>syöpi</lem></app> sekä rautaa että terästä.</p>
+            <p style="blackletter">Sepän takoessa 
+                <app id="var3659" type="sub"><lem>putoaa kuonaa raudasta.</lem></app> Ja rauta, jos se 
+                <app id="var3660" type="sub"><lem>saapi</lem></app> olla 
+                <app id="var3661" type="sub"><lem>kauvan</lem></app> tulessa, palaa 
+                <app id="var3662" type="sub"><lem>ruskeiksi jauhoiksi.</lem></app> Sellaisia metalleja, joita ruoste ja tuli 
+                <app id="var3663" type="sub"><lem>syöpi, kutsutaan <hi rend="expanded">alhaisiksi</hi></lem></app> metalleiksi, ja sellaisia ovat kaikki 
+                <app id="var3664" type="sub"><lem>muut,</lem></app> joita nyt luettelen.</p>
+            <p style="blackletter">Antilla on 
+                <app id="var3665" type="sub"><lem>lakkarissa</lem></app> punertava 
+                <app id="var3666" type="sub"><lem>lantti</lem></app> ja 
+                <app id="var3667" type="sub"><lem>äitillä</lem></app> on kotona kahvipannu. 
+                <app id="var3668" type="sub"><lem>Lantti</lem></app> ja kahvipannu ovat 
+                <app id="var3669" type="sub"><lem><hi rend="expanded">kuparia,</hi></lem></app> joka sietää 
+                <app id="var3670" type="sub"><lem>kovan kuumuuden,</lem></app> ennenkuin sulaa. Kun äiti keittää rautapadassa, ei 
+                <app id="var3671" type="sub"><lem>siitä ole vahinkoa, jos rauta-ruostetta tulee</lem></app> velliin. Olen nähnyt 
+                <app id="var3672" type="sub"><lem>rauta-jauhoa</lem></app> käytettävän lääkkeeksi. Mutta 
+                <app id="var3673" type="sub"><lem>aina</lem></app> tinauttaa 
+                <app id="var3674" type="sub"><lem>äiti kupari-astiansa</lem></app> sisäpuolelta. Muu<pb type="orig" n="112"/>toin 
+                <app id="var3675" type="sub"><lem><hi rend="expanded">ruostuu</hi> kupari märkyydestä</lem></app> ja 
+                <app id="var3676" type="sub"><lem>haposta,</lem></app> ja tämä ruoste on niin myrkyllistä, että ihmiset saattavat 
+                <app id="var3677" type="sub"><lem>kuolla siitä. Äitillä</lem></app> on 
+                <app id="var3678" type="sub"><lem>kynttilä-jalkoja</lem></app> ja 
+                <app id="var3679" type="sub"><lem>talrikkeja siitä</lem></app> valkeasta ja pehmeästä <hi rend="expanded">tinasta,</hi> joka 
+                <app id="var3680" type="sub"><lem>sulaa aivan pian. Kelloin valurit sulaavat kuparia</lem></app> ja 
+                <app id="var3681" type="sub"><lem>tinaa sevoin.</lem></app> Siitä tulee 
+                <app id="var3682" type="sub"><lem>valu-malmia,</lem></app> josta tehdään kirkonkelloja, 
+                <app id="var3683" type="sub"><lem>kynttiläjalkoja</lem></app> ja kulkusia. Valinkauhassa 
+                <app id="var3684" type="sub"><lem>sulataan sitä raskasta</lem></app> ja 
+                <app id="var3685" type="sub"><lem>pehmeää <hi rend="expanded">plyijyä,</hi></lem></app> josta isä valaa 
+                <app id="var3686" type="sub"><lem>luotia</lem></app> ja 
+                <app id="var3687" type="sub"><lem>haulia</lem></app> pyssyihinsä. 
+                <app id="var3688" type="sub"><lem>Plyijy</lem></app> on myrkyllistä ja samoin 
+                <app id="var3689" type="sub"><lem>on plyyvittikin,</lem></app> jota 
+                <app id="var3690" type="sub"><lem>siitä valmistetaan valkean-maaliksi.</lem></app>
+                <hi rend="expanded">Sinkki</hi> on 
+                <app id="var3691" type="sub"><lem>valkeaa</lem></app> metallia; kun sitä 
+                <app id="var3692" type="sub"><lem>sulataan kuparin</lem></app> kanssa 
+                <app id="var3693" type="sub"><lem>sevoin, tulee tästä se</lem></app> kellahtava 
+                <app id="var3694" type="sub"><lem>messinki.</lem></app> Kerran 
+                <app id="var3695" type="sub"><lem>teki isä myrkky-leipiä</lem></app> rotille. Niihin 
+                <app id="var3696" type="sub"><lem>pani hän</lem></app>
                 <hi rend="expanded">arsenikkia,</hi>
-                <app id="var3697" type="sub">
-                    <lem>joka on itsestään harmajaa, mutta</lem>
-                </app> myydään valkeana jauhona ja <app id="var3698" type="sub">
-                    <lem>on</lem>
-                </app> hyvin <app id="var3699" type="sub">
-                    <lem>vaarallista.</lem>
-                </app> Tuvassamme olevan peilin lasi on takapuolelta peitetty tinan ja <app id="var3700" type="sub">
-                    <lem><hi rend="expanded">elo-hopean</hi></lem>
-                </app> sekoituksella; <app id="var3701" type="sub">
-                    <lem>elo-hopea</lem>
-                </app> on <app id="var3702" type="sub">
-                    <lem>valkeaa</lem>
-                </app> ja näyttää <app id="var3703" type="sub">
-                    <lem>sulatulta</lem>
-                </app> hopealta. <app id="var3704" type="sub">
-                    <lem>Alinomaa näkee elo-hopean sulana;</lem>
-                </app> mutta kun on oikein <app id="var3705" type="sub">
-                    <lem>pakkainen</lem>
-                </app> talvella, <app id="var3706" type="sub">
-                    <lem>jähmistyy</lem>
-                </app> se <app id="var3707" type="sub">
-                    <lem>kokoon,</lem>
-                </app> joka <app id="var3708" type="sub">
-                    <lem>näyttää tinalta</lem>
-                </app> ja jota saattaa <app id="var3709" type="sub">
-                    <lem>takoa vasaralla. Kohta pakkaisen lauhemmaksi tultua</lem>
-                </app> sulaa <app id="var3710" type="sub">
-                    <lem>elo-hopea</lem>
-                </app> itsestään. Jos <app id="var3711" type="sub">
-                    <lem>elo-hopeaa sulataan</lem>
-                </app> tulikiven (rikin) <app id="var3712" type="sub">
-                    <lem>kanssa,</lem>
-                </app> saadaan <app id="var3713" type="sub">
-                    <lem>tästä sitä kauniin punaista sinooperi-väriä. Ne siniset</lem>
-                </app> lasit, <app id="var3714" type="sub">
-                    <lem>joita on äitin</lem>
-                </app> kaapissa, ovat <app id="var3715" type="sub">
-                    <lem>värjätyt kopoltilla. Yleesensä lasketaan</lem>
-                </app> olevan <app id="var3716" type="sub">
-                    <lem>40</lem>
-                </app> metallia. Mutta <app id="var3717" type="sub">
-                    <lem>niitä muita on harvassa.</lem>
-                </app></p>
-            <p style="blackletter">Jos <app id="var3718" type="sub">
-                    <lem>siis otan</lem>
-                </app> sinooperia, <app id="var3719" type="sub">
-                    <lem>saatan sen eroittaa elo-hopeaksi</lem>
-                </app> ja <app id="var3720" type="sub">
-                    <lem>tulikiveksi.</lem>
-                </app> Mutta jos kuinka <app id="var3721" type="sub">
-                    <lem>koetteleisin, niin</lem>
-                </app> en voisi enää <app id="var3722" type="sub">
-                    <lem>elo-hopeasta</lem>
-                </app> saada muuta ainetta <app id="var3723" type="int">
-                    <lem>erilleen</lem>
-                </app> enkä tulikivestäkään. <app id="var3724" type="sub">
-                    <lem>Siksi kutsun elo-hopeaa</lem>
-                </app> ja <app id="var3725" type="sub">
-                    <lem>tulikiveä <hi rend="expanded">selviksi aineiksi.</hi></lem>
-                </app> Sellaisia <app id="var3726" type="sub">
-                    <lem>ovat</lem>
-                </app> kaikki metallit ja useat muut aineet. Mutta sinooperia <app id="var3727" type="sub">
-                    <lem>kutsun <hi rend="expanded">sekoitetuksi aineeksi,</hi></lem>
-                </app> ja <pb type="orig" n="113"/>sellaisia ovat messinki, <app id="var3728" type="sub">
-                    <lem>valu-malmi, kliitu,</lem>
-                </app> suola, vesi ja <app id="var3729" type="sub">
-                    <lem>useammat</lem>
-                </app> muut kappaleet maan päällä.</p>
-            <p style="blackletter">Muutamia maan aineita <app id="var3730" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">palavaisiksi,</hi> kun</lem>
-                </app> ne pian syttyvät tulessa ja palavat. <app id="var3731" type="sub">
-                    <lem>Useammista</lem>
-                </app> niistä lähtee <app id="var3732" type="sub">
-                    <lem>savu,</lem>
-                </app> joka ei ole muuta kuin hienoa nokea. Noki <app id="var3733" type="sub">
-                    <lem>on taas</lem>
-                </app> hienoa <app id="var3734" type="sub">
-                    <lem>tomua <hi rend="expanded">hiilestä,</hi> joka</lem>
-                </app> on <app id="var3735" type="sub">
-                    <lem>selvä aine,</lem>
-                </app> jota <app id="var3736" type="sub">
-                    <lem>löytyy</lem>
-                </app> runsaasti kaikissa <app id="var3737" type="sub">
-                    <lem>luonnon-kunnissa. Plyijyspännissä</lem>
-                </app> oleva <app id="var3738" type="sub">
-                    <lem>plyertsi</lem>
-                </app> on <app id="var3739" type="sub">
-                    <lem>palavaista,</lem>
-                </app> sillä <app id="var3740" type="sub">
-                    <lem>siinä</lem>
-                </app> on <app id="var3741" type="sub">
-                    <lem>enimmästi</lem>
-                </app> hiiltä. Kivihiiltä murretaan kaivoksista ja poltetaan <app id="var3742" type="sub">
-                    <lem>ulkomaalla halkoin asemasta.</lem>
-                </app> Kaikki puu palaa <app id="var3743" type="sub">
-                    <lem>aivan helposti, sillä</lem>
-                </app> siinä on <app id="var3744" type="sub">
-                    <lem>hyvin</lem>
-                </app> hiiltä. Paitsi näitä tiedän vielä paljon muitakin <app id="var3745" type="sub">
-                    <lem>palavaisia</lem>
-                </app> aineita. <app id="var3746" type="sub">
-                    <lem>Ne keltaiset</lem>
-                </app> pötkylät, joita isä osti kaupungista, ovat <hi rend="expanded">tulikiveä,</hi>
-                <app id="var3747" type="sub">
-                    <lem>jota ynnä</lem>
-                </app>
+                
+                <app id="var3697" type="sub"><lem>joka on itsestään harmajaa, mutta</lem></app> myydään valkeana jauhona ja 
+                <app id="var3698" type="sub"><lem>on</lem></app> hyvin 
+                <app id="var3699" type="sub"><lem>vaarallista.</lem></app> Tuvassamme olevan peilin lasi on takapuolelta peitetty tinan ja 
+                <app id="var3700" type="sub"><lem><hi rend="expanded">elo-hopean</hi></lem></app> sekoituksella; 
+                <app id="var3701" type="sub"><lem>elo-hopea</lem></app> on 
+                <app id="var3702" type="sub"><lem>valkeaa</lem></app> ja näyttää 
+                <app id="var3703" type="sub"><lem>sulatulta</lem></app> hopealta. 
+                <app id="var3704" type="sub"><lem>Alinomaa näkee elo-hopean sulana;</lem></app> mutta kun on oikein 
+                <app id="var3705" type="sub"><lem>pakkainen</lem></app> talvella, 
+                <app id="var3706" type="sub"><lem>jähmistyy</lem></app> se 
+                <app id="var3707" type="sub"><lem>kokoon,</lem></app> joka 
+                <app id="var3708" type="sub"><lem>näyttää tinalta</lem></app> ja jota saattaa 
+                <app id="var3709" type="sub"><lem>takoa vasaralla. Kohta pakkaisen lauhemmaksi tultua</lem></app> sulaa 
+                <app id="var3710" type="sub"><lem>elo-hopea</lem></app> itsestään. Jos 
+                <app id="var3711" type="sub"><lem>elo-hopeaa sulataan</lem></app> tulikiven (rikin) 
+                <app id="var3712" type="sub"><lem>kanssa,</lem></app> saadaan 
+                <app id="var3713" type="sub"><lem>tästä sitä kauniin punaista sinooperi-väriä. Ne siniset</lem></app> lasit, 
+                <app id="var3714" type="sub"><lem>joita on äitin</lem></app> kaapissa, ovat 
+                <app id="var3715" type="sub"><lem>värjätyt kopoltilla. Yleesensä lasketaan</lem></app> olevan 
+                <app id="var3716" type="sub"><lem>40</lem></app> metallia. Mutta 
+                <app id="var3717" type="sub"><lem>niitä muita on harvassa.</lem></app></p>
+            <p style="blackletter">Jos 
+                <app id="var3718" type="sub"><lem>siis otan</lem></app> sinooperia, 
+                <app id="var3719" type="sub"><lem>saatan sen eroittaa elo-hopeaksi</lem></app> ja 
+                <app id="var3720" type="sub"><lem>tulikiveksi.</lem></app> Mutta jos kuinka 
+                <app id="var3721" type="sub"><lem>koetteleisin, niin</lem></app> en voisi enää 
+                <app id="var3722" type="sub"><lem>elo-hopeasta</lem></app> saada muuta ainetta 
+                <app id="var3723" type="int"><lem>erilleen</lem></app> enkä tulikivestäkään. 
+                <app id="var3724" type="sub"><lem>Siksi kutsun elo-hopeaa</lem></app> ja 
+                <app id="var3725" type="sub"><lem>tulikiveä <hi rend="expanded">selviksi aineiksi.</hi></lem></app> Sellaisia 
+                <app id="var3726" type="sub"><lem>ovat</lem></app> kaikki metallit ja useat muut aineet. Mutta sinooperia 
+                <app id="var3727" type="sub"><lem>kutsun <hi rend="expanded">sekoitetuksi aineeksi,</hi></lem></app> ja <pb type="orig" n="113"/>sellaisia ovat messinki, 
+                <app id="var3728" type="sub"><lem>valu-malmi, kliitu,</lem></app> suola, vesi ja 
+                <app id="var3729" type="sub"><lem>useammat</lem></app> muut kappaleet maan päällä.</p>
+            <p style="blackletter">Muutamia maan aineita 
+                <app id="var3730" type="sub"><lem>kutsutaan <hi rend="expanded">palavaisiksi,</hi> kun</lem></app> ne pian syttyvät tulessa ja palavat. 
+                <app id="var3731" type="sub"><lem>Useammista</lem></app> niistä lähtee 
+                <app id="var3732" type="sub"><lem>savu,</lem></app> joka ei ole muuta kuin hienoa nokea. Noki 
+                <app id="var3733" type="sub"><lem>on taas</lem></app> hienoa 
+                <app id="var3734" type="sub"><lem>tomua <hi rend="expanded">hiilestä,</hi> joka</lem></app> on 
+                <app id="var3735" type="sub"><lem>selvä aine,</lem></app> jota 
+                <app id="var3736" type="sub"><lem>löytyy</lem></app> runsaasti kaikissa 
+                <app id="var3737" type="sub"><lem>luonnon-kunnissa. Plyijyspännissä</lem></app> oleva 
+                <app id="var3738" type="sub"><lem>plyertsi</lem></app> on 
+                <app id="var3739" type="sub"><lem>palavaista,</lem></app> sillä 
+                <app id="var3740" type="sub"><lem>siinä</lem></app> on 
+                <app id="var3741" type="sub"><lem>enimmästi</lem></app> hiiltä. Kivihiiltä murretaan kaivoksista ja poltetaan 
+                <app id="var3742" type="sub"><lem>ulkomaalla halkoin asemasta.</lem></app> Kaikki puu palaa 
+                <app id="var3743" type="sub"><lem>aivan helposti, sillä</lem></app> siinä on 
+                <app id="var3744" type="sub"><lem>hyvin</lem></app> hiiltä. Paitsi näitä tiedän vielä paljon muitakin 
+                <app id="var3745" type="sub"><lem>palavaisia</lem></app> aineita. 
+                <app id="var3746" type="sub"><lem>Ne keltaiset</lem></app> pötkylät, joita isä osti kaupungista, ovat <hi rend="expanded">tulikiveä,</hi>
+                
+                <app id="var3747" type="sub"><lem>jota ynnä</lem></app>
                 <hi rend="expanded">fosforin</hi>
-                <app id="var3748" type="sub">
-                    <lem>(valokin) kanssa pannaan tulitikkuihin.</lem>
-                </app> Hiilestä, tulikivestä ja <app id="var3749" type="sub">
-                    <lem>saltpetteristä</lem>
-                </app> tehdään <app id="var3750" type="sub">
-                    <lem>sitä hieno-rakeista mustaa <hi rend="expanded">kruutia,</hi></lem>
-                </app> joka on niin <app id="var3751" type="sub">
-                    <lem>palavaista,</lem>
-                </app> että pieni kipuna <app id="var3752" type="sub">
-                    <lem>kohta sytyttää sen. Siitä tulee monta onnettomuutta, jos ei varoin
-                        menetellä kruudin kanssa.</lem>
-                </app></p>
-            <p style="blackletter">Isä aikoo nyt syödä <app id="var3753" type="sub">
-                    <lem>murkinaa.</lem>
-                </app> Kontissa on leipää, suolattua voita ja suolaista kalaa. Mitä ovat
-                suolat? <app id="var3754" type="sub">
-                    <lem>Sen sanon</lem>
-                </app> sinulle. Suoloiksi <app id="var3755" type="sub">
-                    <lem>kutsutaan</lem>
-                </app> sellaisia aineita, jotka <app id="var3756" type="sub">
-                    <lem>helposti</lem>
-                </app> sulavat vedessä ja <app id="var3757" type="sub">
-                    <lem>antavat</lem>
-                </app> kieleen <app id="var3758" type="sub">
-                    <lem>kirpistelevän</lem>
-                </app> ma’un. <app id="var3759" type="sub">
-                    <lem>Ne ovat <hi rend="expanded">keittosuoloja,</hi> jotka
-                        parhaite</lem>
-                </app> tunnemme <app id="var3760" type="sub">
-                    <lem>ja jotka suojelevat</lem>
-                </app> ruokamme pahentumasta. Välistä murretaan <app id="var3761" type="sub">
-                    <lem>vuorikaivannoista suoloja, joita kutsutaan vuori-suoloiksi. Eli
-                        keitetäänkin niitä</lem>
-                </app> suolaisten <app id="var3762" type="sub">
-                    <lem>lähdetten</lem>
-                </app> vedestä. Mutta <app id="var3763" type="sub">
-                    <lem>suolat, joita</lem>
-                </app> isä <app id="var3764" type="sub">
-                    <lem>osti kaupungissa, ovat saadut</lem>
-                </app> merestä. Jos maistat merivettä, <app id="var3765" type="sub">
-                    <lem>antaa se</lem>
-                </app> suolan <app id="var3766" type="sub">
-                    <lem>maun</lem>
-                </app> kieleesi. Suurien merien rannoilla, <app id="var3767" type="sub">
-                    <lem>joilla</lem>
-                </app> vesi on suolaisempaa kuin täällä, juoksutetaan sitä kuoppiin ja
-                annetaan <app id="var3768" type="sub">
-                    <lem>niissä höyrytä pois</lem>
-                </app> auringon helteessä. <app id="var3769" type="sub">
-                    <lem>Siinä jääpi</lem>
-                </app> val<pb type="orig" n="114"/>kea suola <app id="var3770" type="sub">
-                    <lem>kuoppain</lem>
-                </app> pohjalle, josta se kootaan ja tuodaan tänne laivoilla. Paitsi <app id="var3771" type="sub">
-                    <lem>keitto-suolaa</lem>
-                </app> tunnen vielä useita muitakin <app id="var3772" type="sub">
-                    <lem>suola-lajeja,</lem>
-                </app> niinkuin <hi rend="expanded">alunan</hi> ja <app id="var3773" type="sub">
-                    <lem>viheriäisen <hi rend="expanded">vihtrillin, kuparröökin</hi></lem>
-                </app> ja <app id="var3774" type="sub">
-                    <lem><hi rend="expanded">salpetterin,</hi></lem>
-                </app> jota isä <app id="var3775" type="sub">
-                    <lem>teki kerran salpetteri-ladossa. Sellaiset suolat ovat hyödyllisiä
-                        useoihin</lem>
-                </app> käsitöihin, mutta niitä ei <app id="var3776" type="sub">
-                    <lem>saata</lem>
-                </app> syödä.</p>
-            <p style="blackletter"><app id="var3777" type="sub">
-                    <lem>Monet</lem>
-                </app> aineet tulevat <app id="var3778" type="sub">
-                    <lem>happaneviksi (happanevat)</lem>
-                </app> kun <app id="var3779" type="sub">
-                    <lem>seisovat kauvan.</lem>
-                </app> Välistä pannaan <hi rend="expanded">etikkaa</hi> ruokaan; siitä <app id="var3780" type="sub">
-                    <lem>tulee ruoka happameksi. <hi rend="expanded">Viinahappo</hi> tutaan
-                        viinamarjoissa</lem>
-                </app> ja <app id="var3781" type="sub">
-                    <lem><hi rend="expanded">omena-happo</hi></lem>
-                </app> omenoissa. Mutta tunnenpa muita <hi rend="expanded">happoja,</hi>
-                jotka ovat paljon <app id="var3782" type="sub">
-                    <lem>väkevämmät,</lem>
-                </app> esim. <app id="var3783" type="sub">
-                    <lem>sen polttavan <hi rend="expanded">vihtrilli-öljyn</hi>
-                        (tuli-kivihapon).</lem>
-                </app> Jos panen <app id="var3784" type="sub">
-                    <lem>kuparilantin</lem>
-                </app> sieveteen <app id="var3785" type="sub">
-                    <lem>(salpetteri-happoon), syöpi</lem>
-                </app> happo pois <app id="var3786" type="int">
-                    <lem>ruosteen,</lem>
-                </app> ja <app id="var3787" type="sub">
-                    <lem>lantti</lem>
-                </app> on niin kirkas kuin <app id="var3788" type="sub">
-                    <lem>olisi uusi.</lem>
-                </app> Mutta jos <app id="var3789" type="sub">
-                    <lem>pisarakaan happoa</lem>
-                </app> tipahtaa vaatteisiin, polttaa se <app id="var3790" type="sub">
-                    <lem>reijän;</lem>
-                </app> ja jos <app id="var3791" type="sub">
-                    <lem>se</lem>
-                </app> sattuu sormeen, <app id="var3792" type="sub">
-                    <lem>tulee</lem>
-                </app> siitä keltainen <app id="var3793" type="sub">
-                    <lem>pilkka</lem>
-                </app> ihoon. <app id="var3794" type="sub">
-                    <lem>Siksi tiedän varoa</lem>
-                </app> itseäni sellaisista väkevistä hapoista. Oli kerran päihtynyt mies,
-                joka <app id="var3795" type="sub">
-                    <lem>tahtoi kaataa</lem>
-                </app> enemmän <choice>
+                
+                <app id="var3748" type="sub"><lem>(valokin) kanssa pannaan tulitikkuihin.</lem></app> Hiilestä, tulikivestä ja 
+                <app id="var3749" type="sub"><lem>saltpetteristä</lem></app> tehdään 
+                <app id="var3750" type="sub"><lem>sitä hieno-rakeista mustaa <hi rend="expanded">kruutia,</hi></lem></app> joka on niin 
+                <app id="var3751" type="sub"><lem>palavaista,</lem></app> että pieni kipuna 
+                <app id="var3752" type="sub"><lem>kohta sytyttää sen. Siitä tulee monta onnettomuutta, jos ei varoin
+                        menetellä kruudin kanssa.</lem></app></p>
+            <p style="blackletter">Isä aikoo nyt syödä 
+                <app id="var3753" type="sub"><lem>murkinaa.</lem></app> Kontissa on leipää, suolattua voita ja suolaista kalaa. Mitä ovat
+                suolat? 
+                <app id="var3754" type="sub"><lem>Sen sanon</lem></app> sinulle. Suoloiksi 
+                <app id="var3755" type="sub"><lem>kutsutaan</lem></app> sellaisia aineita, jotka 
+                <app id="var3756" type="sub"><lem>helposti</lem></app> sulavat vedessä ja 
+                <app id="var3757" type="sub"><lem>antavat</lem></app> kieleen 
+                <app id="var3758" type="sub"><lem>kirpistelevän</lem></app> ma’un. 
+                <app id="var3759" type="sub"><lem>Ne ovat <hi rend="expanded">keittosuoloja,</hi> jotka
+                        parhaite</lem></app> tunnemme 
+                <app id="var3760" type="sub"><lem>ja jotka suojelevat</lem></app> ruokamme pahentumasta. Välistä murretaan 
+                <app id="var3761" type="sub"><lem>vuorikaivannoista suoloja, joita kutsutaan vuori-suoloiksi. Eli
+                        keitetäänkin niitä</lem></app> suolaisten 
+                <app id="var3762" type="sub"><lem>lähdetten</lem></app> vedestä. Mutta 
+                <app id="var3763" type="sub"><lem>suolat, joita</lem></app> isä 
+                <app id="var3764" type="sub"><lem>osti kaupungissa, ovat saadut</lem></app> merestä. Jos maistat merivettä, 
+                <app id="var3765" type="sub"><lem>antaa se</lem></app> suolan 
+                <app id="var3766" type="sub"><lem>maun</lem></app> kieleesi. Suurien merien rannoilla, 
+                <app id="var3767" type="sub"><lem>joilla</lem></app> vesi on suolaisempaa kuin täällä, juoksutetaan sitä kuoppiin ja
+                annetaan 
+                <app id="var3768" type="sub"><lem>niissä höyrytä pois</lem></app> auringon helteessä. 
+                <app id="var3769" type="sub"><lem>Siinä jääpi</lem></app> val<pb type="orig" n="114"/>kea suola 
+                <app id="var3770" type="sub"><lem>kuoppain</lem></app> pohjalle, josta se kootaan ja tuodaan tänne laivoilla. Paitsi 
+                <app id="var3771" type="sub"><lem>keitto-suolaa</lem></app> tunnen vielä useita muitakin 
+                <app id="var3772" type="sub"><lem>suola-lajeja,</lem></app> niinkuin <hi rend="expanded">alunan</hi> ja 
+                <app id="var3773" type="sub"><lem>viheriäisen <hi rend="expanded">vihtrillin, kuparröökin</hi></lem></app> ja 
+                <app id="var3774" type="sub"><lem><hi rend="expanded">salpetterin,</hi></lem></app> jota isä 
+                <app id="var3775" type="sub"><lem>teki kerran salpetteri-ladossa. Sellaiset suolat ovat hyödyllisiä
+                        useoihin</lem></app> käsitöihin, mutta niitä ei 
+                <app id="var3776" type="sub"><lem>saata</lem></app> syödä.</p>
+            <p style="blackletter">
+                <app id="var3777" type="sub"><lem>Monet</lem></app> aineet tulevat 
+                <app id="var3778" type="sub"><lem>happaneviksi (happanevat)</lem></app> kun 
+                <app id="var3779" type="sub"><lem>seisovat kauvan.</lem></app> Välistä pannaan <hi rend="expanded">etikkaa</hi> ruokaan; siitä 
+                <app id="var3780" type="sub"><lem>tulee ruoka happameksi. <hi rend="expanded">Viinahappo</hi> tutaan
+                        viinamarjoissa</lem></app> ja 
+                <app id="var3781" type="sub"><lem><hi rend="expanded">omena-happo</hi></lem></app> omenoissa. Mutta tunnenpa muita <hi rend="expanded">happoja,</hi>
+                jotka ovat paljon 
+                <app id="var3782" type="sub"><lem>väkevämmät,</lem></app> esim. 
+                <app id="var3783" type="sub"><lem>sen polttavan <hi rend="expanded">vihtrilli-öljyn</hi>
+                        (tuli-kivihapon).</lem></app> Jos panen 
+                <app id="var3784" type="sub"><lem>kuparilantin</lem></app> sieveteen 
+                <app id="var3785" type="sub"><lem>(salpetteri-happoon), syöpi</lem></app> happo pois 
+                <app id="var3786" type="int"><lem>ruosteen,</lem></app> ja 
+                <app id="var3787" type="sub"><lem>lantti</lem></app> on niin kirkas kuin 
+                <app id="var3788" type="sub"><lem>olisi uusi.</lem></app> Mutta jos 
+                <app id="var3789" type="sub"><lem>pisarakaan happoa</lem></app> tipahtaa vaatteisiin, polttaa se 
+                <app id="var3790" type="sub"><lem>reijän;</lem></app> ja jos 
+                <app id="var3791" type="sub"><lem>se</lem></app> sattuu sormeen, 
+                <app id="var3792" type="sub"><lem>tulee</lem></app> siitä keltainen 
+                <app id="var3793" type="sub"><lem>pilkka</lem></app> ihoon. 
+                <app id="var3794" type="sub"><lem>Siksi tiedän varoa</lem></app> itseäni sellaisista väkevistä hapoista. Oli kerran päihtynyt mies,
+                joka 
+                <app id="var3795" type="sub"><lem>tahtoi kaataa</lem></app> enemmän <choice>
                     <orig/>
-                </choice><app id="var3796" type="sub">
-                    <lem><choice>
+                </choice>
+                <app id="var3796" type="sub"><lem><choice>
                             <orig>viina</orig>
                             <reg>viinaa</reg>
-                        </choice> pikariin,</lem>
-                </app> mutta <app id="var3797" type="sub">
-                    <lem>erehtyipä lasin otossa</lem>
-                </app> ja kaasi <app id="var3798" type="sub">
-                    <lem>sievettä</lem>
-                </app> paloviinan <app id="var3799" type="sub">
-                    <lem>sijaan</lem>
-                </app> pikariin. Kun hän sen ryyppäsi, poltti se niin kovasti sisuksia, että
+                        </choice> pikariin,</lem></app> mutta 
+                <app id="var3797" type="sub"><lem>erehtyipä lasin otossa</lem></app> ja kaasi 
+                <app id="var3798" type="sub"><lem>sievettä</lem></app> paloviinan 
+                <app id="var3799" type="sub"><lem>sijaan</lem></app> pikariin. Kun hän sen ryyppäsi, poltti se niin kovasti sisuksia, että
                 hän vähän ajan perästä kuoli.</p>
-            <p style="blackletter">Kun äiti <app id="var3800" type="sub">
-                    <lem>lijottaa</lem>
-                </app> tuhkaa kuumassa vedessä, tulee siitä lipeää, jota <app id="var3801" type="sub">
-                    <lem>tarvitaan vaatetten pesussa</lem>
-                </app> ja <app id="var3802" type="sub">
-                    <lem>peseen (soopan) teossa.</lem>
-                </app> Isä polttaa <app id="var3803" type="sub">
-                    <lem>juuri sitä varten metsässä</lem>
-                </app> koivuja ja haapoja tuh’aksi. Tästä <app id="var3804" type="sub">
-                    <lem>tekee hän lipiää,</lem>
-                </app> jonka <app id="var3805" type="sub">
-                    <lem>sitte</lem>
-                </app> keittää <app id="var3806" type="sub">
-                    <lem>muuri-padassa</lem>
-                </app> kuiviin, ja <app id="var3807" type="sub">
-                    <lem>saapi</lem>
-                </app> siitä <app id="var3808" type="sub">
-                    <lem>ruskeaa</lem>
-                </app>
+            <p style="blackletter">Kun äiti 
+                <app id="var3800" type="sub"><lem>lijottaa</lem></app> tuhkaa kuumassa vedessä, tulee siitä lipeää, jota 
+                <app id="var3801" type="sub"><lem>tarvitaan vaatetten pesussa</lem></app> ja 
+                <app id="var3802" type="sub"><lem>peseen (soopan) teossa.</lem></app> Isä polttaa 
+                <app id="var3803" type="sub"><lem>juuri sitä varten metsässä</lem></app> koivuja ja haapoja tuh’aksi. Tästä 
+                <app id="var3804" type="sub"><lem>tekee hän lipiää,</lem></app> jonka 
+                <app id="var3805" type="sub"><lem>sitte</lem></app> keittää 
+                <app id="var3806" type="sub"><lem>muuri-padassa</lem></app> kuiviin, ja 
+                <app id="var3807" type="sub"><lem>saapi</lem></app> siitä 
+                <app id="var3808" type="sub"><lem>ruskeaa</lem></app>
                 <hi rend="expanded">potaskaa.</hi>
-                <app id="var3809" type="sub">
-                    <lem>Sitte</lem>
-                </app> polttaa <app id="var3810" type="sub">
-                    <lem>hän sen</lem>
-                </app> valkeaksi ja <app id="var3811" type="sub">
-                    <lem>myypi</lem>
-                </app> kaupunkiin, sillä sitä tarvitaan värjäykseen ja <app id="var3812" type="sub">
-                    <lem>muuhunki.</lem>
-                </app></p>
-            <p style="blackletter"><app id="var3813" type="sub">
-                    <lem>Otanpa nyt</lem>
-                </app> multaa <app id="var3814" type="sub">
-                    <lem>käteeni maasta.</lem>
-                </app> Mitä on multa? Multa on <app id="var3815" type="sub">
-                    <lem>erinäisten kaikissa luonnon-kun<pb type="orig" n="115"/>nissa
-                        olevain ainetten sekoa.</lem>
-                </app> Siinä on <app id="var3816" type="sub">
-                    <lem>jäänöksiä mädänneistä kasvuista</lem>
-                </app> ja <app id="var3817" type="sub">
-                    <lem>elävistä.</lem>
-                </app> Sellaisissa aineissa hyötyvät kasvien juuret, ja <app id="var3818" type="sub">
-                    <lem>siksi kutsutaan</lem>
-                </app> multaa, jossa on <app id="var3819" type="sub">
-                    <lem>paljolta</lem>
-                </app> sellaisia aineita, <app id="var3820" type="sub">
-                    <lem>ruokamullaksi. Siksi</lem>
-                </app> höystetään <app id="var3821" type="int">
-                    <lem>peltoa,</lem>
-                </app> ja <app id="var3822" type="sub">
-                    <lem>siksi kynnetään sitä,</lem>
-                </app> että multa paremmin <app id="var3823" type="sub">
-                    <lem>sekausisi, ja</lem>
-                </app> kaikki sen aineet paremmin <app id="var3824" type="sub">
-                    <lem>lahoisivat ilmassa.</lem>
-                </app> Mullassa on useita <app id="var3825" type="sub">
-                    <lem><hi rend="expanded">maa-lajiakin.</hi></lem>
-                </app> Siinä on usein <app id="var3826" type="sub">
-                    <lem>sitä</lem>
-                </app> hyödyllistä <hi rend="expanded">savea,</hi> joka on <app id="var3827" type="sub">
-                    <lem>maalaji, joka kovenee tulessa.</lem>
-                </app> Siitä poltetaan <app id="var3828" type="sub">
-                    <lem>tiilejä.</lem>
-                </app> Siitä tekevät <app id="var3829" type="sub">
-                    <lem>kruukunmaakarit savi-astiamme,</lem>
-                </app> ja <app id="var3830" type="sub">
-                    <lem>posliini-vapriikeissa</lem>
-                </app> valmistetaan siitä <app id="var3831" type="sub">
-                    <lem>talrikkiakin. Meillä</lem>
-                </app> on <app id="var3832" type="sub">
-                    <lem>pellossa punertavaa <hi rend="expanded">mehu-maata</hi>
-                        (merkeliä),</lem>
-                </app> joka on hyvin <app id="var3833" type="sub">
-                    <lem>kasvavaa,</lem>
-                </app> ja <app id="var3834" type="sub">
-                    <lem>siinä on</lem>
-                </app> savea ja kalkkia. Mutta <app id="var3835" type="sub">
-                    <lem><hi rend="expanded">kalkki-maata</hi></lem>
-                </app> on enimmästi vuorissa.</p>
-            <p style="blackletter">Hietamaassa ei <app id="var3836" type="sub">
-                    <lem>menesty vilja hyvästi,</lem>
-                </app> sanoo isä, sillä hieta on löyhää ja <app id="var3837" type="sub">
-                    <lem>päästää sateen läpi.</lem>
-                </app> Hietaa on <app id="var3838" type="sub">
-                    <lem>yleeseen sanomattomaan paljolta;</lem>
-                </app> kun se on <app id="var3839" type="sub">
-                    <lem>korkea-rakeista,</lem>
-                </app> sanotaan sitä someroksi. Mitä on hieta? Se on <app id="var3840" type="sub">
-                    <lem>hienonnettuja rakeita kovasta aineesta,</lem>
-                </app> jota <app id="var3841" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">kiiseliksi</hi></lem>
-                </app> ja <app id="var3842" type="sub">
-                    <lem>on kivilajia.</lem>
-                </app> Ei mitään <app id="var3843" type="sub">
-                    <lem>ole</lem>
-                </app> niin runsaasti maan päällä. Kuka voipi lukea <app id="var3844" type="sub">
-                    <lem>hiedan rakeet</lem>
-                </app> meressä ja rannoilla ja <app id="var3845" type="sub">
-                    <lem>kankailla, joilla petäjät kasvavat. Kiiseliä</lem>
-                </app> on <app id="var3846" type="sub">
-                    <lem>se punanen</lem>
-                </app>
-                <hi rend="expanded">hietakivi,</hi> jota käytetään tahkoiksi, ja <app id="var3847" type="sub">
-                    <lem>se kova <hi rend="expanded">pii,</hi> joka antaa säkeneitä</lem>
-                </app> tuliraudalla lyödessä <app id="var3848" type="sub">
-                    <lem>ja</lem>
-                </app>
+                
+                <app id="var3809" type="sub"><lem>Sitte</lem></app> polttaa 
+                <app id="var3810" type="sub"><lem>hän sen</lem></app> valkeaksi ja 
+                <app id="var3811" type="sub"><lem>myypi</lem></app> kaupunkiin, sillä sitä tarvitaan värjäykseen ja 
+                <app id="var3812" type="sub"><lem>muuhunki.</lem></app></p>
+            <p style="blackletter">
+                <app id="var3813" type="sub"><lem>Otanpa nyt</lem></app> multaa 
+                <app id="var3814" type="sub"><lem>käteeni maasta.</lem></app> Mitä on multa? Multa on 
+                <app id="var3815" type="sub"><lem>erinäisten kaikissa luonnon-kun<pb type="orig" n="115"/>nissa
+                        olevain ainetten sekoa.</lem></app> Siinä on 
+                <app id="var3816" type="sub"><lem>jäänöksiä mädänneistä kasvuista</lem></app> ja 
+                <app id="var3817" type="sub"><lem>elävistä.</lem></app> Sellaisissa aineissa hyötyvät kasvien juuret, ja 
+                <app id="var3818" type="sub"><lem>siksi kutsutaan</lem></app> multaa, jossa on 
+                <app id="var3819" type="sub"><lem>paljolta</lem></app> sellaisia aineita, 
+                <app id="var3820" type="sub"><lem>ruokamullaksi. Siksi</lem></app> höystetään 
+                <app id="var3821" type="int"><lem>peltoa,</lem></app> ja 
+                <app id="var3822" type="sub"><lem>siksi kynnetään sitä,</lem></app> että multa paremmin 
+                <app id="var3823" type="sub"><lem>sekausisi, ja</lem></app> kaikki sen aineet paremmin 
+                <app id="var3824" type="sub"><lem>lahoisivat ilmassa.</lem></app> Mullassa on useita 
+                <app id="var3825" type="sub"><lem><hi rend="expanded">maa-lajiakin.</hi></lem></app> Siinä on usein 
+                <app id="var3826" type="sub"><lem>sitä</lem></app> hyödyllistä <hi rend="expanded">savea,</hi> joka on 
+                <app id="var3827" type="sub"><lem>maalaji, joka kovenee tulessa.</lem></app> Siitä poltetaan 
+                <app id="var3828" type="sub"><lem>tiilejä.</lem></app> Siitä tekevät 
+                <app id="var3829" type="sub"><lem>kruukunmaakarit savi-astiamme,</lem></app> ja 
+                <app id="var3830" type="sub"><lem>posliini-vapriikeissa</lem></app> valmistetaan siitä 
+                <app id="var3831" type="sub"><lem>talrikkiakin. Meillä</lem></app> on 
+                <app id="var3832" type="sub"><lem>pellossa punertavaa <hi rend="expanded">mehu-maata</hi>
+                        (merkeliä),</lem></app> joka on hyvin 
+                <app id="var3833" type="sub"><lem>kasvavaa,</lem></app> ja 
+                <app id="var3834" type="sub"><lem>siinä on</lem></app> savea ja kalkkia. Mutta 
+                <app id="var3835" type="sub"><lem><hi rend="expanded">kalkki-maata</hi></lem></app> on enimmästi vuorissa.</p>
+            <p style="blackletter">Hietamaassa ei 
+                <app id="var3836" type="sub"><lem>menesty vilja hyvästi,</lem></app> sanoo isä, sillä hieta on löyhää ja 
+                <app id="var3837" type="sub"><lem>päästää sateen läpi.</lem></app> Hietaa on 
+                <app id="var3838" type="sub"><lem>yleeseen sanomattomaan paljolta;</lem></app> kun se on 
+                <app id="var3839" type="sub"><lem>korkea-rakeista,</lem></app> sanotaan sitä someroksi. Mitä on hieta? Se on 
+                <app id="var3840" type="sub"><lem>hienonnettuja rakeita kovasta aineesta,</lem></app> jota 
+                <app id="var3841" type="sub"><lem>kutsutaan <hi rend="expanded">kiiseliksi</hi></lem></app> ja 
+                <app id="var3842" type="sub"><lem>on kivilajia.</lem></app> Ei mitään 
+                <app id="var3843" type="sub"><lem>ole</lem></app> niin runsaasti maan päällä. Kuka voipi lukea 
+                <app id="var3844" type="sub"><lem>hiedan rakeet</lem></app> meressä ja rannoilla ja 
+                <app id="var3845" type="sub"><lem>kankailla, joilla petäjät kasvavat. Kiiseliä</lem></app> on 
+                <app id="var3846" type="sub"><lem>se punanen</lem></app>
+                <hi rend="expanded">hietakivi,</hi> jota käytetään tahkoiksi, ja 
+                <app id="var3847" type="sub"><lem>se kova <hi rend="expanded">pii,</hi> joka antaa säkeneitä</lem></app> tuliraudalla lyödessä 
+                <app id="var3848" type="sub"><lem>ja</lem></app>
                 <hi rend="expanded">ukonkivi</hi>
-                <app id="var3849" type="sub">
-                    <lem>(kuutilo). <hi rend="expanded">Kenttäkivi</hi> (vältspaati) ja <hi rend="expanded">kiiltoliuskakivi</hi> (katinkultakivi)</lem>
-                </app> ovat <app id="var3850" type="sub">
-                    <lem>enimmästi kiiseliä. Ja näistä ovat ne kovat <hi rend="expanded">kneissi</hi>-</lem>
-                </app> ja <app id="var3851" type="sub">
-                    <lem><hi rend="expanded">harmaakiviset</hi> vuoret (kranitti-vuoret) ja
-                        sanomattomat</lem>
-                </app> harmaat <app id="var3852" type="sub">
-                    <lem>kivet yhdistetyt. Välistä</lem>
-                </app> on muita <app id="var3853" type="sub">
-                    <lem>kivilajia</lem>
-                </app> ikäänkuin <app id="var3854" type="sub">
-                    <lem>pakattuina</lem>
-                </app> niiden <app id="var3855" type="sub">
-                    <lem>sisässä.</lem>
-                </app> Niissä <app id="var3856" type="sub">
-                    <lem>näkyy <hi rend="expanded">aluna-liuska-kiveä, kiilto-liuska-</hi>
-                        (katinkulta) kiveä</lem>
-                </app> ja <app id="var3857" type="sub">
-                    <lem><hi rend="expanded">savi-liuska-kiveä,</hi></lem>
-                </app> jota <app id="var3858" type="sub">
-                    <lem>saa<pb type="orig" n="116"/>tetaan</lem>
-                </app> halkoa liuskoiksi ja tehdä <app id="var3859" type="sub">
-                    <lem>luvunlasku-tauluiksi</lem>
-                </app> kouluihin.</p>
-            <p style="blackletter">Muutamat vuoret ovat <app id="var3860" type="sub">
-                    <lem>löyhemmistä kivilajista.</lem>
-                </app> Oletko nähnyt <app id="var3861" type="sub">
-                    <lem>kalkkikivi-kalliota, josta</lem>
-                </app> murretaan <app id="var3862" type="sub">
-                    <lem>valkeoita <hi rend="expanded">kalkki-kiviä?</hi></lem>
-                </app> Ensin <app id="var3863" type="sub">
-                    <lem>poltetaan kalkkikivet</lem>
-                </app> suurissa uuneissa, ja <app id="var3864" type="sub">
-                    <lem>niistä</lem>
-                </app> saadaan <choice>
+                
+                <app id="var3849" type="sub"><lem>(kuutilo). <hi rend="expanded">Kenttäkivi</hi> (vältspaati) ja <hi rend="expanded">kiiltoliuskakivi</hi> (katinkultakivi)</lem></app> ovat 
+                <app id="var3850" type="sub"><lem>enimmästi kiiseliä. Ja näistä ovat ne kovat <hi rend="expanded">kneissi</hi>-</lem></app> ja 
+                <app id="var3851" type="sub"><lem><hi rend="expanded">harmaakiviset</hi> vuoret (kranitti-vuoret) ja
+                        sanomattomat</lem></app> harmaat 
+                <app id="var3852" type="sub"><lem>kivet yhdistetyt. Välistä</lem></app> on muita 
+                <app id="var3853" type="sub"><lem>kivilajia</lem></app> ikäänkuin 
+                <app id="var3854" type="sub"><lem>pakattuina</lem></app> niiden 
+                <app id="var3855" type="sub"><lem>sisässä.</lem></app> Niissä 
+                <app id="var3856" type="sub"><lem>näkyy <hi rend="expanded">aluna-liuska-kiveä, kiilto-liuska-</hi>
+                        (katinkulta) kiveä</lem></app> ja 
+                <app id="var3857" type="sub"><lem><hi rend="expanded">savi-liuska-kiveä,</hi></lem></app> jota 
+                <app id="var3858" type="sub"><lem>saa<pb type="orig" n="116"/>tetaan</lem></app> halkoa liuskoiksi ja tehdä 
+                <app id="var3859" type="sub"><lem>luvunlasku-tauluiksi</lem></app> kouluihin.</p>
+            <p style="blackletter">Muutamat vuoret ovat 
+                <app id="var3860" type="sub"><lem>löyhemmistä kivilajista.</lem></app> Oletko nähnyt 
+                <app id="var3861" type="sub"><lem>kalkkikivi-kalliota, josta</lem></app> murretaan 
+                <app id="var3862" type="sub"><lem>valkeoita <hi rend="expanded">kalkki-kiviä?</hi></lem></app> Ensin 
+                <app id="var3863" type="sub"><lem>poltetaan kalkkikivet</lem></app> suurissa uuneissa, ja 
+                <app id="var3864" type="sub"><lem>niistä</lem></app> saadaan <choice>
                     <orig/>
-                </choice><app id="var3865" type="sub">
-                    <lem><choice>
+                </choice>
+                <app id="var3865" type="sub"><lem><choice>
                             <orig>kastele-matointa</orig>
                             <reg>kastelematointa</reg>
-                        </choice></lem>
-                </app><choice>
+                        </choice></lem></app><choice>
                     <reg/>
-                </choice> kalkkia. Kun siihen <app id="var3866" type="sub">
-                    <lem>kaadetaan</lem>
-                </app> vettä, <app id="var3867" type="sub">
-                    <lem>ottaa se</lem>
-                </app> hetkeksi <app id="var3868" type="sub">
-                    <lem>kovan kuumuuden,</lem>
-                </app> ja tätä sanotaan kalkin <app id="var3869" type="sub">
-                    <lem>kastelemiseksi. Kalkkia sekoitetaan saven</lem>
-                </app> ja hiekan <app id="var3870" type="sub">
-                    <lem>kanssa, kun sitä</lem>
-                </app> käytetään <app id="var3871" type="sub">
-                    <lem>muuraus-pruukiksi.</lem>
-                </app> Olen nähnyt kovaa ja <app id="var3872" type="sub">
-                    <lem>hieno-syistä kalkki-kiveä,</lem>
-                </app> jota <app id="var3873" type="sub">
-                    <lem>kutsutaan</lem>
-                </app> marmoriksi. Sitä on monennäköistä ulkomailla ja <app id="var3874" type="sub">
-                    <lem>maassammekin Ruskialassa.</lem>
-                </app> Siitä hakataan kauniita patsaita, portaita ja kuvia. Ja kun <app id="var3875" type="sub">
-                    <lem>mainiot</lem>
-                </app> mestarit ovat <app id="var3876" type="sub">
-                    <lem>veistimellään hakanneet marmoriin kauniimpia</lem>
-                </app> ihmisten ja eläinten kuvia, <app id="var3877" type="sub">
-                    <lem>täytyypä, kuvat havaittua, pysähtyä ihmettelemään,</lem>
-                </app> että <app id="var3878" type="sub">
-                    <lem>niin paljo elämän näköä on voitu mukailla kovaan kiveen.
-                        Mutta,</lem>
-                </app> koska marmori on kallista ja sitä <app id="var3879" type="sub">
-                    <lem>löytyy</lem>
-                </app> harvassa, on <app id="var3880" type="sub">
-                    <lem>havaittu kalkista</lem>
-                </app> ja <app id="var3881" type="sub">
-                    <lem>vihtrilli-öljystä saatavan</lem>
-                </app> valkea sekoitus, jota <app id="var3882" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">kipsiksi,</hi></lem>
-                </app> ja <app id="var3883" type="sub">
-                    <lem>se</lem>
-                </app> on paljon huokeampaa. Tästä tehdään kipsikuvia, joita <app id="var3884" type="sub">
-                    <lem>ulkomaalais-kipsimaakarit kantelevat</lem>
-                </app> laudalla <app id="var3885" type="sub">
-                    <lem>pää-laellaan kaupungeissa myytäviksi.</lem>
-                </app> Kovinta kipsiä on valkea <hi rend="expanded">alabasteri.</hi> Mutta
-                löyhintä kalkkilajia on <app id="var3886" type="sub">
-                    <lem><hi rend="expanded">kliitu,</hi></lem>
-                </app> jonka kaikki tuntevat, ja sitä on ulkomailla niin <app id="var3887" type="sub">
-                    <lem>paljolta,</lem>
-                </app> että siellä on kokonaisia <app id="var3888" type="sub">
-                    <lem>kliitu-vuoria.</lem>
-                </app></p>
-            <p style="blackletter"><app id="var3889" type="sub">
-                    <lem>Sittenkin</lem>
-                </app> on vielä <app id="var3890" type="sub">
-                    <lem>monia</lem>
-                </app> löyhiä <app id="var3891" type="sub">
-                    <lem>kivilajia.</lem>
-                </app> Äiti <app id="var3892" type="sub">
-                    <lem>kihnasi</lem>
-                </app> messinkiä kirkkaaksi kivellä, joka oli niin <app id="var3893" type="sub">
-                    <lem>keveää,</lem>
-                </app> että pysyi veden <app id="var3894" type="sub">
-                    <lem>päällä,</lem>
-                </app> ja sitä sanottiin <hi rend="expanded">hohkakiveksi.</hi> Isän paras
-                piippu on <app id="var3895" type="sub">
-                    <lem><hi rend="expanded">merenvahasta,</hi></lem>
-                </app> joka on niin <app id="var3896" type="sub">
-                    <lem>pehmeää</lem>
-                </app> kiveä, että sitä <app id="var3897" type="sub">
-                    <lem>saatetaan</lem>
-                </app> leikata. <app id="var3898" type="sub">
-                    <lem><hi rend="expanded">Vuolu-kiveä</hi> saatetaan vuolta</lem>
-                </app> ja <app id="var3899" type="sub">
-                    <lem>varvata</lem>
-                </app> padoiksi. Muutamain <app id="var3900" type="sub">
-                    <lem>kivein</lem>
-                </app> luullaan <app id="var3901" type="sub">
-                    <lem>en<pb type="orig" n="117"/>nen</lem>
-                </app> olleen <app id="var3902" type="sub">
-                    <lem>niin pehmeinä</lem>
-                </app> kuin muta <app id="var3903" type="sub">
-                    <lem>on vedessä.</lem>
-                </app> Ja kun <app id="var3904" type="sub">
-                    <lem>vesi, joka seisoi yleeseensä maan päällä,</lem>
-                </app> juoksi pois, ovat kivet sittemmin <app id="var3905" type="sub">
-                    <lem>kovenneet ilmassa.</lem>
-                </app> Tästä <app id="var3906" type="sub">
-                    <lem>voidaan selittää, kuinka</lem>
-                </app> muutamissa löyhemmissä vuorissa on tavattu <app id="var3907" type="sub">
-                    <lem>jäänöksiä kasvuista</lem>
-                </app> ja <app id="var3908" type="sub">
-                    <lem>elävistä mudassa, jossa ne sitte ovat kovenneet</lem>
-                </app> sen <app id="var3909" type="sub">
-                    <lem>kanssa kiviksi.</lem>
-                </app> Mutta <app id="var3910" type="sub">
-                    <lem>harmaa-kivi-vuorissa</lem>
-                </app> ei <app id="var3911" type="sub">
-                    <lem>löydy kivettyneitä kappaleita. Siksi</lem>
-                </app> luullaan <app id="var3912" type="sub">
-                    <lem>harmaan kiven</lem>
-                </app> olleen <app id="var3913" type="sub">
-                    <lem>maan päällä, ennenkuin</lem>
-                </app> kasveja ja <app id="var3914" type="sub">
-                    <lem>eläviä on ollutkaan.</lem>
-                </app> Mutta <app id="var3915" type="sub">
-                    <lem>muut</lem>
-                </app> vuoret ja kivet ovat <app id="var3916" type="sub">
-                    <lem>tulleet</lem>
-                </app> ja <app id="var3917" type="sub">
-                    <lem>kovenneet</lem>
-                </app> paljon <app id="var3918" type="sub">
-                    <lem>jälempänä.</lem>
-                </app></p>
-            <p style="blackletter"><app id="var3919" type="sub">
-                    <lem>Tuolla kaupungissa</lem>
-                </app> näki äiti <app id="var3920" type="sub">
-                    <lem>kiven,</lem>
-                </app> joka välkkyi <app id="var3921" type="sub">
-                    <lem>kummallisesti</lem>
-                </app> kirkkaana ja oli niin kova, että lasimestari leikkeli sillä <app id="var3922" type="sub">
-                    <lem>laseja. Äitistä</lem>
-                </app> oli <app id="var3923" type="sub">
-                    <lem>kivi mieluinen</lem>
-                </app> ja <app id="var3924" type="sub">
-                    <lem>pyyti sitä ostaaksensa muutamilla kopeikoilla.</lem>
-                </app> Ei, sanoi lasimestari, se kivi on <hi rend="expanded">timantti</hi>
-                ja <app id="var3925" type="sub">
-                    <lem>voipi maksaa enemmän</lem>
-                </app> kuin koko teidän tupanne. <app id="var3926" type="sub">
-                    <lem>Tuleppa</lem>
-                </app> kanssani kultasepälle, sanoi hän, niin näytän teille useita <hi rend="expanded">kalliita </hi><app id="var3927" type="sub">
-                    <lem><hi rend="expanded">kivejä.</hi></lem>
-                </app> Sellaisia <app id="var3928" type="sub">
-                    <lem>löytään aivan harvoin</lem>
-                </app> ja ne maksavat <app id="var3929" type="sub">
-                    <lem>hyvin paljon.</lem>
-                </app> Kun ne <app id="var3930" type="sub">
-                    <lem>ovat lasketut</lem>
-                </app> sileiksi, <app id="var3931" type="sub">
-                    <lem>sijoitetaan ne kultaan ja kalleisiin koristuksiin.</lem>
-                </app> Mutta timantti ei <app id="var3932" type="sub">
-                    <lem>ole</lem>
-                </app> muuta kuin puhtainta hiiltä, ja <app id="var3933" type="sub">
-                    <lem>siksi palaa</lem>
-                </app> se <app id="var3934" type="sub">
-                    <lem>supi kovassa tulessa.</lem>
-                </app></p>
+                </choice> kalkkia. Kun siihen 
+                <app id="var3866" type="sub"><lem>kaadetaan</lem></app> vettä, 
+                <app id="var3867" type="sub"><lem>ottaa se</lem></app> hetkeksi 
+                <app id="var3868" type="sub"><lem>kovan kuumuuden,</lem></app> ja tätä sanotaan kalkin 
+                <app id="var3869" type="sub"><lem>kastelemiseksi. Kalkkia sekoitetaan saven</lem></app> ja hiekan 
+                <app id="var3870" type="sub"><lem>kanssa, kun sitä</lem></app> käytetään 
+                <app id="var3871" type="sub"><lem>muuraus-pruukiksi.</lem></app> Olen nähnyt kovaa ja 
+                <app id="var3872" type="sub"><lem>hieno-syistä kalkki-kiveä,</lem></app> jota 
+                <app id="var3873" type="sub"><lem>kutsutaan</lem></app> marmoriksi. Sitä on monennäköistä ulkomailla ja 
+                <app id="var3874" type="sub"><lem>maassammekin Ruskialassa.</lem></app> Siitä hakataan kauniita patsaita, portaita ja kuvia. Ja kun 
+                <app id="var3875" type="sub"><lem>mainiot</lem></app> mestarit ovat 
+                <app id="var3876" type="sub"><lem>veistimellään hakanneet marmoriin kauniimpia</lem></app> ihmisten ja eläinten kuvia, 
+                <app id="var3877" type="sub"><lem>täytyypä, kuvat havaittua, pysähtyä ihmettelemään,</lem></app> että 
+                <app id="var3878" type="sub"><lem>niin paljo elämän näköä on voitu mukailla kovaan kiveen.
+                        Mutta,</lem></app> koska marmori on kallista ja sitä 
+                <app id="var3879" type="sub"><lem>löytyy</lem></app> harvassa, on 
+                <app id="var3880" type="sub"><lem>havaittu kalkista</lem></app> ja 
+                <app id="var3881" type="sub"><lem>vihtrilli-öljystä saatavan</lem></app> valkea sekoitus, jota 
+                <app id="var3882" type="sub"><lem>kutsutaan <hi rend="expanded">kipsiksi,</hi></lem></app> ja 
+                <app id="var3883" type="sub"><lem>se</lem></app> on paljon huokeampaa. Tästä tehdään kipsikuvia, joita 
+                <app id="var3884" type="sub"><lem>ulkomaalais-kipsimaakarit kantelevat</lem></app> laudalla 
+                <app id="var3885" type="sub"><lem>pää-laellaan kaupungeissa myytäviksi.</lem></app> Kovinta kipsiä on valkea <hi rend="expanded">alabasteri.</hi> Mutta
+                löyhintä kalkkilajia on 
+                <app id="var3886" type="sub"><lem><hi rend="expanded">kliitu,</hi></lem></app> jonka kaikki tuntevat, ja sitä on ulkomailla niin 
+                <app id="var3887" type="sub"><lem>paljolta,</lem></app> että siellä on kokonaisia 
+                <app id="var3888" type="sub"><lem>kliitu-vuoria.</lem></app></p>
+            <p style="blackletter">
+                <app id="var3889" type="sub"><lem>Sittenkin</lem></app> on vielä 
+                <app id="var3890" type="sub"><lem>monia</lem></app> löyhiä 
+                <app id="var3891" type="sub"><lem>kivilajia.</lem></app> Äiti 
+                <app id="var3892" type="sub"><lem>kihnasi</lem></app> messinkiä kirkkaaksi kivellä, joka oli niin 
+                <app id="var3893" type="sub"><lem>keveää,</lem></app> että pysyi veden 
+                <app id="var3894" type="sub"><lem>päällä,</lem></app> ja sitä sanottiin <hi rend="expanded">hohkakiveksi.</hi> Isän paras
+                piippu on 
+                <app id="var3895" type="sub"><lem><hi rend="expanded">merenvahasta,</hi></lem></app> joka on niin 
+                <app id="var3896" type="sub"><lem>pehmeää</lem></app> kiveä, että sitä 
+                <app id="var3897" type="sub"><lem>saatetaan</lem></app> leikata. 
+                <app id="var3898" type="sub"><lem><hi rend="expanded">Vuolu-kiveä</hi> saatetaan vuolta</lem></app> ja 
+                <app id="var3899" type="sub"><lem>varvata</lem></app> padoiksi. Muutamain 
+                <app id="var3900" type="sub"><lem>kivein</lem></app> luullaan 
+                <app id="var3901" type="sub"><lem>en<pb type="orig" n="117"/>nen</lem></app> olleen 
+                <app id="var3902" type="sub"><lem>niin pehmeinä</lem></app> kuin muta 
+                <app id="var3903" type="sub"><lem>on vedessä.</lem></app> Ja kun 
+                <app id="var3904" type="sub"><lem>vesi, joka seisoi yleeseensä maan päällä,</lem></app> juoksi pois, ovat kivet sittemmin 
+                <app id="var3905" type="sub"><lem>kovenneet ilmassa.</lem></app> Tästä 
+                <app id="var3906" type="sub"><lem>voidaan selittää, kuinka</lem></app> muutamissa löyhemmissä vuorissa on tavattu 
+                <app id="var3907" type="sub"><lem>jäänöksiä kasvuista</lem></app> ja 
+                <app id="var3908" type="sub"><lem>elävistä mudassa, jossa ne sitte ovat kovenneet</lem></app> sen 
+                <app id="var3909" type="sub"><lem>kanssa kiviksi.</lem></app> Mutta 
+                <app id="var3910" type="sub"><lem>harmaa-kivi-vuorissa</lem></app> ei 
+                <app id="var3911" type="sub"><lem>löydy kivettyneitä kappaleita. Siksi</lem></app> luullaan 
+                <app id="var3912" type="sub"><lem>harmaan kiven</lem></app> olleen 
+                <app id="var3913" type="sub"><lem>maan päällä, ennenkuin</lem></app> kasveja ja 
+                <app id="var3914" type="sub"><lem>eläviä on ollutkaan.</lem></app> Mutta 
+                <app id="var3915" type="sub"><lem>muut</lem></app> vuoret ja kivet ovat 
+                <app id="var3916" type="sub"><lem>tulleet</lem></app> ja 
+                <app id="var3917" type="sub"><lem>kovenneet</lem></app> paljon 
+                <app id="var3918" type="sub"><lem>jälempänä.</lem></app></p>
+            <p style="blackletter">
+                <app id="var3919" type="sub"><lem>Tuolla kaupungissa</lem></app> näki äiti 
+                <app id="var3920" type="sub"><lem>kiven,</lem></app> joka välkkyi 
+                <app id="var3921" type="sub"><lem>kummallisesti</lem></app> kirkkaana ja oli niin kova, että lasimestari leikkeli sillä 
+                <app id="var3922" type="sub"><lem>laseja. Äitistä</lem></app> oli 
+                <app id="var3923" type="sub"><lem>kivi mieluinen</lem></app> ja 
+                <app id="var3924" type="sub"><lem>pyyti sitä ostaaksensa muutamilla kopeikoilla.</lem></app> Ei, sanoi lasimestari, se kivi on <hi rend="expanded">timantti</hi>
+                ja 
+                <app id="var3925" type="sub"><lem>voipi maksaa enemmän</lem></app> kuin koko teidän tupanne. 
+                <app id="var3926" type="sub"><lem>Tuleppa</lem></app> kanssani kultasepälle, sanoi hän, niin näytän teille useita <hi rend="expanded">kalliita </hi>
+                <app id="var3927" type="sub"><lem><hi rend="expanded">kivejä.</hi></lem></app> Sellaisia 
+                <app id="var3928" type="sub"><lem>löytään aivan harvoin</lem></app> ja ne maksavat 
+                <app id="var3929" type="sub"><lem>hyvin paljon.</lem></app> Kun ne 
+                <app id="var3930" type="sub"><lem>ovat lasketut</lem></app> sileiksi, 
+                <app id="var3931" type="sub"><lem>sijoitetaan ne kultaan ja kalleisiin koristuksiin.</lem></app> Mutta timantti ei 
+                <app id="var3932" type="sub"><lem>ole</lem></app> muuta kuin puhtainta hiiltä, ja 
+                <app id="var3933" type="sub"><lem>siksi palaa</lem></app> se 
+                <app id="var3934" type="sub"><lem>supi kovassa tulessa.</lem></app></p>
             <p style="blackletter">Äiti näki kultasepällä muitakin kalliita kiviä, jotka
-                kaikki olivat kovia, välkkyviä ja läpikuultavia. Siellä näki hän <app id="var3935" type="sub">
-                    <lem>sen helevän punaisen <hi rend="expanded">rupiinin</hi></lem>
-                </app> ja <app id="var3936" type="sub">
-                    <lem>sen sinisen</lem>
-                </app>
-                <hi rend="expanded">safiirin.</hi> Hän kysyi <app id="var3937" type="sub">
-                    <lem>sen keltasen</lem>
-                </app>
-                <hi rend="expanded">topaasin</hi> ja <app id="var3938" type="sub">
-                    <lem>sen viheriäisen</lem>
-                </app>
-                <hi rend="expanded">smaragdin</hi> hintaa. Mutta niin <app id="var3939" type="sub">
-                    <lem>paljo</lem>
-                </app> ei ollut <app id="var3940" type="sub">
-                    <lem>äitillä</lem>
-                </app> rahaa, että olisi voinut ostaa yhtäkään niistä. <app id="var3941" type="sub">
-                    <lem>Ainoasti tumman punainen <hi rend="expanded">karnioli</hi></lem>
-                </app> oli <app id="var3942" type="sub">
-                    <lem>helpompi,</lem>
-                </app> ja sen <app id="var3943" type="sub">
-                    <lem>osti äiti sormukseensa. Tuleppas</lem>
-                </app> tänne, sanoi kultaseppä, niin <app id="var3944" type="sub">
-                    <lem>saat</lem>
-                </app> ostaa <hi rend="expanded">mukailtuja kiviä</hi>
-                <app id="var3945" type="sub">
-                    <lem>helpolla</lem>
-                </app> hinnalla. Ovathan ne <app id="var3946" type="sub">
-                    <lem>kallisten kivein</lem>
-                </app> näköisiä, vaikka <pb type="orig" n="118"/>eivät ole niin kovia ja
-                välkkyviä. En huoli, sanoi äiti, en tahdo ylpeillä <app id="var3947" type="sub">
-                    <lem>petollisuudella. Jos ei</lem>
-                </app> minulla ole varaa <app id="var3948" type="sub">
-                    <lem>ostaa sitä, joka</lem>
-                </app> on <app id="var3949" type="sub">
-                    <lem>oikeaa,</lem>
-                </app> niin en huoli teidän mukailluista kivistännekään.</p>
-            <p style="blackletter">Isä oli kerran juonut terveydekseen <app id="var3950" type="sub">
-                    <lem>vettä lähteestä, jossa se</lem>
-                </app> maistui <app id="var3951" type="sub">
-                    <lem>pläkiltä.</lem>
-                </app> Tämä <app id="var3952" type="sub">
-                    <lem>tuli</lem>
-                </app> siitä, että vesi <app id="var3953" type="sub">
-                    <lem>oli juossut maan läpitse ja siinä</lem>
-                </app> kohdannut rautaa ja <app id="var3954" type="sub">
-                    <lem>muuta metallia,</lem>
-                </app> joista vähäinen osa oli <app id="var3955" type="sub">
-                    <lem>irtaunut</lem>
-                </app> veteen. Sellaista <app id="var3956" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">mineraali-vedeksi</hi>
-                        (kivennäis-vedeksi), sillä kivet</lem>
-                </app> ja <app id="var3957" type="sub">
-                    <lem>malmit kutsutaan</lem>
-                </app>
-                <hi rend="expanded">mineraaleiksi</hi> (kivennäisiksi). Sen lähteen <app id="var3958" type="sub">
-                    <lem>tyköä löyti</lem>
-                </app> isä kivettyneen <app id="var3959" type="sub">
-                    <lem>puupalaisen.</lem>
-                </app> Sillä muutamat kuolleet kasvit ja eläinten luurangot, jotka ovat <app id="var3960" type="sub">
-                    <lem>kauvan maanneet maassa, kastuvat läpi mineraali-vedestä
-                        (kivennäis-vedestä).</lem>
-                </app> Ja <app id="var3961" type="sub">
-                    <lem>niin kovenevat</lem>
-                </app> ne viimein <app id="var3962" type="sub">
-                    <lem>kuin kivettyneet kappaleet</lem>
-                </app> vuorissa.</p>
-            <p style="blackletter">Isä sanoi: <app id="var3963" type="sub">
-                    <lem>nyt</lem>
-                </app> olemme nähneet <app id="var3964" type="sub">
-                    <lem>jotakuta</lem>
-                </app> kaikista kolmesta <app id="var3965" type="sub">
-                    <lem>luonto-kunnista.</lem>
-                </app> Ihmeellisesti ja viisaasti on Jumala <app id="var3966" type="sub">
-                    <lem>laittanut kaikki.</lem>
-                </app> Eläimille ja kasveille <app id="var3967" type="sub">
-                    <lem>on Jumala</lem>
-                </app> antanut <app id="var3968" type="sub">
-                    <lem>pyöristetyn</lem>
-                </app> muodon, ikäänkuin <app id="var3969" type="sub">
-                    <lem>siksi</lem>
-                </app> etteivät loukkaisi toisiaan. Mutta kiville <app id="var3970" type="sub">
-                    <lem>on hän</lem>
-                </app> antanut <app id="var3971" type="sub">
-                    <lem>särmäisen</lem>
-                </app> muodon. Ja <app id="var3972" type="sub">
-                    <lem>kumma se</lem>
-                </app> on, että niiden särmät tulevat niin <app id="var3973" type="sub">
-                    <lem>säännöllisiä.</lem>
-                </app> Jos <app id="var3974" type="sub">
-                    <lem>katselet keittosuoloja, näet jokaisella rakeella</lem>
-                </app> alusta olleen kuusi <app id="var3975" type="sub">
-                    <lem>sileää</lem>
-                </app> sivua, <app id="var3976" type="sub">
-                    <lem>juurikuin kuutiolla.</lem>
-                </app> Jos <app id="var3977" type="sub">
-                    <lem>kaadat kuumaa vettä vähäisen salpetteriko’on päälle</lem>
-                </app> ja annat veden <app id="var3978" type="sub">
-                    <lem>sitte</lem>
-                </app> jäähtyä, niin <app id="var3979" type="sub">
-                    <lem>näet, kuinka salpetteri</lem>
-                </app> jälleen <app id="var3980" type="sub">
-                    <lem>hyytyy vedestä kuusikulmaisiksi neuloiksi.</lem>
-                </app> Sellaisia <app id="var3981" type="sub">
-                    <lem>hyytyneitä neuloja</lem>
-                </app> ja <app id="var3982" type="sub">
-                    <lem>kipeneitä kutsutaan <hi rend="expanded">rakeiksi,</hi></lem>
-                </app> (kristalleiksi), ja ne ovat aina <app id="var3983" type="sub">
-                    <lem>samallaisia</lem>
-                </app> samassa aineessa.</p>
-            <p style="blackletter">Kivikuntaa <app id="var3984" type="sub">
-                    <lem>löytyy jokapaikassa;</lem>
-                </app> koko tämä suuri <app id="var3985" type="sub">
-                    <lem>maa</lem>
-                </app> on <app id="var3986" type="sub">
-                    <lem>yhdistyksessä.</lem>
-                </app> Ja <app id="var3987" type="sub">
-                    <lem>niin</lem>
-                </app> on Jumala <app id="var3988" type="sub">
-                    <lem>jokapaikassa, ja jokapaikassa</lem>
-                </app> näkee ihminen <app id="var3989" type="sub">
-                    <lem>hänen</lem>
-                </app> äärettömän kaikkivaltansa jälkiä.</p>
+                kaikki olivat kovia, välkkyviä ja läpikuultavia. Siellä näki hän 
+                <app id="var3935" type="sub"><lem>sen helevän punaisen <hi rend="expanded">rupiinin</hi></lem></app> ja 
+                <app id="var3936" type="sub"><lem>sen sinisen</lem></app>
+                <hi rend="expanded">safiirin.</hi> Hän kysyi 
+                <app id="var3937" type="sub"><lem>sen keltasen</lem></app>
+                <hi rend="expanded">topaasin</hi> ja 
+                <app id="var3938" type="sub"><lem>sen viheriäisen</lem></app>
+                <hi rend="expanded">smaragdin</hi> hintaa. Mutta niin 
+                <app id="var3939" type="sub"><lem>paljo</lem></app> ei ollut 
+                <app id="var3940" type="sub"><lem>äitillä</lem></app> rahaa, että olisi voinut ostaa yhtäkään niistä. 
+                <app id="var3941" type="sub"><lem>Ainoasti tumman punainen <hi rend="expanded">karnioli</hi></lem></app> oli 
+                <app id="var3942" type="sub"><lem>helpompi,</lem></app> ja sen 
+                <app id="var3943" type="sub"><lem>osti äiti sormukseensa. Tuleppas</lem></app> tänne, sanoi kultaseppä, niin 
+                <app id="var3944" type="sub"><lem>saat</lem></app> ostaa <hi rend="expanded">mukailtuja kiviä</hi>
+                
+                <app id="var3945" type="sub"><lem>helpolla</lem></app> hinnalla. Ovathan ne 
+                <app id="var3946" type="sub"><lem>kallisten kivein</lem></app> näköisiä, vaikka <pb type="orig" n="118"/>eivät ole niin kovia ja
+                välkkyviä. En huoli, sanoi äiti, en tahdo ylpeillä 
+                <app id="var3947" type="sub"><lem>petollisuudella. Jos ei</lem></app> minulla ole varaa 
+                <app id="var3948" type="sub"><lem>ostaa sitä, joka</lem></app> on 
+                <app id="var3949" type="sub"><lem>oikeaa,</lem></app> niin en huoli teidän mukailluista kivistännekään.</p>
+            <p style="blackletter">Isä oli kerran juonut terveydekseen 
+                <app id="var3950" type="sub"><lem>vettä lähteestä, jossa se</lem></app> maistui 
+                <app id="var3951" type="sub"><lem>pläkiltä.</lem></app> Tämä 
+                <app id="var3952" type="sub"><lem>tuli</lem></app> siitä, että vesi 
+                <app id="var3953" type="sub"><lem>oli juossut maan läpitse ja siinä</lem></app> kohdannut rautaa ja 
+                <app id="var3954" type="sub"><lem>muuta metallia,</lem></app> joista vähäinen osa oli 
+                <app id="var3955" type="sub"><lem>irtaunut</lem></app> veteen. Sellaista 
+                <app id="var3956" type="sub"><lem>kutsutaan <hi rend="expanded">mineraali-vedeksi</hi>
+                        (kivennäis-vedeksi), sillä kivet</lem></app> ja 
+                <app id="var3957" type="sub"><lem>malmit kutsutaan</lem></app>
+                <hi rend="expanded">mineraaleiksi</hi> (kivennäisiksi). Sen lähteen 
+                <app id="var3958" type="sub"><lem>tyköä löyti</lem></app> isä kivettyneen 
+                <app id="var3959" type="sub"><lem>puupalaisen.</lem></app> Sillä muutamat kuolleet kasvit ja eläinten luurangot, jotka ovat 
+                <app id="var3960" type="sub"><lem>kauvan maanneet maassa, kastuvat läpi mineraali-vedestä
+                        (kivennäis-vedestä).</lem></app> Ja 
+                <app id="var3961" type="sub"><lem>niin kovenevat</lem></app> ne viimein 
+                <app id="var3962" type="sub"><lem>kuin kivettyneet kappaleet</lem></app> vuorissa.</p>
+            <p style="blackletter">Isä sanoi: 
+                <app id="var3963" type="sub"><lem>nyt</lem></app> olemme nähneet 
+                <app id="var3964" type="sub"><lem>jotakuta</lem></app> kaikista kolmesta 
+                <app id="var3965" type="sub"><lem>luonto-kunnista.</lem></app> Ihmeellisesti ja viisaasti on Jumala 
+                <app id="var3966" type="sub"><lem>laittanut kaikki.</lem></app> Eläimille ja kasveille 
+                <app id="var3967" type="sub"><lem>on Jumala</lem></app> antanut 
+                <app id="var3968" type="sub"><lem>pyöristetyn</lem></app> muodon, ikäänkuin 
+                <app id="var3969" type="sub"><lem>siksi</lem></app> etteivät loukkaisi toisiaan. Mutta kiville 
+                <app id="var3970" type="sub"><lem>on hän</lem></app> antanut 
+                <app id="var3971" type="sub"><lem>särmäisen</lem></app> muodon. Ja 
+                <app id="var3972" type="sub"><lem>kumma se</lem></app> on, että niiden särmät tulevat niin 
+                <app id="var3973" type="sub"><lem>säännöllisiä.</lem></app> Jos 
+                <app id="var3974" type="sub"><lem>katselet keittosuoloja, näet jokaisella rakeella</lem></app> alusta olleen kuusi 
+                <app id="var3975" type="sub"><lem>sileää</lem></app> sivua, 
+                <app id="var3976" type="sub"><lem>juurikuin kuutiolla.</lem></app> Jos 
+                <app id="var3977" type="sub"><lem>kaadat kuumaa vettä vähäisen salpetteriko’on päälle</lem></app> ja annat veden 
+                <app id="var3978" type="sub"><lem>sitte</lem></app> jäähtyä, niin 
+                <app id="var3979" type="sub"><lem>näet, kuinka salpetteri</lem></app> jälleen 
+                <app id="var3980" type="sub"><lem>hyytyy vedestä kuusikulmaisiksi neuloiksi.</lem></app> Sellaisia 
+                <app id="var3981" type="sub"><lem>hyytyneitä neuloja</lem></app> ja 
+                <app id="var3982" type="sub"><lem>kipeneitä kutsutaan <hi rend="expanded">rakeiksi,</hi></lem></app> (kristalleiksi), ja ne ovat aina 
+                <app id="var3983" type="sub"><lem>samallaisia</lem></app> samassa aineessa.</p>
+            <p style="blackletter">Kivikuntaa 
+                <app id="var3984" type="sub"><lem>löytyy jokapaikassa;</lem></app> koko tämä suuri 
+                <app id="var3985" type="sub"><lem>maa</lem></app> on 
+                <app id="var3986" type="sub"><lem>yhdistyksessä.</lem></app> Ja 
+                <app id="var3987" type="sub"><lem>niin</lem></app> on Jumala 
+                <app id="var3988" type="sub"><lem>jokapaikassa, ja jokapaikassa</lem></app> näkee ihminen 
+                <app id="var3989" type="sub"><lem>hänen</lem></app> äärettömän kaikkivaltansa jälkiä.</p>
             <pb type="orig" n="119"/>
             <head style="blackletter"><anchor id="struct145a"/><hi rend="bold">Kullasta ja
                     hopeasta.</hi><anchor id="struct145b"/></head>
-            <p style="blackletter"><app id="var3990" type="sub">
-                    <lem>Kulta,</lem>
-                </app> jota ihmiset niin paljon haluavat, <app id="var3991" type="sub">
-                    <lem>tulee tänne</lem>
-                </app> Venäjältä ja Amerikasta. Välistä löydetään sitä puhtaana. <app id="var3992" type="sub">
-                    <lem>Brasiliassa</lem>
-                </app> löydettiin kerran kultakappale, joka painoi <app id="var3993" type="sub">
-                    <lem>128 (sata kahdeksankolmatta) leiviskää. Virrat</lem>
-                </app> ja <app id="var3994" type="sub">
-                    <lem>ojat</lem>
-                </app> tuovat <app id="var3995" type="sub">
-                    <lem>muassaan kultaa</lem>
-                </app> vuorista. Silloin painuu <app id="var3996" type="sub">
-                    <lem>se raskas</lem>
-                </app> kulta <app id="var3997" type="sub">
-                    <lem>virtain</lem>
-                </app> pohjalle. Sieltä otetaan hieta ja huuhdotaan <app id="var3998" type="int">
-                    <lem>astiassa;</lem>
-                </app> ja koska kulta on raskainta, <app id="var3999" type="sub">
-                    <lem>laskeupi</lem>
-                </app> se <app id="var4000" type="sub">
-                    <lem>ennenkuin hieta pohjalle. Sitte sulataan kulta-herneet
-                        kappaleihin.</lem>
-                </app> Suomessa on <app id="var4001" type="sub">
-                    <lem>etsitty kultaa Kemissä</lem>
-                </app> ja <app id="var4002" type="sub">
-                    <lem>Kuusamossa; mutta sitä on löytynyt niin vähältä, ettei saalis ole
-                        maksanut työvaivaa. Muutamia</lem>
-                </app> vuosia <app id="var4003" type="sub">
-                    <lem>jälkeenpäin leveni</lem>
-                </app> huhu, <app id="var4004" type="sub">
-                    <lem>Kalifornian maassa löytyvän</lem>
-                </app> suunnattoman <app id="var4005" type="sub">
-                    <lem>paljo kulta-hietaa.</lem>
-                </app> Sinne matkusti <app id="var4006" type="sub">
-                    <lem>monia tuhansia ihmisiä</lem>
-                </app> kaikista <app id="var4007" type="sub">
-                    <lem>mailman</lem>
-                </app> paikoista, äkkiä rikastuaksensa. Ja paha voitonhimo oli <app id="var4008" type="sub">
-                    <lem>niin villinnyt niitä,</lem>
-                </app> että moni mies lähti pois vaimonsa <app id="var4009" type="sub">
-                    <lem>tyköä,</lem>
-                </app> ja vanhemmat lastensa <app id="var4010" type="sub">
-                    <lem>tyköä,</lem>
-                </app> ja lapset vanhempainsa luota. Ja <app id="var4011" type="sub">
-                    <lem>ne</lem>
-                </app> myivät <app id="var4012" type="int">
-                    <lem>kaikki</lem>
-                </app> mitä heillä <app id="var4013" type="sub">
-                    <lem>oli kotona</lem>
-                </app> ja jättivät <app id="var4014" type="sub">
-                    <lem>toimituksensa, päästäkseen</lem>
-                </app> kultaa kaivamaan. Mutta kun <app id="var4015" type="sub">
-                    <lem>tulivat</lem>
-                </app> Kaliforniaan, olivat siellä kaikki <app id="var4016" type="sub">
-                    <lem>elämän tarpeet</lem>
-                </app> kauhean <app id="var4017" type="sub">
-                    <lem>kalleita. Monta</lem>
-                </app> kuoli nälkään. Toiset tekivät <app id="var4018" type="sub">
-                    <lem>yötä ja päivää kovasti</lem>
-                </app> työtä vedessä ja rapakossa, josta <app id="var4019" type="sub">
-                    <lem>hakivat kulta-hietaa.</lem>
-                </app> Moni menetti kultansa ja henkensä <app id="var4020" type="sub">
-                    <lem>ryövärein</lem>
-                </app> käsissä. <app id="var4021" type="sub">
-                    <lem>Niin tulivat</lem>
-                </app> jotkut harvat <app id="var4022" type="sub">
-                    <lem>rikkaiksi:</lem>
-                </app> mutta <app id="var4023" type="sub">
-                    <lem>monta menetti henkensä viheljäisyydessä</lem>
-                </app> ja <app id="var4024" type="sub">
-                    <lem>köyhyydessä.</lem>
-                </app> Ja ne, jotka pahoilla mielin palasivat <app id="var4025" type="sub">
-                    <lem>takasi</lem>
-                </app> kotiinsa, huokailivat <app id="var4026" type="sub">
-                    <lem>surulla, kun pahalla ahneudella on</lem>
-                </app> niin usein <app id="var4027" type="sub">
-                    <lem>valtaa</lem>
-                </app> syntisen ihmisen sydämessä.</p>
+            <p style="blackletter">
+                <app id="var3990" type="sub"><lem>Kulta,</lem></app> jota ihmiset niin paljon haluavat, 
+                <app id="var3991" type="sub"><lem>tulee tänne</lem></app> Venäjältä ja Amerikasta. Välistä löydetään sitä puhtaana. 
+                <app id="var3992" type="sub"><lem>Brasiliassa</lem></app> löydettiin kerran kultakappale, joka painoi 
+                <app id="var3993" type="sub"><lem>128 (sata kahdeksankolmatta) leiviskää. Virrat</lem></app> ja 
+                <app id="var3994" type="sub"><lem>ojat</lem></app> tuovat 
+                <app id="var3995" type="sub"><lem>muassaan kultaa</lem></app> vuorista. Silloin painuu 
+                <app id="var3996" type="sub"><lem>se raskas</lem></app> kulta 
+                <app id="var3997" type="sub"><lem>virtain</lem></app> pohjalle. Sieltä otetaan hieta ja huuhdotaan 
+                <app id="var3998" type="int"><lem>astiassa;</lem></app> ja koska kulta on raskainta, 
+                <app id="var3999" type="sub"><lem>laskeupi</lem></app> se 
+                <app id="var4000" type="sub"><lem>ennenkuin hieta pohjalle. Sitte sulataan kulta-herneet
+                        kappaleihin.</lem></app> Suomessa on 
+                <app id="var4001" type="sub"><lem>etsitty kultaa Kemissä</lem></app> ja 
+                <app id="var4002" type="sub"><lem>Kuusamossa; mutta sitä on löytynyt niin vähältä, ettei saalis ole
+                        maksanut työvaivaa. Muutamia</lem></app> vuosia 
+                <app id="var4003" type="sub"><lem>jälkeenpäin leveni</lem></app> huhu, 
+                <app id="var4004" type="sub"><lem>Kalifornian maassa löytyvän</lem></app> suunnattoman 
+                <app id="var4005" type="sub"><lem>paljo kulta-hietaa.</lem></app> Sinne matkusti 
+                <app id="var4006" type="sub"><lem>monia tuhansia ihmisiä</lem></app> kaikista 
+                <app id="var4007" type="sub"><lem>mailman</lem></app> paikoista, äkkiä rikastuaksensa. Ja paha voitonhimo oli 
+                <app id="var4008" type="sub"><lem>niin villinnyt niitä,</lem></app> että moni mies lähti pois vaimonsa 
+                <app id="var4009" type="sub"><lem>tyköä,</lem></app> ja vanhemmat lastensa 
+                <app id="var4010" type="sub"><lem>tyköä,</lem></app> ja lapset vanhempainsa luota. Ja 
+                <app id="var4011" type="sub"><lem>ne</lem></app> myivät 
+                <app id="var4012" type="int"><lem>kaikki</lem></app> mitä heillä 
+                <app id="var4013" type="sub"><lem>oli kotona</lem></app> ja jättivät 
+                <app id="var4014" type="sub"><lem>toimituksensa, päästäkseen</lem></app> kultaa kaivamaan. Mutta kun 
+                <app id="var4015" type="sub"><lem>tulivat</lem></app> Kaliforniaan, olivat siellä kaikki 
+                <app id="var4016" type="sub"><lem>elämän tarpeet</lem></app> kauhean 
+                <app id="var4017" type="sub"><lem>kalleita. Monta</lem></app> kuoli nälkään. Toiset tekivät 
+                <app id="var4018" type="sub"><lem>yötä ja päivää kovasti</lem></app> työtä vedessä ja rapakossa, josta 
+                <app id="var4019" type="sub"><lem>hakivat kulta-hietaa.</lem></app> Moni menetti kultansa ja henkensä 
+                <app id="var4020" type="sub"><lem>ryövärein</lem></app> käsissä. 
+                <app id="var4021" type="sub"><lem>Niin tulivat</lem></app> jotkut harvat 
+                <app id="var4022" type="sub"><lem>rikkaiksi:</lem></app> mutta 
+                <app id="var4023" type="sub"><lem>monta menetti henkensä viheljäisyydessä</lem></app> ja 
+                <app id="var4024" type="sub"><lem>köyhyydessä.</lem></app> Ja ne, jotka pahoilla mielin palasivat 
+                <app id="var4025" type="sub"><lem>takasi</lem></app> kotiinsa, huokailivat 
+                <app id="var4026" type="sub"><lem>surulla, kun pahalla ahneudella on</lem></app> niin usein 
+                <app id="var4027" type="sub"><lem>valtaa</lem></app> syntisen ihmisen sydämessä.</p>
             <pb type="orig" n="120"/>
             <head style="blackletter"><anchor id="struct147a"/><hi rend="bold">Kaivannoista.</hi><anchor id="struct147b"/></head>
             <head><anchor id="struct148a"/>
                 <anchor id="struct148b"/></head>
-            <p style="blackletter">Kun <app id="var4028" type="sub">
-                    <lem>laskeupi</lem>
-                </app> alas syviin <app id="var4029" type="sub">
-                    <lem>kaivantoihin</lem>
-                </app> ja näkee <app id="var4030" type="sub">
-                    <lem>kaivantoväen</lem>
-                </app> liikkuvan <app id="var4031" type="sub">
-                    <lem>tulisoittoineen, tuleepa ajattelemaan satuissa mainittavia
-                        lintukotolaisia,</lem>
-                </app> jotka takoivat <app id="var4032" type="sub">
-                    <lem>kultaansa</lem>
-                </app> maan sisuksissa. Välistä <app id="var4033" type="sub">
-                    <lem>laskeutaan</lem>
-                </app> niihin <app id="var4034" type="sub">
-                    <lem>alas tikapuita myöten;</lem>
-                </app> mutta syvimpiin <app id="var4035" type="sub">
-                    <lem>kaivantoihin</lem>
-                </app> vivutaan ihmisiä <app id="var4036" type="sub">
-                    <lem>korissa.</lem>
-                </app> Fahlun <app id="var4037" type="sub">
-                    <lem>kuparikaivanto</lem>
-                </app> ja Dannemoran <app id="var4038" type="sub">
-                    <lem>rautakaivanto</lem>
-                </app> ovat <app id="var4039" type="sub">
-                    <lem>kaksi</lem>
-                </app> niin <app id="var4040" type="sub">
-                    <lem>syvää kaivosta Ruotsissa,</lem>
-                </app> että saisi panna neljä kirkontornia <app id="var4041" type="sub">
-                    <lem>päälletysten seisomaan,</lem>
-                </app> ja tuskinpa ne <app id="var4042" type="sub">
-                    <lem>sittekään</lem>
-                </app> ylettyisivät <app id="var4043" type="sub">
-                    <lem>kaivannon</lem>
-                </app> pohjasta <app id="var4044" type="sub">
-                    <lem>ylimmäiseen maapintaan.</lem>
-                </app> Useat <app id="var4045" type="sub">
-                    <lem>kaivannot menevät alemmaksi</lem>
-                </app> meren <app id="var4046" type="sub">
-                    <lem>pohjaa.</lem>
-                </app> Täällä Suomessa ei ole niin syviä <app id="var4047" type="sub">
-                    <lem>kaivannoita;</lem>
-                </app> mutta <app id="var4048" type="sub">
-                    <lem>Orijärven kupari-kaivanto saatetaan verrata olevan kahta
-                        kirkontornia syvän.</lem>
-                </app> Ja <app id="var4049" type="sub">
-                    <lem>kaivannoissa</lem>
-                </app> hakataan <app id="var4050" type="sub">
-                    <lem>metallein malmia</lem>
-                </app> pitkistä solista, joita <app id="var4051" type="sub">
-                    <lem>kutsutaan <hi rend="expanded">kaivoskuopiksi.</hi></lem>
-                </app> Mutta on <app id="var4052" type="sub">
-                    <lem>suola-kaivannoitakin.</lem>
-                </app> Pienen kaupungin tienoilla, jonka nimi on <app id="var4053" type="sub">
-                    <lem>Vielizka, Galizian</lem>
-                </app> maassa, on <app id="var4054" type="sub">
-                    <lem>niin avaroita suolakaivannoita syvässä</lem>
-                </app> maan <app id="var4055" type="sub">
-                    <lem>sisässä,</lem>
-                </app> että ne ovat kuin <app id="var4056">
-                    <lem>suuri</lem>
-                </app> kaupunki <app id="var4057" type="sub">
-                    <lem>katuineen ja torineen.</lem>
-                </app> Ja sellaisia toreja on siellä <app id="var4058" type="sub">
-                    <lem>kolmikerrassa</lem>
-                </app> päälletysten. Siellä hakataan vuorisuoloja seinistä, ja <app id="var4059" type="sub">
-                    <lem>aivan</lem>
-                </app> kaunista on <app id="var4060" type="sub">
-                    <lem>se katsoa, kuinka miljonittain suolan rakeita yleensä
-                        kimaltelee</lem>
-                </app> valkean <app id="var4061" type="sub">
-                    <lem>valossa, jos</lem>
-                </app> mihin <app id="var4062" type="sub">
-                    <lem>katsoisi.</lem>
-                </app> Ihmiset ja eläimet menettävät siellä kyllä usein henkensä, kun katto
-                pudota <app id="var4063" type="sub">
-                    <lem>rysyää</lem>
-                </app> niiden päälle. Ja <app id="var4064" type="sub">
-                    <lem>sitte käypi</lem>
-                </app> niinkin, että vasta monien <app id="var4065" type="sub">
-                    <lem>vuotten perästä löydetään</lem>
-                </app> niiden ruumiit <app id="var4066" type="sub">
-                    <lem>muuttumattomina.</lem>
-                </app> Sillä <app id="var4067" type="sub">
-                    <lem>suola on tunkeunut niiden läpitse ja varjellut niitä
-                        mätänemästä.</lem>
-                </app></p>
+            <p style="blackletter">Kun 
+                <app id="var4028" type="sub"><lem>laskeupi</lem></app> alas syviin 
+                <app id="var4029" type="sub"><lem>kaivantoihin</lem></app> ja näkee 
+                <app id="var4030" type="sub"><lem>kaivantoväen</lem></app> liikkuvan 
+                <app id="var4031" type="sub"><lem>tulisoittoineen, tuleepa ajattelemaan satuissa mainittavia
+                        lintukotolaisia,</lem></app> jotka takoivat 
+                <app id="var4032" type="sub"><lem>kultaansa</lem></app> maan sisuksissa. Välistä 
+                <app id="var4033" type="sub"><lem>laskeutaan</lem></app> niihin 
+                <app id="var4034" type="sub"><lem>alas tikapuita myöten;</lem></app> mutta syvimpiin 
+                <app id="var4035" type="sub"><lem>kaivantoihin</lem></app> vivutaan ihmisiä 
+                <app id="var4036" type="sub"><lem>korissa.</lem></app> Fahlun 
+                <app id="var4037" type="sub"><lem>kuparikaivanto</lem></app> ja Dannemoran 
+                <app id="var4038" type="sub"><lem>rautakaivanto</lem></app> ovat 
+                <app id="var4039" type="sub"><lem>kaksi</lem></app> niin 
+                <app id="var4040" type="sub"><lem>syvää kaivosta Ruotsissa,</lem></app> että saisi panna neljä kirkontornia 
+                <app id="var4041" type="sub"><lem>päälletysten seisomaan,</lem></app> ja tuskinpa ne 
+                <app id="var4042" type="sub"><lem>sittekään</lem></app> ylettyisivät 
+                <app id="var4043" type="sub"><lem>kaivannon</lem></app> pohjasta 
+                <app id="var4044" type="sub"><lem>ylimmäiseen maapintaan.</lem></app> Useat 
+                <app id="var4045" type="sub"><lem>kaivannot menevät alemmaksi</lem></app> meren 
+                <app id="var4046" type="sub"><lem>pohjaa.</lem></app> Täällä Suomessa ei ole niin syviä 
+                <app id="var4047" type="sub"><lem>kaivannoita;</lem></app> mutta 
+                <app id="var4048" type="sub"><lem>Orijärven kupari-kaivanto saatetaan verrata olevan kahta
+                        kirkontornia syvän.</lem></app> Ja 
+                <app id="var4049" type="sub"><lem>kaivannoissa</lem></app> hakataan 
+                <app id="var4050" type="sub"><lem>metallein malmia</lem></app> pitkistä solista, joita 
+                <app id="var4051" type="sub"><lem>kutsutaan <hi rend="expanded">kaivoskuopiksi.</hi></lem></app> Mutta on 
+                <app id="var4052" type="sub"><lem>suola-kaivannoitakin.</lem></app> Pienen kaupungin tienoilla, jonka nimi on 
+                <app id="var4053" type="sub"><lem>Vielizka, Galizian</lem></app> maassa, on 
+                <app id="var4054" type="sub"><lem>niin avaroita suolakaivannoita syvässä</lem></app> maan 
+                <app id="var4055" type="sub"><lem>sisässä,</lem></app> että ne ovat kuin 
+                <app id="var4056"><lem>suuri</lem></app> kaupunki 
+                <app id="var4057" type="sub"><lem>katuineen ja torineen.</lem></app> Ja sellaisia toreja on siellä 
+                <app id="var4058" type="sub"><lem>kolmikerrassa</lem></app> päälletysten. Siellä hakataan vuorisuoloja seinistä, ja 
+                <app id="var4059" type="sub"><lem>aivan</lem></app> kaunista on 
+                <app id="var4060" type="sub"><lem>se katsoa, kuinka miljonittain suolan rakeita yleensä
+                        kimaltelee</lem></app> valkean 
+                <app id="var4061" type="sub"><lem>valossa, jos</lem></app> mihin 
+                <app id="var4062" type="sub"><lem>katsoisi.</lem></app> Ihmiset ja eläimet menettävät siellä kyllä usein henkensä, kun katto
+                pudota 
+                <app id="var4063" type="sub"><lem>rysyää</lem></app> niiden päälle. Ja 
+                <app id="var4064" type="sub"><lem>sitte käypi</lem></app> niinkin, että vasta monien 
+                <app id="var4065" type="sub"><lem>vuotten perästä löydetään</lem></app> niiden ruumiit 
+                <app id="var4066" type="sub"><lem>muuttumattomina.</lem></app> Sillä 
+                <app id="var4067" type="sub"><lem>suola on tunkeunut niiden läpitse ja varjellut niitä
+                        mätänemästä.</lem></app></p>
             <head style="blackletter"><anchor id="struct149a"/><hi rend="bold">Kivettymisistä.</hi><anchor id="struct149b"/></head>
             <p><anchor id="struct150a"/>
                 <anchor id="struct150b"/></p>
-            <p style="blackletter"><app id="var4068" type="sub">
-                    <lem>Usein polemma me, kävellessämme maalla, jäänöksiä muinais-ajan
-                        kasvuista</lem>
-                </app> ja <app id="var4069" type="sub">
-                    <lem>elävistä. Niitä <pb type="orig" n="121"/>löytyy</lem>
-                </app> suuria vuoria, jotka ovat <app id="var4070" type="sub">
-                    <lem>simpukkain kuorista;</lem>
-                </app> koko <app id="var4071" type="sub">
-                    <lem>se suuri Berlinin</lem>
-                </app> kaupunki on rakennettu maalle, joka on <app id="var4072" type="sub">
-                    <lem>liko-eläväin (infusion-eläväin) jäänöksistä. Muutamissa</lem>
-                </app> kylmissä maissa on <app id="var4073" type="sub">
-                    <lem>kaivettu maasta elehvanttein</lem>
-                </app> ja muiden eläinten luita, joita eläimiä <app id="var4074" type="sub">
-                    <lem>on vieläkin</lem>
-                </app> kuumissa maissa. Onpa <app id="var4075" type="sub">
-                    <lem>nähty jäänöksiä sellaisista</lem>
-                </app> muinaisajan <app id="var4076" type="sub">
-                    <lem>eläinpuvuista,</lem>
-                </app> joita ei enää <app id="var4077" type="sub">
-                    <lem>olekkaan maan päällä.</lem>
-                </app> Välistä ovat nämä luut <app id="var4078" type="sub">
-                    <lem>kivettyneinä. Kuitenkin käypi se useimmin niin kasvein
-                        kanssa.</lem>
-                </app> Englannissa ja muissa maissa on useampain <app id="var4079" type="sub">
-                    <lem>syltäin</lem>
-                </app> syvyydestä <app id="var4080" type="sub">
-                    <lem>maassa löydetty</lem>
-                </app> suuria metsiä, jotka ovat olleet <app id="var4081" type="sub">
-                    <lem>varsin mustat</lem>
-                </app> ja <app id="var4082" type="sub">
-                    <lem>kovat.</lem>
-                </app> Sellaisista muinoin hiiltyneistä ja sittemmin <app id="var4083" type="sub">
-                    <lem>kivettyneistä</lem>
-                </app> metsistä on kivihiili <app id="var4084" type="sub">
-                    <lem>tullut maan sisässä. Onpa</lem>
-                </app> löydetty kivettyneitä jyvätähkiäkin. Maan sisästä on kaivettu vanhoja
-                puita, jotka ovat <app id="var4085" type="sub">
-                    <lem>olleet rautamalmiksi muuttuneita.</lem>
-                </app> Muutamissa <app id="var4086" type="sub">
-                    <lem>mineraalis (kivennäis) lähteissä nähdään aivan pian sellainen
-                        muutos.</lem>
-                </app> Jos tänä päivänä <app id="var4087" type="sub">
-                    <lem>panen kukkaisen</lem>
-                </app> sellaiseen <app id="var4088" type="sub">
-                    <lem>lähteesen</lem>
-                </app> ja <app id="var4089" type="sub">
-                    <lem>otan</lem>
-                </app> sen <app id="var4090" type="sub">
-                    <lem>huomena</lem>
-                </app> siitä <app id="var4091" type="sub">
-                    <lem>ylös, näenpä kummallista.</lem>
-                </app> Kukkaan ja lehtiin <app id="var4092" type="sub">
-                    <lem>yleensä on tullut</lem>
-                </app> kova kuori, joka on <app id="var4093" type="sub">
-                    <lem>kokounut vedestä,</lem>
-                </app> ja koko kukka näyttää <app id="var4094" type="sub">
-                    <lem>kuin</lem>
-                </app> olisi <app id="var4095" type="sub">
-                    <lem>leikattu</lem>
-                </app> ruskeasta kivestä.</p>
-            <head style="blackletter"><app id="var4096" type="sub">
-                    <lem><hi rend="bold">Kaikellaisista</hi></lem>
-                </app><hi rend="bold"> aineista.</hi></head>
-            <p style="blackletter"><app id="var4097" type="sub">
-                    <lem>Kauvan sitte tuli eräs laiva</lem>
-                </app> haaksirikkoon <app id="var4098" type="sub">
-                    <lem>luotoja vastaan meressä, ja</lem>
-                </app> töin tuskin <app id="var4099" type="sub">
-                    <lem>pelastivat merimiehet itsensä veneillä märkinä</lem>
-                </app> ja <app id="var4100" type="sub">
-                    <lem>kontettuneina</lem>
-                </app> tekivät he rannalle ison valkean kuivatakseen ja lämmittääkseen <app id="var4101" type="sub">
-                    <lem>itsiään.</lem>
-                </app> He mielivät keittää ruokaakin ja panivat <app id="var4102" type="sub">
-                    <lem>natroni-suolatönkkejä</lem>
-                </app> padan alle. Kun <app id="var4103" type="sub">
-                    <lem>natronisuola</lem>
-                </app> kovassa kuumuudessa suli hiedan <app id="var4104" type="sub">
-                    <lem>kanssa</lem>
-                </app> yhteen, näkivät merimiehet <app id="var4105" type="sub">
-                    <lem>ihmetellen,</lem>
-                </app> että siitä oli tullut <hi rend="expanded">lasia.</hi> Siitä ajasta
-                    <app id="var4106" type="sub">
-                    <lem>on alettu pitää</lem>
-                </app> lasiruu<pb type="orig" n="122"/>tuja <app id="var4107" type="sub">
-                    <lem>akkunoissa. Viheriäiseen lasiin</lem>
-                </app> kelpaa <app id="var4108" type="sub">
-                    <lem>takkatuhkakin,</lem>
-                </app> mutta <app id="var4109" type="sub">
-                    <lem>valkiaan lasiin</lem>
-                </app> tarvitaan <app id="var4110" type="sub">
-                    <lem>joko natronia tahi potaskaa</lem>
-                </app> ja <app id="var4111" type="sub">
-                    <lem>ruskeaa kiveä.</lem>
-                </app> Lasia värjätäänkin ja <app id="var4112" type="sub">
-                    <lem>lasketaan sileä-kulmaiseksi. Kauniilta se kyllä näyttää, kun
-                        lasinpuhaltaja puhuu</lem>
-                </app> ilmaa <app id="var4113" type="sub">
-                    <lem>sulaneesen lasi-aineesen</lem>
-                </app> ja siitä <app id="var4114" type="sub">
-                    <lem>valmistaa putelleja</lem>
-                </app> ja <app id="var4115" type="sub">
-                    <lem>lasipalleja.</lem>
-                </app></p>
-            <p style="blackletter"><app id="var4116" type="sub">
-                    <lem>Fahlunin</lem>
-                </app> suuresta <app id="var4117" type="sub">
-                    <lem>kupari-kaivannosta</lem>
-                </app> Ruotsissa on vanha tarina. Muuan <app id="var4118" type="sub">
-                    <lem>suomalainen paimen</lem>
-                </app> havaitsi <app id="var4119" type="sub">
-                    <lem>kilinsä kylen olevan punaisena. Paimenella</lem>
-                </app> teki mieli tietää, <app id="var4120" type="sub">
-                    <lem>mistä tämä</lem>
-                </app> oli <app id="var4121" type="sub">
-                    <lem>tullut</lem>
-                </app> ja <app id="var4122" type="sub">
-                    <lem>huomaitsi</lem>
-                </app> pian, että kili oli maannut <app id="var4123" type="sub">
-                    <lem>sillä</lem>
-                </app> paikalla, jossa <app id="var4124" type="sub">
-                    <lem>kuparia löytyi</lem>
-                </app> vuoressa. Näin löydettiin Pohjolan rikkain <app id="var4125" type="sub">
-                    <lem>kupari-kaivanto. Kupariseppä</lem>
-                </app> ei kuumenna <app id="var4126" type="sub">
-                    <lem>kuparia,</lem>
-                </app> niinkuin rautaseppä <app id="var4127" type="sub">
-                    <lem>tekee raudalle,</lem>
-                </app> vaan takoo sitä <app id="var4128" type="sub">
-                    <lem>kylmänä.</lem>
-                </app> Kun hän tahtoo liittää kahta <app id="var4129" type="sub">
-                    <lem>kupari-kappaletta</lem>
-                </app> yhteen, ei hän saa niitä <app id="var4130" type="sub">
-                    <lem>kiini</lem>
-                </app> takomalla, vaan hän yhdistää ne messingillä. <app id="var4131" type="sub">
-                    <lem>Se on <hi rend="expanded">juottaa</hi> metallia.</lem>
-                </app></p>
-            <p style="blackletter">Kun <app id="var4132" type="sub">
-                    <lem>vissejä</lem>
-                </app> hartseja eli pihkoja <app id="var4133" type="sub">
-                    <lem>sulataan öljyssä, jota kutsutaan tärpätiksi,</lem>
-                </app> saadaan siitä <hi rend="expanded">vernissaa</hi>
-                <app id="var4134" type="sub">
-                    <lem>(kiilto-öljyä),</lem>
-                </app> jolla <app id="var4135" type="sub">
-                    <lem>monellaisia</lem>
-                </app> teoksia <app id="var4136" type="sub">
-                    <lem><hi rend="expanded">lakeerataan</hi> (kiilloitetaan).</lem>
-                </app> Liimaa <app id="var4137" type="sub">
-                    <lem>valmistetaan</lem>
-                </app> nahasta, sarvista <app id="var4138" type="sub">
-                    <lem>eli</lem>
-                </app> luista, <app id="var4139" type="sub">
-                    <lem>kuin</lem>
-                </app> niitä <app id="var4140" type="sub">
-                    <lem>keitetään vedessä. Pläkkiä, jolla kirjoitetaan,</lem>
-                </app> tehdään pienistä <app id="var4141" type="sub">
-                    <lem>tammen kävyistä</lem>
-                </app> ja rautavihtrillistä. <app id="var4142" type="sub">
-                    <lem><hi rend="expanded">Tärkki</hi></lem>
-                </app> on hienoa jauhoa, jota on <app id="var4143" type="sub">
-                    <lem>monellaisissa</lem>
-                </app> juurissa ja siemenissä. <app id="var4144" type="sub">
-                    <lem>Leipä-taikinan</lem>
-                </app> annetaan <app id="var4145" type="sub">
-                    <lem><hi rend="expanded">kohota</hi> eli <hi rend="expanded">nousta,</hi></lem>
-                </app> että leipä tulisi <app id="var4146" type="sub">
-                    <lem>mureaa.</lem>
-                </app> Mutta kun imelänlainen neste on käynyt, ei sillä <app id="var4147" type="sub">
-                    <lem>ole enää</lem>
-                </app> imelän makua, vaan se on väkevää. Siinä on <app id="var4148" type="sub">
-                    <lem><hi rend="expanded">väkiviinaa</hi> (spiritus-viinaa). Nyt</lem>
-                </app> on <app id="var4149" type="sub">
-                    <lem>monellaisissa kasvuissa makean-</lem>
-                </app> eli <app id="var4150" type="sub">
-                    <lem>sokeri-ainetta. Siksi saatetaan tehdä viiniä</lem>
-                </app> ei ainoastaan <app id="var4151" type="sub">
-                    <lem>viina-puun rypäleistä,</lem>
-                </app> vaan <app id="var4152" type="sub">
-                    <lem>pihlajan</lem>
-                </app> ja tuomen <app id="var4153" type="sub">
-                    <lem>marjoistakin.</lem>
-                </app> Paloviinaa poltetaan <app id="var4154" type="sub">
-                    <lem>elosta eli</lem>
-                </app>
-                <pb type="orig" n="123"/>imelletyistä <app id="var4155" type="sub">
-                    <lem>potaateista, joita pannaan</lem>
-                </app> mäskiksi ja käytetään. <app id="var4156" type="sub">
-                    <lem>Sitte kulkee</lem>
-                </app> paloviina höyrynä <choice>
+            <p style="blackletter">
+                <app id="var4068" type="sub"><lem>Usein polemma me, kävellessämme maalla, jäänöksiä muinais-ajan
+                        kasvuista</lem></app> ja 
+                <app id="var4069" type="sub"><lem>elävistä. Niitä <pb type="orig" n="121"/>löytyy</lem></app> suuria vuoria, jotka ovat 
+                <app id="var4070" type="sub"><lem>simpukkain kuorista;</lem></app> koko 
+                <app id="var4071" type="sub"><lem>se suuri Berlinin</lem></app> kaupunki on rakennettu maalle, joka on 
+                <app id="var4072" type="sub"><lem>liko-eläväin (infusion-eläväin) jäänöksistä. Muutamissa</lem></app> kylmissä maissa on 
+                <app id="var4073" type="sub"><lem>kaivettu maasta elehvanttein</lem></app> ja muiden eläinten luita, joita eläimiä 
+                <app id="var4074" type="sub"><lem>on vieläkin</lem></app> kuumissa maissa. Onpa 
+                <app id="var4075" type="sub"><lem>nähty jäänöksiä sellaisista</lem></app> muinaisajan 
+                <app id="var4076" type="sub"><lem>eläinpuvuista,</lem></app> joita ei enää 
+                <app id="var4077" type="sub"><lem>olekkaan maan päällä.</lem></app> Välistä ovat nämä luut 
+                <app id="var4078" type="sub"><lem>kivettyneinä. Kuitenkin käypi se useimmin niin kasvein
+                        kanssa.</lem></app> Englannissa ja muissa maissa on useampain 
+                <app id="var4079" type="sub"><lem>syltäin</lem></app> syvyydestä 
+                <app id="var4080" type="sub"><lem>maassa löydetty</lem></app> suuria metsiä, jotka ovat olleet 
+                <app id="var4081" type="sub"><lem>varsin mustat</lem></app> ja 
+                <app id="var4082" type="sub"><lem>kovat.</lem></app> Sellaisista muinoin hiiltyneistä ja sittemmin 
+                <app id="var4083" type="sub"><lem>kivettyneistä</lem></app> metsistä on kivihiili 
+                <app id="var4084" type="sub"><lem>tullut maan sisässä. Onpa</lem></app> löydetty kivettyneitä jyvätähkiäkin. Maan sisästä on kaivettu vanhoja
+                puita, jotka ovat 
+                <app id="var4085" type="sub"><lem>olleet rautamalmiksi muuttuneita.</lem></app> Muutamissa 
+                <app id="var4086" type="sub"><lem>mineraalis (kivennäis) lähteissä nähdään aivan pian sellainen
+                        muutos.</lem></app> Jos tänä päivänä 
+                <app id="var4087" type="sub"><lem>panen kukkaisen</lem></app> sellaiseen 
+                <app id="var4088" type="sub"><lem>lähteesen</lem></app> ja 
+                <app id="var4089" type="sub"><lem>otan</lem></app> sen 
+                <app id="var4090" type="sub"><lem>huomena</lem></app> siitä 
+                <app id="var4091" type="sub"><lem>ylös, näenpä kummallista.</lem></app> Kukkaan ja lehtiin 
+                <app id="var4092" type="sub"><lem>yleensä on tullut</lem></app> kova kuori, joka on 
+                <app id="var4093" type="sub"><lem>kokounut vedestä,</lem></app> ja koko kukka näyttää 
+                <app id="var4094" type="sub"><lem>kuin</lem></app> olisi 
+                <app id="var4095" type="sub"><lem>leikattu</lem></app> ruskeasta kivestä.</p>
+            <head style="blackletter">
+                <app id="var4096" type="sub"><lem><hi rend="bold">Kaikellaisista</hi></lem></app><hi rend="bold"> aineista.</hi></head>
+            <p style="blackletter">
+                <app id="var4097" type="sub"><lem>Kauvan sitte tuli eräs laiva</lem></app> haaksirikkoon 
+                <app id="var4098" type="sub"><lem>luotoja vastaan meressä, ja</lem></app> töin tuskin 
+                <app id="var4099" type="sub"><lem>pelastivat merimiehet itsensä veneillä märkinä</lem></app> ja 
+                <app id="var4100" type="sub"><lem>kontettuneina</lem></app> tekivät he rannalle ison valkean kuivatakseen ja lämmittääkseen 
+                <app id="var4101" type="sub"><lem>itsiään.</lem></app> He mielivät keittää ruokaakin ja panivat 
+                <app id="var4102" type="sub"><lem>natroni-suolatönkkejä</lem></app> padan alle. Kun 
+                <app id="var4103" type="sub"><lem>natronisuola</lem></app> kovassa kuumuudessa suli hiedan 
+                <app id="var4104" type="sub"><lem>kanssa</lem></app> yhteen, näkivät merimiehet 
+                <app id="var4105" type="sub"><lem>ihmetellen,</lem></app> että siitä oli tullut <hi rend="expanded">lasia.</hi> Siitä ajasta
+                    
+                <app id="var4106" type="sub"><lem>on alettu pitää</lem></app> lasiruu<pb type="orig" n="122"/>tuja 
+                <app id="var4107" type="sub"><lem>akkunoissa. Viheriäiseen lasiin</lem></app> kelpaa 
+                <app id="var4108" type="sub"><lem>takkatuhkakin,</lem></app> mutta 
+                <app id="var4109" type="sub"><lem>valkiaan lasiin</lem></app> tarvitaan 
+                <app id="var4110" type="sub"><lem>joko natronia tahi potaskaa</lem></app> ja 
+                <app id="var4111" type="sub"><lem>ruskeaa kiveä.</lem></app> Lasia värjätäänkin ja 
+                <app id="var4112" type="sub"><lem>lasketaan sileä-kulmaiseksi. Kauniilta se kyllä näyttää, kun
+                        lasinpuhaltaja puhuu</lem></app> ilmaa 
+                <app id="var4113" type="sub"><lem>sulaneesen lasi-aineesen</lem></app> ja siitä 
+                <app id="var4114" type="sub"><lem>valmistaa putelleja</lem></app> ja 
+                <app id="var4115" type="sub"><lem>lasipalleja.</lem></app></p>
+            <p style="blackletter">
+                <app id="var4116" type="sub"><lem>Fahlunin</lem></app> suuresta 
+                <app id="var4117" type="sub"><lem>kupari-kaivannosta</lem></app> Ruotsissa on vanha tarina. Muuan 
+                <app id="var4118" type="sub"><lem>suomalainen paimen</lem></app> havaitsi 
+                <app id="var4119" type="sub"><lem>kilinsä kylen olevan punaisena. Paimenella</lem></app> teki mieli tietää, 
+                <app id="var4120" type="sub"><lem>mistä tämä</lem></app> oli 
+                <app id="var4121" type="sub"><lem>tullut</lem></app> ja 
+                <app id="var4122" type="sub"><lem>huomaitsi</lem></app> pian, että kili oli maannut 
+                <app id="var4123" type="sub"><lem>sillä</lem></app> paikalla, jossa 
+                <app id="var4124" type="sub"><lem>kuparia löytyi</lem></app> vuoressa. Näin löydettiin Pohjolan rikkain 
+                <app id="var4125" type="sub"><lem>kupari-kaivanto. Kupariseppä</lem></app> ei kuumenna 
+                <app id="var4126" type="sub"><lem>kuparia,</lem></app> niinkuin rautaseppä 
+                <app id="var4127" type="sub"><lem>tekee raudalle,</lem></app> vaan takoo sitä 
+                <app id="var4128" type="sub"><lem>kylmänä.</lem></app> Kun hän tahtoo liittää kahta 
+                <app id="var4129" type="sub"><lem>kupari-kappaletta</lem></app> yhteen, ei hän saa niitä 
+                <app id="var4130" type="sub"><lem>kiini</lem></app> takomalla, vaan hän yhdistää ne messingillä. 
+                <app id="var4131" type="sub"><lem>Se on <hi rend="expanded">juottaa</hi> metallia.</lem></app></p>
+            <p style="blackletter">Kun 
+                <app id="var4132" type="sub"><lem>vissejä</lem></app> hartseja eli pihkoja 
+                <app id="var4133" type="sub"><lem>sulataan öljyssä, jota kutsutaan tärpätiksi,</lem></app> saadaan siitä <hi rend="expanded">vernissaa</hi>
+                
+                <app id="var4134" type="sub"><lem>(kiilto-öljyä),</lem></app> jolla 
+                <app id="var4135" type="sub"><lem>monellaisia</lem></app> teoksia 
+                <app id="var4136" type="sub"><lem><hi rend="expanded">lakeerataan</hi> (kiilloitetaan).</lem></app> Liimaa 
+                <app id="var4137" type="sub"><lem>valmistetaan</lem></app> nahasta, sarvista 
+                <app id="var4138" type="sub"><lem>eli</lem></app> luista, 
+                <app id="var4139" type="sub"><lem>kuin</lem></app> niitä 
+                <app id="var4140" type="sub"><lem>keitetään vedessä. Pläkkiä, jolla kirjoitetaan,</lem></app> tehdään pienistä 
+                <app id="var4141" type="sub"><lem>tammen kävyistä</lem></app> ja rautavihtrillistä. 
+                <app id="var4142" type="sub"><lem><hi rend="expanded">Tärkki</hi></lem></app> on hienoa jauhoa, jota on 
+                <app id="var4143" type="sub"><lem>monellaisissa</lem></app> juurissa ja siemenissä. 
+                <app id="var4144" type="sub"><lem>Leipä-taikinan</lem></app> annetaan 
+                <app id="var4145" type="sub"><lem><hi rend="expanded">kohota</hi> eli <hi rend="expanded">nousta,</hi></lem></app> että leipä tulisi 
+                <app id="var4146" type="sub"><lem>mureaa.</lem></app> Mutta kun imelänlainen neste on käynyt, ei sillä 
+                <app id="var4147" type="sub"><lem>ole enää</lem></app> imelän makua, vaan se on väkevää. Siinä on 
+                <app id="var4148" type="sub"><lem><hi rend="expanded">väkiviinaa</hi> (spiritus-viinaa). Nyt</lem></app> on 
+                <app id="var4149" type="sub"><lem>monellaisissa kasvuissa makean-</lem></app> eli 
+                <app id="var4150" type="sub"><lem>sokeri-ainetta. Siksi saatetaan tehdä viiniä</lem></app> ei ainoastaan 
+                <app id="var4151" type="sub"><lem>viina-puun rypäleistä,</lem></app> vaan 
+                <app id="var4152" type="sub"><lem>pihlajan</lem></app> ja tuomen 
+                <app id="var4153" type="sub"><lem>marjoistakin.</lem></app> Paloviinaa poltetaan 
+                <app id="var4154" type="sub"><lem>elosta eli</lem></app>
+                <pb type="orig" n="123"/>imelletyistä 
+                <app id="var4155" type="sub"><lem>potaateista, joita pannaan</lem></app> mäskiksi ja käytetään. 
+                <app id="var4156" type="sub"><lem>Sitte kulkee</lem></app> paloviina höyrynä <choice>
                     <orig/>
-                </choice><app id="var4157" type="sub">
-                    <lem><choice>
+                </choice>
+                <app id="var4157" type="sub"><lem><choice>
                             <orig>jähdytys astian</orig>
                             <reg>jähdytysastian</reg>
-                        </choice> läpi,</lem>
-                </app> ja rankki <app id="var4158" type="sub">
-                    <lem>jääpi jälelle.</lem>
-                </app> Mutta se on <app id="var4159" type="sub">
-                    <lem>ilkeä taitoteos,</lem>
-                </app> sillä ei <app id="var4160" type="sub">
-                    <lem>koskaan ole mikään taito tehnyt</lem>
-                </app> niin <app id="var4161" type="sub">
-                    <lem>paljo</lem>
-                </app> pahaa <app id="var4162" type="sub">
-                    <lem>mailmassa. Ennemmin panemme <hi rend="expanded">olutta</hi></lem>
-                </app> ja <hi rend="expanded">sahtia</hi> maltaista, <app id="var4163" type="sub">
-                    <lem>jotka</lem>
-                </app> ensin keitetään <app id="var4164" type="int">
-                    <lem>vierteeksi,</lem>
-                </app> ja <app id="var4165" type="sub">
-                    <lem>se sitte</lem>
-                </app> käytetään. <hi rend="expanded">Simaa</hi>
-                <app id="var4166" type="sub">
-                    <lem>(mesijuomaa) valmistetaan</lem>
-                </app> hunajasta ja <app id="var4167" type="sub">
-                    <lem>vedestä kryytein kanssa.</lem>
-                </app></p>
-            <head style="romanType"><hi rend="bold">Orijärven </hi><app id="var4168" type="sub">
-                    <lem><hi rend="bold">kuparikaivanto.</hi></lem>
-                </app></head>
+                        </choice> läpi,</lem></app> ja rankki 
+                <app id="var4158" type="sub"><lem>jääpi jälelle.</lem></app> Mutta se on 
+                <app id="var4159" type="sub"><lem>ilkeä taitoteos,</lem></app> sillä ei 
+                <app id="var4160" type="sub"><lem>koskaan ole mikään taito tehnyt</lem></app> niin 
+                <app id="var4161" type="sub"><lem>paljo</lem></app> pahaa 
+                <app id="var4162" type="sub"><lem>mailmassa. Ennemmin panemme <hi rend="expanded">olutta</hi></lem></app> ja <hi rend="expanded">sahtia</hi> maltaista, 
+                <app id="var4163" type="sub"><lem>jotka</lem></app> ensin keitetään 
+                <app id="var4164" type="int"><lem>vierteeksi,</lem></app> ja 
+                <app id="var4165" type="sub"><lem>se sitte</lem></app> käytetään. <hi rend="expanded">Simaa</hi>
+                
+                <app id="var4166" type="sub"><lem>(mesijuomaa) valmistetaan</lem></app> hunajasta ja 
+                <app id="var4167" type="sub"><lem>vedestä kryytein kanssa.</lem></app></p>
+            <head style="romanType"><hi rend="bold">Orijärven </hi>
+                <app id="var4168" type="sub"><lem><hi rend="bold">kuparikaivanto.</hi></lem></app></head>
             <pb type="orig" n="124"/>
             <head style="romanType"><hi rend="bold">Timantti.</hi></head>
         </body>
