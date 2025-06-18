@@ -1,0 +1,725 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Luku 14, varianttikoodattu (perusteksti)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>14</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Neljästoista Luku. Painosta ja liikunnosta</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
+    <text>
+        <body xml:space="preserve">
+            <head style="blackletter" type="section"><hi rend="bold">Neljästoista</hi> <app id="var6647" type="sub">
+                    <lem><hi rend="bold">Luku.</hi></lem>
+                </app></head>
+            <head style="blackletter" type="section"><hi rend="bold expanded">Painosta ja
+                    liikunnosta.</hi></head>
+            <p><anchor id="struct208a"/>
+                <anchor id="struct208b"/></p>
+            <p style="blackletter"><app id="var6648" type="sub">
+                    <lem>Tule, luetaanpa vielä, sillä luonnon kirja on sanomattoman rikasta.
+                        Tämä</lem>
+                </app> kivi on <app id="var6649" type="sub">
+                    <lem><hi rend="expanded">kovaa,</hi> tämä</lem>
+                </app> savi on <app id="var6650" type="sub">
+                    <lem><hi rend="expanded">pehmeää</hi> ja tämä lasipalanen</lem>
+                </app> on <app id="var6651" type="sub">
+                    <lem>niin <hi rend="expanded">haurasta.</hi> Helpommasti se</lem>
+                </app> murtuu rikki <app id="var6652" type="sub">
+                    <lem>kuin</lem>
+                </app> tämä vitsa, joka on <hi rend="expanded">sitkeä.</hi> Tämä
+                pihlajakeppi on <hi rend="expanded">notkea;</hi> se <app id="var6653" type="sub">
+                    <lem>sujuu</lem>
+                </app> helposti. Tämä <app id="var6654" type="sub">
+                    <lem>teräsvieteri</lem>
+                </app> lukossa on <app id="var6655" type="sub">
+                    <lem><hi rend="expanded">jäntevä;</hi> sujutettua potkasee</lem>
+                </app> se <app id="var6656" type="sub">
+                    <lem>itsensä jälleen entiselle muodolleen. Pallini</lem>
+                </app> on <app id="var6657" type="sub">
+                    <lem>myös jäntevä;</lem>
+                </app> se <pb type="orig" n="187"/>kimpoaa <app id="var6658" type="sub">
+                    <lem>takasi</lem>
+                </app> lattiasta. <app id="var6659" type="sub">
+                    <lem>Plyijy</lem>
+                </app> ja savi eivät ole ollenkaan <app id="var6660" type="sub">
+                    <lem>jänteviä.</lem>
+                </app> Niitä <app id="var6661" type="sub">
+                    <lem>en</lem>
+                </app> saa <app id="var6662" type="sub">
+                    <lem>kimpoamaan takasi.</lem>
+                </app></p>
+            <p style="blackletter">Tämä höyhen on keveä, mutta tämä kivi on <hi rend="expanded">raskas.</hi> Kun sitä pidän kädessäni, tunnen <app id="var6663" type="sub">
+                    <lem>sen selvästi painavan alaspäin.</lem>
+                </app> Jos se on maassa, täytyy minun käyttää <app id="var6664" type="int">
+                    <lem>voimaa</lem>
+                </app> nostaakseni <app id="var6665" type="sub">
+                    <lem>sitä ylös;</lem>
+                </app> ja jos sen päästän <app id="var6666" type="sub">
+                    <lem>kädestäni irti,</lem>
+                </app> putoaa se <app id="var6667" type="sub">
+                    <lem>kohta</lem>
+                </app> maahan. <app id="var6668" type="sub">
+                    <lem>Miksikä niin? Siksi</lem>
+                </app> että maa vetää sitä <app id="var6669" type="sub">
+                    <lem>itseensä vissillä</lem>
+                </app> voimalla, <app id="var6670" type="sub">
+                    <lem>joka tulee sen tiveydestä</lem>
+                </app> ja <app id="var6671" type="sub">
+                    <lem>suuruudesta. Se on <hi rend="expanded">paino-voima.</hi></lem>
+                </app> Siitä <app id="var6672" type="sub">
+                    <lem>tulee</lem>
+                </app> kiven <hi rend="expanded">paino.</hi> Raskaita ovat ne kappaleet,
+                joita maa vetää kovasti <app id="var6673" type="sub">
+                    <lem>itseensä,</lem>
+                </app> ja keveitä ovat ne kappaleet, joita maa vetää heikosti <app id="var6674" type="sub">
+                    <lem>itseensä.</lem>
+                </app> Mutta valolla, <app id="var6675" type="sub">
+                    <lem>lämpimällä,</lem>
+                </app> sähköllä ja <app id="var6676" type="sub">
+                    <lem>magneeti-voimalla</lem>
+                </app> ei ole painoa.</p>
+            <p style="blackletter">Jos kivi voisi pudota maan sisään, niin se putoaisi aivan
+                maan <app id="var6677" type="sub">
+                    <lem>sisustaan; siellä</lem>
+                </app> se <app id="var6678" type="sub">
+                    <lem>vasta</lem>
+                </app> pysähtyisi. Ja jos <app id="var6679" type="sub">
+                    <lem>tahdon</lem>
+                </app> nähdä, mihin <app id="var6680" type="sub">
+                    <lem>painon-voima</lem>
+                </app> vetää, <app id="var6681" type="sub">
+                    <lem>annanpa plyijy-luodin</lem>
+                </app> riippua vapaana <app id="var6682" type="sub">
+                    <lem>nuorassa.</lem>
+                </app> Siitä <app id="var6683" type="sub">
+                    <lem>saan minä</lem>
+                </app>
+                <hi rend="expanded">luotilaudan,</hi> jota <app id="var6684" type="sub">
+                    <lem>rakennusniekat</lem>
+                </app> käyttävät huoneita <app id="var6685" type="sub">
+                    <lem>rakentaessa.</lem>
+                </app> Luoti ja nuora <app id="var6686" type="sub">
+                    <lem>riippuu suorana</lem>
+                </app> alaspäin, ja sitä <app id="var6687" type="sub">
+                    <lem>kutsun minä</lem>
+                </app>
+                <hi rend="expanded">pystysuoraksi.</hi> Mutta tyventä <app id="var6688" type="sub">
+                    <lem>vettä</lem>
+                </app> järvessä <app id="var6689" type="sub">
+                    <lem>eli meressä ja</lem>
+                </app> kaikkea, <app id="var6690" type="sub">
+                    <lem>joka</lem>
+                </app> on <app id="var6691" type="sub">
+                    <lem>suorana pitkinpäin, kutsun minä <hi rend="expanded">tasasuoraksi.</hi></lem>
+                </app></p>
+            <p style="blackletter"><app id="var6692" type="sub">
+                    <lem>Nyt punnitsen jotakuta</lem>
+                </app> kappaletta, <app id="var6693" type="sub">
+                    <lem>tietääkseni</lem>
+                </app> sen <app id="var6694" type="sub">
+                    <lem>painoa. Silloin otan <hi rend="expanded">vaakan</hi> eli <hi rend="expanded">puntarin.</hi></lem>
+                </app> Jos <app id="var6695" type="sub">
+                    <lem>vaakassa ovat</lem>
+                </app> yhtä pitkät <app id="var6696" type="sub">
+                    <lem>sivut</lem>
+                </app> ja <app id="var6697" type="sub">
+                    <lem>yhtä</lem>
+                </app> raskaat <app id="var6698" type="sub">
+                    <lem>painot molemmissa kupissa eli molemmilla levyillä,</lem>
+                </app> niin on vaaka <hi rend="expanded">tasapainossa.</hi> Jos <app id="var6699" type="sub">
+                    <lem>siinä</lem>
+                </app> eivät ole yhtä <app id="var6700" type="sub">
+                    <lem>pitkät sivut, vaan ovat</lem>
+                </app> yhtä <app id="var6701" type="sub">
+                    <lem>isot painot,</lem>
+                </app> niin painuu pitempi <app id="var6702" type="sub">
+                    <lem>sivu</lem>
+                </app> alaspäin. Jos siinä <app id="var6703" type="sub">
+                    <lem>ovat</lem>
+                </app> yhtä pitkät <app id="var6704" type="sub">
+                    <lem>sivut,</lem>
+                </app> mutta <app id="var6705" type="sub">
+                    <lem>ei</lem>
+                </app> yhtä <app id="var6706" type="sub">
+                    <lem>raskaita painoja,</lem>
+                </app> niin <app id="var6707" type="sub">
+                    <lem>laskeupi</lem>
+                </app> raskaampi paino <app id="var6708" type="sub">
+                    <lem>alaspäin.</lem>
+                </app> Puntarissa <app id="var6709" type="sub">
+                    <lem>muutan minä kanninta</lem>
+                </app> siksi <app id="var6710" type="sub">
+                    <lem>että</lem>
+                </app> puntarin <pb type="orig" n="188"/>paino <app id="var6711" type="sub">
+                    <lem>peräpuolella kanninta</lem>
+                </app> tulee yhtä <app id="var6712" type="int">
+                    <lem>raskaaksi</lem>
+                </app> kuin paino <app id="var6713" type="sub">
+                    <lem>on puntarin päässä olevassa koukussa. Samallaista</lem>
+                </app> olet usein nähnyt <app id="var6714" type="sub">
+                    <lem>kiikkuissasi laudalla.</lem>
+                </app> Tässä on kaksi poikaa, jotka ovat panneet laudan <app id="var6715" type="sub">
+                    <lem>hirren päälle kartanolla. Lauta on vaakan sivuin lainen.</lem>
+                </app> Jos pojat ovat yhtä raskaat, niin asettavat he laudan niin, että sen
+                molemmat <app id="var6716" type="sub">
+                    <lem>puolet</lem>
+                </app> ovat yhtä pitkällä. Silloin ovat <app id="var6717" type="sub">
+                    <lem>ne</lem>
+                </app> tasapainossa ja <app id="var6718" type="sub">
+                    <lem>vuorottain kiikkuvat</lem>
+                </app> ylös- ja alaspäin. Mutta jos <app id="var6719" type="sub">
+                    <lem>ne</lem>
+                </app> panevat laudan <app id="var6720" type="sub">
+                    <lem>toiselle puolelle</lem>
+                </app> pitemmälle, niin jääpi pitemmällä puolella <app id="var6721" type="sub">
+                    <lem>istuva</lem>
+                </app> poika maahan istumaan eikä pääse <app id="var6722" type="sub">
+                    <lem>ylöspäin. Ja jos</lem>
+                </app> toinen poika on <app id="var6723" type="sub">
+                    <lem>keveempi,</lem>
+                </app> tarvitsee hän pitemmältä lautaa puolelleen, muutoin jääpi hän <app id="var6724" type="sub">
+                    <lem>ylös</lem>
+                </app> eikä pääse <app id="var6725" type="sub">
+                    <lem>laskeumaan.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter">Jos <app id="var6726" type="sub">
+                    <lem>kumarrun kovin alaspäin</lem>
+                </app> niin <app id="var6727" type="sub">
+                    <lem>kaadun kumoon.</lem>
+                </app> Jos <app id="var6728" type="sub">
+                    <lem>kannan vesi-ämpäriä kädessäni,</lem>
+                </app> niin <app id="var6729" type="sub">
+                    <lem>kumarrun käydessäni</lem>
+                </app> toiselle puolelle. Jos <app id="var6730" type="sub">
+                    <lem>juoksen</lem>
+                </app> hirttä <app id="var6731" type="sub">
+                    <lem>myöten eli kävelen porraspuuta myöten,</lem>
+                </app> niin <app id="var6732" type="sub">
+                    <lem>huiskin käsiäni, pysyäkseni</lem>
+                </app> tasapainossa. <app id="var6733" type="sub">
+                    <lem>Konstiniekat, jotka kävelevät</lem>
+                </app> köyttä myöten, pitävät <app id="var6734" type="sub">
+                    <lem>silloin tankoa</lem>
+                </app> käsissään. <app id="var6735" type="sub">
+                    <lem>Miksikä niin? Siksi</lem>
+                </app> että jokaisessa kappaleessa on <app id="var6736" type="sub">
+                    <lem>paikka,</lem>
+                </app> jota <app id="var6737" type="sub">
+                    <lem>kutsutaan <hi rend="expanded">painon-keskustaksi.</hi></lem>
+                </app> Jos ei sillä <app id="var6738" type="sub">
+                    <lem>paikalla</lem>
+                </app> ole <app id="var6739" type="sub">
+                    <lem>tukea alla,</lem>
+                </app> niin kaatuu kappale, <app id="var6740" type="sub">
+                    <lem>juuri</lem>
+                </app> kuin kirja, jota <app id="var6741" type="sub">
+                    <lem>koetan</lem>
+                </app> saada seisomaan <app id="var6742" type="sub">
+                    <lem>yhdellä nurkalla.</lem>
+                </app> Jos ei <app id="var6743" type="sub">
+                    <lem>minun paino-keskustani</lem>
+                </app> ole <app id="var6744" type="sub">
+                    <lem>kohdastaan</lem>
+                </app> sen jalan <app id="var6745" type="sub">
+                    <lem>päällä, jolle as<pb type="orig" n="189"/>tun,</lem>
+                </app> niin <app id="var6746" type="sub">
+                    <lem>lankean.</lem>
+                </app> Pieni lapsi oppii vähitellen tuntemaan <app id="var6747" type="sub">
+                    <lem>paino-keskustansa,</lem>
+                </app> ja <app id="var6748" type="sub">
+                    <lem>sitte</lem>
+                </app> alkaa <app id="var6749" type="sub">
+                    <lem>hän</lem>
+                </app> kävellä. <app id="var6750" type="sub">
+                    <lem>Kepin saatan</lem>
+                </app> pitää <app id="var6751" type="sub">
+                    <lem>viippumassa pystössä sormeni päässä, niin</lem>
+                </app> että se seisoo suorana ilmassa.</p>
+            <p style="blackletter">Jos <app id="var6752" type="sub">
+                    <lem>minulla</lem>
+                </app> on kaksi yhtä <app id="var6753" type="sub">
+                    <lem>isoa plyijypalaista,</lem>
+                </app> niin <app id="var6754" type="sub">
+                    <lem>yksi</lem>
+                </app> niistä painaa saman verran kuin toinenkin. Mutta jos <app id="var6755" type="sub">
+                    <lem>minulla</lem>
+                </app> on <app id="var6756" type="sub">
+                    <lem>plyijypalanen</lem>
+                </app> ja <app id="var6757" type="sub">
+                    <lem>puu-palanen,</lem>
+                </app> jotka ovat yhtä <app id="var6758" type="sub">
+                    <lem>isoja,</lem>
+                </app> niin painaa <app id="var6759" type="sub">
+                    <lem>plyijypalanen</lem>
+                </app> enemmän kuin puupalanen. Silloin <app id="var6760" type="sub">
+                    <lem>sanon: plyijy</lem>
+                </app> on <app id="var6761" type="sub">
+                    <lem>raskaampi</lem>
+                </app> kuin puu.</p>
+            <p style="blackletter"><app id="var6762" type="sub">
+                    <lem>Miksikä uppoaa</lem>
+                </app> kivi <app id="var6763" type="sub">
+                    <lem>veteen? Siksi kuin</lem>
+                </app> kivi on raskaampi kuin sama <app id="var6764" type="sub">
+                    <lem>koko</lem>
+                </app> vettä. <app id="var6765" type="sub">
+                    <lem>Miksikä pysyy hirsi veden päällä? Siksi että se on kevyempi kuin
+                        kokonsa vettä. Miksi makaa hirven alapuoli vedessä? Siksi kuin se
+                        painaa</lem>
+                </app> altaan pois saman <app id="var6766" type="sub">
+                    <lem>paino-määrän vettä kuin</lem>
+                </app> se <app id="var6767" type="sub">
+                    <lem>itsekin</lem>
+                </app> painaa. Jota raskaampi se on, sitä syvemmälle se <app id="var6768" type="sub">
+                    <lem>painuu. Mutta se tulee</lem>
+                </app> kappaleen <app id="var6769" type="sub">
+                    <lem>muodostakin. Vene painaa pois altaan vähemmän</lem>
+                </app> vettä, kuin <app id="var6770" type="sub">
+                    <lem>jos sen puut olisivat lauttana. Ulkomaalla</lem>
+                </app> rakennetaan laivoja rautalevyistä. Jokainen rautalevy <app id="var6771" type="sub">
+                    <lem>yksityisenä uppoaisi</lem>
+                </app> pohjaan; mutta laivan muoto <app id="var6772" type="sub">
+                    <lem>tekee sen, ettei se paina niin paljo vettä</lem>
+                </app> altansa <app id="var6773" type="sub">
+                    <lem>pois.</lem>
+                </app> Jos <app id="var6774" type="sub">
+                    <lem>nostan</lem>
+                </app> kiveä vedessä, <app id="var6775" type="sub">
+                    <lem>tunnen sen</lem>
+                </app> siinä <app id="var6776" type="sub">
+                    <lem>keveämmäksi,</lem>
+                </app> mutta kun <app id="var6777" type="sub">
+                    <lem>olen</lem>
+                </app> saanut sen veden pintaan, tuntuu se raskaammalta. <app id="var6778" type="sub">
+                    <lem>Jos putoan veteen, painunpa</lem>
+                </app> pohjaan, jos <app id="var6779" type="sub">
+                    <lem>en</lem>
+                </app> osaa uida. Mutta jos <app id="var6780" type="sub">
+                    <lem>minulla</lem>
+                </app> on airo <app id="var6781" type="sub">
+                    <lem>kainaloin alla,</lem>
+                </app> niin <app id="var6782" type="sub">
+                    <lem>pysyn</lem>
+                </app> veden <app id="var6783" type="sub">
+                    <lem>päällä.</lem>
+                </app> Näin kerran pojan, joka oli <app id="var6784" type="sub">
+                    <lem>hukkunut. Jonkun</lem>
+                </app> ajan <app id="var6785" type="sub">
+                    <lem>perästä</lem>
+                </app> nousi <app id="var6786" type="sub">
+                    <lem>hän</lem>
+                </app> veden <app id="var6787" type="sub">
+                    <lem>päälle;</lem>
+                </app> mutta se <app id="var6788" type="sub">
+                    <lem>tuli</lem>
+                </app> siitä, että ruumis oli <app id="var6789" type="sub">
+                    <lem>tarpunut isommaksi.</lem>
+                </app></p>
+            <p style="blackletter">Ihmiset ja <app id="var6790" type="sub">
+                    <lem>elävät</lem>
+                </app>
+                <hi rend="expanded">liikkuvat </hi><app id="var6791" type="sub">
+                    <lem><hi rend="expanded">itse</hi></lem>
+                </app> paikasta toiseen. Mutta muut kappaleet eivät <app id="var6792" type="sub">
+                    <lem>liiku itse.</lem>
+                </app> Tuolla <app id="var6793" type="sub">
+                    <lem>menevät kärryt. Eivät ne</lem>
+                </app> liikkuisi <app id="var6794" type="sub">
+                    <lem>paikalta,</lem>
+                </app> jos ei <app id="var6795" type="sub">
+                    <lem>hevoinen</lem>
+                </app> niitä vetäisi. Tuolla lentää <app id="var6796" type="sub">
+                    <lem>palli.</lem>
+                </app> Se <pb type="orig" n="190"/><app id="var6797" type="sub">
+                    <lem>olisi</lem>
+                </app> aivan <app id="var6798" type="sub">
+                    <lem>yhdessä kohti,</lem>
+                </app> jos ei <app id="var6799" type="sub">
+                    <lem>sitä</lem>
+                </app> olisi <app id="var6800" type="sub">
+                    <lem>nakattu menemään.</lem>
+                </app> Puun oksat liikkuvat, kun tuuli niihin <app id="var6801" type="sub">
+                    <lem>puhuu.</lem>
+                </app> Kerä vierii pöydältä <app id="var6802" type="sub">
+                    <lem>alas, koska</lem>
+                </app> painovoima vetää sitä <app id="var6803" type="sub">
+                    <lem>alaspäin.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter">Jos <app id="var6804" type="sub">
+                    <lem>lauta eli tie eli jotakuta muuta tasaista</lem>
+                </app> on <app id="var6805" type="sub">
+                    <lem>toisesta päästä ylempänä kuin toisesta, niin kutsun</lem>
+                </app> sitä <app id="var6806" type="sub">
+                    <lem><hi rend="expanded">viettäväksi</hi></lem>
+                </app><hi rend="expanded"> pinnaksi.</hi> Jos <app id="var6807" type="sub">
+                    <lem>lasken</lem>
+                </app> jotakin pyöreää <app id="var6808" type="sub">
+                    <lem>eli</lem>
+                </app> kuperaa <app id="var6809" type="sub">
+                    <lem>yläpuolelta pintaa,</lem>
+                </app> niin <app id="var6810" type="sub">
+                    <lem>se vierii painollansa</lem>
+                </app> alaspäin. Mutta jos <app id="var6811" type="sub">
+                    <lem>tahdon</lem>
+                </app> sitä <app id="var6812" type="sub">
+                    <lem>vierittää ylöspäin,</lem>
+                </app> niin <app id="var6813" type="sub">
+                    <lem>tarvitsen</lem>
+                </app> siihen enemmän voimaa kuin <app id="var6814" type="sub">
+                    <lem>silloin, jos lauta eli tie olisi tasapinnassa. Siksi</lem>
+                </app> mennään <app id="var6815" type="sub">
+                    <lem>mäkeä alaspäin</lem>
+                </app> hyvää vauhtia, mutta <app id="var6816" type="sub">
+                    <lem>ylös mäkeen vetävät hevoiset vaikeammasti</lem>
+                </app> kuin tasaisella tiellä.</p>
+            <p style="blackletter"><app id="var6817" type="sub">
+                    <lem>Kellon napsauttaissa</lem>
+                </app> sekunnin, <app id="var6818" type="sub">
+                    <lem>saatan kävellä kaksi kyynärää</lem>
+                </app> eteenpäin; mutta samalla <app id="var6819" type="sub">
+                    <lem>ennätän</lem>
+                </app> juosta <app id="var6820" type="sub">
+                    <lem>12 kyynärää.</lem>
+                </app> Ja samalla ajalla <app id="var6821" type="sub">
+                    <lem>ennättää hevoinen täydessä laukassa 25 kyynärää, kyyhkyinen</lem>
+                </app> lentää <app id="var6822" type="sub">
+                    <lem>45 kyynärää,</lem>
+                </app> pyssyn luoti kulkee <app id="var6823" type="sub">
+                    <lem>500 kyynärää,</lem>
+                </app> ja valo <app id="var6824" type="sub">
+                    <lem>lentää eteenpäin 29,000 peninkulmaa.</lem>
+                </app> Niin erilainen on <app id="var6825" type="sub">
+                    <lem><hi rend="expanded">liikkeen sukkeluus.</hi></lem>
+                </app></p>
+            <p style="blackletter">Jos <app id="var6826" type="sub">
+                    <lem>on</lem>
+                </app> kaksi yhtä raskasta kiveä, ja <app id="var6827" type="sub">
+                    <lem>nakkaan yhtä väkevämmästi</lem>
+                </app> kuin <app id="var6828" type="sub">
+                    <lem>toista,</lem>
+                </app> niin lentää se kivi <app id="var6829" type="sub">
+                    <lem>sukkelammasti, jota nakkasin väkevämmästi.</lem>
+                </app> Mutta jos <app id="var6830" type="sub">
+                    <lem>minulla</lem>
+                </app> on raskas kivi ja keveä kivi, niin <app id="var6831" type="sub">
+                    <lem>tarvitsen</lem>
+                </app> enemmän voimaa <app id="var6832" type="sub">
+                    <lem>raskasta kiveä nakatessa, että se menee</lem>
+                </app> yhtä <app id="var6833" type="sub">
+                    <lem>sukkelasti</lem>
+                </app> kuin <app id="var6834" type="sub">
+                    <lem>keveä kivi.</lem>
+                </app></p>
+            <p style="blackletter"><app id="var6835" type="sub">
+                    <lem>Nakkaanpa pallin</lem>
+                </app> ilmaan. Se lentää <app id="var6836" type="sub">
+                    <lem>ensin vinoon</lem>
+                </app> ylöspäin, <app id="var6837" type="sub">
+                    <lem>sitte</lem>
+                </app> vähenee sen vauhti, <app id="var6838" type="sub">
+                    <lem>sitte</lem>
+                </app> alkaa se <app id="var6839" type="sub">
+                    <lem>vinoon laskeuda</lem>
+                </app> alaspäin, ja <app id="var6840" type="sub">
+                    <lem>tehtyänsä kaaren,</lem>
+                </app> putoaa se <app id="var6841" type="sub">
+                    <lem>alas</lem>
+                </app> ja <app id="var6842" type="sub">
+                    <lem>makaa maassa. Miksikä <pb type="orig" n="191"/>niin? Siksi
+                        kuin</lem>
+                </app> ilma <app id="var6843" type="sub">
+                    <lem>tekee sille vastusta</lem>
+                </app> ja maa <app id="var6844" type="sub">
+                    <lem>vetää sitä alaspäin.</lem>
+                </app> Jos <app id="var6845" type="sub">
+                    <lem>nakkaan kiekun</lem>
+                </app> pyörimään, niin <app id="var6846" type="sub">
+                    <lem>pidättää sitä</lem>
+                </app> vielä <app id="var6847" type="sub">
+                    <lem>hierominenkin</lem>
+                </app> maata vasten. Kaikki tämä <app id="var6848" type="sub">
+                    <lem>vähentää</lem>
+                </app> ja <app id="var6849" type="sub">
+                    <lem>estää liikettä.</lem>
+                </app> Ja jos ei <app id="var6850" type="sub">
+                    <lem>olisi niin, tapahtuisipa</lem>
+                </app> se ihme, ettei <app id="var6851" type="sub">
+                    <lem>pallini</lem>
+                </app> eikä <app id="var6852" type="sub">
+                    <lem>kiekkani kerran kädestäni nakattuina</lem>
+                </app> enää koskaan <app id="var6853" type="sub">
+                    <lem>pysähtyisi.</lem>
+                </app></p>
+            <p style="blackletter"><app id="var6854" type="sub">
+                    <lem>Muuan poika</lem>
+                </app> pani <app id="var6855" type="sub">
+                    <lem>kelkalle</lem>
+                </app> kiven ja veti kelkkaa. Toinen poika, joka oli yhtä voimakas, tuli
+                    <app id="var6856" type="sub">
+                    <lem>kumppanillensa</lem>
+                </app> avuksi vetämään. Nyt vetivät he kelkkaa kahta vertaa <app id="var6857" type="sub">
+                    <lem>sukkelammasti,</lem>
+                </app> kuin <app id="var6858" type="sub">
+                    <lem>ensimäisen pojan yksinään vetäessä.</lem>
+                </app> Vähän ajan <app id="var6859" type="sub">
+                    <lem>perästä</lem>
+                </app> alkoivat he riidellä. Toinen veti kelkkaa eteenpäin, toinen
+                taaksepäin. <app id="var6860" type="sub">
+                    <lem>Eipä kelkka paikalta liikahtanut.</lem>
+                </app> Mutta viimein väsyi <app id="var6861" type="sub">
+                    <lem>ensimäinen</lem>
+                </app> poika, ja nyt veti toinen poika <app id="var6862" type="sub">
+                    <lem>niin paljo takaperin,</lem>
+                </app> kuin <app id="var6863" type="sub">
+                    <lem>oli eroitusta poikain voimain välillä. Kerran</lem>
+                </app> sitoivat molemmat pojat <app id="var6864" type="sub">
+                    <lem>nuoransa</lem>
+                </app> rekeen ja vetivät <app id="var6865" type="sub">
+                    <lem>sitä,</lem>
+                </app> kumpikin puoleltaan, <app id="var6866" type="sub">
+                    <lem>vinoon</lem>
+                </app> syrjään. <app id="var6867" type="sub">
+                    <lem>Menipä</lem>
+                </app> reki aivan suoraan eteenpäin, <app id="var6868" type="sub">
+                    <lem>siksi kuin</lem>
+                </app> molemmat vetivät sitä yhtä <app id="var6869" type="sub">
+                    <lem>lujasti.</lem>
+                </app> Mutta kun toinen väsyi, veti toinen poika re’en enemmän puolellensa.
+                Kulkeissaan <app id="var6870" type="sub">
+                    <lem>survasi</lem>
+                </app> reki <app id="var6871" type="sub">
+                    <lem>kelkkaa,</lem>
+                </app> ja <app id="var6872" type="sub">
+                    <lem>kelkka poikkeusi syrjään, kun oli rekeä keveämpi,</lem>
+                </app> ja <app id="var6873" type="sub">
+                    <lem>reki meni hitaammasti eteenpäin. Sitte survasi</lem>
+                </app> reki olkikuormaan, mutta <app id="var6874" type="sub">
+                    <lem>olkikuorma</lem>
+                </app> ei <app id="var6875" type="sub">
+                    <lem>mennytkään</lem>
+                </app> syrjään, <app id="var6876" type="sub">
+                    <lem>kun oli raskaampi, vaan</lem>
+                </app> reki <app id="var6877" type="sub">
+                    <lem>pysähtyi.</lem>
+                </app> Jos raskas olkikuorma olisi <app id="var6878" type="sub">
+                    <lem>survaisnut rekeä,</lem>
+                </app> niin olisi se antanut reelle kovemman <app id="var6879" type="sub">
+                    <lem>vauhdin,</lem>
+                </app> kuin <app id="var6880" type="sub">
+                    <lem>reki</lem>
+                </app> antoi olkikuormalle. Näinpä kerran veneen purjehtivan hyvää vauhtia
+                ja <app id="var6881" type="sub">
+                    <lem>paukahtavan</lem>
+                </app> laivaan, joka purjehti hyvin hitaasti. Kuitenkin meni laiva <app id="var6882" type="sub">
+                    <lem>esteettä</lem>
+                </app> eteenpäin, mutta vene <app id="var6883" type="sub">
+                    <lem>musertui rikki.</lem>
+                </app></p>
+            <p style="blackletter">Kartanollamme oli suuri kivi. Isä halusi saada sitä pois
+                siitä, mutta ei yksikään <app id="var6884" type="sub">
+                    <lem>saanut</lem>
+                </app> kiveä <app id="var6885" type="sub">
+                    <lem>pai<pb type="orig" n="192"/>kalta</lem>
+                </app> liikahtamaan. <app id="var6886" type="sub">
+                    <lem>Ottipa</lem>
+                </app> isä <app id="var6887" type="sub">
+                    <lem><hi rend="expanded">vivun,</hi></lem>
+                </app> jonka näet <app id="var6888" type="sub">
+                    <lem>tässä</lem>
+                </app> kuvattuna. Hän pisti kiven alle <app id="var6889" type="sub">
+                    <lem>lujan kangin</lem>
+                </app> ja <app id="var6890" type="sub">
+                    <lem>pienen kiven pani kangin</lem>
+                </app> alle <app id="var6891" type="sub">
+                    <lem>aivan likelle</lem>
+                </app> sitä suurta kiveä. Kun hän <app id="var6892" type="sub">
+                    <lem>painoi vivun yläpäästä alaspäin, jaksoipa nostaa kiven, joka
+                        sitte</lem>
+                </app> vedettiin <app id="var6893" type="sub">
+                    <lem>pois</lem>
+                </app> lujalla re’ellä. <app id="var6894" type="sub">
+                    <lem>Samalla lailla oli</lem>
+                </app> kaivon <app id="var6895" type="sub">
+                    <lem>vintin kanssa,</lem>
+                </app> ja <app id="var6896" type="sub">
+                    <lem>aivan niin oli lautakiikunkin (liekunkin) kanssa. Siinä oli</lem>
+                </app> hirsi <app id="var6897" type="sub">
+                    <lem>alustukena;</lem>
+                </app> tässä oli <app id="var6898" type="sub">
+                    <lem>sinä pieni</lem>
+                </app> kivi. Ja <app id="var6899" type="sub">
+                    <lem>pitemmällä puolella vipua</lem>
+                </app> oli sama <app id="var6900" type="int">
+                    <lem>voima,</lem>
+                </app> kuin <app id="var6901" type="sub">
+                    <lem>pitemmällä puolella lautakiikkua. Olisi isä</lem>
+                </app> saattanut <app id="var6902" type="sub">
+                    <lem>panna alapuolen vipupuuta</lem>
+                </app> kiven alle ja <app id="var6903" type="sub">
+                    <lem>vivuta yläpään ylöspäin.</lem>
+                </app> Silloin olisi <app id="var6904" type="sub">
+                    <lem>alustukena</lem>
+                </app> ollut <app id="var6905" type="sub">
+                    <lem>vipupuun alapää.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter"><app id="var6906" type="sub">
+                    <lem>Vintturi laivassa</lem>
+                </app> ja <app id="var6907" type="sub">
+                    <lem>vesiratas myllyssä</lem>
+                </app> ovat <app id="var6908" type="sub">
+                    <lem>myös vipuja. Veden,</lem>
+                </app> joka on <app id="var6909" type="sub">
+                    <lem>vetävänä</lem>
+                </app> voimana, <app id="var6910" type="sub">
+                    <lem>annetaan pudota väkevimmästi rattaasen; mutta</lem>
+                </app> myllynkivet, <app id="var6911" type="sub">
+                    <lem>joiden pitää pyöriä,</lem>
+                </app> ovat <app id="var6912" type="sub">
+                    <lem>kiini</lem>
+                </app> lyhdyssä, jota pyörittää hammasratas, <app id="var6913" type="sub">
+                    <lem>joka</lem>
+                </app> taas <app id="var6914" type="sub">
+                    <lem>on akselineen yhdistyksessä</lem>
+                </app> vesirattaan <app id="var6915" type="sub">
+                    <lem>keskustan kanssa. Sellaiset voimat enenevät sanomattomasti <hi rend="expanded">vuoroliikuntokoneella,</hi> jossa</lem>
+                </app> suuremmat rattaat <app id="var6916" type="sub">
+                    <lem>iskeyvät</lem>
+                </app> hampaineen <app id="var6917" type="sub">
+                    <lem>pyörittämään pienempiä;</lem>
+                </app> sillä jokainen ratas <app id="var6918" type="sub">
+                    <lem>tulee vivuksi.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter">Toinen <app id="var6919" type="sub">
+                    <lem>vipukone</lem>
+                </app> on <hi rend="expanded">ruuvi,</hi> jossa on kaksi osaa, <app id="var6920" type="sub">
+                    <lem>väännettävä ruuvi</lem>
+                </app> ja <app id="var6921" type="sub">
+                    <lem>ruuvin torvi eli mutteri,</lem>
+                </app> joiden kierteet sopivat <app id="var6922" type="sub">
+                    <lem>toisissaan pyörimään. Saatan nyt tehdä</lem>
+                </app> kahdella <app id="var6923" type="sub">
+                    <lem>tavalla, joko niin että</lem>
+                </app> mutteri <app id="var6924" type="sub">
+                    <lem>on kiini</lem>
+                </app> ja ruuvi <pb type="orig" n="193"/><app id="var6925" type="sub">
+                    <lem>irtanaisena,</lem>
+                </app> niinkuin näet <app id="var6926" type="sub">
+                    <lem>tässä</lem>
+                </app> kuvatussa <app id="var6927" type="sub">
+                    <lem>pusertimessa. Siinä enenee voima ruuvissa olevalla tangolla.
+                        Eli</lem>
+                </app> on itse ruuvi <app id="var6928" type="sub">
+                    <lem>kiini</lem>
+                </app> ja mutteri <app id="var6929" type="sub">
+                    <lem>irtanaisna</lem>
+                </app> niinkuin <app id="var6930" type="sub">
+                    <lem>oikeissa kärryin rattaissa pidetään. Siinä lisäypi</lem>
+                </app> mutterin voima <app id="var6931" type="sub">
+                    <lem>sillä lailla</lem>
+                </app> että <app id="var6932" type="sub">
+                    <lem>sitä väännetään avaimella.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="blackletter"><app id="var6933" type="sub">
+                    <lem>Vielä tiedän sittenkin vipukoneen.</lem>
+                </app> Isä aikoi <app id="var6934" type="sub">
+                    <lem>halkaista pölkkyä,</lem>
+                </app> mutta <app id="var6935" type="sub">
+                    <lem>eipä voinutkaan saada sitä kirveellä halki. Siksi</lem>
+                </app> löi isä <app id="var6936" type="sub">
+                    <lem>kiilan</lem>
+                </app> pölkyn päähän, ja nyt halkesi pölkky <app id="var6937" type="sub">
+                    <lem>muutamalla lyönnillä.</lem>
+                </app> Siitä <app id="var6938" type="sub">
+                    <lem>ymmärsin vipukonetten olevan monellaisia.</lem>
+                </app> Puukkoni ja <app id="var6939" type="sub">
+                    <lem>hakkurautani</lem>
+                </app> vaikuttavat <app id="var6940" type="sub">
+                    <lem>kuin kiilat.</lem>
+                </app> Keritsimien ja saksien <app id="var6941" type="sub">
+                    <lem>terät</lem>
+                </app> ovat <app id="var6942" type="sub">
+                    <lem>kuin kaksi kiilaa ja</lem>
+                </app> vaikuttavat <app id="var6943" type="sub">
+                    <lem>kuin vivut.</lem>
+                </app> Mutta <app id="var6944" type="sub">
+                    <lem>kairi</lem>
+                </app> on <app id="var6945" type="sub">
+                    <lem>samassa ruuvi</lem>
+                </app> ja <app id="var6946" type="sub">
+                    <lem>kiila.</lem>
+                </app></p>
+            <p style="blackletter"><app id="var6947" type="sub">
+                    <lem>Tahdonko</lem>
+                </app> käyttää <app id="var6948" type="sub">
+                    <lem>pyöriä</lem>
+                </app> ja <app id="var6949" type="sub">
+                    <lem>kinunkia nostaakseni</lem>
+                </app> suuria painoja, niin <app id="var6950" type="sub">
+                    <lem>panen</lem>
+                </app> ne <app id="var6951" type="sub">
+                    <lem>riippumaan irtanaisina köysissä.</lem>
+                </app> Jos <app id="var6952" type="sub">
+                    <lem>sidon</lem>
+                </app> ne <app id="var6953" type="sub">
+                    <lem>kiini, eipä olekkaan niillä enää vipuvoimaa.</lem>
+                </app> Mutta silloinkin on <app id="var6954" type="sub">
+                    <lem>minulle niistä suurta</lem>
+                </app> hyötyä; sillä <app id="var6955" type="sub">
+                    <lem>silloin nostan painoa ylöspäin köydestä</lem>
+                </app> vetämällä <app id="var6956" type="sub">
+                    <lem>alaspäin, ja silloin enenee voimani oman ruumiini painolla.</lem>
+                </app></p>
+            <p style="blackletter">Aivan vähän olen ennen ajatellut sellaisia <app id="var6957" type="int">
+                    <lem>asioita</lem>
+                </app> kuin painoa ja <app id="var6958" type="sub">
+                    <lem>liikettä.</lem>
+                </app> Mutta <app id="var6959" type="sub">
+                    <lem>jota enemmin</lem>
+                </app> niitä <app id="var6960" type="int">
+                    <lem>ajattelen</lem>
+                </app> sitä <app id="var6961" type="sub">
+                    <lem>mieluisempi</lem>
+                </app> on <app id="var6962" type="sub">
+                    <lem>niistä kaikista ottaa vaari.</lem>
+                </app> Enpä ole ennen kysynyt kiveltä: <app id="var6963" type="sub">
+                    <lem>miksikä uppoat? eli</lem>
+                </app> veneeltä: miksikä pysyt veden päällä? En ole ennen <app id="var6964" type="sub">
+                    <lem>arvellut pallista:</lem>
+                </app> miksikä <app id="var6965" type="sub">
+                    <lem>lennät kaaressa? eli koskesta:</lem>
+                </app> miksikä juokset? <app id="var6966" type="sub">
+                    <lem>eli myllystä:</lem>
+                </app> miksikä <app id="var6967" type="sub">
+                    <lem>pyörit ja käytät?</lem>
+                </app> Mutta nyt olen oppinut kysymään ja <app id="var6968" type="sub">
+                    <lem>vaarin ottamaan monesta asiasta. Niin tahdon</lem>
+                </app> katsella <app id="var6969" type="sub">
+                    <lem>kaikkia</lem>
+                </app> ympärilläni ja ajatella: miksikä <app id="var6970" type="sub">
+                    <lem>on se niin?</lem>
+                </app> Kyllä on Jumala <app id="var6971" type="sub">
+                    <lem>pan<pb type="orig" n="194"/>nut paljo oppimista</lem>
+                </app> tavallisimpiinkin <app id="var6972" type="sub">
+                    <lem>asioihin.</lem>
+                </app> Mutta sitä ei näe <app id="var6973" type="sub">
+                    <lem>ajattelematoin. Hän</lem>
+                </app> ei <app id="var6974" type="sub">
+                    <lem>ajattele pitemmälle</lem>
+                </app> omaa <app id="var6975" type="sub">
+                    <lem>nenäänsä.</lem>
+                </app></p>
+        </body>
+    </text>
+</TEI>

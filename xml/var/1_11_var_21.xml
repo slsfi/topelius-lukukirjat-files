@@ -1,0 +1,1212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Luku 11, varianttikoodattu (perusteksti)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>11</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Yhdestoista Luku. Ilmasta</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
+    <text>
+        <body xml:space="preserve">
+            <head type="section" style="blackletter"><hi rend="bold">Yhdestoista</hi> <app id="var5064" type="sub">
+                    <lem><hi rend="bold">Luku.</hi></lem>
+                </app></head>
+            <head type="section" style="romanType"><hi rend="expanded">Ilmasta.</hi></head>
+            <p style="romanType">Kerran oli Antti <app id="var5065" type="sub">
+                    <lem>juosnut</lem>
+                </app> itsensä väsyksiin <app id="var5066" type="sub">
+                    <lem>paperi-leijua vetäen vasta-tuuleen.</lem>
+                </app> Tultuaan <app id="var5067" type="sub">
+                    <lem>suuren</lem>
+                </app> tuulimyllyn <app id="var5068" type="sub">
+                    <lem>luo kylän tykönä</lem>
+                </app> pysähtyi hän katsomaan myllyn siipiä, jotka <app id="var5069" type="sub">
+                    <lem>pyöriä</lem>
+                </app> hurisivat hyvää <app id="var5070" type="sub">
+                    <lem>vauhtia tuulessa.</lem>
+                </app></p>
+            <pb type="orig" n="151"/>
+            <p style="romanType">Mitä sinä <app id="var5071" type="sub">
+                    <lem>katsot?</lem>
+                </app> sanoi Liisa, joka <app id="var5072" type="sub">
+                    <lem>samassa käveli</lem>
+                </app> isänsä kanssa <app id="var5073" type="sub">
+                    <lem>maantietä.</lem>
+                </app> Antti sanoi: <app id="var5074" type="sub">
+                    <lem>minä</lem>
+                </app> koetan <app id="var5075" type="sub">
+                    <lem>katsoa</lem>
+                </app> ilmaa. <app id="var5076" type="sub">
+                    <lem>Eikö voi</lem>
+                </app> nähdä sitä ainetta, <app id="var5077" type="sub">
+                    <lem>jolla</lem>
+                </app> on niin suuri voima, että se nostaa <app id="var5078" type="sub">
+                    <lem>paperi-leijuni</lem>
+                </app> ylös <app id="var5079" type="sub">
+                    <lem>pilveä kohti</lem>
+                </app> ja panee pyörimään <app id="var5080" type="sub">
+                    <lem>myllyn siivet,</lem>
+                </app> jotka <app id="var5081" type="sub">
+                    <lem>taas</lem>
+                </app> pyörittävät raskaita <app id="var5082" type="sub">
+                    <lem>myllyn kiviä?</lem>
+                </app></p>
+            <p style="romanType">Isä sanoi: <app id="var5083" type="sub">
+                    <lem><hi rend="expanded">ilmaa</hi></lem>
+                </app> ei voi kukaan nähdä, sillä se on kokonaan <app id="var5084" type="sub">
+                    <lem><hi rend="expanded">läpi-näkyvä.</hi></lem>
+                </app> Tässä on <app id="var5085" type="sub">
+                    <lem>lasi.</lem>
+                </app> Se näyttää tyhjältä, ja sinä <app id="var5086" type="sub">
+                    <lem>sanot</lem>
+                </app> siinä <app id="var5087" type="sub">
+                    <lem>ei olevan</lem>
+                </app> mitään. Mutta <app id="var5088" type="sub">
+                    <lem>käännäppä</lem>
+                </app> sen suu alaspäin ja koeta sitä <app id="var5089" type="sub">
+                    <lem>upottaa</lem>
+                </app> veteen, niin siihen ei mene <app id="var5090" type="sub">
+                    <lem>ollenkaan</lem>
+                </app> vettä. Siinä on jotakin, joka <app id="var5091" type="sub">
+                    <lem>on veden edessä,</lem>
+                </app> ja se on ilma. Mutta <app id="var5092" type="sub">
+                    <lem>paneppa lasi suin vinoon</lem>
+                </app> veteen, niin ilma pulppuaa ulos, kun vettä juoksee sisään. <app id="var5093" type="sub">
+                    <lem>Ainoasti</lem>
+                </app> sumuja ja vesihöyryjä <app id="var5094" type="sub">
+                    <lem>täynnä ollessa voit sinä nähdä ilmaa;</lem>
+                </app> sillä silloin <app id="var5095" type="sub">
+                    <lem>on se sameaa ja usmaista, niinkuin autereessa, kun kesällä kauvan
+                        on ollut lämmintä.</lem>
+                </app> Mutta <app id="var5096" type="sub">
+                    <lem>katsoessa pitkälle ylettyvää selvää ilmaa, näkyy</lem>
+                </app> se siniseltä. <app id="var5097" type="sub">
+                    <lem>Siitä tulee taivaan sininen väri. Ja</lem>
+                </app> kun aurinko <app id="var5098" type="sub">
+                    <lem>paistaa alaalta</lem>
+                </app> ilman <app id="var5099" type="sub">
+                    <lem>huuruin läpitse,</lem>
+                </app> saamme <app id="var5100" type="sub">
+                    <lem>nähdä kauniimpia väriä</lem>
+                </app> aamu- ja <app id="var5101" type="sub">
+                    <lem>iltaruskoissa.</lem>
+                </app></p>
+            <p style="romanType"><app id="var5102" type="sub">
+                    <lem>Toisella kerralla auringon selvästi paistaessa akkunan
+                        läpitse,</lem>
+                </app> näemme pieniä tomun <app id="var5103" type="sub">
+                    <lem>kipeneitä heiluvan</lem>
+                </app> ilmassa <app id="var5104" type="sub">
+                    <lem>ja olevan alinomaa liikkeellä.</lem>
+                </app> Tästä <app id="var5105" type="sub">
+                    <lem>näemme</lem>
+                </app> ilman olevan <app id="var5106" type="sub">
+                    <lem>aivan</lem>
+                </app> kevyttä ainetta, jonka pieninkin <app id="var5107" type="sub">
+                    <lem>täräys</lem>
+                </app> panee liikkeelle. Jos istut hataran akkunan luona, tunnet selvästi
+                    <app id="var5108" type="sub">
+                    <lem><hi rend="expanded">ilma-huokun</hi> kylmemmästä ilmasta tulevan
+                        ulkoa.</lem>
+                </app> Jos puhallat <app id="var5109" type="sub">
+                    <lem>hiillokseen liedessä,</lem>
+                </app> niin <app id="var5110" type="sub">
+                    <lem>menee ilmaa tohisten</lem>
+                </app> suustasi ulos. Jos puhallat lasiputkeen, johon olet pannut herneen,
+                niin <app id="var5111" type="sub">
+                    <lem>lentää herne siitä ulos,</lem>
+                </app> sillä <app id="var5112" type="sub">
+                    <lem>ilma pakkaupi</lem>
+                </app> putkessa kokoon ja tulee <app id="var5113" type="sub">
+                    <lem>sillä väkevämmäksi.</lem>
+                </app> Seppä <app id="var5114" type="sub">
+                    <lem>pusertaa paletta pajassa kokoon, ja</lem>
+                </app> ilma <app id="var5115" type="sub">
+                    <lem>puristuu palkeessa kokoon</lem>
+                </app> ja <app id="var5116" type="sub">
+                    <lem>puhaltaa ulos, juuri kuin tuuli,</lem>
+                </app> ahjoon. Välistä ei <app id="var5117" type="sub">
+                    <lem>tuta</lem>
+                </app> mitään <app id="var5118" type="sub">
+                    <lem>liikettä</lem>
+                </app> ulkoilmassa. Silloin sanotaan: nyt on <app id="var5119" type="sub">
+                    <lem><hi rend="expanded">tyven.</hi></lem>
+                </app> Mutta <app id="var5120" type="sub">
+                    <lem>käypipä</lem>
+                </app> niin, <pb type="orig" n="152"/>että ilma <app id="var5121" type="sub">
+                    <lem>jollakulla paikalla</lem>
+                </app> laajentuu <app id="var5122" type="sub">
+                    <lem>lämpimästä ja pakkaupi</lem>
+                </app> muita <app id="var5123" type="sub">
+                    <lem>ilma-panoksia vastaan,</lem>
+                </app> niin että <app id="var5124" type="sub">
+                    <lem>ne tulevat liikkeelle, juurikuin virraksi. Siitä tulee</lem>
+                </app>
+                <hi rend="expanded">tuuli.</hi>
+                <app id="var5125" type="sub">
+                    <lem>Tästä syystä tulee</lem>
+                </app> aina <app id="var5126" type="sub">
+                    <lem>tuuli suurissa tulipaloissa. Tuuli saattaa enetä useista
+                        syistä,</lem>
+                </app> ja <app id="var5127" type="sub">
+                    <lem>sitte tulee</lem>
+                </app>
+                <hi rend="expanded">myrsky.</hi> Myrsky saattaa <app id="var5128" type="sub">
+                    <lem>vielä väkiä</lem>
+                </app> niin hirmuisen <app id="var5129" type="sub">
+                    <lem>kovaksi,</lem>
+                </app> että se <app id="var5130" type="sub">
+                    <lem>kaataa</lem>
+                </app> suurimmatkin puut, <app id="var5131" type="sub">
+                    <lem>särkee</lem>
+                </app> huoneita ja hautaa <app id="var5132" type="sub">
+                    <lem>suuret laivat</lem>
+                </app> kuohuviin aaltoihin. Sellaista myrskyä <app id="var5133" type="sub">
+                    <lem>saapi sanoa <hi rend="expanded">hirmu-myrskyksi.</hi></lem>
+                </app> Välistä kulkee <app id="var5134" type="sub">
+                    <lem>hirmu-myrsky kummallisissa <choice>
+                            <orig>pyönekkeissä</orig>
+                            <reg>pyörekkeissä</reg>
+                        </choice></lem>
+                </app><choice>
+                    <reg/>
+                </choice> eli <app id="var5135" type="sub">
+                    <lem><hi rend="expanded">tuulispäissä.</hi> Toisinaan tapahtuu
+                        tyveneessä ilmassa,</lem>
+                </app> että <app id="var5136" type="sub">
+                    <lem>pilvi, jota kutsutaan <hi rend="expanded">vesipatsaaksi,</hi></lem>
+                </app> imee <app id="var5137" type="sub">
+                    <lem>vettä merestä ja repii</lem>
+                </app> mukaansa kaikki, <app id="var5138" type="sub">
+                    <lem>jotka</lem>
+                </app> sitä <app id="var5139" type="sub">
+                    <lem>likenevät,</lem>
+                </app> siksi <app id="var5140" type="sub">
+                    <lem>kuin</lem>
+                </app> pilvi <app id="var5141" type="sub">
+                    <lem>puhkeaa</lem>
+                </app> ja vesi putoaa alas <app id="var5142" type="sub">
+                    <lem><hi rend="expanded">rankkana sateena.</hi></lem>
+                </app></p>
+            <p style="romanType">Tuolla purjehtii suuri laiva, joka on niin raskas, että
+                    <app id="var5143" type="sub">
+                    <lem>sitä monien ihmisten voimalla tuskin jaksetaan paikalta</lem>
+                </app> liikuttaa. Mikä <app id="var5144" type="sub">
+                    <lem>kulettaa siis</lem>
+                </app> laivaa <app id="var5145" type="sub">
+                    <lem>eteenpäin? Se on ilma,</lem>
+                </app> joka täyttää sen levitetyt purjeet. <app id="var5146" type="sub">
+                    <lem>Toisella kerralla näemme, kuinka ilma kantaa</lem>
+                </app> pilviä ja savua ja <app id="var5147" type="sub">
+                    <lem>lintuin siipiä</lem>
+                </app> ja muita keveitä <app id="var5148" type="int">
+                    <lem>aineita</lem>
+                </app> niinkuin paperia ja untuvia. Siitä käsitämme ilmalla olevan <app id="var5149" type="sub">
+                    <lem>vissin</lem>
+                </app>
+                <hi rend="expanded">tiheyden</hi> ja <app id="var5150" type="sub">
+                    <lem>vissin <hi rend="expanded">painon.</hi></lem>
+                </app> Olemme niin tottuneet ilmaan, ettemme <app id="var5151" type="sub">
+                    <lem>ollenkaan tunne, kuinka se painaa</lem>
+                </app> meitä. Mutta miksikä <app id="var5152" type="sub">
+                    <lem>ei olu</lem>
+                </app> juokse ulos <app id="var5153" type="sub">
+                    <lem>puolikon hanan reijästä,</lem>
+                </app> ennenkuin <app id="var5154" type="sub">
+                    <lem>runtia</lem>
+                </app> aukaistaan? <app id="var5155" type="sub">
+                    <lem>Siksi</lem>
+                </app> että ilma painaa vastaan tapin <app id="var5156" type="sub">
+                    <lem>reijässä.</lem>
+                </app> Ja jos <app id="var5157" type="sub">
+                    <lem>imen</lem>
+                </app> ilman pois <app id="var5158" type="sub">
+                    <lem>vingerporista eli kuppasarvesta,</lem>
+                </app> niin tarttuvat ne <app id="var5159" type="sub">
+                    <lem>kiini käteeni. Miksikä niin? Siksi</lem>
+                </app> että ilma painaa niitä <app id="var5160" type="sub">
+                    <lem>ulkoa päin, mutta ei</lem>
+                </app> enää sisäpuolelta. Ja jos <app id="var5161" type="sub">
+                    <lem>pistän</lem>
+                </app> veteen putken, joka on <app id="var5162" type="sub">
+                    <lem>auki</lem>
+                </app> molemmista <app id="var5163" type="sub">
+                    <lem>päistä,</lem>
+                </app> niin on vesi yhtä korkealla <app id="var5164" type="sub">
+                    <lem>putkessa</lem>
+                </app> sisä- kuin ulkopuolellakin. Mutta jos <app id="var5165" type="sub">
+                    <lem>imen</lem>
+                </app> ilman pois <app id="var5166" type="sub">
+                    <lem>yläpuoleisesta päästä,</lem>
+                </app> niin nousee vesi <app id="var5167" type="sub">
+                    <lem>ylös putkessa aina suuhuni</lem>
+                </app> asti. <app id="var5168" type="sub">
+                    <lem>Miksikä niin?</lem>
+                </app> Siitä <app id="var5169" type="int">
+                    <lem>syystä</lem>
+                </app> että ilma painaa vettä <app id="var5170" type="sub">
+                    <lem>ulkopuolella putkea</lem>
+                </app> ja <app id="var5171" type="sub">
+                    <lem>pakottaa</lem>
+                </app> sitä ylöspäin, kun ilma ei <app id="var5172" type="sub">
+                    <lem>paina enää</lem>
+                </app> vettä putken sisällä. <pb type="orig" n="153"/>Sellaista putkea <app id="var5173" type="sub">
+                    <lem>kutsutaan</lem>
+                </app>
+                <hi rend="expanded">vetopilliksi.</hi> Samasta syystä <app id="var5174" type="sub">
+                    <lem>saan</lem>
+                </app> veden nousemaan pumpussakin. Sillä kun pumpun <app id="var5175" type="sub">
+                    <lem>vartta vedetään yläspäin,</lem>
+                </app> niin <app id="var5176" type="sub">
+                    <lem>pakottaa</lem>
+                </app> se <app id="var5177" type="sub">
+                    <lem>ilman pumpun</lem>
+                </app> torvesta <app id="var5178" type="sub">
+                    <lem>pois avopäästä ylhäällä,</lem>
+                </app> ja <app id="var5179" type="sub">
+                    <lem>se ulkopuolella</lem>
+                </app> oleva ilma painaa vettä <app id="var5180" type="sub">
+                    <lem>siihen ilmasta tyhjänä olevaan</lem>
+                </app> pumpuntorveen.</p>
+            <figure type="illustration"/>
+            <p style="romanType">Tahdotko nähdä kummallista, niin
+                tee kuin kirjan lehden laidassa oleva kuva osottaa.</p>
+            <p style="romanType"><app id="var5181" type="sub">
+                    <lem>Ota</lem>
+                </app> ämpäri <app id="var5182" type="sub">
+                    <lem>eli</lem>
+                </app> malja ja kaada siihen vettä. Ota <app id="var5183" type="sub">
+                    <lem>sitte</lem>
+                </app> mutkalle <app id="var5184" type="sub">
+                    <lem>sujutettu putki,</lem>
+                </app> pistä <app id="var5185" type="sub">
+                    <lem>yksi</lem>
+                </app> pää <app id="var5186" type="sub">
+                    <lem>putkea veteen</lem>
+                </app> ja <app id="var5187" type="sub">
+                    <lem>anna toisen pään riippua</lem>
+                </app> alaspäin astiasta, mutta <app id="var5188" type="sub">
+                    <lem>niin</lem>
+                </app> että se riippuu <app id="var5189" type="sub">
+                    <lem>vähä</lem>
+                </app> alempana <app id="var5190" type="sub">
+                    <lem>astiassa olevaa vettä.</lem>
+                </app> Ime <app id="var5191" type="sub">
+                    <lem>sitte</lem>
+                </app> ilma pois putken alapäästä. Vesi alkaa <app id="var5192" type="sub">
+                    <lem>nyt</lem>
+                </app> juosta putkesta ja juoksee juoksemistaan, <app id="var5193" type="sub">
+                    <lem>sittekin</lem>
+                </app> kun <app id="var5194" type="sub">
+                    <lem>herkesit imemästä,</lem>
+                </app> niin <app id="var5195" type="sub">
+                    <lem>kauvan</lem>
+                </app> kuin vettä on astiassa. <app id="var5196" type="sub">
+                    <lem>Miksikä niin?</lem>
+                </app> Vedenhän täytyy ensin juosta ylöspäin, <app id="var5197" type="sub">
+                    <lem>kun</lem>
+                </app> putken mutka on ylempänä veden pintaa. Emmekä koskaan <app id="var5198" type="sub">
+                    <lem>näe</lem>
+                </app> veden <app id="var5199" type="sub">
+                    <lem>muuten juoksevan ylöspäin.</lem>
+                </app> Mutta niin tekee se <app id="var5200" type="sub">
+                    <lem>nyt, siksi</lem>
+                </app> että <app id="var5201" type="sub">
+                    <lem>ulkopuolella oleva ilma</lem>
+                </app> painaa vettä <app id="var5202" type="sub">
+                    <lem>sihen ilmasta tyhjään putkeen, joka ei ole muu</lem>
+                </app> kuin <app id="var5203" type="sub">
+                    <lem>mutkistettu vetopilli.</lem>
+                </app></p>
+            <p style="romanType">Mutta jos <app id="var5204" type="sub">
+                    <lem>koetan</lem>
+                </app> imeä vettä putkeen, joka <app id="var5205" type="sub">
+                    <lem>on</lem>
+                </app> esim. <app id="var5206" type="sub">
+                    <lem>18 kyynärää korkealla</lem>
+                </app> veden <app id="var5207" type="sub">
+                    <lem>pinnasta,</lem>
+                </app> niin <app id="var5208" type="sub">
+                    <lem>en</lem>
+                </app> voi millään lailla saada vettä nousemaan <app id="var5209" type="sub">
+                    <lem>17 kyynärää ylemmäksi putkeen. Miksikä en? Siksi</lem>
+                </app> että ilman <app id="var5210" type="sub">
+                    <lem>paino</lem>
+                </app> ei voi <app id="var5211" type="sub">
+                    <lem>kohottaa</lem>
+                </app> vettä <app id="var5212" type="sub">
+                    <lem>ylemmäksi.</lem>
+                </app> Ja tästä näemme, että ilma painaa <app id="var5213" type="sub">
+                    <lem>meihin</lem>
+                </app> joka <app id="var5214" type="sub">
+                    <lem>kulmalta</lem>
+                </app> juuri <app id="var5215" type="sub">
+                    <lem>niin paljo,</lem>
+                </app> kuin jos päällämme olisi <app id="var5216" type="sub">
+                    <lem>17 kyynärän</lem>
+                </app> korkuiselta <app id="var5217" type="int">
+                    <lem>vettä</lem>
+                </app>
+                <note id="ftn2" n="*)" place="foot">Muist. Oppineet ihmiset ovat laskeneet
+                    <app id="var5218" type="sub"><lem>kannun</lem></app> vettä painavan saman verran kuin
+                    770 <app id="var5219" type="sub"><lem>kannua ilmaa</lem></app>.</note>.
+                Se on <app id="var5220" type="sub"><lem>hirviä</lem></app> paino, joka kokonaan
+                rusentaisi meidät, jos ei si<pb type="orig" n="154"/>sällämme oleva
+                ilma painaisi yhtä <app id="var5221" type="sub">
+                    <lem>paljo ulospäin.</lem>
+                </app> Jos <app id="var5222" type="sub">
+                    <lem>sisällä olevan ilman voisi</lem>
+                </app> pumputa pois huoneesta, niin ulkona oleva ilma <app id="var5223" type="sub">
+                    <lem>rusentaisi seinät kokonaan rikki.</lem>
+                </app></p>
+            <p style="romanType">Vaikea on saada <app id="var5224" type="sub">
+                    <lem>jotakuta</lem>
+                </app> paikkaa <app id="var5225" type="sub">
+                    <lem>ilmasta tyhjäksi;</lem>
+                </app> mutta kuitenkin on keksitty kone, jolla <app id="var5226" type="sub">
+                    <lem>ilma voidaan</lem>
+                </app> saada <app id="var5227" type="sub">
+                    <lem>pois lasikellosta. Siinäpä nähdään, kuinka höyhen joka pannaan <hi rend="expanded">ilmapumppuun,</hi></lem>
+                </app> putoaa alas yhtä <app id="var5228" type="sub">
+                    <lem>kiivaasti</lem>
+                </app> kuin kivi. Sillä siinä ei ole <hi rend="expanded">ilman
+                    vastusta,</hi> joka muuten <app id="var5229" type="sub">
+                    <lem>pidättää kaikkea liikettä.</lem>
+                </app> Jos ei tätä vastusta olisi, <app id="var5230" type="sub">
+                    <lem>ampuisin kuulani</lem>
+                </app> ja <app id="var5231" type="sub">
+                    <lem>nakkaisin pallini kahta vertaa etemmäksi,</lem>
+                </app> kuin <app id="var5232" type="sub">
+                    <lem>nyt voin</lem>
+                </app> tehdä.</p>
+            <figure type="illustration"/>
+            <p style="romanType">Ilma <app id="var5233" type="sub">
+                    <lem>juoksee</lem>
+                </app> näkymättöminä virtoina koko maan ympäri ja <app id="var5234" type="sub">
+                    <lem>ylettyy</lem>
+                </app> noin <app id="var5235" type="sub">
+                    <lem>neljää peninkulmaa korkialle.</lem>
+                </app> Koko tätä <app id="var5236" type="sub">
+                    <lem>ilma-panosta kutsutaan <hi rend="expanded">ilmapiiriksi.</hi></lem>
+                </app> Onpa <app id="var5237" type="sub">
+                    <lem>keksitty</lem>
+                </app> täyttää <app id="var5238" type="int">
+                    <lem>suuri</lem>
+                </app> silkistä <app id="var5239" type="sub">
+                    <lem>eli</lem>
+                </app> muusta <app id="var5240" type="sub">
+                    <lem>hienosta vaatteesta</lem>
+                </app> tehty pallo <app id="var5241" type="sub">
+                    <lem><hi rend="expanded">ilmalajilla</hi></lem>
+                </app> eli <app id="var5242" type="sub">
+                    <lem>ilmanmoisilla aineilla (kaasuilla),</lem>
+                </app> jotka ovat ilmaa keveämmät. Kun pallo <app id="var5243" type="sub">
+                    <lem>on sitte tiviksi tukittu,</lem>
+                </app> niin etteivät kaasut pääse siitä pois, kohoaa <app id="var5244" type="sub">
+                    <lem>pallo</lem>
+                </app> ilmaan, ja pallon alle on sidottu pieni <app id="var5245" type="sub">
+                    <lem>vene,</lem>
+                </app> jossa <app id="var5246" type="sub">
+                    <lem>on saattanut</lem>
+                </app> istua yksi <app id="var5247" type="sub">
+                    <lem>eli</lem>
+                </app> useampia ihmisiä. Pallo eli <app id="var5248" type="sub">
+                    <lem><hi rend="expanded">ilma-pallo</hi></lem>
+                </app> on <app id="var5249" type="sub">
+                    <lem>kohottanut</lem>
+                </app> nämä uskaliaat <app id="var5250" type="sub">
+                    <lem>ilma-purjehtijat</lem>
+                </app> hyvin korkealle, <app id="var5251" type="sub">
+                    <lem>vieläpä korkiammalle</lem>
+                </app> korkeimpia vuoria ja <app id="var5252" type="sub">
+                    <lem>korkeimpia</lem>
+                </app> pilviä. <app id="var5253" type="sub">
+                    <lem>Sieltä</lem>
+                </app> ovat <app id="var5254" type="sub">
+                    <lem>nähneet kaupungeita</lem>
+                </app> ja kyliä kaukana <app id="var5255" type="sub">
+                    <lem>alaalla jalkainsa alla</lem>
+                </app> siksi <app id="var5256" type="sub">
+                    <lem>kuin</lem>
+                </app> ovat päästäneet kaasut ulos pallosta ja <app id="var5257" type="sub">
+                    <lem>sitte</lem>
+                </app> painuneet jälleen maahan. Mutta tuolla <app id="var5258" type="sub">
+                    <lem>ilmassa korkealla</lem>
+                </app> on ollut <app id="var5259" type="sub">
+                    <lem>aivan vaikea</lem>
+                </app> hengittää, sillä ilma ohenee, <app id="var5260" type="sub">
+                    <lem>jota ylemmä</lem>
+                </app> kohotaan. <app id="var5261" type="sub">
+                    <lem>Tapahtuu niinkin, että</lem>
+                </app> korkealla vuorella <app id="var5262" type="sub">
+                    <lem>näkee</lem>
+                </app> pilvien satavan <app id="var5263" type="sub">
+                    <lem>juuri allaan,</lem>
+                </app> sillä <app id="var5264" type="sub">
+                    <lem>se ohu ilma</lem>
+                </app> ei voi <app id="var5265" type="sub">
+                    <lem>kantaa</lem>
+                </app> pilviä niin korkealla. <app id="var5266" type="sub">
+                    <lem>Syvässä</lem>
+                </app> meressä on vesi painanut sukeltajia <app id="var5267" type="sub">
+                    <lem>kovemmasti ulkoapäin,</lem>
+                </app> kuin <app id="var5268" type="sub">
+                    <lem>niiden</lem>
+                </app> ruumiissa oleva ilma on <app id="var5269" type="sub">
+                    <lem>vastannut sisältäpäin,</lem>
+                </app> ja silloin he ovat olleet <app id="var5270" type="sub">
+                    <lem>lähellä <pb type="orig" n="155"/>kuolemaa.</lem>
+                </app> Aivan toisin on käynyt <app id="var5271" type="sub">
+                    <lem>niille,</lem>
+                </app> jotka ovat kiivenneet hyvin <app id="var5272" type="sub">
+                    <lem>korkeoille</lem>
+                </app> vuorille. Siellä on heidän <app id="var5273" type="sub">
+                    <lem>ruumiissa</lem>
+                </app> oleva ilma painanut <app id="var5274" type="sub">
+                    <lem>kovemmasti ulospäin,</lem>
+                </app> kuin <app id="var5275" type="sub">
+                    <lem>ilma ulkopuolella</lem>
+                </app> on <app id="var5276" type="sub">
+                    <lem>painanut sisään päin. Siksi</lem>
+                </app> on veri <app id="var5277" type="sub">
+                    <lem>tahtonut</lem>
+                </app> juosta <app id="var5278" type="sub">
+                    <lem>niistä kuiviin sisus-ilman</lem>
+                </app> painosta. Mutta syvissä <app id="var5279" type="sub">
+                    <lem>kaivannoissa</lem>
+                </app> on ilma <app id="var5280" type="sub">
+                    <lem>yhtä tiviä</lem>
+                </app> ja <app id="var5281" type="sub">
+                    <lem>vaikeata</lem>
+                </app> hengittää, niin että <app id="var5282" type="sub">
+                    <lem>nähdään,</lem>
+                </app> kuinka Jumala on <app id="var5283" type="sub">
+                    <lem>valmistanut ihmiselle sopivimman</lem>
+                </app> ilman maan <app id="var5284" type="sub">
+                    <lem>pinnalla.</lem>
+                </app></p>
+            <p style="romanType">Ilma <app id="var5285" type="sub">
+                    <lem>pakkaupi pian kaikkein läpitse:</lem>
+                </app> sitä on maassa, vedessä, <choice>
+                    <orig/>
+                </choice><app id="var5286" type="sub">
+                    <lem><choice>
+                            <orig>vatteissasi</orig>
+                            <reg>vaatteissasi</reg>
+                        </choice> olevissa</lem>
+                </app> langoissa ja ruumiisi sisässä. Ilmatta ei <app id="var5287" type="sub">
+                    <lem>voi</lem>
+                </app> yksikään eläin hengittää, ei <app id="var5288" type="sub">
+                    <lem>mikään</lem>
+                </app> kasvi <app id="var5289" type="sub">
+                    <lem>elää eikä</lem>
+                </app> tulikaan palaa. Näin kerran rotan, joka pantiin <app id="var5290" type="sub">
+                    <lem>ilmapumppuun, ilmattomaan paikkaan.</lem>
+                </app> Kohta <app id="var5291" type="sub">
+                    <lem>alkoi se hätäillä</lem>
+                </app> ja pyrki ulos. Kun <app id="var5292" type="sub">
+                    <lem>ei</lem>
+                </app> päässyt, alkoi se <app id="var5293" type="sub">
+                    <lem>aina vaikeammasti ja vaikeammasti</lem>
+                </app> hengittää. Viimein <app id="var5294" type="sub">
+                    <lem>hypähti</lem>
+                </app> sen <app id="var5295" type="sub">
+                    <lem>koko ruumis, tukehtui</lem>
+                </app> ja kuoli. Muuan poika sai kerran <app id="var5296" type="sub">
+                    <lem>lihapalasen</lem>
+                </app> kurkkuunsa. Siitä hän kuoli, kun ei voinut enää <app id="var5297" type="sub">
+                    <lem>hengittää ilmaa. Lukukinkereillä</lem>
+                </app> näin <app id="var5298" type="sub">
+                    <lem>paljo</lem>
+                </app> väkeä <app id="var5299" type="sub">
+                    <lem>matalassa</lem>
+                </app> tuvassa. Viimein <app id="var5300" type="sub">
+                    <lem>tuli</lem>
+                </app> ilma huoneessa niin <app id="var5301" type="sub">
+                    <lem>lämpimän tukalaksi,</lem>
+                </app> että sitä tuskin <app id="var5302" type="sub">
+                    <lem>voi</lem>
+                </app> hengittää, ja kynttilät <app id="var5303" type="sub">
+                    <lem>paloivat</lem>
+                </app> hyvin <app id="var5304" type="sub">
+                    <lem>tummina pöydällä. Vedä pelti auki,</lem>
+                </app> sanoi lukkari, että saadaan <app id="var5305" type="sub">
+                    <lem>parempaa ilman vaihetusta. Ei ole se terveellistä, kun ei saa
+                        alinomaa</lem>
+                </app> raitista ilmaa <app id="var5306" type="sub">
+                    <lem>huoneesen.</lem>
+                </app> Sillä se ilma, jonka hengitämme <app id="var5307" type="sub">
+                    <lem>ulos, on ilmanmoista</lem>
+                </app> ainetta, jota nimitetään <app id="var5308" type="sub">
+                    <lem><hi rend="expanded">hiilihapoksi;</hi> se on vahingollista
+                        tulelle</lem>
+                </app> ja <app id="var5309" type="sub">
+                    <lem>hengitykselle.</lem>
+                </app></p>
+            <p style="romanType"><app id="var5310" type="sub">
+                    <lem>Kauvan</lem>
+                </app> luulin ilman olevan <app id="var5311" type="sub">
+                    <lem>yksinkertaista ainetta;</lem>
+                </app> mutta kaupungissa näin <app id="var5312" type="sub">
+                    <lem>apteekarin eroittelevan</lem>
+                </app> ilmaa <app id="var5313" type="sub">
+                    <lem>kummallisiin lasiin.</lem>
+                </app> Siitä <app id="var5314" type="sub">
+                    <lem>sai hän</lem>
+                </app> kaksi <app id="var5315" type="sub">
+                    <lem>toisistaan erilaista yksinkertaista ainetta. Yhtä kutsuttiin <hi rend="expanded">hapoksi,</hi></lem>
+                </app> sillä sitä on <app id="var5316" type="sub">
+                    <lem>happoaineessa,</lem>
+                </app> ja <app id="var5317" type="sub">
+                    <lem>se on happo,</lem>
+                </app> joka pitää <app id="var5318" type="sub">
+                    <lem>kaikkia</lem>
+                </app> elossa ja tekee tulen palavaksi. Mutta jos <app id="var5319" type="sub">
+                    <lem>happo</lem>
+                </app> olisi <app id="var5320" type="sub">
+                    <lem>yksinään ilmassa,</lem>
+                </app> panisi pieninkin tulen kipinä koko maan palamaan. <app id="var5321" type="sub">
+                    <lem>Siksi</lem>
+                </app> sekoitti Jumala ilmaan toistakin ainetta, jonka nimi on <app id="var5322" type="sub">
+                    <lem><hi rend="expanded">tuko</hi> eli <hi rend="expanded">häky,</hi>
+                        sillä se voipi yk<pb type="orig" n="156"/>sinään tukeuttaa
+                        tulta</lem>
+                </app> ja <app id="var5323" type="sub">
+                    <lem>ihmisiä.</lem>
+                </app> Vedessä on <app id="var5324" type="sub">
+                    <lem>happoa</lem>
+                </app> ja <app id="var5325" type="sub">
+                    <lem>muuta ilmanlajia,</lem>
+                </app> joka <app id="var5326" type="sub">
+                    <lem>veden vuoksi</lem>
+                </app> on <app id="var5327" type="sub">
+                    <lem>nimeltä <hi rend="expanded">vety.</hi></lem>
+                </app> Nämä kolme <app id="var5328" type="sub">
+                    <lem>ilman-lajia: happo,</lem>
+                </app> vety ja <app id="var5329" type="sub">
+                    <lem>tuko, kuin myös ne</lem>
+                </app> kaksi <app id="var5330" type="sub">
+                    <lem>kovaa ainetta kuutilo (kiiseli)</lem>
+                </app> ja hiili ovat <app id="var5331" type="sub">
+                    <lem>yleisimmät luonnon kunnissa. Kasvut ovat enimmästi yhdistettyjä
+                        hiilestä, haposta</lem>
+                </app> ja <app id="var5332" type="sub">
+                    <lem>vedystä.</lem>
+                </app> Mutta eläinten ruumiissa <app id="var5333" type="int">
+                    <lem>on,</lem>
+                </app> paitsi <app id="var5334" type="int">
+                    <lem>näitä,</lem>
+                </app> vielä <app id="var5335" type="sub">
+                    <lem>tukoa.</lem>
+                </app></p>
+            <head style="romanType"><hi rend="bold"><hi rend="expanded">Äänestä.</hi></hi></head>
+            <p style="romanType">Eräänä päivänä <app id="var5336" type="sub">
+                    <lem>otti isä</lem>
+                </app> pyssynsä ja meni ampumaan pyitä <app id="var5337" type="sub">
+                    <lem>lehdikossa.</lem>
+                </app> Antakaapa <app id="var5338" type="sub">
+                    <lem>minulleki</lem>
+                </app> pyssy ja ruutia, sanoin minä.</p>
+            <p style="romanType"><app id="var5339" type="sub">
+                    <lem>Ei,</lem>
+                </app> sanoi isä; <app id="var5340" type="sub">
+                    <lem>ei</lem>
+                </app> vielä, ennenkuin tulet vanhemmaksi. Ruuti ja <app id="var5341" type="sub">
+                    <lem>pyssyt</lem>
+                </app> ovat vaarallisia leikkikaluja.</p>
+            <p style="romanType"><anchor id="struct178a"/>Miksi niin?<anchor id="struct178b"/></p>
+            <p><anchor id="struct179a"/>
+                <anchor id="struct179b"/></p>
+            <p style="romanType"><app id="var5342" type="sub">
+                    <lem>Siksi</lem>
+                </app> että <app id="var5343" type="sub">
+                    <lem>ruutilla</lem>
+                </app> on pyssyssä suuri voima. Jos panet sitä <app id="var5344" type="sub">
+                    <lem>irtaalleen tuohon aalle</lem>
+                </app> ja <app id="var5345" type="sub">
+                    <lem>sytytät,</lem>
+                </app> niin <app id="var5346" type="sub">
+                    <lem>sähähtää se ainoasti ylös.</lem>
+                </app> Mutta jos panet sitä <app id="var5347" type="sub">
+                    <lem>ahtaasen pyssyn piippuun</lem>
+                </app> ja <app id="var5348" type="sub">
+                    <lem>tukit etulaahingin eli luodin päälle,</lem>
+                </app> niin on <app id="var5349" type="sub">
+                    <lem>ruutilla joka kulmalla</lem>
+                </app> jotakin <app id="var5350" type="sub">
+                    <lem>edessä.</lem>
+                </app> Kun <app id="var5351" type="sub">
+                    <lem>se sytytetään,</lem>
+                </app> palaa se silmänräpäyksessä <app id="var5352" type="sub">
+                    <lem>ilmanmoisiksi aineiksi.</lem>
+                </app> Sellaiset aineet ovat <hi rend="expanded">hyvin </hi><app id="var5353" type="sub">
+                    <lem><hi rend="expanded">pontevia</hi></lem>
+                </app> ja paisuvat ihmeteltävällä voimalla. <app id="var5354" type="sub">
+                    <lem>Ruutin</lem>
+                </app> palaessa pyrkivät kaasut ulos <app id="var5355" type="sub">
+                    <lem>ja pakkauvat kaikella voimalla sille suunnalle, jossa kohtaavat
+                        heikointa vastusta. Pah, paukahtaa pyssy,</lem>
+                </app> ja <app id="var5356" type="sub">
+                    <lem>etulaahinki eli</lem>
+                </app> luoti lentää pois. Ja jos <app id="var5357" type="sub">
+                    <lem>ei ulkouta pois edestä, kun pyssy on</lem>
+                </app> ruosteinen <app id="var5358" type="sub">
+                    <lem>ja kehnosti laahattu,</lem>
+                </app> niin <app id="var5359" type="sub">
+                    <lem>pyssyn-piippu</lem>
+                </app> räjähtää rikki. <app id="var5360" type="sub">
+                    <lem>Vastustaminen</lem>
+                </app> ei <app id="var5361" type="sub">
+                    <lem>siinä auta, vaikka olisi vuori edessä.</lem>
+                </app> Sillä jos <app id="var5362" type="sub">
+                    <lem>vuoreen hakataan reikä,</lem>
+                </app> ja <app id="var5363" type="sub">
+                    <lem>tämä laahataan ruutilla,</lem>
+                </app> niin kivi räjähtää kappaleiksi.</p>
+            <p style="romanType">Mutta <app id="var5364" type="sub">
+                    <lem>miksi</lem>
+                </app> paukahtaa pyssy?</p>
+            <p style="romanType">Sen vaikuttaa ilma. Kun ruuti <app id="var5365" type="sub">
+                    <lem>pakottaa etulaahingin eli</lem>
+                </app> luodin pois, <app id="var5366" type="sub">
+                    <lem>jääpi ilmasta tyhjä sija pyssyn-piippuun.</lem>
+                </app> Siihen tyhjään <app id="var5367" type="sub">
+                    <lem>sijaan syöstäypi ilma vauhdissa, josta tulee järinä,</lem>
+                </app> ja siitä syntyy paukaus. Kuka uskoisi <app id="var5368" type="sub">
+                    <lem>tuon majesteetillisen ukkoisen jyrinän tulevan</lem>
+                </app> ilmasta? Mutta niin on <app id="var5369" type="sub">
+                    <lem>se kumminkin.</lem>
+                </app> Missä <app id="var5370" type="sub">
+                    <lem>leimaus kulkee</lem>
+                </app> pilvien <app id="var5371" type="sub">
+                    <lem>välissä, ajaa</lem>
+                </app> se ilman pois. Kohta <app id="var5372" type="sub">
+                    <lem>syöstäypi uutta</lem>
+                </app> ilmaa siihen tyhjään paikkaan, ja <app id="var5373" type="sub">
+                    <lem>niin</lem>
+                </app> kuuluu <app id="var5374" type="sub">
+                    <lem>järäys. <pb type="orig" n="157"/>Sitte kaikkuu järäys
+                        pilvissä</lem>
+                </app> ja maasta, niin että <app id="var5375" type="sub">
+                    <lem>luulee kuulevansa koko rivin järäyksiä.</lem>
+                </app></p>
+            <p style="romanType">Jos <app id="var5376" type="sub">
+                    <lem>huiskin</lem>
+                </app> ruoskalla taikka <app id="var5377" type="sub">
+                    <lem>saikaralla ilmassa, kuuluu</lem>
+                </app> siitä suhina. Jos <app id="var5378" type="sub">
+                    <lem>soitan kirkon kelloa,</lem>
+                </app> niin lyöpi kieli kellon <app id="var5379" type="sub">
+                    <lem>laitaan.</lem>
+                </app> Kello alkaa <app id="var5380" type="sub">
+                    <lem>juurikuin</lem>
+                </app> täristä, ja tärinä <app id="var5381" type="sub">
+                    <lem>tulee</lem>
+                </app> ympärillä olevaan ilmaan. <app id="var5382" type="sub">
+                    <lem>Samalla lailla, kun näpsäyttää</lem>
+                </app> viulun <app id="var5383" type="sub">
+                    <lem>kieltä, näkee selvästi, kuinka kieli tärisee jälestäpäin,</lem>
+                </app> ja <app id="var5384" type="sub">
+                    <lem>tärinä yhtyy siihen herkkä-liikuntoiseen</lem>
+                </app> ilmaan. <app id="var5385" type="sub">
+                    <lem>Siitä voin käsittää kuinka ääni tulee ilman tärinästä. Likimmäinen
+                        ilma panee aina eteenpäin etimmäisen</lem>
+                </app> ilman <app id="var5386" type="sub">
+                    <lem>tärisemään,</lem>
+                </app> ja <app id="var5387" type="sub">
+                    <lem>niin menee</lem>
+                </app> ääni ilman <app id="var5388" type="sub">
+                    <lem>läpi, välistä</lem>
+                </app> pitemmän, <app id="var5389" type="sub">
+                    <lem>välistä lyhyemmän</lem>
+                </app> matkan, aina sen <app id="var5390" type="sub">
+                    <lem>jälkeen kuin tärinä on</lem>
+                </app> kovempi <app id="var5391" type="sub">
+                    <lem>eli heikompi.</lem>
+                </app> Tyynellä ilmalla <app id="var5392" type="sub">
+                    <lem>kuulen kirkon kelloin</lem>
+                </app> äänen <app id="var5393" type="sub">
+                    <lem>hyvänkin peninkulman päähän merelle;</lem>
+                </app> mutta tuulella kuuluu se <app id="var5394" type="sub">
+                    <lem>etemmä sille suunnalle, johonpäin</lem>
+                </app> tuuli <app id="var5395" type="sub">
+                    <lem>kulkee.</lem>
+                </app> Kun <app id="var5396" type="sub">
+                    <lem>vihollisten</lem>
+                </app> sotalaivat <app id="var5397" type="sub">
+                    <lem>viimein</lem>
+                </app> ampuivat <app id="var5398" type="sub">
+                    <lem>Veaporin</lem>
+                </app> linnaa, kuului <app id="var5399" type="sub">
+                    <lem>järinä</lem>
+                </app> 30 <app id="var5400" type="sub">
+                    <lem>peninkulman</lem>
+                </app> päähän, kun <app id="var5401" type="sub">
+                    <lem>korvansa</lem>
+                </app> pani <app id="var5402" type="sub">
+                    <lem>maata</lem>
+                </app> vasten. Siinä <app id="var5403" type="sub">
+                    <lem>kulki tärinä</lem>
+                </app> maan <app id="var5404" type="sub">
+                    <lem>läpitse;</lem>
+                </app> muuten ei olisi <app id="var5405" type="sub">
+                    <lem>kuultu tärinää</lem>
+                </app> niin <app id="var5406" type="sub">
+                    <lem>kauvas.</lem>
+                </app></p>
+            <p style="romanType">Kun <app id="var5407" type="sub">
+                    <lem>läiskyttää veteen, lyöpi kämmeniään yhteen, polkee</lem>
+                </app> jalkaa <app id="var5408" type="sub">
+                    <lem>eli lyöpi</lem>
+                </app> rumpua, <app id="var5409" type="sub">
+                    <lem>tulee aina erinäinen ääni ilman tärinästä.</lem>
+                </app> Kun <app id="var5410" type="sub">
+                    <lem>puhun, vihellän eli laulan (veisaan),</lem>
+                </app> tulee ilma <app id="var5411" type="sub">
+                    <lem>keuhkoistani</lem>
+                </app> ja panee <app id="var5412" type="sub">
+                    <lem>ulkopuolella olevan ilman tärisemään. Samalla lailla soitetaan
+                        uruilla</lem>
+                </app> kirkossa kauniita virsiä. <app id="var5413" type="sub">
+                    <lem>Keuhkoin sijassa</lem>
+                </app> on uruissa suuret palkeet, jotka puhaltavat ilmaa <app id="var5414" type="sub">
+                    <lem>piippuihin urkuin-polkijan astuessa polkimille. Sitte tulee
+                        siitä</lem>
+                </app> ilman <app id="var5415" type="sub">
+                    <lem>tärinä (vipajaminen) urkuin-pilleissä olevissa</lem>
+                </app> pienissä <app id="var5416" type="sub">
+                    <lem>reijissä,</lem>
+                </app> ja <app id="var5417" type="sub">
+                    <lem>jokainen pilli</lem>
+                </app> antaa <app id="var5418" type="sub">
+                    <lem><hi rend="expanded">äänteen.</hi> Laulu</lem>
+                </app> ja kaikkinainen <hi rend="expanded">soitto,</hi> joka <app id="var5419" type="sub">
+                    <lem>hartaasti suloittaa</lem>
+                </app> ihmisen mieltä, on jakso <app id="var5420" type="sub">
+                    <lem>äänteitä,</lem>
+                </app> joista yhteensä tulee <app id="var5421" type="sub">
+                    <lem><hi rend="expanded">nuotti.</hi></lem>
+                </app> Ja kun <app id="var5422" type="sub">
+                    <lem>usioita äänteitä sointuu</lem>
+                </app> yhdeksi <app id="var5423" type="sub">
+                    <lem>sulo-ääneksi, kutsutaan</lem>
+                </app> sitä <app id="var5424" type="sub">
+                    <lem><hi rend="expanded">akkordiksi</hi> (sointumaksi). Sitä soitetaan
+                        monellaisilla puhallus-soittimilla,</lem>
+                </app> niinkuin <app id="var5425" type="sub">
+                    <lem>huiluilla, klarineteilla</lem>
+                </app> ja <app id="var5426" type="sub">
+                    <lem>vaskitorvilla.</lem>
+                </app> Mutta viulu ja <app id="var5427" type="sub">
+                    <lem>kantele</lem>
+                </app> ja <app id="var5428" type="sub">
+                    <lem>piano kuin myös monta muuta</lem>
+                </app> ovat <app id="var5429" type="sub">
+                    <lem><hi rend="expanded">jänne-soittimia.</hi></lem>
+                </app> Kerran <app id="var5430" type="sub">
+                    <lem>kiinnitin</lem>
+                </app> rautalangan kahden huoneen välille, <app id="var5431" type="sub">
+                    <lem>jota ei ollut pitkältä. Kuulinpa</lem>
+                </app> rautalangan <app id="var5432" type="sub">
+                    <lem>tärisevän</lem>
+                </app> tuulessa, ja siitä <app id="var5433" type="sub">
+                    <lem>tuli</lem>
+                </app> pitkä, kaunis <app id="var5434" type="sub">
+                    <lem>surkea</lem>
+                </app> ääni. Jota lyhyempi <app id="var5435" type="sub">
+                    <lem>lanka</lem>
+                </app> oli, sitä kimeämpi oli ääni. <app id="var5436" type="sub">
+                    <lem>Siksi saadaan</lem>
+                </app> eri <app id="var5437" type="sub">
+                    <lem>ääni</lem>
+                </app> samasta <app id="var5438" type="sub">
+                    <lem>viulun kielestäkin,</lem>
+                </app> kun <app id="var5439" type="sub">
+                    <lem>sormitetaan</lem>
+                </app> eri paikoille kieltä. Ja sisältä on viulu <pb type="orig" n="158"/><app id="var5440" type="sub">
+                    <lem>tyhjä,</lem>
+                </app> ja <app id="var5441" type="sub">
+                    <lem>sillä</lem>
+                </app> ovat <app id="var5442" type="sub">
+                    <lem>ohuet seinät, siksi tärisevät seinätkin</lem>
+                </app> ja <app id="var5443" type="sub">
+                    <lem>enentävät äännetten</lem>
+                </app> voimaa.</p>
+            <p style="romanType">Kerran näin <app id="var5444" type="sub">
+                    <lem>merkillistä,</lem>
+                </app> jota en kohta <app id="var5445" type="sub">
+                    <lem>voinut käsittää.</lem>
+                </app> Mies hakkasi puita <app id="var5446" type="sub">
+                    <lem>ulahtaalla</lem>
+                </app> metsässä. <app id="var5447" type="sub">
+                    <lem>Jokaisella lyönnillä</lem>
+                </app> näin kirveen <app id="var5448" type="sub">
+                    <lem>putoavan,</lem>
+                </app> mutta vasta vähän ajan perästä kuulin lyönnin. Muistinpa siitä, että
+                    <app id="var5449" type="sub">
+                    <lem>olin</lem>
+                </app> usein nähnyt savun <app id="var5450" type="sub">
+                    <lem>ampumisesta paljoa ennemmin</lem>
+                </app> kuin <app id="var5451" type="sub">
+                    <lem>kuulin paukauksen.</lem>
+                </app> Nyt ymmärrän <app id="var5452" type="sub">
+                    <lem>syyn siihen.</lem>
+                </app> Valo kulkee <app id="var5453" type="sub">
+                    <lem>sukkelammasti</lem>
+                </app> kuin ääni. <app id="var5454" type="sub">
+                    <lem>Siksi</lem>
+                </app> näen <app id="var5455" type="sub">
+                    <lem>kirveellä lyönnin</lem>
+                </app> ja pyssyn savun, ennenkuin kuulen <app id="var5456" type="sub">
+                    <lem>äänen lyönnistä</lem>
+                </app> ja <app id="var5457" type="sub">
+                    <lem>paukauksen ampumisesta.</lem>
+                </app> Ääni kulkee <app id="var5458" type="sub">
+                    <lem>558 kyynärää</lem>
+                </app> sekunnissa eli <app id="var5459" type="sub">
+                    <lem>ei täyttä peninkulmaa</lem>
+                </app> puolessa minuutissa. Ja jos <app id="var5460" type="sub">
+                    <lem>tahdon kello</lem>
+                </app> kädessä <app id="var5461" type="sub">
+                    <lem>laskea ajan</lem>
+                </app> pyssyn savun ja paukauksen <app id="var5462" type="sub">
+                    <lem>välillä,</lem>
+                </app> niin <app id="var5463" type="sub">
+                    <lem>saatan</lem>
+                </app> sanoa <app id="var5464" type="sub">
+                    <lem>justiin:</lem>
+                </app> nyt on ampuja niin <app id="var5465" type="sub">
+                    <lem>ja</lem>
+                </app> niin <app id="var5466" type="sub">
+                    <lem>kaukana.</lem>
+                </app></p>
+            <p style="romanType"><app id="var5467" type="sub">
+                    <lem>”Metsässä huutava saa vastauksen”, sanotaan sananlaskussa.</lem>
+                </app> Sen olen usein <app id="var5468" type="sub">
+                    <lem>kuullutkin,</lem>
+                </app> varsinkin jos vuoria <app id="var5469" type="sub">
+                    <lem>eli kukkuloita</lem>
+                </app> on ollut <app id="var5470" type="sub">
+                    <lem>likellä.</lem>
+                </app> Sitä <app id="var5471" type="sub">
+                    <lem>kutsutaan <hi rend="expanded">kaikuksi.</hi> Ensin luulin
+                        piilouneen</lem>
+                </app> metsään <app id="var5472" type="sub">
+                    <lem>jonkun, joka nyt</lem>
+                </app> matki minua. Mutta <app id="var5473" type="sub">
+                    <lem>sitte</lem>
+                </app> havaitsin, että <app id="var5474" type="sub">
+                    <lem>se tärisevä</lem>
+                </app> ilma ikäänkuin <app id="var5475" type="sub">
+                    <lem>kimpousi takasi</lem>
+                </app> puista <app id="var5476" type="sub">
+                    <lem>eli</lem>
+                </app> vuorista ja <app id="var5477" type="sub">
+                    <lem>tuli</lem>
+                </app> jälleen <app id="var5478" type="sub">
+                    <lem>tyköni,</lem>
+                </app> kun huusin. <app id="var5479" type="sub">
+                    <lem>Se</lem>
+                </app> kuuluu kyllä <app id="var5480" type="sub">
+                    <lem>naurulliselle</lem>
+                </app> ja <app id="var5481" type="sub">
+                    <lem>kummalle. Tuvankin tykönä kuuluu kaiku seinää vasten.</lem>
+                </app> Mutta <app id="var5482" type="sub">
+                    <lem>seisoessani 30 kyynärää</lem>
+                </app> likempänä <app id="var5483" type="sub">
+                    <lem>seinästä en</lem>
+                </app> kuule enää kaikua, sillä ääni <app id="var5484" type="sub">
+                    <lem>palaa</lem>
+                </app> niin <app id="var5485" type="sub">
+                    <lem>sukkelasti takasi, etten voi eroittaa oman ääneni ja sen kaikumisen
+                        väliä.</lem>
+                </app></p>
+            <head style="romanType"><hi rend="bold"/><app id="var5486" type="sub">
+                    <lem><hi rend="bold"><hi rend="expanded">Ilman-suunnista</hi></hi></lem>
+                </app><hi rend="bold"><hi rend="expanded"> ja tuulista.</hi></hi></head>
+            <p style="romanType"><app id="var5487" type="sub">
+                    <lem>Tahdotko tietää ilman-suuntia,</lem>
+                </app> niin merkitse se suunta, <app id="var5488" type="sub">
+                    <lem>jolla</lem>
+                </app> näet auringon olevan puolenpäivän aikana, <app id="var5489" type="sub">
+                    <lem>justiin kun</lem>
+                </app> kello <app id="var5490" type="sub">
+                    <lem>on 12. Käännä sitte selkäsi</lem>
+                </app> aurinkoon päin, niin <app id="var5491" type="sub">
+                    <lem>nyt ovat</lem>
+                </app> silmäsi <hi rend="expanded">pohjoista</hi> ja selkäsi <hi rend="expanded">etelää</hi> kohti. <app id="var5492" type="sub">
+                    <lem>Oikialla</lem>
+                </app> kädelläsi on <app id="var5493" type="int">
+                    <lem><hi rend="expanded">itä,</hi></lem>
+                </app> ja vasemmalla kädelläsi <hi rend="expanded">länsi.</hi>
+                <app id="var5494" type="sub">
+                    <lem>Keskellä pohjoisen</lem>
+                </app> ja idän <app id="var5495" type="sub">
+                    <lem>väliä</lem>
+                </app> on <app id="var5496" type="sub">
+                    <lem><hi rend="expanded">itäpohjoinen.</hi> Keskellä idän</lem>
+                </app> ja etelän <app id="var5497" type="sub">
+                    <lem>väliä</lem>
+                </app> on <app id="var5498" type="sub">
+                    <lem><hi rend="expanded">itä-etelä.</hi></lem>
+                </app> Etelän ja lännen <app id="var5499" type="sub">
+                    <lem>välin keskellä</lem>
+                </app> on <app id="var5500" type="sub">
+                    <lem><hi rend="expanded">länsi-etelä.</hi></lem>
+                </app> Lännen ja pohjoisen <app id="var5501" type="sub">
+                    <lem>välin keskellä</lem>
+                </app> on <app id="var5502" type="sub">
+                    <lem><hi rend="expanded">länsipohjoinen</hi> eli <hi rend="expanded">luode.</hi></lem>
+                </app><hi rend="expanded"> Nyt</hi> tunnet <app id="var5503" type="sub">
+                    <lem>tavallisimmat ilman-suunnat.</lem>
+                </app> Merimies jakaa ne <app id="var5504" type="sub">
+                    <lem>sitte</lem>
+                </app> pienempiin <app id="var5505" type="sub">
+                    <lem>piiruihin kompassille.</lem>
+                </app></p>
+            <p style="romanType">Tuulet <app id="var5506" type="sub">
+                    <lem>jaetaan ilman-suuntain</lem>
+                </app> mukaan, niin että jokainen tuuli <app id="var5507" type="sub">
+                    <lem>saapi nimen</lem>
+                </app> siitä <app id="var5508" type="sub">
+                    <lem>mailman suunnasta, josta<pb type="orig" n="159"/>päin</lem>
+                </app> se puhaltaa. Neljä <app id="var5509" type="sub">
+                    <lem>päätuulta ovat:</lem>
+                </app> kylmä <hi rend="expanded">pohjoinen,</hi> joka tuopi hallaa; sateinen
+                    <hi rend="expanded">itä,</hi> joka antaa vettä ja lunta; lämmin <hi rend="expanded">etelä,</hi> joka tuulee kesällä, ja lauhkea länsi, joka
+                    <app id="var5510" type="sub">
+                    <lem>tuopi</lem>
+                </app> meille kaunista ilmaa. Pohjoinen on <app id="var5511" type="sub">
+                    <lem>siksi kylmä,</lem>
+                </app> että se <app id="var5512" type="sub">
+                    <lem>tuulee</lem>
+                </app> sellaisilta <app id="var5513" type="sub">
+                    <lem>tienoilta, joissa</lem>
+                </app> ei <app id="var5514" type="sub">
+                    <lem>lumi koskaan</lem>
+                </app> sula. Kaukana <app id="var5515" type="sub">
+                    <lem>tuolla etelässä</lem>
+                </app> puhaltaa <app id="var5516" type="sub">
+                    <lem>kuumia hieta-aavoja pitkin</lem>
+                </app> tuuli, <app id="var5517" type="sub">
+                    <lem>nimeltä Samum ja</lem>
+                </app> on niin kuuma, että se tappaa ihmisiä. Kun sellainen tuuli kulkee
+                meren ylitse, jäähtyy se; mutta jos meri ei ole laaja, saattaa se kuitenkin
+                olla hirveän kuuma. <app id="var5518" type="sub">
+                    <lem>Muutamilla tienoilla</lem>
+                </app> maata tuulee koko puolen <app id="var5519" type="sub">
+                    <lem>vuotta</lem>
+                </app> sama <app id="var5520" type="sub">
+                    <lem>tuuli, ja maa-pallon keskustalla tuulee alinomaa itä.
+                        Sellaisia</lem>
+                </app> tuulia <app id="var5521" type="sub">
+                    <lem>kutsutaan <hi rend="expanded">vuotuisiksi tuuliksi,</hi></lem>
+                </app> ja <app id="var5522" type="sub">
+                    <lem>ne pitää kaikkein merimiesten tarkasti</lem>
+                </app> tuntea. <app id="var5523" type="sub">
+                    <lem>Hirmumyrskyjä pauhaa</lem>
+                </app> usein lämpimimmissä maissa ja <app id="var5524" type="sub">
+                    <lem>ilmauvat</lem>
+                </app> siellä yhtäkkiä. Juuri kun ilma on kaunis ja tyyni, nousee <app id="var5525" type="sub">
+                    <lem>aivan</lem>
+                </app> pieni pilvi <app id="var5526" type="sub">
+                    <lem>selvälle</lem>
+                </app> taivaalle. <app id="var5527" type="sub">
+                    <lem>Joka</lem>
+                </app> silloin makaa, <app id="var5528" type="sub">
+                    <lem>hänen täytyy</lem>
+                </app> nousta <app id="var5529" type="sub">
+                    <lem>aivan sukkelasti ylös sängystään,</lem>
+                </app> ja <app id="var5530" type="sub">
+                    <lem>joka</lem>
+                </app> istuu pöydässä, ei <app id="var5531" type="sub">
+                    <lem>hän ennätä päättää atriaansa. Kaikkein</lem>
+                </app> täytyy rientää ulos ja <app id="var5532" type="sub">
+                    <lem>nakkauta</lem>
+                </app> maahan, sillä <app id="var5533" type="sub">
+                    <lem>vähäisessä ajassa</lem>
+                </app> on <app id="var5534" type="sub">
+                    <lem>kukatiesi koko huone mennyt tuuleen.</lem>
+                </app></p>
+            <head style="romanType"><hi rend="bold"><hi rend="expanded">Höyrykoneista ja
+                        rautateistä.</hi></hi></head>
+            <p style="romanType">Jos <app id="var5535" type="sub">
+                    <lem>annan olu-putellin</lem>
+                </app> seisoa <app id="var5536" type="sub">
+                    <lem>uunilla</lem>
+                </app> lämpimässä, paukauttaa <app id="var5537" type="sub">
+                    <lem>oluessa oleva</lem>
+                </app> hiilihappo korkin pois <app id="var5538" type="sub">
+                    <lem>sen suusta.</lem>
+                </app> Jos <app id="var5539" type="sub">
+                    <lem>katan</lem>
+                </app> kiehuvan padan, niin ettei höyry pääse siitä ulos, <app id="var5540" type="sub">
+                    <lem>lähättää</lem>
+                </app> höyryn voima kannen pois. <app id="var5541" type="sub">
+                    <lem>Kaikki tämä tulee ilmalajien</lem>
+                </app> ja <app id="var5542" type="sub">
+                    <lem>höyryin suunnattomasta paisuntovoimasta. Mies, nimeltä VWatt,</lem>
+                </app> keksi <app id="var5543" type="sub">
+                    <lem>höyryn voiman kokoomisen. Sitte oli</lem>
+                </app> Amerikassa <app id="var5544" type="int">
+                    <lem>mies</lem>
+                </app> nimeltä <hi rend="expanded">Fulton.</hi>
+                <app id="var5545" type="sub">
+                    <lem>Vähitellen</lem>
+                </app> johtui <app id="var5546" type="sub">
+                    <lem>hänelle mieleen</lem>
+                </app> tehdä raudasta kone, <app id="var5547" type="sub">
+                    <lem>jonka</lem>
+                </app> suuressa kattilassa kiehuvan veden <app id="var5548" type="sub">
+                    <lem><hi rend="expanded">höyry-</hi>voima saattaisi panna</lem>
+                </app> liikkeelle. Hän alkoi rakentaa pientä laivaa, <app id="var5549" type="sub">
+                    <lem>johon valmisti sellaista konetta.</lem>
+                </app> Kaikki, jotka tätä katselivat, nauroivat ja sanoivat: Fulton on <app id="var5550" type="sub">
+                    <lem>hulluna!</lem>
+                </app> Mutta Fulton ei ollutkaan <app id="var5551" type="sub">
+                    <lem>hulluna,</lem>
+                </app> hän oli <app id="var5552" type="sub">
+                    <lem>vaan</lem>
+                </app> köyhä. <app id="var5553" type="sub">
+                    <lem>Kukaan ei</lem>
+                </app> tahtonut lainata hänelle rahaa sellaiseen <app id="var5554" type="sub">
+                    <lem>kokeesen,</lem>
+                </app> jota <app id="var5555" type="sub">
+                    <lem>kutsuivat hulluksi yritykseksi.</lem>
+                </app> Mutta Fulton ei luopunut <app id="var5556" type="sub">
+                    <lem>yrityksestään,</lem>
+                </app> ja <app id="var5557" type="sub">
+                    <lem>monia huolia ja vaivoja</lem>
+                </app> kärsittyään sai hän laivansa valmiiksi. Nyt <app id="var5558" type="sub">
+                    <lem>saivat kaikki nähdä laivan lähtevän liikkeelle kulkemaan</lem>
+                </app> eteenpäin <app id="var5559" type="sub">
+                    <lem>il<pb type="orig" n="160"/>man purjeitta</lem>
+                </app> ja airoitta, <app id="var5560" type="sub">
+                    <lem>ainoasti höyry-voimalla.</lem>
+                </app> Ne, jotka <app id="var5561" type="sub">
+                    <lem>enimmän</lem>
+                </app> nauroivat, <app id="var5562" type="sub">
+                    <lem>kummastuivat</lem>
+                </app> nyt <app id="var5563" type="sub">
+                    <lem>enimmän. Fulton’in</lem>
+                </app> nimi tuli kuuluisaksi, ja hänen <app id="var5564" type="sub">
+                    <lem>keksimisensä tuli merkillisimmäksi</lem>
+                </app> ja <app id="var5565" type="sub">
+                    <lem>hyödyllisimmäksi, kuin</lem>
+                </app> koskaan <app id="var5566" type="sub">
+                    <lem>muut tehdyt kokeet.</lem>
+                </app> Sillä <app id="var5567" type="sub">
+                    <lem>nyt, jo viidenkymmenen</lem>
+                </app> vuoden kuluttua, kulkee tuhansittain <hi rend="expanded">höyrylaivoja,</hi>
+                <app id="var5568" type="sub">
+                    <lem>jotka eivät tarvitse</lem>
+                </app> kuluttaa kallista aikaa <app id="var5569" type="sub">
+                    <lem>tyynellä</lem>
+                </app> ja <app id="var5570" type="sub">
+                    <lem>vastaisella. Laiva, jonka</lem>
+                </app> tässä näet, <app id="var5571" type="sub">
+                    <lem>on höyrylaiva. Laivan</lem>
+                </app> sisässä on <app id="var5572" type="sub">
+                    <lem>uuni, jossa</lem>
+                </app> kiehuu suuressa <app id="var5573" type="sub">
+                    <lem>höyry-kattilassa vesi,</lem>
+                </app> ja savu nousee <app id="var5574" type="sub">
+                    <lem>ylös korsteenista.</lem>
+                </app> Vesihöyryt pyörittävät konetta, ja kone <app id="var5575" type="sub">
+                    <lem>vetää</lem>
+                </app> laivan <app id="var5576" type="sub">
+                    <lem>sivuilla olevat rattaat pyörimään. Ratasten pyöriessä lykkelevät
+                        ratasten</lem>
+                </app> siivet vettä pois <app id="var5577" type="int">
+                    <lem>edestään,</lem>
+                </app> niinkuin airotkin <app id="var5578" type="sub">
+                    <lem>tekevät soudettaessa.</lem>
+                </app> Ja kun kone vetää <app id="var5579" type="sub">
+                    <lem>niin paljo,</lem>
+                </app> kuin esimerkiksi viisikymmentä <app id="var5580" type="sub">
+                    <lem>hevoista vetää, sanotaan:</lem>
+                </app> koneella <app id="var5581" type="sub">
+                    <lem>on 50:nen hevoisen</lem>
+                </app> voima. Paitsi <app id="var5582" type="sub">
+                    <lem>tätä</lem>
+                </app> tekee höyry <app id="var5583" type="sub">
+                    <lem>työtä työ-tehtaissa ja vapriikeissa, niin etteivät</lem>
+                </app> monen tuhannen ihmisen voimat <app id="var5584" type="sub">
+                    <lem>voisi sitä toimittaa.</lem>
+                </app> Ja <app id="var5585" type="sub">
+                    <lem>joka päivä aletaan</lem>
+                </app> höyryä <app id="var5586" type="sub">
+                    <lem>käyttää uusihin toimihin,</lem>
+                </app> niin että <app id="var5587" type="sub">
+                    <lem>ihmisen valta</lem>
+                </app> luonnon <app id="var5588" type="sub">
+                    <lem>ylitse tässä ilmestyy selvemmästi</lem>
+                </app> kuin <app id="var5589" type="sub">
+                    <lem>missään muussa kohdassa.</lem>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType">Sellaisia <app id="var5590" type="sub">
+                    <lem>kuormia,</lem>
+                </app> joita <app id="var5591" type="sub">
+                    <lem>ennen monta</lem>
+                </app> sataa <app id="var5592" type="sub">
+                    <lem>hevoista vaivoin veti pitkin tavallisia maanteitä,</lem>
+                </app> vetää nyt yksi ainoa höyrykone <app id="var5593" type="sub">
+                    <lem>paljoa helpommasti</lem>
+                </app> ja <app id="var5594" type="sub">
+                    <lem>sukkelammasti</lem>
+                </app>
+                <pb type="orig" n="161"/><hi rend="expanded">rautateillä.</hi> Tässä näet
+                rautatien kuvan; <app id="var5595" type="sub">
+                    <lem>niin</lem>
+                </app> sitä <app id="var5596" type="sub">
+                    <lem>kutsutaan, kun</lem>
+                </app> siinä <app id="var5597" type="sub">
+                    <lem>ovat raudasta ratasten jälet,</lem>
+                </app> joita myöten <app id="var5598" type="sub">
+                    <lem>rattaat</lem>
+                </app> aivan keveästi <app id="var5599" type="sub">
+                    <lem>pyörivät eteenpäin. Etu-nenässä</lem>
+                </app> kulkee <app id="var5600" type="sub">
+                    <lem>höyrykone ja</lem>
+                </app> vetää perässään <app id="var5601" type="sub">
+                    <lem>koko rivin vaunuja, joita saattaa olla paljoa enemmän kuin tässä
+                        näkyykään.</lem>
+                </app> Muutamissa vaunuissa on <app id="var5602" type="sub">
+                    <lem>kaluja,</lem>
+                </app> ja toisissa istuu ihmisiä. <app id="var5603" type="sub">
+                    <lem>Rautatien</lem>
+                </app> ei saa olla <app id="var5604" type="sub">
+                    <lem>mäkisen</lem>
+                </app> eikä kovin <app id="var5605" type="sub">
+                    <lem>mutkaisen. Saatavaksi tätä</lem>
+                </app> suoraksi ja tasaiseksi, <app id="var5606" type="sub">
+                    <lem>on</lem>
+                </app> monissa <app id="var5607" type="sub">
+                    <lem>maanpaikoissa säretty</lem>
+                </app> kallioiden <app id="var5608" type="sub">
+                    <lem>läpitse kulkujouva</lem>
+                </app> ja <app id="var5609" type="sub">
+                    <lem>siltoja rakennettu</lem>
+                </app> järvien <app id="var5610" type="sub">
+                    <lem>ylitse. Monissa</lem>
+                </app> suurissa kaupungeissa kulkee rautatie <app id="var5611" type="sub">
+                    <lem>huoneiden kattoin</lem>
+                </app> päällitse. Ja nykyjään on rakennettu riippuva <app id="var5612" type="sub">
+                    <lem>silta rautatien kanssa sen</lem>
+                </app> hirmuisen suuren Niagaran <app id="var5613" type="sub">
+                    <lem>vesiputouksen</lem>
+                </app> ylitse.</p>
+            <head style="romanType"><hi rend="bold">Myrsky.</hi></head>
+            <pb type="orig" n="162"/>
+        </body>
+    </text>
+</TEI>

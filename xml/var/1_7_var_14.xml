@@ -1,0 +1,2376 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1929). Luku 7, varianttikoodattu</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo: Werner Söderström 1929</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+			<pb type="orig unprinted" n="114"/>
+            <figure type="illustration"/>
+        	<head style="romanType"><hi rend="bold">Seitsemäs</hi> <app id="var2556" type="sub"><rdg><hi rend="bold">luku.</hi></rdg></app></head>
+            <head style="romanType"><hi rend="bold">Kasveista.</hi></head>
+            <p style="romanType">Tuossa pienessä huoneessa <app id="var2557" type="sub">
+                    <rdg>likellä</rdg>
+                </app> herrastalon veräjää asuu vanha mies. <app id="var2558" type="sub">
+                    <rdg>Hän</rdg>
+                </app> on <app id="var2559" type="sub">
+                    <rdg>puutarhanhoitaja,</rdg>
+                </app> joka tekee <app id="var2560" type="sub">
+                    <rdg><seg>ahkerasti</seg></rdg>
+                </app> työtä lapiolla ja <app id="var2561" type="sub">
+                    <rdg>rautaharavalla</rdg>
+                </app> puutarhassa. <app id="var2562" type="sub">
+                    <rdg>Hän</rdg>
+                </app> näyttää niin hyvältä ja ystävälliseltä, <app id="var2563" type="sub">
+                    <rdg>jollaiseksi tulee se, joka</rdg>
+                </app> alinomaa <app id="var2564" type="sub int">
+                    <rdg>seurustelee luonnon kauneuden kanssa.</rdg>
+                </app> Hän <app id="var2565" type="sub">
+                    <rdg>nimittää</rdg>
+                </app> puita <app id="var2566" type="sub int">
+                    <rdg>koulupojikseen</rdg>
+                </app> ja kukkia <app id="var2567" type="sub int">
+                    <rdg>pieniksi tytöikseen.</rdg>
+                </app> Hän pitää niitä <app id="var2568" type="sub">
+                    <rdg>hyvänä, niinkuin</rdg>
+                </app> hyvä isä lapsiaan, ja selvästi <app id="var2569" type="sub">
+                    <rdg>näkyvät</rdg>
+                </app> ne <app id="var2570" type="sub">
+                    <rdg>menestyvän</rdg>
+                </app> hänen hoidossaan. Kasvit ovat hänen <app id="var2571" type="sub int">
+                    <rdg>ainoana rikkautenaan</rdg>
+                </app> ja ne palkitsevat <app id="var2572" type="sub">
+                    <rdg>moninkertaisesti</rdg>
+                </app> hänen vaivansa. <app id="var2573" type="sub">
+                    <rdg>Hän ei saata</rdg>
+                </app> ymmärtää, kuinka <app id="var2574" type="sub">
+                    <rdg>kevytmieliset ihmiset hennovat</rdg>
+                </app> vahingoittaa kasveja <app id="var2575" type="sub int">
+                    <rdg>suotta aikojaan. Nähdessään</rdg>
+                </app> jonkun pojan <app id="var2576" type="sub">
+                    <rdg>turmelevan</rdg>
+                </app> puun kuorta, sanoo hän pojalle: <app id="var2577" type="sub int">
+                    <rdg>Ajatteletko,</rdg>
+                </app> mitä teet? Tämä puu on <app id="var2578" type="sub">
+                    <rdg>koko tienoon <seg>kaunistuksena</seg></rdg>
+                </app> ja <app id="var2579" type="sub int">
+                    <rdg>varjona.</rdg>
+                </app> Ihmisille ja eläimille on siitä iloa pitkiksi ajoiksi; mutta aivan
+                suotta <app id="var2580" type="sub">
+                    <rdg>sinä <seg>vahingoitat</seg></rdg>
+                </app> sitä, joka on tarvinnut monta vuotta kasvaaksensa.</p>
+            <pb type="orig" n="115"/>
+            <p style="romanType">Ja toiselle pojalle <app id="var2581" type="sub">
+                    <rdg>hän sanoo: Jos</rdg>
+                </app> haluat vähällä vaivalla tehdä jotakin kaunista, josta sinulle ja
+                muille on <app id="var2582" type="sub">
+                    <rdg>pitkältä</rdg>
+                </app> iloa, niin istuta puu. Se kasvaa <app id="var2583" type="sub">
+                    <rdg>nukkuessasikin.</rdg>
+                </app></p>
+            <p style="romanType">Ja tuolle tyttöselle <app id="var2584" type="sub int">
+                    <rdg>hän sanoo: Istuta</rdg>
+                </app> kukkia <app id="var2585" type="sub">
+                    <rdg>keväällä</rdg>
+                </app> puutarhaasi ja talvella <app id="var2586" type="sub">
+                    <rdg>ruukkuihisi.</rdg>
+                </app> Hoida <app id="var2587" type="sub">
+                    <rdg>niitä hyvin</rdg>
+                </app> ja kastele niitä usein. <app id="var2588" type="sub">
+                    <rdg>Ihmisen sydän iloitsee</rdg>
+                </app> nähdessään <app id="var2589" type="sub">
+                    <rdg>viattomuuden</rdg>
+                </app> maan päällä <app id="var2590" type="sub">
+                    <rdg>kasvavan <seg>ja</seg></rdg>
+                </app> kukoistavan hänen <app id="var2591" type="sub">
+                    <rdg>ystävällisessä</rdg>
+                </app> hoidossaan.</p>
+            <p style="romanType">Usein käski hän minua, <app id="var2592" type="sub">
+                    <rdg>kulkiessani</rdg>
+                </app> veräjän <app id="var2593" type="sub">
+                    <rdg>kautta,</rdg>
+                </app> tulemaan puutarhaan. Siellä <app id="var2594" type="sub">
+                    <rdg><seg>hän</seg></rdg>
+                </app> minulle <app id="var2595" type="sub">
+                    <rdg>puhui <seg>kauniita</seg></rdg>
+                </app> opetuksia kasvien monenlaisuudesta. Ja mitä hän puhui, <app id="var2596" type="sub">
+                    <rdg>sen</rdg>
+                </app> minäkin nyt <app id="var2597" type="sub int">
+                    <rdg>sinulle puhun.</rdg>
+                </app> Mutta kaikkia <app id="var2598" type="sub">
+                    <rdg>sinä <seg>et</seg></rdg>
+                </app> vielä <app id="var2599" type="sub">
+                    <rdg>saata</rdg>
+                </app> ymmärtää. Vielä on sinulla <app id="var2600" type="sub">
+                    <rdg>paljon</rdg>
+                </app> oppimista vanhemmaksi <app id="var2601" type="sub">
+                    <rdg>tultuasi.</rdg>
+                </app></p>
+            <p style="romanType">Tule veljeni, tule sisareni, <app id="var2602" type="sub">
+                    <rdg>menkäämme</rdg>
+                </app> tuonne isoon metsään. Siellä on <app id="var2603" type="sub">
+                    <rdg>paljon</rdg>
+                </app> kasveja. Mistä <app id="var2604" type="sub">
+                    <rdg>tiedämme, että ne eivät ole</rdg>
+                </app> eläimiä? Siitä, etteivät kasvit tunne, <app id="var2605" type="sub">
+                    <rdg>kun</rdg>
+                </app> niihin koskemme; ja siitä, etteivät <app id="var2606" type="sub">
+                    <rdg>ne eläinten tavoin kykene itse liikkumaan mihinkään.</rdg>
+                </app></p>
+            <p style="romanType"><app id="var2607" type="sub">
+                    <rdg>Mistä sitten tiedämme, että ne eivät ole</rdg>
+                </app> kiviä? Siitä, että kasvit ensin ovat pieniä ja <app id="var2608" type="sub">
+                    <rdg>sitten</rdg>
+                </app> kasvavat isommiksi; siitä, että ne kasvavat <app id="var2609" type="sub">
+                    <rdg>sisältäpäin, nesteitten kiertokulun vaikutuksesta; siitä,</rdg>
+                </app> että ne tarvitsevat ruokaa, että ne elävät <app id="var2610" type="sub">
+                    <rdg>jonkin</rdg>
+                </app> ajan ja <app id="var2611" type="sub">
+                    <rdg>sitten</rdg>
+                </app> kuolevat.</p>
+            <p style="romanType">Katso, koko maa on Jumalan ihana puutarha. <app id="var2612" type="sub">
+                    <rdg>Siihen</rdg>
+                </app> on Jumala istuttanut <app id="var2613" type="sub">
+                    <rdg>mitä</rdg>
+                </app> erilaisimpia <app id="var2614" type="sub">
+                    <rdg>kasveja,</rdg>
+                </app> suuresta <app id="var2615" type="sub int">
+                    <rdg>petäjästä alkaen,</rdg>
+                </app> jonka latva <app id="var2616" type="sub int">
+                    <rdg>pilviin ylettyy,</rdg>
+                </app> aina <app id="var2617" type="sub">
+                    <rdg><seg>pienoiseen</seg> homeeseen, jota kaapissa leipäpalaseen
+                        kasvaa.</rdg>
+                </app> Mutta kaikki kasvit ovat toistensa <app id="var2618" type="sub">
+                    <rdg>kaltaisia</rdg>
+                </app> siinä, että ne <app id="var2619" type="sub">
+                    <rdg>kasvavat</rdg>
+                </app> siemenestä, ja jokainen kasvi <app id="var2620" type="sub int">
+                    <rdg>tekee uudestaan siemeniä, joista tulee uusia samanlaisia
+                        kasveja.</rdg>
+                </app></p>
+            <p style="romanType">Tule, istu <app id="var2621" type="sub">
+                    <rdg>ruohokkoon <seg>tähän</seg></rdg>
+                </app> pihlajan <app id="var2622" type="sub">
+                    <rdg>oksien alle.</rdg>
+                </app> Koko pihlaja on valkeana <hi rend="expanded">kukista,</hi> jotka
+                levittävät ympärillensä <app id="var2623" type="sub">
+                    <rdg>suloista tuoksua. Kun nämä kukat ovat jonkin aikaa <pb type="orig" n="116"/>kasvaneet, varisevat</rdg>
+                </app> niistä <app id="var2624" type="sub">
+                    <rdg>kukkalehdet,</rdg>
+                </app> ja <app id="var2625" type="sub">
+                    <rdg>sitten</rdg>
+                </app> kasvaa kukan sijaan pihlajanmarja, joka on hedelmä ja jossa on monta
+                siementä. <app id="var2626" type="sub int">
+                    <rdg>Multaan</rdg>
+                </app> pudottuaan <app id="var2627" type="sub int">
+                    <rdg>siemen turpoaa</rdg>
+                </app> lämpimästä ja kosteudesta. Itse se kuolee, mutta siitä kasvaa uusi
+                elo. Siemenestä lähtee <app id="var2628" type="sub">
+                    <rdg>säie</rdg>
+                </app> alaspäin ja <app id="var2629" type="sub">
+                    <rdg>toinen säie</rdg>
+                </app> ylöspäin, ja silloin sanotaan: siemen <hi rend="expanded">itää.</hi>
+                <app id="var2630" type="sub">
+                    <rdg>Ylöspäin</rdg>
+                </app> nousee <hi rend="expanded">oras</hi><app id="var2631" type="sub">
+                    <rdg>
+                        <seg>yhtenä</seg> tai</rdg>
+                </app> kahtena <app id="var2632" type="sub">
+                    <rdg><seg>lehtenä,</seg></rdg>
+                </app> joita <app id="var2633" type="sub">
+                    <rdg>sanotaan <hi rend="expanded">sirkkalehdiksi,</hi> joista
+                        sitten</rdg>
+                </app> tulee <hi rend="expanded">korsi</hi> eli <app id="var2634" type="sub">
+                    <rdg><hi rend="expanded">varsi.</hi></rdg>
+                </app> Juuri haaroittuu monelle suunnalle ja imee <app id="var2635" type="sub">
+                    <rdg>ravintoa</rdg>
+                </app> maasta. Korresta eli <app id="var2636" type="sub">
+                    <rdg>varresta</rdg>
+                </app> lähtee uusia <app id="var2637" type="sub">
+                    <rdg>versoja,</rdg>
+                </app> jotka kasvavat <hi rend="expanded">oksiksi</hi> ja <hi rend="expanded">haaroiksi.</hi>
+                <app id="var2638" type="sub">
+                    <rdg>Oksiin tulee sitten</rdg>
+                </app>
+                <hi rend="expanded">lehtiä,</hi> jotka imevät <app id="var2639" type="sub">
+                    <rdg>ravintoa</rdg>
+                </app> ilmasta. Kesän tullessa ja kasvin päästyä isommaksi, <app id="var2640" type="sub">
+                    <rdg>se <seg>tekee</seg>
+                        <hi rend="expanded">silmuja</hi></rdg>
+                </app> eli <hi rend="expanded">urpia</hi> ja alkaa kukkia. Kukista kasvavat
+                    <app id="var2641" type="sub">
+                    <rdg>sitten</rdg>
+                </app> hedelmät, joissa on taas uusia siemeniä, ja siemenistä kasvaa taas
+                uusia kasveja.</p>
+            <figure type="illustration"/>
+            <p style="romanType">Tarkasti <app id="var2642" type="sub int">
+                    <rdg>kukkia <seg>katsoessamme</seg> huomaamme muutamien</rdg>
+                </app> keskellä <app id="var2643" type="sub">
+                    <rdg>ikäänkuin rihman tai nastan.</rdg>
+                </app> Tämän <app id="var2644" type="sub">
+                    <rdg>alaosasta,</rdg>
+                </app> joka aikaa myöten kasvaa <app id="var2645" type="sub">
+                    <rdg>isommaksi,</rdg>
+                </app> tulee <app id="var2646" type="sub">
+                    <rdg>sitten</rdg>
+                </app> hedelmä. Toisissa kukissa on yksi <app id="var2647" type="sub">
+                    <rdg>tai</rdg>
+                </app> useampi rihma, joiden nenässä on pieni nyhämäinen <app id="var2648" type="sub int">
+                    <rdg>nasta. Siinä</rdg>
+                </app> on siitepöly. Usein on näitä <app id="var2649" type="sub">
+                    <rdg>erilaisia rakenteita samassa kasvissa ja</rdg>
+                </app> samassa kukassa. <app id="var2650" type="sub">
+                    <rdg>Katsopa</rdg>
+                </app> tuota pientä kukkaa, joka on <app id="var2651" type="sub">
+                    <rdg>kuvattuna sivulle 117.</rdg>
+                </app> Se on <app id="var2652" type="sub">
+                    <rdg>aurankukka.</rdg>
+                </app> Keskellä kukkaa on pieni rihma, jonka pää on <app id="var2653" type="sub int">
+                    <rdg>halki; siitäpä juuri sitten</rdg>
+                </app> hedelmä ja <app id="var2654" type="sub">
+                    <rdg>siemenet</rdg>
+                </app> kasvavat. Sen ympärillä on neljä muuta <app id="var2655" type="sub">
+                    <rdg>rihmaa, nasta kunkin</rdg>
+                </app> päässä. Näissä <app id="var2656" type="sub">
+                    <rdg>nastoissa</rdg>
+                </app> on <app id="var2657" type="sub">
+                    <rdg>siitepöly.</rdg>
+                </app> Niitä suippoja lehtiä, jotka <app id="var2658" type="sub">
+                    <rdg><seg>ovat</seg></rdg>
+                </app> kukan <app id="var2659" type="sub int">
+                    <rdg>alapuolella, sanotaan kukan verhoksi;</rdg>
+                </app> mutta <app id="var2660" type="sub">
+                    <rdg>nuo</rdg>
+                </app> viisi lehteä <app id="var2661" type="sub">
+                    <rdg>niiden <seg>yläpuolella</seg></rdg>
+                </app> ovat <app id="var2662" type="sub">
+                    <rdg>terälehdet. Kasvi</rdg>
+                </app> kukan vieressä on <app id="var2663" type="sub int">
+                    <rdg>rukiinolki tähkineen.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <pb type="orig" n="117"/>
+            <p style="romanType">Muutamilla <app id="var2664" type="sub">
+                    <rdg>kasveilla,</rdg>
+                </app> niinkuin sienillä ja sammalilla, ei ole kukkia; mutta kaikilla
+                kasveilla <app id="var2665" type="sub">
+                    <rdg>on siemeniä. Yhdessä jyväkasvin tähkässä on siemeniä 50:stä
+                        100:aan.</rdg>
+                </app> Muutamat puut antavat <app id="var2666" type="sub">
+                    <rdg>jopa</rdg>
+                </app> 500,000 (viisisataatuhatta) siementä yhtenä kesänä. Ja kuitenkin <app id="var2667" type="sub">
+                    <rdg>saattavat</rdg>
+                </app> kasvit <app id="var2668" type="sub">
+                    <rdg>enetä</rdg>
+                </app> monella <app id="var2669" type="sub int">
+                    <rdg>eri tavalla.</rdg>
+                </app> Eräänä päivänä näin <app id="var2670" type="sub">
+                    <rdg>puutarhanhoitajan</rdg>
+                </app> leikkaavan halavasta oksan ja pistävän sen märkään maahan. <app id="var2671" type="sub">
+                    <rdg>Sitten</rdg>
+                </app> taittoi hän <app id="var2672" type="sub">
+                    <rdg>aaprottipensaasta</rdg>
+                </app> oksan ja pisti senkin maahan. Miksikä <app id="var2673" type="sub int">
+                    <rdg>tuota teette?</rdg>
+                </app> kysyin minä. Sen <app id="var2674" type="sub">
+                    <rdg>saat tietää</rdg>
+                </app> yhden <app id="var2675" type="sub">
+                    <rdg>tai</rdg>
+                </app> kahden viikon <app id="var2676" type="sub">
+                    <rdg>kuluttua,</rdg>
+                </app> sanoi puutarhanhoitaja. <app id="var2677" type="sub">
+                    <rdg>Niin</rdg>
+                </app> kävikin. Sen ajan kuluttua alkoi halavan oksaan ja <app id="var2678" type="sub">
+                    <rdg>aaprottiin</rdg>
+                </app> kasvaa <app id="var2679" type="sub int">
+                    <rdg>pieniä, viheriäisiä</rdg>
+                </app> vesoja. Siitä <app id="var2680" type="sub int">
+                    <rdg>ymmärsin, että</rdg>
+                </app> niistä samassa <app id="var2681" type="sub">
+                    <rdg>oli kasvanut</rdg>
+                </app> pieniä juuria alaspäin maahan. Ja näin tuli halavan oksasta <app id="var2682" type="sub">
+                    <rdg>kokonainen</rdg>
+                </app> halava, ja <app id="var2683" type="sub">
+                    <rdg>katkaistusta aaprotista kokonainen aaprottipensas.</rdg>
+                </app> Sellaista oksaa <app id="var2684" type="sub">
+                    <rdg>nimitti</rdg>
+                </app> puutarhanhoitaja <hi rend="expanded">pistokkaaksi.</hi> Mutta kun
+                    <app id="var2685" type="sub">
+                    <rdg>hän, oksaa poikki leikkaamatta, taivutti sen</rdg>
+                </app> maahan juurtumaan, <app id="var2686" type="sub">
+                    <rdg>sanoi</rdg>
+                </app> hän sitä <hi rend="expanded">juurrukkaaksi.</hi></p>
+            <figure type="illustration"/>
+            <p style="romanType">Toisen kerran näin <app id="var2687" type="sub">
+                    <rdg>puutarhanhoitajan</rdg>
+                </app> leikkaavan oksan omenapuusta ja <app id="var2688" type="sub">
+                    <rdg><seg>hyvin</seg></rdg>
+                </app> tarkasti sovittavan <app id="var2689" type="sub">
+                    <rdg>sen <seg>kasvavaan</seg></rdg>
+                </app> pihlajaan. Muutaman ajan kuluttua alkoi se oksa kasvaa omenia, <app id="var2690" type="sub">
+                    <rdg>vaikka <seg>koko</seg> muu puu kasvoi</rdg>
+                </app> pihlajanmarjoja. Tämä oli hyvin kummallista. Näetkö, sanoi <app id="var2691" type="sub int">
+                    <rdg>puutarhanhoitaja,</rdg>
+                </app> olen <app id="var2692" type="sub">
+                    <rdg><hi rend="expanded">oksastanut</hi></rdg>
+                </app> omenia pihlajaan.</p>
+            <p style="romanType">Mikä on syynä siihen, että lehdet <app id="var2693" type="sub int">
+                    <rdg>syksyllä <hi rend="expanded">lakastuvat?</hi></rdg>
+                </app> Se, että <app id="var2694" type="sub int">
+                    <rdg>nesteet, lämpimän ja valon vähetessä,</rdg>
+                </app> eivät enää nouse puun <app id="var2695" type="sub int">
+                    <rdg>suoniin.</rdg>
+                </app> Silloin kasvi levähtää, <app id="var2696" type="sub">
+                    <rdg>samaten kuin eläinkin</rdg>
+                </app> nukkuu. Talvella ovat <app id="var2697" type="sub">
+                    <rdg>useimmat</rdg>
+                </app> puut tain<pb type="orig" n="118"/>noksissa; mutta jos koetat <app id="var2698" type="sub">
+                    <rdg>keväällä puuta kuoria, näet, että kuori jälleen</rdg>
+                </app> on <app id="var2699" type="sub int">
+                    <rdg>sisäpuolelta märkä.</rdg>
+                </app> Silloin nesteet <app id="var2700" type="sub int">
+                    <rdg>uudestaan paisuvat,</rdg>
+                </app> ja siitä <app id="var2701" type="sub int">
+                    <rdg>lehdet puhkeavat.</rdg>
+                </app> Muutamat eläimet nukkuvat avoimin silmin. <app id="var2702" type="sub">
+                    <rdg>Niin</rdg>
+                </app> nukkuvat <app id="var2703" type="sub">
+                    <rdg>havupuutkin</rdg>
+                </app> talvella, <app id="var2704" type="sub">
+                    <rdg>vaikka</rdg>
+                </app> ovat <app id="var2705" type="sub">
+                    <rdg>vihreinä</rdg>
+                </app> koko <app id="var2706" type="sub int">
+                    <rdg>vuoden.</rdg>
+                </app> Mutta kuumissa maissa, <app id="var2707" type="sub">
+                    <rdg>missä</rdg>
+                </app> on <app id="var2708" type="sub">
+                    <rdg>yhtämittainen</rdg>
+                </app> kesä, kasvit <app id="var2709" type="sub">
+                    <rdg>nukkuvat <seg>aivan</seg> vähän.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType">Olen nähnyt kasveja, jotka elävät monta vuotta ja joita
+                    <app id="var2710" type="sub">
+                    <rdg>sentähden sanotaan</rdg>
+                </app>
+                <hi rend="expanded">monivuotisiksi.</hi> Sellaisia ovat puut, joista
+                muutamat tulevat <app id="var2711" type="sub">
+                    <rdg>monen</rdg>
+                </app> tuhannen vuoden vanhoiksi. Mutta niitä <app id="var2712" type="sub">
+                    <rdg>kasveja,</rdg>
+                </app> jotka yhtenä vuonna itävät ja toisena vuonna kukkivat ja <app id="var2713" type="sub">
+                    <rdg>sitten</rdg>
+                </app> lakastuvat, <app id="var2714" type="sub">
+                    <rdg>sanotaan</rdg>
+                </app>
+                <hi rend="expanded">kaksivuotisiksi.</hi> Sellaisia ovat kaali ja <app id="var2715" type="sub">
+                    <rdg>porkkana.</rdg>
+                </app> Ja niitä, jotka elävät ainoastaan <app id="var2716" type="sub">
+                    <rdg>keväästä</rdg>
+                </app> syksyyn, <app id="var2717" type="sub">
+                    <rdg>sanotaan <hi rend="expanded">yksivuotisiksi.</hi></rdg>
+                </app> Sellaisia ovat pellava, hamppu ja <app id="var2718" type="sub">
+                    <rdg>useat kukkakasvit.</rdg>
+                </app> Muutamia, niinkuin <app id="var2719" type="sub">
+                    <rdg>reseda,</rdg>
+                </app>
+                <hi rend="expanded">viljellään</hi><app id="var2720" type="sub int">
+                    <rdg> talvella kukkaruukuissa. Toisia, esimerkiksi</rdg>
+                </app> ruista ja ohraa, <hi rend="expanded">kylvetään</hi> peltoon ihmisten
+                    <app id="var2721" type="sub int">
+                    <rdg>elatukseksi. Toisia, niinkuin hedelmäpuita, marjapensaita, sipulia
+                        ja perunoita, istutetaan paikkoihin, joissa niitä ei muutoin
+                        kasva.</rdg>
+                </app> Sillä kaikki kasvit eivät menesty kaikissa paikoissa, vaan Jumala on
+                antanut jokaiselle <app id="var2722" type="sub">
+                    <rdg>kasville</rdg>
+                </app> sellaisen asuinpaikan, joka <app id="var2723" type="sub">
+                    <rdg>sille</rdg>
+                </app> on sopivin. Oletko nähnyt, kuinka <app id="var2724" type="sub">
+                    <rdg>kukkakasvit mielellään</rdg>
+                </app> kallistuvat <app id="var2725" type="sub">
+                    <rdg>ikkunanruutuun</rdg>
+                </app> päin? Kaikki kasvit tarvitsevat valoa ja kallistuvat <app id="var2726" type="sub">
+                    <rdg>mielellään</rdg>
+                </app> sinne päin, <app id="var2727" type="sub">
+                    <rdg>mistä</rdg>
+                </app> Jumalan <pb type="orig" n="119"/><app id="var2728" type="sub">
+                    <rdg>päivä</rdg>
+                </app> kirkkaimmin <app id="var2729" type="sub int">
+                    <rdg>niihin paistaa.</rdg>
+                </app> Mutta muutamat kasvavat <app id="var2730" type="sub int">
+                    <rdg>ainoastaan vedessä;</rdg>
+                </app> muutamat <app id="var2731" type="sub">
+                    <rdg>kuumassa</rdg>
+                </app> auringon <app id="var2732" type="sub">
+                    <rdg>paisteessa,</rdg>
+                </app> muutamat <app id="var2733" type="sub">
+                    <rdg>mieluummin</rdg>
+                </app> varjossa, muutamat märässä maassa ja muutamat kuivissa paikoissa.
+                Muutamat, niinkuin <app id="var2734" type="sub int">
+                    <rdg>jotkut sammallajit,</rdg>
+                </app> kasvavat toisissa <app id="var2735" type="sub">
+                    <rdg>kasveissa.</rdg>
+                </app> Ja muutamat <app id="var2736" type="sub">
+                    <rdg>vaativat paljon lämpöä,</rdg>
+                </app> niin että ne <app id="var2737" type="sub">
+                    <rdg>ainoastaan</rdg>
+                </app> kuumissa <app id="var2738" type="sub int">
+                    <rdg>maissa kasvavat,</rdg>
+                </app> mutta muutamat <app id="var2739" type="sub">
+                    <rdg>tyytyvät</rdg>
+                </app> vähempään <app id="var2740" type="sub">
+                    <rdg>lämpöön</rdg>
+                </app> ja kasvavat täällä kylmemmässäkin maassa. <app id="var2741" type="sub">
+                    <rdg>Äärimmäisessä</rdg>
+                </app> pohjoisessa ja etelässä, jossa on <app id="var2742" type="sub">
+                    <rdg>alituinen</rdg>
+                </app> talvi, ei <app id="var2743" type="sub">
+                    <rdg>kasva</rdg>
+                </app> enää <app id="var2744" type="sub">
+                    <rdg>yhtään kasvia <seg>ikuisen</seg></rdg>
+                </app> lumen <app id="var2745" type="sub int">
+                    <rdg>alla.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType">Kasveja on sanomattoman <app id="var2746" type="sub">
+                    <rdg>paljon</rdg>
+                </app> maan päällä. Kuka <app id="var2747" type="sub">
+                    <rdg>kykenee lukemaan</rdg>
+                </app> puut <app id="var2748" type="sub int">
+                    <rdg>metsässä, tai jyväkasvin oljet pellolla, tai</rdg>
+                </app> ruohot <app id="var2749" type="int">
+                    <rdg>kedolla!</rdg>
+                </app> Jumala teki ne niin <app id="var2750" type="sub">
+                    <rdg>moneksi,</rdg>
+                </app> että ne kaunistaisivat maan <app id="var2751" type="sub">
+                    <rdg>vihannuudellaan</rdg>
+                </app> ja <app id="var2752" type="sub">
+                    <rdg>olisivat</rdg>
+                </app> ihmisille ja eläimille <app id="var2753" type="sub">
+                    <rdg>ravintona.</rdg>
+                </app> Sillä <app id="var2754" type="sub">
+                    <rdg>kaikki elävät olennot saavat ravintonsa</rdg>
+                </app> kasvikunnasta. Itse leijonakin kuolisi nälkään, jos ei sillä olisi
+                    <app id="var2755" type="sub">
+                    <rdg>toisia</rdg>
+                </app> eläimiä <app id="var2756" type="sub">
+                    <rdg>ruuaksensa;</rdg>
+                </app> ja nämä eläimet, joita leijona syöpi, ovat eläneet kasveista. <app id="var2757" type="sub">
+                    <rdg>Sentähden</rdg>
+                </app> on Jumala <app id="var2758" type="sub">
+                    <rdg>pannut</rdg>
+                </app> kasvikunnan tuottamaan <app id="var2759" type="sub">
+                    <rdg>mitä maukkaimpia</rdg>
+                </app> ja suloisimpia hedelmiä. Ja <app id="var2760" type="sub">
+                    <rdg>lisäksi hän</rdg>
+                </app> on <app id="var2761" type="sub">
+                    <rdg><seg>niin</seg></rdg>
+                </app> laittanut, että nämä hedelmät saavat olla <app id="var2762" type="sub int">
+                    <rdg>rauhassa siksi, kunnes</rdg>
+                </app>
+                <hi rend="expanded">kypsyvät.</hi> Tätä ennen maistuvat ne pahalle ja <app id="var2763" type="sub int">
+                    <rdg>niitä sanotaan <hi rend="expanded">raakiloiksi.</hi></rdg>
+                </app> Mutta <app id="var2764" type="sub">
+                    <rdg>täysin kypsyneinä</rdg>
+                </app> putoavat ne usein itsestään <app id="var2765" type="sub">
+                    <rdg>maahan</rdg>
+                </app> ja <app id="var2766" type="sub">
+                    <rdg>ikäänkuin</rdg>
+                </app> sanovat sivukulkijalle: tule ja ota <app id="var2767" type="int">
+                    <rdg>minut.</rdg>
+                </app></p>
+            <pb type="orig" n="120"/>
+            <head style="romanType"><hi rend="bold">Puista.</hi></head>
+            <figure type="illustration"/>
+            <p style="romanType">Tuuli suhisee metsässä; <app id="var2768" type="sub">
+                    <rdg>männyn kävyt</rdg>
+                </app> putoavat maahan. <app id="var2769" type="sub">
+                    <rdg>Jonkin aikaa</rdg>
+                </app> ajaa <app id="var2770" type="sub int">
+                    <rdg>tuuli <seg>niitä</seg> pitkin maata,</rdg>
+                </app> mutta viimein <app id="var2771" type="sub">
+                    <rdg>ne <seg>tarttuvat</seg></rdg>
+                </app> ja pysähtyvät <app id="var2772" type="sub">
+                    <rdg><seg>hietaan.</seg> Silloin</rdg>
+                </app> itävät <app id="var2773" type="sub">
+                    <rdg>ne</rdg>
+                </app> pienet siemenet, joita on <app id="var2774" type="sub">
+                    <rdg>kävyn</rdg>
+                </app> sisässä kovain suomujen <app id="var2775" type="sub">
+                    <rdg>peitossa.</rdg>
+                </app> Pieni vesa nousee maasta. Jo silloin on siinä <app id="var2776" type="sub int">
+                    <rdg>pieniä, vihreitä helpeitä,</rdg>
+                </app> joita <app id="var2777" type="sub">
+                    <rdg>sanotaan <hi rend="expanded">neulasiksi.</hi> Se</rdg>
+                </app> on <app id="var2778" type="sub">
+                    <rdg>vielä heikko;</rdg>
+                </app> hevonen <app id="var2779" type="sub">
+                    <rdg>saattaa</rdg>
+                </app> sen <app id="var2780" type="sub int">
+                    <rdg>polkea rikki;</rdg>
+                </app> karhu <app id="var2781" type="sub">
+                    <rdg>saattaa</rdg>
+                </app> sen purra poikki. Pian kasvaa se korkeammaksi; <app id="var2782" type="sub">
+                    <rdg>nyt saattaa</rdg>
+                </app> siinä <app id="var2783" type="sub">
+                    <rdg>erottaa</rdg>
+                </app> rungon ja useita oksia. Vuosia kuluu; <app id="var2784" type="sub">
+                    <rdg>kesäkausia</rdg>
+                </app> sataa; <app id="var2785" type="sub">
+                    <rdg>talvikausia</rdg>
+                </app> tuiskuaa. Varsi kohoaa <app id="var2786" type="sub">
+                    <rdg>yhä korkeammaksi;</rdg>
+                </app> oksat tulevat <app id="var2787" type="sub">
+                    <rdg>yhä</rdg>
+                </app> isommiksi. Kahdenkymmenen vuoden kuluttua on <app id="var2788" type="sub">
+                    <rdg>pienestä vesasta</rdg>
+                </app> tullut <app id="var2789" type="sub">
+                    <rdg>iso puu. Alimmat</rdg>
+                </app> oksat ovat lakastuneet ja <app id="var2790" type="sub">
+                    <rdg>karisseet</rdg>
+                </app> pois. <app id="var2791" type="sub">
+                    <rdg>Ylimmät</rdg>
+                </app> oksat ovat puun latvana. <app id="var2792" type="sub">
+                    <rdg>Kuudenkymmenen</rdg>
+                </app> vuoden <app id="var2793" type="sub">
+                    <rdg>vanhasta</rdg>
+                </app> ei mänty enää kasva <app id="var2794" type="sub">
+                    <rdg>pituutta.</rdg>
+                </app> Mutta se <app id="var2795" type="sub">
+                    <rdg>kasvaa kasvamistaan paksuutta.</rdg>
+                </app> Jos se on hyvää laatua ja kasvaa sopivalla maalla, tulee siitä <app id="var2796" type="sub">
+                    <rdg>honka,</rdg>
+                </app> josta saadaan suuri <app id="var2797" type="sub">
+                    <rdg>hirsi tai</rdg>
+                </app> paksu masto. <app id="var2798" type="sub">
+                    <rdg>Kun sen hakkaat tyvestä poikki, näet</rdg>
+                </app> sen <app id="var2799" type="sub">
+                    <rdg>sisäisen muodostuksen.</rdg>
+                </app> Sisimmäisenä on <hi rend="expanded">ydin</hi> eli sydän. Sydämen
+                ympärillä on <hi rend="expanded">puu.</hi> Puun ympärillä on <hi rend="expanded">mäihä</hi>
+                <app id="var2800" type="sub">
+                    <rdg>eli <seg><hi rend="expanded">jälsi.</hi></seg></rdg>
+                </app> Mäihän ympärillä on <hi rend="expanded">kuori.</hi>
+                <app id="var2801" type="sub">
+                    <rdg>Kuoresta tihkuu</rdg>
+                </app>
+                <hi rend="expanded">pihka.</hi> Ja <app id="var2802" type="sub">
+                    <rdg>jos <seg>tarkasti</seg> katsot poikkihakattua</rdg>
+                </app> päätä, <app id="var2803" type="sub">
+                    <rdg>näet puussa keltaisia</rdg>
+                </app> renkaita <app id="var2804" type="sub int">
+                    <rdg>eli lustoja,</rdg>
+                </app> toinen toisensa <app id="var2805" type="sub">
+                    <rdg>ympärillä,</rdg>
+                </app> sydämestä <app id="var2806" type="sub">
+                    <rdg>alkaen <seg>kuoreen</seg></rdg>
+                </app> asti. Sillä joka <app id="var2807" type="sub">
+                    <rdg>vuotena</rdg>
+                </app> on puu tullut sen verran <app id="var2808" type="sub int">
+                    <rdg>paksummaksi</rdg>
+                </app> kuin on <app id="var2809" type="sub">
+                    <rdg>välimaata toisesta</rdg>
+                </app> renkaasta toiseen. <app id="var2810" type="sub int">
+                    <rdg>Kun lukee vuosirenkaat, tietää</rdg>
+                </app> puun <app id="var2811" type="sub">
+                    <rdg>iän.</rdg>
+                </app></p>
+            <pb type="orig" n="121"/>
+            <figure type="illustration"/>
+            <p style="romanType"><hi rend="expanded">Mänty</hi> on <hi rend="italics">havupuu,</hi> jonka juuri <app id="var2812" type="sub">
+                    <rdg>tunkee</rdg>
+                </app> syvälle maahan. Se on <app id="var2813" type="sub int">
+                    <rdg>meidän arvokkain puulajimme.</rdg>
+                </app> Sen rungosta hakkaamme hirsiä ja <app id="var2814" type="sub">
+                    <rdg>palkkeja, tai</rdg>
+                </app> sahaamme sen lankuiksi ja laudoiksi. Sen <app id="var2815" type="sub">
+                    <rdg>pihkasta</rdg>
+                </app> saamme hartsia <app id="var2816" type="sub">
+                    <rdg>tai</rdg>
+                </app> poltamme <app id="var2817" type="sub">
+                    <rdg>siitä tervaa.</rdg>
+                </app> Mikä on <app id="var2818" type="sub">
+                    <rdg>tuo toinen pitkä puu,</rdg>
+                </app> joka <app id="var2819" type="sub">
+                    <rdg>kasvaa</rdg>
+                </app> metsässä männyn vieressä ja <app id="var2820" type="sub">
+                    <rdg>jossa on</rdg>
+                </app> niin pitkät riippuvat oksat? Se on <app id="var2821" type="sub">
+                    <rdg><seg>kaunis</seg></rdg>
+                </app>
+                <hi rend="expanded">kuusi,</hi> jonka <app id="var2822" type="sub">
+                    <rdg>harvasyinen</rdg>
+                </app> puu <app id="var2823" type="sub">
+                    <rdg><seg>niin</seg></rdg>
+                </app> iloisesti <app id="var2824" type="sub">
+                    <rdg>räiskyy.</rdg>
+                </app> Sen juuret <app id="var2825" type="sub">
+                    <rdg>kulkevat</rdg>
+                </app> likempänä maan pintaa <app id="var2826" type="sub int">
+                    <rdg>kauas joka suunnalle.</rdg>
+                </app> Ja mikä on <app id="var2827" type="sub">
+                    <rdg>tuo pieni puu, jossa on</rdg>
+                </app> hienommat <app id="var2828" type="sub">
+                    <rdg>neulaset</rdg>
+                </app> ja <app id="var2829" type="sub">
+                    <rdg>mutkaiset</rdg>
+                </app> oksat ja <app id="var2830" type="int">
+                    <rdg>pienet,</rdg>
+                </app> hyvänhajuiset marjat? Se on <hi rend="expanded">kataja,</hi> jonka
+                    <app id="var2831" type="sub">
+                    <rdg><seg>oksia</seg> pienennettyinä sirotellaan</rdg>
+                </app> tuvan lattialle. Mutta <app id="var2832" type="sub">
+                    <rdg>tavallisesti</rdg>
+                </app> ei kataja tule puuksi, vaan <app id="var2833" type="sub int">
+                    <rdg>pensaaksi,</rdg>
+                </app> joka kasvaa pitkin maata.</p>
+            <figure type="illustration"/>
+            <p style="romanType">Minä sanoin: <app id="var2834" type="sub">
+                    <rdg>Eikö</rdg>
+                </app> ole <app id="var2835" type="sub">
+                    <rdg><seg>puuta,</seg></rdg>
+                </app> joka on <app id="var2836" type="sub">
+                    <rdg>honkaa</rdg>
+                </app> pitempi? <app id="var2837" type="sub">
+                    <rdg>Puutarhanhoitaja</rdg>
+                </app> sanoi: <app id="var2838" type="sub">
+                    <rdg>Etkö</rdg>
+                </app> ole <app id="var2839" type="sub int">
+                    <rdg>Raamatusta lukenut, että</rdg>
+                </app> kuningas <app id="var2840" type="sub">
+                    <rdg>Salomo rakensi</rdg>
+                </app> Jerusalemin temppelin Libanonin <app id="var2841" type="sub">
+                    <rdg>vuorilta</rdg>
+                </app> tuoduista <app id="var2842" type="int">
+                    <rdg>setripuista?</rdg>
+                </app>
+                <hi rend="expanded">Setripuu</hi> on hyvänhajuinen <pb type="orig" n="122"/>havupuu, paljoa pitempi <app id="var2843" type="sub">
+                    <rdg>honkaa.</rdg>
+                </app> Vielä muitakin havupuita kasvaa muissa maissa. Siellä rakennetaan
+                laivoja <app id="var2844" type="sub">
+                    <rdg><seg>pitkistä</seg>
+                        <hi rend="expanded">lehtikuusista.</hi></rdg>
+                </app> Siellä istutetaan <app id="var2845" type="sub">
+                    <rdg><hi rend="expanded">kypressipuita</hi> murheen merkiksi</rdg>
+                </app> rakasten ystäväin <app id="var2846" type="sub int">
+                    <rdg>haudoille.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var2847" type="sub">
+                    <rdg>Metsässä kävellessäsi piankin</rdg>
+                </app> havaitset <app id="var2848" type="sub">
+                    <rdg><seg>havupuiden</seg></rdg>
+                </app> kasvavan kovemmassa maassa, hiedassa ja kivikossa. <app id="var2849" type="sub">
+                    <rdg>Sitten</rdg>
+                </app> tulet <app id="var2850" type="sub int">
+                    <rdg>paikkaan,</rdg>
+                </app> jossa maa on pehmeämpää ja usein <app id="var2851" type="sub">
+                    <rdg>kosteampaa.</rdg>
+                </app> Siinä kasvaa aivan <app id="var2852" type="sub">
+                    <rdg>toisia</rdg>
+                </app> puita, joilla <app id="var2853" type="sub">
+                    <rdg>neulasten sijassa <seg>on</seg></rdg>
+                </app> oksissa hienoja lehtiä. Silloin sanot: <app id="var2854" type="sub">
+                    <rdg>nyt olen tullut</rdg>
+                </app> lehtimetsään, sillä nämä puut ovat <hi rend="italics">lehtipuita.</hi> Olethan nähnyt <app id="var2855" type="sub">
+                    <rdg><seg>ylevän</seg></rdg>
+                </app>
+                <hi rend="expanded">tammen,</hi> jonka siemenet ovat piilossa pyöreissä
+                terhoissa? Aivan hitaasti se kasvaa; <app id="var2856" type="sub">
+                    <rdg>sentähden</rdg>
+                </app> tuleekin se hyvin vanhaksi ja <app id="var2857" type="sub">
+                    <rdg>sangen</rdg>
+                </app> kovaksi. Kun tahdotaan rakentaa oikein <app id="var2858" type="sub">
+                    <rdg>luja laiva,</rdg>
+                </app> rakennetaan se <app id="var2859" type="sub">
+                    <rdg>kernaimmin</rdg>
+                </app> tammesta. Mutta jos et ole nähnyt tammea, joka kasvaa <app id="var2860" type="sub">
+                    <rdg>ainoastaan Etelä-Suomessa, niin</rdg>
+                </app> olethan ainakin nähnyt <hi rend="expanded">koivun,</hi> joka kasvaa
+                    <app id="var2861" type="sub int">
+                    <rdg>kaikkialla,</rdg>
+                </app> aina <app id="var2862" type="sub">
+                    <rdg>Lapinmaassa asti. Sehän <pb type="orig" n="123"/>se tuossa</rdg>
+                </app> <figure type="illustration"/><figure type="illustration"/> tuvan <app id="var2863" type="sub int">
+                    <rdg>edessä kasvaa, oksat riipallansa,</rdg>
+                </app> ja <app id="var2864" type="sub int">
+                    <rdg>siitä</rdg>
+                </app> saadaan sitkeintä <app id="var2865" type="sub">
+                    <rdg>tarvepuuta</rdg>
+                </app> ja <app id="var2866" type="sub">
+                    <rdg>parasta polttopuuta.</rdg>
+                </app> Puukkosi pää on tehty sen <app id="var2867" type="sub int">
+                    <rdg>juuresta tai</rdg>
+                </app> kovasta visasta. <app id="var2868" type="sub">
+                    <rdg>Älä kuori</rdg>
+                </app> sen <app id="var2869" type="sub int">
+                    <rdg>valkeata tuohta puun</rdg>
+                </app> vielä <app id="var2870" type="sub int">
+                    <rdg>kasvaessa. Älä liiaksi</rdg>
+                </app> juoksuta <app id="var2871" type="sub">
+                    <rdg><seg>sen</seg></rdg>
+                </app> hyvää <app id="var2872" type="sub">
+                    <rdg>mahlaa;</rdg>
+                </app> puu <app id="var2873" type="sub">
+                    <rdg>menettää</rdg>
+                </app> silloin nesteensä ja kuolee. Muistathan tuon <app id="var2874" type="sub">
+                    <rdg>tummanvihreän</rdg>
+                </app>
+                <hi rend="expanded">lepän,</hi> joka kasvaa <app id="var2875" type="sub">
+                    <rdg>kosteissa</rdg>
+                </app> paikoissa ja <app id="var2876" type="sub int">
+                    <rdg>kuorittuna <seg>tulee</seg> punaiseksi?</rdg>
+                </app> Muistathan <app id="var2877" type="sub">
+                    <rdg><hi rend="expanded">pihla jan</hi></rdg>
+                </app> ja <hi rend="expanded">tuomen</hi><app id="var2878" type="sub">
+                    <rdg>
+                        <seg>valkeine</seg> sulokukkineen</rdg>
+                </app> ja hyvine marjoineen? Muistathan <app id="var2879" type="sub">
+                    <rdg>tuon</rdg>
+                </app> suoran <figure type="illustration"/>
+                <figure type="illustration"/>
+                        <figure type="illustration"/><app id="var2880" type="sub">
+                    <rdg><pb type="orig" n="124"/><seg><hi rend="expanded">haavan,</hi></seg></rdg>
+                </app> jonka lehdet alinomaa <app id="var2881" type="sub int">
+                    <rdg>tuulessa värähtelevät?</rdg>
+                </app> Muistathan <hi rend="expanded">halavan</hi> ja <hi rend="expanded">raidan,</hi> jotka ovat niin hauraita, ja <app id="var2882" type="sub">
+                    <rdg><seg>notkean</seg></rdg>
+                </app>
+                <hi rend="expanded">pajun,</hi> joka mielellään <app id="var2883" type="sub">
+                    <rdg>versoo</rdg>
+                </app> pensaaksi? Et ole <app id="var2884" type="sub">
+                    <rdg>kenties nähnyt kaunista,</rdg>
+                </app> lehtevää <hi rend="expanded">vaahteraa,</hi> et <app id="var2885" type="sub">
+                    <rdg><seg>kaunista</seg>
+                        <hi rend="expanded">saarnea</hi> etkä <hi rend="expanded">jalavaa</hi></rdg>
+                </app> valkeine <app id="var2886" type="sub int">
+                    <rdg>kukkineen, etkä <hi rend="expanded">lehmusta</hi> eli</rdg>
+                </app>
+                <hi rend="expanded">niinipuuta,</hi> jonka <app id="var2887" type="sub">
+                    <rdg>sisäkuoresta niinimattoja tehdään?</rdg>
+                </app> Mutta jos <app id="var2888" type="sub">
+                    <rdg><seg>olet</seg></rdg>
+                </app> nähnyt <app id="var2889" type="sub">
+                    <rdg>niitä Etelä-Suomessa,</rdg>
+                </app> et ole kuitenkaan nähnyt <app id="var2890" type="sub">
+                    <rdg><hi rend="expanded">pyökkipuuta</hi> eli <hi rend="expanded">saksantammea,</hi> jonka kovaan puuhun kirjaimet muinoin</rdg>
+                </app> leikattiin <app id="var2891" type="sub int">
+                    <rdg>painattamista varten.</rdg>
+                </app> Ja <app id="var2892" type="sub">
+                    <rdg><hi rend="expanded">mahonkipuuta</hi></rdg>
+                </app> ja <hi rend="expanded">ebenholtsia</hi> eli mustaa puuta ja monta
+                muuta kallista <app id="var2893" type="sub">
+                    <rdg>puulajia</rdg>
+                </app> olet nähnyt <app id="var2894" type="sub">
+                    <rdg>ainoastaan</rdg>
+                </app> huonekaluissa, joita <app id="var2895" type="sub">
+                    <rdg>puuseppä</rdg>
+                </app> tekee. Sillä nämä puut kasvavat <app id="var2896" type="sub">
+                    <rdg>vain</rdg>
+                </app> lämpimissä maissa.</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType">Puutarhassa näin useita <hi rend="italics">hedelmäpuita,</hi> joiden mehukkaat hedelmät olivat hyviä syödä. <hi rend="expanded">Omenapuu</hi>
+                <app id="var2897" type="sub">
+                    <rdg>oli keväällä</rdg>
+                </app> aivan <app id="var2898" type="sub">
+                    <rdg>lumivalkeana</rdg>
+                </app> kukista, ja syksyllä <app id="var2899" type="sub">
+                    <rdg>olivat</rdg>
+                </app> kaikki <pb type="orig" n="125"/>oksat <app id="var2900" type="sub int">
+                    <rdg>katketa omenien painosta.</rdg>
+                </app> Vesi tuli suuhuni <app id="var2901" type="sub">
+                    <rdg>katselsessani <hi rend="expanded">päärynäpuuta</hi></rdg>
+                </app> ja <app id="var2902" type="sub">
+                    <rdg><hi rend="expanded">kirsikkapuuta.</hi></rdg>
+                </app> Poimi <app id="var2903" type="sub">
+                    <rdg>vain</rdg>
+                </app> ja syö, sanoi puutarhanhoitaja. <app id="var2904" type="sub">
+                    <rdg>Sitten</rdg>
+                </app> saatat <app id="var2905" type="sub">
+                    <rdg>kylvää</rdg>
+                </app> siemenet, sillä se on hyvin <app id="var2906" type="sub">
+                    <rdg>hupaista työtä. Kenties laat</rdg>
+                </app> omenat kasvamaan vielä Pohjanmaallakin. Hämeessä kasvaa sekä omenia
+                että <app id="var2907" type="sub">
+                    <rdg>kirsikoita.</rdg>
+                </app> Etelä-Suomessa kasvaa <app id="var2908" type="sub int">
+                    <rdg>sen lisäksi päärynöitäkin.</rdg>
+                </app> Jos sinulla on hyvä onni, <app id="var2909" type="sub int">
+                    <rdg>niin voit ehkä saada luumujakin <hi rend="expanded">luumupuusta.</hi></rdg>
+                </app> Mutta maamme on <app id="var2910" type="sub">
+                    <rdg>liian</rdg>
+                </app> kylmä <app id="var2911" type="sub">
+                    <rdg>hienommille</rdg>
+                </app> hedelmäpuille. <app id="var2912" type="sub">
+                    <rdg>Tule kanssani</rdg>
+                </app> ansariin, niin näytän sinulle monta sellaista.</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <pb type="orig" n="126"/>
+            <figure type="illustration"/>
+            <p style="romanType">Ansari, mikä se on? kysyin minä. Puutarhanhoitaja sanoi: se
+                on huone, <app id="var2913" type="sub">
+                    <rdg>varta vasten</rdg>
+                </app> rakennettu sellaisia <app id="var2914" type="sub">
+                    <rdg>ulkomaan kasveja</rdg>
+                </app> varten, jotka <app id="var2915" type="sub">
+                    <rdg>vaativat paljon lämpöä</rdg>
+                </app> ja jotka paleltuisivat, jos ne olisivat <app id="var2916" type="sub">
+                    <rdg>ulkoilmassa.</rdg>
+                </app> Sellaista ansaria <app id="var2917" type="sub">
+                    <rdg>saattaa</rdg>
+                </app> lämmittää ja siinä on <app id="var2918" type="sub">
+                    <rdg>etelänpuolella</rdg>
+                </app> suuria <app id="var2919" type="sub">
+                    <rdg>ikkunoita.</rdg>
+                </app> Oletko koskaan <app id="var2920" type="sub">
+                    <rdg>nähnyt <hi rend="expanded">luumuja, manteleita,</hi></rdg>
+                </app><hi rend="expanded"> saksanpähkinöitä, </hi><app id="var2921" type="sub">
+                    <rdg><hi rend="expanded">sitruuneja, pomeransseja,
+                        granaattiomenia</hi></rdg>
+                </app> ja <app id="var2922" type="sub">
+                    <rdg><hi rend="expanded">viikunoita?</hi></rdg>
+                </app> Olen, sanoin minä, niitä olen ostanut <app id="var2923" type="sub">
+                    <rdg>kaupungista.</rdg>
+                </app> Kaupunkiin tuodaan niitä laivoilla <app id="var2924" type="sub">
+                    <rdg>meritse,</rdg>
+                </app> sanoi puutarhanhoitaja. Tässä näet <app id="var2925" type="sub">
+                    <rdg>niiden kaikkien</rdg>
+                </app> kasvavan puissa. Oletko koskaan juonut <app id="var2926" type="sub">
+                    <rdg>kahvia?</rdg>
+                </app> Olen <app id="var2927" type="sub">
+                    <rdg>kyllä.</rdg>
+                </app> Tässä näet <hi rend="expanded">kahvipuun,</hi> jonka <app id="var2928" type="sub">
+                    <rdg>siemeniä</rdg>
+                </app> kuivataan, <app id="var2929" type="sub">
+                    <rdg>tulella paahdetaan</rdg>
+                </app> ja <app id="var2930" type="sub int">
+                    <rdg>kahvimyllyssä <pb type="orig" n="127"/>jauhetaan.</rdg>
+                </app> Oletko juonut <app id="var2931" type="sub">
+                    <rdg>suklaata?</rdg>
+                </app> Olen sitäkin. Tässä näet <app id="var2932" type="sub">
+                    <rdg><hi rend="expanded">kaakaopuun,</hi></rdg>
+                </app> jonka hedelmistä tehdään <app id="var2933" type="sub">
+                    <rdg>suklaakakkuja.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType">Täällä ansarissa kasvaa <hi rend="italics">hyviä </hi><app id="var2934" type="sub">
+                    <rdg><hi rend="italics">mausteita</hi></rdg>
+                </app> ja hyödyllisiä <app id="var2935" type="sub">
+                    <rdg>puulajeja,</rdg>
+                </app> joita tuodaan kaukaa meritse. Oletko maistanut <pb type="orig" n="128"/><hi rend="expanded">kanelia</hi> ja <app id="var2936" type="sub">
+                    <rdg><hi rend="expanded">mausteneilikoita</hi></rdg>
+                </app> ja <hi rend="expanded">laakeripuun</hi>
+                <app id="var2937" type="sub">
+                    <rdg>lehtiä, joita on lakritsan ympärillä?</rdg>
+                </app> Olen kyllä. Tässä näet niiden kasvavan puissa. Oletko maistanut <app id="var2938" type="sub">
+                    <rdg><hi rend="expanded">kiniini</hi></rdg>
+                </app> nimistä lääkettä, ja oletko tuntenut <hi rend="expanded">kanvertin</hi> väkevää <figure type="illustration"/><figure type="illustration"/><app id="var2939" type="sub">
+                    <rdg>
+                        <seg>hajua?</seg></rdg>
+                </app> Olen <app id="var2940" type="sub int">
+                    <rdg>kyllä,</rdg>
+                </app> sairaana ollessani. Tässä näet niitäkin. <app id="var2941" type="sub">
+                    <rdg>Kiniini</rdg>
+                </app> on <app id="var2942" type="sub">
+                    <rdg><hi rend="expanded">kiinapuun</hi></rdg>
+                </app> kuorta ja kanvertti on puun pihkaa. Tässä on toinen puu, jonka <app id="var2943" type="sub">
+                    <rdg>pihkasta</rdg>
+                </app> saadaan <app id="var2944" type="sub">
+                    <rdg><hi rend="expanded">kautsua</hi></rdg>
+                </app> eli <app id="var2945" type="sub int">
+                    <rdg><hi rend="expanded">kimmopihkaa,</hi></rdg>
+                </app> ja tässä on toinen, jonka <app id="var2946" type="sub">
+                    <rdg>pihkasta</rdg>
+                </app> saadaan <app id="var2947" type="sub int">
+                    <rdg>sitkeätä <hi rend="expanded">guttaperkkaa.</hi></rdg>
+                </app> Tässä on <app id="var2948" type="sub">
+                    <rdg><hi rend="expanded">bresiljapuu,</hi> jonka sahanpuruja</rdg>
+                </app> värjäri panee <app id="var2949" type="sub">
+                    <rdg>värikattilaansa,</rdg>
+                </app> ja <pb type="orig" n="129"/><figure type="illustration"/><figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/><app id="var2950" type="sub int">
+                    <rdg><pb type="orig" n="130"/><hi rend="expanded">korkkitammi,</hi> jonka
+                        kevyestä kuoresta</rdg>
+                </app> leikataan <app id="var2951" type="sub int">
+                    <rdg>kork keja pullojen tulpiksi.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType">Tässä on <hi rend="expanded">öljypuu,</hi>
+                <app id="var2952" type="sub">
+                    <rdg>jota Raamatussa</rdg>
+                </app> niin <app id="var2953" type="sub">
+                    <rdg>usein mainitaan,</rdg>
+                </app> sanoi <app id="var2954" type="sub">
+                    <rdg>puutarhanhoitaja.</rdg>
+                </app> Mutta <app id="var2955" type="sub">
+                    <rdg><seg>suuret</seg>
+                        <hi rend="expanded">palmupuut</hi></rdg>
+                </app> ovat niin <app id="var2956" type="sub">
+                    <rdg>korkeita,</rdg>
+                </app> etteivät ne mahtuisi ansariin. Kerron <app id="var2957" type="sub">
+                    <rdg><seg>sinulle</seg> niistäkin vähän tuonnempana.</rdg>
+                </app></p>
+            <head style="romanType"><hi rend="bold">Pensaista ja </hi><app id="var2958" type="sub">
+                    <rdg><hi rend="bold">köynnöksistä.</hi></rdg>
+                </app></head>
+            <p style="romanType">Pane <app id="var2959" type="sub">
+                    <rdg>viinimarja</rdg>
+                </app> maahan, niin itävät sen siemenet ja kasvavat <app id="var2960" type="sub int">
+                    <rdg>vesoina maasta.</rdg>
+                </app> Mutta jokaisesta vesasta ei tule puuta, vaan <hi rend="italics">pensas.</hi> Ja <app id="var2961" type="sub">
+                    <rdg>useimmat</rdg>
+                </app> pensaat ovat, niinkuin puutkin, <pb type="orig" n="131"/>monivuotisia
+                kasveja, mutta <app id="var2962" type="sub">
+                    <rdg>paljon pienemmät</rdg>
+                </app> niitä. Niillä ei ole, niinkuin puilla, oikeaa vartta, vaan oksat <app id="var2963" type="sub">
+                    <rdg>lähtevät</rdg>
+                </app> hajalleen juuresta.</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var2964" type="sub">
+                    <rdg>Myöhempänä kesällä</rdg>
+                </app> menen mielelläni poimimaan hyviä marjoja <hi rend="expanded">vaarain-</hi> ja <app id="var2965" type="sub">
+                    <rdg><hi rend="expanded">viinimarjapensaista.</hi></rdg>
+                </app> Niitä <app id="var2966" type="sub">
+                    <rdg>tapaan</rdg>
+                </app> metsässä kasvavina; mutta <app id="var2967" type="sub">
+                    <rdg><hi rend="expanded">karviaispensaita</hi></rdg>
+                </app> istutetaan puutarhaan, ja <hi rend="expanded">pähkinäpensas</hi>
+                hyvine pähkinöineen ei kasva <app id="var2968" type="sub int">
+                    <rdg>kaukana pohjoisessa.</rdg>
+                </app> Kerran sairastin, ja silloin join <hi rend="expanded">seljapensaan</hi> kukista keitettyä teetä. Jälleen terveeksi tultuani
+                oli keskikesä. Silloin puh<pb type="orig" n="132"/>kesivat <app id="var2969" type="sub">
+                    <rdg><hi rend="expanded">syreenien</hi> sulohajuiset,
+                        sinipunertavat</rdg>
+                </app> kukat, ja <app id="var2970" type="sub">
+                    <rdg><hi rend="expanded">orjanruusupensaat</hi></rdg>
+                </app> olivat <app id="var2971" type="sub">
+                    <rdg>ruusuja <seg>aivan</seg> punaisenaan.</rdg>
+                </app> Niiden <app id="var2972" type="sub">
+                    <rdg>tuoksu</rdg>
+                </app> oli <app id="var2973" type="sub">
+                    <rdg>lääkettä</rdg>
+                </app> väsyneelle mielelleni. <figure type="illustration"/><figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/><app id="var2974" type="sub">
+                    <rdg>
+                        Siitä</rdg>
+                </app> asti on <app id="var2975" type="sub">
+                    <rdg><hi rend="expanded">ruusujen</hi></rdg>
+                </app> suloinen <app id="var2976" type="sub">
+                    <rdg>tuoksu</rdg>
+                </app> ollut minusta mieluista. Olen nähnyt niitä <app id="var2977" type="sub">
+                    <rdg>monenlaisia,</rdg>
+                </app> yksinkertaisia ja kaksinkertaisia. Ja <app id="var2978" type="sub">
+                    <rdg>kun olen repinyt käteni naarmuille</rdg>
+                </app> sen teräviin <app id="var2979" type="sub int">
+                    <rdg>piikkeihin,</rdg>
+                </app> olen <app id="var2980" type="sub int">
+                    <rdg>ruusupensaalle sanonut: <pb type="orig" n="133"/>Torukoot sinua
+                        muut,</rdg>
+                </app> minä annan sinulle anteeksi kauneutesi tähden.</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType">Ansarissa näin ihmeellisiä pensaita. <app id="var2981" type="sub">
+                    <rdg>Siellä</rdg>
+                </app> oli <hi rend="expanded">teepensas,</hi> jonka kuivatuista lehdistä
+                keitetään tavallista teetä. <app id="var2982" type="sub">
+                    <rdg>Siellä</rdg>
+                </app> oli <app id="var2983" type="sub">
+                    <rdg><hi rend="expanded">lakritsapensas</hi></rdg>
+                </app> ja <app id="var2984" type="sub">
+                    <rdg><hi rend="expanded">pippuriköynnös,</hi></rdg>
+                </app> jonka <app id="var2985" type="sub">
+                    <rdg>karvaita marjoja pannaan mausteeksi</rdg>
+                </app> ruokaan. <app id="var2986" type="sub">
+                    <rdg>Siellä</rdg>
+                </app> oli <app id="var2987" type="sub">
+                    <rdg>yksivuotinen</rdg>
+                </app>
+                <hi rend="expanded">pumpulipensas,</hi> jonka siemenistä <app id="var2988" type="sub">
+                    <rdg>nyhdetään hienoja puuvilloja. Sitten villat kartataan,</rdg>
+                </app> kehrätään langoiksi ja kudotaan <app id="var2989" type="sub">
+                    <rdg>pumpulikankaaksi.</rdg>
+                </app></p>
+            <pb type="orig" n="134"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType">Metsässä näin <app id="var2990" type="sub">
+                    <rdg><seg>muutamia</seg> sangen</rdg>
+                </app> pitkiä pensaita, jotka kasvoivat <app id="var2991" type="sub int">
+                    <rdg>maata pitkin.</rdg>
+                </app> Sellaisia <app id="var2992" type="sub">
+                    <rdg>sanottiin</rdg>
+                </app>
+                <hi rend="italics">varvuiksi.</hi> Mutta <app id="var2993" type="sub">
+                    <rdg>ne <seg>eivät</seg></rdg>
+                </app> olleet mitään pahoja ja vaarallisia varpuja, sillä niissä kasvoi <hi rend="expanded">mustikoita, juolukoita</hi> ja <app id="var2994" type="sub">
+                    <rdg><hi rend="expanded">puolukoita.</hi></rdg>
+                </app> En <app id="var2995" type="sub int">
+                    <rdg>suuresti välittänyt <hi rend="expanded">variksenmarjoista</hi> enkä
+                            <hi rend="expanded">sianpuolukoista.</hi></rdg>
+                </app> Mutta <app id="var2996" type="sub">
+                    <rdg><hi rend="expanded">pursuista</hi> valmistetaan hyvää
+                        lääkekylpyä,</rdg>
+                </app> ja <app id="var2997" type="sub">
+                    <rdg><seg>ruskea</seg></rdg>
+                </app>
+                <hi rend="expanded">kanerva</hi> kaunistaa erämaan hietikotkin <app id="var2998" type="sub int">
+                    <rdg>kauneilla,</rdg>
+                </app> vaaleanpunaisilla kukillaan.</p>
+            <p style="romanType"><app id="var2999" type="sub">
+                    <rdg>Kauan</rdg>
+                </app> olin miettinyt tuota tärkeätä <app id="var3000" type="sub">
+                    <rdg>asiaa, kasvavatko</rdg>
+                </app> rusinat <app id="var3001" type="sub">
+                    <rdg><seg>puissa.</seg></rdg>
+                </app> Muutamana päivänä rohkenin tätä kysyä puutarhanhoitajalta. <app id="var3002" type="sub">
+                    <rdg>Hän</rdg>
+                </app> näytti minulle kummallisen kasvin, <app id="var3003" type="sub">
+                    <rdg>joka</rdg>
+                </app> oli niin pitkä ja <app id="var3004" type="sub int">
+                    <rdg>hoikka,</rdg>
+                </app> ettei se <app id="var3005" type="sub">
+                    <rdg>kyennyt kannattamaan</rdg>
+                </app> omaa <app id="var3006" type="sub">
+                    <rdg>varttaan. Sentähden se</rdg>
+                </app> oli <app id="var3007" type="sub">
+                    <rdg>kierretty</rdg>
+                </app> pitkän seipään ympärille, joka <app id="var3008" type="sub">
+                    <rdg>oli</rdg>
+                </app> tukena sen vieressä. Sellaisia kasveja <app id="var3009" type="sub">
+                    <rdg>nimitetään <hi rend="italics">köynnöksiksi,</hi></rdg>
+                </app> sanoi puutarhanhoitaja. Ja tämä on <app id="var3010" type="sub">
+                    <rdg><hi rend="expanded">viiniköynnös.</hi></rdg>
+                </app> Sen hedelmät <app id="var3011" type="sub int">
+                    <rdg>kasvavat tertuissa, niinkuin</rdg>
+                </app> pihlajanmarjat, <app id="var3012" type="sub">
+                    <rdg><seg>ja</seg> niitä sanotaan</rdg>
+                </app>
+                <hi rend="expanded">rypäleiksi.</hi> Muutamista rypäleistä puristetaan
+                viiniä. Toisia pannaan sokeriin ja <app id="var3013" type="sub">
+                    <rdg>sanotaan <hi rend="expanded">ruukkurusinoiksi.</hi></rdg>
+                </app> Toisia taas kuivataan ja <app id="var3014" type="sub">
+                    <rdg>sanotaan vain</rdg>
+                </app>
+                <hi rend="expanded">rusinoiksi.</hi>
+                <pb type="orig" n="135"/>Sellainen <app id="var3015" type="sub">
+                    <rdg>köynnös</rdg>
+                </app> on <hi rend="expanded">humalakin,</hi> joka kasvaa <app id="var3016" type="sub">
+                    <rdg>humalistoissa,</rdg>
+                </app> ja <app id="var3017" type="sub">
+                    <rdg><hi rend="expanded">muratti,</hi></rdg>
+                </app> joka <app id="var3018" type="sub">
+                    <rdg>kapuaa ylös</rdg>
+                </app> muureja ja seiniä <app id="var3019" type="sub int">
+                    <rdg>myöten.</rdg>
+                </app>
+                <hi rend="expanded">Kurkut</hi> ja <app id="var3020" type="sub">
+                    <rdg><hi rend="expanded">meloonit,</hi></rdg>
+                </app> joita viljellään <app id="var3021" type="sub">
+                    <rdg>ansarilavoissa,</rdg>
+                </app> ovat <app id="var3022" type="sub">
+                    <rdg>köynnöskasvien kaltaisia,</rdg>
+                </app> mutta ne <app id="var3023" type="sub">
+                    <rdg>suikertelevat mieluummin</rdg>
+                </app> pitkin maata.</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <head style="romanType"><anchor id="struct110a"/><hi rend="bold">Ruohoja ja
+                    heiniä.</hi><anchor id="struct110b"/></head>
+            <p style="romanType">Kesällä ulkona kävellessäni näen <app id="var3024" type="sub">
+                    <rdg>suloisen, vihreän verhon peittävän maata.</rdg>
+                </app> Monia tuhansia <app id="var3025" type="sub">
+                    <rdg><hi rend="italics">ruohoja</hi></rdg>
+                </app> elää niityillä ja <app id="var3026" type="sub">
+                    <rdg>metsämailla</rdg>
+                </app> lyhyen <app id="var3027" type="sub">
+                    <rdg>kukoistusaikansa. Ne on luotu hyvin erilaisiksi,</rdg>
+                </app> mutta kaikilla <app id="var3028" type="sub">
+                    <rdg>on vihreät</rdg>
+                </app> varret, jotka <app id="var3029" type="sub">
+                    <rdg>jakaantuvat haaroiksi</rdg>
+                </app> ja lakastuvat syksyllä. Miksi <app id="var3030" type="sub">
+                    <rdg>on pellava</rdg>
+                </app> joka vuosi <app id="var3031" type="sub int">
+                    <rdg>uudestaan kylvettävä? Siksi, että</rdg>
+                </app> sen juuri on <app id="var3032" type="sub int">
+                    <rdg>yksivuotinen, ja semmoinen kasvi kuolee syksyllä.</rdg>
+                </app> Miksi ei saada <app id="var3033" type="sub int">
+                    <rdg>siemeniä nauriista ja porkkanoista ensimmäisenä,</rdg>
+                </app> vaan vasta toisena <app id="var3034" type="sub int">
+                    <rdg>vuotena? Siksi, että</rdg>
+                </app> niiden <app id="var3035" type="sub">
+                    <rdg>juurakot</rdg>
+                </app> ovat kaksivuotisia; varret ja lehdet lakastuvat syk<pb type="orig" n="136"/>syllä, mutta kasvavat <app id="var3036" type="sub">
+                    <rdg>uudestaan</rdg>
+                </app> samasta <app id="var3037" type="sub">
+                    <rdg>juurakosta seuraavana</rdg>
+                </app> keväänä.</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType">Pieneen <app id="var3038" type="sub">
+                    <rdg>peltotilkkuun</rdg>
+                </app> on äiti kylvänyt <app id="var3039" type="sub int">
+                    <rdg><hi rend="italics">palkokasveja,</hi></rdg>
+                </app> joiden hedelmät ovat hyviä syödä. Siinä kasvaa <hi rend="expanded">herneitä</hi> ja <hi rend="expanded">papuja</hi> pitkissä <app id="var3040" type="sub">
+                    <rdg>palkosissa. Vielä</rdg>
+                </app> on äiti kylvänyt <app id="var3041" type="sub">
+                    <rdg><hi rend="italics">juurikasveja,</hi></rdg>
+                </app> joista syödään juuret, mutta ei varsia, <app id="var3042" type="sub">
+                    <rdg>ei <seg>lehtiä</seg> eikä</rdg>
+                </app> hedelmiä. Syksyllä otamme ne maasta ylös. <app id="var3043" type="sub">
+                    <rdg>Silloin</rdg>
+                </app> saamme hyviä <app id="var3044" type="sub">
+                    <rdg><hi rend="expanded">perunoita,</hi> mehukkaita</rdg>
+                </app>
+                <hi rend="expanded">nauriita,</hi> isoja <app id="var3045" type="sub">
+                    <rdg><hi rend="expanded">lanttuja,</hi></rdg>
+                </app> pieniä <hi rend="expanded">rediisejä,</hi>
+                <app id="var3046" type="sub">
+                    <rdg>keltaisia <hi rend="expanded">porkkanoita</hi></rdg>
+                </app> valkeita <app id="var3047" type="sub">
+                    <rdg><hi rend="expanded">morajuuria</hi></rdg>
+                </app> ja <app id="var3048" type="sub">
+                    <rdg><hi rend="expanded">retikoita,</hi> punaisia <hi rend="expanded">pun</hi> a <pb type="orig" n="137"/><hi rend="expanded">juurikkaita</hi></rdg>
+                </app> ja oikein väkevää <app id="var3049" type="sub">
+                    <rdg><hi rend="expanded">pippurijuurta.</hi> Tämä</rdg>
+                </app> ja <app id="var3050" type="sub">
+                    <rdg>peruna ovat kasvaneet juurista, joita</rdg>
+                </app> äiti <app id="var3051" type="sub int">
+                    <rdg>on maahan pannut,</rdg>
+                </app> mutta <app id="var3052" type="sub">
+                    <rdg><seg>muut</seg>
+                        <seg>hän</seg> on kasvattanut</rdg>
+                </app> siemenistä.</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType">Olen poiminut <hi rend="expanded">lakkoja</hi>
+                <app id="var3053" type="sub">
+                    <rdg>eli <hi rend="expanded">muuraimia</hi>
+                        <seg>suolta,</seg>
+                        <hi rend="expanded">mesimarjoja</hi></rdg>
+                </app> niityltä ja <app id="var3054" type="sub">
+                    <rdg><hi rend="expanded">mansikoita</hi></rdg>
+                </app> metsän rinteiltä. Puutarhassa olen nähnyt useita hyviä <app id="var3055" type="sub int">
+                    <rdg><hi rend="italics">talouskasveja</hi> viljeltävän. Siellä</rdg>
+                </app> kasvaa isoja <app id="var3056" type="sub">
+                    <rdg><hi rend="expanded">kaalin</hi> kupuja monta lajia, ja <hi rend="expanded">salaattia</hi></rdg>
+                </app> ja <app id="var3057" type="sub int">
+                    <rdg>vihreää <hi rend="expanded">pinaattia,</hi> joka keittiössä</rdg>
+                </app>
+                <pb type="orig" n="138"/>hakataan <app id="var3058" type="sub int">
+                    <rdg>hienoksi. Siellä</rdg>
+                </app> viljellään useita <app id="var3059" type="sub">
+                    <rdg><hi rend="italics">maustekasvejakin,</hi></rdg>
+                </app> joita <app id="var3060" type="sub int">
+                    <rdg>ruokaan pannaan,</rdg>
+                </app> niinkuin <hi rend="expanded">tilliä, persiljaa, meiramia</hi> ja <app id="var3061" type="sub">
+                    <rdg><hi rend="expanded">ajuruohoa.</hi></rdg>
+                </app><hi rend="expanded"> Aniksen</hi> ja <hi rend="expanded">venkoolin</hi> siemeniä panee äiti <app id="var3062" type="sub int">
+                    <rdg>mausteeksi joululeipään.</rdg>
+                </app> Samoin <app id="var3063" type="sub">
+                    <rdg>hän <seg>panee</seg></rdg>
+                </app>
+                <hi rend="expanded">kuminoitakin;</hi> mutta niitä kasvaa itsestään. <app id="var3064" type="sub">
+                    <rdg><hi rend="expanded">Inkivääri, sahrami, muskotti</hi></rdg>
+                </app> ja <app id="var3065" type="sub int">
+                    <rdg><hi rend="expanded">kardemumma</hi> sekä karvas <hi rend="expanded">sinappi,</hi></rdg>
+                </app> jota <app id="var3066" type="sub int">
+                    <rdg>sianlihan kanssa syödään,</rdg>
+                </app> tuodaan <app id="var3067" type="sub">
+                    <rdg>kaikki <seg>ulkomailta.</seg></rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var3068" type="sub">
+                    <rdg>Lisäksi</rdg>
+                </app> on peltotilkussamme useita <hi rend="italics">sipulikasveja.</hi>
+                <hi rend="expanded">Ruohosipulista</hi> syömme varret ja <hi rend="expanded">punasipulista</hi> juuret; mutta <app id="var3069" type="sub">
+                    <rdg><hi rend="expanded">kynsilaukka</hi> haisee pahalle. Useilla
+                        kukilla,</rdg>
+                </app> niinkuin <app id="var3070" type="sub">
+                    <rdg>liljoilla</rdg>
+                </app> ja <app id="var3071" type="sub int">
+                    <rdg>tulpaaneilla, on sipulin tapainen <pb type="orig" n="139"/>juuri.</rdg>
+                </app> Mutta sipuli ei ole <app id="var3072" type="sub">
+                    <rdg>oikeastaan <seg>mikään</seg></rdg>
+                </app> juuri, vaan <app id="var3073" type="sub">
+                    <rdg>kerrostunut runko,</rdg>
+                </app> josta <app id="var3074" type="sub">
+                    <rdg>lähtee juurisäikeitä maahan.</rdg>
+                </app></p>
+            <p style="romanType">Hevosemme ja karjamme ymmärtävät <app id="var3075" type="sub">
+                    <rdg>valita <seg>ruokansa</seg></rdg>
+                </app> laitumella. <app id="var3076" type="sub">
+                    <rdg>Voikukista</rdg>
+                </app> ja muista karvaista <app id="var3077" type="sub">
+                    <rdg>ruohoista ne</rdg>
+                </app> eivät <app id="var3078" type="sub int">
+                    <rdg>huoli,</rdg>
+                </app> vaan hyvin mielellään syövät <app id="var3079" type="sub">
+                    <rdg><hi rend="expanded">hiirenhernettä</hi></rdg>
+                </app> ja <app id="var3080" type="sub">
+                    <rdg><hi rend="expanded">apilaa,</hi></rdg>
+                </app> sekä punaista että <app id="var3081" type="sub">
+                    <rdg>valkoista.</rdg>
+                </app> Sellaisia <app id="var3082" type="sub">
+                    <rdg>ruohoja</rdg>
+                </app> kylvämme ja <app id="var3083" type="sub">
+                    <rdg>sanomme</rdg>
+                </app> niitä <app id="var3084" type="sub">
+                    <rdg><hi rend="italics">rehukasveiksi.</hi></rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <pb type="orig" n="140"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var3085" type="sub">
+                    <rdg>Kun sairastumme, isä</rdg>
+                </app> ostaa <app id="var3086" type="sub">
+                    <rdg>joskus</rdg>
+                </app>
+                <hi rend="expanded">raparperia</hi> ja <hi rend="expanded">oksennusjuurta</hi>
+                <app id="var3087" type="sub int">
+                    <rdg>apteekista.</rdg>
+                </app> Mutta siihen ei hänellä <app id="var3088" type="sub">
+                    <rdg>aina <seg>ole</seg></rdg>
+                </app> varoja. <app id="var3089" type="sub">
+                    <rdg>Senvuoksi</rdg>
+                </app> kasvatamme kotona hyviä <app id="var3090" type="sub">
+                    <rdg><hi rend="italics">lääkeruohoja,</hi></rdg>
+                </app> niinkuin <hi rend="expanded">minttua, </hi><app id="var3091" type="sub">
+                    <rdg><hi rend="expanded">aaprottia, laventelia</hi></rdg>
+                </app> ja <app id="var3092" type="sub">
+                    <rdg><hi rend="expanded">hirvenjuurta.</hi></rdg>
+                </app> Muita sellaisia, niinkuin <pb type="orig" n="141"/><app id="var3093" type="sub">
+                    <rdg><hi rend="expanded">raadetta, pietarruohoja</hi></rdg>
+                </app> ja <app id="var3094" type="sub int">
+                    <rdg><hi rend="expanded">maliheinää,</hi></rdg>
+                </app> poimimme <app id="var3095" type="sub">
+                    <rdg>metsämailta.</rdg>
+                </app> Isä on myös neuvonut meitä tuntemaan <hi rend="italics">myrkylliset</hi>
+                <app id="var3096" type="sub">
+                    <rdg>ruohot. Me kartamme <hi rend="expanded">villikaalia,</hi></rdg>
+                </app> jossa <app id="var3097" type="sub">
+                    <rdg>on</rdg>
+                </app> mustat ja <app id="var3098" type="sub">
+                    <rdg>valkeankeltaiset</rdg>
+                </app> kukat. Me <app id="var3099" type="sub">
+                    <rdg>erotamme</rdg>
+                </app><figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/><figure type="illustration"/> myrkyllisen <app id="var3100" type="sub">
+                    <rdg><hi rend="expanded">katkon,</hi></rdg>
+                </app> jonka <app id="var3101" type="sub">
+                    <rdg>varsi</rdg>
+                </app> on <app id="var3102" type="sub">
+                    <rdg>pilkullinen, <hi rend="expanded">koiranputkesta,</hi></rdg>
+                </app> joka ei ole vahingollinen. <hi rend="expanded">Näsiänmarjat</hi>
+                eivät <app id="var3103" type="sub int">
+                    <rdg>meitä petä,</rdg>
+                </app> vaikka ovat punaisten <app id="var3104" type="sub">
+                    <rdg>viinimarjain kaltaisia. <hi rend="expanded">Sudenmarjoista,
+                            koisoista</hi></rdg>
+                </app> ja <hi rend="expanded">voi</hi><pb type="orig" n="142"/><hi rend="expanded">kukista</hi> emme <app id="var3105" type="sub">
+                    <rdg>usko</rdg>
+                </app> hyvää. Myrkyllistä <app id="var3106" type="sub">
+                    <rdg>ruohoa</rdg>
+                </app> olemme istuttaneet <app id="var3107" type="sub">
+                    <rdg>päivänpuolelle</rdg>
+                </app> tupaa, ja sitä <app id="var3108" type="sub">
+                    <rdg>sanotaan <hi rend="expanded">tupakaksi.</hi></rdg>
+                </app> Sitä <app id="var3109" type="sub">
+                    <rdg>saattaa</rdg>
+                </app> polttaa ja purra ja nuuskata, kun siihen on <app id="var3110" type="sub">
+                    <rdg>tottunut.</rdg>
+                </app> Mutta se, joka ei ole siihen tottunut, tulee siitä sairaaksi. Ja <app id="var3111" type="sub int">
+                    <rdg>paras on olla <seg>sitä</seg> koettelematta.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var3112" type="sub">
+                    <rdg>Hauskaa</rdg>
+                </app> ja <app id="var3113" type="sub int">
+                    <rdg>iloista on nähdä kukkaruukkuja</rdg>
+                </app> akkunoissa. Liisalla on useita kauniita <app id="var3114" type="sub">
+                    <rdg><hi rend="italics">puutarhakukkia.</hi></rdg>
+                </app>
+                <hi rend="expanded">Kurjenpolvi, palsamikukka</hi> ja <hi rend="expanded">helmipuu</hi>
+                <app id="var3115" type="sub">
+                    <rdg>ovat</rdg>
+                </app> aina <pb type="orig" n="143"/>huoneessa <app id="var3116" type="sub">
+                    <rdg>kasvamassa. Pihalle hän</rdg>
+                </app> on <app id="var3117" type="sub">
+                    <rdg><seg>pannut</seg></rdg>
+                </app> kasvamaan <app id="var3118" type="sub">
+                    <rdg>keltaisen <hi rend="expanded">narsissin,</hi></rdg>
+                </app> valkean narsissin, <app id="var3119" type="sub">
+                    <rdg>heleänpunaisen</rdg>
+                </app>
+                <hi rend="expanded">pionin,</hi> kirjavan <app id="var3120" type="sub">
+                    <rdg><hi rend="expanded">unikukan, auringonkukan, tulpaanin,</hi></rdg>
+                </app><hi rend="expanded"> asterin, </hi><app id="var3121" type="sub">
+                    <rdg><hi rend="expanded">kelloruusun,</hi></rdg>
+                </app><hi rend="expanded"> keisarinkruunun, </hi><app id="var3122" type="sub">
+                    <rdg><hi rend="expanded">tuhatkaunon</hi></rdg>
+                </app> ja <app id="var3123" type="sub">
+                    <rdg>monta muuta.</rdg>
+                </app> Mutta <app id="var3124" type="sub">
+                    <rdg><hi rend="expanded">kultalakkaa, leukoijaa</hi></rdg>
+                </app> ja <hi rend="expanded">neilikkaa,</hi> jotka kaikki <app id="var3125" type="sub">
+                    <rdg>tuoksuvat</rdg>
+                </app> niin hyvältä, ja <hi rend="expanded">myrttiä,</hi> josta tehdään <app id="var3126" type="sub">
+                    <rdg>morsiuskruunuja,</rdg>
+                </app> ja <app id="var3127" type="sub">
+                    <rdg><seg>sulohajuista</seg></rdg>
+                </app>
+                <hi rend="expanded">resedaa,</hi>
+                <app id="var3128" type="sub">
+                    <rdg>tuota <seg>kukkain</seg></rdg>
+                </app> ujoa <app id="var3129" type="int">
+                    <rdg>torpantyttöä</rdg>
+                </app> — niitä kaikkia <app id="var3130" type="sub">
+                    <rdg>kasvattaa</rdg>
+                </app> Liisa <app id="var3131" type="sub">
+                    <rdg>mieluimmin kukkaruukuissa. Puutarhanhoitaja</rdg>
+                </app> on luvannut hänelle kaksi <app id="var3132" type="sub">
+                    <rdg>kauneinta sipulikasvia: <hi rend="expanded">hyasintin</hi></rdg>
+                </app> ja <app id="var3133" type="sub int">
+                    <rdg>ison,</rdg>
+                </app> monivärisen <app id="var3134" type="sub">
+                    <rdg><hi rend="expanded">daalian</hi></rdg>
+                </app> eli <app id="var3135" type="sub">
+                    <rdg><hi rend="expanded">georgiinin.</hi></rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <pb type="orig" n="144"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var3136" type="sub">
+                    <rdg>Niityllä</rdg>
+                </app> kasvaa lukemattomia <hi rend="italics">metsäkukkia.</hi> Siellä näkee
+                    <app id="var3137" type="sub">
+                    <rdg>keväällä <hi rend="expanded">sinivuokon</hi> ja <hi rend="expanded">valkovuokon</hi></rdg>
+                </app> ja <app id="var3138" type="sub">
+                    <rdg><hi rend="expanded">kevätesikon</hi></rdg>
+                </app> ja <app id="var3139" type="sub int">
+                    <rdg><hi rend="expanded">kielon.</hi> Kesempänä</rdg>
+                </app> saadaan poimia <app id="var3140" type="sub int">
+                    <rdg><hi rend="expanded">orvokkeja, aholeinikköjä,
+                        sinikelloja</hi></rdg>
+                </app> ja <hi rend="expanded">ketoneilikoita.</hi> Pellossa kasvaa <app id="var3141" type="sub int">
+                    <rdg><hi rend="expanded">sinikauno</hi> eli ruiskaunokki</rdg>
+                </app> ja <app id="var3142" type="sub">
+                    <rdg><hi rend="expanded">aurankukka.</hi></rdg>
+                </app> Vedestä saadaan <hi rend="expanded">valkeita </hi><app id="var3143" type="sub">
+                    <rdg><hi rend="expanded">lumpeenkukkia</hi></rdg>
+                </app> ja <app id="var3144" type="sub">
+                    <rdg>keltaisia <hi rend="expanded">kurjenmiekkoja.</hi> Ei</rdg>
+                </app> niitä kaikkia <app id="var3145" type="sub">
+                    <rdg>jaksa <seg>luetella.</seg></rdg>
+                </app> Mutta yhtä <pb type="orig" n="145"/>en voi olla mainitsematta.
+                Metsässä kasvaa <app id="var3146" type="sub">
+                    <rdg>mäntyjen juurella</rdg>
+                </app> pieni <app id="var3147" type="sub">
+                    <rdg><hi rend="expanded">vanamo</hi></rdg>
+                </app> eli <hi rend="expanded">linnea,</hi> joka on saanut nimensä kasvien
+                järjestäjästä, <app id="var3148" type="sub int">
+                    <rdg>suuresta Linnéstä.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType">Kerran poltin käteni tuossa <app id="var3149" type="sub">
+                    <rdg>ilkeässä <hi rend="expanded">nokkosessa.</hi></rdg>
+                </app> Menin kotiin sitä <app id="var3150" type="sub int">
+                    <rdg>äidilleni valittamaan.</rdg>
+                </app> Äiti istui kutomassa. <app id="var3151" type="sub">
+                    <rdg>Älä</rdg>
+                </app> ole milläsikään, sanoi hän. Nyt kudon kaunista <app id="var3152" type="sub">
+                    <rdg>liina<pb type="orig" n="146"/>kangasta</rdg>
+                </app> teille kaikille. Mistä on <app id="var3153" type="sub">
+                    <rdg>kudelma?</rdg>
+                </app> Se on <app id="var3154" type="sub">
+                    <rdg>pellavalangoista,</rdg>
+                </app> joita sisaresi kehrää rukilla. Mistä ovat langat? Ne ovat <hi rend="expanded">pellavista,</hi> joita isäsi on <app id="var3155" type="sub">
+                    <rdg>kylvänyt peltoon.</rdg>
+                </app> Hyvin kauniina kasvavat ne siinä <app id="var3156" type="int">
+                    <rdg>pienine,</rdg>
+                </app> sinisine kukkineen. Syksyllä <app id="var3157" type="sub">
+                    <rdg>nyhdämme</rdg>
+                </app> ne <app id="var3158" type="sub int">
+                    <rdg>juurineen maasta. Sitten</rdg>
+                </app> liotamme ne vedessä. <app id="var3159" type="sub">
+                    <rdg>Sitten</rdg>
+                </app> loukutamme ne, niin että <app id="var3160" type="sub">
+                    <rdg>päistäret niistä varisevat. Sitten häkilöimme ne,</rdg>
+                </app> niin että tappurat <app id="var3161" type="sub int">
+                    <rdg>irtaantuvat. Sitten</rdg>
+                </app> harjaamme ne. <app id="var3162" type="sub">
+                    <rdg>Näin ne</rdg>
+                </app> ovat <app id="var3163" type="sub">
+                    <rdg>valmiit</rdg>
+                </app> kehrättäviksi. Mutta isällä on <hi rend="expanded">hamppuakin,</hi>
+                joka on <app id="var3164" type="sub">
+                    <rdg>nokkosen</rdg>
+                </app> näköistä. Hyvin lujia kuituja <app id="var3165" type="sub int">
+                    <rdg>saadaan, kun hamput liotetaan</rdg>
+                </app> ja <app id="var3166" type="sub">
+                    <rdg>loukutetaan. Köydenpunoja</rdg>
+                </app> tekee niistä <app id="var3167" type="sub int">
+                    <rdg>mitä lujinta köyttä,</rdg>
+                </app> ja niistä kudotaan <app id="var3168" type="sub">
+                    <rdg>säkkikangasta</rdg>
+                </app> ja purjevaatetta.</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var3169" type="sub">
+                    <rdg>Nyt menemme</rdg>
+                </app> niitylle <app id="var3170" type="sub">
+                    <rdg>heinikköön leikittelemään. Siellä</rdg>
+                </app> on suuri joukko <app id="var3171" type="sub">
+                    <rdg>monenlaisia kasveja,</rdg>
+                </app> joilla kaikilla on <app id="var3172" type="sub int">
+                    <rdg>onsi, nivelikäs</rdg>
+                </app> korsi ja <app id="var3173" type="sub int">
+                    <rdg>pitkät, kaitaiset</rdg>
+                </app> lehdet. <app id="var3174" type="sub">
+                    <rdg>Siellä</rdg>
+                </app> on <app id="var3175" type="sub">
+                    <rdg><hi rend="expanded">simaketta</hi> eli <seg><hi rend="expanded">hajuheinää,</hi></seg></rdg>
+                </app> joka <app id="var3176" type="sub">
+                    <rdg>tuoksuu</rdg>
+                </app> niin hyvältä <app id="var3177" type="sub">
+                    <rdg>heinäladossa. Siellä</rdg>
+                </app> on <app id="var3178" type="sub">
+                    <rdg><hi rend="expanded">nur mitähkiöitä</hi></rdg>
+                </app> ja <app id="var3179" type="sub">
+                    <rdg><hi rend="expanded">puntar</hi><pb type="orig" n="147"/><hi rend="expanded">päätä</hi></rdg>
+                </app> ja <app id="var3180" type="sub">
+                    <rdg><hi rend="expanded">kastikkaa</hi></rdg>
+                </app> ja <app id="var3181" type="sub int">
+                    <rdg><hi rend="expanded">nur mikkaa.</hi></rdg>
+                </app> Nämä kaikki ja <app id="var3182" type="sub">
+                    <rdg>monet <seg>muut</seg></rdg>
+                </app> yhteensä ovat <app id="var3183" type="sub">
+                    <rdg>sitä pehmeätä heinikköä,</rdg>
+                </app> jota isä <app id="var3184" type="sub">
+                    <rdg>viikatteella <seg>niittää</seg></rdg>
+                </app> ja äiti <app id="var3185" type="sub">
+                    <rdg>haravoi</rdg>
+                </app> ja kaikki <app id="var3186" type="sub">
+                    <rdg>sitten</rdg>
+                </app> kantavat <app id="var3187" type="sub">
+                    <rdg>tai</rdg>
+                </app> hevosella ajavat latoon. Rannalla kasvaa <app id="var3188" type="sub">
+                    <rdg><hi rend="expanded">saraheinä</hi></rdg>
+                </app> ja <app id="var3189" type="sub">
+                    <rdg><hi rend="expanded">niittyvilla</hi></rdg>
+                </app> valkeine <app id="var3190" type="int">
+                    <rdg>untuvineen,</rdg>
+                </app> ja <app id="var3191" type="sub">
+                    <rdg><hi rend="expanded">ruoko,</hi></rdg>
+                </app> joka niin nöyrästi kumartelee <app id="var3192" type="sub int">
+                    <rdg>jokaista tuulenviuhkaa.</rdg>
+                </app> Mutta tuolla vedessä seisoo <app id="var3193" type="sub">
+                    <rdg><seg>pehmeä</seg>
+                        <hi rend="expanded">kaisla,</hi></rdg>
+                </app> josta mattoja <app id="var3194" type="sub">
+                    <rdg>palmikoidaan.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType">Aivan usein on <app id="var3195" type="sub int">
+                    <rdg><hi rend="italics">rikkaruoho</hi> pellolla vastuksena. <hi rend="expanded">Narsku</hi> tunkeutuu</rdg>
+                </app> siihen <app id="var3196" type="sub">
+                    <rdg>halusta,</rdg>
+                </app> ja <hi rend="expanded">ohdake</hi>
+                <app id="var3197" type="sub">
+                    <rdg>pyrkii</rdg>
+                </app> alinomaa <app id="var3198" type="sub int">
+                    <rdg>uudelleen kasvaaman,</rdg>
+                </app> vaikka <app id="var3199" type="sub">
+                    <rdg>sen siitä</rdg>
+                </app> juurineen <pb type="orig" n="148"/><app id="var3200" type="sub">
+                    <rdg>revimme. <hi rend="expanded">Ukonkaurakaan</hi></rdg>
+                </app> ei ole <app id="var3201" type="sub">
+                    <rdg>mieleinen vieras,</rdg>
+                </app> ja <app id="var3202" type="sub">
+                    <rdg><hi rend="expanded">juolavehnä</hi> versoo lakkaamatta</rdg>
+                </app> puutarhan <app id="var3203" type="sub">
+                    <rdg>lavoissa.</rdg>
+                </app> Mutta <hi rend="expanded">saviheinän</hi> ja <app id="var3204" type="sub int">
+                    <rdg><hi rend="expanded">nenätin</hi> voimme helpommin siitä
+                        kitkeä.</rdg>
+                </app></p>
+            <p style="romanType">Missä sellaista ruohoa kasvaa, jota <app id="var3205" type="sub">
+                    <rdg>heinäksi</rdg>
+                </app> niitetään, siinä on <hi rend="expanded">niitty;</hi> mutta <app id="var3206" type="sub">
+                    <rdg>missä jyväkasveja kasvaa,</rdg>
+                </app> siinä on <hi rend="expanded">pelto.</hi> Mitä <app id="var3207" type="sub int">
+                    <rdg>jyvät ovat?</rdg>
+                </app> Ne ovat <app id="var3208" type="sub int">
+                    <rdg>useiden <hi rend="expanded">heinän</hi>-sukuisten kasvien
+                        siemeniä.</rdg>
+                </app> Isä kylvää syksyllä <hi rend="expanded">ruista</hi> peltoonsa.
+                Silloin kasvaa kylvöstä pienoisia oraita. Talvi tulee, lunta sataa, rukiin
+                laihon peittää lumi. Se ei kasva, se ei kuole; se odottaa aikaansa. Kevät
+                tulee, kesä lämmittää. Silloin <app id="var3209" type="sub">
+                    <rdg><seg>ruis</seg> tähkii; silloin se kasvaa pitkäksi;</rdg>
+                </app> silloin <app id="var3210" type="sub int">
+                    <rdg>tähkät hedelmöivät. Sitten tekevät ne terää; se on:</rdg>
+                </app> siemenjyvät kasvavat <app id="var3211" type="sub int">
+                    <rdg>tähkissä</rdg>
+                </app> ja <app id="var3212" type="sub int">
+                    <rdg>tuleentuvat sitten.</rdg>
+                </app> Silloin mennään pellolle, leikataan ruis sirpillä, sidotaan <app id="var3213" type="sub">
+                    <rdg>lyhteisiin,</rdg>
+                </app> pannaan <app id="var3214" type="sub">
+                    <rdg>kuhilaille,</rdg>
+                </app> kuivataan auringon paisteessa <app id="var3215" type="sub">
+                    <rdg>ja tuulessa <seg>ja</seg></rdg>
+                </app> puidaan riihessä. Ruumenet <app id="var3216" type="sub">
+                    <rdg>erotetaan</rdg>
+                </app> pois, <app id="var3217" type="sub">
+                    <rdg>oljet</rdg>
+                </app> pannaan tallelle, jyvät jauhetaan myllyssä, ja <app id="var3218" type="sub">
+                    <rdg>sitten äiti</rdg>
+                </app> leipoo <app id="var3219" type="sub">
+                    <rdg><seg>jauhoista</seg></rdg>
+                </app> kaunista leipää ja keittää parasta puuroa. Hyvin <app id="var3220" type="sub">
+                    <rdg>rattoisaa</rdg>
+                </app> ja <app id="var3221" type="sub">
+                    <rdg>hauskaa</rdg>
+                </app> on <app id="var3222" type="sub int">
+                    <rdg><seg>tehdä</seg> työtä pellolla.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <pb type="orig" n="149"/>
+            <p style="romanType">Mutta <app id="var3223" type="sub">
+                    <rdg><hi rend="expanded">ohra</hi></rdg>
+                </app> kylvetään <app id="var3224" type="sub">
+                    <rdg>keväällä,</rdg>
+                </app> ja kuitenkin <app id="var3225" type="sub">
+                    <rdg>se ennättää</rdg>
+                </app> valmistua syksyllä <app id="var3226" type="sub">
+                    <rdg>leikattavaksi.</rdg>
+                </app> Puitua <app id="var3227" type="sub">
+                    <rdg>jauhetaan jyvät</rdg>
+                </app> ryyneiksi <app id="var3228" type="sub">
+                    <rdg>tai</rdg>
+                </app> tehdään maltaiksi, ja <app id="var3229" type="sub">
+                    <rdg>näistä</rdg>
+                </app> pannaan <app id="var3230" type="sub">
+                    <rdg>kaljaa</rdg>
+                </app> ja sahtia. Mutta <app id="var3231" type="sub">
+                    <rdg>väärin on</rdg>
+                </app> polttaa tätä <app id="var3232" type="sub">
+                    <rdg><seg>Jumalan</seg> viljaa</rdg>
+                </app> paloviinaksi. <hi rend="expanded">Kaurat</hi> käytetään osittain <app id="var3233" type="int">
+                    <rdg>ryyneiksi</rdg>
+                </app> ja <app id="var3234" type="sub">
+                    <rdg>jäännös</rdg>
+                </app> annetaan hevosille ruuaksi. <hi rend="expanded">Nisua</hi>
+                <app id="var3235" type="sub">
+                    <rdg>eli <hi rend="expanded">vehnää</hi>
+                        <seg>kylvetään</seg> meillä <seg>harvoin;</seg></rdg>
+                </app> nisujauhot tuodaan <app id="var3236" type="sub">
+                    <rdg>enimmäkseen ulkomailta,</rdg>
+                </app> ja <app id="var3237" type="sub">
+                    <rdg>niistä</rdg>
+                </app> saadaan nisuleipää. <hi rend="expanded">Tattaria</hi> ei <app id="var3238" type="sub int">
+                    <rdg>meillä paljon kylvetä,</rdg>
+                </app> mutta <app id="var3239" type="sub">
+                    <rdg>tattariryynit</rdg>
+                </app> me kyllä tunnemme. <hi rend="expanded">Riisiryynit</hi> ja <hi rend="expanded">mannaryynit</hi> tuodaan muista <app id="var3240" type="int">
+                    <rdg>maista</rdg>
+                </app> joissa <app id="var3241" type="sub">
+                    <rdg>sellaista viljaa</rdg>
+                </app> kasvaa.</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var3242" type="sub">
+                    <rdg>Vielä</rdg>
+                </app> näin <app id="var3243" type="sub">
+                    <rdg>jotakin,</rdg>
+                </app> joka <app id="var3244" type="sub int">
+                    <rdg>oli heinän sukua.</rdg>
+                </app> Kaupungista ostin <app id="var3245" type="sub int">
+                    <rdg>vavoiksi pitkiä</rdg>
+                </app> ulkomaan <app id="var3246" type="sub">
+                    <rdg><hi rend="expanded">ruokoja,</hi></rdg>
+                </app> joita isä halkoi <app id="var3247" type="sub">
+                    <rdg>pirtojen piiksi.</rdg>
+                </app> Ansarissa näin <app id="var3248" type="sub">
+                    <rdg><seg>kallista</seg>
+                        <hi rend="expanded">sokeriruokoa,</hi></rdg>
+                </app> joka kasvaa lämpimissä maissa. Sen mehusta keitetään sokeria,
+                siirappia ja <app id="var3249" type="sub int">
+                    <rdg>rintasokeria.</rdg>
+                </app> Mutta nyt on alettu keittää sokeria <app id="var3250" type="sub">
+                    <rdg>myös <seg>juurikasveista,</seg></rdg>
+                </app> joita <app id="var3251" type="sub">
+                    <rdg>meilläkin kasvaa, nimittäin <hi rend="expanded">valkojuurikkaista.</hi></rdg>
+                </app></p>
+            <pb type="orig" n="150"/>
+            <head style="romanType"><hi rend="bold">Kukattomista kasveista.</hi></head>
+            <p style="romanType"><app id="var3252" type="sub">
+                    <rdg>Koko</rdg>
+                </app> kesän odotin <app id="var3253" type="sub">
+                    <rdg><hi rend="italics">sananjalkoja</hi></rdg>
+                </app> kukkiviksi. Mutta ne olivat <app id="var3254" type="sub">
+                    <rdg>aina yhdenlaisia</rdg>
+                </app> eivätkä kukkineet koskaan. Sen sijaan <app id="var3255" type="sub">
+                    <rdg>tuli lehtien alapuolelle hienoja, hiekkajyvästen näköisiä täpliä.
+                        Ne sisältävät suuren joukon itiöpesäkkeitä, joiden sisässä on aivan
+                        pieniä, paljain silmin näkymättömiä itiöitä. Kustakin itiöstä voi
+                        kasvaa uusi kasvi. Samanlaisia itiöitä on <hi rend="expanded">kortteissa,</hi> jotka kasvavat</rdg>
+                </app> märässä maassa. <app id="var3256" type="sub">
+                    <rdg>Silloin pisti päähäni tarkastella</rdg>
+                </app>
+                <hi rend="italics">sammalia,</hi>
+                <app id="var3257" type="sub">
+                    <rdg>joita kasvaa kivillä, puissa ja maassakin.</rdg>
+                </app> Näin sekä <app id="var3258" type="sub">
+                    <rdg><hi rend="expanded">rahkasammalen</hi></rdg>
+                </app> että pehmeän <app id="var3259" type="sub">
+                    <rdg><hi rend="expanded">karhunsammalen</hi></rdg>
+                </app> ja <app id="var3260" type="sub">
+                    <rdg><hi rend="expanded">seinäsammalen,</hi></rdg>
+                </app> jolla <app id="var3261" type="sub int">
+                    <rdg>hataroita seinänrakoja tukitaan.</rdg>
+                </app> Näinpä muitakin <app id="var3262" type="sub">
+                    <rdg>hienon</rdg>
+                </app> hienoja <app id="var3263" type="sub">
+                    <rdg>kasveja,</rdg>
+                </app> jotka olivat puunkuoren <app id="var3264" type="sub int">
+                    <rdg>tai ohuen vaatetilkun kaltaisia. Niitä sanotaan <hi rend="italics">jäkäliksi.</hi></rdg>
+                </app> Sellaisia <app id="var3265" type="sub">
+                    <rdg>ovat</rdg>
+                </app>
+                <hi rend="expanded">naavat,</hi> jotka <app id="var3266" type="sub">
+                    <rdg>pitkänä partana <seg>riippuvat</seg></rdg>
+                </app> havupuiden oksissa. Sellaisia ovat <app id="var3267" type="sub">
+                    <rdg><hi rend="expanded">kangasjäkälä,</hi></rdg>
+                </app> josta <app id="var3268" type="sub">
+                    <rdg>leipää <seg>leivotaan</seg></rdg>
+                </app> katovuosina, ja <hi rend="expanded">poronjäkälä,</hi> jota poro
+                kaivaa lumen alta, ja <hi rend="expanded">kiventiira,</hi> jolla äiti painaa
+                villalankojaan ruskeaksi. En voinut nähdä niissä kukkia, mutta näin <app id="var3269" type="sub">
+                    <rdg>niissä</rdg>
+                </app> olevan <app id="var3270" type="sub">
+                    <rdg>itiöitä</rdg>
+                </app> pienissä <app id="var3271" type="sub">
+                    <rdg>koteloissa.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <pb type="orig" n="151"/>
+            <p style="romanType">Merellä soudellessani tarttuivat aironi usein <app id="var3272" type="sub">
+                    <rdg>meriruohoihin, joita pitkinä säikeinä</rdg>
+                </app> kasvoi <app id="var3273" type="sub int">
+                    <rdg>merenpohjasta.</rdg>
+                </app> Sellaisia oli monta lajia, ja niitä <app id="var3274" type="sub">
+                    <rdg>sanottiin</rdg>
+                </app>
+                <hi rend="expanded">hauroiksi,</hi> ja <app id="var3275" type="sub">
+                    <rdg>sellaisia</rdg>
+                </app> oli siinäkin <app id="var3276" type="sub">
+                    <rdg>vihreässä</rdg>
+                </app> aineessa, <app id="var3277" type="sub">
+                    <rdg>jota umpinaisessa vesilammikossa kokoontui vedenpintaan.</rdg>
+                </app> Kaikkia näitä <app id="var3278" type="sub">
+                    <rdg>sanottiin <hi rend="italics">leviksi,</hi></rdg>
+                </app> ja niillä <app id="var3279" type="sub">
+                    <rdg>oli itiöt,</rdg>
+                </app> mutta ei <app id="var3280" type="sub">
+                    <rdg><seg>kukkia.</seg> Monet ovat aivan pieniä, paljain silmin
+                        näkymättömiä.</rdg>
+                </app></p>
+            <p style="romanType"><app id="var3281" type="sub">
+                    <rdg>Samaa</rdg>
+                </app> näin <hi rend="italics">sienissäkin.</hi>
+                <app id="var3282" type="sub">
+                    <rdg>Niitä oli monenlaisia,</rdg>
+                </app> ja muutamia, niinkuin <app id="var3283" type="sub">
+                    <rdg><hi rend="expanded">korvasieniä,</hi></rdg>
+                </app> paistoi äiti ruuaksi; mutta toisista sanoi äiti: <app id="var3284" type="sub">
+                    <rdg>älkää</rdg>
+                </app> syökö niitä, sillä ne ovat myrkyllisiä. Juuri sellainen oli <app id="var3285" type="sub int">
+                    <rdg><hi rend="expanded">kärpässieni.</hi> Oppiaksesi tämän
+                        tuntemaan,</rdg>
+                </app> panen sen <app id="var3286" type="sub int">
+                    <rdg>kuvan tähän.</rdg>
+                </app> Sillä on <app id="var3287" type="sub">
+                    <rdg>punainen pilkullinen</rdg>
+                </app> hattu päässä, ja <app id="var3288" type="sub int">
+                    <rdg>sillä on jalka,</rdg>
+                </app> mutta muutamilla sienillä ei ole ollenkaan jalkaa. Muistatko <app id="var3289" type="sub">
+                    <rdg><hi rend="expanded">ukontuhniota,</hi></rdg>
+                </app> joka on valkea ja pyöreä kuin muna? Kun <app id="var3290" type="sub">
+                    <rdg>se on mädännyt ja <seg>sitä</seg></rdg>
+                </app> polkee, <app id="var3291" type="sub">
+                    <rdg>lähtee</rdg>
+                </app> siitä <app id="var3292" type="sub">
+                    <rdg>ikäänkuin</rdg>
+                </app> savua. <hi rend="expanded">Taulakääpä</hi>
+                <app id="var3293" type="sub">
+                    <rdg>kasvaa</rdg>
+                </app> puissa. Mutta pienin sieni on <hi rend="expanded">home,</hi>
+                <app id="var3294" type="sub">
+                    <rdg>jota</rdg>
+                </app> kasvaa vanhassa ruuassa. Eikä kukaan <app id="var3295" type="sub int">
+                    <rdg>saata sanoa,</rdg>
+                </app> kuinka sen siemenet ovat <app id="var3296" type="sub int">
+                    <rdg>siihen tulleet.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType">Ja <app id="var3297" type="sub">
+                    <rdg>samaten kuin</rdg>
+                </app> muutamia eläimiä <app id="var3298" type="sub">
+                    <rdg>sanotaan ylemmiksi</rdg>
+                </app> ja toisia <app id="var3299" type="sub int">
+                    <rdg>alemmiksi,</rdg>
+                </app> heidän ruumiinsa täydellisemmän <app id="var3300" type="sub">
+                    <rdg>tai</rdg>
+                </app> vaillinaisemman muodon mukaan, <app id="var3301" type="sub">
+                    <rdg>samaten</rdg>
+                </app> kasvejakin. Mutta kaikki <app id="var3302" type="sub">
+                    <rdg>ne <seg>ovat</seg></rdg>
+                </app> niin viisaasti <app id="var3303" type="sub">
+                    <rdg>luotuja,</rdg>
+                </app> että <app id="var3304" type="sub int">
+                    <rdg>vastaavat tarkoi<pb type="orig" n="152"/>tustansa aivan
+                        täydellisesti.</rdg>
+                </app> Niin ihmeellisesti on <app id="var3305" type="sub">
+                    <rdg><seg>hyvä</seg></rdg>
+                </app> Jumala kasveihin yhdistänyt kauneuden ja hyödyn, että <app id="var3306" type="sub">
+                    <rdg>silmillemme, hajuaistillemme</rdg>
+                </app> ja <app id="var3307" type="sub">
+                    <rdg>nälkäiselle vatsallemme niistä</rdg>
+                </app> on <app id="var3308" type="sub">
+                    <rdg><seg>iloa.</seg></rdg>
+                </app></p>
+            <p style="romanType">Eräänä <app id="var3309" type="sub">
+                    <rdg>iltana</rdg>
+                </app> juhannuksen aikana istuivat Antti ja Liisa turvepenkillä <app id="var3310" type="sub">
+                    <rdg>korkean</rdg>
+                </app> koivun alla. <app id="var3311" type="sub">
+                    <rdg>Haassa</rdg>
+                </app> söivät lehmät tuoretta ruohoa. Linnut lauloivat kukkivassa
+                pihlajassa, <app id="var3312" type="sub">
+                    <rdg>mansikat hohtivat punaisina</rdg>
+                </app> metsän <app id="var3313" type="sub">
+                    <rdg>rinteessä, apilat tuoksuivat hyvänhajuisina</rdg>
+                </app> kartanolla ja <app id="var3314" type="sub">
+                    <rdg>avonaisesta tuvanovesta lemusi vastaleivotun,</rdg>
+                </app> lämpimän leivän <app id="var3315" type="sub int">
+                    <rdg>haju. Silloin</rdg>
+                </app> panivat molemmat lapset kätensä ristiin, rukoilivat ja kiittivät
+                Jumalaa, joka <app id="var3316" type="sub">
+                    <rdg>on pukenut vihreillä kasveilla</rdg>
+                </app> koko maan niin <app id="var3317" type="sub int">
+                    <rdg>kauniiksi. He katselivat</rdg>
+                </app> ilolla ja rakkaudella kaikkia puita, kaikkia pensaita, kaikkia <app id="var3318" type="sub">
+                    <rdg>noita <seg>tuhansia</seg></rdg>
+                </app> kukkia ja erilaisia <app id="var3319" type="sub">
+                    <rdg>ruohoja.</rdg>
+                </app> Ja samalla hetkellä muistivat <app id="var3320" type="sub">
+                    <rdg>he kumpikin,</rdg>
+                </app> mitä Vapahtaja <app id="var3321" type="sub">
+                    <rdg>Jessus</rdg>
+                </app> sanoi kedon <app id="var3322" type="sub">
+                    <rdg>kukkasista: ”Kuitenkin minä</rdg>
+                </app> sanon <app id="var3323" type="sub">
+                    <rdg><seg>teille,</seg></rdg>
+                </app> ettei <app id="var3324" type="sub">
+                    <rdg>Salomokaan</rdg>
+                </app> kaikessa <app id="var3325" type="sub">
+                    <rdg>loistossaan</rdg>
+                </app> ollut niin <app id="var3326" type="int">
+                    <rdg>vaatetettu,</rdg>
+                </app> kuin yksi <app id="var3327" type="sub int">
+                    <rdg>niistä.”</rdg>
+                </app>
+            </p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <pb type="orig" n="153"/>
+            <head style="romanType"><hi rend="bold">Puiden </hi><app id="var3328" type="sub">
+                    <rdg><hi rend="bold">iästä.</hi></rdg>
+                </app></head>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType">Usein <app id="var3329" type="sub">
+                    <rdg>saatat poikkihakatun</rdg>
+                </app> petäjän <app id="var3330" type="sub">
+                    <rdg>tyven</rdg>
+                </app> päässä <app id="var3331" type="sub">
+                    <rdg>lukea</rdg>
+                </app> 200 ja 300 keltaista rengasta. Siitä <app id="var3332" type="sub">
+                    <rdg>tiedät</rdg>
+                </app> petäjän kasvaneen kaksi <app id="var3333" type="sub">
+                    <rdg>tai</rdg>
+                </app> kolme sataa vuotta, ennenkuin se on tullut isoksi mastopuuksi.
+                Muutamain rengasten väli on <app id="var3334" type="sub int">
+                    <rdg>leveämpi,</rdg>
+                </app> toisten <app id="var3335" type="sub">
+                    <rdg>taas kaitaisempi.</rdg>
+                </app> Tästä <app id="var3336" type="sub">
+                    <rdg>nähdään, että puu <seg>on</seg> kasvanut toisena</rdg>
+                </app> vuonna enemmän <app id="var3337" type="sub int">
+                    <rdg>paksuutta</rdg>
+                </app> kuin <app id="var3338" type="sub int">
+                    <rdg>toisena.</rdg>
+                </app> Se <app id="var3339" type="sub">
+                    <rdg>johtuu</rdg>
+                </app> siitä, että kesä on ollut enemmän <app id="var3340" type="sub">
+                    <rdg>tai</rdg>
+                </app> vähemmän <app id="var3341" type="sub">
+                    <rdg>suotuisa</rdg>
+                </app> puun kasvulle. <app id="var3342" type="sub">
+                    <rdg>Löyhäsisuksiset</rdg>
+                </app> ja <app id="var3343" type="sub">
+                    <rdg>nopeasti</rdg>
+                </app> kasvavat <app id="var3344" type="sub">
+                    <rdg>puut, kuten</rdg>
+                </app> haapa ja halava, vanhenevat pikemmin ja <app id="var3345" type="sub">
+                    <rdg>kuivuvat ennemmin.</rdg>
+                </app> Mutta kovat puulajit, <app id="var3346" type="sub">
+                    <rdg>kuten</rdg>
+                </app> tammi, kasvavat <app id="var3347" type="sub">
+                    <rdg>paljon hitaammin</rdg>
+                </app> ja tulevat hyvin vanhoiksi. Englannissa on tammia, jotka ovat <app id="var3348" type="sub">
+                    <rdg>toistatuhatta vuotta</rdg>
+                </app> vanhoja. <app id="var3349" type="sub">
+                    <rdg>Itä-Intiassa</rdg>
+                </app> kasvaa viikunapuu, joka yksinään on pienen <app id="var3350" type="sub">
+                    <rdg>metsikön</rdg>
+                </app> kokoinen. <app id="var3351" type="sub">
+                    <rdg>Useat</rdg>
+                </app> sen <pb type="orig" n="154"/><app id="var3352" type="sub">
+                    <rdg>oksat,</rdg>
+                </app> jotka riippuvat <app id="var3353" type="sub">
+                    <rdg>maahan asti, ovat siihen juurtuneet juurrukkaiksi.
+                        Seitsemäntuhatta</rdg>
+                </app> ihmistä mahtuu istumaan tämän puun <app id="var3354" type="sub">
+                    <rdg>varjoon,</rdg>
+                </app> ja sen luullaan olevan <app id="var3355" type="sub">
+                    <rdg>kahtatuhatta</rdg>
+                </app> vuotta vanhemman.</p>
+            <head style="romanType"><anchor id="struct126a"/><hi rend="bold">Palmupuista.</hi><anchor id="struct126b"/></head>
+            <figure type="illustration"/>
+            <p style="romanType">Lämpimissä maissa ei ihmisen tarvitse <app id="var3356" type="sub">
+                    <rdg>muuta <seg>kuin</seg></rdg>
+                </app> ojentaa kätensä <app id="var3357" type="sub">
+                    <rdg>saadakseen ruokansa</rdg>
+                </app> kasvikunnasta. Siellä kasvaa <app id="var3358" type="sub">
+                    <rdg><hi rend="expanded">leipäpuu,</hi></rdg>
+                </app> joka <app id="var3359" type="sub">
+                    <rdg>tuottaa</rdg>
+                </app> niin runsaasti hedelmiä, että kolme puuta elättää yhden hengen koko
+                    <app id="var3360" type="sub int">
+                    <rdg>vuosikauden.</rdg>
+                </app> Mutta eivät mitkään puut ole niin kauniita ja hyödyllisiä kuin <app id="var3361" type="sub">
+                    <rdg><seg>korkeat</seg> palmut. Vieressä</rdg>
+                </app> näet <app id="var3362" type="sub">
+                    <rdg><hi rend="expanded">kookospalmun</hi></rdg>
+                </app> kuvan. Sen korkeassa <app id="var3363" type="sub">
+                    <rdg>rungossa</rdg>
+                </app> ei ole <app id="var3364" type="sub">
+                    <rdg>yhtäkään</rdg>
+                </app> oksaa, ainoastaan <app id="var3365" type="sub">
+                    <rdg><seg>isolehtinen</seg> lakka.</rdg>
+                </app> Sitä myöten <app id="var3366" type="sub">
+                    <rdg>kuin runko</rdg>
+                </app> kasvaa korkeammaksi ja uusia <app id="var3367" type="sub">
+                    <rdg>lehtiä</rdg>
+                </app> tulee latvaan, <app id="var3368" type="sub">
+                    <rdg>varisevat</rdg>
+                </app> alimmaiset lehdet pois ja jättävät <app id="var3369" type="sub">
+                    <rdg>runkoon</rdg>
+                </app> pakuraisia renkaita. <app id="var3370" type="sub int">
+                    <rdg>Kookospähkinät,</rdg>
+                </app> jotka kasvavat aivan lehtien <app id="var3371" type="sub int">
+                    <rdg>juuressa,</rdg>
+                </app> ovat lapsen pään <app id="var3372" type="sub">
+                    <rdg>kokoisia</rdg>
+                </app> ja aivan hyviä syödä. Niiden <app id="var3373" type="sub">
+                    <rdg>valkea <seg>neste</seg></rdg>
+                </app> on maidon <app id="var3374" type="sub">
+                    <rdg>kaltaista</rdg>
+                </app> ja hyvin terveellistä. Niiden kovista kuorista tehdään <app id="var3375" type="sub">
+                    <rdg>maljoja</rdg>
+                </app> ja kauhoja. Lehdet suojaavat polttavalta auringolta. <app id="var3376" type="sub">
+                    <rdg>Näistä palmikoidaan mattoja ja varjostimia, <pb type="orig" n="155"/>niiden varsista</rdg>
+                </app> vakkoja ja köysiä. <app id="var3377" type="sub">
+                    <rdg>Saagopalmulla</rdg>
+                </app> on paksu ydin, jota kuivataan ryyneiksi. <app id="var3378" type="sub">
+                    <rdg>Taatelipalmussa</rdg>
+                </app> kasvaa <app id="var3379" type="sub int">
+                    <rdg>mitä maukkaimpia taateleita.</rdg>
+                </app> Monta ihmistä <app id="var3380" type="sub">
+                    <rdg>saa</rdg>
+                </app> niistä <app id="var3381" type="sub">
+                    <rdg>miltei kaiken</rdg>
+                </app> ravintonsa. Nesteestä tehdään palmuviiniä; sydämet hienonnetaan
+                kameeleille <app id="var3382" type="int">
+                    <rdg>ruuaksi,</rdg>
+                </app> ja <app id="var3383" type="sub">
+                    <rdg>rungosta</rdg>
+                </app> saadaan <app id="var3384" type="sub">
+                    <rdg>rakennustarpeita</rdg>
+                </app> ja polttopuuta.</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <head style="romanType"><hi rend="bold">Tervasta.</hi></head>
+            <p style="romanType"><app id="var3385" type="sub">
+                    <rdg>Tahdotko tietää,</rdg>
+                </app> miten <app id="var3386" type="sub int">
+                    <rdg>kesällä tervahauda ssa <seg>tervaa</seg> poltetaan?</rdg>
+                </app> Isä menee metsään. Siellä näkee hän <app id="var3387" type="sub">
+                    <rdg>hoikkia</rdg>
+                </app> mäntyjä kasvavan laihassa maassa. Ne eivät kelpaa sahapölkyiksi <app id="var3388" type="sub">
+                    <rdg>eikä</rdg>
+                </app> lankuiksi; mutta isä tietää <app id="var3389" type="sub int">
+                    <rdg>paremmin, mihin</rdg>
+                </app> ne kelpaavat. <app id="var3390" type="sub">
+                    <rdg>Keväällä</rdg>
+                </app>
+                <hi rend="expanded">koloo</hi> hän <app id="var3391" type="sub int">
+                    <rdg>ne siten,</rdg>
+                </app> että <app id="var3392" type="sub">
+                    <rdg><seg>terävällä</seg></rdg>
+                </app> raudalla kuorii puista <app id="var3393" type="sub int">
+                    <rdg>kuoren, jättäen sitä vain kapealta</rdg>
+                </app> seläksi. <pb type="orig" n="156"/>Toisena vuonna <app id="var3394" type="sub">
+                    <rdg>veistää hän</rdg>
+                </app> tyvelle <app id="var3395" type="sub">
+                    <rdg>jääneen kuoren</rdg>
+                </app> pois. Kolmantena vuonna <app id="var3396" type="sub">
+                    <rdg>kuorii hän</rdg>
+                </app> ylempää <app id="var3397" type="sub">
+                    <rdg>kuoren;</rdg>
+                </app> sillä lailla jatketaan koloja. <app id="var3398" type="sub">
+                    <rdg>Koloista kihoo kesällä petäjän pihka pinnalle.
+                            <seg>Viidentenä</seg></rdg>
+                </app> talvena tavallisesti kaataa isä <app id="var3399" type="sub">
+                    <rdg><seg>kolotut</seg></rdg>
+                </app> puut, <app id="var3400" type="sub">
+                    <rdg>pilkkoo</rdg>
+                </app> ne pieniksi ja latoo pinoihin. <app id="var3401" type="sub">
+                    <rdg>Sitten</rdg>
+                </app> kaivaa hän maahan pyöreän kuopan, <app id="var3402" type="sub">
+                    <rdg>jota sanotaan</rdg>
+                </app>
+                <hi rend="expanded">tervahaudaksi.</hi> Siihen latoo hän tervakset ja kattaa
+                    <app id="var3403" type="sub">
+                    <rdg>ne</rdg>
+                </app> sammalilla ja <app id="var3404" type="sub">
+                    <rdg>hiekalla. Sitten</rdg>
+                </app> sytyttää hän haudan; mutta <app id="var3405" type="sub">
+                    <rdg>se <seg>ei</seg></rdg>
+                </app> saa palaa ilmitulessa, vaan ainoastaan hiiltymällä. Kuumuudessa
+                muuttuu pihka tervaksi ja juoksee haudan pohjassa olevaa puutorvea myöten
+                tynnyreihin. Tervalla täytetyt tynnyrit <app id="var3406" type="sub">
+                    <rdg>myy</rdg>
+                </app> isä kaupunkiin <app id="var3407" type="sub">
+                    <rdg>kauppiaalle. Kauppias</rdg>
+                </app> tyhjentää osan tervaa isoon <app id="var3408" type="sub">
+                    <rdg>vaskikattilaan</rdg>
+                </app> ja keittää <app id="var3409" type="sub">
+                    <rdg>siten pikeä.</rdg>
+                </app> Toisen osan antaa hän olla tynnyreissä ja <app id="var3410" type="sub">
+                    <rdg>vie</rdg>
+                </app> ne sekä pikitynnyrit laivaansa. Laiva purjehtii vieraalle maalle.
+                Siellä <app id="var3411" type="sub">
+                    <rdg>laivuri myy</rdg>
+                </app> tervan ja pien, <app id="var3412" type="sub">
+                    <rdg>joita</rdg>
+                </app> ei <app id="var3413" type="sub">
+                    <rdg>käy valmistaminen</rdg>
+                </app> vieraassa maassa. Rahoilla ostaa hän <app id="var3414" type="sub">
+                    <rdg>sitten</rdg>
+                </app> suoloja, <app id="var3415" type="sub">
+                    <rdg>kahvia,</rdg>
+                </app> sokeria ja <app id="var3416" type="sub">
+                    <rdg>paljon</rdg>
+                </app> muuta hyvää <app id="var3417" type="sub">
+                    <rdg>tavaraa,</rdg>
+                </app> jota <app id="var3418" type="sub int">
+                    <rdg>meidän maassa ei ole eikä valmisteta. Kaiken tämän tuo</rdg>
+                </app> hän laivalla <app id="var3419" type="sub">
+                    <rdg>kauppiaalle,</rdg>
+                </app> ja <app id="var3420" type="sub">
+                    <rdg>kauppias myy</rdg>
+                </app> tätä <app id="var3421" type="sub">
+                    <rdg>sitten</rdg>
+                </app> meille. Näin vaihettaa <app id="var3422" type="sub">
+                    <rdg>toinen</rdg>
+                </app> maa <app id="var3423" type="sub">
+                    <rdg>tavaroitaan</rdg>
+                </app> toisen maan <app id="var3424" type="sub int">
+                    <rdg>kanssa. Ja</rdg>
+                </app> näin <app id="var3425" type="sub int">
+                    <rdg>kaikki saavat,</rdg>
+                </app> mitä tarvitsevat.</p>
+            <figure type="illustration"/>
+            <pb type="orig" n="157"/>
+            <head style="romanType"><app id="var3426" type="sub">
+                    <rdg><hi rend="bold">Kaarle</hi></rdg>
+                </app><hi rend="bold"> Linnéstä ja</hi> <app id="var3427" type="sub">
+                    <rdg><hi rend="bold">ruohoista.</hi></rdg>
+                </app></head>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var3428" type="sub">
+                    <rdg>Kahdeksannellatoista vuosisadalla</rdg>
+                </app> eli <app id="var3429" type="sub">
+                    <rdg>Ruotsissa</rdg>
+                </app> mies, jonka nimi oli <app id="var3430" type="sub">
+                    <rdg><hi rend="expanded">Kaarle</hi></rdg>
+                </app><hi rend="expanded"> Linné.</hi> Jo poikana olivat hänelle <app id="var3431" type="sub">
+                    <rdg>kauniit</rdg>
+                </app> kasvit <app id="var3432" type="sub int">
+                    <rdg>rakkaimpia esineitä luonnossa.</rdg>
+                </app> Koko <app id="var3433" type="sub">
+                    <rdg>kesäkaudet kuljeskeli</rdg>
+                </app> hän <app id="var3434" type="sub">
+                    <rdg>metsissä</rdg>
+                </app> ja <app id="var3435" type="sub">
+                    <rdg>niityillä.</rdg>
+                </app> Alinomaa <app id="var3436" type="sub">
+                    <rdg>vertaili</rdg>
+                </app> hän kukkia <app id="var3437" type="sub">
+                    <rdg>toisiinsa</rdg>
+                </app> ja koetti <app id="var3438" type="sub">
+                    <rdg>saada selville</rdg>
+                </app> niiden <app id="var3439" type="sub">
+                    <rdg>tarkoituksen. Näin hän</rdg>
+                </app> viimein <app id="var3440" type="sub int">
+                    <rdg>huomasi <seg>ihmeellisen</seg> järjestyksen</rdg>
+                </app> erilaisten kukkain suuressa moninaisuudessa. Hän luki <app id="var3441" type="sub int">
+                    <rdg>jokaisen kukan siittimet.</rdg>
+                </app> Kaikki kukat, <app id="var3442" type="sub">
+                    <rdg>joissa oli samanlaiset</rdg>
+                </app> siittimet, asetti hän <app id="var3443" type="sub int">
+                    <rdg>eri luokaksi. Täällä</rdg>
+                </app> tavalla sai hän 23 luokkaa. 24:nteen luokkaan <app id="var3444" type="sub">
+                    <rdg>määräsi</rdg>
+                </app> hän ne kasvit, joilla ei ollut kukkia. <app id="var3445" type="sub">
+                    <rdg>Sitten</rdg>
+                </app> hän <app id="var3446" type="sub">
+                    <rdg>jakoi <seg>jokaisen</seg></rdg>
+                </app> luokan <app id="var3447" type="sub int">
+                    <rdg>lahkoihin,</rdg>
+                </app> jokaisen <app id="var3448" type="sub">
+                    <rdg>lahkon</rdg>
+                </app> sukuihin ja jokaisen suvun <app id="var3449" type="sub">
+                    <rdg>lajeihin.</rdg>
+                </app> Samoin <app id="var3450" type="sub">
+                    <rdg>hän <seg>jakoi</seg></rdg>
+                </app> eläimetkin. Näin <app id="var3451" type="sub">
+                    <rdg>hän <seg>koetti</seg> tutkistella</rdg>
+                </app> koko luonnon viisautta. Toiset <app id="var3452" type="sub">
+                    <rdg>oppineet</rdg>
+                </app> miehet ovat <app id="var3453" type="sub">
+                    <rdg>sitten täydentäneet</rdg>
+                </app> hänen <app id="var3454" type="sub int">
+                    <rdg>työtänsä.</rdg>
+                </app> Mutta kaikissa maissa ja kaikkina aikoina on Linnén muisto ollut <app id="var3455" type="sub">
+                    <rdg>laajalti kuuluisa.</rdg>
+                </app> Vielä <app id="var3456" type="sub">
+                    <rdg>kauan,</rdg>
+                </app> hänen <app id="var3457" type="sub">
+                    <rdg>kuoltuansakin,</rdg>
+                </app> muistelevat lapset hänen <app id="var3458" type="int">
+                    <rdg>nimeään,</rdg>
+                </app> ja <app id="var3459" type="sub">
+                    <rdg>maail<pb type="orig" n="158"/>man <seg>viisaat</seg></rdg>
+                </app> sanovat toisilleen: <app id="var3460" type="sub">
+                    <rdg>Se</rdg>
+                </app> oli mainio mies! Ja <app id="var3461" type="sub">
+                    <rdg>kun iltatuuli liehuu puissa</rdg>
+                </app> ja <app id="var3462" type="sub">
+                    <rdg>kukissa</rdg>
+                </app> ja <app id="var3463" type="sub">
+                    <rdg>heinissä, kuulet niiden</rdg>
+                </app> suhisevan ja <app id="var3464" type="sub">
+                    <rdg>ikäänkuin</rdg>
+                </app> sanovan toisilleen näin: <app id="var3465" type="sub">
+                    <rdg>Se</rdg>
+                </app> mies, joka rakasti meitä ja ymmärsi meitä, oli <app id="var3466" type="sub">
+                    <rdg>nimeltään Kaarle</rdg>
+                </app> Linné. Se oli mainio mies!</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var3467" type="sub">
+                    <rdg>Kasvien jaon määrää niiden kukkain</rdg>
+                </app> ja <app id="var3468" type="sub">
+                    <rdg>hedelmäin muoto.</rdg>
+                </app> Niin <app id="var3469" type="sub">
+                    <rdg>sanotaan <hi rend="expanded">hernekukkaisiksi</hi> useita
+                        palkokasveja, kuten hernettä</rdg>
+                </app> ja <app id="var3470" type="sub">
+                    <rdg>apilaa.</rdg>
+                </app> Toisia <app id="var3471" type="sub int">
+                    <rdg>taas, esim.</rdg>
+                </app> naurista ja <app id="var3472" type="sub">
+                    <rdg>krassia, sanotaan <hi rend="expanded">ristikukkaisiksi.</hi></rdg>
+                </app> Vielä <app id="var3473" type="sub int">
+                    <rdg>toisia,</rdg>
+                </app> niinkuin <app id="var3474" type="sub">
+                    <rdg>orjantappuran</rdg>
+                </app> ja <app id="var3475" type="sub">
+                    <rdg>vaaraimen kukkaa sanotaan <hi rend="expanded">ruusukukkaisiksi.</hi> Muutamissa, niinkuin koiranputkessa ja
+                        kuminassa,</rdg>
+                </app> on monta pientä kukkaa <app id="var3476" type="sub int">
+                    <rdg>sarjassa. Ohdakkeen ja voikukan pienet kukinnot ovat yhtyneet
+                        mykeröiksi.</rdg>
+                </app> Muutamat kukat ovat huulten <app id="var3477" type="sub int">
+                    <rdg>näköisiä</rdg>
+                </app> ja <app id="var3478" type="sub">
+                    <rdg>toiset</rdg>
+                </app> riippuvat alaspäin. <app id="var3479" type="sub">
+                    <rdg>Heinäin</rdg>
+                </app> kukat <app id="var3480" type="sub">
+                    <rdg>muodostavat tähkän tai <pb type="orig" n="159"/>röyhyn.</rdg>
+                </app> Ja <app id="var3481" type="sub">
+                    <rdg>näin huomaamme ensi silmäyksellä</rdg>
+                </app> heimolaisuuden erilaisten <app id="var3482" type="sub">
+                    <rdg>sukujen</rdg>
+                </app> ja lajien välillä kasvikunnassa.</p>
+            <p style="romanType">Oletko <app id="var3483" type="sub">
+                    <rdg>huomannut muutamien kukkien</rdg>
+                </app> sulkevan <app id="var3484" type="sub">
+                    <rdg>teränsä</rdg>
+                </app> illalla ja avaavan <app id="var3485" type="sub">
+                    <rdg>ne</rdg>
+                </app> jälleen aamulla? Ansarissa näin pienen <app id="var3486" type="sub int">
+                    <rdg>ulkomaan kasvin, jonka nimi oli <hi rend="expanded">mimoosa.</hi>
+                        Koskettuani</rdg>
+                </app> sen lehtiin, veti se <app id="var3487" type="sub">
+                    <rdg>ikäänkuin pelosta lehtensä</rdg>
+                </app> ja <app id="var3488" type="sub">
+                    <rdg>ruotinsa</rdg>
+                </app> kokoon. <app id="var3489" type="sub">
+                    <rdg>Näin siellä</rdg>
+                </app> toisenkin <app id="var3490" type="sub int">
+                    <rdg>ulkomaan kukan,</rdg>
+                </app> jonka nimi oli <app id="var3491" type="sub">
+                    <rdg><hi rend="expanded">kärpäsloukku.</hi> Kun kärpänen lensi</rdg>
+                </app> sen <app id="var3492" type="sub">
+                    <rdg>tahmeille</rdg>
+                </app> ja <app id="var3493" type="sub">
+                    <rdg>karvaisille lehdille,</rdg>
+                </app> supisti kukka lehtensä <app id="var3494" type="sub">
+                    <rdg>kokoon</rdg>
+                </app> ja piti <app id="var3495" type="sub">
+                    <rdg>kärpäsen siinä.</rdg>
+                </app> Mutta kärpäsen <app id="var3496" type="sub int">
+                    <rdg>kuoltua</rdg>
+                </app> kukka jälleen <app id="var3497" type="sub int">
+                    <rdg>aukaisi <seg>lehtensä.</seg> — Äärettömän paljon</rdg>
+                </app> olisi vielä sanomista kasveista. Rukoile <app id="var3498" type="sub">
+                    <rdg>Jumalaa,</rdg>
+                </app> että hän soisi sinun <app id="var3499" type="sub">
+                    <rdg>paljon</rdg>
+                </app> oppia. <app id="var3500" type="sub">
+                    <rdg>Näin</rdg>
+                </app> sinä <app id="var3501" type="sub">
+                    <rdg>käsität <seg>Jumalan</seg> teot</rdg>
+                </app> ja <app id="var3502" type="sub int">
+                    <rdg>niissä Jumalan.</rdg>
+                </app></p>
+            <head style="romanType"><hi rend="bold">Pellosta ja niitystä.</hi></head>
+            <figure type="illustration"/>
+            <p style="romanType">Tämä <app id="var3503" type="sub">
+                    <rdg>seutu,</rdg>
+                </app> jossa nyt asumme, oli ennen <app id="var3504" type="sub">
+                    <rdg>erämaata. Jylhää metsää</rdg>
+                </app> kasvoi <app id="var3505" type="sub">
+                    <rdg>kaikkialla,</rdg>
+                </app> ja mättäät ja kivet tekivät maan koleikoksi. Mutta <app id="var3506" type="sub">
+                    <rdg><seg>aikoja</seg> sitten</rdg>
+                </app> muuttivat esi-isämme tänne. <app id="var3507" type="sub">
+                    <rdg>He</rdg>
+                </app> alkoivat <app id="var3508" type="sub">
+                    <rdg>kaataa</rdg>
+                </app> metsää, kuokkia <app id="var3509" type="sub">
+                    <rdg><seg>mättäitä</seg></rdg>
+                </app> ja raivata pois kiviä. <app id="var3510" type="sub">
+                    <rdg>Paljon</rdg>
+                </app> ovat esi-isämme <app id="var3511" type="sub">
+                    <rdg>täällä työtä</rdg>
+                </app> tehneet <app id="var3512" type="sub int">
+                    <rdg><seg>ja</seg> vaivaa nähneet.</rdg>
+                </app> Mutta meillä, jotka elämme <app id="var3513" type="sub">
+                    <rdg>paljon heidän jälkeensä,</rdg>
+                </app> on <app id="var3514" type="sub">
+                    <rdg>nyt <seg>heidän</seg> työstään suuri hyöty</rdg>
+                </app> ja <app id="var3515" type="sub">
+                    <rdg>ilo.</rdg>
+                </app> Ja tästä on <app id="var3516" type="sub">
+                    <rdg>meidän</rdg>
+                </app> opittava, ettei meidän tule tehdä työtä <app id="var3517" type="sub int">
+                    <rdg>vain omaksi,</rdg>
+                </app> vaan <app id="var3518" type="sub int">
+                    <rdg>myös niiden eduksi,</rdg>
+                </app> jotka tulevat ja elävät meidän <app id="var3519" type="sub">
+                    <rdg>jälkeemme. Sentähden perkaamme yhä</rdg>
+                </app> enemmän maata <app id="var3520" type="sub">
+                    <rdg>rakkaan isänmaamme Suomen <seg>hyödyksi</seg></rdg>
+                </app> ja <app id="var3521" type="sub int">
+                    <rdg>iloksi.</rdg>
+                </app></p>
+            <pb type="orig" n="160"/>
+            <p style="romanType">Nyt on meillä peltoa ja niittyä. Pelto on se maa, jossa
+                    <app id="var3522" type="sub">
+                    <rdg>vilja</rdg>
+                </app> kasvaa, ja sitä <app id="var3523" type="sub">
+                    <rdg>isä <seg>kyntää</seg></rdg>
+                </app> hevosella ja auralla. Siihen <app id="var3524" type="sub">
+                    <rdg>hän <seg>kylvää</seg></rdg>
+                </app> ruista syyskylvöksi ja ohraa ja kauraa kevätkylvöksi. <app id="var3525" type="sub">
+                    <rdg>Syksyllä sitten</rdg>
+                </app> leikkaamme <app id="var3526" type="sub int">
+                    <rdg>elokasvit. Sitten</rdg>
+                </app> kuivaamme ja puimme ne, niinkuin jo ennen on mainittu. Ja <app id="var3527" type="sub">
+                    <rdg>sitten</rdg>
+                </app> kiitämme <app id="var3528" type="sub">
+                    <rdg>Jumalaa</rdg>
+                </app> jokapäiväisestä leivästä. Sillä välistä <app id="var3529" type="sub">
+                    <rdg>rankaisee</rdg>
+                </app> Jumala <app id="var3530" type="sub int">
+                    <rdg>meitä katovuodella.</rdg>
+                </app> Silloin <app id="var3531" type="sub">
+                    <rdg><seg>halla</seg> panee valmistumattoman</rdg>
+                </app> viljan, <app id="var3532" type="sub">
+                    <rdg>tai kuivuus sen turmelee.</rdg>
+                </app> Ja <app id="var3533" type="sub">
+                    <rdg>silloin</rdg>
+                </app> tulee kallis aika ja köyhyys maahan. Ennen oli vieläkin <app id="var3534" type="sub">
+                    <rdg>kamalampaa.</rdg>
+                </app> Silloin ei <app id="var3535" type="sub">
+                    <rdg>meillä <seg>ollut</seg></rdg>
+                </app> noita hyviä <app id="var3536" type="sub">
+                    <rdg>perunoita,</rdg>
+                </app> jotka nyt ovat isona apuna, kun on <app id="var3537" type="sub">
+                    <rdg>viljasta puute. Noin sata viisikymmentä vuotta sitten alettiin
+                        meidän maassa perunoita viljellä. Eikä</rdg>
+                </app> ole <app id="var3538" type="sub int">
+                    <rdg>sataakaan vuotta siitä,</rdg>
+                </app> kun ne tulivat yleisesti <app id="var3539" type="sub">
+                    <rdg>tunnetuiksi.</rdg>
+                </app></p>
+            <p style="romanType">Niitty on se maa, jossa <app id="var3540" type="sub int">
+                    <rdg>kasvaa ruohoa,</rdg>
+                </app> jota <app id="var3541" type="sub">
+                    <rdg>sitten</rdg>
+                </app> niitetään ja <app id="var3542" type="sub int">
+                    <rdg>heiniksi kuivataan.</rdg>
+                </app> Heinät viedään <app id="var3543" type="int">
+                    <rdg>latoihin</rdg>
+                </app> ja talvella ajetaan <app id="var3544" type="sub">
+                    <rdg>ne <seg>kotiin</seg></rdg>
+                </app> karjalle ruuaksi. Jos emme <app id="var3545" type="sub">
+                    <rdg>sitä</rdg>
+                </app> tekisi, nääntyisivät hevoset ja lehmät ja lampaat talvella nälkään.
+                    <app id="var3546" type="sub">
+                    <rdg>Väliin</rdg>
+                </app> tulee heinistäkin katovuosi. Niitty <app id="var3547" type="sub">
+                    <rdg>kuivuu,</rdg>
+                </app> mato syöpi ruohon. Silloin täytyy meidän teurastaa osa karjaa. <app id="var3548" type="sub">
+                    <rdg>Loput</rdg>
+                </app> täytyy <app id="var3549" type="sub">
+                    <rdg>meidän <seg>elättää</seg> oljilla.</rdg>
+                </app> Silloin ikävöimme kevättä <app id="var3550" type="int">
+                    <rdg>enemmän</rdg>
+                </app> kuin koskaan muulloin. Mutta <app id="var3551" type="sub">
+                    <rdg>silloin <seg>Jumala</seg> sen lähettää meille, tuon</rdg>
+                </app> iloisen <app id="var3552" type="sub">
+                    <rdg>kevään,</rdg>
+                </app> ja <app id="var3553" type="sub">
+                    <rdg>silloin</rdg>
+                </app> kasvaa ruoho jälleen, ja silloin päästämme karjan taas laitumelle.
+                Hyvin <app id="var3554" type="sub">
+                    <rdg>hauskaa</rdg>
+                </app> on silloin <app id="var3555" type="sub">
+                    <rdg>nähdä vasikoiden heinikössä hyppelevän.</rdg>
+                </app></p>
+            <head style="romanType"><anchor id="struct133a"/><hi rend="bold">Nokkonen ja
+                    ruusu.</hi><anchor id="struct133b"/></head>
+            <figure type="illustration"/>
+        </body>
+    </text>
+</TEI>

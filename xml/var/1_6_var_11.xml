@@ -1,0 +1,1002 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Luku 6, varianttikoodattu (perusteksti)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>6</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Kuudes Luku. Nivel-elävistä ja nilvi-elävistä</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
+    <text>
+        <body xml:space="preserve">
+            <head type="section" style="blackletter"><hi rend="bold">Kuudes </hi><app id="var2115" type="sub">
+                            <lem><hi rend="bold">Luku.</hi></lem>
+                        </app></head>
+                    <head type="section" style="blackletter"><anchor id="struct77a"/><hi rend="bold expanded">Nivel-elävistä ja nilvi-elävistä.</hi><anchor id="struct77b"/></head>
+                    <p style="blackletter"><app id="var2117" type="sub">
+                            <lem>Antti</lem>
+                        </app> ja Liisa <app id="var2118" type="sub">
+                            <lem>näkivät metsän läpi mennessään</lem>
+                        </app> sääskien <app id="var2119" type="sub">
+                            <lem>lentää kihisevän</lem>
+                        </app> auringon paisteessa. Kah, sanoi Liisa, <app id="var2120" type="sub">
+                            <lem>vielä</lem>
+                        </app> ei ole <app id="var2121" type="sub">
+                            <lem>kukaan sanonut meille mitään</lem>
+                        </app> sääskistä. Antti sanoi: <app id="var2122" type="sub">
+                            <lem>sanon sinulle niistä</lem>
+                        </app> mitä luulen. Olemme nyt <app id="var2123" type="sub">
+                            <lem>tulleet</lem>
+                        </app> tuntemaan <app id="var2124" type="sub">
+                            <lem>ne neljä ensimäistä luokkaa siinä suuressa
+                                eläin-valtakunnassa.</lem>
+                        </app></p>
+                    <p style="blackletter">Olen kuullut näitä <app id="var2125" type="sub">
+                            <lem>luokkia kutsuttavan <hi rend="expanded">ylevämmiksi,</hi> kun</lem>
+                        </app> niillä <app id="var2126" type="sub">
+                            <lem>ovat</lem>
+                        </app> tarkemmat aistimet ja <pb type="orig" n="72"/>täydellisemmäksi
+                        muodostunut ruumis. Mutta <app id="var2127" type="sub">
+                            <lem>viides ja kuudes luokka kutsutaan <hi rend="expanded">alhaisemmaksi,</hi> kun niillä</lem>
+                        </app> on <app id="var2128" type="sub">
+                            <lem>vaillinaisempi ruumiin rakennus.</lem>
+                        </app> Sen <app id="var2129" type="sub">
+                            <lem>tiennevät kyllä</lem>
+                        </app> muut <app id="var2130" type="sub">
+                            <lem>paremmin</lem>
+                        </app> kuin me. Minä <app id="var2131" type="sub">
+                            <lem>vaan uskon</lem>
+                        </app> kaikki, <app id="var2132" type="sub">
+                            <lem>mitä</lem>
+                        </app> Jumala on luonut, <app id="var2133" type="sub">
+                            <lem>olevan</lem>
+                        </app> tarkoitukseensa <app id="var2134" type="sub">
+                            <lem>aivan</lem>
+                        </app> täydellistä. <app id="var2135" type="sub">
+                            <lem>Ja tarkasti katsoessani</lem>
+                        </app> muurahaisten pesää <app id="var2136" type="sub">
+                            <lem>eli</lem>
+                        </app> hämähäkin verkkoa <app id="var2137" type="sub">
+                            <lem>eli</lem>
+                        </app> perhon <app id="var2138" type="sub">
+                            <lem>koteroa,</lem>
+                        </app> en <app id="var2139" type="sub">
+                            <lem>tiedä mitä</lem>
+                        </app> olisi <app id="var2140" type="sub">
+                            <lem>paremmasti tehtyä</lem>
+                        </app> ja <app id="var2141" type="sub">
+                            <lem>täydellisempätä nähtävää</lem>
+                        </app> koko eläinvaltakunnassa. <app id="var2142" type="sub">
+                            <lem>Viidennen ja kuudennen luokan kutsunemme paremmin</lem>
+                        </app> luonnon <app id="var2143" type="sub">
+                            <lem>pieniksi lapsiksi.</lem>
+                        </app> Sillä <app id="var2144" type="sub">
+                            <lem>pian</lem>
+                        </app> kaikki <app id="var2145" type="sub">
+                            <lem>siihen</lem>
+                        </app> kuuluvat <app id="var2146" type="sub">
+                            <lem>ovat</lem>
+                        </app> aivan pieniä, <app id="var2147" type="sub">
+                            <lem>ja usein</lem>
+                        </app> niin <app id="var2148" type="sub">
+                            <lem>pikkusia,</lem>
+                        </app> ettei niitä <app id="var2149" type="sub">
+                            <lem>voi</lem>
+                        </app> paljain silmin <app id="var2150" type="sub">
+                            <lem>nähdä.</lem>
+                        </app></p>
+                    <p style="blackletter">Liisa sanoi: <app id="var2151" type="sub">
+                            <lem>otetaanpa</lem>
+                        </app> sääski <app id="var2152" type="sub">
+                            <lem>kiini. Sen pitää kertoa</lem>
+                        </app> meille jotakin sukulaisistaan.</p>
+                    <p style="blackletter">Sääski sanoi: <app id="var2153" type="sub">
+                            <lem>me kuulumme eläinten viidenteen luokkaan ja meitä kutsutaan <hi rend="expanded">nivel-eläviksi.</hi></lem>
+                        </app> Ruumiissamme on useita <app id="var2154" type="sub">
+                            <lem>niveleitä,</lem>
+                        </app> ja <app id="var2155" type="sub">
+                            <lem>on juurikuin uurros rinnan ja vatsan välissä. Päistämme</lem>
+                        </app> lähtevät pitkät tuntosarvet, joilla <app id="var2156" type="sub">
+                            <lem>tunnemme</lem>
+                        </app> eteemme. Muutamilla meistä on pieni <app id="var2157" type="sub">
+                            <lem>imetin,</lem>
+                        </app> jolla imemme ruokamme. Toisilla taas <app id="var2158" type="sub">
+                            <lem>ovat leuvat ja hampaat.</lem>
+                        </app> Silmämme ovat <app id="var2159" type="sub">
+                            <lem>yhdistetyt aivan pienistä silmistä</lem>
+                        </app> toinen toisensa <app id="var2160" type="sub">
+                            <lem>viereen. Siksi voimme</lem>
+                        </app> katsoa usealle suunnalle samalla kertaa, vaikka emme <app id="var2161" type="sub">
+                            <lem>voi liikuttaa silmiämme.</lem>
+                        </app> Ei yhdelläkään meistä ole <app id="var2162" type="sub">
+                            <lem>vähempää</lem>
+                        </app> kuin kuusi jalkaa; mutta useilla on monta jalkaa. Onpa muutamilla
+                            <app id="var2163" type="sub">
+                            <lem>60</lem>
+                        </app> (kuusikymmentä) <app id="var2164" type="sub">
+                            <lem>paria ja 100</lem>
+                        </app> (sata) <app id="var2165" type="sub">
+                            <lem>paria</lem>
+                        </app> jalkoja. Kesällä <app id="var2166" type="sub">
+                            <lem>teemme</lem>
+                        </app> munia, joista <app id="var2167" type="sub">
+                            <lem>mataa</lem>
+                        </app> ulos pieniä matoja, joita <app id="var2168" type="sub">
+                            <lem>kutsutaan</lem>
+                        </app>
+                        <hi rend="expanded">toukiksi.</hi> Toukat syövät ahneesti ja kasvavat <app id="var2169" type="sub">
+                            <lem>pian. Sitte</lem>
+                        </app> kutovat ne itsensä tuppeen, jota <app id="var2170" type="sub">
+                            <lem>kutsutaan <hi rend="expanded">koteroksi,</hi></lem>
+                        </app> ja näyttävät kuolleilta.</p>
+                    <p style="blackletter"><app id="var2171" type="sub">
+                            <lem>Elä vielä,</lem>
+                        </app> sanoi <app id="var2172" type="int">
+                            <lem>Liisa:</lem>
+                        </app> kyllä <app id="var2173" type="sub">
+                            <lem>ymmärrän tarkoituksesi.</lem>
+                        </app> Kerran otin kaalimaasta sellaisen toukan, <pb type="orig" n="73"/>joka söi isoja reikiä kaalin lehtiin. Panin sen <app id="var2174" type="sub">
+                            <lem>lasipurkkiin</lem>
+                        </app> ja annoin sille joka aamu tuoreita lehtiä <app id="var2175" type="sub">
+                            <lem>syödä.</lem>
+                        </app> Muutamana aamuna oli toukka kadonnut, ja sen sijaan riippui <app id="var2176" type="sub">
+                            <lem>kulta-mato lehdessä.</lem>
+                        </app> Kah, sanoin, mato on <app id="var2177" type="sub">
+                            <lem>kuollut</lem>
+                        </app> ja sillä on <app id="var2178" type="sub">
+                            <lem>kultanen</lem>
+                        </app> ruumisarkku. Kahden viikon kuluttua <app id="var2179" type="sub">
+                            <lem>katsoin</lem>
+                        </app> toukan hautaa. <app id="var2180" type="sub">
+                            <lem>Riippuipa kuivaneessa</lem>
+                        </app> lehdessä <app id="var2181" type="sub">
+                            <lem>vaan</lem>
+                        </app> tyhjä kuori, ja lehden vieressä istui kaunis perho, joka oli <app id="var2182" type="sub">
+                            <lem>tullut ulos kulta-arkusta.</lem>
+                        </app> Ja <app id="var2183" type="sub">
+                            <lem>akkunan avattua lenti</lem>
+                        </app> se iloisena <app id="var2184" type="sub">
+                            <lem>isoilla siivillä</lem>
+                        </app> auringon paisteessa ja imi <app id="var2185" type="sub">
+                            <lem>hunajaa</lem>
+                        </app> kukista.</p>
+                    <figure type="illustration"/>
+                    <p style="blackletter">Niin, sanoi Antti. <app id="var2186" type="sub">
+                            <lem>Minä olen lukenut tästä.</lem>
+                        </app> Minulla on kirja, jossa kaikki tämä on kuvattuna. Ylinnä vasemmalla
+                        puolella näkyy pieniä munia, joita perho on <app id="var2187" type="sub">
+                            <lem>tehnyt lehteen.</lem>
+                        </app> Niiden alla on toukka, joka on tullut munasta ja <app id="var2188" type="sub">
+                            <lem>sitte</lem>
+                        </app> kasvanut isommaksi. Sen alla on <app id="var2189" type="sub">
+                            <lem>kotero, johonka</lem>
+                        </app> se on kutonut itsensä ja näyttää kuolleelta. Mutta oikealla puolella
+                        näkyy <app id="var2190" type="sub">
+                            <lem>se iso</lem>
+                        </app> kaaliperho, joka on tullut <app id="var2191" type="sub">
+                            <lem>ulos koterosta.</lem>
+                        </app> Jumala <app id="var2192" type="sub">
+                            <lem>tahtoo tekoinsa tulemaan alinomaa täydellisemmiksi.</lem>
+                        </app> Ihminen <app id="var2193" type="sub">
+                            <lem>on täällä</lem>
+                        </app> maan päällä <app id="var2194" type="sub">
+                            <lem>toukan lainen,</lem>
+                        </app> joka syöpi maan tomua. Kun hänen ruumiinsa <app id="var2195" type="sub">
+                            <lem>kuoltua</lem>
+                        </app> haudataan, <app id="var2196" type="sub">
+                            <lem>ajattelevat</lem>
+                        </app> ymmärtämättömät <app id="var2197" type="sub">
+                            <lem>kaikki</lem>
+                        </app> olevan lopussa. Mutta hauta on se <app id="var2198" type="sub">
+                            <lem>kotero,</lem>
+                        </app> josta ihmisen <app id="var2199" type="int">
+                            <lem>sielu,</lem>
+                        </app> täydellisempänä ja <app id="var2200" type="int">
+                            <lem>vapaampana,</lem>
+                        </app> nousee Jumalan tykö, niinkuin perho auringon <app id="var2201" type="sub">
+                            <lem>valossa. Ja niin</lem>
+                        </app> on <app id="var2202" type="sub">
+                            <lem>ainoasti se ensimäinen</lem>
+                        </app>
+                        <pb type="orig" n="74"/>kadonnut; ja <app id="var2203" type="sub">
+                            <lem>niin</lem>
+                        </app> alkaa ihmiselle uusi ja parempi elämä.</p>
+                    <p style="blackletter">Liisa sanoi: <app id="var2204" type="sub">
+                            <lem>eivätkö</lem>
+                        </app> kaikki <app id="var2205" type="sub">
+                            <lem>nivel-elävät kuole talvella? Eivät,</lem>
+                        </app> sanoi sääski. Muutamat paleltuvat <app id="var2206" type="sub">
+                            <lem>kuolioiksi, ja silloin tulee munista uusia keväimen tultua. Mutta
+                                muutamat</lem>
+                        </app> makaavat tainnoksissa ja virkistyvät jälleen lämpimän tultua. Ja
+                        muutamat meistä ovat myrkyllisiä. Toiset tekevät suurta vahinkoa <app id="var2207" type="sub">
+                            <lem>syöden</lem>
+                        </app> hyödyllisiä kasveja. Toiset taas imevät ihmisten ja eläinten <app id="var2208" type="sub">
+                            <lem>vertä.</lem>
+                        </app> Mutta muutamista on <app id="var2209" type="sub">
+                            <lem>ihmisillä</lem>
+                        </app> sekä hyötyä että <app id="var2210" type="sub">
+                            <lem>hupaa.</lem>
+                        </app></p>
+                    <p style="blackletter">Nyt <app id="var2211" type="sub">
+                            <lem>tuli suhina ilmaan</lem>
+                        </app> ja <app id="var2212" type="sub">
+                            <lem>mataminen ympäriinsä maalle. Siinä</lem>
+                        </app> tulivat <app id="var2213" type="sub">
+                            <lem><hi rend="expanded">koppa-madot,</hi></lem>
+                        </app> joilla <app id="var2214" type="sub">
+                            <lem>ovat</lem>
+                        </app> ohuet siivet kovain kuorten <app id="var2215" type="sub">
+                            <lem>alla.</lem>
+                        </app> Lentäessään <app id="var2216" type="sub">
+                            <lem>täytyi heidän</lem>
+                        </app> ensin <app id="var2217" type="sub">
+                            <lem>nostaa</lem>
+                        </app> kuoret ylös. <app id="var2218" type="sub">
+                            <lem>Siinä</lem>
+                        </app> surisi <app id="var2219" type="sub">
+                            <lem><hi rend="expanded">sittisontiainen,</hi></lem>
+                        </app> joka asuu <app id="var2220" type="sub">
+                            <lem>sontatunkioissa</lem>
+                        </app> ja <app id="var2221" type="sub">
+                            <lem>kämpii tiellä auringon paisteessa. Siinä</lem>
+                        </app> mateli <hi rend="expanded">kiiltomato,</hi> joka <app id="var2222" type="sub">
+                            <lem>öillä kiiltelee</lem>
+                        </app> kasteisessa <app id="var2223" type="sub">
+                            <lem>ruohossa. Siinä</lem>
+                        </app> oli <app id="var2224" type="sub">
+                            <lem><hi rend="expanded">leppäkerttu.</hi> Siinä</lem>
+                        </app> oli <app id="var2225" type="sub">
+                            <lem><hi rend="expanded">napsuttaja,</hi></lem>
+                        </app> joka selälleen käännettynä hypätä napsauttaa <app id="var2226" type="sub">
+                            <lem>ylös.</lem>
+                        </app> Tuolla <app id="var2227" type="sub">
+                            <lem>lentivät <hi rend="expanded">kulta-koppamato</hi></lem>
+                        </app> ja <app id="var2228" type="sub">
+                            <lem>viheriäinen <hi rend="expanded">Spanian</hi></lem>
+                        </app><hi rend="expanded"> kärpänen,</hi>
+                        <app id="var2229" type="sub">
+                            <lem>joka hienonnetaan ja pannaan laastarin päälle. Muuanta</lem>
+                        </app> rumaa <app id="var2230" type="sub">
+                            <lem>koppamatoa</lem>
+                        </app> sanottiin <app id="var2231" type="sub">
+                            <lem><hi rend="expanded">ruumismadoksi.</hi> Paljoa</lem>
+                        </app> viattomampi oli <app id="var2232" type="sub">
+                            <lem>se pieni <hi rend="expanded">seinä-rautio.</hi></lem>
+                        </app> Se takoi seinässä aivan <app id="var2233" type="sub">
+                            <lem>kuin</lem>
+                        </app> kello napsuttaa. Yksinkertaiset ihmiset sanovat sen <app id="var2234" type="sub">
+                            <lem>merkitsevän</lem>
+                        </app> pahaa. Mutta se <app id="var2235" type="sub">
+                            <lem>merkitsee vaan,</lem>
+                        </app> että <app id="var2236" type="sub">
+                            <lem>seinä-rautio</lem>
+                        </app> syöpi reikää puuhun.</p>
+                    <p style="blackletter"><app id="var2237" type="sub">
+                            <lem>Siinä</lem>
+                        </app> hyppelivät <app id="var2238" type="sub">
+                            <lem><hi rend="expanded">suora-siipiset,</hi></lem>
+                        </app> jotka <app id="var2239" type="sub">
+                            <lem>ottavat pitkiä hyppyjä takajaloillaan.</lem>
+                        </app> Ruohossa tirskui <app id="var2240" type="sub">
+                            <lem>se lystillinen <hi rend="expanded">heinä-sirkka,</hi></lem>
+                        </app> joka <app id="var2241" type="sub">
+                            <lem>suurissa parvissa syöpi maan kasvia</lem>
+                        </app> kuumissa <app id="var2242" type="sub">
+                            <lem>maissa. Siinä</lem>
+                        </app> kuului <app id="var2243" type="sub">
+                            <lem>sirkka,</lem>
+                        </app> joka <app id="var2244" type="sub">
+                            <lem>tirskuttaa talon tuvassa. Siinä matoivat <hi rend="expanded">nahka-kuoriaiset</hi></lem>
+                        </app> kasveissa ja eläimissä. Yhdellä näiden toukista oli <app id="var2245" type="sub">
+                            <lem>valkeata vahtua ympärillä kor<pb type="orig" n="75"/>ressa,
+                                ja</lem>
+                        </app> lapset luulivat <app id="var2246" type="sub">
+                            <lem>vahtua käärmeen syl’yksi. Viheriäinen <hi rend="expanded">lehtimato</hi></lem>
+                        </app> oli <app id="var2247" type="sub">
+                            <lem>kasvuilla isona vastuksena, juurikuin se punanen</lem>
+                        </app>
+                        <hi rend="expanded">lude</hi>
+                        <app id="var2248" type="sub">
+                            <lem>on ihmisillä. Ei ole <hi rend="expanded">torakasta</hi>
+                                köökkiin.</lem>
+                        </app> Parempi on <app id="var2249" type="sub">
+                            <lem>se pieni <hi rend="expanded">konsionelli,</hi></lem>
+                        </app> josta <app id="var2250" type="sub">
+                            <lem>saadaan Amerikassa niin</lem>
+                        </app> kaunista punaväriä.</p>
+                    <p style="blackletter"><app id="var2251" type="sub">
+                            <lem>Sitte</lem>
+                        </app> liehuivat <app id="var2252" type="sub">
+                            <lem>siinä ne</lem>
+                        </app> kauniit <hi rend="expanded">perhot,</hi> jotka elävät lyhyttä ja
+                        iloista elämäänsä kesän <app id="var2253" type="sub">
+                            <lem>lämpymässä.</lem>
+                        </app> Niiden siivet hohtivat <app id="var2254" type="sub">
+                            <lem>kauniimman näköisinä:</lem>
+                        </app> Muutamat lentelevät päivällä, niinkuin <hi rend="expanded">kaaliperho</hi> ja <app id="var2255" type="sub">
+                            <lem><hi rend="expanded">viholaisperho;</hi></lem>
+                        </app> mutta <app id="var2256" type="sub">
+                            <lem>se pieni</lem>
+                        </app> valkea <hi rend="expanded">koiperho,</hi> jonka toukka <app id="var2257" type="sub">
+                            <lem>syöpi</lem>
+                        </app> reikiä vaatteisiin ja vaatteella päällystettyihin <app id="var2258" type="sub">
+                            <lem>huonekaluihin, lentelee yöllä. Muuanta yöperhoista sukua kutsutaan
+                                kutojiksi,</lem>
+                        </app> sillä niiden toukat kutovat <app id="var2259" type="sub">
+                            <lem>ympärillensä koteroita hyvin</lem>
+                        </app> hienoista <app id="var2260" type="sub">
+                            <lem>langoista.</lem>
+                        </app> Sellainen <app id="var2261" type="sub">
+                            <lem>kutoja</lem>
+                        </app> on <hi rend="expanded">silkkimato,</hi> eräs toukka, joka elää
+                        silkkiäispuun lehdistä.</p>
+                    <p style="blackletter">Niin, sanoi Liisa, siitä on äitimme kertonut. <app id="var2262" type="sub">
+                            <lem>Äitin</lem>
+                        </app> paras huivi on <app id="var2263" type="sub">
+                            <lem>silkistä,</lem>
+                        </app> ja se on <app id="var2264" type="sub">
+                            <lem>kudottu silkkilangoista.</lem>
+                        </app> Eteläisissä maissa elätetään monta <app id="var2265" type="sub">
+                            <lem>miljonaa silkkimatoja. Niiden kutouttua koteroihin</lem>
+                        </app> kehitetään <app id="var2266" type="sub">
+                            <lem>koteroista</lem>
+                        </app> vyyhdelle <app id="var2267" type="sub">
+                            <lem>se hieno</lem>
+                        </app> ja luja silkkilanka.</p>
+                    <p style="blackletter"><app id="var2268" type="sub">
+                            <lem><hi rend="expanded">Korentolaiset</hi> lentivät</lem>
+                        </app> veden <app id="var2269" type="int">
+                            <lem>yli</lem>
+                        </app> neljällä pitkällä ja <app id="var2270" type="sub">
+                            <lem>läpikuultavalla siivellä.</lem>
+                        </app> Niiden <app id="var2271" type="sub">
+                            <lem>seassa</lem>
+                        </app> näkyi <hi rend="expanded">päiväkorento,</hi> joka elää <app id="var2272" type="sub">
+                            <lem>ainoasti yhden päivän, <hi rend="expanded">sudenkorento,</hi></lem>
+                        </app> joka on niin <app id="var2273" type="sub">
+                            <lem>hohtavan näköinen. Siinä lenti</lem>
+                        </app>
+                        <hi rend="expanded">muurahaiskorento,</hi> jonka viekas toukka kaivaa
+                        hietaan kolon ja ottaa <app id="var2274" type="sub">
+                            <lem>kiini ne</lem>
+                        </app> muurahaiset, jotka siihen putoavat. <app id="var2275" type="sub">
+                            <lem>Siinä lentivät <hi rend="expanded">piikkiäiset,</hi> jonka
+                                pesä</lem>
+                        </app> on hännässä <app id="var2276" type="sub">
+                            <lem>piikki, jolla</lem>
+                        </app> pistävät. <app id="var2277" type="sub">
+                            <lem>Siinä</lem>
+                        </app> surisi <hi rend="expanded">ampiainen,</hi> joka on <app id="var2278" type="sub">
+                            <lem>nivusista</lem>
+                        </app> niin hoikka ja jonka pesä on <app id="var2279" type="sub">
+                            <lem>kuin harmaasta paperista tehty palli. Se ahkera</lem>
+                        </app>
+                        <hi rend="expanded">mehiläinen</hi> ko<pb type="orig" n="76"/>kosi <app id="var2280" type="sub">
+                            <lem>hunajata</lem>
+                        </app> ja <app id="var2281" type="sub">
+                            <lem>vaksia</lem>
+                        </app> pesänsä <app id="var2282" type="sub">
+                            <lem>kummallisiin kammioihin. <hi rend="expanded">Mettiäinen</hi></lem>
+                        </app> surisi kukkain <app id="var2283" type="sub">
+                            <lem>seassa,</lem>
+                        </app> ja <app id="var2284" type="sub">
+                            <lem>maalla</lem>
+                        </app> veteli <app id="var2285" type="sub">
+                            <lem>se ahkera</lem>
+                        </app>
+                        <hi rend="expanded">muurahainen</hi> korsia pesäänsä, jossa <app id="var2286" type="sub">
+                            <lem>hän asuu talvenkin ajan. Piikkiäisten perästä</lem>
+                        </app> tulivat <hi rend="expanded">kaksisiipiset.</hi> Näiden <app id="var2287" type="sub">
+                            <lem>seassa näkivät</lem>
+                        </app> Antti ja Liisa <app id="var2288" type="sub">
+                            <lem>hyvän tuttunsa,</lem>
+                        </app> tuon <app id="var2289" type="sub">
+                            <lem>kärkkyvän</lem>
+                        </app> harmaan <app id="var2290" type="int">
+                            <lem><hi rend="expanded">kotikärpäsen</hi></lem>
+                        </app> ja <app id="var2291" type="sub">
+                            <lem>sen surisevan</lem>
+                        </app>
+                        <hi rend="expanded">paarman.</hi> Liisa <app id="var2292" type="sub">
+                            <lem>ajoi kädellään pois sen vertä himoavan</lem>
+                        </app>
+                        <hi rend="expanded">sääsken,</hi> joka <app id="var2293" type="sub">
+                            <lem>niin tuskauttavasti laulaa pingittää,</lem>
+                        </app> kun <app id="var2294" type="sub">
+                            <lem>mielellään nukkuisi kesä-illalla.</lem>
+                        </app> Mutta <app id="var2295" type="sub">
+                            <lem>vieläkin muita tuskauttavia otuksia</lem>
+                        </app> oli <app id="var2296" type="sub">
+                            <lem>täällä metsässä. Lapset voivat töin tuskin varoa itseänsä noilta
+                                siivittömiltä <hi rend="expanded">matelijoilta. Täi</hi> mateli
+                                päästäkseen asumaan siivottoman ihmisen tukassa. <hi rend="expanded">Kirppu,</hi></lem>
+                        </app> joka ottaa niin pitkiä <app id="var2297" type="sub">
+                            <lem>hyppyjä, oli samassa aikeessa. Puiden oksain välissä kutoi <hi rend="expanded">hämähäkki</hi> verkkoaan ja istui sen keskelle <choice>
+                                    <orig>väyymään</orig>
+                                    <reg>väjymään</reg>
+                                </choice> kärpäsiä. Ei täällä ollut sitä myrkyllistä <hi rend="expanded">skorppionia,</hi> joka eteläisissä maissa asuu
+                                huoneiden alla ja pistää ihmisiä hännässään olevalla piikillä. Se
+                                tummanruskea <hi rend="expanded">krapu</hi> kulki takaperin joessa
+                                ja tuli keitettyä punaiseksi. <hi rend="expanded">Siira</hi> ja <hi rend="expanded">satajalkanen,</hi> ilkeät nähdä, piilousivat
+                                kivien alle maalla.</lem>
+                        </app></p>
+                    <figure type="illustration"/>
+                    <p style="blackletter">Metsässä ollessaan haki Antti <hi rend="expanded">matoja</hi> syötiksi, sillä illalla <app id="var2298" type="sub">
+                            <lem>aikoi hän soutaa onkimaan.</lem>
+                        </app> Kerro minulle jotakin <app id="var2299" type="sub">
+                            <lem>tutuistasi,</lem>
+                        </app> sanoi hän <app id="var2300" type="sub">
+                            <lem>sille punaselle lieralle,</lem>
+                        </app> joka <app id="var2301" type="sub">
+                            <lem>mateli turpeesen.</lem>
+                        </app></p>
+                    <p style="blackletter">Mato sanoi: <app id="var2302" type="sub">
+                            <lem>minä olen nilvi-eläviä. Meillä</lem>
+                        </app> on <app id="var2303" type="sub">
+                            <lem>jäsenitön ja jaloiton, pehmeä ja kinainen ruumis.</lem>
+                        </app> Kuitenkin <app id="var2304" type="sub">
+                            <lem>saatamme kulkea,</lem>
+                        </app> niinkuin käärme, <app id="var2305" type="sub">
+                            <lem>kooten</lem>
+                        </app> ja <app id="var2306" type="sub">
+                            <lem>ojentaen ruumistamme. Keskenämme olemme</lem>
+                        </app> hyvin <app id="var2307" type="sub">
+                            <lem>erilaisia.</lem>
+                        </app> Muutamilla on pehmeä ja <app id="var2308" type="sub">
+                            <lem>alastoin</lem>
+                        </app> ruumis. <app id="var2309" type="sub">
+                            <lem>Muutamat</lem>
+                        </app> ovat <app id="var2310" type="sub">
+                            <lem>karvasia, ja muutamat asuvat kovassa kuoressa, johonka ovat
+                                kasvaneet kiini. Muutamilla ovat</lem>
+                        </app> silmät, mutta toisilla ei ole <pb type="orig" n="77"/>silmiä. Ei
+                        yhdelläkään meistä ole <app id="var2311" type="sub">
+                            <lem>siipiä</lem>
+                        </app> lentää. Me asumme <app id="var2312" type="sub">
+                            <lem>enimmite</lem>
+                        </app> vedessä <app id="var2313" type="sub">
+                            <lem>eli maassa.</lem>
+                        </app> Muutamilla meistä on asunto ihmisten <app id="var2314" type="sub">
+                            <lem>ja</lem>
+                        </app> eläinten suolissa. Sellaiset <app id="var2315" type="sub">
+                            <lem>saattavat matkaan</lem>
+                        </app> tauteja ja vahinkoa; onpa <app id="var2316" type="sub">
+                            <lem>niitä myrkyllisiäkin</lem>
+                        </app> matoja. <app id="var2317" type="sub">
+                            <lem>Useammat</lem>
+                        </app> eivät ole vahingollisia, vaan <app id="var2318" type="sub">
+                            <lem>käyvät</lem>
+                        </app> muille <app id="var2319" type="sub">
+                            <lem>ruuaksi, ja muutamista on ihmiselle hyötyä ruuaksi ja
+                                koristukseksi.</lem>
+                        </app></p>
+                    <p style="blackletter">Antti käski Liisan tulla katsomaan <app id="var2320" type="sub">
+                            <lem>nilvi-eläviä. Tässä on jouhi-mato,</lem>
+                        </app> joka on mustan jouhen näköinen. <app id="var2321" type="sub">
+                            <lem>Tässä</lem>
+                        </app> olivat <app id="var2322" type="sub">
+                            <lem><hi rend="expanded">suoliais-mato</hi></lem>
+                        </app> ja <hi rend="expanded">heisimato,</hi> jotka <app id="var2323" type="sub">
+                            <lem>syntyvät ja elävät</lem>
+                        </app> ihmisten suolissa. <app id="var2324" type="sub">
+                            <lem>Näistä on monella iso vaiva.</lem>
+                        </app> Pienen <app id="var2325" type="sub">
+                            <lem><hi rend="expanded">lieran</hi></lem>
+                        </app> vieressä näkyi <app id="var2326" type="sub">
+                            <lem>se <hi rend="expanded">iso onkimato,</hi></lem>
+                        </app> joka oli <app id="var2327" type="sub">
+                            <lem>vasta</lem>
+                        </app> sateen jälkeen <app id="var2328" type="sub">
+                            <lem>matanut ylös maasta.</lem>
+                        </app> Tässä oli <app id="var2329" type="sub">
+                            <lem>se musta</lem>
+                        </app>
+                        <hi rend="expanded">iilimato,</hi> joka pannaan <app id="var2330" type="sub">
+                            <lem>vertä</lem>
+                        </app> imemään, kun joku on kipeänä. <app id="var2331" type="sub">
+                            <lem>Tässä mateli kivellä se pieni pehmeä <hi rend="expanded">etana.</hi> Hiljaa vetäysivät <hi rend="expanded">näkin-kenkäläiset</hi> ulos kieroista kuoristaan. <hi rend="expanded">Simpukat</hi> taas asuivat juurikuin
+                                kupera-kantisissa tousissa. Tässä olivat <hi rend="expanded">helmisimpukka,</hi> jonka kuoresta löydetään oikeita simpukan
+                                helmiä, ja <hi rend="expanded">kiiltokuorinen simpukka,</hi> jonka
+                                kuoresta tehdään nappeja ja muita koreita kaluja. Ulkona meressä
+                                riippui syötävä simpukka kalliossa kiini ja saatiin siitä ihmisille
+                                herkku-ruuaksi. Kerran ha’in minä, sanoi Antti, näkinkenkiä
+                                painolastista,</lem>
+                        </app> joka <app id="var2332" type="sub">
+                            <lem>oli heitetty ulos laivasta. Siinä oli monta eri lajia; siinä oli
+                                suuria kokoja pian aivan hienonnettuja näkinkenkiä.</lem>
+                        </app></p>
+                    <p style="blackletter">Mutta jos saattaisin kulkea meren <app id="var2333" type="sub">
+                            <lem>pohjaa, kuinka</lem>
+                        </app> lukemattomia näkinkenkiä ja simpukoita <app id="var2334" type="sub">
+                            <lem>enkö voisi sieltä poimia! Siellä</lem>
+                        </app> löytäisin <app id="var2335" type="sub">
+                            <lem>sen suuren <hi rend="expanded">jättiläis-simpukan,</hi></lem>
+                        </app> joka <app id="var2336" type="sub">
+                            <lem>voipi kuortensa välissä purra pienellaisen ankkuri-touvin</lem>
+                        </app> poikki. <app id="var2337" type="sub">
+                            <lem>Siinä</lem>
+                        </app> näkisin <app id="var2338" type="sub">
+                            <lem>ne</lem>
+                        </app> kummalliset <app id="var2339" type="sub">
+                            <lem>haara-elävät, joilla</lem>
+                        </app> on <app id="var2340" type="sub">
+                            <lem>vatsa ympäriinsä haaroja,</lem>
+                        </app> mutta ei päätä. <app id="var2341" type="sub">
+                            <lem>Muutamat niistä</lem>
+                        </app> ovat <pb type="orig" n="78"/>aivan <app id="var2342" type="sub">
+                            <lem>kuin kina-läjä,</lem>
+                        </app> joka <app id="var2343" type="sub">
+                            <lem>liikkuu vedessä. Toisia kutsutaan <hi rend="expanded">vesi-tähdiksi,</hi></lem>
+                        </app> ja <app id="var2344" type="sub">
+                            <lem>niillä</lem>
+                        </app> on <app id="var2345" type="sub">
+                            <lem>kuori ympärillä. Toisia istuu lukematoin</lem>
+                        </app> määrä <app id="var2346" type="sub">
+                            <lem>kiini kasvaneina juurikuin oksat puissa, jotka tekevät itsensä.
+                                Niin rakentavat <hi rend="expanded">koralli-elävät</hi> korkeita
+                                punasia metsiä kivestä</lem>
+                        </app> meren pohjaan. Ja koralleista tehdään <app id="var2347" type="sub">
+                            <lem>hyviä kaulahelmiä.</lem>
+                        </app></p>
+                    <p style="blackletter">Mutta nämä eivät ole <app id="var2348" type="sub">
+                            <lem>eläviä,</lem>
+                        </app> sanoi Liisa kummastellen. Niin, sanoi Antti, muutamat ovat pitäneet
+                        niitä kasveina, ja toiset ovat luulleet niitä kiviksi. Kuitenkin ovat ne
+                            <app id="var2349" type="sub">
+                            <lem>eläviä,</lem>
+                        </app> jotka syövät ja liikkuvat; mutta ne <app id="var2350" type="sub">
+                            <lem>kasvavat kuoristaan kiini</lem>
+                        </app> toisiinsa. Ja <app id="var2351" type="sub">
+                            <lem>monta miljonaa sellaisia pieniä eläviä kasvettua</lem>
+                        </app> yhteen, tulee siitä <app id="var2352" type="sub">
+                            <lem>kivi-metsä eli</lem>
+                        </app> kallio, <app id="var2353" type="sub">
+                            <lem>jossa laivat saattavat meressä tulla haaksi-rikkoon. Kun</lem>
+                        </app> nämä <app id="var2354" type="sub">
+                            <lem>elävät</lem>
+                        </app> ovat <app id="var2355" type="sub">
+                            <lem>kasvein laisia, kutsutaan</lem>
+                        </app> niitä <app id="var2356" type="sub">
+                            <lem><hi rend="expanded">elävän-kasveiksi.</hi></lem>
+                        </app> Paitsi näitä on vielä muitakin <app id="var2357" type="sub">
+                            <lem>aivan</lem>
+                        </app> pieniä, joita <app id="var2358" type="sub">
+                            <lem>kutsutaan <hi rend="expanded">liko-eläviksi</hi>
+                                (infusioni-eläviksi).</lem>
+                        </app> Niitä on <app id="var2359" type="sub">
+                            <lem>yleensä lukematoin määrä</lem>
+                        </app> vedessä ja luultavasti ilmassakin. <app id="var2360" type="sub">
+                            <lem>Useampia</lem>
+                        </app> niistä ei <app id="var2361" type="sub">
+                            <lem>voi paljailla silmillä</lem>
+                        </app> nähdä. Mutta <app id="var2362" type="sub">
+                            <lem>välistä katsoessa vesihernettä suurennus-lasilla, nähdään</lem>
+                        </app> lukemattomia sellaisia <app id="var2363" type="sub">
+                            <lem>eläviä</lem>
+                        </app> elävän ja <app id="var2364" type="sub">
+                            <lem>tappelevan</lem>
+                        </app> yhdessä <app id="var2365" type="sub">
+                            <lem>vesiherneessä.</lem>
+                        </app></p>
+                    <p style="blackletter">En koskaan enää uskalla juoda vettä, sanoi Liisa. Anttia
+                        nauratti. Miksi et uskalla? Joka päivä syömme ja juomme <app id="var2366" type="sub">
+                            <lem>monia</lem>
+                        </app> tuhansia näitä pieniä <app id="var2367" type="sub">
+                            <lem>eläviä aivan siitä tietämättä,</lem>
+                        </app> ja ne eivät tee meille mitään vahinkoa. Mutta nyt olemme nähneet
+                        viimeiset ja alhaisimmat eläinkunnan asukkaat. Ylevinnä kaikista näistä <app id="var2368" type="sub">
+                            <lem>eläivistä</lem>
+                        </app> on luonnon herra ja kuningas, ihminen. <app id="var2369" type="sub">
+                            <lem>Sitä likinnä</lem>
+                        </app> ovat <app id="var2370" type="sub">
+                            <lem>imettävät eläimet, jotka likinnä</lem>
+                        </app> ihmistä <app id="var2371" type="sub">
+                            <lem>ovat rikkainlahjaiset.</lem>
+                        </app> Niitä likinnä ovat linnut; <app id="var2372" type="sub">
+                            <lem>sitte</lem>
+                        </app> ovat <app id="var2373" type="sub">
+                            <lem>matelevat elävät; sitte</lem>
+                        </app> kalat; <app id="var2374" type="sub">
+                            <lem>sitte nivel-elävät.</lem>
+                        </app> Ja <app id="var2375" type="sub">
+                            <lem>jokaisesta <pb type="orig" n="79"/>luokasta</lem>
+                        </app> alaspäin näemme muutamia eläinten parhaimpia <app id="var2376" type="sub">
+                            <lem>ruumiin-osia</lem>
+                        </app> ikäänkuin jäävän pois <app id="var2377" type="sub">
+                            <lem>eli muuttuvan.</lem>
+                        </app> Viimein näemme alhaisimmissa <app id="var2378" type="sub">
+                            <lem>elävissä</lem>
+                        </app> sellaisia olentoja, jotka ovat kasvikunnan rajalla ja <app id="var2379" type="sub">
+                            <lem>juurikuin</lem>
+                        </app> sitovat <app id="var2380" type="sub">
+                            <lem>nämä</lem>
+                        </app> molemmat elävän <app id="var2381" type="sub">
+                            <lem>mailman</lem>
+                        </app> suuret <app id="var2382" type="sub">
+                            <lem>valtakunnat yhteen.</lem>
+                        </app> Sillä Jumala kaikkivallassaan on tahtonut <app id="var2383" type="sub">
+                            <lem>sitoa koko</lem>
+                        </app> luodun <app id="var2384" type="sub">
+                            <lem>mailmansa olennot yhteen,</lem>
+                        </app> toisen toiseensa, niin ettei missään paikassa ole tyhjää <app id="var2385" type="sub">
+                            <lem>lomaa,</lem>
+                        </app> joka <app id="var2386" type="sub">
+                            <lem>eroittaisi hänen</lem>
+                        </app> luotuja <app id="var2387" type="sub">
+                            <lem>tekojaan toisistaan. Enkelit, ihmiset,</lem>
+                        </app> eläimet, <app id="var2388" type="sub">
+                            <lem>kasvit, kivet,</lem>
+                        </app> kaikki <app id="var2389" type="sub">
+                            <lem>ovat vieretysten, yksi täydellisempi toistaan. Niin nähdään</lem>
+                        </app> aina <app id="var2390" type="sub">
+                            <lem>niiden,</lem>
+                        </app> jotka ovat toisiaan <app id="var2391" type="sub">
+                            <lem>likinnä, luonteineen koskevan toisiinsa.</lem>
+                        </app> Tämä on luonnon suuri jakso, jonka alku ja loppu <app id="var2392" type="sub">
+                            <lem>ovat</lem>
+                        </app> Jumalassa, joka <app id="var2393" type="sub">
+                            <lem>kaikki kaikissa</lem>
+                        </app> vaikuttaa.</p>
+                    <head style="blackletter"><hi rend="bold">Heinäsirkat.</hi></head>
+                    <p style="blackletter">Kesällä niityllä <app id="var2394" type="sub">
+                            <lem>kävellessä kuulee</lem>
+                        </app> heinäsirkkain <app id="var2395" type="sub">
+                            <lem>laulavan ruohossa.</lem>
+                        </app> Tätä <app id="var2396" type="sub">
+                            <lem>eivät ne</lem>
+                        </app> tee suullaan, vaan <app id="var2397" type="sub">
+                            <lem>taka-jalkojaan kihnuttamalla siipiinsä.</lem>
+                        </app> Tämä on niistä <app id="var2398" type="sub">
+                            <lem>lystiä. Eivät heinäsirkat</lem>
+                        </app> ole ollenkaan <app id="var2399" type="sub">
+                            <lem>vahingollisia tässä maassa, vaan</lem>
+                        </app> lämpimämmissä maissa <app id="var2400" type="sub">
+                            <lem>voivat</lem>
+                        </app> ne tehdä hirmuista häviötä. Raamatussa puhutaan <app id="var2401" type="sub">
+                            <lem>niistä suurista rasituksista,</lem>
+                        </app> joita Jumala <app id="var2402" type="sub">
+                            <lem>antoi tulla</lem>
+                        </app> Egyptin maalle. Niissä puhutaan heinäsirkkainkin hävityksistä. <app id="var2403" type="sub">
+                            <lem>Sitä</lem>
+                        </app> antaa Jumala tapahtua luonnollisista syistä. <app id="var2404" type="sub">
+                            <lem>Niin tapahtuu</lem>
+                        </app> nimittäin muutamina vuosina, että heinäsirkkoja sikiää suunnattomasti
+                        niiden <app id="var2405" type="sub">
+                            <lem>kotimaissa</lem>
+                        </app> tuolla kaukana Aasiassa. Kun <app id="var2406" type="sub">
+                            <lem>siellä</lem>
+                        </app> ei ole <app id="var2407" type="sub">
+                            <lem>niillä</lem>
+                        </app> enää mitään syömistä, muuttavat <app id="var2408" type="sub">
+                            <lem>ne</lem>
+                        </app> lukemattomat parvet <app id="var2409" type="sub">
+                            <lem>pois toisiin</lem>
+                        </app> maihin. Siellä <app id="var2410" type="sub">
+                            <lem>laskeuvat ne juurikuin synkkä pilvi</lem>
+                        </app> pelloille, niityille ja <app id="var2411" type="int">
+                            <lem>metsiin</lem>
+                        </app> ja syövät muuta<pb type="orig" n="80"/>massa hetkessä kaiken <app id="var2412" type="sub">
+                            <lem>kasvun.</lem>
+                        </app> Silloin <app id="var2413" type="sub">
+                            <lem>käsketään kaikki tienoilla oleva</lem>
+                        </app> väki hävittämään tätä <app id="var2414" type="sub">
+                            <lem>makunnan</lem>
+                        </app> rasitusta. <app id="var2415" type="sub">
+                            <lem>Peto-lintuja keräypi paljolta</lem>
+                        </app> syömään heinäsirkkoja. Usein sattuu, että tuuli ajaa <app id="var2416" type="sub">
+                            <lem>miljonittain</lem>
+                        </app> näitä pieniä <app id="var2417" type="sub">
+                            <lem>eläviä</lem>
+                        </app> merelle, johon ne putoavat ja hukkuvat. Näin <app id="var2418" type="sub">
+                            <lem>hävenevät ne tavallisesti</lem>
+                        </app> vähässä ajassa. Monessa paikassa eteläisissä maissa <app id="var2419" type="sub">
+                            <lem>syöpi kansa heinäsirkkoja,</lem>
+                        </app> joita suolataan, savustetaan <app id="var2420" type="sub">
+                            <lem>eli</lem>
+                        </app> kuivataan <app id="var2421" type="sub">
+                            <lem>auringossa.</lem>
+                        </app></p>
+                    <head style="blackletter"><hi rend="bold">Mehiläisten talous.</hi></head>
+                    <p style="blackletter">Kalat, jotka usein kulkevat isoissa <app id="var2422" type="sub">
+                            <lem>parveissa,</lem>
+                        </app> eivät <app id="var2423" type="sub">
+                            <lem>tiedä ystävyydestä</lem>
+                        </app> eikä <app id="var2424" type="sub">
+                            <lem>keskinäisestä auttavaisuudesta.</lem>
+                        </app> Sitä enemmän näkee näitä <app id="var2425" type="sub">
+                            <lem>luonteita muutamilla hyönteisillä. Eivät kaikki meistä</lem>
+                        </app> ole nähneet <app id="var2426" type="sub">
+                            <lem>mettiäisiä</lem>
+                        </app> ja ampiaisia. Ne elävät mehiläisten <app id="var2427" type="sub">
+                            <lem>tavalla monta yksissä</lem>
+                        </app> yhteisessä <app id="var2428" type="sub">
+                            <lem>pesässä.</lem>
+                        </app> Ymmärtävät ihmiset rakentavat mehiläisille valmiin pesän, johon
+                        mehiläiset itse saavat tehdä <app id="var2429" type="sub">
+                            <lem>sisuksen.</lem>
+                        </app> Tule, <app id="var2430" type="sub">
+                            <lem>menemme</lem>
+                        </app> tuolle isolle mehiläispesälle puutarhaan. Siinä on yksi ainoa <app id="var2431" type="sub">
+                            <lem>emä,</lem>
+                        </app> jota <app id="var2432" type="sub">
+                            <lem>kutsutaan mehiläisten emäksi,</lem>
+                        </app> joka on <app id="var2433" type="sub">
+                            <lem>kaikkein</lem>
+                        </app> mehiläisten <app id="var2434" type="sub">
+                            <lem>emä.</lem>
+                        </app> Se asuu isoimmassa kammiossa; kaikki muut <app id="var2435" type="sub">
+                            <lem>palvelevat</lem>
+                        </app> ja <app id="var2436" type="sub">
+                            <lem>hoitavat sitä.</lem>
+                        </app> Samassa pesässä on <app id="var2437" type="sub">
+                            <lem>700</lem>
+                        </app> (seitsemänsataa) koirasta, joita <app id="var2438" type="sub">
+                            <lem>kutsutaan <hi rend="expanded">kuhnuriksi,</hi></lem>
+                        </app> kun ovat <app id="var2439" type="sub">
+                            <lem>laiskoja eläviä, jotka eivät</lem>
+                        </app> tee työtä. Mutta <app id="var2440" type="sub">
+                            <lem>10 ja aina 15,000 (kymmenen</lem>
+                        </app> ja <app id="var2441" type="sub">
+                            <lem>aina viisitoista-tuhansia) <choice>
+                                    <orig>on</orig>
+                                    <reg type="empty"/>
+                                </choice> työ-mehiläistä <choice>
+                                    <orig>ovat</orig>
+                                    <reg>on</reg>
+                                </choice> pesän</lem>
+                        </app> sellaisia asukkaita, jotka eivät <app id="var2442" type="sub">
+                            <lem>ole koiraita</lem>
+                        </app> eivätkä naaraita. Ne ovat <app id="var2443" type="sub">
+                            <lem>pienimmät</lem>
+                        </app> ja <app id="var2444" type="int">
+                            <lem>ahkerimmat,</lem>
+                        </app> niiden näkee <app id="var2445" type="sub">
+                            <lem>alinomaa lentelevän ympäriinsä kukissa. Karvasissa</lem>
+                        </app> jaloissaan <app id="var2446" type="sub">
+                            <lem>vievät he</lem>
+                        </app> kukista kotiinsa <app id="var2447" type="sub">
+                            <lem>kukkain siemenjauhoja, joista toiset mehiläiset tekevät vaksia.
+                                Vaksista</lem>
+                        </app> tekevät <app id="var2448" type="sub">
+                            <lem>he pesään kuusikulmasia kamareja,</lem>
+                        </app> joissa asuvat. <pb type="orig" n="81"/>Niissä <app id="var2449" type="sub">
+                            <lem>talleltavat he</lem>
+                        </app>
+                        <hi rend="expanded">hunajan,</hi> jota ovat <app id="var2450" type="sub">
+                            <lem>imeneet kukista</lem>
+                        </app> ja <app id="var2451" type="sub">
+                            <lem>jota</lem>
+                        </app> syövät syksyllä ja <app id="var2452" type="sub">
+                            <lem>keväillä;</lem>
+                        </app> mutta talvella <app id="var2453" type="sub">
+                            <lem>nukkuvat enimmästi</lem>
+                        </app> tainnoksissa. Monta pientä kammiota on valmistettu sikiöille. <app id="var2454" type="sub">
+                            <lem>Siinä</lem>
+                        </app> panee <app id="var2455" type="sub">
+                            <lem>mehiläis-emä munan</lem>
+                        </app> kuhunkin <app id="var2456" type="sub">
+                            <lem>kamariin.</lem>
+                        </app> Munasta mataa toukka. Heti ovat <app id="var2457" type="sub">
+                            <lem>työ-mehiläiset syöttämässä toukkaa,</lem>
+                        </app> siksi <app id="var2458" type="sub">
+                            <lem>kuin</lem>
+                        </app> tämä tulee <app id="var2459" type="sub">
+                            <lem>koteroon. Kotero muurataan kohta kammioonsa;</lem>
+                        </app> ovi tukitaan <app id="var2460" type="sub">
+                            <lem>vaksilla. Aikaa</lem>
+                        </app> kuluu. Kun <app id="var2461" type="sub">
+                            <lem>se uusi</lem>
+                        </app> mehiläinen on <app id="var2462" type="sub">
+                            <lem>koterossaan saanut oikean</lem>
+                        </app> muotonsa, mataa se ulos ja alkaa <app id="var2463" type="sub">
+                            <lem>kohta</lem>
+                        </app> tehdä työtä. Niin kummallinen on eläinten <app id="var2464" type="sub">
+                            <lem>luonto.</lem>
+                        </app> — Ihminen tyhjentää mehiläisten <app id="var2465" type="sub">
+                            <lem>pesiä. Vaksista</lem>
+                        </app> valetaan kynttilöitä, ja sillä <app id="var2466" type="sub">
+                            <lem>vaksataan lankoja,</lem>
+                        </app> joilla <app id="var2467" type="sub">
+                            <lem>vaatteen-tekijä ompelee. Hunajata</lem>
+                        </app> ko’otaan ja käytetään <app id="var2468" type="sub">
+                            <lem>makeisiin juomiin.</lem>
+                        </app> Mutta <app id="var2469" type="sub">
+                            <lem>elä</lem>
+                        </app> ärsytä mehiläisiä; <app id="var2470" type="sub">
+                            <lem>voitpa</lem>
+                        </app> saada koko <app id="var2471" type="sub">
+                            <lem>joukon päällesi.</lem>
+                        </app> Ne pistävät sinua terävällä <app id="var2472" type="sub">
+                            <lem>piikillään,</lem>
+                        </app> ja silloin <app id="var2473" type="sub">
+                            <lem>ajettuu se paikka.</lem>
+                        </app> Onpa nähty <app id="var2474" type="sub">
+                            <lem>mehiläis-parven</lem>
+                        </app> tappavan ison <app id="var2475" type="sub">
+                            <lem>hevosen.</lem>
+                        </app></p>
+                    <head style="blackletter"><hi rend="bold">Muurahainen.</hi></head>
+                    <p style="blackletter"><app id="var2476" type="sub">
+                            <lem>Menemmepä</lem>
+                        </app> nyt muurahaisen <app id="var2477" type="sub">
+                            <lem>tykö.</lem>
+                        </app> Oppikaamme <app id="var2478" type="int">
+                            <lem>hänestä</lem>
+                        </app> mitä hyvä sopu, ahkeruus ja <app id="var2479" type="sub">
+                            <lem>pitkittäminen voipi saada mailmassa toimeen.</lem>
+                        </app> Nämä <app id="var2480" type="sub">
+                            <lem>siivilliset</lem>
+                        </app> muurahaiset ovat <app id="var2481" type="sub">
+                            <lem>koiraita</lem>
+                        </app> ja naaraita, jotka <app id="var2482" type="sub">
+                            <lem>lentävät jonkun ajan</lem>
+                        </app> isoissa parvissa <app id="var2483" type="sub">
+                            <lem>ympäriinsä</lem>
+                        </app> ja <app id="var2484" type="sub">
+                            <lem>tulevat juurikuin</lem>
+                        </app> sateena <app id="var2485" type="sub">
+                            <lem>alas;</lem>
+                        </app> mutta <app id="var2486" type="sub">
+                            <lem>sitte kadottavat</lem>
+                        </app> siipensä. Ne ovat laiskoja ja jättävät <app id="var2487" type="sub">
+                            <lem>kaiken vaivan</lem>
+                        </app> työmuurahaisille. Mutta nämäpä ovatkin sitä ahkerampia. Nämä tekevät
+                        kaikki työt, rakentavat pesät, kokoavat ruokaa ja hoitavat sikiöitä. Pesä,
+                        jonka näet, ei ole <app id="var2488" type="sub">
+                            <lem>hyvin</lem>
+                        </app> korkea; kuitenkin asuu sen kammioissa ja kerroksissa <app id="var2489" type="sub">
+                            <lem>yhdessä monta</lem>
+                        </app> tuhatta <app id="var2490" type="sub">
+                            <lem>muurahaista. Koko kesän kulettavat</lem>
+                        </app> ne siihen <app id="var2491" type="sub">
+                            <lem>havunneuloja rakennus-aineeksi</lem>
+                        </app> ja pieniä hyönteisiä ruu<pb type="orig" n="82"/>aksi. <app id="var2492" type="sub">
+                            <lem>Katsoppa</lem>
+                        </app> tuota pientä muurahaista, joka vetää isoa kortta <app id="var2493" type="sub">
+                            <lem>takaperin!</lem>
+                        </app> Korsi on <app id="var2494" type="sub">
+                            <lem>hänelle</lem>
+                        </app> liian raskas; <app id="var2495" type="sub">
+                            <lem>hän</lem>
+                        </app> ei voi sille mitään. Mutta <app id="var2496" type="sub">
+                            <lem>ei se</lem>
+                        </app> jätä <app id="var2497" type="sub">
+                            <lem>työtään keskitekoiseksi.</lem>
+                        </app> Muuan kumppaneista rientää <app id="var2498" type="sub">
+                            <lem>siihen.</lem>
+                        </app> Molemmat <app id="var2499" type="sub">
+                            <lem>ryhtyvät voimineen kiini,</lem>
+                        </app> ja viimein <app id="var2500" type="sub">
+                            <lem>jaksavat he kulettaa korren. Nakataanpa</lem>
+                        </app> pieni oksa pesään; muurahaiset <app id="var2501" type="sub">
+                            <lem>juoksevat sen yli</lem>
+                        </app> ja koettavat saada oksaa pois. <app id="var2502" type="sub">
+                            <lem>Nakataanpa</lem>
+                        </app> siihen <app id="var2503" type="sub">
+                            <lem>sittisontiainen;</lem>
+                        </app> muurahaiset luulevat <app id="var2504" type="sub">
+                            <lem>sittisontiaisen tulevan päällensä. Siinä vastustavat he
+                                urhoollisesti; sittisontiainen</lem>
+                        </app> on <app id="var2505" type="sub">
+                            <lem>pahoissa päivissä</lem>
+                        </app> ja kokee kaikin voimin päästä <app id="var2506" type="sub">
+                            <lem>tiehensä pesästä.</lem>
+                        </app> Käärme, joka on <app id="var2507" type="sub">
+                            <lem>paljoa</lem>
+                        </app> isompi, varoo kyllä <app id="var2508" type="sub">
+                            <lem>tulemasta muurahaispesään;</lem>
+                        </app> siinä <app id="var2509" type="sub">
+                            <lem>tulisi hänelle kyllä tuho.</lem>
+                        </app> Niin ahkerat, <app id="var2510" type="sub">
+                            <lem>ymmärtävät, auttavat</lem>
+                        </app> ja urhoolliset ovat muurahaiset. Jos <app id="var2511" type="sub">
+                            <lem>niiden pesää hävitetään,</lem>
+                        </app> pantavaksi kuumaan <app id="var2512" type="sub">
+                            <lem>veteen hauteeksi</lem>
+                        </app> sairaille <app id="var2513" type="sub">
+                            <lem>ihmisille,</lem>
+                        </app> nähdään muurahaisten hyvin <app id="var2514" type="sub">
+                            <lem>sukkeloina</lem>
+                        </app> kantavan <app id="var2515" type="sub">
+                            <lem>muniaan</lem>
+                        </app> ja valkeita <app id="var2516" type="sub">
+                            <lem>koteroitaan.</lem>
+                        </app> Ne alkavat <app id="var2517" type="sub">
+                            <lem>kohta</lem>
+                        </app> rakentaa uutta pesää. Muurahaiset hävittävät <app id="var2518" type="sub">
+                            <lem>paljo</lem>
+                        </app> vahingollisia hyönteisiä <app id="var2519" type="sub">
+                            <lem>puutarhoissa;</lem>
+                        </app> mutta <app id="var2520" type="sub">
+                            <lem>työlästä</lem>
+                        </app> on istua ruohokossa, jossa muurahaisia <app id="var2521" type="sub">
+                            <lem>juoksentelee ympäriinsä.</lem>
+                        </app></p>
+                    <head style="blackletter"><hi rend="bold">Hämähäkki.</hi></head>
+                    <p style="blackletter"><app id="var2522" type="sub">
+                            <lem>Parempi</lem>
+                        </app> on <app id="var2523" type="sub">
+                            <lem>katsoa</lem>
+                        </app> ahkeraa muurahaista, kuin tuota raateliasta hämähäkkiä. Mutta sen
+                        ihmeellistä älyä täytyy meidän kuitenkin kummastella. <app id="var2524" type="sub">
+                            <lem>Näetkö,</lem>
+                        </app> tuolla <app id="var2525" type="sub">
+                            <lem>on</lem>
+                        </app> hämähäkki <app id="var2526" type="sub">
+                            <lem>kutomassa verkkoa</lem>
+                        </app> kahden oksan <app id="var2527" type="sub">
+                            <lem>välille vaarain-pensaassa. Sepä</lem>
+                        </app> nyt <app id="var2528" type="sub">
+                            <lem>miettii</lem>
+                        </app> mistä tuuli <app id="var2529" type="sub">
+                            <lem>käypi. Sitte</lem>
+                        </app> laskee se oksalta pitkän langan riippumaan ja antaa tuulen puhaltaa
+                            <app id="var2530" type="sub">
+                            <lem>lankaa</lem>
+                        </app> toiseen <app id="var2531" type="sub">
+                            <lem>oksaan kiini.</lem>
+                        </app> Nyt on sillä <app id="var2532" type="sub">
+                            <lem>silta molempien oksain välillä pensaassa.</lem>
+                        </app> Tätä siltaa myöten kulkee se <app id="var2533" type="sub">
+                            <lem>edestakasin,</lem>
+                        </app> kutoen verkkoansa. Se kutoo langan <pb type="orig" n="83"/>lankaan,
+                        ja kaikki langat <app id="var2534" type="sub">
+                            <lem>käyvät ulos</lem>
+                        </app> keskuksesta, <app id="var2535" type="sub">
+                            <lem>juurikuin</lem>
+                        </app> säteet <app id="var2536" type="sub">
+                            <lem>tähdessä. Jopa</lem>
+                        </app> on verkko valmiina. <app id="var2537" type="sub">
+                            <lem>Istuupa hämähäkki</lem>
+                        </app> keskelle vaanimaan. Tuossa surisee paarma. Se on liian suuri; se
+                        lentää verkon <app id="var2538" type="sub">
+                            <lem>läpi.</lem>
+                        </app> Kohta rientää hämähäkki <app id="var2539" type="sub">
+                            <lem>parantamaan verkkonsa reikää. Elähän</lem>
+                        </app> vielä! Tuolla tulee kärpänen. Se tarttuu verkkoon. Turhaan kokee se
+                        pyrkiä siitä irti. Hämähäkki töytää <app id="var2540" type="sub">
+                            <lem>siihen,</lem>
+                        </app> kutoo sen ympärille <app id="var2541" type="sub">
+                            <lem>juurikuin</lem>
+                        </app> kerän <app id="var2542" type="sub">
+                            <lem>kinasia</lem>
+                        </app> lankoja, tappaa sen ja imee nesteet sen ruumiista. <app id="var2543" type="sub">
+                            <lem>Sitte</lem>
+                        </app> asettuu <app id="var2544" type="sub">
+                            <lem>hän taas vahtiin.</lem>
+                        </app> Nyt tulee pieni perho. Voipikohan <app id="var2545" type="sub">
+                            <lem>tuo</lem>
+                        </app> murtaa tietä itselleen verkon <app id="var2546" type="sub">
+                            <lem>läpi?</lem>
+                        </app> Ei, se <app id="var2547" type="sub">
+                            <lem>tarttui kiini,</lem>
+                        </app> se <app id="var2548" type="sub">
+                            <lem>kiertyi</lem>
+                        </app> siihen. Hämähäkki tulee. Perho <app id="var2549" type="sub">
+                            <lem>raukka,</lem>
+                        </app> nyt on <app id="var2550" type="sub">
+                            <lem>kyllä sinulla loppu</lem>
+                        </app> käsissä. <app id="var2551" type="sub">
+                            <lem>Mutta eläpä, autetaanpa sitä.</lem>
+                        </app> Nyt revimme verkon rikki. Hämähäkki juoksee pakoon, ja <app id="var2552" type="sub">
+                            <lem>perho</lem>
+                        </app> lentää <app id="var2553" type="sub">
+                            <lem>liuvottelee kiitollisena tuonne</lem>
+                        </app> niitylle <app id="var2554" type="sub">
+                            <lem>kukkiin.</lem>
+                        </app></p>
+                    <head style="romanType"><anchor id="struct93a"/><hi rend="bold">Mettiäinen ja
+                            kyyhky.</hi><anchor id="struct93b"/></head>
+                    <head style="romanType"><hi rend="bold">Eläinten </hi><app id="var2555" type="sub">
+                            <lem><hi rend="bold">tavoista.</hi></lem>
+                        </app></head>
+        </body>
+    </text>
+</TEI>

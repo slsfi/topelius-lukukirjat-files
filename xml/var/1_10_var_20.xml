@@ -1,0 +1,1243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1929). Luku 10, varianttikoodattu</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo: Werner Söderström 1929</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+			<pb type="orig unprinted" n="197"/>
+            <figure type="illustration"/>
+        	<head type="section" style="romanType"><hi rend="bold">Kymmenes</hi> <app id="var4509" type="sub">
+                    <rdg><hi rend="bold">luku.</hi></rdg>
+                </app></head>
+            <head type="section" style="romanType"><hi rend="bold">Vedestä.</hi></head>
+            <p style="romanType">Kerran, kun myrsky pauhasi <app id="var4510" type="sub int">
+                    <rdg>ja järvi kovasti aaltoili,</rdg>
+                </app> sanoi isä: <app id="var4511" type="sub">
+                    <rdg>Katso</rdg>
+                </app> Jumalan voimaa! Elementit <app id="var4512" type="sub">
+                    <rdg>ovat raivoissaan.</rdg>
+                </app></p>
+            <p style="romanType">Antti sanoi: <app id="var4513" type="sub">
+                    <rdg><hi rend="italics">elementit,</hi></rdg>
+                </app> mitä <app id="var4514" type="sub">
+                    <rdg>ne ovat?</rdg>
+                </app></p>
+            <p style="romanType">Isä sanoi: <app id="var4515" type="sub">
+                    <rdg>muutamien kappalten osat</rdg>
+                </app> pysyvät lujemmasti <app id="var4516" type="sub">
+                    <rdg>kiinni toisissaan, ja toisten osat ovat löyhemmästi toisiinsa
+                        yhtyneet. Puunpalasen tai</rdg>
+                </app> kiven <app id="var4517" type="sub">
+                    <rdg>saatat</rdg>
+                </app> ottaa <app id="var4518" type="sub">
+                    <rdg>käteesi</rdg>
+                </app> ja <app id="var4519" type="sub">
+                    <rdg>niitä pidellä,</rdg>
+                </app> ja sellaisia <app id="var4520" type="sub">
+                    <rdg>sanotaan <hi rend="italics">kiinteiksi</hi></rdg>
+                </app><hi rend="italics"> aineiksi.</hi> Mutta vettä <app id="var4521" type="sub">
+                    <rdg>et</rdg>
+                </app> saata ottaa <app id="var4522" type="sub">
+                    <rdg>käteesi</rdg>
+                </app> ja <app id="var4523" type="sub">
+                    <rdg><seg>sitä</seg> pidellä,</rdg>
+                </app> ja sellaisia <app id="var4524" type="sub int">
+                    <rdg>sanotaan <hi rend="italics">juokseviksi</hi> aineiksi eli <hi rend="italics">nesteiksi.</hi></rdg>
+                </app> Sellaisia <app id="var4525" type="sub">
+                    <rdg>saatat</rdg>
+                </app> kuitenkin ottaa kauhaan <app id="var4526" type="sub">
+                    <rdg>tai</rdg>
+                </app> ämpäriin, <app id="var4527" type="sub">
+                    <rdg>sillä</rdg>
+                </app> ne <app id="var4528" type="sub">
+                    <rdg><seg>pysyvät</seg> kumminkin <seg>koossa.</seg></rdg>
+                </app> Mutta <app id="var4529" type="sub">
+                    <rdg>koossa et</rdg>
+                </app> voi pitää <app id="var4530" type="sub">
+                    <rdg><seg>höyryä,</seg></rdg>
+                </app> joka kohoaa kiehuvasta <app id="var4531" type="sub int">
+                    <rdg>padasta, etkä</rdg>
+                </app> häkää, jota tulee <app id="var4532" type="sub">
+                    <rdg>uunista, etkä ilmaa.</rdg>
+                </app> Sellaiset aineet ovat <app id="var4533" type="sub int">
+                    <rdg><hi rend="italics">ilmamaisia</hi> eli <hi rend="italics">kaasuja.</hi></rdg>
+                </app></p>
+            <p style="romanType"><app id="var4534" type="sub">
+                    <rdg>Muinaisaikoina</rdg>
+                </app> ei tunnettu luonnon aineita niin tarkoin kuin nyt. <app id="var4535" type="sub int">
+                    <rdg>Sentähden luultiin olevan vain neljä <hi rend="italics">alkuainetta,</hi></rdg>
+                </app> joista <app id="var4536" type="sub">
+                    <rdg>muka kaikki on saanut</rdg>
+                </app> alkunsa. Ja näitä <app id="var4537" type="sub">
+                    <rdg>alkuaineita</rdg>
+                </app> sanottiin <hi rend="italics">elementeiksi.</hi><app id="var4538" type="sub">
+                    <rdg> Neljä</rdg>
+                </app> elementtiä <app id="var4539" type="sub">
+                    <rdg>olivat:</rdg>
+                </app> 1) <hi rend="expanded">maa,</hi> joka on <app id="var4540" type="sub">
+                    <rdg>kiinteää ainetta;</rdg>
+                </app> 2) <hi rend="expanded">vesi,</hi> joka tavallisesti <app id="var4541" type="sub int">
+                    <rdg>esiintyy <pb type="orig" n="198"/>nestemäisenä;</rdg>
+                </app> 3) <hi rend="expanded">ilma,</hi> joka on <app id="var4542" type="sub int">
+                    <rdg>kaasua,</rdg>
+                </app> ja 4) <hi rend="expanded">tuli,</hi> joka ei ole <app id="var4543" type="sub">
+                    <rdg>mitään</rdg>
+                </app> ainetta, vaan toisten <app id="var4544" type="sub">
+                    <rdg>aineitten muuntumista.</rdg>
+                </app></p>
+            <p style="romanType"><app id="var4545" type="sub">
+                    <rdg>Lähtekäämme nyt järven rantaan. Katsokaamme</rdg>
+                </app> tarkemmin <hi rend="italics">vettä.</hi>
+                <app id="var4546" type="sub">
+                    <rdg>Nyt nakkaan veteen puunkappaleen. Minkätähden puunkappale</rdg>
+                </app> pysyy veden <app id="var4547" type="sub int">
+                    <rdg>pinnalla? Sentähden,</rdg>
+                </app> että <app id="var4548" type="sub">
+                    <rdg>se <seg>on</seg></rdg>
+                </app> keveämpi <app id="var4549" type="sub">
+                    <rdg>vettä. Nyt nakkaan</rdg>
+                </app> kiven veteen. <app id="var4550" type="sub">
+                    <rdg>Miksi</rdg>
+                </app> kivi uppoaa? <app id="var4551" type="sub int">
+                    <rdg>Sentähden,</rdg>
+                </app> että se on vettä raskaampi. Tuolla <app id="var4552" type="sub">
+                    <rdg>ui vesilintu;</rdg>
+                </app> tuolla soutaa poika <app id="var4553" type="sub">
+                    <rdg>venettä. Minkätähden</rdg>
+                </app> ne kulkevat eteenpäin veden <app id="var4554" type="sub int">
+                    <rdg>pinnalla? Sentähden, että työntävät</rdg>
+                </app> vettä <app id="var4555" type="sub">
+                    <rdg>tieltään,</rdg>
+                </app> vesilintu jaloillaan ja poika <app id="var4556" type="sub">
+                    <rdg>airoilla. Vesi vastustaa ja lykkää heitä eteenpäin.</rdg>
+                </app> Tuolla <app id="var4557" type="sub">
+                    <rdg>käy vesimylly.</rdg>
+                </app> Mikä panee sen <app id="var4558" type="sub">
+                    <rdg>rattaan</rdg>
+                </app> liikkeelle? Vesi <app id="var4559" type="sub">
+                    <rdg>työntää</rdg>
+                </app> alinomaa <app id="var4560" type="sub">
+                    <rdg>ratasta.</rdg>
+                </app> Niin raskasta ja voimakasta on <app id="var4561" type="sub">
+                    <rdg><seg>vesi.</seg> Onpa</rdg>
+                </app> se <app id="var4562" type="sub int">
+                    <rdg><seg>vielä</seg> niinkin voimakasta,</rdg>
+                </app> että se murtaa rikki suuria laivoja ja <app id="var4563" type="sub">
+                    <rdg>kovaan liikkeeseen tultuaan vie muassaan suuria kallioita ja
+                        jäälohkareita.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <pb type="orig" n="199"/>
+            <figure type="illustration"/>
+            <p style="romanType">Eilen, kun satoi, oli <app id="var4564" type="sub int">
+                    <rdg>piha märkänä,</rdg>
+                </app> ja suuria <app id="var4565" type="sub">
+                    <rdg>vesilätäköitä</rdg>
+                </app> oli <app id="var4566" type="sub">
+                    <rdg>kokoontunut</rdg>
+                </app> maantielle. Mutta <app id="var4567" type="sub">
+                    <rdg>tänään</rdg>
+                </app> on <app id="var4568" type="sub">
+                    <rdg>päivänpaiste,</rdg>
+                </app> ja <app id="var4569" type="sub">
+                    <rdg>piha</rdg>
+                </app> ja tie ovat taas kuivina. <app id="var4570" type="sub int">
+                    <rdg>Miksikä?</rdg>
+                </app> Onko kaikki <app id="var4571" type="sub">
+                    <rdg>sadevesi</rdg>
+                </app> juossut pois? Eilen panin <app id="var4572" type="sub">
+                    <rdg>vesikupin liedelle lämpiämään.</rdg>
+                </app> Kun <app id="var4573" type="sub">
+                    <rdg>tänä päivänä aioin ruveta kasvojani</rdg>
+                </app> ja käsiäni pesemään, <app id="var4574" type="sub">
+                    <rdg>oli</rdg>
+                </app> kuppi <app id="var4575" type="sub">
+                    <rdg>melkein tyhjä. Mikä oli siihen syynä?</rdg>
+                </app> Ei suinkaan <app id="var4576" type="sub">
+                    <rdg>vesi <seg>ollut</seg></rdg>
+                </app> saattanut juosta pois kupin <app id="var4577" type="sub">
+                    <rdg>lävitse.</rdg>
+                </app> Ei, se oli <app id="var4578" type="sub">
+                    <rdg>haihtunut</rdg>
+                </app> pois ja <app id="var4579" type="sub int">
+                    <rdg>näkymättömänä kaasuna <seg>kohonnut</seg> ilmaan:</rdg>
+                </app> Niin kävi <app id="var4580" type="sub int">
+                    <rdg>veden pihalla,</rdg>
+                </app> ja niin kävi <app id="var4581" type="sub int">
+                    <rdg>sen kupissakin.</rdg>
+                </app> Tiedän <app id="var4582" type="sub">
+                    <rdg>paljon</rdg>
+                </app> vettä olevan höyrynä ilmassa, varsinkin <app id="var4583" type="sub int">
+                    <rdg>lämpimällä säällä.</rdg>
+                </app> Nämä höyryt <app id="var4584" type="sub">
+                    <rdg>jäähtyvät</rdg>
+                </app> ja <app id="var4585" type="sub">
+                    <rdg>kokoontuvat sitten</rdg>
+                </app>
+                <hi rend="expanded">pilviksi.</hi>
+                <app id="var4586" type="sub int">
+                    <rdg>Kun ilma sitten taas käy kylmemmäksi, tiivistyy höyry</rdg>
+                </app> pieniksi <app id="var4587" type="sub">
+                    <rdg>vesipisaroiksi</rdg>
+                </app> ja <app id="var4588" type="sub">
+                    <rdg>lankeaa</rdg>
+                </app>
+                <hi rend="expanded">sateena</hi> maahan. Ja koska kesällä yö on <app id="var4589" type="sub">
+                    <rdg>viileämpi</rdg>
+                </app> päivää, <app id="var4590" type="sub">
+                    <rdg>tiivistyvät vesihöyryt jäähtyneen maan läheisyydessä</rdg>
+                </app> ja <app id="var4591" type="sub">
+                    <rdg>laskeutuvat</rdg>
+                </app> aivan <app id="var4592" type="sub">
+                    <rdg>pie<pb type="orig" n="200"/>ninä kastepisaroina</rdg>
+                </app> ruohoon ja muihin <app id="var4593" type="sub int">
+                    <rdg>ulkona oleviin esineihin. Välistä, kun ilma jäähtyy kosteiden
+                        paikkojen</rdg>
+                </app> ja vetten <app id="var4594" type="sub int">
+                    <rdg>kohdalla, tiivistyvät</rdg>
+                </app> höyryt <hi rend="expanded">sumuksi.</hi> Eilen <app id="var4595" type="sub">
+                    <rdg>sumussa <seg>kävellessäni</seg></rdg>
+                </app> ajattelin itsekseni: kah, nytpä <app id="var4596" type="sub">
+                    <rdg>kuljen</rdg>
+                </app> pilvessä aivan maan pinnalla. Ja <app id="var4597" type="sub">
+                    <rdg>sitä <seg>vettä,</seg></rdg>
+                </app> joka <app id="var4598" type="sub int">
+                    <rdg>ilmasta laskeutuu, imevät kasvit ja eläimet sisäänsä;</rdg>
+                </app> mutta <app id="var4599" type="sub">
+                    <rdg>enin</rdg>
+                </app> osa <app id="var4600" type="sub">
+                    <rdg>haihtuu</rdg>
+                </app> jälleen <app id="var4601" type="sub">
+                    <rdg>ilmaan</rdg>
+                </app> ja <app id="var4602" type="sub">
+                    <rdg>muuttuu</rdg>
+                </app> sateeksi. Ja <app id="var4603" type="sub">
+                    <rdg>kasveista</rdg>
+                </app> ja <app id="var4604" type="sub">
+                    <rdg>eläimistä</rdg>
+                </app> ja <app id="var4605" type="sub">
+                    <rdg>joista</rdg>
+                </app> ja <app id="var4606" type="sub">
+                    <rdg>järvistä</rdg>
+                </app> ja <app id="var4607" type="sub">
+                    <rdg>meristä haihtuu taas vettä. Näin</rdg>
+                </app> on <app id="var4608" type="sub">
+                    <rdg>vesi</rdg>
+                </app> maan <app id="var4609" type="sub int">
+                    <rdg>päällä yhtämittaisessa kiertokulussa,</rdg>
+                </app> eikä <app id="var4610" type="sub">
+                    <rdg><seg>ole</seg></rdg>
+                </app> vielä koskaan <app id="var4611" type="sub int">
+                    <rdg>nähty veden siitä vähenneen,</rdg>
+                </app> vaikka se <app id="var4612" type="sub">
+                    <rdg>muutamin paikoin</rdg>
+                </app> saattaa vähetä muista syistä.</p>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var4613" type="sub">
+                    <rdg>Välistä tapahtuu kesällä, pilvien sataessa, että niitä alempana
+                        oleva ilma on hyvin kylmää. Silloin jäähtyvät vesipisarat
+                        pudotessaan ja tulevat <hi rend="expanded">jäärakeina</hi> maahan.
+                        Mutta jos ne pilvissä jäätyvät, tulevat ne alas <hi rend="expanded">lumena.</hi>
+                        <seg>Talvella</seg></rdg>
+                </app> veden pinta kaikissa järvissä ja <app id="var4614" type="sub">
+                    <rdg>joissa</rdg>
+                </app> täällä pohjoisessa <app id="var4615" type="sub">
+                    <rdg>hyytyy <seg><hi rend="expanded">jääksi,</hi></seg></rdg>
+                </app> mutta alimmainen vesi ei jäädy, sillä se vesi, joka on raskainta ja
+                painuu pohjaan, on silloin vähän lämpimämpää. Talvella jäällä ajaessamme
+                sanoi isä: <app id="var4616" type="sub">
+                    <rdg>Tässä on oltava varuillaan,</rdg>
+                </app> tässä <app id="var4617" type="sub int">
+                    <rdg>käy virta</rdg>
+                </app> ja jää on heikkoa. Sillä vesi, joka <app id="var4618" type="sub">
+                    <rdg><seg>koskissa</seg></rdg>
+                </app> ja <app id="var4619" type="sub int">
+                    <rdg>virroissa juoksee nopeammin,</rdg>
+                </app> ei <app id="var4620" type="sub int">
+                    <rdg><seg>niin</seg> helposti jäädy</rdg>
+                </app> ja suolainen vesi meressä ei <app id="var4621" type="sub">
+                    <rdg>myöskään käy</rdg>
+                </app>
+                <pb type="orig" n="201"/>niin pian <app id="var4622" type="sub">
+                    <rdg>jäähän.</rdg>
+                </app> Lämpimimmissä <app id="var4623" type="sub">
+                    <rdg>etelämaissa</rdg>
+                </app> on harvoin <app id="var4624" type="sub">
+                    <rdg>tai</rdg>
+                </app> ei koskaan niin <app id="var4625" type="sub">
+                    <rdg>kovaa pakkasta,</rdg>
+                </app> että vesi <app id="var4626" type="sub">
+                    <rdg>jäätyisi.</rdg>
+                </app> Ja ihmiset, jotka tulevat sieltä tänne pohjoiseen, eivät <app id="var4627" type="sub">
+                    <rdg>saata</rdg>
+                </app> kyllin <app id="var4628" type="int">
+                    <rdg>ihmetellä,</rdg>
+                </app> nähdessään koko maan <app id="var4629" type="sub int">
+                    <rdg>ikäänkuin lumella sokeroituna,</rdg>
+                </app> ja katsellessaan, kuinka täällä <app id="var4630" type="sub">
+                    <rdg>talvisaikaan <seg>kävellään</seg></rdg>
+                </app> ja ajetaan <app id="var4631" type="sub">
+                    <rdg>järvien jäällä, niinkuin sileällä, valkoisella lattialla.</rdg>
+                </app></p>
+            <p style="romanType">Oletko nähnyt, kuinka kauniina tähtinä <app id="var4632" type="sub">
+                    <rdg>lumihiuteet</rdg>
+                </app> tarttuvat <app id="var4633" type="sub">
+                    <rdg>akkunanruutuun?</rdg>
+                </app> Nämä pienet lumitähdet, <app id="var4634" type="sub">
+                    <rdg>joita</rdg>
+                </app> näet <app id="var4635" type="sub int">
+                    <rdg>viereisellä sivulla kuvattuna,</rdg>
+                </app> ovat <app id="var4636" type="sub">
+                    <rdg>kiteitä.</rdg>
+                </app> Niitä <app id="var4637" type="sub">
+                    <rdg>syntyy</rdg>
+                </app> veden jäätyessä, samalla lailla kuin <app id="var4638" type="sub">
+                    <rdg>ruokasuola</rdg>
+                </app> ja muut aineet <app id="var4639" type="sub">
+                    <rdg>laskeutuvat</rdg>
+                </app> astian pohjalle. Silloin sanotaan aineen muuttuvan juoksevasta <app id="var4640" type="sub int">
+                    <rdg>kiinteäksi.</rdg>
+                </app> Vedellä on se <app id="var4641" type="sub">
+                    <rdg>merkillinen ominaisuus,</rdg>
+                </app> että se saattaa <app id="var4642" type="sub">
+                    <rdg>esiintyä kaikissa olomuodoissa.</rdg>
+                </app> Kun lumi ja jää sulaa, <app id="var4643" type="sub">
+                    <rdg>muuttuu</rdg>
+                </app> vesi <app id="var4644" type="sub int">
+                    <rdg>kiinteästä juoksevaksi.</rdg>
+                </app> Kun <app id="var4645" type="sub">
+                    <rdg>juokseva</rdg>
+                </app> vesi <app id="var4646" type="sub">
+                    <rdg>jälleen <seg>nousee</seg></rdg>
+                </app> höyrynä <app id="var4647" type="sub">
+                    <rdg>ilmaan,</rdg>
+                </app> muuttuu se <app id="var4648" type="sub">
+                    <rdg>kaasumaiseksi. Tämän vaikuttaa</rdg>
+                </app> aineen <app id="var4649" type="sub int">
+                    <rdg>lämpötila.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType">Tuolla vuoren rinteellä <app id="var4650" type="sub">
+                    <rdg>tupamme lähellä</rdg>
+                </app> on lähde, jossa on <app id="var4651" type="sub int">
+                    <rdg>selvää, kirkasta vettä,</rdg>
+                </app> jota äiti sanoo <app id="var4652" type="sub">
+                    <rdg><hi rend="expanded">kovaksi</hi> eli <hi rend="expanded">kalseaksi,</hi> siitä syystä, että</rdg>
+                </app> se <app id="var4653" type="sub">
+                    <rdg>saippualla pesemiseen <seg>ei</seg></rdg>
+                </app> ole niin <app id="var4654" type="sub">
+                    <rdg>pehmeätä</rdg>
+                </app> kuin sade- <app id="var4655" type="sub">
+                    <rdg>tai jokivesi. Tämä lähde ei</rdg>
+                </app> ole <pb type="orig" n="202"/><figure type="illustration"/><app id="var4656" type="sub int">
+                    <rdg><figure type="illustration"/><hi rend="expanded">mineraalilähde,</hi></rdg>
+                </app> jonka vesi maistuu raudalta <app id="var4657" type="sub">
+                    <rdg>tai</rdg>
+                </app> muilta <app id="var4658" type="sub">
+                    <rdg>liuenneilta</rdg>
+                </app> aineilta. <app id="var4659" type="sub">
+                    <rdg>Ei</rdg>
+                </app> se <app id="var4660" type="sub">
+                    <rdg>myöskään <seg>ole</seg></rdg>
+                </app>
+                <hi rend="expanded">lämmin lähde,</hi>
+                <app id="var4661" type="sub int">
+                    <rdg>sellainen, joita</rdg>
+                </app> muissa maissa <app id="var4662" type="sub int">
+                    <rdg>on ja joissa on lämmin vesi.</rdg>
+                </app> Eikä se ole <app id="var4663" type="sub">
+                    <rdg><hi rend="expanded">suihkulähde,</hi></rdg>
+                </app> joka <app id="var4664" type="sub">
+                    <rdg>ruiskuttaa vettänsä</rdg>
+                </app> suihkuna maasta <app id="var4665" type="sub">
+                    <rdg>ilmaan.</rdg>
+                </app> Se on parempi <hi rend="expanded">kaivoamme,</hi> jonka isä kaivoi
+                    <app id="var4666" type="sub">
+                    <rdg>semmoiseen paikkaan, missä <hi rend="expanded">vesisuonia</hi>
+                        kulkee</rdg>
+                </app> maassa <app id="var4667" type="sub">
+                    <rdg>pihamaan alitse. Ihmeellistä on katsella lähteemme vettä.</rdg>
+                </app> Ensin <app id="var4668" type="sub">
+                    <rdg>se <seg>juosta</seg></rdg>
+                </app> lirisee <app id="var4669" type="sub">
+                    <rdg><seg>pienenä</seg></rdg>
+                </app>
+                <hi rend="expanded">norona,</hi> joka <app id="var4670" type="sub">
+                    <rdg>virtaa</rdg>
+                </app> suohon. Siinä <app id="var4671" type="sub">
+                    <rdg>yhtyy</rdg>
+                </app> monta sellaista noroa <app id="var4672" type="sub">
+                    <rdg><hi rend="expanded">puroksi,</hi></rdg>
+                </app> joka <app id="var4673" type="sub">
+                    <rdg>metsän kautta <seg>kiertelee</seg></rdg>
+                </app> aina <app id="var4674" type="sub">
+                    <rdg>sen mukaan, miten maa viettää.</rdg>
+                </app> Vähän aikaa <app id="var4675" type="sub">
+                    <rdg>kuljettuani</rdg>
+                </app> puron viertä havaitsin sen <app id="var4676" type="sub int">
+                    <rdg>alituisesti suurenevan siten, että monta muuta puroa vesineen yhtyi
+                        siihen.</rdg>
+                </app> Viimein <app id="var4677" type="sub">
+                    <rdg>kasvoi</rdg>
+                </app> se pieneksi <hi rend="expanded">joeksi,</hi> joka juoksi <app id="var4678" type="int">
+                    <rdg>järveen</rdg>
+                </app> ja järven toisesta päästä jälleen <app id="var4679" type="sub">
+                    <rdg><seg>ulos.</seg></rdg>
+                </app> Joki oli <app id="var4680" type="sub">
+                    <rdg>nyt <seg>saanut</seg></rdg>
+                </app> enemmän vettä ja paisunut <app id="var4681" type="sub">
+                    <rdg><hi rend="expanded">kymiksi,</hi> jossa</rdg>
+                </app> vesi <app id="var4682" type="sub int">
+                    <rdg>väkevänä virtasi.</rdg>
+                </app> Kun <app id="var4683" type="sub">
+                    <rdg>yhä</rdg>
+                </app> useampia puroja ja <app id="var4684" type="sub">
+                    <rdg><hi rend="expanded">lisäjokia</hi></rdg>
+                </app> juoksi <app id="var4685" type="sub int">
+                    <rdg>kymiin,</rdg>
+                </app> tuli siitä viimein leveä ja iso <app id="var4686" type="sub int">
+                    <rdg>virta.</rdg>
+                </app> Ja koko <app id="var4687" type="sub">
+                    <rdg>sitä <seg>maata,</seg></rdg>
+                </app> josta virta ja sen <app id="var4688" type="sub">
+                    <rdg>lisäjoet</rdg>
+                </app> saivat vetensä, <app id="var4689" type="sub int">
+                    <rdg>sanottiin sen <hi rend="expanded">jokialueeksi.</hi> Jos</rdg>
+                </app> maa virran <app id="var4690" type="sub">
+                    <rdg><hi rend="expanded">uomassa</hi></rdg>
+                </app> oli hyvin <pb type="orig" n="203"/><app id="var4691" type="sub">
+                    <rdg>viettävää, kokoontui siihen</rdg>
+                </app> kiviä, vesi juoksi <app id="var4692" type="sub">
+                    <rdg>virtavampana,</rdg>
+                </app> ja siinä <app id="var4693" type="sub">
+                    <rdg>syntyi</rdg>
+                </app>
+                <hi rend="expanded">koski.</hi> Yhdessä paikassa <app id="var4694" type="sub">
+                    <rdg>syöksyi</rdg>
+                </app> virta <app id="var4695" type="sub">
+                    <rdg>vaahtoillen</rdg>
+                </app> ja <app id="var4696" type="sub">
+                    <rdg>pauhaten</rdg>
+                </app> jyrkkää kallion <app id="var4697" type="sub int">
+                    <rdg>rinnettä alas,</rdg>
+                </app> ja <app id="var4698" type="sub int">
+                    <rdg>siinä syntyi <hi rend="expanded">vedenputous</hi></rdg>
+                </app> (köngäs). Viimein tuli virta niin suureksi, että laivat purjehtivat
+                sen <app id="var4699" type="sub int">
+                    <rdg>leveässä uomassa.</rdg>
+                </app> Ja sen rannoille rakensivat ihmiset myllyjä ja sahoja ja <app id="var4700" type="sub">
+                    <rdg>tehtaita</rdg>
+                </app> ja suuria kaupunkeja. Mutta viimein <app id="var4701" type="sub">
+                    <rdg><seg>virta</seg> purki monien <hi rend="expanded">laskuhaarain</hi>
+                        kautta vetensä</rdg>
+                </app> äärettömään <hi rend="expanded">mereen.</hi></p>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var4702" type="sub int">
+                    <rdg>Silloin pyysin hyvältä ystävältäni, merimieheltä, päästä</rdg>
+                </app> hänen <app id="var4703" type="sub">
+                    <rdg>laivallansa purjehtimaan. Hän otti minut</rdg>
+                </app> laivaansa, ja me purjehdimme niin <app id="var4704" type="sub">
+                    <rdg>kauas</rdg>
+                </app> merelle, <app id="var4705" type="sub">
+                    <rdg>että tuskin</rdg>
+                </app> enää <app id="var4706" type="sub int">
+                    <rdg>ollenkaan maata näkyi,</rdg>
+                </app> vaan <app id="var4707" type="sub">
+                    <rdg>ainoastaan taivas</rdg>
+                </app> päällämme ja <app id="var4708" type="sub">
+                    <rdg>meren vedet laivan ympärillä.</rdg>
+                </app> Nyt vasta näin, kuinka <app id="var4709" type="sub">
+                    <rdg>mahtava</rdg>
+                </app> Jumalan voima <app id="var4710" type="sub">
+                    <rdg>ilmaantui</rdg>
+                </app> elementeissä, ja vapisin pelosta, että me, heikot ihmiset,
+                hukkuisimme. Mutta yhtä selvästi näin, <app id="var4711" type="sub">
+                    <rdg>että</rdg>
+                </app> Jumala <app id="var4712" type="sub">
+                    <rdg>tässäkin <seg>oli</seg></rdg>
+                </app> luonut ihmisen <app id="var4713" type="sub">
+                    <rdg><seg>koko</seg></rdg>
+                </app> luonnon herraksi. <app id="var4714" type="sub">
+                    <rdg>Nopeasti</rdg>
+                </app> ja taitavasti <app id="var4715" type="sub">
+                    <rdg>riensi</rdg>
+                </app> laiva eteenpäin <app id="var4716" type="sub">
+                    <rdg><hi rend="expanded">maininkien</hi> halki</rdg>
+                </app> myrskyn <app id="var4717" type="sub">
+                    <rdg>tauottua,</rdg>
+                </app> joka <app id="var4718" type="sub">
+                    <rdg>vähää</rdg>
+                </app> ennen <pb type="orig" n="204"/>oli <app id="var4719" type="sub">
+                    <rdg>pannut</rdg>
+                </app> meren <app id="var4720" type="sub">
+                    <rdg>korkeina <hi rend="expanded">aaltoina</hi> kuohumaan. Rohkaisin
+                        mieleni ja katselin ympärilleni.</rdg>
+                </app> Silloin <app id="var4721" type="sub">
+                    <rdg>huomasin</rdg>
+                </app> meren <app id="var4722" type="sub int">
+                    <rdg>pinnan vaihtelevan sen mukaan, miten</rdg>
+                </app> taivas oli sininen <app id="var4723" type="sub">
+                    <rdg>tai</rdg>
+                </app> pilvinen; mutta usein <app id="var4724" type="sub">
+                    <rdg>vivahti</rdg>
+                </app> se <app id="var4725" type="sub">
+                    <rdg>vihreälle. Merivesi</rdg>
+                </app> oli hyvin <hi rend="expanded">suolaista,</hi> ja nyt <app id="var4726" type="int">
+                    <rdg>ymmärsin,</rdg>
+                </app> miksi <app id="var4727" type="sub">
+                    <rdg>jokien</rdg>
+                </app> ja <app id="var4728" type="sub">
+                    <rdg>lähteiden</rdg>
+                </app> vettä sanottiin <hi rend="expanded">suolattomaksi,</hi>
+                <app id="var4729" type="sub">
+                    <rdg>sillä</rdg>
+                </app> siinä ei ole suolaa.</p>
+            <figure type="illustration"/>
+            <p style="romanType">Täällä, sanoi merimies, <app id="var4730" type="sub">
+                    <rdg>virtaa</rdg>
+                </app> vesi <app id="var4731" type="sub">
+                    <rdg>alituisesti samaan suuntaan, vaikka tuuli olisikin</rdg>
+                </app> vastainen, ja sitä <app id="var4732" type="sub">
+                    <rdg>sanotaan <hi rend="expanded">merenvirraksi.</hi> Nyt on meidän
+                        varominen,</rdg>
+                </app> ettemme <app id="var4733" type="sub">
+                    <rdg>joudu <hi rend="expanded">merenpyörteeseen.</hi></rdg>
+                </app> Siinä <app id="var4734" type="sub">
+                    <rdg>käy</rdg>
+                </app> virta pyörien, <app id="var4735" type="sub">
+                    <rdg>niinkuin vesi suppiloon kaadettaessa,</rdg>
+                </app> ja <app id="var4736" type="sub">
+                    <rdg>vie</rdg>
+                </app> laivan <app id="var4737" type="sub">
+                    <rdg>mukanansa, kunnes</rdg>
+                </app> se uppoaa keskelle pyörrettä. Mutta tultuamme <app id="var4738" type="sub">
+                    <rdg>suurille <hi rend="expanded">valtamerille</hi> saamme nähdä</rdg>
+                </app> jotakin <app id="var4739" type="sub int">
+                    <rdg>merkillistä. Laivan juuri syvillä rantavesillä purjehtiessa pakenee
+                        vesi,</rdg>
+                </app> niin että <app id="var4740" type="sub">
+                    <rdg>pelkkä hiekka</rdg>
+                </app> näkyy laivan pohjan <app id="var4741" type="sub">
+                    <rdg>alta.</rdg>
+                </app> Sitä <app id="var4742" type="sub">
+                    <rdg>sanotaan</rdg>
+                </app>
+                <hi rend="expanded">pakovedeksi</hi> (luoteeksi). Ja kun <app id="var4743" type="sub">
+                    <rdg>siinä sitten <seg>kuivin</seg></rdg>
+                </app> jaloin <app id="var4744" type="sub">
+                    <rdg>kävellen</rdg>
+                </app> simpukoita meren <app id="var4745" type="sub int">
+                    <rdg>pohjasta poimitaan, on pidettävä tarkka vaari ajasta.</rdg>
+                </app> Sillä kuuden <app id="var4746" type="sub">
+                    <rdg>tunnin kuluttua</rdg>
+                </app> palaa vesi <app id="var4747" type="sub">
+                    <rdg>takaisin,</rdg>
+                </app> niin että <app id="var4748" type="sub int">
+                    <rdg>siinä, missä äsken</rdg>
+                </app> kuivin <app id="var4749" type="sub int">
+                    <rdg>jaloin käveltiin,</rdg>
+                </app> purjehtivat jälleen suuret laivat. Ja tätä <app id="var4750" type="sub">
+                    <rdg>sanotaan</rdg>
+                </app>
+                <hi rend="expanded">nousuvedeksi</hi> (vuokseksi). Mutta pakovesi ja
+                nousuvesi <app id="var4751" type="sub int">
+                    <rdg>saavat alkunsa monesta syystä,</rdg>
+                </app> joita <app id="var4752" type="sub">
+                    <rdg>meidän vielä pieninä <seg>on</seg></rdg>
+                </app> vaikea <app id="var4753" type="sub int">
+                    <rdg>ymmärtää.</rdg>
+                </app> Kuka uskoisi kuun, joka on niin kaukana maasta, vetävän vettä <app id="var4754" type="sub">
+                    <rdg>puoleensa määrättyinä</rdg>
+                </app> aikoina? <app id="var4755" type="sub">
+                    <rdg>Helpommin saatat</rdg>
+                </app> käsittää valtamerien vetten tulevan <app id="var4756" type="sub">
+                    <rdg>liikkeeseen siitä,</rdg>
+                </app>
+                <pb type="orig" n="205"/>että koko tämä suuri maa <app id="var4757" type="sub int">
+                    <rdg>pyörii, niinkuin</rdg>
+                </app> vesi <app id="var4758" type="sub">
+                    <rdg><seg>maljassa,</seg></rdg>
+                </app> kun sitä <app id="var4759" type="sub">
+                    <rdg>nopeasti pyöritetään.</rdg>
+                </app> Ja samalla lailla <app id="var4760" type="sub">
+                    <rdg><seg>pakovesi</seg></rdg>
+                </app> ja nousuvesi <app id="var4761" type="sub int">
+                    <rdg>syntyvät <seg>meren</seg> edestakaisin läikkymisestä.</rdg>
+                </app></p>
+            <p style="romanType"><app id="var4762" type="sub">
+                    <rdg>Purjehtiessamme</rdg>
+                </app> sattui <app id="var4763" type="sub">
+                    <rdg>kerran</rdg>
+                </app> laiva <app id="var4764" type="sub">
+                    <rdg><hi rend="expanded">matalikolle</hi></rdg>
+                </app> eikä päässyt <app id="var4765" type="sub">
+                    <rdg><seg>irti,</seg> ennenkuin</rdg>
+                </app> olimme <app id="var4766" type="sub">
+                    <rdg>heittäneet</rdg>
+                </app> osan lastista mereen. Olipa onni, sanoi merimies, että satuimme <app id="var4767" type="sub">
+                    <rdg><hi rend="expanded">hietasärkälle,</hi></rdg>
+                </app> sillä jos olisimme karahtaneet karille <app id="var4768" type="sub">
+                    <rdg>tai teräväkiviseen riuttaan,</rdg>
+                </app> olisimme <app id="var4769" type="sub">
+                    <rdg>varmaankin joutuneet</rdg>
+                </app> haaksirikkoon. Sillä <app id="var4770" type="sub">
+                    <rdg>tietänethän</rdg>
+                </app> meren pohjan olevan <app id="var4771" type="sub">
+                    <rdg><seg>epätasaisen</seg> kuten</rdg>
+                </app> maankin pinnan. Meren pohjassa on mäkiä ja vuoria ja <app id="var4772" type="sub">
+                    <rdg>laaksoja,</rdg>
+                </app> niin että vedellä on <app id="var4773" type="sub">
+                    <rdg>eri paikoissa</rdg>
+                </app> erilainen <hi rend="expanded">syvyys.</hi>
+                <app id="var4774" type="sub">
+                    <rdg>Tiheässä kuin metsää</rdg>
+                </app> on <app id="var4775" type="sub">
+                    <rdg>siellä koralleja</rdg>
+                </app> ja <app id="var4776" type="sub">
+                    <rdg>korkeita vesikasveja, joiden keskellä</rdg>
+                </app> kalat mielellään asuvat. Mutta suurissa merissä, jotka ovat <app id="var4777" type="sub">
+                    <rdg>paljon <seg>syvempiä</seg></rdg>
+                </app> kuin korkein kirkontorni on <app id="var4778" type="sub">
+                    <rdg>korkea, vallitsee syvyydessä alituinen</rdg>
+                </app> pimeys ja <app id="var4779" type="sub int">
+                    <rdg>hiljaisuus.</rdg>
+                </app> Sillä vesi ei ole <app id="var4780" type="sub">
+                    <rdg>läheskään</rdg>
+                </app> niin <app id="var4781" type="sub">
+                    <rdg>läpikuultavaa</rdg>
+                </app> kuin <app id="var4782" type="int">
+                    <rdg>ilma,</rdg>
+                </app> ja <app id="var4783" type="sub int">
+                    <rdg>on sitä <seg>paitsi</seg> raskaampaa,</rdg>
+                </app> niin että <app id="var4784" type="sub">
+                    <rdg>syvissä syvänteissä sen paino varmaankin on</rdg>
+                </app> hirveän <app id="var4785" type="sub">
+                    <rdg>raskas.</rdg>
+                </app> Ja ihmiset, jotka <app id="var4786" type="sub">
+                    <rdg>osaavat</rdg>
+                </app> sukeltaa, ovat <app id="var4787" type="sub">
+                    <rdg>laskeutuneet sangen syvälle mereen.</rdg>
+                </app> Mutta viimein on veri <app id="var4788" type="sub">
+                    <rdg>purskahtanut</rdg>
+                </app> suusta ja <app id="var4789" type="sub">
+                    <rdg>sieraimista ja heidän on täytynyt jälleen kiirehtiä ylös. Eikä ole
+                        vielä</rdg>
+                </app> kukaan <app id="var4790" type="sub">
+                    <rdg><seg>elävänä</seg></rdg>
+                </app> päässyt syvimpiin paikkoihin, eikä <app id="var4791" type="sub">
+                    <rdg>kukaan</rdg>
+                </app> tunne kaikkea, <app id="var4792" type="sub">
+                    <rdg>mitä</rdg>
+                </app> meren <app id="var4793" type="sub int">
+                    <rdg>pohjassa on.</rdg>
+                </app> Sen tiedämme <app id="var4794" type="sub">
+                    <rdg>vain,</rdg>
+                </app> että kasvien ja <app id="var4795" type="sub">
+                    <rdg>eläinten rakenteen</rdg>
+                </app> siellä syvyydessä täytyy olla <app id="var4796" type="sub int">
+                    <rdg>sellainen,</rdg>
+                </app> että ne <app id="var4797" type="sub">
+                    <rdg>saattavat</rdg>
+                </app> kestää veden <app id="var4798" type="sub">
+                    <rdg>suunnatonta painoa</rdg>
+                </app> joka <app id="var4799" type="sub">
+                    <rdg>taholta.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var4800" type="sub">
+                    <rdg>Vähän</rdg>
+                </app> aikaa <app id="var4801" type="sub">
+                    <rdg>purjehdittuamme <seg>näimme</seg> meren rannan</rdg>
+                </app>
+                <pb type="orig" n="206"/>eli <app id="var4802" type="sub">
+                    <rdg>vieraan maan <hi rend="expanded">rannikon.</hi></rdg>
+                </app> Tässä saamme varoa <app id="var4803" type="sub">
+                    <rdg><hi rend="expanded">tyrskyjä,</hi></rdg>
+                </app> sanoi merimies; sillä tässä <app id="var4804" type="sub">
+                    <rdg><seg>aallot</seg> vaahtopäisinä särkyvät kiviin.</rdg>
+                </app> Onneksemme emme tavanneet <app id="var4805" type="sub">
+                    <rdg><hi rend="expanded">jäävuoria,</hi> joita tänne ajelehtii</rdg>
+                </app> kylmimmistä <app id="var4806" type="sub">
+                    <rdg>meristä. Olisimme pian</rdg>
+                </app> saattaneet <app id="var4807" type="sub">
+                    <rdg>purjehtia laivamme</rdg>
+                </app> kumoon <app id="var4808" type="sub">
+                    <rdg>niihin. Astukaamme</rdg>
+                </app> nyt maalle. Tämä maa ei ole <app id="var4809" type="sub">
+                    <rdg><hi rend="expanded">mannermaata,</hi></rdg>
+                </app> joka on <app id="var4810" type="sub">
+                    <rdg><seg>muiden</seg></rdg>
+                </app> suurten maiden <app id="var4811" type="sub">
+                    <rdg>yhteydessä.</rdg>
+                </app> Nyt olemme tulleet <app id="var4812" type="sub">
+                    <rdg><hi rend="expanded">saareen,</hi></rdg>
+                </app> sillä sen ympärillä on <app id="var4813" type="sub int">
+                    <rdg><seg>joka</seg> suunnalla vettä.</rdg>
+                </app> Mutta kun monta saarta on <app id="var4814" type="sub">
+                    <rdg>lähekkäin, nimitämme</rdg>
+                </app> niitä <app id="var4815" type="sub">
+                    <rdg>kaikkia yhdessä</rdg>
+                </app>
+                <hi rend="expanded">saaristoksi.</hi> Ja jos tässä olisi kolmella <app id="var4816" type="sub">
+                    <rdg>sivulla</rdg>
+                </app> vettä, mutta neljäs sivu olisi <app id="var4817" type="sub">
+                    <rdg>kiinni mannermaassa,</rdg>
+                </app> niin olisi tämä maa <app id="var4818" type="sub int">
+                    <rdg><hi rend="expanded">niemi</hi> eli <hi rend="expanded">saarento.</hi></rdg>
+                </app> Ja <app id="var4819" type="sub">
+                    <rdg>niiden kaitaista yhtymäpaikkaa sanottaisiin silloin <hi rend="expanded">kannakseksi</hi> eli <hi rend="expanded">taipaleeksi.</hi> Tuossa</rdg>
+                </app> pistää <app id="var4820" type="sub">
+                    <rdg>kapea maankärki</rdg>
+                </app> mereen, ja sitä <app id="var4821" type="sub int">
+                    <rdg>sanotaan <hi rend="expanded">niemekkeeksi!</hi></rdg>
+                </app> Toisella puolella pistää <app id="var4822" type="sub">
+                    <rdg><seg>merta</seg> kapealta <seg>maahan,</seg></rdg>
+                </app> ja tätä vettä <app id="var4823" type="sub">
+                    <rdg>sanotaan <hi rend="expanded">lahdeksi;</hi></rdg>
+                </app> mutta jos <app id="var4824" type="sub">
+                    <rdg>lahti</rdg>
+                </app> olisi isompi ja laajempi, <app id="var4825" type="sub">
+                    <rdg>sanottaisiin</rdg>
+                </app> sitä <app id="var4826" type="sub">
+                    <rdg><hi rend="expanded">poukamaksi.</hi> Isompia,</rdg>
+                </app> pitkiä <app id="var4827" type="sub">
+                    <rdg>meren lahtia sanotaan</rdg>
+                </app> myös <hi rend="expanded">vuonoiksi.</hi>
+                <app id="var4828" type="sub">
+                    <rdg>Tuota aukeampaa kohtaa meressä sanotaan <hi rend="expanded">seläksi.</hi>
+                        <seg>Ja</seg></rdg>
+                </app> nyt purjehdimme <app id="var4829" type="sub">
+                    <rdg>kaitaista</rdg>
+                </app> vettä kahden maan <app id="var4830" type="sub">
+                    <rdg>välitse toisesta selästä</rdg>
+                </app> toiseen. Tätä <app id="var4831" type="sub">
+                    <rdg>kaitaista</rdg>
+                </app> vettä <app id="var4832" type="sub int">
+                    <rdg>sanotaan <hi rend="expanded">salmeksi;</hi></rdg>
+                </app> mutta jos <app id="var4833" type="sub">
+                    <rdg>se</rdg>
+                </app> olisi suurempi ja leveämpi, <app id="var4834" type="sub">
+                    <rdg>sanottaisiin</rdg>
+                </app> sitä <app id="var4835" type="sub">
+                    <rdg><hi rend="expanded">raumaksi.</hi></rdg>
+                </app> Ja sellaisia pienempiä meriä, <app id="var4836" type="sub">
+                    <rdg>joita kaitaiset</rdg>
+                </app> salmet yhdistävät <app id="var4837" type="sub">
+                    <rdg>suureen mereen, sanotaan <hi rend="expanded">sisämereksi.</hi></rdg>
+                </app></p>
+            <p style="romanType">Nyt muistin maassamme olevan <app id="var4838" type="sub">
+                    <rdg>paljon</rdg>
+                </app>
+                <hi rend="expanded">maavesiä</hi>
+                <app id="var4839" type="sub">
+                    <rdg>eli <hi rend="expanded">järviä</hi>
+                        <seg>ja</seg></rdg>
+                </app> pyysin siis <app id="var4840" type="sub int">
+                    <rdg>päästä järvelle purjehtimaan.</rdg>
+                </app> Silloin nauroi merimies ja sanoi: <app id="var4841" type="sub">
+                    <rdg>järvien</rdg>
+                </app> ympärillä on <app id="var4842" type="sub">
+                    <rdg>maata</rdg>
+                </app> joka sivulla, niin ettei <app id="var4843" type="sub">
+                    <rdg>kukaan saata</rdg>
+                </app> niihin <app id="var4844" type="sub">
+                    <rdg>mereltä purjehtia. Ja</rdg>
+                </app> hyvin <app id="var4845" type="sub int">
+                    <rdg>pieniä, mataloita</rdg>
+                </app> järviä sanotaan <hi rend="expanded">lammiksi.</hi> Mutta kun ihmiset
+                mielellään tahtovat <app id="var4846" type="sub">
+                    <rdg>päästä</rdg>
+                </app> vettä myöten järvestä merelle, kaivavat he <app id="var4847" type="sub">
+                    <rdg>kulkuväylän,</rdg>
+                </app> niin että veneet ja alukset saattavat <app id="var4848" type="sub">
+                    <rdg><seg>tätä</seg></rdg>
+                </app> väliä <app id="var4849" type="sub">
+                    <rdg>purjehtia, <seg>ja</seg></rdg>
+                </app> sellaista <app id="var4850" type="sub">
+                    <rdg>väylää sanotaan <hi rend="expanded">kanavaksi.</hi></rdg>
+                </app> Vesi juoksee aina <app id="var4851" type="sub">
+                    <rdg>ylävämmästä</rdg>
+                </app> paikasta <app id="var4852" type="sub">
+                    <rdg>ala<pb type="orig" n="207"/>vampaan.</rdg>
+                </app> Ja koska <app id="var4853" type="sub">
+                    <rdg>useimmat</rdg>
+                </app> järvet ovat merta <app id="var4854" type="sub">
+                    <rdg>ylempänä,</rdg>
+                </app> niin juoksisi järvien vesi kaikki <app id="var4855" type="sub">
+                    <rdg><seg>pois</seg> kanavaa</rdg>
+                </app> myöten, jos ei olisi keksitty pieniä <app id="var4856" type="sub">
+                    <rdg>kamareita ja patorakennuksia,</rdg>
+                </app> joita <app id="var4857" type="sub int">
+                    <rdg>sanotaan <hi rend="expanded">suluiksi</hi> ja</rdg>
+                </app> joissa <app id="var4858" type="sub">
+                    <rdg>vesi aluksia nostaa tai laskee,</rdg>
+                </app> niin että <app id="var4859" type="sub">
+                    <rdg>kanavassa</rdg>
+                </app> on <app id="var4860" type="sub">
+                    <rdg>ikäänkuin</rdg>
+                </app> portaita, joissa <app id="var4861" type="sub">
+                    <rdg>vesi enimmäkseen on paikoillaan.</rdg>
+                </app></p>
+            <p style="romanType"><app id="var4862" type="sub">
+                    <rdg>Palatkaamme nyt takaisin</rdg>
+                </app> omaan maahamme, sanoi merimies. Mutta <app id="var4863" type="int">
+                    <rdg>muistaaksesi,</rdg>
+                </app> mitä olet <app id="var4864" type="int">
+                    <rdg>nähnyt,</rdg>
+                </app> annan sinulle <hi rend="expanded">kartan,</hi> jossa näet koko maan
+                pinnan <app id="var4865" type="sub int">
+                    <rdg><seg>maineen</seg> vesineen kuvattuna. Siitä</rdg>
+                </app> näet, <app id="var4866" type="sub">
+                    <rdg>että</rdg>
+                </app> maan päällä on <app id="var4867" type="sub">
+                    <rdg>paljon</rdg>
+                </app> enemmän vettä kuin maata, niin että suuret meret <app id="var4868" type="sub">
+                    <rdg>täyttävät kolme</rdg>
+                </app> vertaa suuremman <app id="var4869" type="sub int">
+                    <rdg>alan,</rdg>
+                </app> kuin maat. Siitä saat myös oppia <app id="var4870" type="sub">
+                    <rdg><hi rend="expanded">maanosat</hi></rdg>
+                </app> ja <app id="var4871" type="sub">
+                    <rdg>kaiken</rdg>
+                </app> sen <app id="var4872" type="sub">
+                    <rdg>hyödyllisen tiedon,</rdg>
+                </app> jota <app id="var4873" type="sub">
+                    <rdg>sanotaan geografiaksi</rdg>
+                </app> eli <app id="var4874" type="sub">
+                    <rdg><hi rend="italics">maantieteeksi.</hi></rdg>
+                </app> Ja annan sinulle sellaisen kartan, <app id="var4875" type="sub">
+                    <rdg>jossa</rdg>
+                </app> maa on <app id="var4876" type="sub int">
+                    <rdg>väreillä kuvattuna ja pidetään tärkeimpänä:</rdg>
+                </app> tämä on <app id="var4877" type="sub">
+                    <rdg><hi rend="expanded">maakartta.</hi></rdg>
+                </app> Mutta merimiehillä on toisia karttoja, joihin meri ja vedet ovat
+                tarkoin kuvatut kaikkine <app id="var4878" type="sub">
+                    <rdg>kareineen,</rdg>
+                </app> luotoineen ja <app id="var4879" type="sub">
+                    <rdg>matalikkoineen,</rdg>
+                </app> ja sellaisia <app id="var4880" type="sub">
+                    <rdg>sanotaan <hi rend="expanded">merikartoiksi.</hi></rdg>
+                </app></p>
+            <p style="romanType"><app id="var4881" type="sub">
+                    <rdg>Minä sanoin:</rdg>
+                </app> kuinka suuri on viisautesi, Herra Jumala, <app id="var4882" type="sub">
+                    <rdg>joka meret</rdg>
+                </app> levität <app id="var4883" type="sub">
+                    <rdg><seg>peitteeksi</seg></rdg>
+                </app> maan <app id="var4884" type="sub">
+                    <rdg>syvyyksille</rdg>
+                </app> ja valmistat ne <app id="var4885" type="sub">
+                    <rdg>teiksi</rdg>
+                </app> ihmisten lapsille! Sinä suot sateen virvoittaa <app id="var4886" type="sub">
+                    <rdg>janoavaa maata;</rdg>
+                </app> sinä annat <app id="var4887" type="sub">
+                    <rdg>lähteiden</rdg>
+                </app> ja <app id="var4888" type="sub">
+                    <rdg>virtojen</rdg>
+                </app> kulkea <app id="var4889" type="sub">
+                    <rdg>elinsuonina maita pitkin,</rdg>
+                </app> niin että ihmiset ja eläimet ja kasvit saavat <app id="var4890" type="sub">
+                    <rdg>niistä</rdg>
+                </app> ravintonsa. Vähinkin <app id="var4891" type="sub">
+                    <rdg>kastepisara</rdg>
+                </app> kuvastaa sinun kunniaasi, sinun henkesi kulkee pimeäin <app id="var4892" type="sub">
+                    <rdg>syvyyksien</rdg>
+                </app> päällitse. Ja kun purjehtija <app id="var4893" type="sub">
+                    <rdg>laskeutuu</rdg>
+                </app> levolle <app id="var4894" type="sub">
+                    <rdg>heikkoon alukseensa</rdg>
+                </app> keskellä valtameren aaltoja, sanoo hän itsekseen: <app id="var4895" type="sub">
+                    <rdg>Katso,</rdg>
+                </app> Herramme Kristus on kerran kävellyt <app id="var4896" type="sub">
+                    <rdg>myrskyisellä merellä,</rdg>
+                </app> ja aallot asettuivat hänen <app id="var4897" type="sub">
+                    <rdg>edessään. Tiedän siis,</rdg>
+                </app> vielä <app id="var4898" type="sub">
+                    <rdg>tänäkin päivänä</rdg>
+                </app> Jumalan <app id="var4899" type="sub">
+                    <rdg>kaikkivaltiaan käsi hallitsee</rdg>
+                </app> elementtejä. Ja <app id="var4900" type="sub">
+                    <rdg>niitä, <seg>joita</seg></rdg>
+                </app> Jumala suojelee, <app id="var4901" type="sub">
+                    <rdg><seg>ei</seg></rdg>
+                </app> vahingoita vesi eikä tuli eikä <app id="var4902" type="sub">
+                    <rdg>mikään vaara. Heillä</rdg>
+                </app> on rauha ja iloinen <app id="var4903" type="sub">
+                    <rdg>luottamus.</rdg>
+                </app> Sillä Jumala on <app id="var4904" type="sub int">
+                    <rdg>heidän väkevyytensä,</rdg>
+                </app> ja meren aallot, jotka murtavat kallioita ja muureja, asettuvat <app id="var4905" type="sub">
+                    <rdg>lauhkeina</rdg>
+                </app> kuin lampaat hänen kunniansa istuimen eteen.</p>
+            <pb type="orig" n="208"/>
+            <head style="romanType"><hi rend="bold">Veden </hi><app id="var4906" type="sub">
+                    <rdg><hi rend="bold">tuhotöistä.</hi></rdg>
+                </app></head>
+            <figure type="illustration"/>
+            <p style="romanType">Pyhä raamattu puhuu <app id="var4907" type="sub">
+                    <rdg>ensimmäisessä Mooseksen</rdg>
+                </app> kirjassa suuresta <app id="var4908" type="sub">
+                    <rdg>vedenpaisumuksesta,</rdg>
+                </app> joka hukutti kaikki ihmiset heidän <app id="var4909" type="sub">
+                    <rdg>syntiensä</rdg>
+                </app> tähden, paitsi <app id="var4910" type="sub int">
+                    <rdg>Nooan ja hänen sukunsa. Sitten asetti</rdg>
+                </app> Jumala <app id="var4911" type="sub">
+                    <rdg>sateenkaaren merkiksi,</rdg>
+                </app> ettei <app id="var4912" type="sub">
+                    <rdg><seg>niin</seg> suuri <hi rend="expanded">vedentulva</hi>
+                        koskaan</rdg>
+                </app> enää <app id="var4913" type="sub">
+                    <rdg><seg>maata</seg> hävittäisi.</rdg>
+                </app> Sellaista ei ole sittemmin ollutkaan. Mutta kyllä vieläkin <app id="var4914" type="sub">
+                    <rdg>välistä nähdään veden tekevän</rdg>
+                </app> suuria <app id="var4915" type="sub">
+                    <rdg>hävityksiä.</rdg>
+                </app> Kun suuret virrat paisuvat sateista, <app id="var4916" type="sub">
+                    <rdg>tai</rdg>
+                </app> kun <app id="var4917" type="sub int">
+                    <rdg>jäät tukkivat <seg>niiden</seg> suut, nousee</rdg>
+                </app> vesi <app id="var4918" type="sub">
+                    <rdg><seg>virran</seg> äyräitä ylemmäksi</rdg>
+                </app> ja <app id="var4919" type="sub">
+                    <rdg>leviää lakeudelle.</rdg>
+                </app> Silloin täytyy ihmisten ja eläinten <app id="var4920" type="sub">
+                    <rdg>pelastautua,</rdg>
+                </app> miten <app id="var4921" type="sub">
+                    <rdg>parhaiten voivat,</rdg>
+                </app> muutamain <app id="var4922" type="sub">
+                    <rdg>veneisiin,</rdg>
+                </app> toisten katoille, toisten vuorille. <app id="var4923" type="sub">
+                    <rdg>Metsän</rdg>
+                </app> ja pellot <app id="var4924" type="sub">
+                    <rdg>hävittää vesi,</rdg>
+                </app> myllyt ja ladot <app id="var4925" type="sub">
+                    <rdg>vie se mukanansa.</rdg>
+                </app> Kaduilla ja maanteillä soudellaan; kalat uiskentelevat ihmisten <app id="var4926" type="sub">
+                    <rdg>asunnoissa.</rdg>
+                </app> Silloin tulee useinkin suuri hätä maahan. Mutta suuri Niilin virta
+                Afrikassa tekee maat hedelmällisiksi. Joka vuosi <app id="var4927" type="sub int">
+                    <rdg>sen tulva peittää maan,</rdg>
+                </app> ja kun vesi <app id="var4928" type="sub">
+                    <rdg>sitten laskee,</rdg>
+                </app> jättää se paksulta <app id="var4929" type="sub">
+                    <rdg>liejua,</rdg>
+                </app> jossa kasvaa <app id="var4930" type="sub">
+                    <rdg>erittäin runsaasti viljaa.</rdg>
+                </app></p>
+            <pb type="orig" n="209"/>
+            <p style="romanType">Tunnen <app id="var4931" type="sub">
+                    <rdg>merkillisen</rdg>
+                </app> maan, jota <app id="var4932" type="sub int">
+                    <rdg>sanotaan Hollanniksi eli myös Alankomaiksi, sen tähden, että</rdg>
+                </app> se on hyvin <app id="var4933" type="sub">
+                    <rdg>alavaa. Siellä</rdg>
+                </app> on meri muinoin <app id="var4934" type="sub int">
+                    <rdg>peittänyt maan,</rdg>
+                </app> mutta <app id="var4935" type="sub">
+                    <rdg>sitten</rdg>
+                </app> on <app id="var4936" type="sub int">
+                    <rdg>meren hiekka pitkin rannikkoa muodostanut pitkiä särkkiä, ikäänkuin
+                        muuriksi</rdg>
+                </app> aaltoja vastaan. <app id="var4937" type="sub">
+                    <rdg>Uutterat asukkaat ovat</rdg>
+                </app> puista, kivistä ja savesta <app id="var4938" type="sub">
+                    <rdg>rakentaneet suuria patoja <seg>merta</seg></rdg>
+                </app> vastaan. Ja se vesi, <app id="var4939" type="sub">
+                    <rdg>joka</rdg>
+                </app> on <app id="var4940" type="sub">
+                    <rdg>jäänyt patojen sisäpuolelle,</rdg>
+                </app> on pumputtu <app id="var4941" type="sub">
+                    <rdg>takaisin</rdg>
+                </app> mereen. <app id="var4942" type="sub">
+                    <rdg>Näin</rdg>
+                </app> on <app id="var4943" type="sub int">
+                    <rdg>mereltä anastettu suuret alat maata.</rdg>
+                </app> Mutta välistä, kun on kova myrsky ja <app id="var4944" type="sub">
+                    <rdg>aallot käyvät korkealle,</rdg>
+                </app> tapahtuu vieläkin, että meri murtaa padot ja <app id="var4945" type="sub">
+                    <rdg>ikäänkuin anastaa takaisin</rdg>
+                </app> entisen <app id="var4946" type="sub">
+                    <rdg>alansa.</rdg>
+                </app> Silloin tapahtuu näillä <app id="var4947" type="sub">
+                    <rdg>seuduin</rdg>
+                </app> suuria <app id="var4948" type="sub">
+                    <rdg>onnettomuuksia,</rdg>
+                </app> niin että on nähty <app id="var4949" type="sub">
+                    <rdg>aaltojen nielevän monta kaupunkia</rdg>
+                </app> ja <app id="var4950" type="sub">
+                    <rdg>kylää</rdg>
+                </app> kaikkine <app id="var4951" type="sub int">
+                    <rdg>asukkaineen. Niinpä siinä, missä</rdg>
+                </app> nyt laivat <app id="var4952" type="sub">
+                    <rdg>purjehtivat, näet joskus jotakin syvällä vedessä,</rdg>
+                </app> ja tarkemmin <app id="var4953" type="sub">
+                    <rdg>katsottuasi huomaat sen kylän kirkontorniksi,</rdg>
+                </app> joka <app id="var4954" type="sub">
+                    <rdg>kylä aikoja sitten</rdg>
+                </app> on <app id="var4955" type="sub int">
+                    <rdg>kadonnut.</rdg>
+                </app> — Usein <app id="var4956" type="sub int">
+                    <rdg>kuulet laivojen</rdg>
+                </app> ja <app id="var4957" type="sub">
+                    <rdg>veneiden joutuvan merellä haaksirikkoon,</rdg>
+                </app> ja joka vuosi hukkuu tällä lailla monta ihmistä. <app id="var4958" type="sub">
+                    <rdg>Toisia hukkuu heikkoon</rdg>
+                </app> jäähän, <app id="var4959" type="sub">
+                    <rdg>toiset hukkuvat uidessaan;</rdg>
+                </app> sillä ihmiset kuolevat <app id="var4960" type="sub">
+                    <rdg>veden alla sen tähden,</rdg>
+                </app> etteivät <app id="var4961" type="sub">
+                    <rdg>saata siellä</rdg>
+                </app> hengittää.</p>
+            <head style="romanType"><app id="var4962" type="sub">
+                    <rdg><hi rend="bold">Vesi</hi></rdg>
+                </app><hi rend="bold"> lääkkeenä.</hi></head>
+            <p style="romanType">Mutta onpa Jumala <app id="var4963" type="sub int">
+                    <rdg>vedelle <seg>antanut</seg> suuren, virkistävän, puhdistavan</rdg>
+                </app> ja parantavan voiman. Vedettä ei voi yksikään <app id="var4964" type="sub">
+                    <rdg>kasvi,</rdg>
+                </app> ei yksikään eläin, ei yksikään ihminen <app id="var4965" type="sub int">
+                    <rdg>elää, mutta</rdg>
+                </app> moni <app id="var4966" type="sub">
+                    <rdg>kivulloinen</rdg>
+                </app> saapi vedellä terveytensä <app id="var4967" type="sub">
+                    <rdg>takaisin. Moni sairas</rdg>
+                </app> matkustaa <app id="var4968" type="sub">
+                    <rdg>satojen penikulmien päähän</rdg>
+                </app> kylpemään ja uimaan <app id="var4969" type="sub">
+                    <rdg>etelämaiden</rdg>
+                </app> lämpimissä lähteissä. Moni <app id="var4970" type="sub">
+                    <rdg>paranee</rdg>
+                </app>
+                <hi rend="expanded">terveysvettä juomalla;</hi> muut saavat terveytensä <app id="var4971" type="sub">
+                    <rdg>takaisin</rdg>
+                </app> uimalla eli kylpemällä kylmässä vedessä <app id="var4972" type="sub">
+                    <rdg>lääkärien säätämien</rdg>
+                </app> määräysten <app id="var4973" type="sub int">
+                    <rdg>mukaan. Meidänkin maassamme</rdg>
+                </app> on <app id="var4974" type="sub int">
+                    <rdg>useita <hi rend="expanded">terveyslähteitä,</hi></rdg>
+                </app> mutta ei <app id="var4975" type="sub">
+                    <rdg>ainoatakaan</rdg>
+                </app> lämmintä. <app id="var4976" type="sub int">
+                    <rdg>Hangossa, Naantalissa ja muissa paikoissa</rdg>
+                </app> on <app id="var4977" type="sub">
+                    <rdg>erityisiä <hi rend="expanded">kylpylaitoksia.</hi> Meressä
+                        tai</rdg>
+                </app> muuten kylmässä <app id="var4978" type="sub int">
+                    <rdg>vedessä uides<pb type="orig" n="210"/>sasi älä ollenkaan</rdg>
+                </app> pelkää <app id="var4979" type="sub">
+                    <rdg><seg>vettä,</seg></rdg>
+                </app> jos <app id="var4980" type="sub int">
+                    <rdg>sinun on lämmin.</rdg>
+                </app> Vedessä <app id="var4981" type="sub">
+                    <rdg>et vilustu,</rdg>
+                </app> vaan <app id="var4982" type="sub">
+                    <rdg>pikemmin</rdg>
+                </app> kylmässä ilmassa. Riisu <app id="var4983" type="sub">
+                    <rdg>vain kiireesti vaatteet yltäsi</rdg>
+                </app> ja <app id="var4984" type="sub">
+                    <rdg>pukeudu pian jälleen. Äläkä ennen uimista juokse niin,</rdg>
+                </app> että hengästyt, <app id="var4985" type="sub">
+                    <rdg>äläkä</rdg>
+                </app> ui <app id="var4986" type="sub int">
+                    <rdg>heti syötyäsi,</rdg>
+                </app> sillä se <app id="var4987" type="sub">
+                    <rdg>voi olla vaarallista.</rdg>
+                </app></p>
+            <head style="romanType"><hi rend="bold">Maamme vesistä.</hi></head>
+            <figure type="illustration"/>
+            <p style="romanType">Maassamme on <app id="var4988" type="sub">
+                    <rdg>monta isoa <hi rend="expanded">jokea,</hi> niinkuin Kemijoki,
+                        Oulujoki,</rdg>
+                </app> Kokemäenjoki ja <app id="var4989" type="sub">
+                    <rdg>Vuoksi;</rdg>
+                </app> mutta muissa maissa on <app id="var4990" type="sub">
+                    <rdg><seg>paljoa</seg></rdg>
+                </app> isompia jokia, <app id="var4991" type="sub">
+                    <rdg>vieläpä sellaisiakin, joiden suut</rdg>
+                </app> ovat <app id="var4992" type="sub">
+                    <rdg>meren laajuisia.</rdg>
+                </app> Maamme joissa on <app id="var4993" type="sub">
+                    <rdg>useita <hi rend="expanded">koskia,</hi> ja näissä kysytään
+                        suurta</rdg>
+                </app> taitoa <app id="var4994" type="sub">
+                    <rdg>veneen ohjaamiseen</rdg>
+                </app> kivien välitse. Täällä on <app id="var4995" type="sub">
+                    <rdg>myöskin</rdg>
+                </app> monta <app id="var4996" type="sub">
+                    <rdg>pienempää</rdg>
+                </app> jokea ja <app id="var4997" type="sub">
+                    <rdg><hi rend="expanded">puroa.</hi></rdg>
+                </app> Kaksi suurta <app id="var4998" type="sub int">
+                    <rdg><hi rend="expanded">koskea,</hi></rdg>
+                </app> Imatra ja <app id="var4999" type="sub">
+                    <rdg>Kyröskoski, on</rdg>
+                </app> Suomen <app id="var5000" type="sub">
+                    <rdg>kaunistuksena.</rdg>
+                </app> Siellä ei kuule <app id="var5001" type="sub">
+                    <rdg>rannalla</rdg>
+                </app> toisen <app id="var5002" type="sub int">
+                    <rdg>puhetta,</rdg>
+                </app> niin kova on pauhu. Niitä ei <app id="var5003" type="sub">
+                    <rdg>saata</rdg>
+                </app> yksikään vene <app id="var5004" type="sub int">
+                    <rdg>hukkumatta kulkea.</rdg>
+                </app> Välistä nähdään paksun <app id="var5005" type="sub int">
+                    <rdg>tukin aika vauhtia kulkevan koskessa, mutta</rdg>
+                </app> ennenkuin se on <app id="var5006" type="sub">
+                    <rdg>alas ehtinyt, ovat kosken kivet</rdg>
+                </app> sen jo <app id="var5007" type="sub">
+                    <rdg>rouhineet</rdg>
+                </app> säpäleiksi. Mutta <app id="var5008" type="sub">
+                    <rdg>maailman <seg>suurin</seg>
+                        <hi rend="expanded">putous</hi></rdg>
+                </app>
+                <pb type="orig" n="211"/>on Amerikassa, ja sen nimi on Niagara. Siitä kuuluu
+                    <app id="var5009" type="sub int">
+                    <rdg>penikulmien päähän <seg>hirmuinen</seg> pauhu.</rdg>
+                </app> Ja <app id="var5010" type="sub">
+                    <rdg>kun</rdg>
+                </app> aurinko paistaa utuun, <app id="var5011" type="sub">
+                    <rdg>jota putouksesta alituisesti ilmaan pirskuu,</rdg>
+                </app> näkyy siinä <app id="var5012" type="sub int">
+                    <rdg>mitä kaunein sateenkaari.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType">Kaksi merta <app id="var5013" type="sub">
+                    <rdg>huuhtoo laineillaan</rdg>
+                </app> Suomen <app id="var5014" type="sub int">
+                    <rdg>rannikoita,</rdg>
+                </app> nimittäin Pohjanlahti ja Suomenlahti. Nämä molemmat suuret lahdet
+                ovat osia sisämerestä, <app id="var5015" type="sub int">
+                    <rdg>jonka nimi on Itämeri,</rdg>
+                </app> joka taas on valtameren lahti. Maassamme on monta tuhatta <app id="var5016" type="sub">
+                    <rdg><seg>järveä</seg></rdg>
+                </app> ja <app id="var5017" type="sub">
+                    <rdg>lampea, suuria ja</rdg>
+                </app> pieniä. <app id="var5018" type="sub">
+                    <rdg>Jumala on</rdg>
+                </app> siis <app id="var5019" type="sub">
+                    <rdg>tätä kaunista maata enemmän kuin useampia muita maita
+                        maailmassa</rdg>
+                </app> siunannut <app id="var5020" type="sub">
+                    <rdg><seg>suurella</seg></rdg>
+                </app> veden rikkaudella. <app id="var5021" type="sub">
+                    <rdg>Rannikoillamme</rdg>
+                </app> on <app id="var5022" type="sub">
+                    <rdg>useita <seg>saaristoja,</seg> saarien, luotojen</rdg>
+                </app> ja <app id="var5023" type="sub int">
+                    <rdg>kallioiden muodostamia, jotka ovat</rdg>
+                </app> joskus ihanoita, joskus vaarallisiakin. Onpa <app id="var5024" type="sub">
+                    <rdg>kokonaisia pitäjiä</rdg>
+                </app> ja <app id="var5025" type="sub">
+                    <rdg>maakuntiakin,</rdg>
+                </app> niinkuin <app id="var5026" type="sub int">
+                    <rdg>Ahvenanmaa,</rdg>
+                </app> meren piirittämiä. Mutta <app id="var5027" type="sub int">
+                    <rdg>kummallista on,</rdg>
+                </app> että rantamaamme <app id="var5028" type="sub">
+                    <rdg>yhä lisääntyvät. Alituisesti</rdg>
+                </app> ne <app id="var5029" type="sub int">
+                    <rdg>laajenevat mereen päin siitä,</rdg>
+                </app> että vesi <app id="var5030" type="sub int">
+                    <rdg>peräytyy,</rdg>
+                </app> niin että nyt <app id="var5031" type="sub">
+                    <rdg>saattaa</rdg>
+                </app> kävellä kuivin <app id="var5032" type="sub int">
+                    <rdg>jaloin siinä,</rdg>
+                </app> missä satoja vuosia tätä ennen vedettiin nuottaa ja <app id="var5033" type="sub">
+                    <rdg>soudettiin</rdg>
+                </app> veneellä. Tämä <app id="var5034" type="sub int">
+                    <rdg>johtuu siitä,</rdg>
+                </app> että maa <app id="var5035" type="sub">
+                    <rdg>kohoaa maanalaisen <pb type="orig" n="212"/>voiman vaikutuksesta.
+                        Samassa suhteessa peräytyy</rdg>
+                </app> vesikin <app id="var5036" type="sub">
+                    <rdg>rannikoilta,</rdg>
+                </app> ja näin <app id="var5037" type="sub">
+                    <rdg>suuri</rdg>
+                </app> Suomemme alinomaa <app id="var5038" type="sub">
+                    <rdg>suurenee.</rdg>
+                </app></p>
+            <p style="romanType"><app id="var5039" type="sub">
+                    <rdg>Jos haluat</rdg>
+                </app> nähdä <app id="var5040" type="sub">
+                    <rdg>kanavaa,</rdg>
+                </app> niin <app id="var5041" type="sub">
+                    <rdg>matkusta Saimaan</rdg>
+                </app> rannalle; se on maamme suurin <app id="var5042" type="sub">
+                    <rdg>järvi. Sinne</rdg>
+                </app> on <app id="var5043" type="sub int">
+                    <rdg>suurin kustannuksin yleisillä varoilla kaivettu kanava,</rdg>
+                </app> joka on <app id="var5044" type="sub">
+                    <rdg>lähes viisi penikulmaa pitkä</rdg>
+                </app> ja <app id="var5045" type="sub">
+                    <rdg>jossa</rdg>
+                </app> on 28 sulkulaitosta. Yksitoista vuotta on monta sataa miestä sitä
+                valmistanut. <app id="var5046" type="sub">
+                    <rdg>He</rdg>
+                </app> ovat murtaneet <app id="var5047" type="sub">
+                    <rdg>uoman</rdg>
+                </app> suurten vuorten <app id="var5048" type="sub">
+                    <rdg>lävitse</rdg>
+                </app> ja kaivaneet <app id="var5049" type="sub">
+                    <rdg>puhki</rdg>
+                </app> sekä <app id="var5050" type="sub">
+                    <rdg>suot</rdg>
+                </app> että <app id="var5051" type="sub">
+                    <rdg>hietaharjut. He</rdg>
+                </app> ovat muuranneet lujia seiniä kivestä ja rakentaneet <app id="var5052" type="sub">
+                    <rdg>mitä kauneimpia</rdg>
+                </app> patoja ja <app id="var5053" type="sub">
+                    <rdg>kamareita sulkulaitoksille.</rdg>
+                </app> Mutta <app id="var5054" type="sub">
+                    <rdg>sepä työ tuottaakin</rdg>
+                </app> maallemme <app id="var5055" type="sub">
+                    <rdg>ikuisiksi ajoiksi</rdg>
+                </app> hyötyä. Sillä ennen täytyi <app id="var5056" type="sub">
+                    <rdg>kaikenlaisia tavaroita kuljettaa maitse reellä</rdg>
+                </app> ja <app id="var5057" type="sub">
+                    <rdg>rattailla Saimaan vesiltä meren rannikoille.</rdg>
+                </app> Se vei paljon aikaa ja oli hyvin <app id="var5058" type="sub">
+                    <rdg>vaivalloista.</rdg>
+                </app> Mutta nyt saadaan <app id="var5059" type="sub">
+                    <rdg>kaikkea</rdg>
+                </app> paljoa <app id="var5060" type="sub">
+                    <rdg>nopeammin</rdg>
+                </app> ja <app id="var5061" type="sub">
+                    <rdg>helpommin</rdg>
+                </app> aluksilla, jotka kulkevat <app id="var5062" type="sub int">
+                    <rdg><hi rend="expanded">Saimaan kanavaa</hi> edestakaisin.</rdg>
+                </app></p>
+            <head style="romanType"><anchor id="struct168a"/><hi rend="bold"><hi rend="italics">Lähde,</hi></hi><anchor id="struct168b"/></head>
+            <pb type="orig" n="213"/>
+            <head style="romanType"><hi rend="bold"><hi rend="italics">Lähde </hi></hi><app id="var5063" type="sub">
+                    <rdg><hi rend="bold"><hi rend="italics">keväällä.</hi></hi></rdg>
+                </app><hi rend="bold"/></head>
+            <pb type="orig" n="214"/>
+            <head style="romanType"><anchor id="struct169a"/><hi rend="bold"><hi rend="italics">Koski,</hi></hi></head>
+            <figure type="illustration"/>
+            <p rend="parIndent" style="romanType"><hi rend="italics">Yrjö Koskinen.</hi></p>
+            <head style="romanType"><hi rend="bold"><hi rend="italics">Meri
+                    yöllä,</hi></hi><anchor id="struct169b"/></head>
+            <head style="romanType"><anchor id="struct170a"/><hi rend="bold"><hi rend="italics">Valtameri.</hi></hi><anchor id="struct170b"/></head>
+            <head style="romanType"><hi rend="bold">JÄRVI.</hi></head>
+            <pb type="orig" n="217"/>
+            <figure type="illustration"/>
+        </body>
+    </text>
+</TEI>

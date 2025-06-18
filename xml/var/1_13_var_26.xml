@@ -1,0 +1,1343 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1929). Luku 13, varianttikoodattu</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo: Werner Söderström 1929</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+			<pb type="orig unprinted" n="250"/>
+            <figure type="illustration"/>
+        	<head type="section" style="romanType"><hi rend="bold">Kolmastoista</hi> <app id="var6051" type="sub">
+                    <rdg><hi rend="bold">luku.</hi></rdg>
+                </app></head>
+            <head type="section" style="romanType"><hi rend="bold">Valosta ja </hi><app id="var6052" type="sub">
+                    <rdg><hi rend="bold">lämmöstä.</hi></rdg>
+                </app></head>
+            <p style="romanType"><app id="var6053" type="sub">
+                    <rdg>Nyt on valoisa</rdg>
+                </app> päivä, aurinko paistaa ikkunoista <app id="var6054" type="sub">
+                    <rdg>huoneeseen, ja nyt saatamme</rdg>
+                </app> nähdä kaikki <app id="var6055" type="sub">
+                    <rdg>esineet <seg>tuvassamme.</seg></rdg>
+                </app> Illan tultua <app id="var6056" type="sub">
+                    <rdg>laskee</rdg>
+                </app> aurinko. <app id="var6057" type="sub">
+                    <rdg>Silloin</rdg>
+                </app> tulee <app id="var6058" type="sub">
+                    <rdg>ensin <seg><hi rend="expanded">hämärä,</hi></seg></rdg>
+                </app> niin ettei enää niin selvästi voi <app id="var6059" type="sub int">
+                    <rdg>kaikkia nähdä,</rdg>
+                </app> ja <app id="var6060" type="sub">
+                    <rdg>sitten</rdg>
+                </app> tulee <app id="var6061" type="sub">
+                    <rdg><hi rend="expanded">pimeä,</hi> jolloin</rdg>
+                </app> ei <app id="var6062" type="sub">
+                    <rdg>saata</rdg>
+                </app> nähdä <app id="var6063" type="sub">
+                    <rdg>niin</rdg>
+                </app> mitään. Mutta silloin <app id="var6064" type="sub int">
+                    <rdg>sytytämme tulen takkaan ja kynttilän</rdg>
+                </app> pöydälle, <app id="var6065" type="sub">
+                    <rdg>ja silloin näemme kaikki esineet tulen valossa,
+                        <seg>vaikka</seg></rdg>
+                </app> emme näe <app id="var6066" type="sub int">
+                    <rdg>niitä <seg>niin</seg> selvästi,</rdg>
+                </app> kuin päivän valossa. Jos <app id="var6067" type="sub">
+                    <rdg>silloin</rdg>
+                </app> menemme kartanolle, niin näemme <app id="var6068" type="sub">
+                    <rdg>siellä himmeän kuutamon</rdg>
+                </app> valaisevan maata. <app id="var6069" type="sub">
+                    <rdg>Tai välkkyvät siellä</rdg>
+                </app> kirkkaat tähdet <app id="var6070" type="sub int">
+                    <rdg><seg>niin</seg> ihmeen ihanina iltataivaalla.</rdg>
+                </app></p>
+            <p style="romanType">Mistä tulee <app id="var6071" type="sub">
+                    <rdg><seg>valo?</seg></rdg>
+                </app> Se tulee meille auringosta, kuusta ja tähdistä, tulesta ja monista
+                kappaleista, niinkuin kiiltomadoista, <app id="var6072" type="sub">
+                    <rdg>fosforista</rdg>
+                </app> ja vanhoista lahonneista <app id="var6073" type="sub">
+                    <rdg>puunpalasista.</rdg>
+                </app> Mitä <app id="var6074" type="sub int">
+                    <rdg>valo on?</rdg>
+                </app> Onko se <app id="var6075" type="sub int">
+                    <rdg><seg>kappale</seg> itsessään, vai</rdg>
+                </app> onko se <app id="var6076" type="sub int">
+                    <rdg>vain jokin kappalten ominaisuus,</rdg>
+                </app> joka saattaa <app id="var6077" type="sub">
+                    <rdg>meidät</rdg>
+                </app> niitä näkemään? Sitä <app id="var6078" type="sub">
+                    <rdg><seg>ei</seg>
+                        <seg>kukaan</seg> kykene <seg>oikein</seg> selittämään.</rdg>
+                </app> Me <app id="var6079" type="sub">
+                    <rdg>näemme vain, että valo täyttää</rdg>
+                </app> koko <app id="var6080" type="sub">
+                    <rdg>maailman,</rdg>
+                </app> ja kun se katoaa, <pb type="orig" n="251"/><app id="var6081" type="sub">
+                    <rdg>on</rdg>
+                </app> kaikki <app id="var6082" type="sub int">
+                    <rdg>toisenlaista.</rdg>
+                </app> Muutamat sanovat koko <app id="var6083" type="sub">
+                    <rdg>maailman</rdg>
+                </app> avaruuden olevan <app id="var6084" type="sub">
+                    <rdg>täynnä ainetta,</rdg>
+                </app> joka on <app id="var6085" type="sub">
+                    <rdg>paljon hienompaa</rdg>
+                </app> kuin <app id="var6086" type="int">
+                    <rdg>ilma</rdg>
+                </app> ja <app id="var6087" type="sub">
+                    <rdg>jota sanotaan <hi rend="expanded">eetteriksi.</hi></rdg>
+                </app> Ja <app id="var6088" type="sub">
+                    <rdg>samoin kuin</rdg>
+                </app> ääni <app id="var6089" type="sub">
+                    <rdg>syntyy</rdg>
+                </app> ilman <app id="var6090" type="sub">
+                    <rdg>värinästä, samoin syntyy valokin eetterin värinästä,</rdg>
+                </app> kun <app id="var6091" type="sub">
+                    <rdg>tämä joutuu liikkeeseen. Sen verran varmuudella tiedämme,</rdg>
+                </app> että valo kulkee <app id="var6092" type="sub">
+                    <rdg>paljon nopeammin</rdg>
+                </app> kuin ääni. <app id="var6093" type="sub">
+                    <rdg>Joka sekunnissa, minkä</rdg>
+                </app> kello <app id="var6094" type="sub">
+                    <rdg>napsauttaa,</rdg>
+                </app> lentää valo <app id="var6095" type="sub">
+                    <rdg>30,000 (kolmekymmentä</rdg>
+                </app> tuhatta) <app id="var6096" type="sub">
+                    <rdg>penikulmaa</rdg>
+                </app> eteenpäin, ja vaikka aurinko on niin <app id="var6097" type="sub">
+                    <rdg>äärettömän</rdg>
+                </app> kaukana, ei valo kuitenkaan tarvitse <app id="var6098" type="sub">
+                    <rdg>enempää, <seg>kuin</seg> vähän</rdg>
+                </app> yli 8 <app id="var6099" type="sub int">
+                    <rdg>minuutin, ehtiäkseen</rdg>
+                </app> auringosta tänne.</p>
+            <p style="romanType"><app id="var6100" type="sub">
+                    <rdg>Niinkuin</rdg>
+                </app> ääni tulee meille <app id="var6101" type="sub">
+                    <rdg>korvan</rdg>
+                </app> kautta, <app id="var6102" type="sub">
+                    <rdg>samoin</rdg>
+                </app> tulee meille valo <app id="var6103" type="sub">
+                    <rdg>silmän</rdg>
+                </app> kautta. <app id="var6104" type="sub">
+                    <rdg>Silloin me <hi rend="expanded">näemme,</hi></rdg>
+                </app> ja silloin <hi rend="expanded">näkyvät</hi><app id="var6105" type="sub">
+                    <rdg>
+                        <seg>kappaleet.</seg></rdg>
+                </app> Kun <app id="var6106" type="sub">
+                    <rdg>korvan sisus pilautuu, tulemme kuuroiksi; kun silmä vahingoittuu,
+                        tulemme sokeiksi.</rdg>
+                </app> Sokeina syntyneet ihmiset eivät tunne valoa. Mutta miksikä <app id="var6107" type="sub int">
+                    <rdg>ummistuneet silmämme <seg>välistä</seg> ikäänkuin iskevät
+                        tulta,</rdg>
+                </app> kun lyömme <app id="var6108" type="sub">
+                    <rdg>otsamme</rdg>
+                </app> seinään? <app id="var6109" type="sub">
+                    <rdg>Se tulee siitä,</rdg>
+                </app> että silmän <app id="var6110" type="sub">
+                    <rdg>sisässä</rdg>
+                </app> on <app id="var6111" type="sub">
+                    <rdg>herkkä näköhermo,</rdg>
+                </app> joka <app id="var6112" type="sub">
+                    <rdg>johtaa</rdg>
+                </app> valon tuntoomme. Ja joka kerta, <app id="var6113" type="sub">
+                    <rdg>jolloin</rdg>
+                </app> tämä <app id="var6114" type="sub">
+                    <rdg>näköhermo</rdg>
+                </app> loukkaantuu, <app id="var6115" type="sub int">
+                    <rdg>tuntuu siltä kuin näkisimme</rdg>
+                </app> valon <app id="var6116" type="sub int">
+                    <rdg>välähdyksen.</rdg>
+                </app></p>
+            <p style="romanType"><app id="var6117" type="sub">
+                    <rdg>Ota</rdg>
+                </app> nyt <app id="var6118" type="sub">
+                    <rdg>paperi, pistä siihen</rdg>
+                </app> neulalla <app id="var6119" type="sub">
+                    <rdg>reikä <seg>ja</seg> katso reiän lävitse. Siitä</rdg>
+                </app> pienestä <app id="var6120" type="sub">
+                    <rdg>reiästä näet</rdg>
+                </app> ladon ja niityn <app id="var6121" type="sub">
+                    <rdg>tuolla <seg>kaukana</seg></rdg>
+                </app> metsän <app id="var6122" type="sub">
+                    <rdg>rinteessä. Nyt tiedät myöskin</rdg>
+                </app> kappaleen tulevan <app id="var6123" type="sub int">
+                    <rdg>näkyväksi siitä,</rdg>
+                </app> että <app id="var6124" type="sub">
+                    <rdg>silmään johtuu <seg>valon</seg> säteitä</rdg>
+                </app> kaikista kappaleen osista. <app id="var6125" type="sub">
+                    <rdg>Kuinka hienoja siis</rdg>
+                </app> valon säteet <app id="var6126" type="sub">
+                    <rdg>ovatkaan, koska</rdg>
+                </app> niin <app id="var6127" type="sub">
+                    <rdg>sanomattoman paljon</rdg>
+                </app> säteitä ladosta ja niitystä tulee silmään yhden ainoan, paperiin <app id="var6128" type="int">
+                    <rdg>pistetyn</rdg>
+                </app> pienen <app id="var6129" type="sub">
+                    <rdg>reiän kautta!</rdg>
+                </app></p>
+            <p style="romanType">Mutta miksikä lato ja muut kappaleet, jotka ovat tuolla
+                etäällä, <app id="var6130" type="sub">
+                    <rdg>näyttävät</rdg>
+                </app> pienemmiltä kuin ovatkaan likempää katsoen? Sen nyt <app id="var6131" type="sub">
+                    <rdg>selitän</rdg>
+                </app> sinulle <app id="var6132" type="sub int">
+                    <rdg>tällä kuvalla (siv. 252). Tässä on kaksi puuta,</rdg>
+                </app> ja <app id="var6133" type="sub">
+                    <rdg>tuossa</rdg>
+                </app> seison minä <app id="var6134" type="sub int">
+                    <rdg>niitä katsellen.</rdg>
+                </app> Puut ovat yhtä <app id="var6135" type="sub">
+                    <rdg>korkeita;</rdg>
+                </app> mutta kuitenkin <app id="var6136" type="sub">
+                    <rdg>minusta on</rdg>
+                </app> likempänä <pb type="orig" n="252"/><app id="var6137" type="sub">
+                    <rdg>oleva puu korkeampi, kuin edempänä oleva puu. Minkätähden? No,
+                        ajattelenpa silloin valon säteen</rdg>
+                </app> tulevan silmääni <app id="var6138" type="sub int">
+                    <rdg>kumpaisenkin puun latvapäästä</rdg>
+                </app> ja toisen säteen <app id="var6139" type="sub">
+                    <rdg>alhaalta juuresta. Silloin käsitän, että molemmat
+                        läheisemmästä</rdg>
+                </app> puusta <app id="var6140" type="sub">
+                    <rdg>tulevat säteet muodostavat silmissäni</rdg>
+                </app> isomman kulman <app id="var6141" type="sub int">
+                    <rdg><seg>ja</seg> ikäänkuin leviävät.</rdg>
+                </app> Mutta <app id="var6142" type="sub">
+                    <rdg>etäisemmän puun säteet muodostavat suipomman</rdg>
+                </app> kulman ja <app id="var6143" type="sub int">
+                    <rdg>leviävät vähemmän. Jos sitten vedän</rdg>
+                </app> viivan <app id="var6144" type="sub">
+                    <rdg>säteiden poikitse,</rdg>
+                </app> niin <app id="var6145" type="sub int">
+                    <rdg>käsitän, että läheisempi puu näyttää etäisempää puuta yhtä paljon
+                        korkeammalta,</rdg>
+                </app> kuin sen <app id="var6146" type="sub">
+                    <rdg>säteiden välinen</rdg>
+                </app> viiva on <app id="var6147" type="sub">
+                    <rdg>pitempi sitä</rdg>
+                </app> viivaa, joka on <app id="var6148" type="sub int">
+                    <rdg>etäisemmän puun säteiden välissä.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType">Mutta <app id="var6149" type="sub">
+                    <rdg>älä ajattele toista puuta suoraan</rdg>
+                </app> toisen <app id="var6150" type="sub int">
+                    <rdg>takana olevaksi,</rdg>
+                </app> sillä silloin <app id="var6151" type="sub">
+                    <rdg>läheisempi <hi rend="expanded">varjoaisi</hi> etäisemmän
+                        näkymästä.</rdg>
+                </app> Sillä puut ja <app id="var6152" type="sub">
+                    <rdg>monet muut kappaleet</rdg>
+                </app> ovat <app id="var6153" type="sub">
+                    <rdg><hi rend="expanded">läpinäkymättömiä.</hi></rdg>
+                </app> Mutta <app id="var6154" type="sub">
+                    <rdg>toiset</rdg>
+                </app> kappaleet, <app id="var6155" type="sub">
+                    <rdg>kuten</rdg>
+                </app> ilma, vesi ja lasi, päästävät valon <app id="var6156" type="sub">
+                    <rdg>lävitsensä,</rdg>
+                </app> niin että niiden <app id="var6157" type="sub int">
+                    <rdg>lävitse käy näkeminen,</rdg>
+                </app> ja sellaisia kappaleita <app id="var6158" type="sub">
+                    <rdg>sanotaan</rdg>
+                </app>
+                <hi rend="expanded">läpinäkyviksi.</hi> Kun valo <app id="var6159" type="sub">
+                    <rdg>kohtaa läpinäkymättömiä kappaleita, syntyy</rdg>
+                </app> niiden <app id="var6160" type="sub">
+                    <rdg>taakse</rdg>
+                </app>
+                <hi rend="expanded">varjo.</hi> Nyt palaa <app id="var6161" type="sub">
+                    <rdg>kynttilä</rdg>
+                </app> pöydällä, ja minä asetun kynttilän eteen. <app id="var6162" type="sub">
+                    <rdg>Näen silloin</rdg>
+                </app> jotakin mustaa <app id="var6163" type="sub">
+                    <rdg>seinässä.</rdg>
+                </app> Mikä se on? Se on varjoni. Jota <app id="var6164" type="sub">
+                    <rdg>lähemmäksi</rdg>
+                </app> seinää menen, sitä pienemmäksi tulee <app id="var6165" type="sub">
+                    <rdg>varjo.</rdg>
+                </app> Jota <app id="var6166" type="sub">
+                    <rdg>edemmäksi</rdg>
+                </app> menen seinästä, sitä suuremmaksi tulee varjo. Mutta <app id="var6167" type="sub">
+                    <rdg>varjon määrää myöskin kynttilän asema.</rdg>
+                </app>
+                <pb type="orig" n="253"/>Jos <app id="var6168" type="sub">
+                    <rdg>asetan kyttilän</rdg>
+                </app> lattialle, niin tulee varjoni <app id="var6169" type="sub">
+                    <rdg>seinällä</rdg>
+                </app> hyvin pitkäksi. Jos nostan kynttilän pääni päälle, tulee <app id="var6170" type="sub">
+                    <rdg>varjo lyhyemmäksi.</rdg>
+                </app> Samalla lailla <app id="var6171" type="sub int">
+                    <rdg><seg>tiellä</seg> kävellessäni kulkee pitkä varjo edessäni,</rdg>
+                </app> kun aurinko <app id="var6172" type="sub">
+                    <rdg>tai</rdg>
+                </app> kuu <app id="var6173" type="sub">
+                    <rdg>takanani <seg>on</seg> alhaalla</rdg>
+                </app> taivaalla. Mutta jos ne ovat korkealla, tulee varjo aivan lyhyeksi.
+                Ja jos ne <app id="var6174" type="sub">
+                    <rdg>olisivat ihan</rdg>
+                </app> pääni päällä, <app id="var6175" type="sub">
+                    <rdg><seg>en</seg></rdg>
+                </app> näkisi <app id="var6176" type="sub int">
+                    <rdg>varjoa ollenkaan. Samaa näet <hi rend="expanded">aurinkokellossakin,</hi></rdg>
+                </app> joka <app id="var6177" type="sub">
+                    <rdg><seg>päivän</seg></rdg>
+                </app> aikoja <app id="var6178" type="sub">
+                    <rdg>osoittaa <seg>juuri</seg> siten,</rdg>
+                </app> että <app id="var6179" type="sub">
+                    <rdg>sen <seg>navan</seg></rdg>
+                </app> varjo <app id="var6180" type="sub">
+                    <rdg>muuttelee</rdg>
+                </app> auringon kulun mukaan.</p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var6181" type="sub">
+                    <rdg>Läpinäkyväin kappalten näet usein</rdg>
+                </app> olevan <hi rend="expanded">värittömiä,</hi> mutta <app id="var6182" type="sub">
+                    <rdg>läpinäkymättömäin kappalten eri <hi rend="expanded">värisiä.</hi>
+                        Mistä värit syntyvät?</rdg>
+                </app> Ne <app id="var6183" type="sub int">
+                    <rdg>syntyvät siitä,</rdg>
+                </app> että <app id="var6184" type="sub">
+                    <rdg>kappalten pinnat eri lailla heijastavat valon.</rdg>
+                </app> Nenäliinani on valkea; sen pinnasta <app id="var6185" type="sub">
+                    <rdg>heijastuu</rdg>
+                </app> enin <app id="var6186" type="sub">
+                    <rdg>osa valoa,</rdg>
+                </app> ja <app id="var6187" type="sub">
+                    <rdg>sen tähden</rdg>
+                </app> se <app id="var6188" type="sub">
+                    <rdg>on valkea.</rdg>
+                </app> Huivini on <app id="var6189" type="int">
+                    <rdg>musta;</rdg>
+                </app> se imee <app id="var6190" type="sub">
+                    <rdg>itseensä</rdg>
+                </app> enimmän <app id="var6191" type="sub">
+                    <rdg>osan <seg>valoa,</seg></rdg>
+                </app> ja <app id="var6192" type="sub">
+                    <rdg>sen tähden</rdg>
+                </app> se <app id="var6193" type="sub">
+                    <rdg>on musta.</rdg>
+                </app> Musta huivi lämpeneekin <app id="var6194" type="sub int">
+                    <rdg>pikemmin auringon paisteessa.</rdg>
+                </app>
+                <note id="ftn6" n="*)" place="foot"><hi rend="expanded">Muist.</hi> <app id="var6195" type="sub">
+                    <rdg>Musta ei
+                        oikeastaan</rdg>
+                </app> ole <app id="var6196" type="sub">
+                    <rdg>mitään</rdg>
+                </app> väriä. <app id="var6197" type="sub">
+                    <rdg>Musta</rdg>
+                </app> on pimeyttä. En saata nähdä
+                    <app id="var6198" type="int">
+                    <rdg>mustaa;</rdg>
+                </app> enkä saata nähdä varjoa, jos ei
+                    niiden vieressä ole valkeampia <app id="var6199" type="int">
+                    <rdg>kappaleita</rdg></app>.</note> Muistatko <app id="var6200" type="sub">
+                    <rdg>sateenkaaren</rdg>
+                </app> kauniita <app id="var6201" type="sub int">
+                    <rdg>värejä,</rdg>
+                </app> jotka <app id="var6202" type="sub">
+                    <rdg>syntyvät</rdg>
+                </app> auringon <app id="var6203" type="sub">
+                    <rdg>säteiden taittumisesta</rdg>
+                </app> pienissä <app id="var6204" type="sub">
+                    <rdg>vesipisaroissa? Sen ulkoreunassa on punaista, sitten</rdg>
+                </app> on <app id="var6205" type="sub">
+                    <rdg>punaisenkeltaista, sitten keltaista, sitten vihreää, sitten
+                        vaaleansinistä, sitten tummansinistä</rdg>
+                </app> ja <app id="var6206" type="sub int">
+                    <rdg>sisäreunassa sinipunervaa.</rdg>
+                </app> Jos <app id="var6207" type="sub">
+                    <rdg>maalaat</rdg>
+                </app> samat <pb type="orig" n="254"/>värit <app id="var6208" type="sub">
+                    <rdg>samassa järjestyksessä <seg>hyrrään</seg></rdg>
+                </app> ja <app id="var6209" type="sub">
+                    <rdg>panet sen hyvää vauhtia</rdg>
+                </app> pyörimään, <app id="var6210" type="sub">
+                    <rdg>niin <seg>näyttää</seg></rdg>
+                </app> hyrrä aivan valkealta. Siitä <app id="var6211" type="sub">
+                    <rdg>näet, että valkea valo on yhdistys sateenkaaren</rdg>
+                </app> seitsemästä väristä, ja <app id="var6212" type="sub">
+                    <rdg>ne saatat</rdg>
+                </app> jälleen <app id="var6213" type="sub int">
+                    <rdg>siitä eritellä, jos esim. panet</rdg>
+                </app> valon <app id="var6214" type="sub">
+                    <rdg>säteet kulkemaan särmiöksi tahkotun</rdg>
+                </app> lasin läpi. Kun valo <app id="var6215" type="sub">
+                    <rdg>silloin <seg>paistaa</seg></rdg>
+                </app> kukkaan, <app id="var6216" type="sub">
+                    <rdg>on tämä punainen,</rdg>
+                </app> jos se imee sisäänsä kaikki muut säteet, mutta <app id="var6217" type="sub">
+                    <rdg>heijastaa</rdg>
+                </app> ainoasti <app id="var6218" type="sub">
+                    <rdg><seg>punaiset.</seg></rdg>
+                </app> Jos se <app id="var6219" type="sub">
+                    <rdg>heijastaa</rdg>
+                </app> siniset säteet, näyttää se siniseltä, ja <app id="var6220" type="sub">
+                    <rdg>sama</rdg>
+                </app> on <app id="var6221" type="sub">
+                    <rdg>kaikkien</rdg>
+                </app> värien <app id="var6222" type="sub">
+                    <rdg>laita.</rdg>
+                </app> Paitsi <app id="var6223" type="sub int">
+                    <rdg>sateenkaaren värejä</rdg>
+                </app> on <app id="var6224" type="sub">
+                    <rdg>lukemattomia muita värien vivahduksia,</rdg>
+                </app> jotka <app id="var6225" type="sub">
+                    <rdg>syntyvät</rdg>
+                </app> värien <app id="var6226" type="sub">
+                    <rdg>sekoittamisesta.</rdg>
+                </app> Mustasta ja valkeasta saadaan harmaata, mustasta ja punaisesta
+                ruskeata j. n. e. <app id="var6227" type="sub">
+                    <rdg>Se</rdg>
+                </app> pitää <app id="var6228" type="sub">
+                    <rdg>kaikkien</rdg>
+                </app> maalarien hyvästi <app id="var6229" type="sub">
+                    <rdg>tuntea.</rdg>
+                </app> Ja tarkasti tulee <app id="var6230" type="sub">
+                    <rdg>heidän</rdg>
+                </app> osata kuvata <app id="var6231" type="sub">
+                    <rdg>valoa</rdg>
+                </app> ja <app id="var6232" type="sub">
+                    <rdg>varjoa; muutoin</rdg>
+                </app> ei ole kuvaus kuvatun näköinen.</p>
+            <figure type="illustration"/>
+            <p style="romanType">Jos <app id="var6233" type="sub">
+                    <rdg>jollakin</rdg>
+                </app> kappaleella on hyvin kiiltävä pinta, <app id="var6234" type="sub">
+                    <rdg>näet</rdg>
+                </app> siinä <app id="var6235" type="sub">
+                    <rdg>kuvasi niinkuin</rdg>
+                </app>
+                <hi rend="expanded">kuvastimessa</hi> (peilissä). <app id="var6236" type="sub">
+                    <rdg>Sen tähden kuvastuvat</rdg>
+                </app> kaikki ympärillä olevat <app id="var6237" type="sub">
+                    <rdg>esineet</rdg>
+                </app> kirkkaassa lähteessä <app id="var6238" type="sub">
+                    <rdg>tai tyynessä</rdg>
+                </app> järvessä <app id="var6239" type="sub">
+                    <rdg>tai</rdg>
+                </app> hiljaa juoksevassa joessa. <pb type="orig" n="255"/>Mutta jos <app id="var6240" type="sub">
+                    <rdg>menet</rdg>
+                </app> kuvastimen <app id="var6241" type="sub int">
+                    <rdg>edestä sivullepäin, niin et näekään itseäsi,</rdg>
+                </app> vaan <app id="var6242" type="sub">
+                    <rdg>niitä,</rdg>
+                </app> jotka ovat kuvastimen <app id="var6243" type="sub">
+                    <rdg><seg>toisella</seg> sivulla.</rdg>
+                </app> Siitä <app id="var6244" type="sub int">
+                    <rdg>huomaat,</rdg>
+                </app> etteivät valon säteet <app id="var6245" type="sub">
+                    <rdg><seg>kuvastimesta</seg> heijasta <seg>joka</seg></rdg>
+                </app> suunnalle. Jos säteet tulevat suoraan, <app id="var6246" type="sub">
+                    <rdg>heijastuvat</rdg>
+                </app> ne suoraan <app id="var6247" type="sub">
+                    <rdg>takaisin; mutta jos ne tulevat viistosti, heijastuvat ne viistosti
+                        vastaiseen suuntaan. Soudellessasi</rdg>
+                </app> joella, <app id="var6248" type="sub">
+                    <rdg>näet</rdg>
+                </app> rannan <app id="var6249" type="sub int">
+                    <rdg>kuvastuvan niin,</rdg>
+                </app> että sen kuva vedessä <app id="var6250" type="sub">
+                    <rdg>ikäänkuin kääntyy</rdg>
+                </app> sisäänpäin. Se tulee <app id="var6251" type="int">
+                    <rdg>siitä,</rdg>
+                </app> että valon säteet rannalta <app id="var6252" type="sub">
+                    <rdg>viistosti kohtaavat</rdg>
+                </app> veden <app id="var6253" type="sub">
+                    <rdg>pintaa.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType">Mutta jos <app id="var6254" type="sub">
+                    <rdg>asetat</rdg>
+                </app> suoran kepin <app id="var6255" type="sub">
+                    <rdg>puoleksi</rdg>
+                </app> veteen, niin näyttää sen kuva <app id="var6256" type="sub">
+                    <rdg>ikäänkuin taittuneelta. Jos panet vedellä täytettyyn astiaan
+                        rahan,</rdg>
+                </app> näyttää tämä olevan toisessa <app id="var6257" type="int">
+                    <rdg>paikassa</rdg>
+                </app> kuin se onkaan. <app id="var6258" type="sub int">
+                    <rdg>Minkätähden? Sentähden, että</rdg>
+                </app> valo <app id="var6259" type="sub">
+                    <rdg>kulkee suorana semmoisen</rdg>
+                </app> aineen <app id="var6260" type="sub">
+                    <rdg>lävitse,</rdg>
+                </app> joka on yhtä <app id="var6261" type="sub">
+                    <rdg>tiheätä joka paikasta;</rdg>
+                </app> mutta jos se <app id="var6262" type="sub">
+                    <rdg>kulkee harvemmasta aineesta</rdg>
+                </app> tiheämpään <app id="var6263" type="sub">
+                    <rdg>tai päinvastoin,</rdg>
+                </app> niin <app id="var6264" type="sub">
+                    <rdg>taittuvat</rdg>
+                </app> säteet ja <app id="var6265" type="sub">
+                    <rdg>ikäänkuin väistyvät</rdg>
+                </app> syrjään. Vesi on <app id="var6266" type="sub">
+                    <rdg>tiheämpää</rdg>
+                </app> kuin ilma, <app id="var6267" type="sub">
+                    <rdg>sentähden</rdg>
+                </app> näyttää keppi <app id="var6268" type="sub int">
+                    <rdg>taittuneelta</rdg>
+                </app> ja <app id="var6269" type="sub">
+                    <rdg>raha</rdg>
+                </app> näyttää olevan <pb type="orig" n="256"/><app id="var6270" type="sub">
+                    <rdg>toisessa paikassa.</rdg>
+                </app> Ylempänä oleva ilma on <app id="var6271" type="int">
+                    <rdg>harvempaa,</rdg>
+                </app> kuin alempana oleva, <app id="var6272" type="sub">
+                    <rdg>siitä syystä</rdg>
+                </app> näyttää aurinko aina olevan <app id="var6273" type="sub int">
+                    <rdg>ylempänä taivaalla,</rdg>
+                </app> kuin se onkaan.</p>
+            <p style="romanType">Lasi on <app id="var6274" type="sub">
+                    <rdg>paljon</rdg>
+                </app> tiheämpää kuin <app id="var6275" type="sub int">
+                    <rdg>ilma, sen tähden taittaa</rdg>
+                </app> lasi hyvin <app id="var6276" type="sub">
+                    <rdg>jyrkästi <seg>valon</seg></rdg>
+                </app> säteet. Jos <app id="var6277" type="sub">
+                    <rdg>otat</rdg>
+                </app> pyöreän <app id="var6278" type="sub">
+                    <rdg>lasinkappaleen,</rdg>
+                </app> joka on molemmin puolin <app id="var6279" type="sub int">
+                    <rdg>kupera, niin näet tavallisen matkan päässä kaikki esineet
+                        suuremmiksi,</rdg>
+                </app> kuin <app id="var6280" type="sub">
+                    <rdg>ne todella</rdg>
+                </app> ovatkaan. <app id="var6281" type="sub int">
+                    <rdg>Ihmeellistä on sellaisilla <hi rend="expanded">suurennuslaseilla</hi> katsella pienen</rdg>
+                </app> pieniä <app id="var6282" type="sub">
+                    <rdg>esineitä.</rdg>
+                </app> Isällä on sellainen lasi, jota hän <app id="var6283" type="sub">
+                    <rdg>nimittää <hi rend="expanded">aurinkolasiksi,</hi></rdg>
+                </app> ja sillä sytyttää hän piippunsa, sillä se kokoaa auringon säteet
+                yhteen <app id="var6284" type="sub">
+                    <rdg>polttopisteeseen. Äidillä on</rdg>
+                </app>
+                <hi rend="expanded">silmälasit</hi>
+                <app id="var6285" type="sub">
+                    <rdg>kuperasta</rdg>
+                </app> lasista, <app id="var6286" type="sub">
+                    <rdg>sentähden että</rdg>
+                </app> hän ei näe selvästi <app id="var6287" type="sub">
+                    <rdg>läheltä. Koveroilla laseilla katsellessa näyttävät kaikki
+                        pienemmiltä</rdg>
+                </app> kuin <app id="var6288" type="sub int">
+                    <rdg>ne ovat;</rdg>
+                </app> sellaisia <app id="var6289" type="sub">
+                    <rdg>silmälaseja</rdg>
+                </app> pitää lukkari, joka on <app id="var6290" type="int">
+                    <rdg>likinäköinen,</rdg>
+                </app> eikä <app id="var6291" type="sub">
+                    <rdg>hyvästi <seg>näe</seg> pitkän matkan päähän.</rdg>
+                </app> Ja jos <app id="var6292" type="sub">
+                    <rdg>sovitat</rdg>
+                </app> useita <app id="var6293" type="sub">
+                    <rdg>kuperia laseja kohtalaisen</rdg>
+                </app> pitkään putkeen, niin <app id="var6294" type="sub">
+                    <rdg>saat</rdg>
+                </app> siitä <app id="var6295" type="sub int">
+                    <rdg><hi rend="expanded">kiikarin</hi> eli <hi rend="expanded">kaukoputken,</hi></rdg>
+                </app> joka samalla näyttää <app id="var6296" type="sub">
+                    <rdg>suurentavan</rdg>
+                </app> kappaleet ja tuovan ne <app id="var6297" type="sub">
+                    <rdg>lähemmäksi.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var6298" type="sub">
+                    <rdg>Aina,</rdg>
+                </app> kun seison auringon paisteessa <app id="var6299" type="sub">
+                    <rdg>tai</rdg>
+                </app> istun <app id="var6300" type="sub">
+                    <rdg>takkavalkean ääressä,</rdg>
+                </app> tunnen auringon ja tulen samalla paistavan ja <app id="var6301" type="sub">
+                    <rdg><hi rend="expanded">lämittävän.</hi></rdg>
+                </app> Ajattelen silloin usein itsekseni: <app id="var6302" type="sub int">
+                    <rdg>kukatiesi onkin</rdg>
+                </app>
+                <hi rend="italics">valo</hi> ja <app id="var6303" type="sub">
+                    <rdg><hi rend="italics">lämpö</hi> yhtä ja</rdg>
+                </app> samaa, joka <app id="var6304" type="sub">
+                    <rdg>ilmenee</rdg>
+                </app> kahdella eri tavalla? <app id="var6305" type="sub">
+                    <rdg>Toisinaan</rdg>
+                </app> olen nähnyt <app id="var6306" type="sub">
+                    <rdg>valoa ilman lämpöä,</rdg>
+                </app> niinkuin <app id="var6307" type="sub">
+                    <rdg>kiiltomadossa, toisinaan lämpöä ilman valoa,</rdg>
+                </app> niinkuin kylmää naulaa <app id="var6308" type="sub">
+                    <rdg>taottaessa,</rdg>
+                </app> siksi <app id="var6309" type="sub">
+                    <rdg>kunnes</rdg>
+                </app> se tulee aivan kuumaksi. Silloin olen ajatellut: <app id="var6310" type="sub">
+                    <rdg>ihmeelliset</rdg>
+                </app> ovat luonnon voimat!</p>
+            <p style="romanType">Olen havainnut lämpimäin <app id="var6311" type="sub">
+                    <rdg>kappalten</rdg>
+                </app> antavan <app id="var6312" type="sub">
+                    <rdg>lämpöänsä</rdg>
+                </app> kylmille kappaleille; mutta silloin <app id="var6313" type="sub">
+                    <rdg><seg>lämpimät</seg></rdg>
+                </app> kappa<pb type="orig" n="257"/>leet <app id="var6314" type="sub int">
+                    <rdg>menettävät osan lämpöänsä.</rdg>
+                </app> Jos <app id="var6315" type="sub int">
+                    <rdg>talvella <seg>tartun</seg> rautalukkoon, tunnen, että</rdg>
+                </app> se viepi <app id="var6316" type="sub">
+                    <rdg>lämpöä</rdg>
+                </app> kädestäni. <app id="var6317" type="sub">
+                    <rdg>Olen myöskin</rdg>
+                </app> havainnut muutamain <app id="var6318" type="sub">
+                    <rdg>kappalten</rdg>
+                </app> tulevan kylmiksi <app id="var6319" type="sub">
+                    <rdg>tai lämpimiksi pikemmin kuin toisten.</rdg>
+                </app> Saatan pitää <app id="var6320" type="sub int">
+                    <rdg>hyppysissäni hiiltä,</rdg>
+                </app> vaikka sen toinen pää <app id="var6321" type="sub int">
+                    <rdg>hehkuu.</rdg>
+                </app> Mutta jos kiehutan vettä rautapannussa ja tartun käsin sen <app id="var6322" type="sub">
+                    <rdg>rautaiseen</rdg>
+                </app> varteen, niin <app id="var6323" type="sub int">
+                    <rdg>tämä polttaa kättäni.</rdg>
+                </app> Jos pannussa on puinen varsi, tohdin siihen kyllä tarttua. Siitä
+                tiedän raudan ja <app id="var6324" type="sub">
+                    <rdg>kaikkien metallien</rdg>
+                </app> olevan hyviä <app id="var6325" type="sub">
+                    <rdg><hi rend="expanded">lämmönjohtajia,</hi></rdg>
+                </app> mutta puun, kiven, villan, ilman, veden ja muiden <app id="var6326" type="sub">
+                    <rdg>kappalten hitaammin johtavan lämpöä. Siitä syystä</rdg>
+                </app> rakennetaan huoneita puusta <app id="var6327" type="sub">
+                    <rdg>tai</rdg>
+                </app> kivestä. Sillä jos niitä rakennettaisiin raudasta, niin olisivat ne
+                    <app id="var6328" type="sub">
+                    <rdg>tukalan</rdg>
+                </app> lämpimät kesällä ja hirveän <app id="var6329" type="sub">
+                    <rdg>kylmät</rdg>
+                </app> talvella. <app id="var6330" type="sub">
+                    <rdg>Siksipä</rdg>
+                </app> pidämmekin <app id="var6331" type="sub int">
+                    <rdg>pukunamme mieluimmin villavaatteita,</rdg>
+                </app> jotka eivät päästä <app id="var6332" type="sub">
+                    <rdg>lämpöä pois eivätkä</rdg>
+                </app> kylmää <app id="var6333" type="sub">
+                    <rdg>sisään. Sen tähden</rdg>
+                </app> on <app id="var6334" type="sub">
+                    <rdg>Jumalakin varustanut useimmat eläimet karvaisilla tai villaisilla
+                        turkeilla.</rdg>
+                </app> Ja <app id="var6335" type="sub">
+                    <rdg>sitä varten</rdg>
+                </app> pidetään <app id="var6336" type="sub int">
+                    <rdg>talvella <seg>kaksinkertaisia</seg> akkunoita, koska lasien</rdg>
+                </app> välissä oleva ilma estää <app id="var6337" type="sub">
+                    <rdg>kylmää pääsemästä</rdg>
+                </app> ulkoa <app id="var6338" type="sub">
+                    <rdg>sisään <seg>ja</seg> lämpöä sisältä ulos.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <pb type="orig" n="258"/>
+            <p style="romanType">Mitä <app id="var6339" type="sub int">
+                    <rdg>siis <seg>on</seg> lämpö?</rdg>
+                </app> Niin, mitä se <app id="var6340" type="sub">
+                    <rdg>oikeastaan</rdg>
+                </app> on, sitä en <app id="var6341" type="sub">
+                    <rdg>kykene</rdg>
+                </app> sinulle <app id="var6342" type="sub">
+                    <rdg>sanomaan.</rdg>
+                </app>
+                <hi rend="expanded">Lämpimäksi</hi>
+                <app id="var6343" type="sub">
+                    <rdg>sanotaan</rdg>
+                </app> sitä, <app id="var6344" type="sub">
+                    <rdg>mikä</rdg>
+                </app> on yhtä <app id="var6345" type="sub">
+                    <rdg>lämmintä tai lämpimämpää</rdg>
+                </app> kuin oma ruumiimme, ja <hi rend="expanded">kuumaksi</hi> sitä, <app id="var6346" type="sub">
+                    <rdg>mikä</rdg>
+                </app> on <app id="var6347" type="sub">
+                    <rdg>vieläkin lämpimämpää.</rdg>
+                </app> Mutta <hi rend="expanded">kylmää</hi> on se, joka on omaa ruumistamme
+                    <app id="var6348" type="sub">
+                    <rdg>kylmempää. Paljon siinä kohden vaikuttaa tottumus.</rdg>
+                </app> Jos usein <app id="var6349" type="sub">
+                    <rdg>lämmittelet</rdg>
+                </app> valkean <app id="var6350" type="sub">
+                    <rdg>paisteessa, tulet</rdg>
+                </app> viluisemmaksi ja <app id="var6351" type="int">
+                    <rdg>aremmaksi</rdg>
+                </app> kuin ennen <app id="var6352" type="sub">
+                    <rdg>olit. Saunaan tultuasi</rdg>
+                </app> on <app id="var6353" type="sub">
+                    <rdg>sinusta siellä alussa</rdg>
+                </app> hirmuisen kuuma, ja meressä <app id="var6354" type="sub">
+                    <rdg>uidessasi</rdg>
+                </app> on <app id="var6355" type="sub">
+                    <rdg>sinusta alussa</rdg>
+                </app> vesi hirveän kylmää. Mutta vähitellen <app id="var6356" type="sub">
+                    <rdg>totut</rdg>
+                </app> siihen. <app id="var6357" type="sub">
+                    <rdg>Siitä käsität, että kuumuus</rdg>
+                </app> ja <app id="var6358" type="sub">
+                    <rdg>kylmyys ovat vain vähän suurempi tahi vähän pienempi määrä
+                        lämpöä.</rdg>
+                </app></p>
+            <p style="romanType"><app id="var6359" type="sub">
+                    <rdg>Mutta et</rdg>
+                </app> kuitenkaan <app id="var6360" type="sub">
+                    <rdg>saata</rdg>
+                </app> tottua kaikkeen kuumuuteen, <app id="var6361" type="sub">
+                    <rdg>etkä</rdg>
+                </app> kaikkeen kylmyyteenkään. Jos <app id="var6362" type="sub">
+                    <rdg>kosket</rdg>
+                </app> paljaalla <app id="var6363" type="sub">
+                    <rdg>sormellasi hiilokseen tai</rdg>
+                </app> liekkiin <app id="var6364" type="sub">
+                    <rdg>tai</rdg>
+                </app> tuliseen rautaan, <app id="var6365" type="sub int">
+                    <rdg>niin tulee rakko sormeesi,</rdg>
+                </app> sillä nahka <app id="var6366" type="sub">
+                    <rdg>siitä turmeltuu. Älä silloin pistä sormeasi</rdg>
+                </app> kylmään veteen, sillä <app id="var6367" type="sub">
+                    <rdg>silloin sitä</rdg>
+                </app> alkaa <app id="var6368" type="sub">
+                    <rdg><seg>pahemmin</seg></rdg>
+                </app> pakottaa. Kuuma kuumaa ja kylmä kylmää <app id="var6369" type="int">
+                    <rdg>vastaan!</rdg>
+                </app> Jos heti <app id="var6370" type="sub">
+                    <rdg>panet sormesi johonkin kuumaan,</rdg>
+                </app> niin <app id="var6371" type="sub">
+                    <rdg>saatat päästä</rdg>
+                </app> rakosta. Jos <app id="var6372" type="sub">
+                    <rdg>olet</rdg>
+                </app> hyvin <app id="var6373" type="sub">
+                    <rdg>palavissasi</rdg>
+                </app> ja <app id="var6374" type="sub">
+                    <rdg>juot</rdg>
+                </app> kylmää vettä <app id="var6375" type="sub">
+                    <rdg>tai jäähdyt</rdg>
+                </app> ilmassa, niin <app id="var6376" type="sub">
+                    <rdg>saatat vilustua</rdg>
+                </app> ja <app id="var6377" type="sub int">
+                    <rdg>sairastua. Kätesi, jalkasi</rdg>
+                </app> ja <app id="var6378" type="sub">
+                    <rdg>poskesi saatat</rdg>
+                </app> kylmänä <app id="var6379" type="sub int">
+                    <rdg>talvipäivänä palelluttaa,</rdg>
+                </app> niin että ne jähmettyvät ja tulevat valkeiksi ja <app id="var6380" type="sub">
+                    <rdg>tunnottomiksi.</rdg>
+                </app> Jos niitä silloin <app id="var6381" type="sub">
+                    <rdg>lämmität tulen paisteessa,</rdg>
+                </app> tulevat ne <app id="var6382" type="sub int">
+                    <rdg>kipeiksi</rdg>
+                </app> ja <app id="var6383" type="sub">
+                    <rdg>niihin saattaa tulla kovakin pakotus.</rdg>
+                </app> Näinpä kerran ukon kävelevän puujaloilla. Hän oli palelluttanut
+                jalkansa metsässä. Kotiin <app id="var6384" type="sub">
+                    <rdg>tultuaan hän</rdg>
+                </app> oli <app id="var6385" type="sub">
+                    <rdg><seg>lämmittänyt</seg></rdg>
+                </app> niitä <app id="var6386" type="sub">
+                    <rdg>tulen hohteessa,</rdg>
+                </app> ja <app id="var6387" type="sub">
+                    <rdg>silloin</rdg>
+                </app> tulivat <app id="var6388" type="sub">
+                    <rdg>kylmän</rdg>
+                </app> vihat <app id="var6389" type="sub int">
+                    <rdg>jalkoihin jotta</rdg>
+                </app> lääkärin täytyi sahata ne poikki. Mutta jos <app id="var6390" type="sub">
+                    <rdg>hyvin hierot</rdg>
+                </app> paleltunutta <app id="var6391" type="sub">
+                    <rdg>kättäsi, jalkaasi tai poskeasi</rdg>
+                </app> lumella, niin tulevat ne viimein <app id="var6392" type="sub">
+                    <rdg>terveiksi siitä. Näin saattaa herättää henkiin ihmisiäkin, joita
+                        pakkasen jähmetyttäminä</rdg>
+                </app> löydetään <app id="var6393" type="sub int">
+                    <rdg>metsistä tai maanteiltä. Saattaapa</rdg>
+                </app> niinkin <app id="var6394" type="sub">
+                    <rdg>tapahtua,</rdg>
+                </app> että <app id="var6395" type="sub">
+                    <rdg>he</rdg>
+                </app> ovat <pb type="orig" n="259"/>kokonaan <app id="var6396" type="sub int">
+                    <rdg>hengettömiksi paleltuneet. Samaten saattaa</rdg>
+                </app> kuolla tulesta <app id="var6397" type="sub">
+                    <rdg>tai</rdg>
+                </app> kovasta kuumuudesta.</p>
+            <p style="romanType"><app id="var6398" type="sub">
+                    <rdg>Ihmeellistä on nähdä,</rdg>
+                </app> kuinka kappale <app id="var6399" type="sub int">
+                    <rdg>suurenee kuumennettaessa</rdg>
+                </app> ja pienenee <app id="var6400" type="sub int">
+                    <rdg>jälleen <hi rend="expanded">jäähtyessänsä.</hi></rdg>
+                </app> Jos <app id="var6401" type="sub">
+                    <rdg>sinulla</rdg>
+                </app> on rautakanki, joka <app id="var6402" type="sub">
+                    <rdg>juuri <seg>sopii</seg></rdg>
+                </app> reikään, ja <app id="var6403" type="sub">
+                    <rdg>kuumennat kangen tuliseksi, niin</rdg>
+                </app> se <app id="var6404" type="sub">
+                    <rdg>ei <seg>mahdukaan</seg></rdg>
+                </app> enää samaan reikään, ennenkuin <app id="var6405" type="sub int">
+                    <rdg>se jälleen <seg>on</seg> jäähtynyt. Minkätähden</rdg>
+                </app> kuumentaa seppä <app id="var6406" type="sub int">
+                    <rdg>rautakiskon,</rdg>
+                </app> ennenkuin <app id="var6407" type="sub">
+                    <rdg>hän</rdg>
+                </app> sen <app id="var6408" type="sub int">
+                    <rdg>vetää pyörän kehän ympärille? Sentähden,</rdg>
+                </app> että <app id="var6409" type="sub">
+                    <rdg>pyörän kisko</rdg>
+                </app> kuumana on <app id="var6410" type="sub">
+                    <rdg>väljempi;</rdg>
+                </app> mutta <app id="var6411" type="sub">
+                    <rdg>jäähtyessään</rdg>
+                </app> kutistuu se <app id="var6412" type="sub">
+                    <rdg><seg>ja</seg></rdg>
+                </app> puristuu <app id="var6413" type="sub">
+                    <rdg>lujemmin kiinni pyörään. Minkätähden</rdg>
+                </app> nurkat <app id="var6414" type="sub int">
+                    <rdg>talvella paukkuvat? Sentähden, että</rdg>
+                </app> seinähirret halkeilevat, <app id="var6415" type="sub">
+                    <rdg>kun</rdg>
+                </app> on lämmin sisällä ja kylmä <app id="var6416" type="sub">
+                    <rdg>ulkona. Minkätähden</rdg>
+                </app> putoaa sormus <app id="var6417" type="sub">
+                    <rdg>sormestasi,</rdg>
+                </app> kun <app id="var6418" type="sub">
+                    <rdg>pistät kätesi</rdg>
+                </app> kylmään veteen? <app id="var6419" type="sub int">
+                    <rdg>Sentähden, että</rdg>
+                </app> sormi kutistuu enemmän kuin sormus. <app id="var6420" type="sub">
+                    <rdg>Minkätähden vedellä täytetyssä padassa</rdg>
+                </app> vesi <app id="var6421" type="sub int">
+                    <rdg>kuohuu yli laitojen? Sentähden, että</rdg>
+                </app> vesi <app id="var6422" type="sub int">
+                    <rdg>lämmöstä paisuu.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var6423" type="sub">
+                    <rdg>Minkätähden</rdg>
+                </app> siis <app id="var6424" type="sub">
+                    <rdg>vesi padassa</rdg>
+                </app> kiehuu? <app id="var6425" type="sub int">
+                    <rdg>Sentähden, että</rdg>
+                </app> kuuma vesi padan pohjalla <hi rend="expanded">kevenee,</hi> nousee
+                    <app id="var6426" type="sub">
+                    <rdg>pinnalle</rdg>
+                </app> ja <pb type="orig" n="260"/><app id="var6427" type="sub">
+                    <rdg>työntää</rdg>
+                </app> muun veden pois <app id="var6428" type="sub">
+                    <rdg>tieltään. Silloinpa padassa liikettä syntyy. Osa pohjalla olevaa
+                        vettä</rdg>
+                </app> tulee viimein niin kuumaksi, että se muuttuu <app id="var6429" type="sub">
+                    <rdg>höyryksi</rdg>
+                </app> ja nousee poreina eli kuplina ylöspäin. Jos tämä höyry <app id="var6430" type="sub">
+                    <rdg>johdetaan</rdg>
+                </app> kylmän putken lävitse, niin jäähtyy se ja <app id="var6431" type="sub">
+                    <rdg>muuttuu</rdg>
+                </app> jälleen vedeksi; ja <app id="var6432" type="sub">
+                    <rdg>näin <hi rend="expanded">puhdistetaan</hi></rdg>
+                </app> juoksevia aineita. Ja <app id="var6433" type="sub">
+                    <rdg>samaten</rdg>
+                </app> kuin lämmin vesi nousee ylöspäin padassa, <app id="var6434" type="sub">
+                    <rdg>samaten</rdg>
+                </app> nousee lämmin ilmakin <app id="var6435" type="sub int">
+                    <rdg>huoneessa ylöspäin.</rdg>
+                </app> Sen kyllä <app id="var6436" type="sub">
+                    <rdg>tunnet</rdg>
+                </app> saunan <app id="var6437" type="sub">
+                    <rdg>lauteilla.</rdg>
+                </app></p>
+            <p style="romanType">Mutta vaikka kaikki muut kappaleet <app id="var6438" type="sub int">
+                    <rdg>pakkasessa kutistuvat,</rdg>
+                </app> niin <app id="var6439" type="sub">
+                    <rdg>on veden laita ihan toisin. Se näet</rdg>
+                </app> paisuu <app id="var6440" type="sub int">
+                    <rdg>jääksi muuttuessansa.</rdg>
+                </app> Jos <app id="var6441" type="sub">
+                    <rdg>täytät pullon</rdg>
+                </app> vedellä ja <app id="var6442" type="sub">
+                    <rdg>panet</rdg>
+                </app> sen pakkaseen, niin <app id="var6443" type="sub int">
+                    <rdg>pullo särkyy.</rdg>
+                </app> Jos <app id="var6444" type="sub">
+                    <rdg>kaivat reiän</rdg>
+                </app> kiveen, <app id="var6445" type="sub">
+                    <rdg>täytät reiän</rdg>
+                </app> vedellä ja <app id="var6446" type="sub">
+                    <rdg>lyöt</rdg>
+                </app> tulpan sen suulle, niin kivi halkeaa, kun vesi <app id="var6447" type="sub">
+                    <rdg><seg>talvella</seg> jäätyy. Siitä syystä</rdg>
+                </app> on jää <app id="var6448" type="sub">
+                    <rdg>myöskin keveämpää</rdg>
+                </app> kuin vesi, ja pysyy veden <app id="var6449" type="sub">
+                    <rdg>pinnalla.</rdg>
+                </app> Jos jää painuisi pohjaan, niin ei se <app id="var6450" type="sub">
+                    <rdg>keväällä sulaisi, eikä yksikään eläin vedessä silloin</rdg>
+                </app> pysyisi <app id="var6451" type="sub int">
+                    <rdg>hengissä.</rdg>
+                </app></p>
+            <p style="romanType">Meillä oli tuvan <app id="var6452" type="sub">
+                    <rdg>vieressä</rdg>
+                </app> kylmä kamari, jota ei <app id="var6453" type="sub">
+                    <rdg>talvella pitkään</rdg>
+                </app> aikaan <app id="var6454" type="sub int">
+                    <rdg>oltu lämmitetty.</rdg>
+                </app> Siinä oli <app id="var6455" type="sub">
+                    <rdg>ilman kosteus</rdg>
+                </app> jäätynyt <app id="var6456" type="sub">
+                    <rdg>jääneuloiksi akkunanruutuihin.</rdg>
+                </app> Kun <app id="var6457" type="sub">
+                    <rdg>sitten <seg>teimme</seg> tulen</rdg>
+                </app> takkaan, <app id="var6458" type="sub">
+                    <rdg>havaitsimme</rdg>
+                </app> jään <app id="var6459" type="sub int">
+                    <rdg>tulta vastassa olevissa akkunanruuduissa <seg>alkavan</seg>
+                        sulaa.</rdg>
+                </app> Mutta samalla <app id="var6460" type="sub">
+                    <rdg><seg>oli</seg></rdg>
+                </app> lattialla takan ja akkunan välillä niin kylmä, että maito jäätyi
+                kupissa, jonka <app id="var6461" type="sub">
+                    <rdg>olin pannut</rdg>
+                </app> lattialle. <app id="var6462" type="sub int">
+                    <rdg>Minkätähden? Sentähden, että</rdg>
+                </app> tulesta <app id="var6463" type="sub int">
+                    <rdg>säteili lämpöä, joka sulatti ruutua,</rdg>
+                </app> mutta <app id="var6464" type="sub">
+                    <rdg>tulen</rdg>
+                </app> ja ruudun välillä oleva <app id="var6465" type="sub">
+                    <rdg>kylmä <seg>ilma</seg></rdg>
+                </app> lämpeni <app id="var6466" type="sub">
+                    <rdg>paljon</rdg>
+                </app> hitaammin.</p>
+            <p style="romanType"><app id="var6467" type="sub">
+                    <rdg>Lämpimien</rdg>
+                </app> auringon <app id="var6468" type="sub">
+                    <rdg>säteiden kulkiessa</rdg>
+                </app> ilman <app id="var6469" type="sub">
+                    <rdg>lävitse</rdg>
+                </app> ei ilma <app id="var6470" type="sub">
+                    <rdg>saa</rdg>
+                </app> niistä <app id="var6471" type="sub">
+                    <rdg>paljon lämpöä,</rdg>
+                </app> vaan maa <app id="var6472" type="sub">
+                    <rdg>saa enimmän osan. Sitten</rdg>
+                </app> lämmittää maa <app id="var6473" type="sub int">
+                    <rdg>lähinnä olevaa ilmaa</rdg>
+                </app> ja <app id="var6474" type="sub">
+                    <rdg>sen tähden</rdg>
+                </app> on ilma alhaalla maan pinnalla <app id="var6475" type="sub">
+                    <rdg>lämpimämpää</rdg>
+                </app> kuin <app id="var6476" type="sub">
+                    <rdg>korkeilla</rdg>
+                </app> vuorilla. <app id="var6477" type="sub">
+                    <rdg>Sen tähden</rdg>
+                </app> puhaltaakin toisia tuulia <app id="var6478" type="sub">
+                    <rdg>yläilmoissa,</rdg>
+                </app> ja <app id="var6479" type="sub">
+                    <rdg>näyttää</rdg>
+                </app> usein <app id="var6480" type="sub int">
+                    <rdg>siltä</rdg>
+                </app> kuin pilvet kulkisivat <app id="var6481" type="sub int">
+                    <rdg>vastatuuleen.</rdg>
+                </app> Jos <app id="var6482" type="sub">
+                    <rdg>nouset</rdg>
+                </app> hyvin korkealle vuorelle, <app id="var6483" type="sub">
+                    <rdg>tulet</rdg>
+                </app> viimein <app id="var6484" type="sub">
+                    <rdg>sellai<pb type="orig" n="261"/>seen paikkaan,</rdg>
+                </app> jossa lumi ei enää <app id="var6485" type="sub int">
+                    <rdg>kesälläkään sula,</rdg>
+                </app> ja sitä paikkaa <app id="var6486" type="sub">
+                    <rdg>sanotaan <hi rend="expanded">lumenrajaksi.</hi> Sitä korkeammalla
+                        eivät saata mitkään kasvit</rdg>
+                </app> menestyä; mutta <app id="var6487" type="sub int">
+                    <rdg>kaikista <seg>puista</seg> koivu</rdg>
+                </app> kasvaa <app id="var6488" type="sub">
+                    <rdg>lähinnä lumenrajaa.</rdg>
+                </app> Keskellä <app id="var6489" type="sub int">
+                    <rdg>maanpallon pintaa,</rdg>
+                </app> jossa <app id="var6490" type="sub">
+                    <rdg>ilma <seg>on</seg></rdg>
+                </app> lämpimin, on <app id="var6491" type="sub">
+                    <rdg>lumenraja hyvin korkealla,</rdg>
+                </app> mutta kaikkein kylmimmissä paikoissa on se <app id="var6492" type="sub">
+                    <rdg>ihan</rdg>
+                </app> maan <app id="var6493" type="sub">
+                    <rdg>pinnan tasalla.</rdg>
+                </app></p>
+            <p style="romanType">Oi Jumala, joka olet antanut silmillemme <app id="var6494" type="sub">
+                    <rdg>valon</rdg>
+                </app> ja ruumiillemme <app id="var6495" type="sub">
+                    <rdg>lämmön,</rdg>
+                </app> valaise sielummekin totuuden valolla, että mielemme <app id="var6496" type="sub int">
+                    <rdg><seg>lämpimästi</seg> harrastaisi kaikkea hyvää maailmassa!</rdg>
+                </app> Olemme lukeneet pyhässä <app id="var6497" type="sub int">
+                    <rdg>sanassasi, että Jeesus Kristus on totinen valkeus,</rdg>
+                </app> joka valaisee kaikki ihmiset. Anna meille siis armosi, ettemme
+                koskaan erkanisi Vapahtajastamme synnin teille; sillä siellä on pimeys ja
+                kylmyys, ja siellä sielumme paleltuu kuoleman varjossa. Mutta sinun tykönäsi
+                on armo ja <app id="var6498" type="sub">
+                    <rdg>iankaikkinen</rdg>
+                </app> kirkkaus, ja <app id="var6499" type="sub">
+                    <rdg>sinun <seg>valkeudessasi</seg></rdg>
+                </app> on meillä valkeus.</p>
+            <head style="romanType"><hi rend="bold">Magneetista ja kompassista.</hi></head>
+            <p style="romanType"><app id="var6500" type="sub">
+                    <rdg>Näinpä</rdg>
+                </app> kerran <app id="var6501" type="sub">
+                    <rdg>teräspalasen,</rdg>
+                </app> joka oli <app id="var6502" type="sub">
+                    <rdg>hevosen</rdg>
+                </app> kengän <app id="var6503" type="sub">
+                    <rdg>muotoinen,</rdg>
+                </app> ja sen <app id="var6504" type="sub">
+                    <rdg>haarukoista</rdg>
+                </app> riippui <app id="var6505" type="sub int">
+                    <rdg>rautakappale,</rdg>
+                </app> eikä näkynyt mitään, joka olisi sitä siinä <app id="var6506" type="sub">
+                    <rdg>kiinni <seg>pitänyt.</seg></rdg>
+                </app> Miten se <app id="var6507" type="sub">
+                    <rdg>on mahdollista?</rdg>
+                </app> Sen sanon <app id="var6508" type="sub">
+                    <rdg>nyt <seg>sinulle.</seg> Muutamilla</rdg>
+                </app> rauta- <app id="var6509" type="sub">
+                    <rdg>ja teräslajeilla</rdg>
+                </app> on <app id="var6510" type="sub">
+                    <rdg>merkillinen taipumus</rdg>
+                </app> vetää toista rautaa <app id="var6511" type="sub">
+                    <rdg>puoleensa</rdg>
+                </app> ja pitää sitä <app id="var6512" type="sub">
+                    <rdg>kiinni. Sellaista rautaa tai terästä sanotaan <hi rend="italics">magneetiksi,</hi></rdg>
+                </app> ja <app id="var6513" type="sub">
+                    <rdg>magneettiin saatat</rdg>
+                </app> panna <app id="var6514" type="sub">
+                    <rdg>monta leiviskää painoksi.</rdg>
+                </app> Jos <app id="var6515" type="sub">
+                    <rdg>tahdot tästä</rdg>
+                </app> tehdä <app id="var6516" type="sub">
+                    <rdg>leikkikalun,</rdg>
+                </app> niin <app id="var6517" type="sub">
+                    <rdg>leikkaa</rdg>
+                </app> korkista <app id="var6518" type="sub">
+                    <rdg>kalanmuotoinen kappale, pistä sen nokkaan pieni teräspuikko</rdg>
+                </app> ja <app id="var6519" type="sub">
+                    <rdg>pane se vesikuppiin uimaan.</rdg>
+                </app> Jos <app id="var6520" type="sub">
+                    <rdg>sinulla nyt</rdg>
+                </app> on <app id="var6521" type="sub">
+                    <rdg><seg>pieni</seg></rdg>
+                </app> ongenmuotoinen <app id="var6522" type="sub int">
+                    <rdg>magneetti</rdg>
+                </app> ja <app id="var6523" type="sub">
+                    <rdg>pidät</rdg>
+                </app> tätä vähän matkan päässä korkkikalasta, niin <app id="var6524" type="sub">
+                    <rdg>näet kalan uivan</rdg>
+                </app> ongen perässä, <app id="var6525" type="sub">
+                    <rdg>vedit</rdg>
+                </app> sitä <app id="var6526" type="sub">
+                    <rdg>minne päin tahansa. Saatat <pb type="orig" n="262"/>tehdä <hi rend="expanded">magneettiseksi</hi> esim. teräsneulan, joka ei
+                        ennestään ole magneettinen, siten, että sivelet sitä magneettiin.
+                        Jos sinulla on sellainen magneettineula ja sen kiinnität
+                        ympyriäiseen rasiaan, niin että se vapaasti ja putoamatta pääsee
+                        siinä pyörimään, niin saat nähdä jotakin kummallista. Käännä rasia
+                        miten tahansa, niin kääntyy neulan toinen kärki aina pohjoista
+                        kohti. Sellaista rasiaa sanotaan <hi rend="expanded">kompassiksi,</hi> ja tämän tuntevat kaikki merimiehet. Muinoin,
+                        jolloin ei kompassia tunnettu, ohjasivat aurinko ja tähdet
+                        merimiesten retkiä aavoilla merillä, joilla ei maata ole näkyvissä.
+                        Mutta nyt on paljoa varmempi laskea kompassin mukaan. Sillä jos vain
+                        tiedät, missä pohjoinen on, niin tiedät silloin muutkin
+                        ilmansuunnat.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType">Mikä vetää siis <app id="var6527" type="sub">
+                    <rdg>magneettineulan</rdg>
+                </app> kärkeä pohjoista kohti? <app id="var6528" type="sub">
+                    <rdg>Sitä vetää</rdg>
+                </app> maassa oleva salainen voima; mutta <app id="var6529" type="sub">
+                    <rdg>aina,</rdg>
+                </app> kun neula tulee <app id="var6530" type="sub int">
+                    <rdg>likelle rautaa, vetää tämäkin sitä puoleensa ja silloin</rdg>
+                </app> se <app id="var6531" type="sub">
+                    <rdg><seg>pyörii</seg> levotonna</rdg>
+                </app> sinne <app id="var6532" type="sub">
+                    <rdg><seg>tänne.</seg></rdg>
+                </app> Ja mitä se salainen voima on, jota <app id="var6533" type="sub">
+                    <rdg>sanotaan <hi rend="italics">magneettivoimaksi,</hi></rdg>
+                </app> sitä ei <app id="var6534" type="sub">
+                    <rdg><seg>kukaan</seg> varmuudella tiedä.</rdg>
+                </app> Se on <app id="var6535" type="sub">
+                    <rdg>niitä suuria luonnossa esiintyviä voimia joiksi</rdg>
+                </app> jo olemme <app id="var6536" type="sub">
+                    <rdg>oppineet</rdg>
+                </app> tuntemaan <app id="var6537" type="sub">
+                    <rdg>sähkön, valon</rdg>
+                </app> ja <app id="var6538" type="sub">
+                    <rdg>lämmön.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <pb type="orig" n="263"/>
+            <head style="romanType"><hi rend="bold">Revontulista.</hi></head>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var6539" type="sub">
+                    <rdg>Kylmänä syystai talvi-iltana</rdg>
+                </app> näemme <app id="var6540" type="sub">
+                    <rdg>pohjoisella taivaalla vaalean, leimuavan valon,</rdg>
+                </app> joka alinomaa <app id="var6541" type="sub">
+                    <rdg>vaihtelee. Milloin hulmahtelee</rdg>
+                </app> se säteinä, <app id="var6542" type="sub">
+                    <rdg>milloin</rdg>
+                </app> palaa se <app id="var6543" type="sub int">
+                    <rdg>suurina, muhkeina</rdg>
+                </app> kaarina; <app id="var6544" type="sub">
+                    <rdg>milloin se</rdg>
+                </app> on <app id="var6545" type="sub int">
+                    <rdg>valkea, milloin vaaleanpunainen; olet kuulevinasi</rdg>
+                </app> sen <app id="var6546" type="sub">
+                    <rdg><seg>sähisevän.</seg></rdg>
+                </app> Sitä <app id="var6547" type="sub">
+                    <rdg>sanotaan</rdg>
+                </app>
+                <hi rend="expanded">revontuliksi,</hi> ja <app id="var6548" type="sub">
+                    <rdg>se</rdg>
+                </app> on <app id="var6549" type="sub">
+                    <rdg>kaunis</rdg>
+                </app> ja <app id="var6550" type="sub">
+                    <rdg>juhlallinen näky.</rdg>
+                </app> Mutta mitä se on, sitä ei <app id="var6551" type="sub">
+                    <rdg>kukaan varmuudella tiedä.</rdg>
+                </app> Sen luullaan olevan <app id="var6552" type="sub int">
+                    <rdg>sähkövaloa,</rdg>
+                </app> joka <app id="var6553" type="sub">
+                    <rdg>ajoittain <seg>loistaa</seg></rdg>
+                </app> korkealla ilmassa. Ja revontulien palaessa tulee <app id="var6554" type="sub">
+                    <rdg>magneettineula <seg>aina</seg></rdg>
+                </app> levottomaksi.</p>
+            <head style="romanType"><hi rend="bold">Kiikarista eli </hi><app id="var6555" type="sub">
+                    <rdg><hi rend="bold">kaukoputkesta.</hi></rdg>
+                </app></head>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var6556" type="sub">
+                    <rdg>Suurennuslasi ja mikroskooppi tekevät</rdg>
+                </app> pienimmätkin kappaleet <app id="var6557" type="sub">
+                    <rdg>paljon suuremmiksi,</rdg>
+                </app> kuin ne <app id="var6558" type="sub">
+                    <rdg>todella</rdg>
+                </app> ovatkaan. <app id="var6559" type="sub">
+                    <rdg>Katsoessasi niillä</rdg>
+                </app> on kirppu rotan kokoinen, ja <app id="var6560" type="sub">
+                    <rdg>vesipisarassa näet</rdg>
+                </app> mahdottoman <app id="var6561" type="sub">
+                    <rdg>paljon</rdg>
+                </app> pieniä <app id="var6562" type="sub">
+                    <rdg>eläimiä,</rdg>
+                </app> joita <app id="var6563" type="sub">
+                    <rdg>et saata <pb type="orig" n="264"/>paljain silmin</rdg>
+                </app> ollenkaan <app id="var6564" type="sub int">
+                    <rdg>erottaa.</rdg>
+                </app> Kiikarilla <app id="var6565" type="sub">
+                    <rdg>katsellessasi näet etäiset</rdg>
+                </app> kappaleet <app id="var6566" type="sub">
+                    <rdg>lähempänä. Rannalta näet</rdg>
+                </app> pienen mustan <app id="var6567" type="sub">
+                    <rdg>pisteen kaukana</rdg>
+                </app> merellä, <app id="var6568" type="sub">
+                    <rdg>mutta</rdg>
+                </app> jos <app id="var6569" type="sub">
+                    <rdg>ojennat</rdg>
+                </app> kiikarin <app id="var6570" type="sub">
+                    <rdg>pistettä</rdg>
+                </app> kohti, niin <app id="var6571" type="sub">
+                    <rdg>huomaat</rdg>
+                </app> sen <app id="var6572" type="sub int">
+                    <rdg>saareksi tai laivaksi tai suureksi kiveksi.</rdg>
+                </app> Kaukana maantiellä <app id="var6573" type="sub">
+                    <rdg>näet</rdg>
+                </app> jotakin liikkuvan; <app id="var6574" type="sub int">
+                    <rdg>jos silloin katsot kiikarilla, niin näet</rdg>
+                </app> selvästi pojan <app id="var6575" type="sub">
+                    <rdg>siellä ratsastavan tai tyttösen</rdg>
+                </app> ajavan lehmiä laitumelle. <app id="var6576" type="sub">
+                    <rdg>Jos otat</rdg>
+                </app> suuren kiikarin ja <app id="var6577" type="sub">
+                    <rdg>ojennat</rdg>
+                </app> sen illalla kuuta <app id="var6578" type="sub int">
+                    <rdg>kohti, niin kuu silloin</rdg>
+                </app> näyttää <app id="var6579" type="sub">
+                    <rdg>sangen <seg>kummalliselta</seg></rdg>
+                </app> ja <app id="var6580" type="sub">
+                    <rdg>vaununpyörän</rdg>
+                </app> kokoiselta. <app id="var6581" type="sub">
+                    <rdg>Taikka</rdg>
+                </app> jos <app id="var6582" type="sub int">
+                    <rdg><seg>sillä</seg> katsot tähtiä, niin näet</rdg>
+                </app> monta tähteä, joita <app id="var6583" type="sub">
+                    <rdg>et</rdg>
+                </app> ennen <app id="var6584" type="sub">
+                    <rdg>ole <seg>paljain</seg></rdg>
+                </app> silmin nähnyt.</p>
+            <figure type="illustration"/>
+            <head style="romanType"><anchor id="struct204a"/><hi rend="bold">Lämpömittarista.</hi><anchor id="struct204b"/></head>
+            <p style="romanType">Usein tahdon <app id="var6585" type="sub int">
+                    <rdg>tarkoin tietää,</rdg>
+                </app> kuinka lämmin on huoneessa ja ulkona. <app id="var6586" type="sub">
+                    <rdg>Siksi</rdg>
+                </app> on minulla <app id="var6587" type="sub">
+                    <rdg>koje,</rdg>
+                </app> jota <app id="var6588" type="sub int">
+                    <rdg>sanotaan <hi rend="expanded">lämpömittariksi</hi></rdg>
+                </app> ja jonka näet <app id="var6589" type="sub">
+                    <rdg>tähän</rdg>
+                </app> kuvattuna. Se on <app id="var6590" type="sub">
+                    <rdg>perin näppärätekoinen. Kaluseppä on ensiksi sulkenut
+                        elohopeaa</rdg>
+                </app> pieneen <app id="var6591" type="sub int">
+                    <rdg>lasiputkeen,</rdg>
+                </app> jonka alapäässä on onsi <app id="var6592" type="sub">
+                    <rdg>pallo.</rdg>
+                </app> Hän tietää <app id="var6593" type="sub">
+                    <rdg>elohopean</rdg>
+                </app> ja muiden <app id="var6594" type="sub">
+                    <rdg>aineitten</rdg>
+                </app> paisuvan lämpimässä ja kutistuvan <app id="var6595" type="sub">
+                    <rdg>pakkasessa.</rdg>
+                </app> Hän <app id="var6596" type="sub">
+                    <rdg>sovittaa sitten lasiputken messinkilevyyn</rdg>
+                </app> ja <app id="var6597" type="sub">
+                    <rdg>panee ne yhdessä</rdg>
+                </app> sulavaan lumeen. <app id="var6598" type="sub">
+                    <rdg>Elohopea</rdg>
+                </app> kutistuu kokoon <app id="var6599" type="sub int">
+                    <rdg>putkessa. No,</rdg>
+                </app> hyvä, sanoo <app id="var6600" type="sub">
+                    <rdg>kaluseppä, nyt piirrän</rdg>
+                </app> pillissä olevan <app id="var6601" type="sub">
+                    <rdg>elohopean tasalle messinkilevyyn viivan,</rdg>
+                </app> ja sen <app id="var6602" type="sub">
+                    <rdg>kohdan</rdg>
+                </app> nimitän <app id="var6603" type="sub">
+                    <rdg><hi rend="expanded">jäätymäkohdaksi,</hi></rdg>
+                </app> sillä niin kylmä <app id="var6604" type="sub int">
+                    <rdg>on veden jäätyessä. Sille kohdalle</rdg>
+                </app> piirtää hän <app id="var6605" type="sub int">
+                    <rdg>0 (nollan). Sitten hän</rdg>
+                </app> panee <app id="var6606" type="sub">
+                    <rdg>lasiputken <seg>kiehuvaan</seg></rdg>
+                </app> veteen. Elohopea <app id="var6607" type="sub">
+                    <rdg>laajenee</rdg>
+                </app> ja nousee <app id="var6608" type="sub">
+                    <rdg>lasiputkessa.</rdg>
+                </app>
+                <pb type="orig" n="265"/>Hyvä, sanoo <app id="var6609" type="sub int">
+                    <rdg>kaluseppä,</rdg>
+                </app> piirränpä tuohon <app id="var6610" type="sub">
+                    <rdg>samanlaisen viivan,</rdg>
+                </app> ja sen nimitän <app id="var6611" type="sub int">
+                    <rdg><hi rend="expanded">kiehumakohdaksi,</hi> sillä niin lämmin on
+                        veden kiehuessa, ja tähän kirjoitan 100. — Sitten</rdg>
+                </app> jakaa hän levyn <app id="var6612" type="sub">
+                    <rdg>jäätymäkohdan</rdg>
+                </app> ja <app id="var6613" type="sub">
+                    <rdg>kiehumakohdan</rdg>
+                </app> välillä <app id="var6614" type="sub">
+                    <rdg>100:aan yhtä suureen</rdg>
+                </app> osaan. Näitä <app id="var6615" type="sub">
+                    <rdg>nimittää</rdg>
+                </app> hän <app id="var6616" type="sub">
+                    <rdg><hi rend="expanded">asteiksi</hi></rdg>
+                </app> ja merkitsee ne numeroilla. <app id="var6617" type="sub">
+                    <rdg>Jäätymäkohdan alapuolelle</rdg>
+                </app> tekee hän <app id="var6618" type="sub">
+                    <rdg>myöskin</rdg>
+                </app> yhtä <app id="var6619" type="sub">
+                    <rdg>suuria asteita.</rdg>
+                </app> Kun <app id="var6620" type="sub">
+                    <rdg>elohopea</rdg>
+                </app> on ylempänä <app id="var6621" type="sub">
+                    <rdg>jäätymäkohtaa, laskee</rdg>
+                </app> hän sen korkeuden messinkilevyssä olevain <app id="var6622" type="sub">
+                    <rdg>viivain mukaan</rdg>
+                </app> ja sanoo: nyt on niin ja niin <app id="var6623" type="sub">
+                    <rdg>monta astetta lämmintä.</rdg>
+                </app> Mutta jos <app id="var6624" type="sub">
+                    <rdg>elohopea</rdg>
+                </app> on <app id="var6625" type="sub int">
+                    <rdg>jäätymäkohtaa alempana, sanoo hän:</rdg>
+                </app> nyt on niin ja niin <app id="var6626" type="sub">
+                    <rdg>monta astetta kylmää. Mutta</rdg>
+                </app> 40 <app id="var6627" type="sub">
+                    <rdg>astetta alemmaksi</rdg>
+                </app> ei <app id="var6628" type="sub int">
+                    <rdg>elohopea <seg>voi</seg> laskeutua,</rdg>
+                </app> sillä silloin <app id="var6629" type="sub int">
+                    <rdg>se <seg>jäätyy</seg> kovaksi möhkäleeksi.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <pb type="orig" n="266"/>
+            <p style="romanType"><app id="var6630" type="sub">
+                    <rdg>Lämpömittarin avulla</rdg>
+                </app> tiedämme <app id="var6631" type="sub">
+                    <rdg>ruumiimme lämmön</rdg>
+                </app> olevan 37 <app id="var6632" type="sub int">
+                    <rdg>astetta.</rdg>
+                </app> Kun ilma <app id="var6633" type="sub">
+                    <rdg>kesällä <seg>tuntuu</seg></rdg>
+                </app> hyvin <app id="var6634" type="sub int">
+                    <rdg>kuumalta, osoittaa</rdg>
+                </app> lämpömittari 30 <app id="var6635" type="sub">
+                    <rdg>astetta</rdg>
+                </app> varjossa. Harvoin on talvella 40 <app id="var6636" type="sub">
+                    <rdg>astetta pakkasta.</rdg>
+                </app></p>
+            <p style="romanType">Ja jos jolloinkin kuulet <app id="var6637" type="sub">
+                    <rdg>puhuttavan</rdg>
+                </app>
+                <hi rend="expanded">ilmapuntarista,</hi> niin <app id="var6638" type="sub">
+                    <rdg>älä</rdg>
+                </app> luule sen olevan saman kuin lämpömittarin. Ilmapuntari on <app id="var6639" type="sub">
+                    <rdg>toisenlainen koje.</rdg>
+                </app> Se on <app id="var6640" type="sub int">
+                    <rdg>niin laitettu,</rdg>
+                </app> että ilma painaa <app id="var6641" type="sub int">
+                    <rdg>elohopeata pitkässä lasiputkessa enemmän tai vähemmän
+                        ylöspäin.</rdg>
+                </app> Ja siitä ennustetaan sadetta <app id="var6642" type="sub">
+                    <rdg>tai</rdg>
+                </app> kaunista ilmaa, <app id="var6643" type="sub">
+                    <rdg>sillä</rdg>
+                </app> kostea <app id="var6644" type="sub">
+                    <rdg>ilma</rdg>
+                </app> painaa <app id="var6645" type="sub">
+                    <rdg>toisella tavalla,</rdg>
+                </app> kuin kuiva <app id="var6646" type="sub">
+                    <rdg>ilma. Tai on se myöskin niin tehty, että ilma painaa ilmattoman
+                        laatikon kantta. Ja silloin voidaan herkän kannen liikkeistä, jotka
+                        vaikuttavat kiertyvään viisariin, määrätä ilman paine.</rdg>
+                </app></p>
+            <pb type="orig" n="267"/>
+            <head><anchor id="struct206a"/>
+                <anchor id="struct206b"/></head>
+            <head style="romanType"><anchor id="struct207a"/><hi rend="bold">Sunnuntai-aamu.</hi><anchor id="struct207b"/></head>
+            <figure type="illustration"/>
+        </body>
+    </text>
+</TEI>
