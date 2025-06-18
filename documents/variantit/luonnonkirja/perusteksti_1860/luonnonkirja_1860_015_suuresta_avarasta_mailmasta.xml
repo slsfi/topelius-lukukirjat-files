@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1860). Luku 15, varianttikoodattu (perusteksti)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+            <head type="section" style="blackletter"><anchor id="struct219a"/><hi rend="bold">Viidestoista Luku.</hi></head>
+            <head type="section" style="romanType"><hi rend="expanded">Suuresta avarasta mailmasta.</hi><anchor id="struct219b"/></head>
+            <p style="romanType">Tässä kirjassa olemme nähneet <app id="var6976">
+                    <lem>kaksi lasta</lem>
+                </app> tutkivan Jumalan luotuja kappaleita. Antti oli pojan ja Liisa tytön
+                nimi. <app id="var6977">
+                    <lem>Nämäpä menivät syys-iltana</lem>
+                </app> isänsä kanssa ulos. Ilma oli selkeä, mutta <app id="var6978">
+                    <lem>kylmällainen. Tyven ja hiljaisuus</lem>
+                </app> oli <app id="var6979">
+                    <lem>ulkona. Tummansinisenä, korkeana,</lem>
+                </app> juhlallisena <app id="var6980">
+                    <lem>ja kupevana oli taivas lasten</lem>
+                </app> pään päällä. Sen <app id="var6981">
+                    <lem>kupeva puolisko<choice>
+                            <orig>,</orig>
+                        </choice></lem>
+                </app><choice>
+                    <orig/>
+                    <reg/>
+                </choice> oli <app id="var6982">
+                    <lem>kuin suulleen käännetty malja ja</lem>
+                </app> loisti <app id="var6983">
+                    <lem>lukemattomilla tähdillä niin kauvas kuin silmä voi kantaa.</lem>
+                </app> Tämä oli juhlallista ja hyvin kaunista. <app id="var6984">
+                    <lem>Molemmat lapset luulivat olevansa aivan pienet</lem>
+                </app> Jumalan edessä.</p>
+            <p style="romanType">Mutta <app id="var6985">
+                    <lem>katseltuaan ympärillensä</lem>
+                </app> luulivat he seisovansa keskellä <app id="var6986">
+                    <lem>suurta ontta</lem>
+                </app> palloa. Antti <app id="var6987">
+                    <lem>sanoi, piamite hämmästyksellä: kah,</lem>
+                </app> nyt seisomme keskellä <app id="var6988">
+                    <lem>mailmaa!</lem>
+                </app></p>
+            <p style="romanType">Isä sanoi: <app id="var6989">
+                    <lem>kaikkein silmissä</lem>
+                </app> näyttää <app id="var6990">
+                    <lem>se siltä.</lem>
+                </app> Jumala on tällä tahtonut <app id="var6991">
+                    <lem>osottaa,</lem>
+                </app> että hän on asettanut <app id="var6992">
+                    <lem>ihmiset</lem>
+                </app> kauniin <app id="var6993">
+                    <lem>luodun mailmansa</lem>
+                </app> keskustaan. Kun koko <app id="var6994">
+                    <lem>mailma kaunioittaa Jumalaa, kuinka paljo</lem>
+                </app> eikö <app id="var6995">
+                    <lem>ihmisen sitte tulisi</lem>
+                </app> kunnioittaa <app id="var6996">
+                    <lem>Luojaansa,</lem>
+                </app> joka on <app id="var6997">
+                    <lem>asettanut hänet</lem>
+                </app> keskelle <app id="var6998">
+                    <lem>mailmaa! Kaikkea, mitä huomaitsemme aistimillamme: kaikkea,
+                        mitä</lem>
+                </app> näemme, kuulemme, <app id="var6999">
+                    <lem>maistamme, haistamme</lem>
+                </app> ja tunnemme, sitä <app id="var7000">
+                    <lem>kaikkea kutsumme</lem></app> <hi rend="expanded">luonnoksi</hi><note id="ftn4" n="*)" place="foot"><hi rend="expanded">Muistutus:</hi> Luonnon erilaiset aineet
+                    <app id="var7001">
+                    <lem>tottelevat vissejä</lem>
+                </app> määrättyjä <hi rend="expanded">luonnonlakeja.</hi> Näiden lakien oppia <app id="var7002">
+                    <lem>kutsutaan <hi rend="expanded">luonnon-opiksi,</hi></lem>
+                </app> ja niitä, joilla <app id="var7003"><lem>ovat</lem>
+                </app> suuret tiedot <app id="var7004">
+                    <lem>näistä asioista, kutsutaan <hi rend="expanded">luonnon-oppineiksi.</hi></lem>
+                </app></note>. Mutta sitä <app id="var7005">
+                    <lem>loppumatointa,</lem>
+                </app> jota ei yksikään <pb type="orig" n="195"/>silmä <app id="var7006">
+                    <lem>näe, ei</lem>
+                </app> korva kuule, vaikka se on <app id="var7007">
+                    <lem>ihmisessä</lem>
+                </app> ja <app id="var7008">
+                    <lem>mailmassa,</lem>
+                </app> sitä <app id="var7009">
+                    <lem>kutsutaan</lem>
+                </app>
+                <hi rend="expanded">hengeksi.</hi> Luonto on katoavainen, mutta henki on
+                    <app id="var7010">
+                    <lem>katoamatoin.</lem>
+                </app> Ja <app id="var7011">
+                    <lem>molemmissa</lem>
+                </app> on <app id="var7012">
+                    <lem>Jumala kaikkivaltias,</lem>
+                </app> joka kaikki kaikissa vaikuttaa.</p>
+            <p style="romanType">Aurinkoa, kuuta ja tähtiä, jotka <app id="var7013">
+                    <lem>taivaalta paistavat meille, kutsutaan <hi rend="expanded"
+                            >taivaan-kappaleiksi.</hi></lem>
+                </app> Ovatko ne <app id="var7014">
+                    <lem>kiini</lem>
+                </app> taivaan katossa? <app id="var7015">
+                    <lem>Eivät,</lem>
+                </app> ne liikkuvat kaikki <app id="var7016">
+                    <lem>suunnattoman suurissa piireissä mailman</lem>
+                </app> avaruudessa. Kuinka ne liikkuvat? Sen sanon <app id="var7017">
+                    <lem>sinulle.</lem>
+                </app> Olemme nähneet, kuinka kummallisesti maa <app id="var7018">
+                    <lem>painovoimalla</lem>
+                </app> vetää <app id="var7019">
+                    <lem>itseensä kaikki.</lem>
+                </app> Jos tätä voimaa ei olisi, putoaisi <app id="var7020">
+                    <lem>kaikki tyyni pois</lem>
+                </app> maan <app id="var7021">
+                    <lem>pinnalta,</lem>
+                </app> ja me itsekin mennä hurahtaisimme äärettömään <choice>
+                    <orig/>
+                </choice><app id="var7022">
+                    <lem><choice>
+                            <orig>avaruutnen</orig>
+                            <reg>avaruuteen</reg>
+                        </choice>.</lem>
+                </app> Mutta ei <app id="var7023">
+                    <lem>ole se ainoastaan maa, joka vetää kaikki itseensä,</lem>
+                </app> vaan aurinko, kuu ja kaikki tähdet tekevät samoin, kukin <app
+                    id="var7024">
+                    <lem>niistä suuruutensa jälkeen.</lem>
+                </app> Jos nyt painovoima <app id="var7025">
+                    <lem>olisi ainoasti vallassa mailmassa, vetäisivätpä</lem>
+                </app> suuret <app id="var7026">
+                    <lem>taivaan-kappaleet</lem>
+                </app> pienemmät <app id="var7027">
+                    <lem>itseensä.</lem>
+                </app> Maa lentäisi <app id="var7028">
+                    <lem>aurinkohon,</lem>
+                </app> ja kuu putoaisi maahan. <app id="var7029">
+                    <lem>Siksi</lem>
+                </app> on Jumala pannut <app id="var7030">
+                    <lem>kappaleisin</lem>
+                </app> toisen voiman, jonka heti saat <app id="var7031">
+                    <lem>nähdä. Otappa</lem>
+                </app> vanne ja pane sen sisäpuolelle litteä kivi. Heiluta <app id="var7032">
+                    <lem>vannetta sukkelasti ympäriinsä. Ei kivi sentähden</lem>
+                </app> putoa pois; <app id="var7033">
+                    <lem>heiluttaessa saapi</lem>
+                </app> se vauhdin ulospäin, niin että se pysyy <app id="var7034">
+                    <lem>kiini,</lem>
+                </app> vaikka luulisi sen putoavan <app id="var7035">
+                    <lem>pois vanteesta.</lem>
+                </app> Jos <app id="var7036">
+                    <lem>otan sinun käsivarsistasi kiini</lem>
+                </app> ja pyöritän <app id="var7037">
+                    <lem>sinua ympäri,</lem>
+                </app> niin lentävät jalkasi ulospäin. Jos <app id="var7038">
+                    <lem>ratsastan hevoisella ympyrään,</lem>
+                </app> täytyy <app id="var7039">
+                    <lem>minun kumartua sisällepäin,</lem>
+                </app> muutoin <app id="var7040">
+                    <lem>putoan hevoisen</lem>
+                </app> selästä. Ja jos <app id="var7041">
+                    <lem>käännän rekeä yhtäkkiä, niin kiepsahtaa</lem>
+                </app> se ulospäin. <app id="var7042">
+                    <lem>Miksikä niin? Se tulee <hi rend="expanded"
+                        >pyörimä-voimasta,</hi></lem>
+                </app> joka tahtoo <app id="var7043">
+                    <lem>juurikuin</lem>
+                </app> lennättää ulospäin kaikkea, <app id="var7044">
+                    <lem>jota sukkelasti pyöritetään. Tuo suuri</lem>
+                </app> aurinko vetää siis <app id="var7045">
+                    <lem>maatamme itseensä painovoimalla,</lem>
+                </app> ja maa vetää <app id="var7046">
+                    <lem>itseensä</lem>
+                </app> kuuta. Mutta samassa <app id="var7047">
+                    <lem>vetää pyörimä-voima</lem>
+                </app> maata ja kuuta ulospäin. <app id="var7048">
+                    <lem>Näiden molempain voimain näin yht’aikaa vastapainossa ollen,</lem>
+                </app> ovat ne <app id="var7049">
+                    <lem>tasapainoisina; yksi vetää ulospäin ja</lem>
+                </app> toi<pb type="orig" n="196"/>nen <app id="var7050">
+                    <lem>sisällepäin, ja niin</lem>
+                </app> pakottavat <app id="var7051">
+                    <lem>ne</lem>
+                </app> kuun <app id="var7052">
+                    <lem>juoksemaan kiehkurapiirissä</lem>
+                </app> maan ympäri. Ja <app id="var7053">
+                    <lem>juuri niin</lem>
+                </app> on <app id="var7054">
+                    <lem>se yleesensä laajassa mailman</lem>
+                </app> avaruudessa. Suuremmat <app id="var7055">
+                    <lem>taivaan kappaleet</lem>
+                </app> vetävät <app id="var7056">
+                    <lem>pienempiä</lem>
+                </app> eivätkä päästä niitä irti; pienemmät <app id="var7057">
+                    <lem>juurikuin pyrkisivät</lem>
+                </app> niistä <app id="var7058">
+                    <lem>irtautua</lem>
+                </app> vapaiksi, mutta eivät pääse <app id="var7059">
+                    <lem>pois,</lem>
+                </app> eivätkä <app id="var7060">
+                    <lem>putoa isompain päälle.</lem>
+                </app> Niin <app id="var7061">
+                    <lem>juoksee</lem>
+                </app> aurinko, maa, kuu ja kaikki tähdet <app id="var7062">
+                    <lem>alinomaa suurissa kiehkurapiireissä,</lem>
+                </app> pienemmät isompain ympäri.</p>
+            <p style="romanType">Jos <app id="var7063">
+                    <lem>kulen veneessä,</lem>
+                </app> näyttää <app id="var7064">
+                    <lem>minusta ranta juuri kuin</lem>
+                </app> juoksevan <app id="var7065">
+                    <lem>sivu, ja</lem>
+                </app> vene näyttää olevan yhdessä kohden. <app id="var7066">
+                    <lem>Samalla lailla</lem>
+                </app> tuntuu meistä <app id="var7067">
+                    <lem>tämäkin</lem>
+                </app> suuri <app id="var7068">
+                    <lem>maa</lem>
+                </app> olevan yhdessä <app id="var7069">
+                    <lem>kohden</lem>
+                </app> ja koko taivaan <app id="var7070">
+                    <lem>piiri liikkuvan ympäri</lem>
+                </app> meitä. Mutta maa <app id="var7071">
+                    <lem>menee</lem>
+                </app> eteenpäin <app id="var7072">
+                    <lem>hirveää</lem>
+                </app> vauhtia <app id="var7073">
+                    <lem>mailman</lem>
+                </app> avaruudessa, <app id="var7074">
+                    <lem>lähes kolme peninkulmaa</lem>
+                </app> sekunnissa, <app id="var7075">
+                    <lem>jona</lem>
+                </app> kello <app id="var7076">
+                    <lem>kerran napsahtaa.</lem>
+                </app> Ja <app id="var7077">
+                    <lem>tässä liikkuu maa kolmella tavalla.</lem>
+                </app> Ensiksikin <app id="var7078">
+                    <lem>pyörii se ympäriinsä, samassa</lem>
+                </app> kulkee se auringon <app id="var7079">
+                    <lem>ympäri ja samassa</lem>
+                </app> seuraa se aurinkoa eteenpäin avaruudessa. Siitä <app id="var7080">
+                    <lem>tulee päivä</lem>
+                </app> ja <app id="var7081">
+                    <lem>yö ja</lem>
+                </app> vuodet ja <app id="var7082">
+                    <lem>vuoden ajat ja paljo</lem>
+                </app> muuta, <app id="var7083">
+                    <lem>jota kerron sinulle.</lem>
+                </app></p>
+            <p style="romanType"><app id="var7084">
+                    <lem>Nakkaanpa pallin</lem>
+                </app> ilmaan. <app id="var7085">
+                    <lem>Sepä</lem>
+                </app> pyörii <app id="var7086">
+                    <lem>ympäri,</lem>
+                </app> niin <app id="var7087">
+                    <lem>että,</lem>
+                </app> jos <app id="var7088">
+                    <lem>pistän sukkatikun</lem>
+                </app> sen <app id="var7089">
+                    <lem><hi rend="expanded">keskustan</hi> läpi,</lem>
+                </app> se <app id="var7090">
+                    <lem>pyörii tikun ympäri, juurikuin</lem>
+                </app> ratas pyörii akselinsa ympäri. Niin pyörii maakin <app id="var7091">
+                    <lem>ympäriinsä.</lem>
+                </app> Jos <app id="var7092">
+                    <lem>minulla</lem>
+                </app> olisi niin pitkä <app id="var7093">
+                    <lem>sukkatikku,</lem>
+                </app> että <app id="var7094">
+                    <lem>voisin pistää sen läpi</lem>
+                </app> maan <app id="var7095">
+                    <lem>keskustan,</lem>
+                </app> niin olisi <app id="var7096">
+                    <lem>tikku <hi rend="expanded">maan akselina,</hi></lem>
+                </app> jonka ympäri <app id="var7097">
+                    <lem>se</lem>
+                </app> pyörii. Ja molempia <app id="var7098">
+                    <lem>tikun</lem>
+                </app> päitä <app id="var7099">
+                    <lem>kutsuisin</lem>
+                </app>
+                <hi rend="expanded">maan navoiksi: pohjoisnavaksi ja </hi><app id="var7100">
+                    <lem><hi rend="expanded">etelä-navaksi.</hi></lem>
+                </app> Ei maan <app id="var7101">
+                    <lem>läpi</lem>
+                </app> ole pistettynä sellaista <app id="var7102">
+                    <lem>tikkua,</lem>
+                </app> mutta <app id="var7103">
+                    <lem>niin ajattelen, että se on sillä lailla.</lem>
+                </app></p>
+            <p style="romanType">Jos <app id="var7104">
+                    <lem>olisi</lem>
+                </app> taikinaa <app id="var7105">
+                    <lem>eli</lem>
+                </app> jotakin <app id="var7106">
+                    <lem>pehmeää</lem>
+                </app> ainetta, ja se saisi pyöriä <app id="var7107">
+                    <lem>akselinsa ympäri</lem>
+                </app> ilmassa, niin se pyöriessään muodostuisi pyöreäksi <app id="var7108">
+                    <lem>palliksi, mutta vähä tasausi</lem>
+                </app> napainsa <app id="var7109">
+                    <lem>kohdassa.</lem>
+                </app> Sillä lailla on maakin <app id="var7110">
+                    <lem>pyöristynyt</lem>
+                </app> palloksi ja <app id="var7111">
+                    <lem>tasaunut vähä</lem>
+                </app> napainsa <app id="var7112">
+                    <lem>kohdassa.</lem>
+                </app> Sillä <pb type="orig" n="197"/>alussa on maa ollut <app id="var7113">
+                    <lem>tulisen kuuma</lem>
+                </app> ja <app id="var7114">
+                    <lem>pehmeä</lem>
+                </app> niinkuin taikina, vaikka se sittemmin on <app id="var7115">
+                    <lem>päältäpäin jäähtynyt ja kuoreunut kovaksi.</lem>
+                </app> Luultavasti on niin käynyt <app id="var7116">
+                    <lem>kaikkein taivaan kappaletten kanssa,</lem>
+                </app> sillä kaikki <app id="var7117">
+                    <lem>ovat ne</lem>
+                </app> pyöreitä kuin pallo. <app id="var7118">
+                    <lem>Ei se tee mitään, jos täällä on vuoria</lem>
+                </app> ja <app id="var7119">
+                    <lem>laksoja</lem>
+                </app> maan <app id="var7120">
+                    <lem>päällä;</lem>
+                </app> kyllä pallo on <app id="var7121">
+                    <lem>sentähden pyöreä, jos</lem>
+                </app> sen pinnalle <app id="var7122">
+                    <lem>pannaan hietamuruinen.</lem>
+                </app> Ja <app id="var7123">
+                    <lem>meistä näyttää, missä seisomme,</lem>
+                </app> maa <app id="var7124">
+                    <lem>olevan tasanen</lem>
+                </app> kuin hyrrä <app id="var7125">
+                    <lem>eli</lem>
+                </app> pyöreä <app id="var7126">
+                    <lem>kuin pannukakku.</lem>
+                </app> Mutta <app id="var7127">
+                    <lem>siksi on se niin, että me</lem>
+                </app> näemme <app id="var7128">
+                    <lem>aivan</lem>
+                </app> pienen osan <app id="var7129">
+                    <lem>maasta</lem>
+                </app> sen pyöreän piirin <app id="var7130">
+                    <lem>sisällä,</lem>
+                </app> jota <app id="var7131">
+                    <lem>kutsumme <hi rend="expanded">taivaan ranteeksi</hi></lem>
+                </app> eli <hi rend="expanded">näköpiiriksi.</hi> Havaittuamme laivan
+                kaukana <app id="var7132">
+                    <lem>merellä,</lem>
+                </app> näemme <app id="var7133">
+                    <lem>siitä ensin ainoasti mastoin huiput, ennenkuin</lem>
+                </app> näemme <app id="var7134">
+                    <lem>koko laivaa,</lem>
+                </app> ja <app id="var7135">
+                    <lem>se tulee</lem>
+                </app> siitä, että <app id="var7136">
+                    <lem>meren pinta, juurikuin</lem>
+                </app> maakin, on vähän kupera ja estää laivan näkymästä. Setäni, joka oli
+                merimies, <app id="var7137">
+                    <lem>on</lem>
+                </app> purjehtinut laivalla <app id="var7138">
+                    <lem>ympäri koko maan,</lem>
+                </app> ja hän näytti minulle <app id="var7139">
+                    <lem>paperista</lem>
+                </app> tehdyn pallon, jota hän <app id="var7140">
+                    <lem>kutsui <hi rend="expanded">maapalloksi</hi></lem>
+                </app> ja johon koko maa oli <app id="var7141">
+                    <lem>kuvattu niin pyöreäksi,</lem>
+                </app> kuin se onkin. Kun hän näytti minulle sitä paikkaa, jossa me <app
+                    id="var7142">
+                    <lem>asuimme,</lem>
+                </app> ja <app id="var7143">
+                    <lem>puhui ihmisten</lem>
+                </app> asuvan toisella <app id="var7144">
+                    <lem>puolella maapalloa</lem>
+                </app> aivan jalkaimme alla, <app id="var7145">
+                    <lem>enpä <choice>
+                            <orig>tähtonut</orig>
+                            <reg>tahtonut</reg>
+                        </choice></lem>
+                </app><choice>
+                    <reg/>
+                </choice> ensin uskoa häntä. Luulin <app id="var7146">
+                    <lem>niiden</lem>
+                </app> ihmisraukkain seisovan <app id="var7147">
+                    <lem>päällään</lem>
+                </app> ja välttämättömästi putoavan pois, jos ei heillä <app id="var7148">
+                    <lem>ole</lem>
+                </app> jotakin <app id="var7149">
+                    <lem>jaloissa kiini pitämässä,</lem>
+                </app> niinkuin kärpäsillä katossa. Mutta <app id="var7150">
+                    <lem>muistin painovoiman</lem>
+                </app> ja <app id="var7151">
+                    <lem>niin ymmärsin niiden ihmisten täytyvän kävellä</lem>
+                </app> yhtä vakavasti jaloillaan kuin <app id="var7152">
+                    <lem>meidänkin.</lem>
+                </app></p>
+            <p style="romanType"><app id="var7153">
+                    <lem>Sanommehan joka päivä:</lem>
+                </app> aurinko <app id="var7154">
+                    <lem>nousee;</lem>
+                </app> aurinko <app id="var7155">
+                    <lem>laskeupi.</lem>
+                </app> Mutta <app id="var7156">
+                    <lem>ei se ole aurinko, joka nousee ja laskeupi, se on maa, joka
+                        juhlallisesti</lem>
+                </app> pyörii lännestä itäänpäin. Ja sen <app id="var7157">
+                    <lem>jälkeen</lem>
+                </app> kuin se kääntyy ja me sen <app id="var7158">
+                    <lem>muassa,</lem>
+                </app> alamme me <app id="var7159">
+                    <lem><hi rend="expanded">aamulla</hi> nähdä</lem>
+                </app> auringon <app id="var7160">
+                    <lem>idässä</lem>
+                </app> ja <app id="var7161">
+                    <lem>sitte</lem>
+                </app>
+                <hi rend="expanded">puolenpäivän</hi> aikana <app id="var7162">
+                    <lem>korkeimmallaan</lem>
+                </app> taivaalla etelässä, siksi <app id="var7163">
+                    <lem>kuin</lem>
+                </app> me ja maa jälleen käännymme siitä pois, ja <app id="var7164">
+                    <lem>silloin vaipuu aurinko</lem>
+                </app> pois <app id="var7165">
+                    <lem>silmistämme länteen <hi rend="expanded">illalla.</hi>
+                        <pb type="orig" n="198"/>Niinkauvan</lem>
+                </app> kuin aurinko valaisee <app id="var7166">
+                    <lem>sen paikan maata,</lem>
+                </app> jossa me asumme, on <app id="var7167">
+                    <lem><hi rend="expanded">päivää;</hi></lem>
+                </app> ja <app id="var7168">
+                    <lem>kuin</lem>
+                </app> tämä paikka kääntyy pois auringosta, tulee <app id="var7169">
+                    <lem>pimeä</lem>
+                </app> ja <hi rend="expanded">yö.</hi> Päivä ja yö yhteensä on <hi
+                    rend="expanded">vuorokausi.</hi>
+                <app id="var7170">
+                    <lem>Siinä</lem>
+                </app> on kulunut 24 <app id="var7171">
+                    <lem>tiimaa,</lem>
+                </app> ja <app id="var7172">
+                    <lem>sillä ajalla</lem>
+                </app> on <app id="var7173">
+                    <lem>maa kääntynyt</lem>
+                </app> kerran akselinsa ympäri. <app id="var7174">
+                    <lem>Tiima jaetaan</lem>
+                </app> 60 <app id="var7175">
+                    <lem><hi rend="expanded">minuutiin</hi></lem>
+                </app> ja <app id="var7176">
+                    <lem>minuuti</lem>
+                </app> 60 <hi rend="expanded">sekuntiin.</hi> Sitä varten on laitettu kello,
+                jossa <app id="var7177">
+                    <lem>tiima-viisari näyttää</lem>
+                </app> kaksitoista <app id="var7178">
+                    <lem>tiimaa jokaisessa</lem>
+                </app> puolessa vuorokaudessa. Mutta seitsemän vuorokautta <app id="var7179">
+                    <lem>tekee yhteensä <hi rend="expanded">viikon,</hi> joka</lem>
+                </app> alkaa <app id="var7180">
+                    <lem>sunnuntaina ja</lem>
+                </app> on pyhitetty Jumalan <app id="var7181">
+                    <lem>palvelukselle. Sitte</lem>
+                </app> seuraa kuusi työpäivää: maanantai, tiistai, keskiviikko, torstai,
+                perjantai ja <app id="var7182">
+                    <lem>lauvantai.</lem>
+                </app></p>
+            <p style="romanType">Kyllä <app id="var7183">
+                    <lem>meistä</lem>
+                </app> on <app id="var7184">
+                    <lem>maa</lem>
+                </app> hirmuisen suuri. <app id="var7185">
+                    <lem>Keskipaikasta ympäri mitaten on se 3,750 (kolmetuhatta
+                        seitsemänsataa viisikymmentä) Suomen peninkulmaa.</lem>
+                </app> Tiedämme jo sen olevan <app id="var7186">
+                    <lem>kaksitoista sataa peninkulmaa keskustan läpi mitaten.</lem>
+                </app> Mutta aurinko on kuitenkin <app id="var7187">
+                    <lem>paljoa suurempi.</lem>
+                </app> Jos <app id="var7188">
+                    <lem>sulaasimme</lem>
+                </app> yhteen <app id="var7189">
+                    <lem>1,400,000 (miljonan ja neljäsataa tuhatta) samallaista</lem>
+                </app> palloa kuin maa on, niin tulisi niistä kaikista yhteensä <app
+                    id="var7190">
+                    <lem>niin suuri kuin aurinko on.</lem>
+                </app> Ja jos <app id="var7191">
+                    <lem>panen</lem>
+                </app> neulan nupin suuren <app id="var7192">
+                    <lem>nauriin</lem>
+                </app> viereen, <app id="var7193">
+                    <lem>saatan verrata</lem>
+                </app> neulan <app id="var7194">
+                    <lem>nupin olevan maan</lem>
+                </app> ja <app id="var7195">
+                    <lem>nauriin auringon. Siksi</lem>
+                </app> vetää aurinko maata <app id="var7196">
+                    <lem>itseensä,</lem>
+                </app> vaikka se on <app id="var7197">
+                    <lem>niin kaukana siitä. Juurikuin pallikin</lem>
+                </app> kulkee eteenpäin samalla kuin se pyörii <app id="var7198">
+                    <lem>ympäri,</lem>
+                </app> niin <app id="var7199">
+                    <lem>liikkuu myös</lem>
+                </app> koko tämä suuri maakin <app id="var7200">
+                    <lem>samalla ympäriinsä,</lem>
+                </app> kuin se kulkee auringon ympäri. <app id="var7201">
+                    <lem>Se on pitkä matka, joka maalla</lem>
+                </app> on <app id="var7202">
+                    <lem>auringon ympäri kulettavana: aina 88 miljonaa peninkulmaa.</lem>
+                </app> 365 <app id="var7203">
+                    <lem>(kolmessasadassa kuudessakymmenessä viidessä) päivässä ja piamite
+                        kuudessa tiimassa siihen lisäksi, on</lem>
+                </app> maa <app id="var7204">
+                    <lem>kulkenut</lem>
+                </app> koko tämän pitkän <app id="var7205">
+                    <lem>piirin,</lem>
+                </app> ja sitä aikaa <app id="var7206">
+                    <lem>kutsumme</lem>
+                </app>
+                <hi rend="expanded">vuodeksi.</hi> Sataa vuotta <app id="var7207">
+                    <lem>kutsutaan</lem>
+                </app>
+                <hi rend="expanded">vuosisadaksi.</hi> Mutta kun ne <app id="var7208">
+                    <lem>kuusi tiimaa</lem>
+                </app> tulevat siihen lisäksi, niin säästämme ne <app id="var7209">
+                    <lem>yhteen</lem>
+                </app> ja <app id="var7210">
+                    <lem>panemme</lem>
+                </app> joka neljänteen vuoteen <app id="var7211">
+                    <lem>päivän lisäksi.</lem>
+                </app> Sellaista vuotta <app id="var7212">
+                    <lem>kutsumme <hi rend="expanded">karkaus-vuodeksi.</hi>
+                        <pb type="orig" n="199"/>Tasavamman</lem>
+                </app> laskun vuoksi ja’amme vuoden kahteentoista kuukauteen, vaikka <app
+                    id="var7213">
+                    <lem>sitä pitäisi</lem>
+                </app> olla <app id="var7214">
+                    <lem>enemmänkin;</lem>
+                </app> sillä kuukaudeksi <app id="var7215">
+                    <lem>kutsutaan</lem>
+                </app> sitä aikaa, jonka kuu tarvitsee maan ympäri <app id="var7216">
+                    <lem>kulkeissaan,</lem>
+                </app> ja <app id="var7217">
+                    <lem>siinä</lem>
+                </app> kuluu 29 ja puoli päivää. Mitkä ovat siis kuukaudet? Ne <app
+                    id="var7218">
+                    <lem>ovat</lem>
+                </app> tammikuu, helmikuu, maaliskuu, huhtikuu, toukokuu, kesäkuu, heinäkuu,
+                elokuu, syyskuu, lokakuu, marraskuu, joulukuu. Ja koska <app id="var7219">
+                    <lem>ei kaikissa</lem>
+                </app> ole yhtä monta päivää, niin tulee <app id="var7220">
+                    <lem>muistaaksesi</lem>
+                </app> seuraava <app id="var7221">
+                    <lem>värsy:</lem>
+                </app></p>
+            <lg>
+                <l style="romanType"><anchor id="struct223a"/>Kolmekymmentä on
+                    syyskuussa,</l>
+                <l style="romanType">Marras-, huhti- ja kesäkuussa.</l>
+                <l style="romanType">Kahdeksankolmatta helmikuussa,</l>
+                <l style="romanType">Kolmekymmentä yksi on muissa.<anchor id="struct223b"
+                    /></l>
+            </lg>
+            <lg>
+                <anchor id="struct224a"/>
+                <anchor id="struct224b"/>
+            </lg>
+            <p style="romanType">Tuossa on palava kynttilä; <app id="var7222">
+                    <lem>pidämme sitä aurinkona. Otanpa kerän</lem>
+                </app> ja <app id="var7223">
+                    <lem>pistän sukkatikun</lem>
+                </app> sen <app id="var7224">
+                    <lem>läpitse;</lem>
+                </app> kerä on <app id="var7225">
+                    <lem>maa,</lem>
+                </app> ja <app id="var7226">
+                    <lem>tikku on</lem>
+                </app> sen <app id="var7227">
+                    <lem>akseli. Asetanpa tikun seisomaan vähä</lem>
+                </app> vinoon ja <app id="var7228">
+                    <lem>kuletan</lem>
+                </app> sitä ja kerää <app id="var7229">
+                    <lem>tällä kannalla ympäri kynttilää. Kun</lem>
+                </app> nyt samassa <app id="var7230">
+                    <lem>pyöritän</lem>
+                </app> kerää akselinsa ympäri, <app id="var7231">
+                    <lem>saanpa</lem>
+                </app> nähdä, kuinka päivä ja yö <app id="var7232">
+                    <lem>muuttelevat maan päällä. Näen senkin, että,</lem>
+                </app> kun meillä on päivä, on <app id="var7233">
+                    <lem>ihmisillä toisella puolella</lem>
+                </app> yö; ja niin täytyy <app id="var7234">
+                    <lem>kaikkein kelloin</lem>
+                </app> käydä sitä enemmän edellä, jota <app id="var7235">
+                    <lem>etempänä asutaan idässä päin,</lem>
+                </app> koska aurinko siellä <app id="var7236">
+                    <lem>ennen</lem>
+                </app> tulee <app id="var7237">
+                    <lem>näkösälle. Näen</lem>
+                </app> senkin, <app id="var7238">
+                    <lem>kun</lem>
+                </app> maa vinossa <app id="var7239">
+                    <lem>kulkee</lem>
+                </app> auringon ympäri, <app id="var7240">
+                    <lem>siitä että aurinko vissillä ajalla</lem>
+                </app> enemmän <app id="var7241">
+                    <lem>paistaa</lem>
+                </app> maan <app id="var7242">
+                    <lem>pohjoiseen puoleen,</lem>
+                </app> ja <app id="var7243">
+                    <lem>taas jälleen vissillä ajalla</lem>
+                </app> enemmän <app id="var7244">
+                    <lem>eteläiseen puoleen. Tästä syystä tulevat <hi rend="expanded">vuoden-ajat.</hi> Auringon lämpimimmästi paistaessa</lem>
+                </app> pohjoiseen, jossa me asumme, on meillä kesä, ja <app id="var7245">
+                    <lem>talvi</lem>
+                </app> on <app id="var7246">
+                    <lem>silloin etelä-puolella maata.</lem>
+                </app> Ja <app id="var7247">
+                    <lem>taas, kun</lem>
+                </app> eteläisillä kansoilla on kesä, on meillä talvi. Ja <app id="var7248">
+                    <lem>kun</lem>
+                </app> meillä on <app id="var7249">
+                    <lem>kevä,</lem>
+                </app> on <app id="var7250">
+                    <lem>niillä</lem>
+                </app> syksy. Samasta syystä, <app id="var7251">
+                    <lem>aina sen mukaan kuin</lem>
+                </app> aurinko <app id="var7252">
+                    <lem>paistaa enemmän eli</lem>
+                </app> vähemmän <app id="var7253">
+                    <lem>sille paikalle, jossa</lem>
+                </app> asumme, eivät <app id="var7254">
+                    <lem>päivät</lem>
+                </app> ole yhtä pitkiä. Lyhyin päivä täällä pohjoisessa on <app id="var7255">
+                    <lem>aina kohta</lem>
+                </app> jou<pb type="orig" n="200"/>lun edellä. Silloin on aurinko <app
+                    id="var7256">
+                    <lem>aivan</lem>
+                </app> matalalla <app id="var7257">
+                    <lem>taivaalla ja laskeupi pian.</lem>
+                </app> Pohjoisnavan tienoilla on silloin <app id="var7258">
+                    <lem>alinomainen pimeys,</lem>
+                </app> ja <app id="var7259">
+                    <lem>etelä-navan</lem>
+                </app> tienoilla <app id="var7260">
+                    <lem>alinomainen valosa</lem>
+                </app> päivä. Ja koska aurinko silloin noin <app id="var7261">
+                    <lem>kolme päivää</lem>
+                </app> paistaa yhtä <app id="var7262">
+                    <lem>kauvan joka päivä, kutsumme</lem>
+                </app> näitä päiviä <app id="var7263">
+                    <lem><hi rend="expanded">talvipäivän-seisaukseksi.</hi></lem>
+                </app> Silloin on <app id="var7264">
+                    <lem>pakkaista</lem>
+                </app> ja lunta ja <app id="var7265">
+                    <lem>talvi meillä,</lem>
+                </app> niin että mielellään lämmittelee <app id="var7266">
+                    <lem>valkealekolla.</lem>
+                </app></p>
+            <p style="romanType">Kohta joulun jälkeen havaitsemme päiväin pitenevän ja
+                öitten lyhenevän. <app id="var7267">
+                    <lem>Jonkun ajan näin pitkitettyä,</lem>
+                </app> tulee päivä <app id="var7268">
+                    <lem>aivan</lem>
+                </app> yhtä pitkäksi <app id="var7269">
+                    <lem>yön kanssa,</lem>
+                </app> ja tätä aikaa <app id="var7270">
+                    <lem>kutsutaan <hi rend="expanded">keväpäivän-tasaukseksi.</hi></lem>
+                </app> Silloin tulee <app id="var7271">
+                    <lem><hi rend="expanded">kevä,</hi> hanget</lem>
+                </app> sulavat ja ruoho alkaa viheriöidä. Päivät alkavat nyt tulla öitä
+                pitemmiksi, ja <app id="var7272">
+                    <lem>niin</lem>
+                </app> tulee aika, <app id="var7273">
+                    <lem>jona</lem>
+                </app> aurinko kolmena <app id="var7274">
+                    <lem>päivänä</lem>
+                </app> juhannuksen <app id="var7275">
+                    <lem>aikana</lem>
+                </app> on ainoastaan vähän aikaa <app id="var7276">
+                    <lem>keski-yönä</lem>
+                </app> kateissa. <app id="var7277">
+                    <lem>Ylempänä pohjoisessa päin</lem>
+                </app> ei aurinko <app id="var7278">
+                    <lem>ollenkaan laskeu öillä.</lem>
+                </app> Silloin on meillä <app id="var7279">
+                    <lem><hi rend="expanded">kesäpäivän-seisaus.</hi></lem>
+                </app> Ja <app id="var7280">
+                    <lem>nyt</lem>
+                </app> kukoistaa kaunis kesä ympärillämme. <app id="var7281">
+                    <lem>Sitte alkaavat</lem>
+                </app> päivät jälleen lyhetä ja yöt <app id="var7282">
+                    <lem>pitetä,</lem>
+                </app> siksi <app id="var7283">
+                    <lem>että</lem>
+                </app> päivä ja yö <app id="var7284">
+                    <lem>ovat taas</lem>
+                </app> yhtä pitkät, ja silloin on meillä <app id="var7285">
+                    <lem><hi rend="expanded">syyspäivän-tasaus</hi>. Sitte seuraa</lem>
+                </app>
+                <hi rend="expanded">syksy,</hi>
+                <app id="var7286">
+                    <lem>kun</lem>
+                </app> heinät <app id="var7287">
+                    <lem>ovat korjatut</lem>
+                </app> niityiltä ja elot <app id="var7288">
+                    <lem>pelloilta,</lem>
+                </app> ja <app id="var7289">
+                    <lem>puolat</lem>
+                </app> kypsyvät metsissä. <app id="var7290">
+                    <lem>Tänä aikana</lem>
+                </app> lakastuu kaikki kukoistus, sillä nyt tulevat päivät jälleen öitä <app
+                    id="var7291">
+                    <lem>lyhyemmiksi,</lem>
+                </app> ja niin tulee taas <app id="var7292">
+                    <lem>talvi;</lem>
+                </app> ja <app id="var7293">
+                    <lem>niin</lem>
+                </app> on koko elämämme alinomaisen muutoksen alainen. Mutta niillä, jotka
+                asuvat <app id="var7294">
+                    <lem>keskipaikalla maata,</lem>
+                </app> ovat päivät ja yöt <app id="var7295">
+                    <lem>alinomaa</lem>
+                </app> yhtä <app id="var7296">
+                    <lem>pitkiä.</lem>
+                </app> Siellä nousee aurinko kello <app id="var7297">
+                    <lem>kuuden aikana aamulla</lem>
+                </app> ja <app id="var7298">
+                    <lem>laskeupi</lem>
+                </app> kello <app id="var7299">
+                    <lem>kuuden aikana illalla;</lem>
+                </app> ja kohta auringon <app id="var7300">
+                    <lem>laskeuttua</lem>
+                </app> tulee synkkä <app id="var7301">
+                    <lem>pimeä.</lem>
+                </app> Mutta meillä on aina <app id="var7302">
+                    <lem>kappale</lem>
+                </app> aikaa hämärää, ja <app id="var7303">
+                    <lem>siksi tulee</lem>
+                </app> aamuhämärä <app id="var7304">
+                    <lem>kesällä niin</lem>
+                </app> pian <app id="var7305">
+                    <lem>iltahämärän perästä,</lem>
+                </app> että yöt <app id="var7306">
+                    <lem>ovat jonkun aikaa pian</lem>
+                </app> aivan <app id="var7307">
+                    <lem>valosat.</lem>
+                </app></p>
+            <p style="romanType">Setäni, <app id="var7308">
+                    <lem>joka</lem>
+                </app> on <app id="var7309">
+                    <lem>merimies, oli kerran</lem>
+                </app> ollut <app id="var7310">
+                    <lem>muutamassa</lem>
+                </app> maassa, jossa ei koskaan ollut talvea. Se maa <pb type="orig" n="201"
+                />oli etelässä <app id="var7311">
+                    <lem>aivan kaukana meistä,</lem>
+                </app> ja se oli <app id="var7312">
+                    <lem>juuri kuin</lem>
+                </app> keskellä maata. Siellä <app id="var7313">
+                    <lem>olevilla</lem>
+                </app> ihmisillä ei ole <app id="var7314">
+                    <lem>ollenkaan vuoden aikoja</lem>
+                </app> vaan <app id="var7315">
+                    <lem>alinomainen</lem>
+                </app> kesä ja kova kuumuus, niin että kasvit kyllä <app id="var7316">
+                    <lem>voivat</lem>
+                </app> lakastua <app id="var7317">
+                    <lem>kuivuudesta,</lem>
+                </app> mutta <app id="var7318">
+                    <lem>eivät kylmästä.</lem>
+                </app> Muutamana <app id="var7319">
+                    <lem>aikana vuodesta</lem>
+                </app> sataa siellä <app id="var7320">
+                    <lem>pian alinomaa kahtena kuukautena,</lem>
+                </app> ja se on <app id="var7321">
+                    <lem>niiden talvi. Samalla lailla</lem>
+                </app> ei ole <app id="var7322">
+                    <lem>vuodenajan muutoksia maan navoilla,</lem>
+                </app> vaan <app id="var7323">
+                    <lem>on alinomainen</lem>
+                </app> talvi, ja <app id="var7324">
+                    <lem>siksi</lem>
+                </app> eivät <app id="var7325">
+                    <lem>ihmiset voi asua siellä. Kyllä</lem>
+                </app> siellä on puoli vuotta <app id="var7326">
+                    <lem>päivää, niinkuin</lem>
+                </app> puoli vuotta yötä; mutta <app id="var7327">
+                    <lem>auringon säteet,</lem>
+                </app> jotka <app id="var7328">
+                    <lem>paistavat</lem>
+                </app> aivan <app id="var7329">
+                    <lem>pystösuoraan maata vasten maan keskustalla</lem>
+                </app> (päiväntasaajan kohdalla), <app id="var7330">
+                    <lem>paistavat</lem>
+                </app> niin <app id="var7331">
+                    <lem>vinoon</lem>
+                </app> maan <app id="var7332">
+                    <lem>navoille,</lem>
+                </app> etteivät voi <app id="var7333">
+                    <lem>sulata ijäistä</lem>
+                </app> lunta.</p>
+            <p style="romanType">Nyt <app id="var7334">
+                    <lem>ymmärtänet, kuinka erilaisilla paikoilla</lem>
+                </app> maan päällä saattaa olla erilainen <app id="var7335">
+                    <lem><hi rend="expanded">ilma;</hi></lem>
+                </app> niin että <app id="var7336">
+                    <lem>keskimaan paikoilla</lem>
+                </app> on lämpimämpi <app id="var7337">
+                    <lem>ilma,</lem>
+                </app> kuin <app id="var7338">
+                    <lem>mailla etempänä etelässä</lem>
+                </app> ja <app id="var7339">
+                    <lem>pohjoisessa. Se tulee siitä, kuinka likellä maannapaa eli kuinka
+                        kaukana päiväntasaajasta paikka on,</lem>
+                </app> mutta <app id="var7340">
+                    <lem>vielä siitäkin, jos maa on korkeammalla eli matalammalla
+                        ylöspäin</lem>
+                </app> meren <app id="var7341">
+                    <lem>pinnasta.</lem>
+                </app> Korkeampi maa on aina <app id="var7342">
+                    <lem>kylmempi,</lem>
+                </app> kuin alhaisempi maa. Jos <app id="var7343">
+                    <lem>asun</lem>
+                </app> meren <app id="var7344">
+                    <lem>rannalla,</lem>
+                </app> niin <app id="var7345">
+                    <lem>siinä on kostea ilma.</lem>
+                </app> Ei <app id="var7346">
+                    <lem>siinä</lem>
+                </app> ole niin <app id="var7347">
+                    <lem>pikaisia lämpimän</lem>
+                </app> ja kylmän <app id="var7348">
+                    <lem>muutoksiakaan,</lem>
+                </app> kuin etempänä <app id="var7349">
+                    <lem>ylhäällä mannermaissa.</lem>
+                </app></p>
+            <p style="romanType"><app id="var7350">
+                    <lem>Puhuisin</lem>
+                </app> sinulle vielä jotakin niistä pitkistä viivoista, joita näet <app
+                    id="var7351">
+                    <lem>mailman-kartalla,</lem>
+                </app> mutta sitä <app id="var7352">
+                    <lem>et sinä</lem>
+                </app> vielä ymmärrä. Sen verran sanon sinulle, että <app id="var7353">
+                    <lem>viiva,</lem>
+                </app> joka ajatellaan vedetyksi ympäri maan <app id="var7354">
+                    <lem>keskustan</lem>
+                </app> (vaikka sitä ei siinä ole), on <hi rend="expanded"
+                    >päiväntasaaja.</hi>
+                <app id="var7355">
+                    <lem>Tämän molemmin</lem>
+                </app> puolin <app id="var7356">
+                    <lem>on</lem>
+                </app> kaksi <app id="var7357">
+                    <lem>samallaista linjaa,</lem>
+                </app> joita <app id="var7358">
+                    <lem>kutsutaan päivän<hi rend="expanded">palaus-piiriksi,</hi> eikä
+                        kaukana kummastakaan maan-navasta ole ne</lem>
+                </app> kaksi <app id="var7359">
+                    <lem>piirua,</lem>
+                </app> joita <app id="var7360">
+                    <lem>kutsutaan <hi rend="expanded">napapiiriksi.</hi> Maat molempain
+                        päivänpalaus-piirien välillä</lem>
+                </app> ovat kuumimpia maan päällä ja <app id="var7361">
+                    <lem>kutsutaan siis</lem>
+                </app>
+                <hi rend="expanded">kuumaksi </hi><app id="var7362">
+                    <lem><hi rend="expanded">ilma-alaksi.</hi> Maita
+                        päivänpalauspiirien</lem>
+                </app> ja napapiirien <app id="var7363">
+                    <lem>välillä kut<pb type="orig" n="202"/>sutaan <hi rend="expanded"
+                            >lauhkeaksi ilma-alaksi,</hi> joka merkitsee pakkasen</lem>
+                </app> ja <app id="var7364">
+                    <lem>lämpimän olevan kohtuullisesti tasattuna erinäisille
+                        vuoden-ajoille.</lem>
+                </app> Mutta <app id="var7365">
+                    <lem>maita napapiirien</lem>
+                </app> ja napain <app id="var7366">
+                    <lem>välillä kutsutaan <hi rend="expanded">kylmäksi ilma-alaksi.</hi>
+                        Suomemme</lem>
+                </app> on lauhkeassa <app id="var7367">
+                    <lem>ilma-alassa,</lem>
+                </app> mutta kuitenkin niin kaukana pohjoisessa, että <app id="var7368">
+                    <lem>palanen</lem>
+                </app> maata on <app id="var7369">
+                    <lem>pohjoispuolella napapiiriä.</lem>
+                </app> Jumala on suonut tälle maalle ja koko <app id="var7370">
+                    <lem>pohjoiselle</lem>
+                </app> enemmän valoa kuin <app id="var7371">
+                    <lem>pimeää. Juuri sekin aika, jona on pimeys, paistaa yön kuuvalo</lem>
+                </app> ja <app id="var7372">
+                    <lem>ilman revontulet</lem>
+                </app> ja lumen <app id="var7373">
+                    <lem>kuumotus,</lem>
+                </app> niin että <app id="var7374">
+                    <lem>se pitkä</lem>
+                </app> talvi kuluu hiljalleen loppuun <app id="var7375">
+                    <lem>asti, kevättä odottaessa.</lem>
+                </app></p>
+            <head style="romanType"><hi rend="bold"><hi rend="expanded">Kuusta.</hi></hi></head>
+            <p style="romanType">Jumala on <app id="var7376">
+                    <lem>antanut meille kauniin lyhdyn yöksi tuonne</lem>
+                </app> taivaalle, ja se on kuu. Mikä on kuu? Se on <app id="var7377">
+                    <lem>suuri</lem>
+                </app> pallo, joka <app id="var7378">
+                    <lem>alinomaa vierii</lem>
+                </app> maan ympäri. <app id="var7379">
+                    <lem>Miksikä tekee se niin? Siksi</lem>
+                </app> että maa on <app id="var7380">
+                    <lem>viittäkymmentä</lem>
+                </app> kertaa <app id="var7381">
+                    <lem>suurempi,</lem>
+                </app> ja <app id="var7382">
+                    <lem>siksi</lem>
+                </app> pakottaa <app id="var7383">
+                    <lem>hän kuuta</lem>
+                </app> seuraamaan itseänsä. <app id="var7384">
+                    <lem>Pitkältäkö</lem>
+                </app> kuuhun <app id="var7385">
+                    <lem>on? Liki 36,000</lem>
+                </app> (kolmekymmentä <app id="var7386">
+                    <lem>kuusituhatta) peninkulmaa.</lem>
+                </app> Se on pitkä matka. Ja kuitenkin on kuu kaikista taivaankappaleista
+                    <app id="var7387">
+                    <lem>se, joka on likinnä maata.</lem>
+                </app></p>
+            <p style="romanType"><app id="var7388">
+                    <lem>Miksikä</lem>
+                </app> näyttää <app id="var7389">
+                    <lem>kuu niin suurelta, kun se ensin nousee?</lem>
+                </app> Ja <app id="var7390">
+                    <lem>miksi</lem>
+                </app> näyttää se niin pieneltä <app id="var7391">
+                    <lem>ollessaan korkealla taivaalla. Siksi</lem>
+                </app> että <app id="var7392">
+                    <lem>kaikki, mitä näemme kaukana ylhäällä tahi alhaalla,</lem>
+                </app> näyttää <app id="var7393">
+                    <lem>pienemmällä kuin mitä katsomme sivultapäin.</lem>
+                </app> Mutta <app id="var7394">
+                    <lem>ei se paista</lem>
+                </app> omalla valollaan. Se <app id="var7395">
+                    <lem>on juurikuin maakin itsestään</lem>
+                </app> pimeä kappale. <app id="var7396">
+                    <lem>Mistä paistaa</lem>
+                </app> siis <app id="var7397">
+                    <lem>kuu? Siitä</lem>
+                </app> että auringon säteet <app id="var7398">
+                    <lem>palauvat takasi</lem>
+                </app> sen <app id="var7399">
+                    <lem>pinnasta</lem>
+                </app> ja <app id="var7400">
+                    <lem>tulevat takasi maan päälle, juurikuin valon <choice>
+                            <orig>sääteet</orig>
+                            <reg>säteet</reg>
+                        </choice></lem>
+                </app><choice>
+                    <reg/>
+                </choice> vuoren kukkulalta. Jos voisimme <app id="var7401">
+                    <lem>tulla</lem>
+                </app> kuuhun, niin näkisimme sieltä maan <app id="var7402">
+                    <lem>paistavan</lem>
+                </app> samalla lailla. Maa, joka on <app id="var7403">
+                    <lem>paljoa</lem>
+                </app> suurempi, <app id="var7404">
+                    <lem>lienee kaunis kuusta.</lem>
+                </app> Sieltä <app id="var7405">
+                    <lem>katsoen</lem>
+                </app> näkisi <app id="var7406">
+                    <lem>juurikuin</lem>
+                </app> tummia <app id="var7407">
+                    <lem>paikkoja paistavassa maassa,</lem>
+                </app> ja nämä <app id="var7408">
+                    <lem>paikat</lem>
+                </app> ovat <app id="var7409">
+                    <lem>nurmi-maita, joista valo vähimmän kirkkaana palaa takasi.</lem>
+                </app> Ja <app id="var7410">
+                    <lem>muutamat</lem>
+                </app> paikat <app id="var7411">
+                    <lem>maasta paistaisivat kirkkaimpina,</lem>
+                </app> niinkuin vuoret ja jär<pb type="orig" n="203"/>vet, jotka <app
+                    id="var7412">
+                    <lem>kiiltelevät</lem>
+                </app> ja <app id="var7413">
+                    <lem>kimmouttavat paljo valoa takasi. Samalla lailla</lem>
+                </app> näkyy tummia ja <app id="var7414">
+                    <lem>valosia</lem>
+                </app> paikkoja <app id="var7415">
+                    <lem>kuussa. Vanha satu juttelee Rahko nimisen miehen yrittäneen
+                        tervaamaan kuuta</lem>
+                </app> ja <app id="var7416">
+                    <lem>tarttuneen ämpärinensä siihen, josta muka tummemmat paikat olisivat
+                        tulleet kuuhun; mutta tietävät</lem>
+                </app> ihmiset sanovat: <app id="var7417">
+                    <lem>kirkkaat</lem>
+                </app> paikat ovat korkeita vuoria, ja tummemmat paikat ovat syviä <app
+                    id="var7418">
+                    <lem>laksoja.</lem>
+                </app></p>
+            <p style="romanType"><app id="var7419">
+                    <lem>Se on kummaa, kun</lem>
+                </app> kuu aina kääntää saman <app id="var7420">
+                    <lem>sivun maahan päin,</lem>
+                </app> ja <app id="var7421">
+                    <lem>toista sivua</lem>
+                </app> emme <app id="var7422">
+                    <lem>näekkään.</lem>
+                </app> Mutta aurinko paistaa kuuhun <app id="var7423">
+                    <lem>visseinä</lem>
+                </app> aikoina eri lailla. <app id="var7424">
+                    <lem>Tästä tulee, ettemme ollenkaan</lem>
+                </app> näe kuuta <app id="var7425">
+                    <lem>joka aika kuukaudessa, eli se siintää ainoastaan</lem>
+                </app> hyvin hämärästi. Sen jälkeen <app id="var7426">
+                    <lem>alkaa se</lem>
+                </app> näkyä, ja silloin sanomme: nyt on <app id="var7427">
+                    <lem><hi rend="expanded">uusi kuu.</hi></lem>
+                </app> 7 päivän <app id="var7428">
+                    <lem>perästä</lem>
+                </app> näemme <app id="var7429">
+                    <lem>puolen valosasta sivusta,</lem>
+                </app> ja silloin <app id="var7430">
+                    <lem>sanotaan:</lem>
+                </app> nyt on <app id="var7431">
+                    <lem><hi rend="expanded">puoli-kuuta.</hi></lem>
+                </app> Taas 7 päivän <app id="var7432">
+                    <lem>perästä</lem>
+                </app> näemme koko <app id="var7433">
+                    <lem>valosan</lem>
+                </app> puolen, ja silloin sanomme: nyt on <app id="var7434">
+                    <lem>täysi-kuu <note id="ftn5" n="*)" place="foot"><app id="var7434b">
+                            	<lem>Ensimäinen täysikuu
+                            keväpäivän-tasauksen jälkeen</lem>
+                </app> 21 p. <app id="var7435">
+                    <lem>maaliskuuta kutsutaan
+                            pääsiäis-täysikuuksi,</lem>
+                </app> ja <app id="var7436">
+                    <lem>ensimäisenä päivänä
+                            senjälkeen</lem>
+                </app> on <app id="var7437">
+                    <lem>pääsiäispäivä.
+                        Siksi</lem>
+                </app> ei <app id="var7438">
+                    <lem>satu</lem>
+                </app> pääsiäinen joka vuosi <app id="var7439">
+                    <lem>samalle ajalle. Helluntai-juhla
+                            asetetaan pääsiäisen jälkeen,</lem>
+                </app> ja on <app id="var7440">
+                    <lem>myös liikkuva
+                        juhla.</lem>
+                </app> Mutta muut <app id="var7441">
+                    <lem>juhlat</lem>
+                </app> niinkuin juhannus ja <app id="var7442">
+                    <lem>joulu</lem>
+                </app> ovat <app id="var7443">
+                    <lem>kaikkina vuosina</lem>
+                </app> samoina päivinä.</note>.</lem>
+                </app> Sen jälkeen alkaa kuu vähetä, <app id="var7445">
+                    <lem>juuri kuin</lem>
+                </app> hiiret söisivät sen laitaa, ja <app id="var7446">
+                    <lem>nyt</lem>
+                </app> sanomme olevan <hi rend="expanded">alakuun.</hi><app id="var7447">
+                    <lem> Taas 7 päivän perästä on se puoliskona</lem>
+                </app> ja <app id="var7448">
+                    <lem>vielä 7</lem>
+                </app> päivän <app id="var7449">
+                    <lem>perästä ei sitä näykkään;</lem>
+                </app> mutta <app id="var7450">
+                    <lem>sitte</lem>
+                </app> alkaa taas kuun <app id="var7451">
+                    <lem>syntyminen. Siksi</lem>
+                </app> puhutaan <app id="var7452">
+                    <lem>Allakassa</lem>
+                </app> kuun neljästä <app id="var7453">
+                    <lem><hi rend="expanded">korttelista.</hi> Ensimäisestä</lem>
+                </app> täydestä kuusta toiseen on 29 ja puoli vuorokautta kulunut; sillä
+                niin pitkän ajan tarvitsee kuu kulkeakseen kerran maan ympäri. Ja jos haluat
+                    <app id="var7454">
+                    <lem>saada tietää yläkuuta</lem>
+                </app> ja <app id="var7455">
+                    <lem>alakuuta</lem>
+                </app> niin muista, että <app id="var7456">
+                    <lem>kun luulisit saattavaksi ottaa</lem>
+                </app> vasemmalla kädelläsi <app id="var7457">
+                    <lem>kuun puoliskon sisällepäin käyrästä laidasta kiini</lem>
+                </app>
+                <figure type="illustration"/>, <app id="var7458">
+                    <lem>niin on uusi- eli ylä-kuu,</lem>
+                </app> mutta jos <app id="var7459">
+                    <lem>tarttuisit siihen</lem>
+                </app> oikealla kädelläsi <figure type="illustration"/>, on <app id="var7460">
+                    <lem>alakuu.</lem>
+                </app> Muutoin <app id="var7461">
+                    <lem>saatat</lem>
+                </app> sinäkin <app id="var7462">
+                    <lem>muistaa sen tästä, jolla</lem>
+                </app> isä kerran <app id="var7463">
+                    <lem>muistutti poikaansa kuuta tuntemaan,</lem>
+                </app> sanoen:</p>
+            <lg>
+                <l style="romanType"><app id="var7464">
+                        <lem>Etkös tuhma</lem>
+                    </app> kuuta tunne?</l>
+                <l style="romanType">Idän puolen täytymässä,</l>
+                <l style="romanType">Luotehen vähenemässä.</l>
+            </lg>
+            <pb type="orig" n="204"/>
+            <p style="romanType">Sattuupa <app id="var7465">
+                    <lem>niinkin välistä,</lem>
+                </app> että <app id="var7466">
+                    <lem>tulee <hi rend="expanded">kuun-pimeneminen.</hi></lem>
+                </app> Mistähän se <app id="var7467">
+                    <lem>tulee? Siitä</lem>
+                </app> että maa <app id="var7468">
+                    <lem>tulee kohdastaan</lem>
+                </app> auringon ja kuun <app id="var7469">
+                    <lem>välille</lem>
+                </app> ja <app id="var7470">
+                    <lem>varjottaa pois</lem>
+                </app> kuun.</p>
+            <figure type="illustration"/>
+            <p style="romanType">Tässä <app id="var7471">
+                    <lem>näet äärimmäisnä loistavan auringon kuvan.</lem>
+                </app> Tuo <app id="var7472">
+                    <lem>suurin kiehkura</lem>
+                </app> on se <app id="var7473">
+                    <lem>tie,</lem>
+                </app> jota aurinko näyttää kulkevan maan ympäri (vaikka <app id="var7474">
+                    <lem>se on maa, joka</lem>
+                </app> kulkee). <app id="var7475">
+                    <lem>Keskimäinen</lem>
+                </app> pallo on maa, ja tuo pieni musta pallo on <app id="var7476">
+                    <lem>kuu maan ympärillä olevine rengasteineen. Näethän nyt, kuinka</lem>
+                </app> maa <app id="var7477">
+                    <lem>voipi tulla</lem>
+                </app> auringon ja kuun <app id="var7478">
+                    <lem>välille,</lem>
+                </app> niin että <app id="var7479">
+                    <lem>maan varjo lankeaa kuuhun</lem>
+                </app> ja <app id="var7480">
+                    <lem>varjottaa siitä pois auringon. Voipipa niinkin käydä,</lem>
+                </app> että varjo <app id="var7481">
+                    <lem>piilottaa</lem>
+                </app> ainoastaan <app id="var7482">
+                    <lem>jonkun</lem>
+                </app> osan <app id="var7483">
+                    <lem>kuusta.</lem>
+                </app> Pian <app id="var7484">
+                    <lem>menee kuu eteenpäin: sitte tulee</lem>
+                </app> se pois varjosta, <app id="var7485">
+                    <lem>sitte on se</lem>
+                </app> jälleen <app id="var7486">
+                    <lem>valosa,</lem>
+                </app> ja <app id="var7487">
+                    <lem>sitte saamme jälleen kuun valon.</lem>
+                </app></p>
+            <p style="romanType"><app id="var7488">
+                    <lem>Toisella kerralla</lem>
+                </app> saattaa niinkin tapahtua, että kuu tulee <app id="var7489">
+                    <lem>aivan</lem>
+                </app> auringon ja maan väliin, niinkuin näet tässä <app id="var7490">
+                    <lem>allapäin kuvattuna.</lem>
+                </app> Silloin <app id="var7491">
+                    <lem>lankeaa jälleen kuun varjo maan päälle ja pimittää</lem>
+                </app> meiltä auringon, <app id="var7492">
+                    <lem>silloin</lem>
+                </app> sanomme <app id="var7493">
+                    <lem>olevan <hi rend="expanded">auringon-pimenemisen.</hi> Silloin tulee
+                        pimeä koko maan päälle</lem>
+                </app> keskellä päivää, ja linnut herkeävät laulamasta ja luulevat olevan
+                illan. Ja <app id="var7494">
+                    <lem>ihmiset,</lem>
+                </app> jotka eivät <app id="var7495">
+                    <lem>paremmin tiedä asiaa,</lem>
+                </app> luulevat <app id="var7496">
+                    <lem>sen suuren</lem>
+                </app> auringon <app id="var7497">
+                    <lem>saaneen vahingon.</lem>
+                </app> Mutta vähän <app id="var7498">
+                    <lem>aikaa</lem>
+                </app> kuluttua ovat <app id="var7499">
+                    <lem>aurinko</lem>
+                </app> ja kuu kulkeneet <app id="var7500">
+                    <lem>eteenpäin,</lem>
+                </app> niin etteivät <app id="var7501">
+                    <lem>ne enää</lem>
+                </app> ole <app id="var7502">
+                    <lem>kohdatusten.</lem>
+                </app> Silloin on kaikki jälleen <app id="var7503">
+                    <lem>valosaa</lem>
+                </app> ja kir<pb type="orig" n="205"/>kasta, ja ihmiset kiittävät Jumalaa,
+                joka taas antaa auringon paistaa hyville ja pahoille maan päällä.</p>
+            <figure type="illustration"/>
+            <p style="romanType">Tästä <app id="var7504">
+                    <lem>ymmärrät siis, että,</lem>
+                </app> kun meillä on <app id="var7505">
+                    <lem>kuun-pimeneminen, kuussa</lem>
+                </app> on <app id="var7506">
+                    <lem>auringon pimeneminen.</lem>
+                </app> Ja kun meillä on <app id="var7507">
+                    <lem>auringon pimeneminen, niin kuussa on maanpimeneminen. Sellaisia
+                        pimenemisiä ei</lem>
+                </app> näy yhtäläisesti <app id="var7508">
+                    <lem>kaikilla paikoilla maata.</lem>
+                </app> Mutta <app id="var7509">
+                    <lem>allakka</lem>
+                </app> tietää kaikki sellaiset asiat <app id="var7510">
+                    <lem>edeltä päin,</lem>
+                </app> sillä ne <app id="var7511">
+                    <lem>saatetaan</lem>
+                </app> jo <app id="var7512">
+                    <lem>edeltä käsin</lem>
+                </app> laskea. Mutta ei <app id="var7513">
+                    <lem>yksikään</lem>
+                </app> voi <app id="var7514">
+                    <lem>tulla</lem>
+                </app> maasta kuuhun. Ja <app id="var7515">
+                    <lem>siksi</lem>
+                </app> ei <app id="var7516">
+                    <lem>tiedä kukaan, jos ihmisiä on kuussa, ja minkälaiset paikat</lem>
+                </app> siellä <app id="var7517">
+                    <lem>ovat. Se ainoasti tiedetään,</lem>
+                </app> että siellä on hyvin korkeita vuoria, <app id="var7518">
+                    <lem>mutta tuskin ilmaa</lem>
+                </app> ja <app id="var7519">
+                    <lem>ei</lem>
+                </app> ollenkaan vettä.</p>
+            <head style="romanType"><hi rend="bold"><hi rend="expanded">Auringosta ja
+                    </hi></hi><app id="var7520">
+                    <lem><hi rend="bold"><hi rend="expanded">tähdeistä.</hi></hi></lem>
+                </app><hi rend="bold"/></head>
+            <p style="romanType">Maa <app id="var7521">
+                    <lem>vierii</lem>
+                </app> akselinsa ympäri lännestä itään päin, ja <app id="var7522">
+                    <lem>siksi</lem>
+                </app> näyttää <app id="var7523">
+                    <lem>se,</lem>
+                </app> kuin aurinko kulkisi idästä länteen. Ei aurinko <app id="var7524">
+                    <lem>ole siksi</lem>
+                </app> yhdessä <app id="var7525">
+                    <lem>kohti;</lem>
+                </app> kyllä se kulkee pitkää tietään <app id="var7526">
+                    <lem>eteenpäin mailmassa ympäri vielä suurempaa aurinkoa,</lem>
+                </app> jota emme vielä tunne. Aurinko <app id="var7527">
+                    <lem>pyörii</lem>
+                </app> niinkuin <app id="var7528">
+                    <lem>maakin</lem>
+                </app> akselinsa ympäri; se on <app id="var7529">
+                    <lem>tunnettu auringossa olevista tummista paikoista,</lem>
+                </app> joita siinä <app id="var7530">
+                    <lem>kiikareille</lem>
+                </app> katsoen välistä <app id="var7531">
+                    <lem>nähdään.</lem>
+                </app> Ja sen <app id="var7532">
+                    <lem>näemme,</lem>
+                </app> että aurinko omalla <pb type="orig" n="206"/>valollaan valaisee
+                äärettömän avaruuden ja lämmittää <app id="var7533">
+                    <lem>samassa.</lem>
+                </app> Mutta mistä tämä valo ja <app id="var7534">
+                    <lem>lämmin</lem>
+                </app> tulee, sitä ei tiedä kukaan; sillä maasta aurinkoon on <app
+                    id="var7535">
+                    <lem>aina neljätoista miljonaa peninkulmaa. Jos pääskyinen</lem>
+                </app> lentäisi <app id="var7536">
+                    <lem>aivan suoraan sata vuotta,</lem>
+                </app> niin ei se <app id="var7537">
+                    <lem>sittenkään tulisi</lem>
+                </app> puoliväliinkään <app id="var7538">
+                    <lem>aurinkohon. Kanuunan kuula,</lem>
+                </app> joka <app id="var7539">
+                    <lem>kulkee peninkulman minuutissa, tarvitseisi 27</lem>
+                </app> vuotta <app id="var7540">
+                    <lem>tullakseen aurinkohon.</lem>
+                </app> Suunnattoman suuri on aurinko, sen kyllä arvannet. Jos <app
+                    id="var7541">
+                    <lem>joka</lem>
+                </app> päivä <app id="var7542">
+                    <lem>voisin kävellä</lem>
+                </app> 10 <app id="var7543">
+                    <lem>tiimaa</lem>
+                </app> suoraan eteenpäin, <app id="var7544">
+                    <lem>ennättäisinpä 3</lem>
+                </app> vuodessa <app id="var7545">
+                    <lem>ympäri maan.</lem>
+                </app> Mutta auringon ympäri <app id="var7546">
+                    <lem>päästäväksi tarvittaisiin 320</lem>
+                </app> vuotta.</p>
+            <figure type="illustration"/>
+            <p style="romanType">Ja <app id="var7547">
+                    <lem>juurikuin</lem>
+                </app> maata <app id="var7548">
+                    <lem>voisi kutsua</lem>
+                </app> auringon <app id="var7549">
+                    <lem>pieneksi lapseksi,</lem>
+                </app> niin <app id="var7550">
+                    <lem>auringolla on</lem>
+                </app> vielä monta muuta <app id="var7551">
+                    <lem>sellaista pientä lasta, jotka, juurikuin maakin alinomaa</lem>
+                </app> pyörivät suurissa piireissä äitinsä <app id="var7552">
+                    <lem>ympärillä.</lem>
+                </app> Nämä auringon lapset ovat <hi rend="expanded">kiertotähtiä</hi> eli
+                    <app id="var7553">
+                    <lem><hi rend="expanded">planeetoja,</hi></lem>
+                </app> jotka kaikki <app id="var7554">
+                    <lem>itsessään</lem>
+                </app> ovat <app id="var7555">
+                    <lem>pimeitä taivaan kappaleita,</lem>
+                </app> mutta <app id="var7556">
+                    <lem>paistavat</lem>
+                </app> auringon lainavalolla. Sellaisia <app id="var7557">
+                    <lem>tutaan</lem>
+                </app> jo <app id="var7558">
+                    <lem>olevan 50,</lem>
+                </app> ja joka vuosi löydetään <app id="var7559">
+                    <lem>toisia. Useat</lem>
+                </app> niistä ovat aivan pieniä, niin ettei niitä <app id="var7560">
+                    <lem>nähdä</lem>
+                </app> kiikaritta. Mutta toiset ovat suuria ja näkyvät kirkkaina tähtinä
+                taivaalla, jossa ne <pb type="orig" n="207"/><app id="var7561">
+                    <lem>alinomaa muuttavat sijansa.</lem>
+                </app> Tässä näet <app id="var7562">
+                    <lem>kolme</lem>
+                </app> kiertotähteä, jotka ovat <app id="var7563">
+                    <lem>likinnä</lem>
+                </app> aurinkoa. <app id="var7564">
+                    <lem>Ensimäinen,</lem>
+                </app> joka kiertää <app id="var7565">
+                    <lem>87</lem>
+                </app> vuorokaudessa <app id="var7566">
+                    <lem>piirinsä ympäri auringon,</lem>
+                </app> on <hi rend="expanded">Merkurius.</hi> Se on maata pienempi ja <app
+                    id="var7567">
+                    <lem>merkitään allakassa näin <figure type="illustration"/>.</lem>
+                </app> Sitä <app id="var7568">
+                    <lem>likinnä</lem>
+                </app> kiertää <hi rend="expanded">Venus</hi> 7 <app id="var7569">
+                    <lem>kuukaudessa suuremman piirin</lem>
+                </app> auringon ympäri, ja <app id="var7570">
+                    <lem>se merkitään ♁.</lem>
+                </app> Se on <app id="var7571">
+                    <lem>maan</lem>
+                </app> kokoinen ja <app id="var7572">
+                    <lem>paistaa</lem>
+                </app> meille kointähtenä ja ehtootähtenä <app id="var7573">
+                    <lem>kaikkein kauniimmalla</lem>
+                </app> valolla, sillä se on <app id="var7574">
+                    <lem>likeisin kaikista tähdistä. Sitte kulkee <hi rend="expanded"
+                            >maa,</hi></lem>
+                </app> joka myös on <app id="var7575">
+                    <lem>kierto-tähti,</lem>
+                </app> 365 vuorokaudessa vielä <app id="var7576">
+                    <lem>suuremman piirin ympäri</lem>
+                </app> ja <app id="var7577">
+                    <lem>se merkitään ♀.</lem>
+                </app></p>
+            <p style="romanType">Mutta <app id="var7578">
+                    <lem>muita</lem>
+                </app> suuria <app id="var7579">
+                    <lem>kiertotähtiä kulkee vielä suuremmissa piireissä ulkopuolella</lem>
+                </app> näitä <app id="var7580">
+                    <lem>kolmea. Ensin</lem>
+                </app> kulkee <hi rend="expanded">Mars,</hi> joka on maata pienempi. <app
+                    id="var7581">
+                    <lem><hi rend="expanded">Jupiter,</hi></lem>
+                </app><hi rend="expanded"> Saturnus, Uranus</hi> ja <hi rend="expanded"
+                    >Neptunus,</hi> jotka ovat <app id="var7582">
+                    <lem>paljoa</lem>
+                </app> suuremmat maata, <app id="var7583">
+                    <lem>kulkevat sitte aina suuremmissa piireissä</lem>
+                </app> auringon ympäri. Ja Neptunus, joka on äärimmäinen, tarvitsee <app
+                    id="var7584">
+                    <lem>166</lem>
+                </app> vuotta <app id="var7585">
+                    <lem>kulkeakseen</lem>
+                </app> kerran auringon ympäri. Ja kaikki <app id="var7586">
+                    <lem>vierivät ne niinkuin maakin</lem>
+                </app> akselinsa ympäri, ja niillä on päivä ja <app id="var7587">
+                    <lem>yö</lem>
+                </app> niinkuin <app id="var7588">
+                    <lem>meilläkin,</lem>
+                </app> Mutta niille, jotka ovat kaukana auringon <app id="var7589">
+                    <lem>valosta,</lem>
+                </app> on Jumala sen sijaan antanut kuita, jotka niitä valaisevat. Maalla on
+                yksi kuu, <app id="var7590">
+                    <lem>suurella</lem>
+                </app> Jupiterilla on <app id="var7591">
+                    <lem>4 kuuta,</lem>
+                </app> Saturnuksella on <app id="var7592">
+                    <lem>7</lem>
+                </app> kuuta ja <app id="var7593">
+                    <lem>vielä paistava rengas ympärillä. Niilläkin viimeisillä</lem>
+                </app> on <app id="var7594">
+                    <lem>useita kuita.</lem>
+                </app></p>
+            <p style="romanType"><app id="var7595">
+                    <lem>Kerran illalla</lem>
+                </app> tuli lukkarin Maija meille ja oli niin <app id="var7596">
+                    <lem>peljästyksissään,</lem>
+                </app> että oikein vapisi. Hän oli nähnyt taivaalla tähden, jolla oli
+                hirveän <app id="var7597">
+                    <lem>suuri pyrstö perässä.</lem>
+                </app> Se <app id="var7598">
+                    <lem>merkitsee</lem>
+                </app> sotaa, sanoi hän. <app id="var7599">
+                    <lem>Elä</lem>
+                </app> pelkää, sanoin minä; <app id="var7600">
+                    <lem>se ei merkitse</lem>
+                </app> mitään. Se on pyrstötähti, ja sellaiset kulkevat <app id="var7601">
+                    <lem>suurissa</lem>
+                </app> soikeissa piireissä auringon ympäri. Pitkäin aikain <app id="var7602">
+                    <lem>perästä</lem>
+                </app> palaavat <app id="var7603">
+                    <lem>ne takasi, niin että ne</lem>
+                </app> jälleen <app id="var7604">
+                    <lem>tulevat näkyviin meidän paikoillamme mailmaa.</lem>
+                </app></p>
+            <p style="romanType">Kiertotähdet, kuut ja pyrstötähdet ovat liikkuvia tähtiä;
+                mutta kaikkia muita tähtiä <app id="var7605">
+                    <lem>kutsumme <hi rend="expanded">liikkumattomiksi tähdiksi,</hi>
+                        kun</lem>
+                </app> ne näyttävät <app id="var7606">
+                    <lem>liikkumattomilta</lem>
+                </app> eivätkä <app id="var7607">
+                    <lem>ole koskaan muuttuneet paikkaansa keskenään, niin kauvan</lem>
+                </app> kuin <app id="var7608">
+                    <lem>voidaan muistaa.</lem>
+                </app> Kuitenkin ovat ne suuria auringoita, jotka <app id="var7609">
+                    <lem>kiertävät tuntemattomia piirejä tuntemattoman mailma-auringon
+                        ympärillä.</lem>
+                </app> Paremmin <app id="var7610">
+                    <lem>muistettavaksi tähtein olopaikkoja,</lem>
+                </app> on taivas jaettu <app id="var7611">
+                    <lem><hi rend="expanded">tähtitarhoihin.</hi></lem>
+                </app> Sellainen on <app id="var7612">
+                    <lem>Aaronin sauva,</lem>
+                </app> jonka <pb type="orig" n="208"/>tähdet <app id="var7613">
+                    <lem>näyttävät tämmöiseltä <figure type="illustration"/>. Tähdet,</lem>
+                </app> joiden <app id="var7614">
+                    <lem>sivu</lem>
+                </app> aurinko näyttää kulkevan, <app id="var7615">
+                    <lem>ovat leveänä ratana,</lem>
+                </app> jota <app id="var7616">
+                    <lem>kutsutaan <hi rend="expanded">eläin-radaksi.</hi> Siinä</lem>
+                </app> jaetaan <app id="var7617">
+                    <lem>tähdet 12:sta taivaan-merkkiin,</lem>
+                </app> joista puhutaan <app id="var7618">
+                    <lem>allakassa.</lem>
+                </app> Tietoa auringosta, kuusta ja tähdistä <app id="var7619">
+                    <lem>kutsutaan <hi rend="expanded">tähti-tiedoksi</hi><note id="ftn6"
+                            n="*)" place="foot"><app id="var7619b"><lem><hi rend="expanded"
+                        >Muistutus.</hi></lem>
+                </app> Tietoa <app id="var7620">
+                    <lem>alku-aineista</lem>
+                </app> ja luonnon voimista <app id="var7621">
+                    <lem>kutsutaan <hi rend="expanded"
+                                >luonnon-opiksi.</hi></lem>
+                </app> Tietoa kappalten <app id="var7622">
+                    <lem>osista kutsutaan</lem>
+                </app>
+                    <hi rend="expanded">kemiaksi.</hi> Tietoa <app id="var7623">
+                    <lem>kaikellaisesta laskutavasta
+                            kutsutaan <hi rend="expanded">määräysopiksi.</hi></lem>
+                </app> Tietoa kivistä <app id="var7624">
+                    <lem>kutsutaan <hi rend="expanded"
+                                >kivennäis-opiksi.</hi></lem>
+                </app> Tietoa <app id="var7625">
+                    <lem>kasvista kutsutaan <hi rend="expanded">kasvuin-opiksi.</hi> Tietoa elävistä
+                            kutsutaan <hi rend="expanded">eläväopiksi.</hi></lem></app></note>.</lem>
+                </app></p>
+            <p style="romanType">Joka <app id="var7626">
+                    <lem>iltana</lem>
+                </app> näyttävät tähdet nousevan idästä ja <app id="var7627">
+                    <lem>laskeuvan</lem>
+                </app> länteen, <app id="var7628">
+                    <lem>josta näkyy juurikuin</lem>
+                </app> koko <app id="var7629">
+                    <lem>taivaan piiri vierisi ympäriinsä;</lem>
+                </app> mutta <app id="var7630">
+                    <lem>se on maa, joka kääntyy.</lem>
+                </app> Muutamat <app id="var7631">
+                    <lem>tähdet taivaslaella</lem>
+                </app> päämme <app id="var7632">
+                    <lem>päällä</lem>
+                </app> eivät koskaan <app id="var7633">
+                    <lem>laskeu,</lem>
+                </app> vaan <app id="var7634">
+                    <lem>kulkevat kiehkurassa. Sellaisia</lem>
+                </app> on <hi rend="expanded">Otava,</hi> joka on <app id="var7635">
+                    <lem>5 näkönen taivaalla,</lem>
+                </app> ja jossa on 7 eri tähteä. Yläpuolella <app id="var7636">
+                    <lem>otavaa</lem>
+                </app> on tähti, <choice>
+                    <orig/>
+                </choice><app id="var7637">
+                    <lem><choice>
+                            <orig>joha</orig>
+                            <reg>joka</reg>
+                        </choice> on aivan</lem>
+                </app> yhdessä <app id="var7638">
+                    <lem>kohti.</lem>
+                </app> Tätä <app id="var7639">
+                    <lem>kutsutaan <hi rend="expanded">pohjantähdeksi,</hi></lem>
+                </app> ja se näyttää yöllä, missä päin pohjoinen on.</p>
+            <p style="romanType">Isän vielä puhuessa <app id="var7640">
+                    <lem>lenti pienonen pilkka taivaalla kaitasella tulileimulla.</lem>
+                </app> Kah, <app id="var7641">
+                    <lem>huutivat</lem>
+                </app> lapset, tähti <app id="var7642">
+                    <lem>lenti alas!</lem>
+                </app> Ja <app id="var7643">
+                    <lem>se</lem>
+                </app> näytti <app id="var7644">
+                    <lem>näistä kummalta, kun taivaan</lem>
+                </app> tähdet saattavat <app id="var7645">
+                    <lem>lentää alas</lem>
+                </app> ja kadota.</p>
+            <p style="romanType">Mutta isä sanoi: <app id="var7646">
+                    <lem>tuota kutsumme kyllä</lem>
+                </app>
+                <hi rend="expanded">tähdenlennoksi,</hi>
+                <app id="var7647">
+                    <lem>siksi</lem>
+                </app> että se siltä näyttää; mutta <app id="var7648">
+                    <lem>ne</lem>
+                </app> ovat <app id="var7649">
+                    <lem>ainoasti pieniä palavia aineita,</lem>
+                </app> jotka <app id="var7650">
+                    <lem>lentävät ympäriinsä avaruudessa ja välistä</lem>
+                </app> putoavat <app id="var7651">
+                    <lem>alas maan ilmapiiriin.</lem>
+                </app> Jumalan suuret tähdet eivät <app id="var7652">
+                    <lem>putoa;</lem>
+                </app> ne kulkevat ratojaan <app id="var7653">
+                    <lem>monta tuhatta vuotta, eivätkä väsy,</lem>
+                </app> eivätkä eksy äärettömässä avaruudessa.</p>
+            <p style="romanType">Onkohan tuonne <app id="var7654">
+                    <lem>tähtihin paljo</lem>
+                </app> matkaa? kysyi Liisa. Haluaisinpa kerran päästä sinne.</p>
+            <p style="romanType">Isä sanoi: <app id="var7655">
+                    <lem>kun</lem>
+                </app> kerran <app id="var7656">
+                    <lem>kuolemme,</lem>
+                </app> ja Jumala vapauttaa <app id="var7657">
+                    <lem>lunastetun</lem>
+                </app> henkemme, tulee tämä ja <app id="var7658">
+                    <lem>paljo</lem>
+                </app> muuta meille <app id="var7659">
+                    <lem>ilmoitetuksi.</lem>
+                </app> Mutta <app id="var7660">
+                    <lem>asuissamme</lem>
+                </app> täällä maan tomussa, näyttää meistä tie <app id="var7661">
+                    <lem>olevan tähtihin piamite</lem>
+                </app> yhtä <app id="var7662">
+                    <lem>pitkä</lem>
+                </app> kuin <app id="var7663">
+                    <lem>ijankaikkisuus.</lem>
+                </app> Meistä on aurinko <app id="var7664">
+                    <lem>äärettömästi</lem>
+                </app> kaukana, ja valo kulkee kuitenkin tämän pitkän matkan <app
+                    id="var7665">
+                    <lem>puolessa yhdeksättä minuutissa. Siitä saatamme arvata, kuinka</lem>
+                </app> kaukana <app id="var7666">
+                    <lem>muutamat</lem>
+                </app> pienet tähdet ovat, <app id="var7667">
+                    <lem>kun tiedämme valon tarvitsevan tuhannen vuotta, ennät<pb
+                            type="orig" n="209"/>tääkseen</lem>
+                </app> niistä meihin. <app id="var7668">
+                    <lem>Siksi on se vissi, että,</lem>
+                </app> jos Jumala sallisi <app id="var7669">
+                    <lem>niiden</lem>
+                </app> pienten <app id="var7670">
+                    <lem>tähtein sammua</lem>
+                </app> tänä <app id="var7671">
+                    <lem>iltana,</lem>
+                </app> ihmiset vielä <app id="var7672">
+                    <lem>tuhannen vuotta</lem>
+                </app> jälkeenpäin <app id="var7673">
+                    <lem>näkisivät niiden hienot valopiireet pilkoittavan</lem>
+                </app> etäällä <app id="var7674">
+                    <lem>tuolla sinisellä taivaalla.</lem>
+                </app></p>
+            <p style="romanType">Antti sanoi: <app id="var7675">
+                    <lem>no, mitä on</lem>
+                </app> tuolla <app id="var7676">
+                    <lem>etäällä, tähtein takana?</lem>
+                </app></p>
+            <p style="romanType">Isä sanoi: <app id="var7677">
+                    <lem>toisia</lem>
+                </app> tähtiä.</p>
+            <p style="romanType">Ja mitä on siellä toisten <app id="var7678">
+                    <lem>tähtein</lem>
+                </app> takana?</p>
+            <p style="romanType"><app id="var7679">
+                    <lem>Vielä</lem>
+                </app> toisia tähtiä. Näethän tuon <app id="var7680">
+                    <lem>maitoharmaan</lem>
+                </app> radan, joka <app id="var7681">
+                    <lem>menee juurikuin tie</lem>
+                </app> korkean <app id="var7682">
+                    <lem>tähtisen taivaan ylitse!</lem>
+                </app> Tätä rataa <app id="var7683">
+                    <lem>kutsutaan</lem>
+                </app>
+                <hi rend="expanded">linnunradaksi.</hi>
+                <app id="var7684">
+                    <lem>Kun tähän katsotaan suurilla kiikareilla, nähdään sen olevan
+                        lukemattomista tähdeistä.</lem>
+                </app> Ne ovat niin kaukana, ettemme <app id="var7685">
+                    <lem>voi eroittaakaan</lem>
+                </app> jokaista <app id="var7686">
+                    <lem>niistä erittäin,</lem>
+                </app> vaan niiden valo <app id="var7687">
+                    <lem>sekaupi</lem>
+                </app> yhteen, ja tästä tulee <app id="var7688">
+                    <lem>se maitoharmaa valo.</lem>
+                </app></p>
+            <p style="romanType">Lapset seisoivat vähän aikaa aivan äänettöminä. Viimein
+                    <app id="var7689">
+                    <lem>sanoi</lem>
+                </app> Liisa, <app id="var7690">
+                    <lem>piamite vapisten: missä</lem>
+                </app> tähdessä <app id="var7691">
+                    <lem>asuu Jumala?</lem>
+                </app></p>
+            <p style="romanType">Isä sanoi: <app id="var7692">
+                    <lem>etkö</lem>
+                </app> ole <app id="var7693">
+                    <lem>lukenut Jumalan olevan jokapaikassa</lem>
+                </app> läsnä? Hänen henkensä <app id="var7694">
+                    <lem>käypi</lem>
+                </app> koko <app id="var7695">
+                    <lem>luonnon läpitse, kaikkein näiden mailmain läpitse,</lem>
+                </app> jotka <app id="var7696">
+                    <lem>paistavat avaruudessa, ja jokaisen vähimmänkin</lem>
+                </app> tuulen <app id="var7697">
+                    <lem>hengen <choice>
+                            <orig>älpitse</orig>
+                            <reg>läpitse</reg>
+                        </choice>,</lem>
+                </app> jonka <app id="var7698">
+                    <lem>löyhäytellessä ruohot kumartuvat tässä, jossa seisomme tämän
+                        matalan maan päällä.</lem>
+                </app> Lapset, <app id="var7699">
+                    <lem>kumartukaamme</lem>
+                </app> polvillemme <app id="var7700">
+                    <lem>illan rauhassa</lem>
+                </app> ja <app id="var7701">
+                    <lem>rukoilkaamme Jumalaa</lem>
+                </app> nähdessämme <app id="var7702">
+                    <lem>hänen ääretöintä</lem>
+                </app> voimaansa!</p>
+            <p style="romanType">Ja <app id="var7703">
+                    <lem>he kumartuivat ristissä käsin polvilleen tähtein</lem>
+                </app> valossa, ja isä rukoili ja sanoi:</p>
+            <p style="romanType">Pyhä, kaikkivaltias <app id="var7704">
+                    <lem>Jumala, sinä,</lem>
+                </app> joka katsot alas <app id="var7705">
+                    <lem>meitä tähtein</lem>
+                </app> silmillä ja levität allesi koko <app id="var7706">
+                    <lem>mailman</lem>
+                </app> äärettömän avaruuden kunniasi <app id="var7707">
+                    <lem>kirkkautena</lem>
+                </app> ja <app id="var7708">
+                    <lem>ijankaikkisen majesteetisi istuimena!</lem>
+                </app> Sinä <app id="var7709">
+                    <lem>näet meidän olevan</lem>
+                </app> heikkoja, köyhiä lapsia ja <app id="var7710">
+                    <lem>ainoasti hajoavaista</lem>
+                </app> tomua <app id="var7711">
+                    <lem>suuressa luodussa mailmassasi.</lem>
+                </app> Ja meidän elämämme <app id="var7712">
+                    <lem>katoo</lem>
+                </app> kuin varjo, ja me olemme syntiä tehneet <app id="var7713">
+                    <lem>sinun edessäsi ja emme</lem>
+                </app> uskaltaisi nostaa silmiämmekään <app id="var7714">
+                    <lem>kaikkivaltaasi kohti,</lem>
+                </app> jos ei Vapahtajamme <app id="var7715">
+                    <lem>Jesus</lem>
+                </app> olisi ottanut <app id="var7716">
+                    <lem>syntiämme pois.</lem>
+                </app> Kuitenkin olet <app id="var7717">
+                    <lem>sinä antanut meille, kuolevaisille ihmisille, armon</lem>
+                </app> katsella tekojasi. Ja me olemme <app id="var7718">
+                    <lem>katselleet sinun tekojasi ihmisessä, elävissä,</lem>
+                </app> kasveissa, kaikissa kolmessa <app id="var7719">
+                    <lem>luonto-kunnissa</lem>
+                </app> ja viimeksi <app id="var7720">
+                    <lem>suuressa mailman</lem>
+                </app> rakennuk<pb type="orig" n="210"/>sessa, joka <app id="var7721">
+                    <lem>levenee päällämme niinkuin palvelukseksesi rakettu</lem>
+                </app> temppeli. Ja kaikissa, pienimmästä suurimpaan, olemme <app
+                    id="var7722">
+                    <lem>me nähneet sinun</lem>
+                </app> kaikkivaltasi ja <app id="var7723">
+                    <lem>sinun</lem>
+                </app> hyvyytesi ja <app id="var7724">
+                    <lem>sinun</lem>
+                </app> viisautesi, joka <app id="var7725">
+                    <lem>on</lem>
+                </app> luonut kaikki niin ihmeellisen kauniiksi ja <app id="var7726">
+                    <lem>hyväksi, kaikki tarkoitustensa mukaan mailmassa.</lem>
+                </app> Niin anna meille vielä Pyhän Henkesi armo, että me kaiken tämän
+                oikein ymmärtäisimme ja <app id="var7727">
+                    <lem>jota pitemmältä</lem>
+                </app> sitä <app id="var7728">
+                    <lem>enemmän</lem>
+                </app> oppisimme <app id="var7729">
+                    <lem>tuntemaan sinua töissäsi.</lem>
+                </app> Me <app id="var7730">
+                    <lem>rukoilemme sinun</lem>
+                </app> kaikkivaltaasi. Me ylistämme <app id="var7731">
+                    <lem>sinun</lem>
+                </app> hyvyyttäsi. Me ihmettelemme <app id="var7732">
+                    <lem>sinun</lem>
+                </app> viisauttasi. Nämä tähdet ja <app id="var7733">
+                    <lem>mailmat</lem>
+                </app> katoavat. <app id="var7734">
+                    <lem>Mekin</lem>
+                </app> kuolemme pois; mutta sielumme <app id="var7735">
+                    <lem>pitää tulla sinun</lem>
+                </app> tykösi. Sillä sinä yksinäsi, Herra, <app id="var7736">
+                    <lem>et katoa; sinä</lem>
+                </app> pysyt <app id="var7737">
+                    <lem>ijankaikkisesti, niinkuin sinä olet: pyhä, kaikkivaltias,
+                        kaikkiviisas</lem>
+                </app> ja <app id="var7738">
+                    <lem>kaikki-hyvä. Korkiasti</lem>
+                </app> ylistetty olkoon <app id="var7739">
+                    <lem>sinun</lem>
+                </app> pyhä nimesi nyt ja <app id="var7740">
+                    <lem>ainiaan! Amen.</lem>
+                </app></p>
+            <head style="romanType"><anchor id="struct229a"/><hi rend="bold"><hi
+                        rend="expanded">Vuoden ajat.</hi></hi></head>
+            <pb type="orig" n="211"/>
+            <head style="romanType"><hi rend="bold"><hi rend="expanded">Taivahan
+                        tähdet.</hi></hi><anchor id="struct229b"/></head>
+            <head><anchor id="struct230a"/>
+                <anchor id="struct230b"/></head>
+            <pb type="orig" n="212"/>
+            <pb type="orig" n="213"/>
+            <p style="romanType"><app id="var7741">
+                    <lem><hi rend="bold">Herra, Sinä</hi></lem>
+                </app><hi rend="bold"> olet </hi><app id="var7742">
+                    <lem><hi rend="bold">mahdollinen</hi></lem>
+                </app><hi rend="bold"> saamaan ylistyksen ja kunnian ja voiman; sillä
+                    </hi><app id="var7743">
+                    <lem><hi rend="bold">sinä</hi></lem>
+                </app><hi rend="bold"> olet </hi><app id="var7744">
+                    <lem><hi rend="bold">kaikki luonut,</hi></lem>
+                </app><hi rend="bold"> ja </hi><app id="var7745">
+                    <lem><hi rend="bold">sinun</hi></lem>
+                </app><hi rend="bold"> tahdostasi </hi><app id="var7746">
+                    <lem><hi rend="bold">he ovat,</hi></lem>
+                </app><hi rend="bold"> ja </hi><app id="var7747">
+                    <lem><hi rend="bold">luodut ovat.</hi> Ilmestyskirja 4 l., 11 v.</lem>
+                </app></p>
+            <p><anchor id="struct231a"/>
+                <anchor id="struct231b"/></p>
+            <p style="romanType"><hi rend="bold">Kuka taitaa </hi><app id="var7748">
+                    <lem><hi rend="bold">häntä</hi></lem>
+                </app><hi rend="bold"> niin </hi><app id="var7749">
+                    <lem><hi rend="bold">korkeasti ylistää,</hi></lem>
+                </app><hi rend="bold"> kuin </hi><app id="var7750">
+                    <lem><hi rend="bold">hän on?</hi></lem>
+                </app><hi rend="bold"> Me näemme </hi><app id="var7751">
+                    <lem><hi rend="bold">ainoastaan vähimmän hänen</hi></lem>
+                </app><hi rend="bold"> töistänsä; sillä paljon </hi><app id="var7752">
+                    <lem><hi rend="bold">suuremmat ovat</hi></lem>
+                </app><hi rend="bold"> meiltä vielä </hi><app id="var7753">
+                    <lem><hi rend="bold">peitetyt.</hi> Sirakin kirjan 43 l., 36 v.</lem>
+                </app></p>
+            <p><anchor id="struct232a"/>
+                <anchor id="struct232b"/></p>
+            <p style="romanType"><app id="var7754">
+                    <lem><hi rend="bold">Herra, meidän Herramme, kuinka ihmeellinen on Sinun
+                            nimesi kaikessa maassa!</hi> Ps.</lem>
+                </app> 8, 10 v.</p>
+        </body>
+    </text>
+</TEI>

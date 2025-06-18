@@ -106,7 +106,7 @@
                 </app> sääski <app id="var2152" type="sub">
                     <rdg>kiinni. Kertokoon se</rdg>
                 </app> meille jotakin sukulaisistaan.</p>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Sääski sanoi: <app id="var2153" type="sub">
                     <rdg>Meitä sanotaan <hi rend="italics">niveljalkaisiksi.</hi></rdg>
                 </app> Ruumiissamme on useita <app id="var2154" type="sub">
@@ -185,8 +185,8 @@
                 </app> auringon paisteessa ja imi <app id="var2185" type="sub">
                     <rdg>mettä</rdg>
                 </app> kukista.</p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Niin, sanoi Antti. <app id="var2186" type="sub">
                     <rdg>Olen siitä lukenut.</rdg>
                 </app> Minulla on kirja, jossa kaikki tämä on kuvattuna. Ylinnä vasemmalla
@@ -247,11 +247,11 @@
                 </app> sekä hyötyä että <app id="var2210" type="sub">
                     <rdg>huvia.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Nyt <app id="var2211" type="sub">
                     <rdg>syntyi suhinaa ilmassa</rdg>
                 </app> ja <app id="var2212" type="sub">
@@ -314,7 +314,7 @@
                 </app> että <app id="var2236" type="sub">
                     <rdg>seinärautio</rdg>
                 </app> syöpi reikää puuhun.</p>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var2237" type="sub">
                     <rdg>Tuossa</rdg>
                 </app> hyppelivät <app id="var2238" type="sub">
@@ -352,8 +352,8 @@
                 </app> josta <app id="var2250" type="sub">
                     <rdg><seg>Amerikassa</seg> tehdään</rdg>
                 </app> kaunista punaväriä.</p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var2251" type="sub">
                     <rdg>Sitten</rdg>
                 </app> liehuivat <app id="var2252" type="sub">
@@ -384,10 +384,10 @@
                     <rdg>kehrääjä</rdg>
                 </app> on <hi rend="expanded">silkkimato,</hi> eräs toukka, joka elää
                 silkkiäispuun lehdistä.</p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Niin, sanoi Liisa, siitä on äitimme kertonut. <app
                     id="var2262" type="sub">
                     <rdg>Äidin</rdg>
@@ -402,7 +402,7 @@
                 </app> vyyhdelle <app id="var2267" type="sub">
                     <rdg><seg>hieno</seg></rdg>
                 </app> ja luja silkkilanka.</p>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var2268" type="sub">
                     <rdg><hi rend="italics">Korennot</hi> lensivät</rdg>
                 </app> veden <app id="var2269" type="int">
@@ -478,9 +478,9 @@
                 </app> joka ottaa niin pitkiä <app id="var2297" type="sub int">
                     <rdg>hyppyjä.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Puiden oksain väliin kutoi <hi rend="italics"
                     >hämähäkki</hi> verkkoaan ja istui sen keskelle kärpäsiä väijymään. Ei
                 täällä ollut myrkyllistä <hi rend="expanded">skorpionia,</hi> joka
@@ -489,8 +489,8 @@
                     >krapu</hi> ui taaksepäin. Keitettäessä muuttui <pb type="orig" n="102"
                 />se punaiseksi. <hi rend="expanded">Siira</hi> ja <hi rend="italics"
                     >tuhatjalkainen</hi> piilevät ilkeän näköisinä maassa kivien alla.</p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Metsässä ollessaan haki Antti <hi rend="italics"
                     >matoja</hi> syötiksi, sillä illalla <app id="var2298" type="sub int">
                     <rdg>hän <seg>aikoi</seg> mennä ongelle.</rdg>
@@ -501,7 +501,7 @@
                 </app> joka <app id="var2301" type="sub">
                     <rdg>tunkihe turpeen sisään.</rdg>
                 </app></p>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Mato sanoi: <app id="var2302" type="sub int">
                     <rdg>Minunkin pehmeä ja limainen ruumiini</rdg>
                 </app> on <app id="var2303" type="sub int">
@@ -572,10 +572,10 @@
                 </app> joka <app id="var2332" type="sub">
                     <rdg>on meillä yleinen, ei ime verta ollenkaan.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Sen jälkeen tulivat <hi rend="italics">nilviäiset.</hi>
                 Tuossa kömpi kivellä pieni, pehmeä <hi rend="expanded">etana.</hi> Vitkaan
                 mankivat <hi rend="expanded">kotilot</hi> eteenpäin kieroine kuorineen.
@@ -588,9 +588,9 @@
                 herkkuruuaksi. Kerran hain minä, sanoi Antti, näkinkenkiä painolastista,
                 joka oli heitetty maalle laivasta. Siinä oli monta eri lajia; siinä oli
                 suuret läjät melkein pelkkiä rikkirouhittuja näkinkenkiä.</p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Mutta jos saattaisin kulkea meren <app id="var2333"
                     type="sub">
                     <rdg>pohjalla, niin</rdg>
@@ -630,8 +630,8 @@
                 </app> meren pohjaan. Ja koralleista tehdään <app id="var2347" type="sub">
                     <rdg>kauniita helmirihmoja.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Mutta nämä eivät ole <app id="var2348" type="sub">
                     <rdg>eläimiä,</rdg>
                 </app> sanoi Liisa kummastellen. Niin, sanoi Antti, muutamat ovat pitäneet
@@ -750,7 +750,7 @@
                 </app> tee suullaan, vaan <app id="var2397" type="sub">
                     <rdg>takajalkojaan siipiinsä kihnuttamalla.</rdg>
                 </app> Tämä on niistä <app id="var2398" type="sub">
-                    <rdg>hauskaa. Heinä<pb type="orig"/><figure></figure><pb type="orig" n="108"/>sirkat
+                    <rdg>hauskaa. Heinä<pb type="orig"/><figure type="illustration"/><pb type="orig" n="108"/>sirkat
                         täällä meidän maassamme eivät</rdg>
                 </app> ole ollenkaan <app id="var2399" type="sub int">
                     <rdg>vahingollisia, mutta</rdg>
@@ -806,7 +806,7 @@
                 </app> kuivataan <app id="var2421" type="sub">
                     <rdg>auringon paisteessa.</rdg>
                 </app></p>
-            <figure></figure>
+            <figure type="illustration"/>
             <head style="romanType"><hi rend="bold">Mehiläisten talous.</hi></head>
             <p>Kalat, jotka usein kulkevat isoissa <app id="var2422" type="sub">
                     <rdg>parvissa,</rdg>
@@ -853,9 +853,9 @@
                             rend="expanded">työmehiläisiä,</hi></rdg>
                 </app> ja <app id="var2441" type="sub">
                     <rdg>nämä ovat pesässä</rdg>
-                </app> sellaisia asukkaita, jotka eivät <figure></figure><figure></figure>
-                        <figure></figure>
-                        <figure></figure>
+                </app> sellaisia asukkaita, jotka eivät <figure type="illustration"/><figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/>
                         <app id="var2442" type="sub">
                     <rdg><seg>ole</seg> uroksia</rdg>
                 </app> eivätkä naaraita. Ne ovat <app id="var2443" type="sub">
@@ -930,7 +930,7 @@
                     <rdg>hevosenkin.</rdg>
                 </app></p>
             <head style="romanType"><hi rend="bold">Muurahainen.</hi></head>
-            <figure></figure>
+            <figure type="illustration"/>
             <p><app id="var2476" type="sub">
                     <rdg>Mennäänpä</rdg>
                 </app> nyt muurahaisen <app id="var2477" type="sub">
@@ -1034,7 +1034,7 @@
                     <rdg>kuljeksii.</rdg>
                 </app></p>
             <head style="romanType"><hi rend="bold">Hämähäkki.</hi></head>
-            <figure></figure>
+            <figure type="illustration"/>
             <p><app id="var2522" type="sub">
                     <rdg>Hauskempi</rdg>
                 </app> on <app id="var2523" type="sub">

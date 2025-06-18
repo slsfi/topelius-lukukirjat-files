@@ -1,7 +1,3 @@
-Tämän kansion tiedostot
-Luonnon_kirja_perusteksti.xml
-Luonnon_kirja_varianttiteksti.xml
+Kansiossa "alkup_tiedostot" on ne varianttikoodatut Luonnonkirjan XML-tiedostot, jotka SKS:llä oli tallessa vuodelta 2019 kun niitä viimeksi työstettiin. Ne ovat tallennettu tänne vain referensseiksi! Älä tee niihin muutoksia.
 
-ovat alkuperäiset XML-tiedostot varianttikoodausta varten. Näissä koko Luonnonkirja on yksissä tiedostoissa, ei pilkottuna 1 luku per tiedosto, kuten alakansioissa.
-
-ÄLÄ KÄYTÄ näitä alkuperäisiä tiedostoja, vaan "pilkottuja".
+Lukukirjat-verkkosivustolla julkaistut varianttitekstit ovat kansioissa "perusteksti_1860" ja "varianttiteksti_1929".

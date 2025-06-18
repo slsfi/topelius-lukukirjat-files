@@ -154,7 +154,7 @@
                 </app> on <app id="var519" type="sub">
                     <rdg><seg>Lennä</seg></rdg>
                 </app> matkoihisi.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona kutsui käärmeen eteensä. Mikä sinä olet? Minä
                 olen <hi rend="expanded">matelija.</hi> Miksikä niin? Minä matelen maassa.
                 Minä hengitän keuhkoilla. Minun vereni on kylmä. — Hyvä on. Matele
@@ -194,7 +194,7 @@
                     <rdg>Hyvä on.</rdg>
                 </app> Ui matkoihisi.</p>
             <pb type="orig" n="24"/>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona kutsui <app id="var535" type="sub">
                     <rdg>perhosen</rdg>
                 </app> nimeltä. Mikä sinä olet? Minä olen <app id="var536" type="sub">
@@ -232,7 +232,7 @@
                 </app> — <app id="var550" type="sub int">
                     <rdg>Hyvä on. Ryömi</rdg>
                 </app> hiljaa tiehesi.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona puhui vielä. <app id="var551" type="sub">
                     <rdg>Nyt tunnen monta eri</rdg>
                 </app>
@@ -265,7 +265,7 @@
                 </app> kutsun <app id="var564" type="sub">
                     <rdg>valtaistumeni</rdg>
                 </app> eteen.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter"><app id="var565" type="sub int">
                     <rdg>Maltahan.</rdg>
                 </app> Tuolla näen <app id="var566" type="sub">
@@ -322,9 +322,9 @@
                     type="sub int">
                     <rdg>Maltahan.</rdg>
                 </app> Etkö sinä ole ihminen?</p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="26"/>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Apina, joka muutoin mielellään tahtoi <app id="var586"
                     type="sub">
                     <rdg>esiintyä</rdg>
@@ -389,10 +389,10 @@
                 </app> maahan. Poika, joka otti <app id="var613" type="sub">
                     <rdg>minut,</rdg>
                 </app> elätti minua vankina häkissä.</p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="27"/>
-            <figure/>
-            <figure/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona <app id="var614" type="sub">
                     <rdg>laski lepakon lentämään. <hi rend="expanded">Valas</hi> silloin
                         purskutti</rdg>
@@ -432,7 +432,7 @@
                     type="sub">
                     <rdg>ovat vedessä eläviä imettäväisiä.</rdg>
                 </app></p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona <app id="var630" type="sub">
                     <rdg>tuskaantui.</rdg>
                 </app> Ui <app id="var631" type="sub int">
@@ -468,7 +468,7 @@
                 uskollinen koira, mitä sinulla on sanomista? <app id="var642" type="sub">
                     <rdg>Alituisesti</rdg>
                 </app> haukut sinä isäntäsi ovella.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Koira vastasi. Uskollinen kyllä olen, herra kuningas.
                 Häpeän <app id="var643" type="sub">
                     <rdg><seg>kettua,</seg></rdg>
@@ -531,15 +531,15 @@
                 </app> kaikin voimin. Viimein <app id="var669" type="sub int">
                     <rdg>saapui sinne ihmisiä, jotka veivät</rdg>
                 </app> isäntäni lämpimään tupaan.</p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="30"/>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona nyökäytti <app id="var670" type="sub int">
                     <rdg>tyytyväisenä päätään.</rdg>
                 </app> Uskollista palvelijaa ei <app id="var671" type="sub">
                     <rdg>saata</rdg>
                 </app> kullalla palkita.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter"><hi rend="expanded">Kissa</hi> köyristi <app id="var672"
                     type="sub">
                     <rdg>naukuen <seg>selkäänsä</seg></rdg>
@@ -599,7 +599,7 @@
                 </app> kynsiä sitä kättä, joka <app id="var697" type="sub">
                     <rdg>vastikään</rdg>
                 </app> antoi minulle ruokaa.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona pudisti <app id="var698" type="sub">
                     <rdg>närkästyneenä</rdg>
                 </app> pitkää harjaansa. Mene, kissa. <app id="var699" type="sub">
@@ -615,7 +615,7 @@
                 </app> kuin sydämeni <app id="var704" type="sub">
                     <rdg>häijy.</rdg>
                 </app></p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter"><hi rend="expanded">Hevonen</hi> hirnui. Minä olen <app
                     id="var705" type="sub">
                     <rdg>kotieläimistä ylevin. Olen</rdg>
@@ -666,7 +666,7 @@
                 </app> Silloin on <app id="var726" type="sub">
                     <rdg>uskollinen mieleni suruissaan</rdg>
                 </app> ihmisen kiittämättömyydestä.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona kiitti hevosen ylevyyttä. Miksikä sinä, joka olet
                 niin väkevä, kärsit ihmisen kovuutta?</p>
             <p style="blackletter">Herra kuningas, minä tiedän tarkoitukseni. Jumala on
@@ -730,9 +730,9 @@
                     <rdg>Älä</rdg>
                 </app> ärsytä minua, herra kuningas. Silloin pusken sinua käyrillä
                 sarvillani.</p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="34"/>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona <app id="var751" type="sub">
                     <rdg>nyökytteli leikillisesti päätään.</rdg>
                 </app> Ihminen <app id="var752" type="sub">
@@ -781,13 +781,13 @@
                 </app> hyötyä. Hän keritsee minulta villan, <app id="var772" type="sub">
                     <rdg>jonka sitten kehrää langoiksi.</rdg>
                 </app></p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="35"/>
-            <figure/>
+            <figure type="illustration"/>
             <p rend="noIndent">Langoista kudotaan monenlaisia kankaita, joista sitten
                 saadaan lämpimiä vaatteita. Niistä kudotaan myöskin pehmeitä sukkia
                 Nahastani tehdään turkkeja. Lihastani saadaan hyvää ruokaa.</p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="36"/>
             <p style="blackletter">Leijona vastasi ystävällisesti. <app id="var773"
                     type="sub">
@@ -835,7 +835,7 @@
                 </app> Kesyttömän veljeni nimi on <app id="var791" type="sub">
                     <rdg><hi rend="expanded">metsäkarju.</hi></rdg>
                 </app></p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona vastasi. Tunnen <app id="var792" type="sub">
                     <rdg>sangen</rdg>
                 </app> ison eläimen <app id="var793" type="sub">
@@ -889,7 +889,7 @@
                 </app> ihmisten <app id="var814" type="sub">
                     <rdg>asunnoille.</rdg>
                 </app> Pedot tulivat leijonan istuimen eteen.</p>
-            <figure/>
+            <figure type="illustration"/>
             <head style="blackletter"><hi rend="bold">Mitä pedot kertoivat.</hi></head>
             <p style="blackletter">Ne tunnustivat leijonalle kaiken julmuutensa. Me elämme
                     <app id="var815" type="sub">
@@ -966,7 +966,7 @@
                 </app> pyytäjän, jonka <app id="var847" type="sub">
                     <rdg>tekee <seg>mieli</seg> juovikasta</rdg>
                 </app> nahkaani.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona kiljui <app id="var848" type="sub">
                     <rdg>vihoissaan.</rdg>
                 </app> Minäkin olen <app id="var849" type="sub">
@@ -994,7 +994,7 @@
                     <rdg>Olen kaikista teistä väkevin. Mutta</rdg>
                 </app> olen myös jalomielisin. En <app id="var859" type="sub">
                     <rdg>unohda</rdg>
-                </app> koskaan <pb type="orig" n="39"/><figure/>
+                </app> koskaan <pb type="orig" n="39"/><figure type="illustration"/>
                 <app id="var860" type="sub int">
                     <rdg>sitä,</rdg>
                 </app> joka on <app id="var861" type="sub">
@@ -1031,7 +1031,7 @@
                     <rdg>häneen tarttua.</rdg>
                 </app> Silloin <app id="var875" type="sub int">
                     <rdg>heltyivät kaikki,</rdg>
-                </app> jotka <figure/>
+                </app> jotka <figure type="illustration"/>
                         <pb type="orig" n="40"/><app id="var876" type="sub">
                     <rdg><seg>tämän</seg></rdg>
                 </app> näkivät. Jalomielinen leijona, ystäväsi on vapaa. <app id="var877"
@@ -1082,9 +1082,9 @@
                 </app> Hiljaa <app id="var896" type="sub int">
                     <rdg>väistän heitä.</rdg>
                 </app></p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="41"/>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona nyökäytti <app id="var897" type="sub int">
                     <rdg>veitikkamaisesti päätään.</rdg>
                 </app> Karhu äijä on <app id="var898" type="sub">
@@ -1132,7 +1132,7 @@
                 </app> talvella. Joka <app id="var917" type="sub">
                     <rdg>minut</rdg>
                 </app> tappaa, saapi rahaa palkinnoksi.</p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="42"/>
             <p style="blackletter">Leijona tiesi <app id="var918" type="sub int">
                     <rdg>sudestakin kertomuksen.</rdg>
@@ -1183,7 +1183,7 @@
                 </app> alta, sai <app id="var938" type="sub">
                     <rdg>paljon</rdg>
                 </app> rahaa kuolleitten susien nahoista.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter"><hi rend="expanded">Kettu</hi>
                 <app id="var939" type="sub">
                     <rdg>nyt <seg>tulla</seg></rdg>
@@ -1249,7 +1249,7 @@
                 </app> ollessani <app id="var964" type="sub">
                     <rdg>hyppelen nopeasti</rdg>
                 </app> pyörivässä rattaassa.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona vastasi. Pysy <app id="var965" type="sub">
                     <rdg>sinä <seg>metsässä,</seg></rdg>
                 </app> kaunis orava. Pahoin <app id="var966" type="sub">
@@ -1291,7 +1291,7 @@
                 näillä <app id="var980" type="sub">
                     <rdg>main?</rdg>
                 </app></p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona <app id="var981" type="sub">
                     <rdg>laski</rdg>
                 </app> leikkiä. <app id="var982" type="sub">
@@ -1320,7 +1320,7 @@
                     <app id="var991" type="sub">
                     <rdg>veikeä uros?</rdg>
                 </app></p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona kuuli <app id="var992" type="sub">
                     <rdg>rymyä kaukaa.</rdg>
                 </app> Jänis <app id="var993" type="sub">
@@ -1352,9 +1352,9 @@
                 </app> lääkkeen tähden, jota <app id="var1005" type="sub int">
                     <rdg>ruumiistani saavat.</rdg>
                 </app></p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="45"/>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Leijona kohosi <app id="var1006" type="sub">
                     <rdg>seisoalleen valtavan ylevänä.</rdg>
                 </app> Nyt näen teissä Luojan kaikkivallan. Hyvin erilaisiksi <app
@@ -1411,7 +1411,7 @@
                 </app> eläimet iloisina <app id="var1030" type="sub">
                     <rdg>juoksevat <seg>vastaasi.</seg></rdg>
                 </app></p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="46"/>
             <head style="blackletter"><hi rend="bold">Apinat.</hi></head>
             <p style="blackletter">Kaksi <app id="var1031" type="sub">

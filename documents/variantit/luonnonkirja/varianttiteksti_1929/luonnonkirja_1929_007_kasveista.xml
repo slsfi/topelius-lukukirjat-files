@@ -223,7 +223,7 @@
                     <rdg>sitten</rdg>
                 </app> hedelmät, joissa on taas uusia siemeniä, ja siemenistä kasvaa taas
                 uusia kasveja.</p>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Tarkasti <app id="var2642" type="sub int">
                     <rdg>kukkia <seg>katsoessamme</seg> huomaamme muutamien</rdg>
                 </app> keskellä <app id="var2643" type="sub">
@@ -271,7 +271,7 @@
                 </app> kukan vieressä on <app id="var2663" type="sub int">
                     <rdg>rukiinolki tähkineen.</rdg>
                 </app></p>
-            <figure></figure>
+            <figure type="illustration"/>
             <pb type="orig" n="117"/>
             <p style="romanType">Muutamilla <app id="var2664" type="sub">
                     <rdg>kasveilla,</rdg>
@@ -328,7 +328,7 @@
                 </app> maahan juurtumaan, <app id="var2686" type="sub">
                     <rdg>sanoi</rdg>
                 </app> hän sitä <hi rend="expanded">juurrukkaaksi.</hi></p>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Toisen kerran näin <app id="var2687" type="sub">
                     <rdg>puutarhanhoitajan</rdg>
                 </app> leikkaavan oksan omenapuusta ja <app id="var2688" type="sub">
@@ -382,9 +382,9 @@
                 </app> kesä, kasvit <app id="var2709" type="sub">
                     <rdg>nukkuvat <seg>aivan</seg> vähän.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Olen nähnyt kasveja, jotka elävät monta vuotta ja joita
                     <app id="var2710" type="sub">
                     <rdg>sentähden sanotaan</rdg>
@@ -525,7 +525,7 @@
                 </app></p>
             <pb type="orig" n="120"/>
             <head style="romanType"><hi rend="bold">Puista.</hi></head>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Tuuli suhisee metsässä; <app id="var2768" type="sub">
                     <rdg>männyn kävyt</rdg>
                 </app> putoavat maahan. <app id="var2769" type="sub">
@@ -625,7 +625,7 @@
                     <rdg>iän.</rdg>
                 </app></p>
             <pb type="orig" n="121"/>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType"><hi rend="expanded">Mänty</hi> on <hi rend="italics"
                     >havupuu,</hi> jonka juuri <app id="var2812" type="sub">
                     <rdg>tunkee</rdg>
@@ -674,7 +674,7 @@
                 </app> ei kataja tule puuksi, vaan <app id="var2833" type="sub int">
                     <rdg>pensaaksi,</rdg>
                 </app> joka kasvaa pitkin maata.</p>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Minä sanoin: <app id="var2834" type="sub">
                     <rdg>Eikö</rdg>
                 </app> ole <app id="var2835" type="sub">
@@ -706,9 +706,9 @@
                 </app> rakasten ystäväin <app id="var2846" type="sub int">
                     <rdg>haudoille.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var2847" type="sub">
                     <rdg>Metsässä kävellessäsi piankin</rdg>
                 </app> havaitset <app id="var2848" type="sub">
@@ -747,7 +747,7 @@
                     <rdg>kaikkialla,</rdg>
                 </app> aina <app id="var2862" type="sub">
                     <rdg>Lapinmaassa asti. Sehän <pb type="orig" n="123"/>se tuossa</rdg>
-                </app> <figure></figure><figure></figure> tuvan <app id="var2863" type="sub int">
+                </app> <figure type="illustration"/><figure type="illustration"/> tuvan <app id="var2863" type="sub int">
                     <rdg>edessä kasvaa, oksat riipallansa,</rdg>
                 </app> ja <app id="var2864" type="sub int">
                     <rdg>siitä</rdg>
@@ -784,9 +784,9 @@
                         <seg>valkeine</seg> sulokukkineen</rdg>
                 </app> ja hyvine marjoineen? Muistathan <app id="var2879" type="sub">
                     <rdg>tuon</rdg>
-                </app> suoran <figure></figure>
-                <figure></figure>
-                        <figure></figure><app id="var2880"
+                </app> suoran <figure type="illustration"/>
+                <figure type="illustration"/>
+                        <figure type="illustration"/><app id="var2880"
                     type="sub">
                     <rdg><pb type="orig" n="124"/><seg><hi rend="expanded"
                         >haavan,</hi></seg></rdg>
@@ -831,9 +831,9 @@
                 </app> tekee. Sillä nämä puut kasvavat <app id="var2896" type="sub">
                     <rdg>vain</rdg>
                 </app> lämpimissä maissa.</p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Puutarhassa näin useita <hi rend="italics"
                     >hedelmäpuita,</hi> joiden mehukkaat hedelmät olivat hyviä syödä. <hi
                     rend="expanded">Omenapuu</hi>
@@ -873,12 +873,12 @@
                 </app> hedelmäpuille. <app id="var2912" type="sub">
                     <rdg>Tule kanssani</rdg>
                 </app> ansariin, niin näytän sinulle monta sellaista.</p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <pb type="orig" n="126"/>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Ansari, mikä se on? kysyin minä. Puutarhanhoitaja sanoi: se
                 on huone, <app id="var2913" type="sub">
                     <rdg>varta vasten</rdg>
@@ -926,11 +926,11 @@
                 </app> jonka hedelmistä tehdään <app id="var2933" type="sub">
                     <rdg>suklaakakkuja.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Täällä ansarissa kasvaa <hi rend="italics">hyviä </hi><app
                     id="var2934" type="sub">
                     <rdg><hi rend="italics">mausteita</hi></rdg>
@@ -947,7 +947,7 @@
                     id="var2938" type="sub">
                     <rdg><hi rend="expanded">kiniini</hi></rdg>
                 </app> nimistä lääkettä, ja oletko tuntenut <hi rend="expanded"
-                    >kanvertin</hi> väkevää <figure></figure><figure></figure><app id="var2939" type="sub">
+                    >kanvertin</hi> väkevää <figure type="illustration"/><figure type="illustration"/><app id="var2939" type="sub">
                     <rdg>
                         <seg>hajua?</seg></rdg>
                 </app> Olen <app id="var2940" type="sub int">
@@ -971,17 +971,17 @@
                     <rdg><hi rend="expanded">bresiljapuu,</hi> jonka sahanpuruja</rdg>
                 </app> värjäri panee <app id="var2949" type="sub">
                     <rdg>värikattilaansa,</rdg>
-                </app> ja <pb type="orig" n="129"/><figure></figure><figure></figure>
-                        <figure></figure>
-                        <figure></figure>
-                        <figure></figure>
-                        <figure></figure><app id="var2950" type="sub int">
+                </app> ja <pb type="orig" n="129"/><figure type="illustration"/><figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/><app id="var2950" type="sub int">
                     <rdg><pb type="orig" n="130"/><hi rend="expanded">korkkitammi,</hi> jonka
                         kevyestä kuoresta</rdg>
                 </app> leikataan <app id="var2951" type="sub int">
                     <rdg>kork keja pullojen tulpiksi.</rdg>
                 </app></p>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Tässä on <hi rend="expanded">öljypuu,</hi>
                 <app id="var2952" type="sub">
                     <rdg>jota Raamatussa</rdg>
@@ -1017,10 +1017,10 @@
                     id="var2963" type="sub">
                     <rdg>lähtevät</rdg>
                 </app> hajalleen juuresta.</p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var2964" type="sub">
                     <rdg>Myöhempänä kesällä</rdg>
                 </app> menen mielelläni poimimaan hyviä marjoja <hi rend="expanded"
@@ -1047,10 +1047,10 @@
                     <rdg>tuoksu</rdg>
                 </app> oli <app id="var2973" type="sub">
                     <rdg>lääkettä</rdg>
-                </app> väsyneelle mielelleni. <figure></figure><figure></figure>
-                        <figure></figure>
-                        <figure></figure>
-                        <figure></figure><app id="var2974" type="sub">
+                </app> väsyneelle mielelleni. <figure type="illustration"/><figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/><app id="var2974" type="sub">
                     <rdg>
                         Siitä</rdg>
                 </app> asti on <app id="var2975" type="sub">
@@ -1068,10 +1068,10 @@
                     <rdg>ruusupensaalle sanonut: <pb type="orig" n="133"/>Torukoot sinua
                         muut,</rdg>
                 </app> minä annan sinulle anteeksi kauneutesi tähden.</p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Ansarissa näin ihmeellisiä pensaita. <app id="var2981"
                     type="sub">
                     <rdg>Siellä</rdg>
@@ -1096,8 +1096,8 @@
                     <rdg>pumpulikankaaksi.</rdg>
                 </app></p>
             <pb type="orig" n="134"/>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Metsässä näin <app id="var2990" type="sub">
                     <rdg><seg>muutamia</seg> sangen</rdg>
                 </app> pitkiä pensaita, jotka kasvoivat <app id="var2991" type="sub int">
@@ -1183,8 +1183,8 @@
                 </app> mutta ne <app id="var3023" type="sub">
                     <rdg>suikertelevat mieluummin</rdg>
                 </app> pitkin maata.</p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <head style="romanType"><anchor id="struct110a"/><hi rend="bold">Ruohoja ja
                     heiniä.</hi><anchor id="struct110b"/></head>
             <p style="romanType">Kesällä ulkona kävellessäni näen <app id="var3024"
@@ -1218,11 +1218,11 @@
                 </app> samasta <app id="var3037" type="sub">
                     <rdg>juurakosta seuraavana</rdg>
                 </app> keväänä.</p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Pieneen <app id="var3038" type="sub">
                     <rdg>peltotilkkuun</rdg>
                 </app> on äiti kylvänyt <app id="var3039" type="sub int">
@@ -1262,10 +1262,10 @@
                     <rdg><seg>muut</seg>
                         <seg>hän</seg> on kasvattanut</rdg>
                 </app> siemenistä.</p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Olen poiminut <hi rend="expanded">lakkoja</hi>
                 <app id="var3053" type="sub">
                     <rdg>eli <hi rend="expanded">muuraimia</hi>
@@ -1308,9 +1308,9 @@
                 </app> tuodaan <app id="var3067" type="sub">
                     <rdg>kaikki <seg>ulkomailta.</seg></rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var3068" type="sub">
                     <rdg>Lisäksi</rdg>
                 </app> on peltotilkussamme useita <hi rend="italics">sipulikasveja.</hi>
@@ -1352,17 +1352,17 @@
                 </app> niitä <app id="var3084" type="sub">
                     <rdg><hi rend="italics">rehukasveiksi.</hi></rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <pb type="orig" n="140"/>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var3085" type="sub">
                     <rdg>Kun sairastumme, isä</rdg>
                 </app> ostaa <app id="var3086" type="sub">
@@ -1400,10 +1400,10 @@
                     <rdg>valkeankeltaiset</rdg>
                 </app> kukat. Me <app id="var3099" type="sub">
                     <rdg>erotamme</rdg>
-                </app><figure></figure>
-                        <figure></figure>
-                        <figure></figure>
-                        <figure></figure><figure></figure> myrkyllisen <app id="var3100"
+                </app><figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/><figure type="illustration"/> myrkyllisen <app id="var3100"
                     type="sub">
                     <rdg><hi rend="expanded">katkon,</hi></rdg>
                 </app> jonka <app id="var3101" type="sub">
@@ -1434,11 +1434,11 @@
                     id="var3111" type="sub int">
                     <rdg>paras on olla <seg>sitä</seg> koettelematta.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var3112" type="sub">
                     <rdg>Hauskaa</rdg>
                 </app> ja <app id="var3113" type="sub int">
@@ -1497,18 +1497,18 @@
                 </app> eli <app id="var3135" type="sub">
                     <rdg><hi rend="expanded">georgiinin.</hi></rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <pb type="orig" n="144"/>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var3136" type="sub">
                     <rdg>Niityllä</rdg>
                 </app> kasvaa lukemattomia <hi rend="italics">metsäkukkia.</hi> Siellä näkee
@@ -1543,12 +1543,12 @@
                 järjestäjästä, <app id="var3148" type="sub int">
                     <rdg>suuresta Linnéstä.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Kerran poltin käteni tuossa <app id="var3149" type="sub">
                     <rdg>ilkeässä <hi rend="expanded">nokkosessa.</hi></rdg>
                 </app> Menin kotiin sitä <app id="var3150" type="sub int">
@@ -1594,10 +1594,10 @@
                 </app> ja niistä kudotaan <app id="var3168" type="sub">
                     <rdg>säkkikangasta</rdg>
                 </app> ja purjevaatetta.</p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var3169" type="sub">
                     <rdg>Nyt menemme</rdg>
                 </app> niitylle <app id="var3170" type="sub">
@@ -1654,7 +1654,7 @@
                 </app> josta mattoja <app id="var3194" type="sub">
                     <rdg>palmikoidaan.</rdg>
                 </app></p>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Aivan usein on <app id="var3195" type="sub int">
                     <rdg><hi rend="italics">rikkaruoho</hi> pellolla vastuksena. <hi
                             rend="expanded">Narsku</hi> tunkeutuu</rdg>
@@ -1727,9 +1727,9 @@
                 </app> on <app id="var3222" type="sub int">
                     <rdg><seg>tehdä</seg> työtä pellolla.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <pb type="orig" n="149"/>
             <p style="romanType">Mutta <app id="var3223" type="sub">
                     <rdg><hi rend="expanded">ohra</hi></rdg>
@@ -1776,8 +1776,8 @@
                 </app> joissa <app id="var3241" type="sub">
                     <rdg>sellaista viljaa</rdg>
                 </app> kasvaa.</p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var3242" type="sub">
                     <rdg>Vielä</rdg>
                 </app> näin <app id="var3243" type="sub">
@@ -1856,9 +1856,9 @@
                 </app> pienissä <app id="var3271" type="sub">
                     <rdg>koteloissa.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <pb type="orig" n="151"/>
             <p style="romanType">Merellä soudellessani tarttuivat aironi usein <app
                     id="var3272" type="sub">
@@ -1922,8 +1922,8 @@
                 </app> kuinka sen siemenet ovat <app id="var3296" type="sub int">
                     <rdg>siihen tulleet.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Ja <app id="var3297" type="sub">
                     <rdg>samaten kuin</rdg>
                 </app> muutamia eläimiä <app id="var3298" type="sub">
@@ -1995,14 +1995,14 @@
                     <rdg>niistä.”</rdg>
                 </app>
             </p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <pb type="orig" n="153"/>
             <head style="romanType"><hi rend="bold">Puiden </hi><app id="var3328" type="sub">
                     <rdg><hi rend="bold">iästä.</hi></rdg>
                 </app></head>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Usein <app id="var3329" type="sub">
                     <rdg>saatat poikkihakatun</rdg>
                 </app> petäjän <app id="var3330" type="sub">
@@ -2064,7 +2064,7 @@
                 </app> vuotta vanhemman.</p>
             <head style="romanType"><anchor id="struct126a"/><hi rend="bold"
                     >Palmupuista.</hi><anchor id="struct126b"/></head>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Lämpimissä maissa ei ihmisen tarvitse <app id="var3356"
                     type="sub">
                     <rdg>muuta <seg>kuin</seg></rdg>
@@ -2131,8 +2131,8 @@
                 </app> saadaan <app id="var3384" type="sub">
                     <rdg>rakennustarpeita</rdg>
                 </app> ja polttopuuta.</p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <head style="romanType"><hi rend="bold">Tervasta.</hi></head>
             <p style="romanType"><app id="var3385" type="sub">
                     <rdg>Tahdotko tietää,</rdg>
@@ -2227,17 +2227,17 @@
                 </app> näin <app id="var3425" type="sub int">
                     <rdg>kaikki saavat,</rdg>
                 </app> mitä tarvitsevat.</p>
-            <figure></figure>
+            <figure type="illustration"/>
             <pb type="orig" n="157"/>
             <head style="romanType"><app id="var3426" type="sub">
                     <rdg><hi rend="bold">Kaarle</hi></rdg>
                 </app><hi rend="bold"> Linnéstä ja</hi> <app id="var3427" type="sub">
                     <rdg><hi rend="bold">ruohoista.</hi></rdg>
                 </app></head>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var3428" type="sub">
                     <rdg>Kahdeksannellatoista vuosisadalla</rdg>
                 </app> eli <app id="var3429" type="sub">
@@ -2322,8 +2322,8 @@
                     type="sub">
                     <rdg>nimeltään Kaarle</rdg>
                 </app> Linné. Se oli mainio mies!</p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var3467" type="sub">
                     <rdg>Kasvien jaon määrää niiden kukkain</rdg>
                 </app> ja <app id="var3468" type="sub">
@@ -2405,7 +2405,7 @@
                     <rdg>niissä Jumalan.</rdg>
                 </app></p>
             <head style="romanType"><hi rend="bold">Pellosta ja niitystä.</hi></head>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Tämä <app id="var3503" type="sub">
                     <rdg>seutu,</rdg>
                 </app> jossa nyt asumme, oli ennen <app id="var3504" type="sub">

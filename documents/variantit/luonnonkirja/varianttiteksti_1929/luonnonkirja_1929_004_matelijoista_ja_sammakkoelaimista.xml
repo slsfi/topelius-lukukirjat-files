@@ -220,8 +220,8 @@
                 </app> söisi <app id="var1688" type="sub">
                     <rdg>niiden</rdg>
                 </app> munia.</p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><anchor id="struct58a"/>Jos seuraat minua tuonne etelän suurille järville ja merille, niin
                         näytän sinulle toisen kummallisen matelijan, jonka nimi on <hi
                             rend="expanded">kilpikonna.</hi><anchor id="struct58b"/>
@@ -245,8 +245,8 @@
                 </app> tehdä kauniita kampoja ja <app id="var1697" type="sub">
                     <rdg>rasioita.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var1698" type="sub">
                     <rdg>Älä</rdg>
                 </app> mene <app id="var1699" type="sub">
@@ -326,7 +326,7 @@
                 </app> avojaloin <app id="var1732" type="sub int">
                     <rdg>niityllä kävellessäsi.</rdg>
                 </app></p>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Kuulin kerran vanhan sisiliskon kertovan hirveän suurista
                 käärmeistä, <app id="var1733" type="sub">
                     <rdg>joita elää</rdg>
@@ -374,8 +374,8 @@
                 </app> ole yhtään <app id="var1753" type="sub">
                     <rdg>jättiläiskäärmettä.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><anchor id="struct63a" subtype="ide"/><app id="var1754"
                     type="sub">
                     <rdg>Tämän sanottuansa lähti sisilisko luikertelemaan mutaiselle</rdg>
@@ -430,8 +430,8 @@
                 </app> on <app id="var1774" type="sub">
                     <rdg><seg>ruskea</seg></rdg>
                 </app> konna.<anchor id="struct63b" subtype="ide"/></p>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Eikö sinulla ole kauniimpia <app id="var1775" type="sub">
                     <rdg>eläimiä</rdg>
                 </app> meille <app id="var1776" type="sub">
@@ -512,7 +512,7 @@
                     <rdg>tai</rdg>
                 </app> kuolematta.</p>
             <head style="romanType"><hi rend="bold">Käärmeet.</hi></head>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Eräs <app id="var1811" type="sub">
                     <rdg>maamies</rdg>
                 </app> Amerikassa astui <app id="var1812" type="sub">
@@ -591,7 +591,7 @@
                     type="sub">
                     <rdg><hi rend="bold">salamanteri.</hi></rdg>
                 </app></head>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Sadut kertovat <app id="var1846" type="sub">
                     <rdg>paljon semmoista, jota</rdg>
                 </app> ei enää <app id="var1847" type="sub">

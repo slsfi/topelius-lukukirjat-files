@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Luonnonkirja (1929). Luku 9, varianttikoodattu</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo: Werner Söderström 1929</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+			<pb type="orig unprinted" n="185"/>
+            <figure type="illustration"/>
+        	<head type="section" style="romanType"><hi rend="bold">Yhdeksäs</hi> <app id="var4169" type="sub">
+                    <rdg><hi rend="bold">luku.</hi></rdg>
+                </app></head>
+            <head type="section" style="romanType"><hi rend="bold">Maasta.</hi></head>
+            <p style="romanType">Muutamana päivänä olivat Antti ja Liisa kartanolla ja
+                kaivoivat niin <app id="var4170" type="sub">
+                    <rdg>uutterasti,</rdg>
+                </app> että hiki <app id="var4171" type="sub int">
+                    <rdg>otsasta tippui.</rdg>
+                </app> Syvän kuopan <app id="var4172" type="sub">
+                    <rdg>kaivettuaan</rdg>
+                </app> istuivat <app id="var4173" type="sub">
+                    <rdg>he <seg>levähtämään</seg></rdg>
+                </app> ja <app id="var4174" type="sub">
+                    <rdg>katselivat</rdg>
+                </app> kuoppaan. Samassa tuli heidän isänsä ja kysyi: <app id="var4175"
+                    type="sub">
+                    <rdg>Mitä</rdg>
+                </app> kaivatte, lapset, ja mitä siinä <app id="var4176" type="sub int">
+                    <rdg>kuoppaan katselette?</rdg>
+                </app> Liisa vastasi: <app id="var4177" type="sub int">
+                    <rdg>Tahtoisimme <seg>mielellämme</seg> nähdä, mitä</rdg>
+                </app> maan <app id="var4178" type="sub int">
+                    <rdg>sisässä on.</rdg>
+                </app></p>
+            <p style="romanType">Isä sanoi: <app id="var4179" type="sub">
+                    <rdg>Vaikka</rdg>
+                </app> koko kylän väki <app id="var4180" type="sub int">
+                    <rdg><seg>samaa</seg> paikkaa kaivaisi,</rdg>
+                </app> ja <app id="var4181" type="sub">
+                    <rdg>vaikka he</rdg>
+                </app> sitä <app id="var4182" type="sub">
+                    <rdg>tekisivät</rdg>
+                </app> viisikymmentä vuotta, eivät <app id="var4183" type="sub">
+                    <rdg>sittenkään</rdg>
+                </app> saisi <app id="var4184" type="sub">
+                    <rdg>nähdä, mitä maan sisuksissa on.</rdg>
+                </app> Sillä jos olisi mahdollista kaivaa <app id="var4185" type="sub">
+                    <rdg>reikä</rdg>
+                </app> suoraan maan <app id="var4186" type="sub">
+                    <rdg>lävitse,</rdg>
+                </app> niin olisi se reikä <app id="var4187" type="sub">
+                    <rdg>1 200</rdg>
+                </app> (tuhat <app id="var4188" type="sub">
+                    <rdg>kaksisataa) penikulmaa</rdg>
+                </app> syvä. Ja <app id="var4189" type="sub">
+                    <rdg>päästäksenne</rdg>
+                </app> maan <app id="var4190" type="sub">
+                    <rdg>keskukseen,</rdg>
+                </app> täytyisi <app id="var4191" type="sub">
+                    <rdg>teidän <seg>kaivaa</seg></rdg>
+                </app> 600 <app id="var4192" type="sub">
+                    <rdg>(kuusisataa) penikulmaa</rdg>
+                </app> syvään. Mutta <app id="var4193" type="sub">
+                    <rdg>ei kukaan</rdg>
+                </app> voi <app id="var4194" type="sub">
+                    <rdg><seg>kaivaa</seg></rdg>
+                </app> puoltakaan <app id="var4195" type="sub">
+                    <rdg>penikulmaa maan sisään,</rdg>
+                </app> sillä sitä ennen <app id="var4196" type="sub">
+                    <rdg>tulee vesi tai vuori eteen. Penikulmaa syvä</rdg>
+                </app> ei <app id="var4197" type="sub">
+                    <rdg>ole</rdg>
+                </app> yksikään <app id="var4198" type="sub">
+                    <rdg>vuorikaivos.</rdg>
+                </app> Välistä <app id="var4199" type="sub">
+                    <rdg>tavataan</rdg>
+                </app> vuorissa syviä reikiä, joita <app id="var4200" type="sub int">
+                    <rdg>sanotaan <hi rend="expanded">luoliksi.</hi></rdg>
+                </app> Ihmiset ovat <app id="var4201" type="sub int">
+                    <rdg>toisinaan, lampun <pb type="orig" n="186"/>valossa,</rdg>
+                </app> kontanneet näihin <app id="var4202" type="sub">
+                    <rdg>luoliin,</rdg>
+                </app> nähdäkseen maan sisuksia. Ja siellä <app id="var4203" type="sub">
+                    <rdg>he ovat nähneet kirkonkorkuisia</rdg>
+                </app> holveja, <app id="var4204" type="sub int">
+                    <rdg>joiden katosta lakkaamatta tippui vettä. Ja siellä oli
+                        ihmeellisen</rdg>
+                </app> kauniita <app id="var4205" type="sub int">
+                    <rdg>valkokivisiä patsaita, ja siellä maanalaiset virrat pauhasivat
+                        syvällä pimeydessä.</rdg>
+                </app> Mutta ei yhtään elävää olentoa <app id="var4206" type="sub">
+                    <rdg><seg>asunut</seg></rdg>
+                </app> syvyydessä, ja ihmisiä <app id="var4207" type="sub">
+                    <rdg>alkoi siellä</rdg>
+                </app> niin <app id="var4208" type="sub">
+                    <rdg>kammottaa,</rdg>
+                </app> että <app id="var4209" type="sub">
+                    <rdg><seg>mielellään</seg> riensivät takaisin</rdg>
+                </app> Jumalan <app id="var4210" type="sub">
+                    <rdg>kirkkaaseen</rdg>
+                </app> päivän valoon. Ei siis <app id="var4211" type="sub">
+                    <rdg>varmuudella <seg>tiedetä</seg></rdg>
+                </app> mitään <app id="var4212" type="sub">
+                    <rdg><seg>maan</seg> sisuksista.</rdg>
+                </app> Mutta <app id="var4213" type="sub">
+                    <rdg><seg>likinnä</seg></rdg>
+                </app> jalkaimme <app id="var4214" type="sub int">
+                    <rdg>alla olevasta</rdg>
+                </app> tiedämme, että siinä on useita erilaisia <app id="var4215" type="sub">
+                    <rdg><hi rend="expanded">maakerroksia</hi></rdg>
+                </app> päälletysten. Kaivoa <app id="var4216" type="sub">
+                    <rdg>kaivettaessa sattuu niin,</rdg>
+                </app> että ensin <app id="var4217" type="sub">
+                    <rdg>tavataan multaa</rdg>
+                </app> ja <app id="var4218" type="sub">
+                    <rdg>hietaa, sitten savea, sitten</rdg>
+                </app> jälleen <app id="var4219" type="sub">
+                    <rdg>hietaa</rdg>
+                </app> ja <app id="var4220" type="sub int">
+                    <rdg>jälleen toisia maalajeja.</rdg>
+                </app> Paljon paremmin tunnemme maan <hi rend="expanded">pinnan,</hi> jonka
+                Jumala on luonut <app id="var4221" type="sub">
+                    <rdg><seg>ihmisille,</seg></rdg>
+                </app> kasveille ja <app id="var4222" type="sub">
+                    <rdg>eläimille asumasijaksi.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType"><app id="var4223" type="sub">
+                    <rdg>Tunsin pojan,</rdg>
+                </app> joka ei koskaan ollut käynyt ulkona tuvasta, jossa <app id="var4224"
+                    type="sub">
+                    <rdg><seg>asui,</seg></rdg>
+                </app> sillä hän oli sekä sokea että ontuva. <app id="var4225"
+                    type="sub">
+                    <rdg>Kauan aikaa</rdg>
+                </app> luuli hän <app id="var4226" type="sub">
+                    <rdg>siis, ettei maailmaa ollut</rdg>
+                </app> tuvan ovea <app id="var4227" type="sub">
+                    <rdg>ulom<pb type="orig" n="187"/>pana.</rdg>
+                </app> Mutta kerran <app id="var4228" type="sub">
+                    <rdg>kuuli</rdg>
+                </app> hän <app id="var4229" type="sub">
+                    <rdg>kerrottavan,</rdg>
+                </app> että oli palanen <app id="var4230" type="sub">
+                    <rdg>maailmaa tuvan oven ulkopuolellakin. Silloin pisti hän
+                        kätensä</rdg>
+                </app> ulos <app id="var4231" type="sub int">
+                    <rdg>akkunasta, koetellakseen,</rdg>
+                </app> kuinka iso <app id="var4232" type="sub">
+                    <rdg>maailma</rdg>
+                </app> oli. Ja <app id="var4233" type="sub">
+                    <rdg>näin</rdg>
+                </app> tyhjää <app id="var4234" type="sub">
+                    <rdg>ilmaa haparoidessaan hän</rdg>
+                </app> sanoi <app id="var4235" type="sub">
+                    <rdg><seg>kummastellen:</seg> Kylläpä onkin maailma suuri! Eivätpä</rdg>
+                </app> sen <app id="var4236" type="sub">
+                    <rdg>seinätkään käteeni tunnu!</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType">Tämän <app id="var4237" type="sub">
+                    <rdg>kuultuaan</rdg>
+                </app> rupesivat Antti ja Liisa nauramaan. Isä kysyi: <app id="var4238"
+                    type="sub">
+                    <rdg>Sanoppa</rdg>
+                </app> Liisa, kuinka <app id="var4239" type="sub">
+                    <rdg>paljon</rdg>
+                </app> tästä on <app id="var4240" type="sub">
+                    <rdg>maailman</rdg>
+                </app> ääreen? Liisa vastasi: <app id="var4241" type="sub">
+                    <rdg>Maailmaa</rdg>
+                </app> on vielä <app id="var4242" type="sub">
+                    <rdg>maantien veräjän tuolla puolenkin,</rdg>
+                </app> sillä <app id="var4243" type="sub int">
+                    <rdg><seg>siellä</seg> olen ollut lehmiä paimentamassa.</rdg>
+                </app> Antti luuli tätä kovin vähäksi ja sanoi: <app id="var4244" type="sub">
+                    <rdg>Maailmaa</rdg>
+                </app> on <app id="var4245" type="sub int">
+                    <rdg>varmaan penikulmankin päässä tästä,</rdg>
+                </app> sillä <app id="var4246" type="sub">
+                    <rdg>niin kaukana olen käynyt isän kanssa</rdg>
+                </app> myllyssä <app id="var4247" type="sub int">
+                    <rdg>viljaa jauhattamassa.</rdg>
+                </app></p>
+            <p style="romanType">Tähän <app id="var4248" type="sub">
+                    <rdg>isä sanoi: Niin vähän</rdg>
+                </app> tietäisimme, jos emme <app id="var4249" type="sub">
+                    <rdg>muilta</rdg>
+                </app> enempää <app id="var4250" type="sub">
+                    <rdg>oppisi.</rdg>
+                </app> Tulkaa, <app id="var4251" type="sub">
+                    <rdg>menkäämme</rdg>
+                </app> yhdessä <app id="var4252" type="sub">
+                    <rdg>tuonne</rdg>
+                </app> korkealle vuorelle metsään. Siellä saamme nähdä <app id="var4253"
+                    type="sub int">
+                    <rdg><seg>maan</seg> pintaa vähän loitommalta.</rdg>
+                </app></p>
+            <p style="romanType">Niin <app id="var4254" type="sub">
+                    <rdg>he kaikki <seg>menivät</seg></rdg>
+                </app> ja katselivat <app id="var4255" type="sub int">
+                    <rdg>mennessään <seg>tarkasti</seg> ympärilleen.</rdg>
+                </app> Käydessään <app id="var4256" type="sub">
+                    <rdg>kulkivat</rdg>
+                </app> he <app id="var4257" type="sub">
+                    <rdg>vihannalla kedolla <pb type="orig" n="188"/>ikäänkuin lattialla.
+                        Kun he olivat tulleet talosta</rdg>
+                </app> maantielle, oli <app id="var4258" type="sub">
+                    <rdg><seg>toisella</seg></rdg>
+                </app> puolella suuri <hi rend="expanded">metsä</hi> ja siinä <app
+                    id="var4259" type="sub">
+                    <rdg>monenlaisia</rdg>
+                </app> puita, pensaita ja <app id="var4260" type="sub int">
+                    <rdg>tiheätä <hi rend="expanded">viitaa.</hi></rdg>
+                </app> Toisella puolella oli tasainen maa <app id="var4261" type="sub">
+                    <rdg>peltoineen</rdg>
+                </app> ja <app id="var4262" type="sub">
+                    <rdg>niittyineen.</rdg>
+                </app> Tätä <app id="var4263" type="sub">
+                    <rdg>sanottiin</rdg>
+                </app>
+                <hi rend="expanded">lakeudeksi</hi> ja pienempää osaa siitä <app
+                    id="var4264" type="sub">
+                    <rdg>sanottiin</rdg>
+                </app>
+                <hi rend="expanded">kedoksi.</hi>
+                <app id="var4265" type="sub">
+                    <rdg>Vähän</rdg>
+                </app> ulompana, ulkopuolella kaupunkia, oli maa <app id="var4266"
+                    type="sub">
+                    <rdg>hietaista</rdg>
+                </app> ja <app id="var4267" type="sub">
+                    <rdg>sanottiin</rdg>
+                </app>
+                <hi rend="expanded">kentäksi.</hi> Ja vielä ulompana, <app id="var4268"
+                    type="sub">
+                    <rdg>missä lakeudella</rdg>
+                </app> kasvoi kanervia ja <app id="var4269" type="sub">
+                    <rdg>harvassa</rdg>
+                </app> mäntyjä, <app id="var4270" type="sub">
+                    <rdg>sanottiin</rdg>
+                </app> maata <hi rend="expanded">kankaaksi.</hi> Jos <app id="var4271"
+                    type="sub">
+                    <rdg>semmoinen</rdg>
+                </app> lakeus <app id="var4272" type="sub">
+                    <rdg>on</rdg>
+                </app> niin kuiva, ettei siinä <app id="var4273" type="sub int">
+                    <rdg>mitään kasva, nimitetään sitä <hi rend="expanded"
+                        >hietikoksi.</hi></rdg>
+                </app> Ja jos se <app id="var4274" type="sub">
+                    <rdg>on</rdg>
+                </app> paljas ja kivinen, mutta <app id="var4275" type="sub">
+                    <rdg>kasvaa</rdg>
+                </app> kuitenkin ruohoa, <app id="var4276" type="sub">
+                    <rdg>sanotaan</rdg>
+                </app> sitä <hi rend="expanded">aromaaksi.</hi></p>
+            <p style="romanType"><app id="var4277" type="sub">
+                    <rdg>Heidän etemmäksi kulkiessaan</rdg>
+                </app> alkoi maa yletä ja taas aleta. <app id="var4278" type="sub">
+                    <rdg>Korkeata</rdg>
+                </app> paikkaa <app id="var4279" type="sub">
+                    <rdg>sanottiin</rdg>
+                </app>
+                <hi rend="expanded">kukkulaksi,</hi> ja <app id="var4280" type="sub int">
+                    <rdg>siinä, missä maantie nousi tai laski,</rdg>
+                </app> oli <hi rend="expanded">mäki.</hi> Ja jos <app id="var4281"
+                    type="sub">
+                    <rdg><seg>kukkula</seg> on</rdg>
+                </app> korkea ja suuri, <app id="var4282" type="sub">
+                    <rdg>sanotaan</rdg>
+                </app> sitä <hi rend="expanded">vaaraksi;</hi> ja jos se <app id="var4283"
+                    type="sub">
+                    <rdg>on</rdg>
+                </app> pitkä ja <app id="var4284" type="sub">
+                    <rdg>kaitainen, sanotaan</rdg>
+                </app> sitä <app id="var4285" type="sub int">
+                    <rdg><hi rend="expanded">selänteeksi.</hi> Laskeuduttuaan</rdg>
+                </app> mäkeä alas tulivat lapset alhaiselle paikalle <app id="var4286"
+                    type="sub">
+                    <rdg>kahden</rdg>
+                </app> vaaran väliin, ja sitä <app id="var4287" type="sub">
+                    <rdg>sanottiin <hi rend="expanded">laaksoksi.</hi></rdg>
+                </app> Mutta <app id="var4288" type="sub">
+                    <rdg>kun laakso on</rdg>
+                </app> pieni, <app id="var4289" type="sub">
+                    <rdg>sanotaan</rdg>
+                </app> sitä <hi rend="expanded">notkoksi.</hi></p>
+            <p style="romanType"><app id="var4290" type="sub">
+                    <rdg>Laakson</rdg>
+                </app> läpi <app id="var4291" type="sub">
+                    <rdg>kuljettuaan poikkesivat</rdg>
+                </app> lapset <app id="var4292" type="sub">
+                    <rdg>maantieltä</rdg>
+                </app> ja alkoivat nousta vuoren rinnettä <app id="var4293" type="sub">
+                    <rdg>ylös.</rdg>
+                </app> Paikoittain oli rinne sileä, mutta paikoittain oli siinä suuria <hi
+                    rend="expanded">rakoja,</hi>
+                <app id="var4294" type="sub">
+                    <rdg>ikäänkuin</rdg>
+                </app> vuori olisi halkeillut. Siellä oli <app id="var4295" type="sub">
+                    <rdg>paljon</rdg>
+                </app> suuria <app id="var4296" type="sub">
+                    <rdg>kiviä,</rdg>
+                </app> joita <app id="var4297" type="sub">
+                    <rdg>sanottiin <hi rend="expanded">kallioiksi,</hi> mutta toisia, jotka
+                        olivat pinnaltaan tasaisempia, sanottiin</rdg>
+                </app>
+                <hi rend="expanded">paasiksi.</hi> Ja kallioiden <app id="var4298"
+                    type="sub">
+                    <rdg>välissä</rdg>
+                </app> oli <app id="var4299" type="sub">
+                    <rdg>syvi<hi rend="expanded">ärotkoja,</hi></rdg>
+                </app> joihin <app id="var4300" type="sub int">
+                    <rdg>helposti saattoi pudota. Ylemmäksi tultuaan</rdg>
+                </app> näkivät lapset <app id="var4301" type="sub">
+                    <rdg>siellä pitkän rivin vuoria,</rdg>
+                </app> ja <app id="var4302" type="sub">
+                    <rdg>niiden välillä laaksoja</rdg>
+                </app> ja <app id="var4303" type="sub">
+                    <rdg>rotkoja,</rdg>
+                </app> ja <app id="var4304" type="sub">
+                    <rdg>tätä sanottiin <hi rend="expanded">vuorenseläksi</hi> eli <hi
+                            rend="expanded">vuorenharjanteeksi.</hi></rdg>
+                </app> Jos täällä <app id="var4305" type="int">
+                    <rdg>olisi,</rdg>
+                </app> niinkuin <app id="var4306" type="int">
+                    <rdg>Lapissa,</rdg>
+                </app> rivi korkeita <app id="var4307" type="sub int">
+                    <rdg>vuoria, joilla on terävät huiput</rdg>
+                </app> ja lunta <app id="var4308" type="sub">
+                    <rdg>huipuilla, sanottaisiin</rdg>
+                </app> niitä <hi rend="expanded">tuntureiksi.</hi> Ja niiden välillä olisi
+                synkkiä <app id="var4309" type="sub">
+                    <rdg><hi rend="expanded">louhikkokorpia</hi></rdg>
+                </app> ja autioita <hi rend="expanded">vuomia,</hi> joissa ei <app
+                    id="var4310" type="sub">
+                    <rdg>näkyisi</rdg>
+                </app> muuta kuin <app id="var4311" type="sub">
+                    <rdg>kivi kiven</rdg>
+                </app> ja <app id="var4312" type="sub">
+                    <rdg>mätäs</rdg>
+                </app> mättään vieressä.</p>
+            <pb type="orig" n="189"/>
+            <p style="romanType">Tämä vuori on <app id="var4313" type="sub">
+                    <rdg>varmaankin</rdg>
+                </app> korkein <app id="var4314" type="sub int">
+                    <rdg>maailmassa,</rdg>
+                </app> sanoi Antti. <app id="var4315" type="sub">
+                    <rdg>Korkeahan tämä on,</rdg>
+                </app> sanoi isä, koska tämä on paljon korkeampi puita, huoneita ja kiviä,
+                jotka ovat tuolla <app id="var4316" type="sub">
+                    <rdg>alhaalla</rdg>
+                </app> lakeudella. Mutta <app id="var4317" type="sub">
+                    <rdg>on niitä</rdg>
+                </app> paljon <app id="var4318" type="sub">
+                    <rdg>korkeampiakin vuoria.</rdg>
+                </app> Ja <app id="var4319" type="sub">
+                    <rdg>verrataksemme niitä toisiinsa, laskemme, kuinka korkealla
+                            <seg>niiden</seg> huiput ovat meren pinnasta. Korkein vuori
+                        Suomessa</rdg>
+                </app> on <app id="var4320" type="sub">
+                    <rdg>Halditshokko.</rdg>
+                </app> Se on niin korkealla merestä, <app id="var4321" type="int">
+                    <rdg>että,</rdg>
+                </app> jos <app id="var4322" type="sub">
+                    <rdg>28</rdg>
+                </app> kirkontornia pantaisiin päälletysten seisomaan, <app id="var4323" type="sub">
+                    <rdg>vasta viimeisen</rdg>
+                </app> huippu <app id="var4324" type="sub int">
+                    <rdg>tulisi Halditshokon huipun tasalle.</rdg>
+                </app>
+                <note id="ftn2" n="*)" place="foot"><hi rend="expanded">Muist.</hi>
+                    Kirkontornin <app id="var4325" type="sub">
+                    <rdg>oletamme silloin olevan 45
+                            metriä korkean. Halditshokon huippu</rdg>
+                </app> on siis <app id="var4326" type="sub">
+                    <rdg>1250 metriä meren pintaa
+                            ylempänä.</rdg></app></note> <app id="var4327" type="sub"><rdg>Peldoivi Lapissa on <seg>13</seg> kirkontornin korkuinen. Kuitenkin on vielä paljon
+                        korkeampia vuoria muissa maissa.</rdg>
+                </app> Kimborazo Amerikassa on niin korkea kuin <app id="var4328" type="sub">
+                    <rdg>142</rdg>
+                </app> kirkontornia <app id="var4329" type="sub int">
+                    <rdg>päälletysten.</rdg>
+                </app> Ja jos <app id="var4330" type="sub">
+                    <rdg>saattaisi</rdg>
+                </app> sinne kiivetä suoraan <app id="var4331" type="sub">
+                    <rdg><seg>tikapuita</seg></rdg>
+                </app> myöten, niin pitäisi niiden <app id="var4332" type="sub">
+                    <rdg><seg>olla</seg> noin 7 kilometriä <seg>pitkät.</seg> Mount Everest
+                        Aasiassa on vieläkin korkeampi. Se on niin korkea kuin 196
+                        kirkontornia.</rdg>
+                </app></p>
+            <p style="romanType">Mutta jos <app id="var4333" type="sub">
+                    <rdg>korkeiden</rdg>
+                </app> vuorten yli <app id="var4334" type="sub">
+                    <rdg>kiipeisimme,</rdg>
+                </app> mitä <app id="var4335" type="sub">
+                    <rdg>niiden</rdg>
+                </app> toisella puolella <app id="var4336" type="sub">
+                    <rdg>näkisimme?</rdg>
+                </app> kysyi Liisa. <app id="var4337" type="sub">
+                    <rdg>Onko siellä</rdg>
+                </app> jo <app id="var4338" type="sub">
+                    <rdg>maailman</rdg>
+                </app> ääri?</p>
+            <p style="romanType">Ei, <app id="var4339" type="sub">
+                    <rdg>siellä on</rdg>
+                </app> taas toisia lakeuksia ja toisia vuoria ja <app id="var4340"
+                    type="sub">
+                    <rdg>laaksoja</rdg>
+                </app> ja kukkuloita ja <app id="var4341" type="sub">
+                    <rdg>mäkiä</rdg>
+                </app> ja kankaita ja metsiä ja tuntureita, siksi <app id="var4342"
+                    type="sub">
+                    <rdg>kunnes tulee vesi eteen.</rdg>
+                </app> Niin <app id="var4343" type="sub">
+                    <rdg>edulliseksi</rdg>
+                </app> ja <app id="var4344" type="sub">
+                    <rdg>kauniiksi</rdg>
+                </app> on maa luotu, että <app id="var4345" type="sub">
+                    <rdg>toinen seutu</rdg>
+                </app> ei ole toisensa näköinen. <app id="var4346" type="sub int">
+                    <rdg>Eri seutujen asukasten täytyy</rdg>
+                </app> alinomaa vaihettaa toisilleen sitä, <app id="var4347" type="sub">
+                    <rdg>mitä</rdg>
+                </app> maa <app id="var4348" type="sub">
+                    <rdg>toisessa</rdg>
+                </app> paikassa <app id="var4349" type="sub">
+                    <rdg>tuottaa <seg>ja</seg> mitä toisesta puuttuu. Lakean maan</rdg>
+                </app> asukasten täytyy tuoda <app id="var4350" type="sub">
+                    <rdg>metsistä</rdg>
+                </app> hirtensä ja <app id="var4351" type="sub">
+                    <rdg>vuoristosta</rdg>
+                </app> rautansa. Vuorimaiden asukasten täytyy tuoda <app id="var4352"
+                    type="sub">
+                    <rdg>viljaa</rdg>
+                </app> ja <app id="var4353" type="sub">
+                    <rdg>maitoa lakeuksilta.</rdg>
+                </app> Ja <app id="var4354" type="sub">
+                    <rdg>niiden, <seg>jotka</seg></rdg>
+                </app> asuvat suurissa metsissä, <app id="var4355" type="sub">
+                    <rdg><seg>täytyy</seg></rdg>
+                </app> matkustaa muille tienoille saadakseen sitä, jota ei metsä <app
+                    id="var4356" type="sub">
+                    <rdg>tuota.</rdg>
+                </app></p>
+            <p style="romanType"><app id="var4357" type="sub">
+                    <rdg>Levähtäkäämme</rdg>
+                </app> nyt <app id="var4358" type="sub">
+                    <rdg>vähän</rdg>
+                </app> tässä vuoren <app id="var4359" type="sub">
+                    <rdg>huipulla</rdg>
+                </app> ja <pb type="orig" n="190"/><app id="var4360" type="sub">
+                    <rdg>syökäämme illallisemme.</rdg>
+                </app> Tämä puukko on taottu vuoren raudasta. Tämä leipä on leivottu <app
+                    id="var4361" type="sub int">
+                    <rdg>lakeuksien viljasta.</rdg>
+                </app> Tämä kori on <app id="var4362" type="sub">
+                    <rdg>palmikoitu</rdg>
+                </app> metsän <app id="var4363" type="sub">
+                    <rdg>puiden <seg>juurista.</seg></rdg>
+                </app> Ympärillämme ja <app id="var4364" type="sub">
+                    <rdg>allamme aukenee</rdg>
+                </app> maa <app id="var4365" type="sub">
+                    <rdg>eteemme kirjavana tauluna <seg>kesän</seg> vihannuudessa.
+                        Kaikkialla, niin kauas</rdg>
+                </app> kuin silmä <app id="var4366" type="sub">
+                    <rdg>kantaa,</rdg>
+                </app> ovat <app id="var4367" type="sub">
+                    <rdg><seg>Jumalan</seg></rdg>
+                </app> työt täydellisiä ja viisaita. Ja kuitenkin näemme tässä aivan pienen
+                osan maata ja vielä <app id="var4368" type="sub">
+                    <rdg>paljoa</rdg>
+                </app> pienemmän osan koko luotua <app id="var4369" type="sub">
+                    <rdg>maailmaa.</rdg>
+                </app> Mutta jos kulkisimme <app id="var4370" type="sub">
+                    <rdg>laakkaamatta samaa suuntaa</rdg>
+                </app> ja kiipeisimme vuorten yli ja purjehtisimme merien <app id="var4371"
+                    type="sub">
+                    <rdg>poikki, olisimme silloin vihdoinkin</rdg>
+                </app> vaeltaneet ja kulkeneet koko maan ympäri.</p>
+            <p style="romanType">Niin, <app id="var4372" type="sub">
+                    <rdg>kulkekaamme</rdg>
+                </app> koko maan ympäri, <app id="var4373" type="sub">
+                    <rdg>huusivat</rdg>
+                </app> molemmat lapset ilon innossa. <app id="var4374" type="sub">
+                    <rdg>Lähtekäämme</rdg>
+                </app> heti <app id="var4375" type="sub">
+                    <rdg><seg>ja</seg> tulkaamme</rdg>
+                </app> huomenna jälleen <app id="var4376" type="sub">
+                    <rdg>takaisin!</rdg>
+                </app></p>
+            <p style="romanType"><app id="var4377" type="sub int">
+                    <rdg>Siihen hyvä isä hymyili</rdg>
+                </app> ja <app id="var4378" type="sub int">
+                    <rdg><seg>sanoi:</seg> Ne, joiden hallussa on kaikki keinot, joita
+                        ihmiset suinkin</rdg>
+                </app> ovat <app id="var4379" type="sub int">
+                    <rdg>keksineet,</rdg>
+                </app> merien ja maiden <app id="var4380" type="sub">
+                    <rdg>yli päästäkseen,</rdg>
+                </app> tarvitsevat maan ympäri <app id="var4381" type="sub">
+                    <rdg>kulkeakseen kolmatta kuukautta.</rdg>
+                </app> Mutta jos me lähtisimme sille matkalle tänä päivänä, pysähtyisimme
+                kukatiesi <app id="var4382" type="sub">
+                    <rdg>neuvottomina <seg>jo</seg> ensimmäisen</rdg>
+                </app> ojan <app id="var4383" type="sub">
+                    <rdg>reunalle.</rdg>
+                </app> Kukatiesi kerran, isoiksi <app id="var4384" type="sub">
+                    <rdg>tultuanne,</rdg>
+                </app> tekin <app id="var4385" type="sub">
+                    <rdg>astutte</rdg>
+                </app> isoon laivaan ja purjehditte tuhansia <app id="var4386" type="sub">
+                    <rdg>penikulmia</rdg>
+                </app> maan ympäri. Mutta nyt palaamme ilta-auringon valossa <app
+                    id="var4387" type="sub">
+                    <rdg>takaisin</rdg>
+                </app> pieneen majaamme. <app id="var4388" type="sub">
+                    <rdg>Siellä</rdg>
+                </app> on hyvä kotimme, ja tämä maa on Suomi, <app id="var4389" type="int">
+                    <rdg>oma,</rdg>
+                </app> rakas isänmaamme. <app id="var4390" type="sub">
+                    <rdg>Eikä toista</rdg>
+                </app> maata koko <app id="var4391" type="sub">
+                    <rdg><seg>maan</seg> piirissä</rdg>
+                </app> ole meille <app id="var4392" type="sub">
+                    <rdg>kaikkena elinaikanamme <seg>niin</seg></rdg>
+                </app> rakasta ja <app id="var4393" type="sub int">
+                    <rdg>kallista. Tämän maan hyväksi</rdg>
+                </app> tahdomme <app id="var4394" type="sub">
+                    <rdg><seg>elää</seg></rdg>
+                </app> ja <app id="var4395" type="sub">
+                    <rdg>tämän</rdg>
+                </app> maan <app id="var4396" type="sub">
+                    <rdg>hyväksi</rdg>
+                </app> saatamme kuolla. Tätä maata ymmärrämme me <app id="var4397"
+                    type="sub">
+                    <rdg>parhaiten.</rdg>
+                </app> Täällä asuivat isämme. Täällä oli kätkyemme, jonka vieressä äitimme
+                    <app id="var4398" type="sub int">
+                    <rdg><seg>meille</seg> laulujaan lauloi.</rdg>
+                </app> Näiden <app id="var4399" type="sub">
+                    <rdg>koivujen</rdg>
+                </app> ja kuusten alla olemme kasvaneet ja leikitelleet. Täällä on meillä
+                ollut suruja ja <app id="var4400" type="sub">
+                    <rdg>paljon</rdg>
+                </app> iloa, huolia ja <app id="var4401" type="sub">
+                    <rdg>paljon</rdg>
+                </app> rauhaa. Ja täällä, tässä samassa maassa, isänmaassamme, <app
+                    id="var4402" type="sub">
+                    <rdg>suo</rdg>
+                </app> Jumala meille kerran haudan <app id="var4403" type="sub">
+                    <rdg>koivujen varjossa.</rdg>
+                </app></p>
+            <pb type="orig" n="191"/>
+            <p style="romanType">Ja <app id="var4404" type="sub int">
+                    <rdg><seg>jalkamme</seg> maata tallatessa kohoaa</rdg>
+                </app> päämme <app id="var4405" type="sub">
+                    <rdg>vapaana</rdg>
+                </app> taivaan <app id="var4406" type="sub">
+                    <rdg>sinikattoa</rdg>
+                </app> kohti. Katso, näin tahtoo Jumala <app id="var4407" type="sub">
+                    <rdg>alituisesti osoittaa</rdg>
+                </app> meille, että olemme <app id="var4408" type="sub int">
+                    <rdg><seg>maan</seg> tomusta kasvaneet,</rdg>
+                </app> mutta <app id="var4409" type="sub">
+                    <rdg>että tarkoituksenamme on</rdg>
+                </app> olentomme <app id="var4410" type="sub">
+                    <rdg>kalliimmalla osalla pyrkiä korkeuteen.</rdg>
+                </app> Ja vaikka me rakastamme ja <app id="var4411" type="sub">
+                    <rdg>ihmettelemme</rdg>
+                </app> tätä ihanaa maata, niin ei tämä kuitenkaan ole sielumme oikea ja <app
+                    id="var4412" type="sub">
+                    <rdg>iankaikkinen</rdg>
+                </app> koti. Se on <app id="var4413" type="sub">
+                    <rdg>korkeammalla:</rdg>
+                </app> se on Jumalan kaikkivaltiaan <app id="var4414" type="sub">
+                    <rdg>luona</rdg>
+                </app> taivaan korkeudessa.</p>
+            <head style="romanType"><hi rend="bold">Fingalin luolasta.</hi></head>
+            <figure type="illustration"/>
+            <p style="romanType">Staffan saarella <app id="var4415" type="sub">
+                    <rdg>Skotlannissa</rdg>
+                </app> on <app id="var4416" type="sub">
+                    <rdg>kuuluisa</rdg>
+                </app> luola, jossa sadut sanovat <app id="var4417" type="sub">
+                    <rdg><seg>jalon</seg> urhon</rdg>
+                </app> Fingalin asuneen. Siihen soudetaan veneellä <app id="var4418"
+                    type="sub">
+                    <rdg>mereltä,</rdg>
+                </app> jonka vesi huuhtoo luolan sisustaa. <pb type="orig" n="192"/>Siellä
+                luulee olevansa kauniissa kirkossa, jossa on <app id="var4419"
+                    type="sub int">
+                    <rdg>pitkin seiniä monta ihanaa patsasta. Ihmiskäsi ei</rdg>
+                </app> ole koskaan <app id="var4420" type="sub int">
+                    <rdg><seg>mitään</seg> ihanampaa luonut.</rdg>
+                </app> Suuri vuori <app id="var4421" type="sub">
+                    <rdg>kaareilee kattona</rdg>
+                </app> sen <app id="var4422" type="sub">
+                    <rdg>yllä,</rdg>
+                </app> ja siitä tippuu <app id="var4423" type="sub">
+                    <rdg>alituisesti</rdg>
+                </app> vettä, jonka lorina <app id="var4424" type="sub">
+                    <rdg>yhtyy</rdg>
+                </app> meren pauhuun. Välistä kuuluu sieltä <app id="var4425" type="sub">
+                    <rdg>ikäänkuin hiljaista soittoa.</rdg>
+                </app> Se <app id="var4426" type="sub">
+                    <rdg>soi</rdg>
+                </app> niin <app id="var4427" type="sub">
+                    <rdg>ihmeellisesti,</rdg>
+                </app> kun tuuli kulkee patsasten <app id="var4428" type="sub">
+                    <rdg>välitse,</rdg>
+                </app> ja luulisipa kuulevansa <app id="var4429" type="sub">
+                    <rdg>muinaisajan</rdg>
+                </app> ihmisten <app id="var4430" type="sub">
+                    <rdg>ääniä,</rdg>
+                </app> jotka luolassa <app id="var4431" type="sub">
+                    <rdg>ovat etsineet</rdg>
+                </app> suojaa <app id="var4432" type="sub int">
+                    <rdg>myrskyiltä ja rajuilmoilta.</rdg>
+                </app></p>
+            <head style="romanType"><hi rend="bold">Maan </hi><app id="var4433"
+                    type="sub">
+                    <rdg><hi rend="bold">erilaisista muodoista.</hi></rdg>
+                </app></head>
+            <p style="romanType"><app id="var4434" type="sub">
+                    <rdg>Limingassa</rdg>
+                </app> Pohjanmaalla on niin suuri lakeus <app id="var4435" type="sub">
+                    <rdg>pelkkää niittymaata,</rdg>
+                </app> ettei <app id="var4436" type="sub">
+                    <rdg>saata</rdg>
+                </app> nähdä <app id="var4437" type="sub">
+                    <rdg>sen toisesta laidasta</rdg>
+                </app> toiseen. <app id="var4438" type="sub">
+                    <rdg>Isossakyrössä</rdg>
+                </app> on yhtä iso lakeus <app id="var4439" type="sub">
+                    <rdg><seg>peltoa.</seg> Sentähden</rdg>
+                </app> onkin näistä vanhastaan sanottu:</p>
+            <lg>
+                <l style="romanType"><app id="var4440" type="sub">
+                        <rdg>Isonkyrön</rdg>
+                    </app> pelto ja <app id="var4441" type="sub">
+                        <rdg>Limingan</rdg>
+                    </app> niitty,</l>
+                <l style="romanType"><app id="var4442" type="sub">
+                        <rdg>vertoja</rdg>
+                    </app> näille ei ole tietty.</l>
+            </lg>
+            <p style="romanType">Parolan kenttä Hämeenlinnan <app id="var4443" type="sub">
+                    <rdg>luona</rdg>
+                </app> ja Helsingin kenttä <app id="var4444" type="sub">
+                    <rdg>likellä <seg>Helsinkiä</seg></rdg>
+                </app> ovat niin <app id="var4445" type="sub">
+                    <rdg>laajat,</rdg>
+                </app> että monta tuhatta sotamiestä saattaa niillä <app id="var4446"
+                    type="sub int">
+                    <rdg>yksin ajoin sotatemppujansa harjoittaa.</rdg>
+                </app> Suurimpia kankaita Suomessa on <app id="var4447" type="sub">
+                    <rdg>Hämeenkangas,</rdg>
+                </app> joka <app id="var4448" type="sub int">
+                    <rdg>kulkee halki maan. Siellä</rdg>
+                </app> kasvaa hyvin suuria <app id="var4449" type="sub int">
+                    <rdg>honkia,</rdg>
+                </app> ja maa on <app id="var4450" type="sub">
+                    <rdg>ruskeana</rdg>
+                </app> kanervista. Mutta harvassa näkyy siellä <app id="var4451"
+                    type="sub">
+                    <rdg>taloja, sillä hietikkomaata</rdg>
+                </app> ei <app id="var4452" type="sub">
+                    <rdg>saa vähällä vaivalla</rdg>
+                </app> pelloksi. Suomessa ei ole <app id="var4453" type="sub int">
+                    <rdg>varsinaisia aromaita,</rdg>
+                </app> eikä <app id="var4454" type="sub">
+                    <rdg>sellaisia hietikkoja</rdg>
+                </app> kuin <app id="var4455" type="sub">
+                    <rdg>suuren</rdg>
+                </app> Saharan <app id="var4456" type="sub">
+                    <rdg>erämaan hietikot</rdg>
+                </app> Afrikassa. Siellä ei ole hyvä olla. <app id="var4457" type="sub">
+                    <rdg>Silmänkannon matkat</rdg>
+                </app> on siellä <app id="var4458" type="sub">
+                    <rdg>suunnaton</rdg>
+                </app> lakeus polttavaa hietaa, mutta hyvin harvassa <app id="var4459"
+                    type="sub int">
+                    <rdg>pensaita tai puita.</rdg>
+                </app> Siellä kiljuu <app id="var4460" type="sub">
+                    <rdg>leijona</rdg>
+                </app> janoissaan. Siellä juoksee <app id="var4461" type="sub int">
+                    <rdg>nopea kameelikurki.</rdg>
+                </app> Ei <app id="var4462" type="sub">
+                    <rdg>yksikään</rdg>
+                </app> ihminen <app id="var4463" type="sub">
+                    <rdg>saattaisi</rdg>
+                </app> siellä <app id="var4464" type="sub">
+                    <rdg>matkustaa,</rdg>
+                </app> jos eivät <app id="var4465" type="sub">
+                    <rdg>kameelit,</rdg>
+                </app> joilla <app id="var4466" type="sub int">
+                    <rdg>ratsaste<pb type="orig" n="193"/>taan, voisi nääntymättä</rdg>
+                </app> kärsiä <app id="var4467" type="sub int">
+                    <rdg>pitkällistä janoa.</rdg>
+                </app> Mutta <app id="var4468" type="sub int">
+                    <rdg>siinä, missä</rdg>
+                </app> lähde juoksee maasta, <app id="var4469" type="sub int">
+                    <rdg>on maa yltympäri vihantaa,</rdg>
+                </app> ja <app id="var4470" type="sub">
+                    <rdg>sitä sanotaan <hi rend="expanded">keitaaksi.</hi> Siinä</rdg>
+                </app> kasvaa puita, jotka <app id="var4471" type="sub int">
+                    <rdg>tarjoavat matkamiehelle varjoa.</rdg>
+                </app></p>
+            <p style="romanType">Maassamme <app id="var4472" type="sub">
+                    <rdg>näkee harvoin</rdg>
+                </app> tuulen ajavan <app id="var4473" type="sub">
+                    <rdg><hi rend="expanded">lentohiekkaa</hi></rdg>
+                </app> pelloille ja niityille, jotka siitä muuttuvat <app id="var4474"
+                    type="sub">
+                    <rdg>hietanummiksi.</rdg>
+                </app> Harvoin <app id="var4475" type="sub">
+                    <rdg>täällä <seg>kuulee</seg></rdg>
+                </app> puhuttavan <app id="var4476" type="sub int">
+                    <rdg><hi rend="expanded">maan vieremistä,</hi> joissa</rdg>
+                </app> vesi kaivaa <app id="var4477" type="sub">
+                    <rdg>altapäin</rdg>
+                </app> suuria <app id="var4478" type="sub">
+                    <rdg>maapalstoja tai mäkiä,</rdg>
+                </app> jotka <app id="var4479" type="sub">
+                    <rdg>sitten kukistuvat.</rdg>
+                </app> Kuitenkin on <app id="var4480" type="sub int">
+                    <rdg>sellaista joskus tapahtunut, esimerkiksi</rdg>
+                </app> Halikossa <app id="var4481" type="sub">
+                    <rdg>likellä</rdg>
+                </app> Turkua. Kerran <app id="var4482" type="sub">
+                    <rdg>vieri</rdg>
+                </app> maa <app id="var4483" type="sub">
+                    <rdg>pois tuulimyllyn alta.</rdg>
+                </app> Mylly kaatui <app id="var4484" type="sub int">
+                    <rdg>kyljelleen</rdg>
+                </app> ja mylläri ei osannut ulos. <app id="var4485" type="sub">
+                    <rdg>Olikin vaikea</rdg>
+                </app> osata, kun ovi oli <app id="var4486" type="sub int">
+                    <rdg>kääntynyt päin maata.</rdg>
+                </app></p>
+            <figure type="illustration"/>
+            <p style="romanType">Maassamme on monta vuorta, mutta ne eivät ole <app
+                    id="var4487" type="sub">
+                    <rdg>kovin</rdg>
+                </app> korkeita. Täällä on myös <app id="var4488" type="sub">
+                    <rdg>monta pitkää selännettä</rdg>
+                </app> ja <app id="var4489" type="sub">
+                    <rdg>vuorenharjannetta, joilla</rdg>
+                </app> muutamilla <app id="var4490" type="sub">
+                    <rdg>on eri</rdg>
+                </app> nimet, mutta <app id="var4491" type="sub">
+                    <rdg>useampia sanotaan</rdg>
+                </app> yhteisellä nimellä <app id="var4492" type="sub">
+                    <rdg>Maanseläksi.</rdg>
+                </app> Monta <app id="var4493" type="sub">
+                    <rdg>kukkulaa</rdg>
+                </app> ja <app id="var4494" type="sub">
+                    <rdg>laaksoa</rdg>
+                </app> näkee <app id="var4495" type="sub">
+                    <rdg><seg>täällä.</seg> Kukkulalla</rdg>
+                </app> on usein tupa, ja <app id="var4496" type="sub">
+                    <rdg>laaksossa</rdg>
+                </app> juoksee <app id="var4497" type="sub">
+                    <rdg><seg>puro.</seg></rdg>
+                </app> Sellaisissa <app id="var4498" type="sub">
+                    <rdg>seuduissa</rdg>
+                </app> on <app id="var4499" type="sub">
+                    <rdg>paljon mäkiä.</rdg>
+                </app> Hämeessä, Savossa ja Karjalassa kulkee tie usein <app id="var4500"
+                    type="sub">
+                    <rdg>korkeamäkisen <seg>selänteen</seg> poikki,</rdg>
+                </app> niin <app id="var4501" type="int">
+                    <rdg>että</rdg>
+                </app> selänteen <app id="var4502" type="sub">
+                    <rdg>harjalta</rdg>
+                </app> näkee <app id="var4503" type="sub">
+                    <rdg>allansa</rdg>
+                </app> petäjäin latvat ja <app id="var4504" type="sub">
+                    <rdg>kirkkojen</rdg>
+                </app> tornit. Ja siinä on niin tiheässä kukkuloita ja <app id="var4505"
+                    type="sub">
+                    <rdg>notkoja,</rdg>
+                </app> että luulee näkevänsä <app id="var4506" type="sub int">
+                    <rdg>kakkuja vieretysten ladottuina</rdg>
+                </app> maan suurelle pöydälle, jonka Jumala on <app id="var4507"
+                    type="sub int">
+                    <rdg>ihmiselle valmistanut.</rdg>
+                </app></p>
+            <pb type="orig" n="194"/>
+            <head style="romanType"><anchor id="struct156a" subtype="ide"/><hi rend="bold"
+                    >Vuori ja </hi><app id="var4508" type="sub">
+                    <rdg><hi rend="bold">laakso.</hi></rdg>
+                </app><anchor id="struct156b" subtype="ide"/></head>
+            <pb type="orig" n="195"/>
+            <figure type="illustration"/>
+            <head style="romanType"><anchor id="struct157a"/><hi rend="bold"><hi rend="expanded">MAAMME</hi></hi><anchor id="struct157b"/></head>
+            <pb type="orig" n="196"/>
+        </body>
+    </text>
+</TEI>

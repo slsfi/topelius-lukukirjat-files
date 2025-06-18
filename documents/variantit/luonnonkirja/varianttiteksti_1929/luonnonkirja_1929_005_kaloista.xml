@@ -125,7 +125,7 @@
                 </app> niitä <app id="var1910" type="sub">
                     <rdg>paljon pyydystetään</rdg>
                 </app> ja mieluisesti syödään.</p>
-            <figure></figure>
+            <figure type="illustration"/>
             <p style="romanType">Pysähdytäänpä tähän, sanoi Antti. Tässä <app id="var1911"
                     type="sub">
                     <rdg>laskee</rdg>
@@ -177,9 +177,9 @@
                 </app> ettei sitä ole täällä meidän <app id="var1929" type="sub">
                     <rdg>järvissämme.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType">Ne, jotka nyt tulevat, ovat <app id="var1930" type="sub">
                     <rdg><hi rend="italics">luukaloja,</hi></rdg>
                 </app> sanoi Simuna. Niillä on <app id="var1931" type="sub">
@@ -204,7 +204,7 @@
                     <rdg>joista päivänpaisteessa kuivattuina</rdg>
                 </app> tehdään <app id="var1939" type="sub">
                     <rdg>lipeäkalaa</rdg>
-                </app> jouluksi. Tässä on <pb type="orig" n="86"/><figure></figure><figure></figure><app
+                </app> jouluksi. Tässä on <pb type="orig" n="86"/><figure type="illustration"/><figure type="illustration"/><app
                     id="var1940" type="sub int">
                     <rdg>niiden
                         heimolainen, <seg><hi rend="expanded">made,</hi></seg> jossa on niin
@@ -224,10 +224,10 @@
                     <rdg>hopeankarvaisen</rdg>
                 </app>
                 <hi rend="expanded">kuhan</hi> ja tuon <app id="var1947" type="sub int">
-                    <rdg>ahnaan, leveäsuisen ja paksulimaisen <figure></figure>
-                        <figure></figure>
-                        <figure></figure>
-                        <figure></figure>
+                    <rdg>ahnaan, leveäsuisen ja paksulimaisen <figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/>
+                        <figure type="illustration"/>
                         <hi rend="expanded">kiiskin.</hi></rdg>
                 </app> Tässä <app id="var1948" type="sub">
                     <rdg>ui pieni, piikillinen <hi rend="expanded">rautakala,</hi></rdg>
@@ -248,10 +248,10 @@
                     <rdg>puikkelehtii</rdg>
                 </app> voimakkaalla pyrstöllään <app id="var1955" type="sub">
                     <rdg><seg>kaunis</seg> lo <hi rend="expanded">hi,</hi></rdg>
-                </app> joka on <figure></figure><app id="var1956" type="sub">
+                </app> joka on <figure type="illustration"/><app id="var1956" type="sub">
                     <rdg>vesiemme arvokkain kala. Vie<pb type="orig" n="87"/>ressä uivat sen
                         heimolaiset</rdg>
-                </app> <figure></figure>
+                </app> <figure type="illustration"/>
                 <hi rend="expanded">taimen, </hi><app id="var1957" type="sub">
                     <rdg><hi rend="expanded">rautalohi,</hi></rdg>
                 </app><hi rend="expanded"> kuore</hi> ja <app id="var1958" type="sub">
@@ -282,7 +282,7 @@
                     <rdg>merenpedot sitä ajavat.</rdg>
                 </app> Ainoastaan harvoin <app id="var1969" type="sub int">
                     <rdg>se <seg>tulee</seg> meidän rannikollemme.</rdg>
-                </app> Sen <figure></figure><app id="var1970" type="sub int">
+                </app> Sen <figure type="illustration"/><app id="var1970" type="sub int">
                     <rdg>sijaan</rdg>
                 </app>
                 <pb type="orig" n="88"/>on meillä täällä sen velipuoli <app id="var1971"
@@ -297,13 +297,13 @@
                 </app> ja <app id="var1974" type="sub">
                     <rdg>joutuvat</rdg>
                 </app> monen ihmisen ruuaksi.</p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var1975" type="sub">
                     <rdg>Potkepa nyt</rdg>
                 </app> nuottasi <app id="var1976" type="sub">
@@ -367,12 +367,12 @@
                 </app> laivalla <app id="var2001" type="sub int">
                     <rdg>tuotu <seg>kaukaisista</seg> maailman osista.</rdg>
                 </app></p>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
-            <figure></figure>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="romanType"><app id="var2002" type="sub int">
                     <rdg>Kalat veden valtakunnissa,</rdg>
                 </app> sanoi Simuna, ovat <app id="var2003" type="sub int">
@@ -524,7 +524,7 @@
                 </app> hopealusikan <app id="var2067" type="sub int">
                     <rdg>mereen.</rdg>
                 </app> Hauki oli nähnyt lusikan välkkyvän ja niellyt sen.</p>
-            <figure></figure>
+            <figure type="illustration"/>
             <pb type="orig" n="92"/>
             <head style="romanType"><hi rend="bold">Lohi.</hi></head>
             <p style="romanType"><app id="var2068" type="sub">
@@ -560,7 +560,7 @@
                 </app> kuonoon <app id="var2082" type="sub">
                     <rdg>vähän koppasee.</rdg>
                 </app></p>
-            <figure></figure>
+            <figure type="illustration"/>
             <head style="romanType"><hi rend="bold">Muista kaloista.</hi></head>
             <p style="romanType">Kala on tottunut meren pohjassa <app id="var2083"
                     type="sub">
@@ -631,7 +631,7 @@
                 </app> kun ovat <app id="var2114" type="sub">
                     <rdg>päässeet</rdg>
                 </app> täysikasvuisiksi.</p>
-            <figure></figure>
+            <figure type="illustration"/>
             <pb type="orig" n="94"/>
         </body>
     </text>
