@@ -145,11 +145,11 @@
                 </app> maihin. Jumala johdattaa ne <app id="var1270" type="sub">
                     <rdg>keväällä <seg>jälleen</seg> takaisin</rdg>
                 </app> pohjoiseen.</p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="56"/>
-            <figure/>
-            <figure/>
-            <figure/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="blackletter">Näin <app id="var1271" type="sub">
                     <rdg>puhuttuaan viheriävarpunen piiloutui</rdg>
                 </app> vapisten, sillä siinä tulivat isot <hi rend="bold">petolinnut,</hi>
@@ -209,10 +209,10 @@
                 </app> suvusta. Kaikki <app id="var1294" type="sub">
                     <rdg>ne lensivät</rdg>
                 </app> nyt metsään saalista pyytämään.</p>
-            <figure/>
-            <figure/>
-            <figure/>
-            <figure/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="blackletter">Vieläkään en uskalla tulla näkyviin, sanoi <app id="var1295" type="sub">
                     <rdg>viheriävarpunen. <hi rend="bold">Variksen sukuun,</hi></rdg>
                 </app> joka <app id="var1296" type="sub int">
@@ -250,8 +250,8 @@
                 <app id="var1310" type="sub">
                     <rdg>tekee <seg>pesäänsä</seg></rdg>
                 </app> kirkon torniin.</p>
-            <figure/>
-            <figure/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="blackletter"><app id="var1311" type="sub">
                     <rdg>Ihanaa on keväällä</rdg>
                 </app> kuulla <app id="var1312" type="sub">
@@ -310,15 +310,15 @@
                     <app id="var1335" type="sub">
                     <rdg>kevään</rdg>
                 </app> tuloa.</p>
-            <figure/>
+            <figure type="illustration"/>
             <pb type="orig" n="59"/>
-            <figure/>
-            <figure/>
-            <figure/>
-            <figure/>
-            <figure/>
-            <figure/>
-            <figure/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="blackletter"><app id="var1336" type="sub int">
                     <rdg>Näitä kaikkia samoin kuin useita muitakin pieniä lintuja nimitämme
                         yhteisellä nimellä <hi rend="bold">varpuslinnuiksi.</hi></rdg>
@@ -374,12 +374,12 @@
                 </app> sanoja, joita <app id="var1359" type="sub">
                     <rdg>se <seg>ei</seg></rdg>
                 </app> ymmärrä.</p>
-            <figure/>
-            <figure/>
-            <figure/>
-            <figure/>
-            <figure/>
-            <figure/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="blackletter"><app id="var1360" type="sub">
                     <rdg>Tunnetko tuota,</rdg>
                 </app> joka <app id="var1361" type="sub int">
@@ -398,9 +398,9 @@
                 </app>
                 <hi rend="expanded">tikallakin,</hi> joka terävällä nokallaan hakkaa reikiä
                 puihin.</p>
-            <figure/>
-            <figure/>
-            <figure/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="blackletter">Kerran istuin huoneesi katolla, sanoi <app id="var1367" type="sub">
                     <rdg>vihreävarpunen.</rdg>
                 </app> Siitä näin <app id="var1368" type="sub">
@@ -427,7 +427,7 @@
                 </app> sanoa: <app id="var1377" type="sub">
                     <rdg>Kuka</rdg>
                 </app> uskaltaa nauraa minun ylevyydelleni? Kaikki nämä linnut eivät
-                tahtoneet mielellään <pb type="orig" n="62"/><figure/><figure/><app id="var1378" type="sub int">
+                tahtoneet mielellään <pb type="orig" n="62"/><figure type="illustration"/><figure type="illustration"/><app id="var1378" type="sub int">
                     <rdg>tulla</rdg>
                 </app> metsään. Minä <app id="var1379" type="sub">
                     <rdg>vakuutin niiden</rdg>
@@ -463,7 +463,7 @@
                     <rdg>päivänpaisteessa</rdg>
                 </app> kaunishöyhenisen pyrstönsä. <app id="var1393" type="sub">
                     <rdg>Kateellinen</rdg>
-                </app> kalkkuna <figure/><app id="var1394" type="sub int">
+                </app> kalkkuna <figure type="illustration"/><app id="var1394" type="sub int">
                     <rdg>vimmastui mie<pb type="orig" n="63"/>liharmista.</rdg>
                 </app> Kohta <app id="var1395" type="sub">
                     <rdg>hyökkäsi se</rdg>
@@ -478,7 +478,7 @@
                 </app> olivat <app id="var1400" type="sub">
                     <rdg>nykineet toisiltaan</rdg>
                 </app> kaikki höyhenet.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Tuolla näet <app id="var1401" type="sub">
                     <rdg><seg>suuren</seg>
                         <hi rend="expanded">kameelikurjen</hi> eli strutsin,</rdg>
@@ -501,7 +501,7 @@
                 </app> kuin <app id="var1410" type="sub int">
                     <rdg>jänis.</rdg>
                 </app></p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter"><app id="var1411" type="sub">
                     <rdg>Tuolla rannalla</rdg>
                 </app> kävelee <app id="var1412" type="sub">
@@ -530,8 +530,8 @@
                     <rdg><seg><hi rend="expanded">ruisrääkkä</hi></seg> illoin ruispellossa
                         rääkättää.</rdg>
                 </app></p>
-            <figure/>
-            <figure/>
+            <figure type="illustration"/>
+            <figure type="illustration"/>
             <p style="blackletter"><app id="var1422" type="sub">
                     <rdg>Kesällä</rdg>
                 </app> veneellä <app id="var1423" type="sub">
@@ -577,7 +577,7 @@
                 </app> taaksepäin <app id="var1441" type="sub int">
                     <rdg>ojennettuina. Rikkaat nukkuvat <hi rend="expanded">haahkan</hi></rdg>
                 </app> pehmeillä untuvilla.</p>
-            <figure/>
+            <figure type="illustration"/>
             <p style="blackletter">Vielä on meitä monta, joita en ennätä <app id="var1442" type="sub">
                     <rdg>luetella,</rdg>
                 </app> sanoi <app id="var1443" type="sub">
@@ -586,7 +586,7 @@
                     <rdg>lajeja</rdg>
                 </app> on <app id="var1445" type="sub">
                     <rdg>8,000 (kahdeksantuhatta). Papukaijoja yksin</rdg>
-                </app> on 200 <pb type="orig" n="65"/><figure/><figure/><app id="var1446" type="sub">
+                </app> on 200 <pb type="orig" n="65"/><figure type="illustration"/><figure type="illustration"/><app id="var1446" type="sub">
                     <rdg><seg>(kaksisataa)</seg></rdg>
                 </app> lajia. Kyyhkysiä lasketaan olevan <app id="var1447" type="sub">
                     <rdg>300 (kolmesataa)</rdg>
@@ -619,7 +619,7 @@
                     <rdg>Useimmat</rdg>
                 </app> linnut <app id="var1461" type="sub">
                     <rdg>kelpaavat ihmisten</rdg>
-                </app> ruuaksi. <figure/><figure/><app id="var1462" type="sub">
+                </app> ruuaksi. <figure type="illustration"/><figure type="illustration"/><app id="var1462" type="sub">
                     <rdg>Untuvil<pb type="orig" n="66"/>lamme makaa lapsi</rdg>
                 </app> kätkyessä. <app id="var1463" type="sub">
                     <rdg>Villit kansat</rdg>
@@ -830,7 +830,7 @@
                 </app> jota oli kadonnut, <app id="var1558" type="sub int">
                     <rdg>kenenkään tietämättä, mihinkä. Varasteleva</rdg>
                 </app> harakka oli vienyt kaikki nokassaan kätköönsä.</p>
-            <figure/>
+            <figure type="illustration"/>
             <head style="blackletter"><hi rend="bold">Pääskyset ja varpunen.</hi></head>
             <p style="blackletter">Kaksi pääskystä oli kerran tehnyt pesänsä <app id="var1559" type="sub">
                     <rdg>räystääseen <seg>tallin</seg></rdg>
@@ -866,7 +866,7 @@
                 </app> menestyneet, vaan <app id="var1574" type="sub">
                     <rdg>rakensivat</rdg>
                 </app> itselleen toisen pesän.</p>
-            <figure/>
+            <figure type="illustration"/>
             <head style="blackletter"><anchor id="struct54a"/><hi rend="bold">Muuttolinnut.</hi><anchor id="struct54b"/></head>
             <p style="blackletter">Eivät kaikki linnut muuta pois talveksi. <app id="var1575" type="sub">
                     <rdg>Melkein</rdg>
@@ -905,7 +905,7 @@
                     <rdg>penikulmia</rdg>
                 </app> niihin maihin, joissa aurinko paistaa <app id="var1592" type="sub">
                     <rdg>kuumasti</rdg>
-                </app> vuoden pitkään. Pohjois-Saksanmaalla <figure/><figure/><app id="var1593" type="sub">
+                </app> vuoden pitkään. Pohjois-Saksanmaalla <figure type="illustration"/><figure type="illustration"/><app id="var1593" type="sub">
                     <rdg><seg>saatiin</seg></rdg>
                 </app> kerran <app id="var1594" type="sub">
                     <rdg>haikara,</rdg>
