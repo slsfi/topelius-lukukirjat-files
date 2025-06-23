@@ -1927,7 +1927,6 @@
                 </div>
 
 
-
                 <div id="sec4">
                     <head type="heading2">IV <hi rend="italics">Luonnonkirjan</hi>
                         vuosikymmenet</head>
@@ -2747,8 +2746,6 @@
                 </div>
 
 
-
-
                 <div id="sec5">
                     <head type="heading2">V <hi rend="italics">Luonnonkirjan</hi> digitaalinen
                         editio</head>
@@ -3318,946 +3315,945 @@
                 <div id="sec_intro_notes">
                     <head type="heading2">Viitteet</head>
                 </div>
-                <div type="sources" id="sec5">
-                    <head type="heading2">Lähteet</head>
+            </div>
+        	<div type="sources" id="sec5">
+                <head type="heading2">Lähteet</head>
 
-                    <div id="sec5-1">
-                        <head type="heading3">Editioon sisältyvien <hi rend="italics">Luonnonkirjan</hi> ja <hi rend="italics">Naturens Bokin</hi>
-                            laitokset</head>
-                        <p rend="hangingIndent">Topelius, Zacharias (1860) <hi rend="italics">Luonnon-kirja. Ala-alkeiskoulujen tarpeeksi Z. Topeliukselta</hi>.
-                            Suomalaisen Kirjallisuuden Seuran Toimituksia 23. Helsinki: SKS.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1929) <hi rend="italics">Luonnonkirja. Ala-alkeiskoulujen tarpeeksi.</hi> 16. painos.
-                            Porvoo: WSOY.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1856d) <hi rend="italics">Läsebok för de lägsta lärowerken i Finland. Första kursen. Naturens
-                                Bok</hi>. Helsingfors: Förf:s förlag.</p>
-                    </div>
-                    <div id="sec5-2">
-                        <head type="heading3">Arkistolähteet</head>
-                        <p rend="hangingIndent">Kansalliskirjaston käsikirjoituskokoelma (KK).
-                            Zacharias Topeliuksen arkisto. Coll. 244.</p>
-                        <p rend="hangingIndent">Kansalliskirjaston käsikirjoituskokoelma (KK).
-                            Savo-Karjalaisen osakunnan arkisto. Luettelo 283.</p>
-                        <p rend="hangingIndent">Suomalaisen Kirjallisuuden Seuran arkisto, perinteen
-                            ja nykykulttuurin kokoelma (SKS KRA). Samuli Paulaharjun kokoelma.</p>
-                    </div>
-                    <div id="sec5-3">
-                        <head type="heading3">Muut lähteet</head>
-                        <p rend="hangingIndent">Agricola, Mikael (1544) <hi rend="italics">Rucouskiria Bibliasta se on molemista testamentista messuramatusta
-                                ja muusta monesta jotca toysella puolella luetellan cokoonpoymettu
-                                Somen Turussa MDXLIII.</hi> Turku: Amund Lauritzenpoika.</p>
-                        <p rend="hangingIndent">Ahlman, Ferdinand (1865) <hi rend="italics">Svenskt-Finskt Lexikon – Ruotsalais-Suomalainen sanakirja</hi>.
-                            Helsinki: Frenckell &amp; Son. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/ahlman_sanastot/lexik1865_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/ahlman_sanastot/lexik1865_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Ahlqvist, August (1874) <hi rend="italics">Kieletär.
-                                6. vihko</hi>. Helsinki. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/ahlqvist/kieletar6_1874_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/ahlqvist/kieletar6_1874_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Alhoniemi, Pirkko (1969) <hi rend="italics">Isänmaan
-                                korkeat veisut. Turun ja Helsingin runouden patrioottiset ja
-                                kansalliset motiivipiirit</hi>. Suomalaisen Kirjallisuuden Seuran
-                                Toimituksia<hi rend="italics"> </hi>294. Helsinki: SKS.</p>
-                        <p rend="hangingIndent">Andersson, Håkan (2017) Naturens Bok och Boken om
-                            Vårt Land i historiskt och pedagogiskt perspektiv. – Zacharias Topelius,
-                            Naturens bok och Boken om Vårt land. Utg. av Magnus Nylund under
-                            medverkan av Håkan Andersson, Pia Forssell och Henrik Knif. Zacharias
-                            Topelius Skrifter XVII. Skrifter utgivna av Svenska litteratursällskapet
-                            i Finland nr 816. Helsingfors: SLS, xi–xxii.</p>
-                        <p rend="hangingIndent">Andersson, Håkan – Reeta Holopainen – Sakari
-                            Katajamäki – Ossi Kokko (2019) Topelius två läseböcker. Topeliuksen
-                            kaksi lukukirjaa (övers. Märtha Norrback, suom. Paula Autio). –
-                            Zacharias Topelius, <hi rend="italics">Boken om Vårt Land. En tvåspråkig
-                                kommenterad utgåva. Maamme kirja. Kommentoitu kaksikielinen
-                                editio</hi>. Toim. Sakari Katajamäki. Suomalaisen Kirjallisuuden
-                            Seuran Toimituksia 1448. Skrifter utgivna av Svenska
-                            litteratursällskapet i Finland 831. Helsinki: SKS–SLS, 12–15, 38,
-                            42.</p>
-                        <p rend="hangingIndent">Anonyymi (1801a) On Sunday evening last – <hi rend="italics">Gloucester Journal</hi> 14.9.1801.</p>
-                        <p rend="hangingIndent">Anonyymi (1801b) Shrewsbury, Sept. 9. – <hi rend="italics">Kentish Weekly Post or Canterbury Journal</hi>
-                            15.9.1801.</p>
-                        <p rend="hangingIndent">Anonyymi (1802) Cause of earthquakes. From a Lecture
-                            of John Winthorp, professor of Mathematics, in America. – <hi rend="italics">Royal Cornwall Gazette</hi> 7.8.1802.</p>
-                        <p rend="hangingIndent">Anonyymi (1837) Inrikes. <hi rend="italics">–
-                                Helsingfors Tidningar</hi> 26.7.1837.</p>
-                        <p rend="hangingIndent">Anonyymi (1844) Inrikes. <hi rend="italics">–
-                                Helsingfors Tidningar</hi> 14.12.1844.</p>
-                        <p rend="hangingIndent">Anonyymi (1845) Om menniskans lefnads ålder. <hi rend="italics">– Wasa Tidning</hi> 17.5.1845.</p>
-                        <p rend="hangingIndent">Anonyymi (1854) Hvarjehanda. <hi rend="italics">–
-                                Borgå Tidning</hi> 19.7.1854.</p>
-                        <p rend="hangingIndent">Anonyymi (1856a) Elätti lintu. – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 5.7.1856.</p>
-                        <p rend="hangingIndent">Anonyymi (1856b) En wiktig skolbok. – <hi rend="italics">Åbo Underrättelser</hi> 29.4.1856.</p>
-                        <p rend="hangingIndent">Anonyymi (1856c) Kaunis varsa. – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 19.7.1856.</p>
-                        <p rend="hangingIndent">Anonyymi (1856d) Lintu akkunassa. – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 5.7.1856.</p>
-                        <p rend="hangingIndent">Anonyymi (1856e) Lohi. – <hi rend="italics">Oulun
-                                Wiikko-Sanomia</hi> 12.7.1856.</p>
-                        <p rend="hangingIndent">Anonyymi (1856f) Muutto-linnut. (Suomettu Runebergin
-                            mukaan.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 28.6.1856.</p>
-                        <p rend="hangingIndent">Anonyymi (1856g) On semmoisiaki ihmisiä maailmassa –
-                                <hi rend="italics">Oulun Wiikko-Sanomia</hi> 19.7.1856.</p>
-                        <p rend="hangingIndent">Anonyymi (1856h) Recension af Läsebok för de lägsta
-                            läroverken i Finland af Z. Topelius. – <hi rend="italics">Åbo Tidningar
-                            </hi>2.6.1856.</p>
-                        <p rend="hangingIndent">Anonyymi (1857a) Maamme. (Runebergin mukaan.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 7.2.1857.</p>
-                        <p rend="hangingIndent">Anonyymi (1857b) Timantti. (Suomennettu prof. Z.
-                            Topeliuksen Luonnon kirjasta.) – <hi rend="italics">Oulun
-                                Wiikko-Sanomia</hi> 14.2.1857.</p>
-                        <p rend="hangingIndent">Anonyymi (1857c) Lähde keväillä. (Nervanderin
-                            mukaan.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 30.5.1857.</p>
-                        <p rend="hangingIndent">Anonyymi (1857d) Eläinten tavoista. – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 4.7.1857.</p>
-                        <p rend="hangingIndent">Anonyymi (1857e) Valtameri. (Mukailtu Topeliuksen
-                            Luonnon-kirjasta.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi>
-                            1.8.1857.</p>
-                        <p rend="hangingIndent">Anonyymi (1857f) Järvi. – <hi rend="italics">Oulun
-                                Wiikko-Sanomia</hi> 1.8.1857.</p>
-                        <p rend="hangingIndent">Anonyymi (1858a) Eldswåda. – <hi rend="italics">Helsingfors Tidningar </hi>24.4.1858.</p>
-                        <p rend="hangingIndent">Anonyymi (1858b) Taivahan tähdet. (Topeliuksen
-                            luonnon kirjasta.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi>
-                            3.4.1858.</p>
-                        <p rend="hangingIndent">Anonyymi (1858c) Vuoden ajat. (Topeliuksen luonnon
-                            kirjasta.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 27.3.1858. </p>
-                        <p rend="hangingIndent">Anonyymi (1859a) Om den nya skolan. – <hi rend="italics">Finlands Allmänna Tidning</hi> 26. ja 28.2. sekä
-                            1.–3.3.1859.</p>
-                        <p rend="hangingIndent">Anonyymi (1859b) Suomal. Kirjallisuuden Seuran
-                            wuosikokous. – <hi rend="italics">Suomen Julkisia
-                            Sanomia</hi> 21.3.1859.</p>
-                        <p rend="hangingIndent">Anonyymi (1860a) I bokhandeln. – <hi rend="italics">Finlands Allmänna Tidning</hi> 19.11.1860.</p>
-                        <p rend="hangingIndent">Anonyymi (1860b) Kirjallisuutta. – <hi rend="italics">Sanomia Turusta</hi> 12.10.1860.</p>
-                        <p rend="hangingIndent">Anonyymi (1860c) Kopistens krönika. – <hi rend="italics">Papperslyktan </hi>29.10.1860.</p>
-                        <p rend="hangingIndent">Anonyymi (1860d) Uutta kirjakaupoissa. – <hi rend="italics">Suometar </hi>9.11.1860.</p>
-                        <p rend="hangingIndent">Anonyymi (1861) Kotomaalta. – <hi rend="italics">Porin kaupungin Sanomia</hi> 7.12.1861.</p>
-                        <p rend="hangingIndent">Anonyymi (1877) Till Jagtföreningarne. – <hi rend="italics">Hufvudstadsbladet</hi> 17.6.1877.</p>
-                        <p rend="hangingIndent">[von Becker, Reinhold] (1820) Luontokappaleista
-                            taikka elävistä. <hi rend="italics">Turun Wiikko-Sanomat</hi>
-                            18.11.1820.</p>
-                        <p rend="hangingIndent">von Berg, Edmund (1859) <hi rend="italics">Kertomus
-                                Suomenmaan metsistä</hi>. Suom. Carl Gustaf Borg. Helsinki.</p>
-                        <p rend="hangingIndent">Bergroth, F. G. (1887) Ruotsalais-Suomalainen
-                            Luettelo Metalliteollisuuteen, vuori- ja metsätiteeseen sekä geologiaan
-                            kuuluvista sanoista. – <hi rend="italics">Suomen Teollisuuslehti</hi>
-                            23–24. Lisälehti, 1–18.</p>
-                        <p rend="hangingIndent">Bergstrand, C. E. (1852) <hi rend="italics">Ålands
-                                däggdjur, foglar, amphibier och fiskar</hi>. Westerås: Forssell.</p>
-                        <p rend="hangingIndent">Berlin, Nils Johan (1859) <hi rend="italics">Oppikirja Luontotietehesen Kansakouluin opilaisille</hi>. Suom. H.
-                            G. Perander. Turku: J. W. Lilja.</p>
-                        <p rend="hangingIndent">Berlin, Nils Johan (1868) <hi rend="italics">Lukukirja luonnontieteessä</hi>. Suom. A. Rahkonen. Helsinki.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Biblia, Se on: Koko Pyhä
-                                Raamattu, Suomexi; Alku-Raamattuin Hebrean ja Grekan jälkeen
-                                wastauudesta ojettu: Esipuhetten, Lukuin sisällepitoin,
-                                Yhtäpitäwäisten Raamatun paikkain osotuxen, ja lisättyin Registerein
-                                kanssa</hi>. Turku: Johan Christoph Frenckell. 1776.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Biografiskt lexikon för
-                                Finland</hi>. Helsingfors: SLS. Saatavissa: URL: <xref type="ext" target="http://www.blf.fi">http://www.blf.fi</xref>
-                            URN:NBN:fi:sls-4820-1416928957426 (3.6.2025)</p>
-                        <p rend="hangingIndent"><hi rend="italics">Biology Online</hi>. Saatavissa:
-                            URL: <xref type="ext" target="https://www.biologyonline.com/">https://www.biologyonline.com/</xref> (3.6.2025)</p>
-                        <p rend="hangingIndent">Bonsdorff, Karl Robert (1867–1868) <hi rend="italics">Eläin-tiede eli Zoologia. Osat I–II</hi>.
-                            Hämeenlinna. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/bonsdorff/bonsdorff_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/bonsdorff/bonsdorff_coll_rdf.xml
-                            </xref> (3.6.2025)</p>
-                        <p rend="hangingIndent">Borg, Pekka (2008) <hi rend="italics">Monimuotoisuuden aika. Luonnonnähtävyyksistä Naturaan.</hi>
-                            Hämeenlinna: Karisto.</p>
-                        <p rend="hangingIndent">Boruwłaski, Józef (1820) <hi rend="italics">Memoirs
-                                of Count Boruwlaski. A sketch of his travels, with an account of his
-                                reception at the different courts of Europe</hi>. Durham.</p>
-                        <p rend="hangingIndent">Čihař, Jiří (1993) <hi rend="italics">Jokamiehen
-                                kalakirja. Makean veden kalat</hi>. Kuvitus: Libuše ja Jaromír
-                            Knotek. Suomentaneet ja Suomen oloihin toimittaneet Ismo Nuuja ja Risto
-                            Palokangas. [Nimistön tarkistanut Lauri Koli ja lajitekstit Erkki
-                            Lahti]. Helsinki: Kolibri.</p>
-                        <p rend="hangingIndent">Corander, Klas (1862) <hi rend="italics">Yleinen
-                                maa-tiede</hi>. Viipuri: N. A. Zilliakus. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/corander/maatiede1862_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/corander/maatiede1862_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Cserhalmi, Niklas (2004) <hi rend="italics">Djuromsorg och djurmisshandel 1860–1925. </hi><hi rend="italics">Synen på lantbrukets djur och djurplågeri i övergången mellan
-                                bonde- och industrisamhälle.</hi> Hedemora: Gidlunds Förlag.</p>
-                        <p rend="hangingIndent">Cygnæus, Fredrik (1842) God morgon! Den 31 Juli
-                            1842. – <hi rend="italics">Helsingfors Tidningar</hi> 6.8.1842.</p>
-                        <p rend="hangingIndent">Dickens, Charles (1862) <hi rend="italics">All The
-                                Year Around.</hi> 22.11.1862.</p>
-                        <p rend="hangingIndent">E. E. A. (1860) Kirjallisuutta. – <hi rend="italics">Suomen Julkisia Sanomia</hi> 29.10.1860.</p>
-                        <p rend="hangingIndent">Edlund, Oskar Rafael (1886) <hi rend="italics">Kaloista ja kalanwiljelyksestä</hi>. Helsinki: G. W. Edlund.
-                            Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/edlund/edlund_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/edlund/edlund_coll_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Elfving, Fredr. (1938) <hi rend="italics">Finska
-                                Vetenskapssocietetens historia 1838–1938</hi>. Societas Scientiarum
-                            Fennica. Commentationes Humanarum Litterarum X. Helsingfors: Societas
-                            Scientiarum Fennica.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Encyclopedia Britannica</hi>.
-                            Saatavissa: URL: <xref type="ext" target="https://www.britannica.com">https://www.britannica.com</xref> (3.6.2025)</p>
-                        <p rend="hangingIndent">Eurén, Gustaf Erik (1852) <hi rend="italics">Suomalainen kielioppi Suomalaisille</hi>. Turku: J. W. Lillja &amp;
-                            Co. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/euren/euren_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/euren/euren_coll_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Eurén, Gustaf Erik (1859) <hi rend="italics">Luonnon
-                                Oppia. Osat I–III</hi>. Turku. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/euren/euren_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/euren/euren_coll_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Europaeus, D. E. D (1853) <hi rend="italics">Svenskt-Finskt Handlexikon Ruotsalais-Suomalainen Sanakirja,
-                                suomalais-ruotsalaiseksi konvertoitu ja täydennetty sanasto</hi>.
-                            Helsinki: SKS. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/europaeus_sanastot/europaeus_sanastot_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/europaeus_sanastot/europaeus_sanastot_coll_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent"><hi rend="italics">Fennica. Suomen
-                                kansallisbibliografia</hi>. Helsinki: Kansalliskirjasto. Saatavissa:
-                            URL: <xref type="ext" target="https://www.kansalliskirjasto.fi/fi/palvelut/fennica-suomen-kansallisbibliografia">https://www.kansalliskirjasto.fi/fi/palvelut/fennica-suomen-kansallisbibliografia</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Forssell, Pia <hi rend="italics">–</hi> Nylund,
-                            Magnus (2017) Utgivningshistorien. <hi rend="italics">– </hi>Zacharias
-                            Topelius, Naturens bok och Boken om Vårt land. Utg. av Magnus Nylund
-                            under medverkan av Håkan Andersson, Pia Forssell och Henrik Knif.
-                            Zacharias Topelius Skrifter XVII. Skrifter utgivna av Svenska
-                            litteratursällskapet i Finland nr 816. Helsingfors: SLS, xxxi–xliv.</p>
-                        <p rend="hangingIndent">Franklin Adrian (1999) <hi rend="italics">Animals
-                                and Modern Cultures. A Sociology of Human-Animal Relations in
-                                Modernity. </hi>London: Sage.</p>
-                        <p rend="hangingIndent">Franzén, Frans Michael (1830) Wid ett besök å
-                            Fiskars Bruk och dertill hörande Koppargrufwa, den 9 Augusti 1830. – <hi rend="italics">Åbo Tidningar</hi> 14.8.1830.</p>
-                        <p rend="hangingIndent">Franzén, Frans Michael (1853) <hi rend="italics">Skaldestycken. Sjette bandet</hi>. Örebro: Lindh.</p>
-                        <p rend="hangingIndent">Frosterus, B. L. (1877) <hi rend="italics">Höijerin
-                                Perustus-Tieto Soitantoon ynnä Musiikki-Sanakirja</hi>. Turku: E. W.
-                            Wilén.</p>
-                        <p rend="hangingIndent">Gebhard, Hannes (1893) Suomalaisen Kirjallisuuden
-                            Seura 1881–1892. – <hi rend="italics">Valvoja</hi> 13:7–8, 354–369.</p>
-                        <p rend="hangingIndent">Gerholm, Tor Ragnar – Magnusson, Sigvard (1972) <hi rend="italics">Ajatus, aate ja yhteiskunta. Länsimaisten aatteiden
-                                ja tieteitten, poliittisten ja yhteiskunnallisten järjestelmien
-                                vuorovaikutus antiikista nykyaikaan</hi>. Porvoo–Helsinki–Juva:
-                            WSOY.</p>
-                        <p rend="hangingIndent">Glacken, Clarence J. (1967) <hi rend="italics">Traces on the Rhodian Shore. Nature and culture in western tought
-                                from ancient times to the end of the eighteenth century</hi>.
-                            Berkeley: University of California Press.</p>
-                        <p rend="hangingIndent">[Granlund, Johan Fredrik (suom.)] (1849) <hi rend="italics">Kokki-Kirja, elikkä Neuvoja tarpeellisempien
-                                Joka-aikaisien- ja Pito-ruokien Laitokseen , niin myös Monellaisiin
-                                leipomisiin ja juotavien panoin, ynnä Tarpeellisisa tietoja ruokien
-                                ja ruoka-aineiden korjusta ja säästystä j. n. e</hi> . Turku.</p>
-                        <p rend="hangingIndent">Harva, Uno (1948) <hi rend="italics">Suomalaisten
-                                muinaisusko</hi>. Porvoo–Helsinki: Werner Söderström Osakeyhtiö.</p>
-                        <p rend="hangingIndent">Hautala, Kustaa (1956) <hi rend="italics">Suomen
-                                tervakauppa 1856–1913. Sen viimeinen kukoistus ja häviö sekä niihin
-                                vaikuttaneet syyt</hi>. Historiallisia tutkimuksia XLV. Helsinki:
-                            Suomen Historiallinen Seura.</p>
-                        <p rend="hangingIndent">Heikel, Wilhelm (1843) <hi rend="italics">Grunddragen af jordbeskrifningen, med hufwudsakligt afseende på
-                                natur- och folk-lif : en ledtråd wid medlersta cursen af den
-                                geografiska underwisningen. </hi>Uleåborg: Christian Evert
-                            Barck.</p>
-                        <p rend="hangingIndent">Helenius, Carl (1838) <hi rend="italics">Suomalainen
-                                ja Ruozalainen Sana-kirja. </hi>Åbo: Christ. Ludv. Hjelt, uppå eget
-                            förlag. Saatavissa: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/helenius/helenius_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/helenius/helenius_coll_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Hiidenmaa, Pirjo (2003) <hi rend="italics">Suomen
-                                kieli – who cares?</hi> Helsinki: Otava.</p>
-                        <p rend="hangingIndent">Hirvonen, Maija (toim.) (1993) <hi rend="italics">Suomen kirjailijat 1809–1916. Pienoiselämäkerrat.
-                                Teosbibliografiat. Tutkimusviitteet. Finlands författare 1809–1916.
-                                Kortbiografier. Verkförteckningar. Litteraturhänvisningar. Writers
-                                in Finland 1809–1916. Concise biographies. Bibliographies. Research
-                                references</hi>. Suomalaisen Kirjallisuuden Seuran Toimituksia 570.
-                            Helsinki: SKS–SLS.</p>
-                        <p rend="hangingIndent">Hisinger, Eduard (1863) <hi rend="italics">Sienikirja eli Sieni-Kallen osviitta tuntemaan ja käyttämään
-                                syötäviä sieniä</hi>. Suom. Karl Dahlberg. Turku: Suomen
-                            Talousseura. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/dahlberg/sienikirja1863_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/dahlberg/sienikirja1863_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Hoffmann, Ernst Theodor Amadeus – Hosemann, Theodor
-                            (1872) Der Sandmann. – <hi rend="italics">E. T. A. Hoffmann‘s gesammelte
-                                Schriften: 5. Bd., Nachtstücke: zwei Theile. 1. Theil.</hi> Berlin:
-                            Reimer.</p>
-                        <p rend="hangingIndent">Holopainen, Reeta (2019) Topeliuksen <hi rend="italics"> Luonnonkirja</hi> (1860) ja sen käännetty
-                            erikoissanasto tieteellisessä digitaalisessa editiossa. <hi rend="italics">MikaEL. Kääntämisen ja tulkkauksen tutkimuksen
-                                symposiumin verkkojulkaisu</hi>. Toim. Ritva Hartama-Heinonen, Marja
-                            Kivilehto, Minna Kujamäki ja Katja Vuokko. 12, 155–167. Saatavissa: URL:
-                                <xref type="ext" target="https://journal.fi/mikael/article/view/129373/78247">https://journal.fi/mikael/article/view/129373/78247</xref>
-                        </p>
-                        <p rend="hangingIndent">Holopainen, Reeta – Katajamäki, Sakari – Kokko, Ossi
-                            (2019) Maamme kirja från 1870-talet till 1960-talet. Maamme kirja
-                            1870-luvulta 1960-luvulle (övers. Märtha Norrback). – Zacharias
-                            Topelius, <hi rend="italics">Boken om Vårt Land. En tvåspråkig
-                                kommenterad utgåva. Maamme kirja. Kommentoitu kaksikielinen
-                                editio</hi>. Toim. Sakari Katajamäki. Suomalaisen Kirjallisuuden
-                            Seuran Toimituksia 1448. Skrifter utgivna av Svenska
-                            litteratursällskapet i Finland 831. Helsinki: SKS–SLS, 32–37, 40–41,
-                            44–45.</p>
-                        <p rend="hangingIndent">Holopainen, Reeta – Katajamäki, Sakari (2018)
-                            Eläintarinoita koululaisille. Zacharias Topelius faabelikirjailijana. –
-                                <hi rend="italics">Pirta</hi> 1, 18–20.</p>
-                        <p rend="hangingIndent">Hooker, Joseph Dalton (1879) <hi rend="italics">Botaniki</hi>. Englannink. mukailemalla suom. A. J. Mela. Helsinki:
-                            Holm. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/mela/botaniki1879_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/mela/botaniki1879_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Huldén, Lena (1998) Zachris Topelius och
-                            entomologin. – <hi rend="italics">Källan </hi>2, 36–44.</p>
-                        <p rend="hangingIndent">Huldén, Lena (2003) Luonnontieteilijät Suomea
-                            luomassa. – <hi rend="italics">Suomen kulttuurihistoria 3. Oma maa ja
-                                maailma.</hi> Toim. Anja Kervanto Nevanlinna ja Laura Kolbe.
-                            Helsinki: Tammi, 100–107.</p>
-                        <p rend="hangingIndent">Huldén, Lena (2005) Zachris Topelius och
-                            darwinismens genombrott i Finland. – <hi rend="italics">Topelius elää,
-                                Topelius lever. </hi>Topelius-seuran julkaisuja –
-                            Topeliussällskapets skrifter 1. Toim. Satu Apo ja Märtha Norrback.
-                            Jyväskylä: Atena, 53–65.</p>
-                        <p rend="hangingIndent">Häggman, Kai (2001) <hi rend="italics">Piispankadulta Bulevardille. Werner Söderström Osakeyhtiö
-                                1878–1939</hi>. Helsinki: WSOY.</p>
-                        <p rend="hangingIndent">Häggman, Kai (2008) <hi rend="italics">Paras tawara
-                                maailmassa. Suomalainen kustannustoiminta 1800-luvulta 2000-luvulle.
-                            </hi>Helsinki: Otava.</p>
-                        <p rend="hangingIndent">Häkkinen, Kaisa – Björkqvist, Pia (1991)
-                            Varhaisnykysuomen yhdyssanat. – <hi rend="italics">Sananjalka </hi>33,
-                            31–55.</p>
-                        <p rend="hangingIndent">Häkkinen, Kaisa (1994) <hi rend="italics">Agricolasta nykykieleen. Suomen kirjakielen historia.</hi>
-                            Helsinki: WSOY.</p>
-                        <p rend="hangingIndent">Häkkinen, Kaisa (2004) <hi rend="italics">Linnun
-                                nimi</hi>. Kuvitus: Magnus Körner, Ferdinand von Wright, Magnus von
-                            Wright ja Wilhelm von Wright. Helsinki: Teos.</p>
-                        <p rend="hangingIndent">Häyrynen, Maunu (2005) Topeliaaninen maisemakuvasto
-                            ja sen muutos. – <hi rend="italics">Topelius elää, Topelius lever.
-                            </hi>Toim. Satu Apo ja Märtha Norrback. Jyväskylä: Atena, 85–94.</p>
-                        <p rend="hangingIndent">Jaakkola, Pasi (2011) <hi rend="italics">Topeliaaninen usko. Kirjailija Sakari Topelius
-                                uskontokasvattajana</hi>. Väitöskirja, Helsingin yliopisto.
-                            Helsinki: Helsingin yliopisto.</p>
-                        <p rend="hangingIndent">Jantunen, Timo (2008) Topeliuksen kasvatusajattelu
-                            ja sen soveltaminen tänään. – <hi rend="italics">Topelius elää –
-                                Topelius lever</hi>. Topelius-seuran julkaisuja –
-                            Topeliussällskapets skrifter 3. Toim. Satu Apo ja Märtha Norrback.
-                            Jyväskylä: Atena, 51–78.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Juhannus</hi>. Tietävä:
-                            Juhlakalenteri. Helsinki: SKS. 2021. Saatavissa: URL: <xref type="ext" target="https://tietava.finlit.fi/juhlakalenteri/">https://tietava.finlit.fi/juhlakalenteri/</xref> (3.6.2025)</p>
-                        <p rend="hangingIndent">Juva, Mikko (1956) <hi rend="italics">Rajuilman
-                                alla. Suomalaisen kahdeksankymmenluvun synty.</hi> Porvoo–Helsinki:
-                            WSOY.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Kalevala</hi>. Toinen painos.
-                            Suomalaisen Kirjallisuuden Seuran Toimituksia 14. Helsinki: SKS. 1849.
-                            Saatavissa: Kalevala. Helsinki: SKS. 1998. Saatavissa: URL: <xref type="ext" target="https://www.finlit.fi/aineistot/kalevala/">https://www.finlit.fi/aineistot/kalevala/</xref> (3.6.2025)</p>
-                        <p rend="hangingIndent"><hi rend="italics">Kansallisbiografia</hi>. Päätoim.
-                            Matti Klinge. Helsinki: SKS 1997–. Studia Biographica 4. Päivitettävä
-                            julkaisu. Saatavissa: URL: <xref type="ext" target="http://www.kansallisbiografia.fi/">http://www.kansallisbiografia.fi/</xref> URN:NBN:fi-fe20051410
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Karihalme, Oili (1997) Muotoilun teoriasanaston
-                            termistyminen. –<hi rend="italics">Virittäjä </hi>2, 251–256.</p>
-                        <p rend="hangingIndent">Katajamäki, Sakari (2007) Suomen ruotsinkielinen
-                            kirjallisuus suomeksi. – <hi rend="italics">Suomennoskirjallisuuden
-                                historia 2</hi>. Toim. H. K. Riikonen, Urpo Kovala, Pekka Kujamäki
-                            ja Outi Paloposki. Suomalaisen Kirjallisuuden Seuran Toimituksia 1112.
-                            Helsinki: SKS, 66–80.</p>
-                        <p rend="hangingIndent">Katajamäki, Sakari (2019) Kuin korallien luoma.
-                            Tekstikriittinen näkökulma Topeliuksen Luonnonkirjan runokäännöksiin. –
-                                <hi rend="italics">MikaEL. Kääntämisen ja tulkkauksen tutkimuksen
-                                symposiumin verkkojulkaisu</hi>. Toim. Ritva Hartama-Heinonen, Marja
-                            Kivilehto, Minna Kujamäki ja Katja Vuokko. 12, 44–62. Saatavissa: <xref type="ext" target="https://journal.fi/mikael/issue/view/9198">https://journal.fi/mikael/issue/view/9198</xref> 3.6.2025)</p>
-                        <p rend="hangingIndent">Kauranen, Kaisa (tulossa) Torppari Kustaa Braskin
-                            tekstejä käsittelevän väitöskirjan julkaisematon käsikirjoitus.</p>
-                        <p rend="hangingIndent">Kean, Hilda (1998) <hi rend="italics">Animal Rights.
-                                Political and Social Change in Britain since 1800.</hi> London:
-                            Reaktion Books.</p>
-                        <p rend="hangingIndent">Kellgren, Johan Henric (1938) <hi rend="italics">Samlade skrifter VII:1</hi>. Utg. Sverker Ek, Allan Sjöding &amp;
-                            Otto Sylwan. Svenska författare utgivna av Svenska Vitterhetssamfundet
-                            IX. Stockholm: Svenska Vitterhetssamfundet.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Kielitoimiston sanakirja</hi>.
-                            Helsinki: Kotimaisten kielten keskus. Saatavissa: URL: <xref type="ext" target="http://www.kielitoimistonsanakirja.fi/">http://www.kielitoimistonsanakirja.fi/</xref>
-                            URN:NBN:fi:kotus-201433. Päivitettävä julkaisu. Päivitetty 19.3.2024.
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Kirstinä, Leena (2011a) Zacharias Topeliuksen
-                            Luonnonkirja. Miksi ja miten maailma on. – <hi rend="italics">Tapion
-                                tarhoista turkistarhoille. Luonto suomalaisessa lasten- ja
-                                nuortenkirjallisuudessa.</hi> Toim. Maria Laakso, Toni Lahtinen ja
-                            Päivi Heikkilä-Halttunen. Tietolipas 235. Helsinki: SKS, 42–54.</p>
-                        <p rend="hangingIndent">Kirstinä, Leena (2011b) Zachris Topelius luonnon ja
-                            eläinten suojelijana saduissa. Luentoaineisto 26.9.2011. Tampereen
-                            yliopisto.</p>
-                        <p rend="hangingIndent">Kirstinä, Leena (2011c) Vattumato olemisen suuressa
-                            ketjussa. Zacharias Topelius eläinten suojelijana. – <hi rend="italics">Tapion tarhoista turkistarhoille. Luonto suomalaisessa lasten- ja
-                                nuortenkirjallisuudessa.</hi> Toim. Maria Laakso, Toni Lahtinen ja
-                            Päivi Heikkilä-Halttunen. Tietolipas 235. Helsinki: SKS, 55–62.</p>
-                        <p rend="hangingIndent">Klinge, Matti (1989) Yliopisto, valtiosäädyt ja
-                            kansakunta. – Klinge, Matti sekä Rainer Knapas, Anto Leikola ja John
-                            Strömberg. <hi rend="italics">Keisarillinen Aleksanterin Yliopisto
-                                1808–1917. Helsingin yliopisto 1640–1990 II.</hi> Helsinki: Otava,
-                            672–723.</p>
-                        <p rend="hangingIndent">Klinge, Matti (1997) Universitetsrektorn som
-                            sagoberättare. – <hi rend="italics">SFV-kalendern</hi> 111, 7–12.</p>
-                        <p rend="hangingIndent">Klinge, Matti (1998) <hi rend="italics">Idylli ja
-                                uhka. Topeliuksen aatteita ja politiikkaa</hi>.
-                            Porvoo–Helsinki–Juva: WSOY.</p>
-                        <p rend="hangingIndent">Klinge, Matti (2007) Topelius, Zacharias (1818–1898)
-                            kirjailija, toimittaja, historian professori, valtioneuvos. – Suomen
-                            kansallisbiografia 9. Siltanen–Tott. Studia Biographica 3:9. Helsinki:
-                            SKS, 869<hi rend="italics">–</hi>875.</p>
-                        <p rend="hangingIndent">Knif<hi rend="italics">,</hi> Henrik (2017)
-                            Läseböckerna i idéhistorisk belysning. – Zacharias Topelius, Naturens
-                            bok och Boken om Vårt land. Utg. av Magnus Nylund under medverkan av
-                            Håkan Andersson, Pia Forssell och Henrik Knif. Zacharias Topelius
-                            Skrifter XVII. Skrifter utgivna av Svenska litteratursällskapet i
-                            Finland nr 816. Helsingfors: SLS, xxii–xxxi.</p>
-                        <p rend="hangingIndent">Knight, David (1989 [1986]) <hi rend="italics">The
-                                Age of Science. </hi><hi rend="italics">The Scientific World-view in
-                                the Nineteenth Century.</hi> Oxford: Basil Blackwell.</p>
-                        <p rend="hangingIndent">Korhonen, Veikko (1921) <hi rend="italics">Metsä ja
-                                kartano. Eläinsatuja</hi>. Porvoo: WSOY.</p>
-                        <p rend="hangingIndent">Kotivuori, Yrjö (2005) <hi rend="italics">Helsingin
-                                yliopiston ylioppilasmatrikkeli 1640–1852</hi>. Helsinki: Helsingin
-                            yliopisto. Saatavissa: URL: <xref type="ext" target="https://ylioppilasmatrikkeli.fi/">https://ylioppilasmatrikkeli.fi/</xref> (3.6.2025)</p>
-                        <p rend="hangingIndent">Koukkunen, Kalevi (1990) <hi rend="italics">Nykysuomen sanakirja 8. Vierassanojen etymologinen sanakirja</hi>.
-                            Porvoo–Helsinki–Juva: WSOY.</p>
-                        <p rend="hangingIndent">Krohn, Julius (1862) Kemiallisia tiedesanoja. – <hi rend="italics">Suomi-kirja</hi> 1862, 159–169. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/krohn/kemia_sm1860_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/krohn/kemia_sm1860_rdf.xml</xref>
-                            (3.6.2025).</p>
-                        <p rend="hangingIndent">Krohn, Julius (1864) <hi rend="italics">Kemian-oppi
-                                aloittelijoille</hi>. Suomalaisen Kirjallisuuden Seuran Toimituksia
-                            32. Helsinki: SKS.</p>
-                        <p rend="hangingIndent">Laakso, Maria – Lahtinen, Toni – Heikkilä-Halttunen,
-                            Päivi (2011) Johdatus lasten- ja nuortenkirjallisuuden luontoon. – <hi rend="italics">Tapion tarhoista turkistarhoille. Luonto
-                                suomalaisessa lasten- ja nuortenkirjallisuudessa. </hi>Toim. Maria
-                            Laakso, Toni Lahtinen ja Päivi Heikkilä-Halttunen. Tietolipas 235.
-                            Helsinki: SKS, 9–28.</p>
-                        <p rend="hangingIndent">Laine, Päivi (2007) <hi rend="italics">Suomi tiellä
-                                sivistyskieleksi. Suomenkielisen maantieteen sanaston kehittyminen
-                                ja kehittäminen 1800-luvulla</hi>. Turun yliopiston suomalaisen ja
-                            yleisen kielitieteen laitoksen julkaisuja 77. Turku: Turun
-                            yliopisto.</p>
-                        <p rend="hangingIndent">Laitinen, Lea (2004) Kieltosana ja kieletär: Yhden
-                            kielikiistan kulku ja ideologiat. – <hi rend="italics">Yhteistä kieltä
-                                tekemässä. Näkökulmia suomen kirjakielen kehitykseen
-                                1800-luvulla</hi>. Toim. Katja Huumo, Lea Laitinen ja Outi
-                            Paloposki. Suomalaisen Kirjallisuuden Seuran Toimituksia 979. Helsinki:
-                            SKS, 177–222.</p>
-                        <p rend="hangingIndent">Laitinen, Lea (2008) Maamme – meidän maa. – <hi rend="italics">Virittäjä</hi> 1, 84–114.</p>
-                        <p rend="hangingIndent">Laitinen, Lea (2009) Vapaus ja järjestys. Eläinten
-                            kielioppi Seitsemässä veljeksessä. – <hi rend="italics">Tulinuija.
-                                Aleksis Kiven Seuran albumi.</hi> Toim. Jaakko Yli-Paavola ja Pekka
-                            Laaksonen. Suomalaisen Kirjallisuuden Seuran Toimituksia 1246.<hi rend="italics"> </hi>Helsinki: SKS, 115–131.</p>
-                        <p rend="hangingIndent">Laitinen, Lea (2010) Kylä, kirkko ja kuningas.
-                            Omistusrakenteiden kielipolitiikkaa Ruotsin ajan Suomessa. − <hi rend="italics">Kielellä on merkitystä. Näkökulmia
-                                kielipolitiikkaan</hi>. Toim. Hanna Lappalainen, Marja-Leena
-                            Sorjonen ja Maria Vilkuna. Suomalaisen Kirjallisuuden Seuran Toimituksia
-                            1262. Helsinki: SKS, 369⎼402.</p>
-                        <p rend="hangingIndent">Lappalainen, Pekka (1959) <hi rend="italics">Aukusti
-                                Juhana Mela. Uranaukaisijan elämä</hi>. Turun yliopiston julkaisuja
-                            B 72. Turku: Turun yliopisto.</p>
-                        <p rend="hangingIndent">Lassila, Pertti (2000) <hi rend="italics">Runoilija
-                                ja rumpali. Luonnon, ihmisen ja isänmaan suhteista suomalaisen
-                                kirjallisuuden romanttisessa perinteessä.</hi> Tietolipas 166.
-                            Helsinki: SKS.</p>
-                        <p rend="hangingIndent">Lauerma, Petri (2004) Aluemurre vai murteiden
-                            yhdistelmä? Keskustelu kirjakielen perustasta 1800-luvun alkupuolella. –
-                                <hi rend="italics">Yhteistä kieltä tekemässä. Näkökulmia suomen
-                                kirjakielen kehitykseen 1800-luvulla</hi>. Toim. Katja Huumo, Lea
-                            Laitinen ja Outi Paloposki. Suomalaisen Kirjallisuuden Seuran
-                            Toimituksia 979. Helsinki: SKS, 136−176.</p>
-                        <p rend="hangingIndent">Lauerma, Petri (2012) <hi rend="italics">Kristityn
-                                vaellus varhaisnykysuomen merkinnästä. Jakob Johan Malmbergin
-                                suomennosten kielellinen kehitys 1800-luvun kirjasuomen
-                                murroksessa.</hi> Kotimaisten kielten keskuksen verkkojulkaisuja 31.
-                            Helsinki: Kotimaisten kielten keskus.</p>
-                        <p rend="hangingIndent">Laurent, Kaarina (1947) <hi rend="italics">Topelius
-                                saturunoilijana</hi>. Porvoo–Helsinki: WSOY.</p>
-                        <p rend="hangingIndent">Lehtonen, Maija (1997) Naturen och människan hos
-                            Topelius. – <hi rend="italics">SFV-kalendern</hi> 111, 13–23.</p>
-                        <p rend="hangingIndent">Lehtonen, Maija (2002) <hi rend="italics">Aaveita ja
-                                enkeleitä, lapsia ja sankareita. Näkökulmia Topeliukseen.</hi>
-                            Tampere: Suomen Nuorisokirjallisuuden Instituutti.</p>
-                        <p rend="hangingIndent">Lehtonen, Ulla (1981) <hi rend="italics">Lastenkirjallisuus Suomessa 1543–1850</hi>. Suomen
-                            Nuorisokirjallisuuden Instituutin julkaisuja 1. Tampere: Suomen
-                            Nuorisokirjallisuuden Instituutti.</p>
-                        <p rend="hangingIndent">Leikola, Anto (1968) <hi rend="italics">Vanhat
-                                eläinkirjat kertovat</hi>. Porvoo–Helsinki: WSOY.</p>
-                        <p rend="hangingIndent">Leikola, Anto (1974) Biologia kulttuurissamme. – <hi rend="italics">Luonnon tutkija</hi><hi rend="italics"> </hi>78:3,
-                            61–69.</p>
-                        <p rend="hangingIndent">Leikola, Anto (1980) <hi rend="italics">Oppineisuuden hirmu. Luonnontieteistä ja luonnon tutkijoista</hi>.
-                            Porvoo–Helsinki–Juva: WSOY.</p>
-                        <p rend="hangingIndent">Leikola, Anto (1982) <hi rend="italics">Naurun
-                                biologiaa ja muita esseitä.</hi> Porvoo–Helsinki–Juva: WSOY.</p>
-                        <p rend="hangingIndent">Lenngren, Anna Maria (1917) <hi rend="italics">Samlade skrifter Andra delen</hi>. Utg. Theodor Hjelmqvist &amp;
-                            Karl Warburg. Svenska författare utgivna av Svenska Vitterhetssamfundet
-                            IX. Stockholm: Svenska Vitterhetssamfundet.</p>
-                        <p rend="hangingIndent">Lenngren, Anna Maria (1926) <hi rend="italics">Samlade skrifter Tredje delen</hi>. Utg. Theodor Hjelmqvist &amp;
-                            Karl Warburg. Svenska författare utgivna av Svenska Vitterhetssamfundet
-                            VI. Stockholm: Albert Bonnier.</p>
-                        <p rend="hangingIndent">af Leopold, Carl Gustaf (2002) <hi rend="italics">Samlade skrifter av Carl Gustaf af Leopold</hi>. <hi rend="italics">Förra avdelningen Andra delen</hi>. Red. Torkel Stålmarck.
-                            Stockholm: Svenska Vitterhetssamfundet.</p>
-                        <p rend="hangingIndent">Lidén, Johan Henrik (1778) <hi rend="italics">Catalogus disputationum, in academiis et gymnasiis Sueciæ, atque
-                                etiam, a svecis, extra patriam habitarum, quotquot huc usque
-                                reperiri potuerunt</hi>. Upsaliæ.</p>
-                        <p rend="hangingIndent">Lindroth, Sten (1957) <hi rend="italics">Fru Lusta
-                                och Fru Dygd. Studier och porträtt</hi>.<hi rend="italics"> </hi>Stockholm: Wahlström &amp; Widstrand.</p>
-                        <p rend="hangingIndent">Lovejoy, Arthur O. (1964 [1936]) <hi rend="italics">The Great Chain of Being.</hi> Harvard: Harvard University
-                            Press.</p>
-                        <p rend="hangingIndent">Lunelund-Grönroos, Birgit (1954) <hi rend="italics">Zachris Topelius’ tryckta skrifter</hi>. Skrifter utgivna af
-                            Svenska litteratursällskapet i Finland 342. Helsingfors: SLS.</p>
-                        <p rend="hangingIndent">Lütken, C. F. (1866) <hi rend="italics">Zoologia eli
-                                eläinkunnan varhaishistoria</hi>. Kuopio: P. Aschan. Saatavissa:
-                            URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/anonyymi/anonyymi_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/anonyymi/anonyymi_coll_rdf.xml</xref>
-                            (3.6.2025).</p>
-                        <p rend="hangingIndent">Länkelä, Jaakko (1867) <hi rend="italics">Suomen
-                                kielen kielioppi. Alkeisopetuksen tarpeeksi</hi>. [Jyväskylä]:
-                            toimittaja.</p>
-                        <p rend="hangingIndent">Lönnrot, Elias (1847) <hi rend="italics">Svensk,
-                                Finsk och Tysk Tolk. Ruotsin, Suomen ja Saksan Tulkki.
-                                Schwedish-Finnisch-Deutsches Wörter- und Gespräch-Buch.
-                            </hi>Helsinki: A. C. Öhman. Saatavissa: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/lonnrot/tulkkijatk_1847_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/lonnrot/tulkkijatk_1847_rdf.xml</xref>
-                            <hi rend="italics"> </hi>(3.6.2025)</p>
-                        <p rend="hangingIndent">Lönnrot, Elias (1858) Kasvikon oppisanoja. – <hi rend="italics">Suomi </hi>1858, 1–108. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/lonnrot/kasvikkosanoja1858_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/lonnrot/kasvikkosanoja1858_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Lönnrot, Elias (1860) <hi rend="italics">Flora
-                                fennica. Suomen kasvisto: koelma</hi>. Suomalaisen Kirjallisuuden
-                            Seuran Toimituksia 24. Helsinki: SKS.</p>
-                        <p rend="hangingIndent">Lönnrot, Elias (1861 [1991]) Suomalainen Lintukirja.
-                            Käsikirjoitus vuodelta 1861. – Elias Lönnrot, <hi rend="italics">Valitut
-                                teokset 3. Kirjoitelmia ja lausumia</hi>. Toim. Raija Maijamaa.
-                            Suomalaisen Kirjallisuuden Seuran Toimituksia 551. Helsinki: SKS. 1991,
-                            426–438.</p>
-                        <p rend="hangingIndent">Lönnrot, Elias (1874) <hi rend="italics">Finskt-svenskt lexicon. Suomalais-ruotsalainen sanakirja</hi>.
-                            Suomalaisen Kirjallisuuden Seuran Toimituksia 50:1. Helsinki: SKS.</p>
-                        <p rend="hangingIndent">Lönnrot, Elias (1880) <hi rend="italics">Suomalais-ruotsalainen sanakirja. Jälkimäinen osa. N–Ö</hi>.
-                            Suomalaisen Kirjallisuuden Seuran Toimituksia 50:2. Helsinki: SKS.</p>
-                        <p rend="hangingIndent">Mahn, J. H. F. (1877) <hi rend="italics">Kuusisataa
-                                talouden hoitannossa käytettävää kunnollista sekä koeteltua keinoa
-                                kaikille säädyille eli todellinen mukavuuden, menestyksen,
-                                terveyden, työn ja kulunkien säästämisen neuvonantaja</hi>. Turku:
-                            Wilén.</p>
-                        <p rend="hangingIndent">Malmberg, A. J. (toim.) (1872) <hi rend="italics">Fauna Fennica. Suomen eläimistö, nuorisolle. 1–4, Nisäkkäät,
-                                linnut, matelijat ja sammakot</hi>. Helsinki: Frenckell: Edlund.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Mansikoita ja mustikoita
-                            III</hi>. Helsinki: G. W. Edlund. 1865.</p>
-                        <p rend="hangingIndent">Markkanen, Tapio (2008) Pikkujättiläisen hartioilta.
-                            – <hi rend="italics">Tieteessä tapahtuu</hi> 1, 38–39.</p>
-                        <p rend="hangingIndent">Mela, A. J. (1882) <hi rend="italics">Suomen
-                                luurankoiset, eli luonnontieteellisen Suomen
-                                luurankois-eläimistö</hi>. Helsinki: K. E. Holm. Saatavissa: URL:
-                                <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/mela/luurankoiset1882_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/mela/luurankoiset1882_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Meurman, A. (1883–1890) <hi rend="italics">Sanakirja
-                                yleiseen sivistykseen kuuluvia tietoja varten</hi>. Helsinki:
-                            Edlund. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/meurman/sanakirja1883-1890_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/meurman/sanakirja1883-1890_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Mikkola, Kati (2004) Uskonto, isänmaa, isänmaausko.
-                            Uskonnollisen argumentaation ulottuvuudet Topeliuksen Maamme kirjassa. –
-                                <hi rend="italics">Uskonnon paikka. Kirjoituksia uskontojen ja
-                                uskontoteorioiden rajoista.</hi> Toim. Outi Fingeroos, Minna Opas ja
-                            Teemu Taira. Tietolipas 205. Helsinki: SKS, 209–244.</p>
-                        <p rend="hangingIndent">Mikkola, Kati (2008) Maamme kirja Kalevalan
-                            tulkitsijana. – <hi rend="italics">Kalevalan kulttuurihistoria</hi>.
-                            Toim. Ulla Piela, Seppo Knuuttila ja Pekka Laaksonen. Suomalaisen
-                            Kirjallisuuden Seuran Toimituksia 1179. Helsinki: SKS, 170–189.</p>
-                        <p rend="hangingIndent">Mikola, Marja (1987) <hi rend="italics">Johan Julin
-                                – Valistusajan luonnontutkija Oulussa</hi>. Oulun yliopiston
-                            historian laitoksen julkaisuja, Yleinen aate- ja oppihistoria 5. Oulu:
-                            Oulun yliopisto.</p>
-                        <p rend="hangingIndent">Modeen, A. E. (1848) <hi rend="italics">Os-wiitta
-                                Yhteiseen ja Suomen Geografiaan</hi>. Suomennettu Stenhammar’in ja
-                            Palmblad’in mukaan. Viipuri: A. F. Cederwaller.</p>
-                        <p rend="hangingIndent">M–r (1856) Läsebok för de lägsta läroverken i
-                            Finland af Z. Topelius. Första Kursen. Naturens Bok. – <hi rend="italics">Kuopio Tidning</hi> 31.5.1856.</p>
-                        <p rend="hangingIndent">Murman, Johan Wilhelm (1866) <hi rend="italics">Eläintiede (Zoologia) suomalaisille alkeiskouluille 1–2</hi>.
-                            Turku: Wilen.</p>
-                        <p rend="hangingIndent">Mäkelä-Henriksson, Eeva (1988) Suomalaiset oppivat
-                            lukemaan ja kirjoittamaan. – <hi rend="italics"> Kirja Suomessa. Kirjan
-                                juhlavuoden näyttely Kansallismuseossa 25.8.–31.12.1988.
-                            </hi>Helsinki: Helsingin yliopiston kirjasto, 111–118.</p>
-                        <p rend="hangingIndent">Nervander, Johan Jakob (1850) <hi rend="italics">Skrifter af Johan Jakob Nervander, utgifna till minne för landsmän
-                                II</hi>. Utg. Johan Vilhelm Snellman. Helsingfors: Öhman.</p>
-                        <p rend="hangingIndent">Niemi, Juhani (1999) Kirjallisen instituution
-                            luominen ja vakiinnuttaminen. <hi rend="italics">–</hi><hi rend="italics"> Suomen kirjallisuushistoria 1. Hurskaista lauluista
-                                ilostelevaan romaaniin. </hi>Toim. Yrjö Varpio ja Liisi Huhtala.
-                            Suomalaisen Kirjallisuuden Seuran Toimituksia 724, 1. Helsinki: SKS,
-                            270–277.</p>
-                        <p rend="hangingIndent">Niiniluoto, Ilkka (2000) Filosofia. <hi rend="italics">–</hi><hi rend="italics"> Suomen tieteen historia 2.
-                                Humanistiset ja yhteiskuntatieteet. </hi>Päätoim. Päiviö Tommila.
-                            Porvoo–Helsinki–Juva: WSOY, 176–223.</p>
-                        <p rend="hangingIndent">Nordenskiöld, Erik (1928) <hi rend="italics">Biologian historia yleiskatsauksellisesti esitettynä II. 1700-luvun
-                                alusta Darwinin aikoihin.</hi> Porvoo: WSOY.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Nordisk familjebok.
-                                Konversationslexikon och realencyklopedi. </hi>Saatavissa: URL: <xref type="ext" target="http://runeberg.org/nf">http://runeberg.org/nf</xref> (3.6.2025)</p>
-                        <p rend="hangingIndent">Noro, Mauri (1981) Topelius ja Linné. – <hi rend="italics">Historiallinen Aikakauskirja </hi>79:1, 31–38.</p>
-                        <p rend="hangingIndent">Nyberg, Paul (1950) <hi rend="italics">Z. Topelius.
-                                Elämäkerrallinen kuvaus I–II</hi>. Porvoo–Helsinki: WSOY.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Nykysuomen sanakirja 1–6</hi>.
-                            Päätoim. Matti Sadeniemi. Porvoo–Helsinki–Juva: WSOY. 1992.</p>
-                        <p rend="hangingIndent">Nylander, W. (1848) Finska Foglars Finska namn,
-                            systematiskt ordnade. – <hi rend="italics">Suomi, Tidskrift i
-                                fosterländska ämnen. </hi><hi rend="italics">Åttonde</hi><hi rend="italics"> årgången</hi>, 285–295.</p>
-                        <p rend="hangingIndent">Nylund, Magnus – Andersson, Håkan – Forssell, Pia –
-                            Knif, Henrik (2017) Inledning. − <hi rend="italics">Naturens Bok och
-                                Boken om Vårt Land</hi>. Utg. Magnus Nylund under medverkan av Håkan
-                            Andersson, Pia Forssell och Henrik Knif. Zacharias Topelius Skrifter
-                            XVII. Skrifter utgivna av Svenska litteratursällskapet i Finland 816.
-                            Helsingfors: SLS. Saatavissa: URL: <xref type="ext" target="http://topelius.sls.fi/">http://topelius.sls.fi/</xref>
-                            URN:NBN:fi:sls-6598-1508156369 (3.6.2025).</p>
-                        <p rend="hangingIndent">Paloposki, Outi (2004) Suomennoskirjallisuus
-                            1800-luvun alkupuolella. – <hi rend="italics">Yhteistä kieltä tekemässä.
-                                Näkökulmia suomen kirjakielen kehtiykseen 1800-luvulla</hi>. Toim.
-                            Katja Huumo, Lea Laitinen ja Outi Paloposki. Suomalaisen Kirjallisuuden
-                            Seuran Toimituksia 979. Helsinki: SKS, 41–72.</p>
-                        <p rend="hangingIndent">Passmore, John (1975) The Treatments of Animals. –
-                                <hi rend="italics">Journal of History of Ideas </hi>36:2,
-                            195–218.</p>
-                        <p rend="hangingIndent">Patoluoto, Ilkka (1986) Hyödyllinen luomakunta.
-                            Hyötyajattelun maailmankuvalliset perusteet 1700-luvun Ruotsin
-                            valtakunnassa. – <hi rend="italics">Hyöty, sivistys, kansakunta.
-                                Suomalaista aatehistoriaa</hi><hi rend="italics">. </hi>Toim. Juha
-                            Manninen ja Ilkka Patoluoto. Oulu: Pohjoinen, 41–64.</p>
-                        <p rend="hangingIndent">Pesonen, Heikki (1999) Kristinusko ja
-                            ympäristökriisin syylliset. – <hi rend="italics">Uskonnon luonto.
-                                Ihmisen ja luonnon suhde uskonnollisessa ajattelussa. </hi>Toim.
-                            Heikki Pesonen. Jyväskylä: Atena, 13–32.</p>
-                        <p rend="hangingIndent">Pettersson, Björn (1952) <hi rend="italics">Bildiga
-                                naturmotiv i Topelius’ lyrik.</hi> Historiska och
-                            litteraturhistoriska studier 27–28. Skrifter utgivna av Svenska
-                            litteratursällskapet i Finland 335. Helsingfors: SLS.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Pieni tietosanakirja</hi>. Toim.
-                            Jaakko Forsman, J. A. Wecksell, I. Havu ja Hannes Salovaara. Helsinki:
-                            Otava. 1925–1928. Saatavissa: URL: <xref type="ext" target="http://runeberg.org/pieni/">http://runeberg.org/pieni/</xref>
-                            (3.6.2025).</p>
-                        <p rend="hangingIndent">Pihkala, Panu (2011) Maailmankatsomukset ja
-                            kristinusko ympäristökasvatuksessa. – <hi rend="italics">Kasvatus &amp;
-                                Aika</hi> 5:4, 86–105.</p>
-                        <p rend="hangingIndent">Pihkala, Panu (2014) Ekoteologia. – <hi rend="italics">Modernin teologian suuntauksia.</hi> Toim. Olli-Pekka
-                            Vainio ja Lauri Kemppainen. Helsinki: Kirjapaja, 233–260.</p>
-                        <p rend="hangingIndent">Pitkänen, Kaarina (2008) <hi rend="italics">Suomi
-                                kasvitieteen kieleksi. Elias Lönnrot termistön kehittäjänä</hi>.<hi rend="italics"> </hi>Suomalaisen Kirjallisuuden Seuran Toimituksia
-                            1164. Helsinki: SKS.</p>
-                        <p rend="hangingIndent">Pitkänen-Heikkilä, Kaarina (2010a) Miten 1800-luvun
-                            tietokirjojen suomentamisprosessia voi tutkia? – <hi rend="italics">MikaEL</hi><hi rend="italics">:</hi><hi rend="italics"> Kääntämisen
-                                ja tulkkauksen tutkimuksen symposiumin verkkojulkaisu. </hi>Vol. 4.
-                            Toim. Raila Hekkanen, Esa Penttilä ja Nestori Siponkoski. Saatavissa:
-                            URL: <xref type="ext" target="https://journal.fi/mikael/issue/view/9218">https://journal.fi/mikael/issue/view/9218</xref> (3.6.2025)</p>
-                        <p rend="hangingIndent">Pitkänen-Heikkilä, Kaarina (2010b) Suomentaja
-                            normien ylläpitäjänä ja rakentajana. – Johan Bäckvall ja Topeliuksen
-                            Luonnon-kirjan suomennosprosessi. – <hi rend="italics">Sanoista
-                                kirjakieliin. Juhlakirja Kaisa Häkkiselle 17. marraskuuta 2010</hi>.
-                            Toim. Sirkka Saarinen, Kirsti Siitonen ja Tanja Vaittinen.
-                            Suomalais-Ugrilaisen Seuran Toimituksia 259. Helsinki:
-                            Suomalais-Ugrilainen Seura, 81–95. Saatavissa: URL: <xref type="ext" target="https://www.sgr.fi/en/items/show/682">https://www.sgr.fi/en/items/show/682</xref></p>
-                        <p rend="hangingIndent">Pitkänen-Heikkilä, Kaarina (2013) Tietokirjojen
-                            suomentajat terminologian kehittäjinä ja vakiinnuttajina. – <hi rend="italics">Suomennetun tietokirjallisuuden historia:
-                                1800-luvulta 2000-luvulle</hi>. Toim. Outi Paloposki ja H. K.
-                            Riikonen. Suomalaisen Kirjallisuuden Seuran Toimituksia 1289. Helsinki:
-                            SKS, 66–91.</p>
-                        <p rend="hangingIndent">Pitkänen-Heikkilä, Kaarina (2018) Tiedesanaston
-                            suomentamista koskevat normit: Eläintaksonomisen sanaston kehittämisestä
-                            1800-luvulla ja 2000-luvulla. – <hi rend="italics">Virittäjä </hi>122:4,
-                            523–560. Saatavissa: DOI: <xref type="ext" target="https://doi.org/10.23982/vir.57006">https://doi.org/10.23982/vir.57006</xref></p>
-                        <p rend="hangingIndent">Pitkäranta, Reijo (2018) <hi rend="italics">Suomi–latina–suomi-sanakirja</hi>. Helsinki: Gaudeamus.</p>
-                        <p rend="hangingIndent">Platou, L. S. (1844) <hi rend="italics">Geografia
-                                eli Maan Opas</hi>. Suom. A. E. Ahlqvist. Kuopio. Saatavissa: URL:
-                                <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/ahlqvist/platoun_geografia1844_rdf.xml
-                            ">http://kaino.kotus.fi/korpus/1800/meta/ahlqvist/platoun_geografia1844_rdf.xml
-                            </xref> (3.6.2025)</p>
-                        <p rend="hangingIndent">Ranta, Pertti (2011) <hi rend="italics">Charles
-                                Darwin. </hi><hi rend="italics">Elämä ja evoluutio</hi>. Helsinki:
-                            Teos.</p>
-                        <p rend="hangingIndent">Renvall, Gustaf (1826) <hi rend="italics">Suomalainen Sana-Kirja. </hi><hi rend="italics">Lexicon linguae
-                                Finnicae, cum interpretatione duplici, coposiore Latina, breviore
-                                Germanica</hi>. Aboae: typis Frenckellianis. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/renvall/renvall_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/renvall/renvall_coll_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Reuterdahl, Henrik (1838) <hi rend="italics">Julläsning för barn</hi>. Lund: Gleerup.</p>
-                        <p rend="hangingIndent">Rousseau, Jean-Jacques (1905) <hi rend="italics">Émil</hi><hi rend="italics">e eli kasvatuksesta</hi>. Suom. Jalmari
-                            Hahl. Suomalaisen Kirjallisuuden Seuran Toimituksia 91. Helsinki:
-                            SKS.</p>
-                        <p rend="hangingIndent">Runeberg, Johan Ludvig (1830) <hi rend="italics">Dikter af Johan Ludvig Runeberg</hi>. [Kustannuspaikka tuntematon:
-                            Kustantaja tuntematon.]</p>
-                        <p rend="hangingIndent">Runeberg, Johan Ludvig (1848) <hi rend="italics">Fänrik Ståls sånger. </hi><hi rend="italics">En samling sånger 1 af
-                                Johan Ludvig Runeberg</hi>. Borgå: P. Widerholm.</p>
-                        <p rend="hangingIndent">Runeberg, Johan Ludvig (1874) <hi rend="italics">Runoelmia</hi>. Suom. Edvan Avellan. Helsinki: Simelius: Holm.</p>
-                        <p rend="hangingIndent">Saalas, Uunio (1957) <hi rend="italics">Carl
-                                Reinhold Sahlberg. </hi><hi rend="italics">Luonnontutkija,
-                                yliopisto- ja maatalousmies </hi><hi rend="italics">1779–1860.</hi>
-                            Historiallisia tutkimuksia 47. Helsinki: Suomen Historiallinen
-                            Seura.</p>
-                        <p rend="hangingIndent">Sadelin, Petrus Ulricus (1810) <hi rend="italics">Fauna Fennica, sive enumeratio animalium, quae alit terra
-                                Finlandiae insulaeque ei adjacentes.</hi> Aboae.</p>
-                        <p rend="hangingIndent">Sadelin, Petrus Ulricus (1819) <hi rend="italics">Fauna Fennica, sive enumeratio animalium, quae alit terra
-                                Finlandiae insulaeque ei adjacentes.</hi> Aboae.</p>
-                        <p rend="hangingIndent">Sainio, Matti A. (1957) <hi rend="italics">Kasvatusopin tutkimu</hi><hi rend="italics">s ja opetus Turun
-                                Akatemiassa. </hi>Jyväskylän Kasvatusopillisen korkeakoulun
-                            julkaisuja XIV. Jyväskylä: Jyväskylän yliopistoyhdistys.</p>
-                        <p rend="hangingIndent">Santmire, H. Paul (1970) <hi rend="italics">Brother
-                                Earth: Nature, God, and Ecology in Time of Crisis.</hi> Camden, New
-                            Jersey: T. Nelson.</p>
-                        <p rend="hangingIndent">Savolainen, Raimo (2006) <hi rend="italics">Sivistyksen voimalla. J. V. Snellmanin elämä</hi>. Helsinki:
-                            Edita.</p>
-                        <p rend="hangingIndent">Schödler, Fredrik (1856) <hi rend="italics">Luonnonkirja: kotona ja kouluissa luettava. </hi><hi rend="italics">I:n Osa: Physikki</hi>. Suom. Jaakko Innain. Viipuri: Suomalaisen
-                            kirjallisuuden Seura Viipurissa. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/innain/schodlerin_physikki1856_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/innain/schodlerin_physikki1856_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Schödler, Friedrich (1847–1848) <hi rend="italics">Naturens Bok för Hemmet </hi><hi rend="italics">och </hi><hi rend="italics">Skolan.</hi> Stockholm: Zacharias Haegström.</p>
-                        <p rend="hangingIndent">Simelius, Aukusti (1916) Juhana Bäckvall. Muutamia
-                            piirteitä. – <hi rend="italics">Aika</hi> 8, 436–441.</p>
-                        <p rend="hangingIndent">SKSK 1856–1857 = Finska litteratur-sällskapets
-                            förhandlingar året 16.3.1856 – 16.3.1857. <hi rend="italics">Suomi,
-                                Tidskrift i fosterländska ämnen. 1856. Sextonde årgången.
-                            </hi>Helsingfors: Finska Litteratur-Sällskapets förlag 1857,
-                            253–288.</p>
-                        <p rend="hangingIndent">SKSK 1857–1858 = Finska litteratur-sällskapets
-                            förhandlingar 16.3.1857 – 2.6.1858. <hi rend="italics">Suomi, Tidskrift
-                                i fosterländska ämnen. 1857. Sjuttonde årgången. </hi>Helsingfors:
-                            Finska Litteratur-Sällskapets förlag 1858, 267–304.</p>
-                        <p rend="hangingIndent">SKSK 1859–1860 = Suomalaisen kirjallisuuden seuran
-                            keskustelemiset 6.4.1859 – 16.3.1860. – <hi rend="italics">Suomi,
-                                Tidskrift i fosterländska ämnen. 1859. </hi>Nittonde årgången.<hi rend="italics"> </hi>Helsingfors: Finska Litteratur-Sällskapets
-                            förlag 1860, 293–326.</p>
-                        <p rend="hangingIndent">SKSK 1860–1861 = Suomalaisen Kirjallisuuden Seuran
-                            keskustelemiset 4.4.1860 – 16.3.1861. – <hi rend="italics">Suomi.
-                                Kirjoituksia isän-maallisista aineista. </hi>Toinen Jakso. 1:nen
-                                Osa.<hi rend="italics"> </hi>Helsinki: SKS 1863, 259–306.</p>
-                        <p rend="hangingIndent">SKSK 1861–1862 = Suomalaisen Kirjallisuuden Seuran
-                            keskustelemukset 3.4.1861 – 16.3.1862. – <hi rend="italics">Suomi.
-                                Kirjoituksia isän-maallisista aineista. </hi>Toinen Jakso. 2:nen
-                                Osa.<hi rend="italics"> </hi>Helsinki: SKS 1864, 163–244.</p>
-                        <p rend="hangingIndent">SKSK 1862–1863 = Suomalaisen Kirjallisuuden Seuran
-                            keskustelemukset 2.4.1862 – 16.3.1863. – <hi rend="italics">Suomi.
-                                Kirjoituksia isän-maallisista aineista. </hi>Toinen Jakso. 2:nen
-                                Osa.<hi rend="italics"> </hi>Helsinki: SKS 1864, 245–339.</p>
-                        <p rend="hangingIndent">SKSK 1864–1865 = Suomalaisen Kirjallisuuden Seuran
-                            keskustelemukset v. 1864–65. – <hi rend="italics">Suomi. Kirjoituksia
-                                isän-maallisista aineista. </hi>Toinen Jakso. 4 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1865, 273–356.</p>
-                        <p rend="hangingIndent">SKSK 1865–1866 = Suomalaisen Kirjallisuuden Seuran
-                            keskustelemukset 5.4.1865 – 16.3.1866. – <hi rend="italics">Suomi.
-                                Kirjoituksia isän-maallisista aineista. </hi>Uusi Jakso. 5 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1866, 271–365.</p>
-                        <p rend="hangingIndent">SKSK 1868–1869 = Suomalaisen Kirjallisuuden Seura,
-                            keskustelemukset v. 1868–1869. – <hi rend="italics">Suomi. Kirjoituksia
-                                isän-maallisista aineista. </hi>Toinen Jakso. 9 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1871, 391–463.</p>
-                        <p rend="hangingIndent">SKSK 1872–1873 = Suomalaisen Kirjallisuuden Seuran
-                            keskustelemukset v. 1872–1873. – <hi rend="italics">Suomi. Kirjoituksia
-                                isän-maallisista aineista</hi>. Toinen Jakso. 12 Osa. Helsinki: SKS
-                            1878, 97–173.</p>
-                        <p rend="hangingIndent">SKSK 1875–1876 = Suomalaisen Kirjallisuuden Seuran
-                            keskustelemukset v. 1875–1876. – <hi rend="italics">Suomi. Kirjoituksia
-                                isän-maallisista aineista</hi>. Toinen Jakso. 13 Osa. Helsinki: SKS
-                            1879, 167–304.</p>
-                        <p rend="hangingIndent">SKSK 1878–1879 = Suomalaisen Kirjallisuuden Seuran
-                            keskustelemukset v. 1878–1879. – <hi rend="italics">Suomi. Kirjoituksia
-                                isän-maallisista aineista</hi>. Toinen Jakso. 13 Osa. Helsinki: SKS
-                            1879, 375–468.</p>
-                        <p rend="hangingIndent">SKSK 1883–1884 = Suomalaisen Kirjallisuuden Seura
-                            keskustelemukset v. 1884–1885. – <hi rend="italics">Suomi. Kirjoituksia
-                                isän-maallisista aineista. </hi>Toinen Jakso. 17 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1885, 196–319.</p>
-                        <p rend="hangingIndent">SKSK 1884–1885 = Suomalaisen Kirjallisuuden Seura
-                            keskustelemukset v. 1884–1885. – <hi rend="italics">Suomi. Kirjoituksia
-                                isän-maallisista aineista. </hi>Toinen Jakso. 18 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1885, 217–321.</p>
-                        <p rend="hangingIndent">SKSK 1885–1886 = Suomalaisen Kirjallisuuden Seura
-                            keskustelemukset v. 1885–1886. – <hi rend="italics">Suomi. Kirjoituksia
-                                isän-maallisista aineista. </hi>Toinen Jakso. 19 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1886, 191–302.</p>
-                        <p rend="hangingIndent">SKSK 1903–1904 = Suomalaisen Kirjallisuuden Seura
-                            keskustelemukset v. 1903–1904. – <hi rend="italics">Suomi. Kirjoituksia
-                                isän-maallisista aineista. </hi>Neljäs Jakso. 2 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1904, 1–190.</p>
-                        <p rend="hangingIndent">SKSK 1910–1911 = Suomalaisen Kirjallisuuden Seura
-                            keskustelemukset v. 1910–1911. – <hi rend="italics">Suomi. Kirjoituksia
-                                isän-maallisista aineista. </hi>Neljäs Jakso. 10 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1903, 1910 ja 1912, 1–191.</p>
-                        <p rend="hangingIndent">SKSK 1920–1921 = Suomalaisen Kirjallisuuden Seura
-                            keskustelemukset v. 1920–1921. – <hi rend="italics">Suomi. </hi><hi rend="italics">Kirjoituksia isän-maallisista aineista. </hi>Viides
-                            Jakso. 1 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1927, 1–93,
-                            1–32.</p>
-                        <p rend="hangingIndent">Snellman, J. V. (1856) Läsebok för de lägsta
-                            läroverken i Finland af Z. Topelius. – <hi rend="italics">Litteraturblad
-                                för allmän medborgerlig bildning </hi>7, 196–199.</p>
-                        <p rend="hangingIndent">Stenbäck, Lars (1850) <hi rend="italics">Dikter af
-                                Lars Stenbäck I, II</hi>. Andra tillökta och förbättrade Upplagan.
-                            Helsingfors: Edlund.</p>
-                        <p rend="hangingIndent">Still, Clary-Ann (2009) Barnet i Kulturvaggan.
-                            Föreningen Arbetets Vänners barnträdgårdsverksamhet i Åbo 1897–1937 och
-                            dess historiska bakgrund. – <hi rend="italics">Kasvatus ja aika</hi> 3,
-                            47–64. Saatavissa: URL: <xref type="ext" target="https://journal.fi/kasvatusjaaika/issue/view/4762">https://journal.fi/kasvatusjaaika/issue/view/4762</xref></p>
-                        <p rend="hangingIndent">Sulkunen, Irma (2004) <hi rend="italics">Suomalaisen
-                                Kirjallisuuden Seura 1831–1892</hi>. Suomalaisen Kirjallisuuden
-                            Seuran Toimituksia 952. Helsinki: SKS.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Suomen etymologinen
-                                sanakirja.</hi> Kotimaisten kielten keskuksen verkkojulkaisuja 72.
-                            Helsinki: Kotimaisten kielten keskus. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/ses/">http://kaino.kotus.fi/ses/</xref>
-                            URN:NBN:fi:kotus-202259. Päivitetty 15.8.2024 (3.6.2025) </p>
-                        <p rend="hangingIndent"><hi rend="italics">Suomen Kansan Satuja ja Tarinoita
-                                III.</hi> Toim. Eero Salmelainen. Suomalaisen Kirjallisuuden Seuran
-                            Toimituksia 17. Helsinki: SKS. 1863.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Suomen murteiden
-                                sanakirja</hi><hi rend="italics">. a–noukkia</hi>. Kotimaisten
-                            kielten keskuksen verkkojulkaisuja 30. Helsinki: Kotimaisten kielten
-                            keskus. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/sms">http://kaino.kotus.fi/sms</xref>
-                            URN:NBN:fi:kotus-201110 Päivitetty 5.6.2024. (3.6.2025)</p>
-                        <p rend="hangingIndent">Suutala, Maria (1995) <hi rend="italics">Naiset ja
-                                muut eläimet. Ihmisen suhde luontoon länsimaisessa ajattelussa.</hi>
-                            Helsinki: Yliopistopaino.</p>
-                        <p rend="hangingIndent">Suutala, Maria (2001) <hi rend="italics">Kesytetty
-                                nainen. Seksuaalisuus ja luontosuhde länsimaisessa ajattelussa.</hi>
-                            Helsinki: Yliopistopaino.</p>
-                        <p rend="hangingIndent">Suvikumpu, Liisa (2014) <hi rend="italics">Suomalaiset kylpylät. Kotimaisen kylpyläkulttuurin historiaa</hi>.
-                            Kirjokansi 20. Helsinki: SKS.</p>
-                        <p rend="hangingIndent"><hi rend="italics">Svenska Akademiens ordbok</hi>.
-                            Saatavissa: URL: <xref type="ext" target="https://www.saob.se">https://www.saob.se</xref> (3.6.2025)</p>
-                        <p rend="hangingIndent">Teerijoki, Ilkka (2008) Cajanus, Daniel – <hi rend="italics">Biografiskt lexikon för Finland 1. </hi><hi rend="italics">Svenska tiden</hi>. Red. Henrik Knif ym. Skrifter
-                            utgivna av Svenska litteratursällskapet i Finland 710:1. Helsingfors:
-                            Svenska litteratursällskapet; Stockholm: Atlantis.</p>
-                        <p rend="hangingIndent">Tengström, J. J. (1929) Muutamista Suomen
-                            kirjallisuuden ja kulttuurin esteistä. – <hi rend="italics">A.</hi><hi rend="italics"> </hi><hi rend="italics">I. Arwidssonista J.</hi><hi rend="italics"> </hi><hi rend="italics">V. Snellmaniin. Kansallisia
-                                kirjoitelmia vuosilta 1817–1844</hi>. Suomalaisuuden syntysanoja
-                            III. Suomalaisen Kirjallisuuden Seuran Toimituksia 105. Helsinki: SKS,
-                            1–53.</p>
-                        <p rend="hangingIndent">Tester, Keith (1991) <hi rend="italics">Animals and
-                                Society. The Humanity of Animal Rights</hi><hi rend="italics">.</hi>
-                            London: Routledge.</p>
-                        <p rend="hangingIndent">Thomas, Keith (1983) <hi rend="italics">Man and the
-                                Natural World. A History of the Modern Sensibility. </hi>New York:
-                            Pantheon Books.</p>
-                        <p rend="hangingIndent">Ticklén, J. F. (1832) <hi rend="italics">Termini
-                                Medici in Lingua Fennica Occurrentes</hi>. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/sanaluettelot/ticklen_terminimedici1832_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/sanaluettelot/ticklen_terminimedici1832_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent"><hi rend="italics">Tieteen termipankki.
-                                Vetenskapstermbanken i Finland. </hi><hi rend="italics">The Helsinki
-                                Term Bank for the Arts and Sciences</hi>. Päivitettävä julkaisu.
-                            Saatavissa: URL: <xref type="ext" target="https://tieteentermipankki.fi">https://tieteentermipankki.fi</xref> (3.6.2025)</p>
-                        <p rend="hangingIndent">Tigerstedt, E. N. (1943) <hi rend="italics">Topelius-studier I–II.</hi> Historiska och litteraturhistoriska<hi rend="italics"> </hi>studier 18–19. Skrifter utgivna av Svenska
-                            Litteratursällskap i Finland 294. Helsingfors: SLS.</p>
-                        <p rend="hangingIndent">Tiitta, Allan (1994) <hi rend="italics">Harmaakiven
-                                maa. Zacharias Topelius ja Suomen maantiede</hi>. Bidrag till
-                            kännedom av Finlands natur och folk 147. Helsinki: Suomen
-                            Tiedeseura.</p>
-                        <p rend="hangingIndent">Tiitta, Allan (2009) Johdannoksi. – Topelius,
-                            Zacharias, <hi rend="italics">Luonnonkirja. Ala-alkeiskouluin
-                                tarpeeksi</hi>. Suomalaisen kirjallisuuden klassikoita. Helsinki:
-                            SKS, vii–xvi.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1843a) Om Österbotten. – <hi rend="italics">Jou(k)kahainen</hi> 1, 32–50.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1843b) Grunddragen af
-                            jordbeskrifningen med hufwudsakligt afseende på natur- och folklif. –
-                                <hi rend="italics">Helsingfors Tidningar</hi> 14.10.1843.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1846) Jul-Literatur. – <hi rend="italics">Helsingfors Tidningar</hi> 23.12.1846.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1848) Från Helsingfors. – <hi rend="italics">Helsingfors Tidningar</hi> 29.11.1848.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1850a) Helsingfors. – <hi rend="italics">Helsingfors Tidningar</hi> 7.8.1850.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1850b) <hi rend="italics">Ljungblommor. </hi><hi rend="italics">Andra samlingen</hi>.
-                            Helsingfors: Förf:s förlag.</p>
-                        <p rend="hangingIndent">[Topelius, Zacharias] (1852) Fältskärns Andra
-                            Berättelse. Svärdet och plogen. − <hi rend="italics">Helsingfors
-                                Tidningar</hi> 28.1.1852.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1855) Om läsning för barn. –
-                                <hi rend="italics">Helsingfors Tidningar</hi> 7.11.–19.12.1855.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1856a) Förord till lärare och
-                            äldre läsare. – Topelius, Zacharias, <hi rend="italics">Läsebok för de
-                                lägsta lärowerken i Finland. Första Kursen. Naturens Bok.
-                            </hi>Helsingfors: Förf:s förlag.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1856b) Huru doktor Frobel
-                            uppfostrade småbarn. – <hi rend="italics">Helsingfors Tidningar</hi>
-                            5.3.1856.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1856c) Litteratur. – <hi rend="italics">Helsingfors Tidningar</hi> 14.5.1856.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1857a) Förord till första
-                            upplagan. – Topelius, Zacharias, <hi rend="italics">Läsebok för de
-                                lägsta lärowerken i Finland. Första Kursen. Naturens Bok. </hi>Andra
-                            upplagan. Helsingfors: Förf:s förlag.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1857b) <hi rend="italics">Läsebok för de lägsta lärowerken i Finland. Första Kursen. Naturens
-                                Bok. </hi>Andra upplagan. Helsingfors: Förf:s förlag.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1870) <hi rend="italics">Läsebok för de lägsta lärowerken i Finland. </hi><hi rend="italics">Naturens Bok</hi>. Sjette upplagan. Helsingfors: Holm.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1875) <hi rend="italics">Boken
-                                om Vårt Land. </hi><hi rend="italics">Läsebok för de lägsta
-                                läroverken i Finland</hi>. <hi rend="italics">Andra Kursen</hi>.
-                            Helsingfors: E. W Edlunds förlag.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1878) <hi rend="italics">Välskäärin kertomuksia. </hi><hi rend="italics">1 jakso</hi>. Suom.
-                            Robert Mellin. Oulu: Edlund.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1879a) <hi rend="italics">Välskäärin kertomuksia. 2 jakso</hi>. Suom. Robert Mellin. Oulu:
-                            Edlund.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1879b) <hi rend="italics">Välskäärin kertomuksia. 3 jakso</hi>. Suom. Robert Mellin. Oulu:
-                            Edlund.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1880) <hi rend="italics">Välskäärin kertomuksia. 4 jakso</hi>. Suom. Robert Mellin. Oulu:
-                            Edlund.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1881) Skydd för Finlands barn!
-                            – <hi rend="italics">Hufvudstadsbladet </hi>18.11.1881.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1882) <hi rend="italics">Välskäärin kertomuksia. </hi><hi rend="italics">5 jakso</hi>. Suom.
-                            Kaarlo Kramsu. Oulu: Edlund.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1884) <hi rend="italics">Läsebok för de lägsta lärowerken i Finland. Naturens Bok</hi>.
-                            Nionde upplagan. Helsingfors: Holm.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1890) Föredrag vid Kristliga
-                            föreningens af unge män möte. – <hi rend="italics">Finland</hi> 12. ja
-                                13.5.1890<hi rend="italics">.</hi></p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1897) Minnesord. – <hi rend="italics">Jägaren</hi> 1897: II. Jubileumshäfte, 124–127.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1898) <hi rend="italics">Blad
-                                ur min tänkebok</hi>. Helsingfors: Söderström &amp; C:o.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1907) Oppinut poika. – <hi rend="italics">Satuja ja runoja </hi>II. Suom. Viljo Tarkiainen ja
-                            Valter Juva. Porvoo: WSOY, 96–106.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1918) <hi rend="italics">Dagböcker </hi><hi rend="italics">I</hi>. Utg. Paul Nyberg.
-                            Helsingfors: Schildt.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1921) <hi rend="italics">Dagböcker </hi><hi rend="italics">II</hi>. Utg. Paul Nyberg.
-                            Helsingfors: Schildt.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1922–1924) <hi rend="italics">Dagböcker</hi><hi rend="italics"> IV</hi>. Utg. Paul Nyberg.
-                            Helsingfors: Schildt.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1923) <hi rend="italics">Elämäkerrallisia muistiinpanoja</hi>. Julk. Paul Nyberg. Suom.
-                            Helmi Krohn. Helsinki: Otava.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1940) <hi rend="italics">Topeliuksen kuvaelämäkerta</hi>. Toim. Paul Nyberg.
-                            Porvoo–Helsinki: WSOY.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (1949) <hi rend="italics">Välskärin kertomuksia</hi>. Kolmas osa.<hi rend="italics"> </hi>Suom. Juhani Aho. Porvoo–Helsinki: WSOY.</p>
-                        <p rend="hangingIndent">[Topelius, Zacharias] (1956) <hi rend="italics">Konstnärsbrev I</hi>. <hi rend="italics">Z. Topelius brevväxling
-                                med C. J. L. Almquist, J. L. Runeberg, Fredrika Runeberg, Fredrik
-                                Cygnaeus, Fredrik Pacius, Conrad Greve, J. A. Josephson.</hi> Utg.
-                            Paul Nyberg. Skrifter utgivna av Svenska litteratursällskapet i Finland
-                            360. Helsingfors: SLS.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (2004) <hi rend="italics">Finlands krönika</hi>. Utg. av Rainer Knapas. Skrifter utgivna av
-                            Svenska litteratursällskapet i Finland 660. Helsingfors: SLS.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (2010) <hi rend="italics">Ljungblommor</hi>. Utg. Carola Herberts under medverkan av Clas
-                            Zilliacus. Zacharias Topelius Skrifter I. Skrifter utgivna av Svenska
-                            litteratursällskapet i Finland 742. Helsingfors: SLS; Stockholm:
-                            Atlantis. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
-                            URN:NBN:fi:sls-6601-1508156399 (3.6.2025)</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (2011) <hi rend="italics">Finland framställdt i teckningar</hi>. Utg. Jens Grandell &amp;
-                            Rainer Knapas. Zacharias Topelius Skrifter XII. Skrifter utgivna av
-                            Svenska litteratursällskapet i Finland 747. Helsingfors: SLS; Stockholm:
-                            Atlantis. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
-                            URN:NBN:fi:sls-7228-1552035302 (3.6.2025).</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (2012) <hi rend="italics">Noveller</hi>. Utg. Pia Forssell. Zacharias Topelius Skrifter IV.
-                            Skrifter utgivna av Svenska litteratursällskapet i Finland 770.
-                            Helsingfors: SLS; Stockholm: Atlantis. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
-                            URN:NBN:fi:sls-6602-1508156409 (6.6.2025).</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (2013) <hi rend="italics">Hertiginnan af Finland och andra historiska noveller</hi>. Utg. Pia
-                            Forssell under medverkan av Matti Klinge och Anna Movall. Zacharias
-                            Topelius Skrifter V. Skrifter utgivna av Svenska litteratursällskapet i
-                            Finland 782. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
-                            URN:NBN:fi:sls-6603-1508156419 (3.6.2025)</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (2015a) <hi rend="italics">Tilinteon päivä ja muita kertomuksia</hi>. Suom. Anna Järvenpää,
-                            Jani Kämäräinen, Mirjami Lappalainen, Emilia Lehkonen, Miro
-                            Metsämuuronen, Heljä Pitkäkoski, Maija Sakki ja Marja Uusirasi. Turku:
-                            Faros.</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (2015b) <hi rend="italics">Zacharias Topelius korrespondens med förlag och översättare</hi>.
-                            Utgiven av Carola Herberts. Zacharias Topelius Skrifter XX:1. Skrifter
-                            utgivna av Svenska litteratursällskapet i Finland nr 835:1. Helsingfors:
-                            SLS. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref> URN:NBN:fi:sls-6604-1508156429
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (2017a) <hi rend="italics">Föreläsningar i geografi och historia</hi>. Utg. Jens Grandell.
-                            Zacharias Topelius Skrifter XV. Skrifter utgivna av Svenska
-                            litteratursällskapet i Finland 843. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
-                            URN:NBN:fi:sls-6282-1508152246 (3.6.2025)</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (2017b) <hi rend="italics">Naturens Bok och Boken om Vårt Land</hi>. Utg. Magnus Nylund under
-                            medverkan av Håkan Andersson, Pia Forssell och Henrik Knif. Zacharias
-                            Topelius Skrifter XVII. Skrifter utgivna av Svenska litteratursällskapet
-                            i Finland 816. Helsingfors: SLS. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
-                            URN:NBN:fi:sls-6597-1508156359 (3.6.2025)</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (2018a) <hi rend="italics">Dagböcker</hi>. Utg. Pia Asp. Zacharias Topelius Skrifter XXI.
-                            Skrifter utgivna av Svenska litteratursällskapet i Finland 823.
-                            Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref> URN:NBN:fi:sls-7059-1525330243
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Topelius, Zacharias (2018b) <hi rend="italics">Maamme kirja. </hi><hi rend="italics">Digitaalinen editio</hi>.
-                            Toim. Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko. Skrifter
-                            utgivna av Svenska litteratursällskapet i Finland 836. Helsinki:
-                            SKS–SLS. Saatavissa: URL: <xref type="ext" target="https://maammekirja.sls.fi">https://maammekirja.sls.fi</xref>
-                            URN:NBN:fi:sls-6612-1523551508 (3.6.2025)</p>
-                        <p rend="hangingIndent">Toropainen, Tanja (2016) Typografian vaikutus
-                            yhdyssubstantiivien oikeinkirjoitukseen Agricolan teoksissa. <hi rend="italics">Sananjalka</hi> 58, 175–198.</p>
-                        <p rend="hangingIndent">Ule, Otto (1845) <hi rend="italics">Mintähden ja
-                                sentähden. Kysymyksiä ja vastauksia kaikkeen luonnon tietoon
-                                kuuluvissa asioissa</hi>. Suom. Samuel Roos. Turku: Frenckell:
-                            Wilén. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/roos/mintahden1845_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/roos/mintahden1845_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Varelius, Antero (1855) <hi rend="italics">Enon
-                                Opetuksia Luonnon Asioista. 1. Osa.</hi> Turku: Frenckell.
-                            Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/varelius/varelius_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/varelius/varelius_coll_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Varelius, Antero (1856) <hi rend="italics">Enon
-                                Opetuksia Luonnon Asioista. 2. Osa.</hi> Turku: Frenckell.
-                            Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/varelius/varelius_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/varelius/varelius_coll_rdf.xml
-                            </xref> (3.6.2025)</p>
-                        <p rend="hangingIndent">Varhaisnykysuomen korpus. – Helsinki: Kotimaisten
-                            kielten keskus. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/1800_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/1800_coll_rdf.xml</xref>
-                            (3.6.2025)</p>
-                        <p rend="hangingIndent">Vasenius, Valfrid (1912) <hi rend="italics">Zacharias Topelius ihmisenä ja runoilijana I</hi>. Helsinki:
-                            Otava.</p>
-                        <p rend="hangingIndent">Vasenius, Valfrid (1927) <hi rend="italics">Zacharias Topelius ihmisenä ja runoilijana IV</hi>. Helsinki:
-                            Otava.</p>
-                        <p rend="hangingIndent">Vest, Eliel (1905) <hi rend="italics">Zachris
-                                Topelius. En biografisk studie</hi>. Helsingfors: Söderström &amp;
-                            C:o.</p>
-                        <p rend="hangingIndent">Vilkka, Leena (1993) <hi rend="italics">Ympäristöetiikka. Vastuu luonnosta, eläimistä ja tulevista
-                                sukupolvista.</hi> Helsinki: Yliopistopaino.</p>
-                        <p rend="hangingIndent">Wretö, Tore (2012) <hi rend="italics">Kampen om det
-                                medeltida Italien. Kejsare och påvar 313–1313</hi>. Stockholm:
-                            Atlantis.</p>
-                        <p rend="hangingIndent">von Wright, Magnus (1859) <hi rend="italics">Finlands Foglar, hufvudsakligen till deras drägter. Förra
-                                Afdelningen</hi>. Helsingfors: Finska Vetenskaps-Societeten.</p>
-                        <p rend="hangingIndent">von Wright, Magnus – Palmén, Johan Axel (1873) <hi rend="italics">Finlands Foglar, huvudsakligen till deras drägter.
-                                Senare afdelningen, efter författarens död omarbetad med särskild
-                                hänsyn till arternas utbredning</hi>. Helsingfors: Finska
-                            Vetenskaps-Societeten.</p>
-                    </div>
-
-
+                <div id="sec5-1">
+                    <head type="heading3">Editioon sisältyvien <hi rend="italics">Luonnonkirjan</hi> ja <hi rend="italics">Naturens Bokin</hi>
+                        laitokset</head>
+                    <p rend="hangingIndent">Topelius, Zacharias (1860) <hi rend="italics">Luonnon-kirja. Ala-alkeiskoulujen tarpeeksi Z. Topeliukselta</hi>.
+                        Suomalaisen Kirjallisuuden Seuran Toimituksia 23. Helsinki: SKS.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1929) <hi rend="italics">Luonnonkirja. Ala-alkeiskoulujen tarpeeksi.</hi> 16. painos.
+                        Porvoo: WSOY.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1856d) <hi rend="italics">Läsebok för de lägsta lärowerken i Finland. Första kursen. Naturens
+                            Bok</hi>. Helsingfors: Förf:s förlag.</p>
                 </div>
+                <div id="sec5-2">
+                    <head type="heading3">Arkistolähteet</head>
+                    <p rend="hangingIndent">Kansalliskirjaston käsikirjoituskokoelma (KK).
+                        Zacharias Topeliuksen arkisto. Coll. 244.</p>
+                    <p rend="hangingIndent">Kansalliskirjaston käsikirjoituskokoelma (KK).
+                        Savo-Karjalaisen osakunnan arkisto. Luettelo 283.</p>
+                    <p rend="hangingIndent">Suomalaisen Kirjallisuuden Seuran arkisto, perinteen
+                        ja nykykulttuurin kokoelma (SKS KRA). Samuli Paulaharjun kokoelma.</p>
+                </div>
+                <div id="sec5-3">
+                    <head type="heading3">Muut lähteet</head>
+                    <p rend="hangingIndent">Agricola, Mikael (1544) <hi rend="italics">Rucouskiria Bibliasta se on molemista testamentista messuramatusta
+                            ja muusta monesta jotca toysella puolella luetellan cokoonpoymettu
+                            Somen Turussa MDXLIII.</hi> Turku: Amund Lauritzenpoika.</p>
+                    <p rend="hangingIndent">Ahlman, Ferdinand (1865) <hi rend="italics">Svenskt-Finskt Lexikon – Ruotsalais-Suomalainen sanakirja</hi>.
+                        Helsinki: Frenckell &amp; Son. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/ahlman_sanastot/lexik1865_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/ahlman_sanastot/lexik1865_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Ahlqvist, August (1874) <hi rend="italics">Kieletär.
+                            6. vihko</hi>. Helsinki. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/ahlqvist/kieletar6_1874_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/ahlqvist/kieletar6_1874_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Alhoniemi, Pirkko (1969) <hi rend="italics">Isänmaan
+                            korkeat veisut. Turun ja Helsingin runouden patrioottiset ja
+                            kansalliset motiivipiirit</hi>. Suomalaisen Kirjallisuuden Seuran
+                            Toimituksia<hi rend="italics"> </hi>294. Helsinki: SKS.</p>
+                    <p rend="hangingIndent">Andersson, Håkan (2017) Naturens Bok och Boken om
+                        Vårt Land i historiskt och pedagogiskt perspektiv. – Zacharias Topelius,
+                        Naturens bok och Boken om Vårt land. Utg. av Magnus Nylund under
+                        medverkan av Håkan Andersson, Pia Forssell och Henrik Knif. Zacharias
+                        Topelius Skrifter XVII. Skrifter utgivna av Svenska litteratursällskapet
+                        i Finland nr 816. Helsingfors: SLS, xi–xxii.</p>
+                    <p rend="hangingIndent">Andersson, Håkan – Reeta Holopainen – Sakari
+                        Katajamäki – Ossi Kokko (2019) Topelius två läseböcker. Topeliuksen
+                        kaksi lukukirjaa (övers. Märtha Norrback, suom. Paula Autio). –
+                        Zacharias Topelius, <hi rend="italics">Boken om Vårt Land. En tvåspråkig
+                            kommenterad utgåva. Maamme kirja. Kommentoitu kaksikielinen
+                            editio</hi>. Toim. Sakari Katajamäki. Suomalaisen Kirjallisuuden
+                        Seuran Toimituksia 1448. Skrifter utgivna av Svenska
+                        litteratursällskapet i Finland 831. Helsinki: SKS–SLS, 12–15, 38,
+                        42.</p>
+                    <p rend="hangingIndent">Anonyymi (1801a) On Sunday evening last – <hi rend="italics">Gloucester Journal</hi> 14.9.1801.</p>
+                    <p rend="hangingIndent">Anonyymi (1801b) Shrewsbury, Sept. 9. – <hi rend="italics">Kentish Weekly Post or Canterbury Journal</hi>
+                        15.9.1801.</p>
+                    <p rend="hangingIndent">Anonyymi (1802) Cause of earthquakes. From a Lecture
+                        of John Winthorp, professor of Mathematics, in America. – <hi rend="italics">Royal Cornwall Gazette</hi> 7.8.1802.</p>
+                    <p rend="hangingIndent">Anonyymi (1837) Inrikes. <hi rend="italics">–
+                            Helsingfors Tidningar</hi> 26.7.1837.</p>
+                    <p rend="hangingIndent">Anonyymi (1844) Inrikes. <hi rend="italics">–
+                            Helsingfors Tidningar</hi> 14.12.1844.</p>
+                    <p rend="hangingIndent">Anonyymi (1845) Om menniskans lefnads ålder. <hi rend="italics">– Wasa Tidning</hi> 17.5.1845.</p>
+                    <p rend="hangingIndent">Anonyymi (1854) Hvarjehanda. <hi rend="italics">–
+                            Borgå Tidning</hi> 19.7.1854.</p>
+                    <p rend="hangingIndent">Anonyymi (1856a) Elätti lintu. – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 5.7.1856.</p>
+                    <p rend="hangingIndent">Anonyymi (1856b) En wiktig skolbok. – <hi rend="italics">Åbo Underrättelser</hi> 29.4.1856.</p>
+                    <p rend="hangingIndent">Anonyymi (1856c) Kaunis varsa. – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 19.7.1856.</p>
+                    <p rend="hangingIndent">Anonyymi (1856d) Lintu akkunassa. – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 5.7.1856.</p>
+                    <p rend="hangingIndent">Anonyymi (1856e) Lohi. – <hi rend="italics">Oulun
+                            Wiikko-Sanomia</hi> 12.7.1856.</p>
+                    <p rend="hangingIndent">Anonyymi (1856f) Muutto-linnut. (Suomettu Runebergin
+                        mukaan.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 28.6.1856.</p>
+                    <p rend="hangingIndent">Anonyymi (1856g) On semmoisiaki ihmisiä maailmassa –
+                            <hi rend="italics">Oulun Wiikko-Sanomia</hi> 19.7.1856.</p>
+                    <p rend="hangingIndent">Anonyymi (1856h) Recension af Läsebok för de lägsta
+                        läroverken i Finland af Z. Topelius. – <hi rend="italics">Åbo Tidningar
+                        </hi>2.6.1856.</p>
+                    <p rend="hangingIndent">Anonyymi (1857a) Maamme. (Runebergin mukaan.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 7.2.1857.</p>
+                    <p rend="hangingIndent">Anonyymi (1857b) Timantti. (Suomennettu prof. Z.
+                        Topeliuksen Luonnon kirjasta.) – <hi rend="italics">Oulun
+                            Wiikko-Sanomia</hi> 14.2.1857.</p>
+                    <p rend="hangingIndent">Anonyymi (1857c) Lähde keväillä. (Nervanderin
+                        mukaan.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 30.5.1857.</p>
+                    <p rend="hangingIndent">Anonyymi (1857d) Eläinten tavoista. – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 4.7.1857.</p>
+                    <p rend="hangingIndent">Anonyymi (1857e) Valtameri. (Mukailtu Topeliuksen
+                        Luonnon-kirjasta.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi>
+                        1.8.1857.</p>
+                    <p rend="hangingIndent">Anonyymi (1857f) Järvi. – <hi rend="italics">Oulun
+                            Wiikko-Sanomia</hi> 1.8.1857.</p>
+                    <p rend="hangingIndent">Anonyymi (1858a) Eldswåda. – <hi rend="italics">Helsingfors Tidningar </hi>24.4.1858.</p>
+                    <p rend="hangingIndent">Anonyymi (1858b) Taivahan tähdet. (Topeliuksen
+                        luonnon kirjasta.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi>
+                        3.4.1858.</p>
+                    <p rend="hangingIndent">Anonyymi (1858c) Vuoden ajat. (Topeliuksen luonnon
+                        kirjasta.) – <hi rend="italics">Oulun Wiikko-Sanomia</hi> 27.3.1858. </p>
+                    <p rend="hangingIndent">Anonyymi (1859a) Om den nya skolan. – <hi rend="italics">Finlands Allmänna Tidning</hi> 26. ja 28.2. sekä
+                        1.–3.3.1859.</p>
+                    <p rend="hangingIndent">Anonyymi (1859b) Suomal. Kirjallisuuden Seuran
+                        wuosikokous. – <hi rend="italics">Suomen Julkisia
+                        Sanomia</hi> 21.3.1859.</p>
+                    <p rend="hangingIndent">Anonyymi (1860a) I bokhandeln. – <hi rend="italics">Finlands Allmänna Tidning</hi> 19.11.1860.</p>
+                    <p rend="hangingIndent">Anonyymi (1860b) Kirjallisuutta. – <hi rend="italics">Sanomia Turusta</hi> 12.10.1860.</p>
+                    <p rend="hangingIndent">Anonyymi (1860c) Kopistens krönika. – <hi rend="italics">Papperslyktan </hi>29.10.1860.</p>
+                    <p rend="hangingIndent">Anonyymi (1860d) Uutta kirjakaupoissa. – <hi rend="italics">Suometar </hi>9.11.1860.</p>
+                    <p rend="hangingIndent">Anonyymi (1861) Kotomaalta. – <hi rend="italics">Porin kaupungin Sanomia</hi> 7.12.1861.</p>
+                    <p rend="hangingIndent">Anonyymi (1877) Till Jagtföreningarne. – <hi rend="italics">Hufvudstadsbladet</hi> 17.6.1877.</p>
+                    <p rend="hangingIndent">[von Becker, Reinhold] (1820) Luontokappaleista
+                        taikka elävistä. <hi rend="italics">Turun Wiikko-Sanomat</hi>
+                        18.11.1820.</p>
+                    <p rend="hangingIndent">von Berg, Edmund (1859) <hi rend="italics">Kertomus
+                            Suomenmaan metsistä</hi>. Suom. Carl Gustaf Borg. Helsinki.</p>
+                    <p rend="hangingIndent">Bergroth, F. G. (1887) Ruotsalais-Suomalainen
+                        Luettelo Metalliteollisuuteen, vuori- ja metsätiteeseen sekä geologiaan
+                        kuuluvista sanoista. – <hi rend="italics">Suomen Teollisuuslehti</hi>
+                        23–24. Lisälehti, 1–18.</p>
+                    <p rend="hangingIndent">Bergstrand, C. E. (1852) <hi rend="italics">Ålands
+                            däggdjur, foglar, amphibier och fiskar</hi>. Westerås: Forssell.</p>
+                    <p rend="hangingIndent">Berlin, Nils Johan (1859) <hi rend="italics">Oppikirja Luontotietehesen Kansakouluin opilaisille</hi>. Suom. H.
+                        G. Perander. Turku: J. W. Lilja.</p>
+                    <p rend="hangingIndent">Berlin, Nils Johan (1868) <hi rend="italics">Lukukirja luonnontieteessä</hi>. Suom. A. Rahkonen. Helsinki.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Biblia, Se on: Koko Pyhä
+                            Raamattu, Suomexi; Alku-Raamattuin Hebrean ja Grekan jälkeen
+                            wastauudesta ojettu: Esipuhetten, Lukuin sisällepitoin,
+                            Yhtäpitäwäisten Raamatun paikkain osotuxen, ja lisättyin Registerein
+                            kanssa</hi>. Turku: Johan Christoph Frenckell. 1776.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Biografiskt lexikon för
+                            Finland</hi>. Helsingfors: SLS. Saatavissa: URL: <xref type="ext" target="http://www.blf.fi">http://www.blf.fi</xref>
+                        URN:NBN:fi:sls-4820-1416928957426 (3.6.2025)</p>
+                    <p rend="hangingIndent"><hi rend="italics">Biology Online</hi>. Saatavissa:
+                        URL: <xref type="ext" target="https://www.biologyonline.com/">https://www.biologyonline.com/</xref> (3.6.2025)</p>
+                    <p rend="hangingIndent">Bonsdorff, Karl Robert (1867–1868) <hi rend="italics">Eläin-tiede eli Zoologia. Osat I–II</hi>.
+                        Hämeenlinna. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/bonsdorff/bonsdorff_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/bonsdorff/bonsdorff_coll_rdf.xml
+                        </xref> (3.6.2025)</p>
+                    <p rend="hangingIndent">Borg, Pekka (2008) <hi rend="italics">Monimuotoisuuden aika. Luonnonnähtävyyksistä Naturaan.</hi>
+                        Hämeenlinna: Karisto.</p>
+                    <p rend="hangingIndent">Boruwłaski, Józef (1820) <hi rend="italics">Memoirs
+                            of Count Boruwlaski. A sketch of his travels, with an account of his
+                            reception at the different courts of Europe</hi>. Durham.</p>
+                    <p rend="hangingIndent">Čihař, Jiří (1993) <hi rend="italics">Jokamiehen
+                            kalakirja. Makean veden kalat</hi>. Kuvitus: Libuše ja Jaromír
+                        Knotek. Suomentaneet ja Suomen oloihin toimittaneet Ismo Nuuja ja Risto
+                        Palokangas. [Nimistön tarkistanut Lauri Koli ja lajitekstit Erkki
+                        Lahti]. Helsinki: Kolibri.</p>
+                    <p rend="hangingIndent">Corander, Klas (1862) <hi rend="italics">Yleinen
+                            maa-tiede</hi>. Viipuri: N. A. Zilliakus. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/corander/maatiede1862_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/corander/maatiede1862_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Cserhalmi, Niklas (2004) <hi rend="italics">Djuromsorg och djurmisshandel 1860–1925. </hi><hi rend="italics">Synen på lantbrukets djur och djurplågeri i övergången mellan
+                            bonde- och industrisamhälle.</hi> Hedemora: Gidlunds Förlag.</p>
+                    <p rend="hangingIndent">Cygnæus, Fredrik (1842) God morgon! Den 31 Juli
+                        1842. – <hi rend="italics">Helsingfors Tidningar</hi> 6.8.1842.</p>
+                    <p rend="hangingIndent">Dickens, Charles (1862) <hi rend="italics">All The
+                            Year Around.</hi> 22.11.1862.</p>
+                    <p rend="hangingIndent">E. E. A. (1860) Kirjallisuutta. – <hi rend="italics">Suomen Julkisia Sanomia</hi> 29.10.1860.</p>
+                    <p rend="hangingIndent">Edlund, Oskar Rafael (1886) <hi rend="italics">Kaloista ja kalanwiljelyksestä</hi>. Helsinki: G. W. Edlund.
+                        Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/edlund/edlund_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/edlund/edlund_coll_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Elfving, Fredr. (1938) <hi rend="italics">Finska
+                            Vetenskapssocietetens historia 1838–1938</hi>. Societas Scientiarum
+                        Fennica. Commentationes Humanarum Litterarum X. Helsingfors: Societas
+                        Scientiarum Fennica.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Encyclopedia Britannica</hi>.
+                        Saatavissa: URL: <xref type="ext" target="https://www.britannica.com">https://www.britannica.com</xref> (3.6.2025)</p>
+                    <p rend="hangingIndent">Eurén, Gustaf Erik (1852) <hi rend="italics">Suomalainen kielioppi Suomalaisille</hi>. Turku: J. W. Lillja &amp;
+                        Co. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/euren/euren_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/euren/euren_coll_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Eurén, Gustaf Erik (1859) <hi rend="italics">Luonnon
+                            Oppia. Osat I–III</hi>. Turku. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/euren/euren_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/euren/euren_coll_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Europaeus, D. E. D (1853) <hi rend="italics">Svenskt-Finskt Handlexikon Ruotsalais-Suomalainen Sanakirja,
+                            suomalais-ruotsalaiseksi konvertoitu ja täydennetty sanasto</hi>.
+                        Helsinki: SKS. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/europaeus_sanastot/europaeus_sanastot_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/europaeus_sanastot/europaeus_sanastot_coll_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent"><hi rend="italics">Fennica. Suomen
+                            kansallisbibliografia</hi>. Helsinki: Kansalliskirjasto. Saatavissa:
+                        URL: <xref type="ext" target="https://www.kansalliskirjasto.fi/fi/palvelut/fennica-suomen-kansallisbibliografia">https://www.kansalliskirjasto.fi/fi/palvelut/fennica-suomen-kansallisbibliografia</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Forssell, Pia <hi rend="italics">–</hi> Nylund,
+                        Magnus (2017) Utgivningshistorien. <hi rend="italics">– </hi>Zacharias
+                        Topelius, Naturens bok och Boken om Vårt land. Utg. av Magnus Nylund
+                        under medverkan av Håkan Andersson, Pia Forssell och Henrik Knif.
+                        Zacharias Topelius Skrifter XVII. Skrifter utgivna av Svenska
+                        litteratursällskapet i Finland nr 816. Helsingfors: SLS, xxxi–xliv.</p>
+                    <p rend="hangingIndent">Franklin Adrian (1999) <hi rend="italics">Animals
+                            and Modern Cultures. A Sociology of Human-Animal Relations in
+                            Modernity. </hi>London: Sage.</p>
+                    <p rend="hangingIndent">Franzén, Frans Michael (1830) Wid ett besök å
+                        Fiskars Bruk och dertill hörande Koppargrufwa, den 9 Augusti 1830. – <hi rend="italics">Åbo Tidningar</hi> 14.8.1830.</p>
+                    <p rend="hangingIndent">Franzén, Frans Michael (1853) <hi rend="italics">Skaldestycken. Sjette bandet</hi>. Örebro: Lindh.</p>
+                    <p rend="hangingIndent">Frosterus, B. L. (1877) <hi rend="italics">Höijerin
+                            Perustus-Tieto Soitantoon ynnä Musiikki-Sanakirja</hi>. Turku: E. W.
+                        Wilén.</p>
+                    <p rend="hangingIndent">Gebhard, Hannes (1893) Suomalaisen Kirjallisuuden
+                        Seura 1881–1892. – <hi rend="italics">Valvoja</hi> 13:7–8, 354–369.</p>
+                    <p rend="hangingIndent">Gerholm, Tor Ragnar – Magnusson, Sigvard (1972) <hi rend="italics">Ajatus, aate ja yhteiskunta. Länsimaisten aatteiden
+                            ja tieteitten, poliittisten ja yhteiskunnallisten järjestelmien
+                            vuorovaikutus antiikista nykyaikaan</hi>. Porvoo–Helsinki–Juva:
+                        WSOY.</p>
+                    <p rend="hangingIndent">Glacken, Clarence J. (1967) <hi rend="italics">Traces on the Rhodian Shore. Nature and culture in western tought
+                            from ancient times to the end of the eighteenth century</hi>.
+                        Berkeley: University of California Press.</p>
+                    <p rend="hangingIndent">[Granlund, Johan Fredrik (suom.)] (1849) <hi rend="italics">Kokki-Kirja, elikkä Neuvoja tarpeellisempien
+                            Joka-aikaisien- ja Pito-ruokien Laitokseen , niin myös Monellaisiin
+                            leipomisiin ja juotavien panoin, ynnä Tarpeellisisa tietoja ruokien
+                            ja ruoka-aineiden korjusta ja säästystä j. n. e</hi> . Turku.</p>
+                    <p rend="hangingIndent">Harva, Uno (1948) <hi rend="italics">Suomalaisten
+                            muinaisusko</hi>. Porvoo–Helsinki: Werner Söderström Osakeyhtiö.</p>
+                    <p rend="hangingIndent">Hautala, Kustaa (1956) <hi rend="italics">Suomen
+                            tervakauppa 1856–1913. Sen viimeinen kukoistus ja häviö sekä niihin
+                            vaikuttaneet syyt</hi>. Historiallisia tutkimuksia XLV. Helsinki:
+                        Suomen Historiallinen Seura.</p>
+                    <p rend="hangingIndent">Heikel, Wilhelm (1843) <hi rend="italics">Grunddragen af jordbeskrifningen, med hufwudsakligt afseende på
+                            natur- och folk-lif : en ledtråd wid medlersta cursen af den
+                            geografiska underwisningen. </hi>Uleåborg: Christian Evert
+                        Barck.</p>
+                    <p rend="hangingIndent">Helenius, Carl (1838) <hi rend="italics">Suomalainen
+                            ja Ruozalainen Sana-kirja. </hi>Åbo: Christ. Ludv. Hjelt, uppå eget
+                        förlag. Saatavissa: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/helenius/helenius_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/helenius/helenius_coll_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Hiidenmaa, Pirjo (2003) <hi rend="italics">Suomen
+                            kieli – who cares?</hi> Helsinki: Otava.</p>
+                    <p rend="hangingIndent">Hirvonen, Maija (toim.) (1993) <hi rend="italics">Suomen kirjailijat 1809–1916. Pienoiselämäkerrat.
+                            Teosbibliografiat. Tutkimusviitteet. Finlands författare 1809–1916.
+                            Kortbiografier. Verkförteckningar. Litteraturhänvisningar. Writers
+                            in Finland 1809–1916. Concise biographies. Bibliographies. Research
+                            references</hi>. Suomalaisen Kirjallisuuden Seuran Toimituksia 570.
+                        Helsinki: SKS–SLS.</p>
+                    <p rend="hangingIndent">Hisinger, Eduard (1863) <hi rend="italics">Sienikirja eli Sieni-Kallen osviitta tuntemaan ja käyttämään
+                            syötäviä sieniä</hi>. Suom. Karl Dahlberg. Turku: Suomen
+                        Talousseura. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/dahlberg/sienikirja1863_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/dahlberg/sienikirja1863_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Hoffmann, Ernst Theodor Amadeus – Hosemann, Theodor
+                        (1872) Der Sandmann. – <hi rend="italics">E. T. A. Hoffmann‘s gesammelte
+                            Schriften: 5. Bd., Nachtstücke: zwei Theile. 1. Theil.</hi> Berlin:
+                        Reimer.</p>
+                    <p rend="hangingIndent">Holopainen, Reeta (2019) Topeliuksen <hi rend="italics"> Luonnonkirja</hi> (1860) ja sen käännetty
+                        erikoissanasto tieteellisessä digitaalisessa editiossa. <hi rend="italics">MikaEL. Kääntämisen ja tulkkauksen tutkimuksen
+                            symposiumin verkkojulkaisu</hi>. Toim. Ritva Hartama-Heinonen, Marja
+                        Kivilehto, Minna Kujamäki ja Katja Vuokko. 12, 155–167. Saatavissa: URL:
+                            <xref type="ext" target="https://journal.fi/mikael/article/view/129373/78247">https://journal.fi/mikael/article/view/129373/78247</xref>
+                    </p>
+                    <p rend="hangingIndent">Holopainen, Reeta – Katajamäki, Sakari – Kokko, Ossi
+                        (2019) Maamme kirja från 1870-talet till 1960-talet. Maamme kirja
+                        1870-luvulta 1960-luvulle (övers. Märtha Norrback). – Zacharias
+                        Topelius, <hi rend="italics">Boken om Vårt Land. En tvåspråkig
+                            kommenterad utgåva. Maamme kirja. Kommentoitu kaksikielinen
+                            editio</hi>. Toim. Sakari Katajamäki. Suomalaisen Kirjallisuuden
+                        Seuran Toimituksia 1448. Skrifter utgivna av Svenska
+                        litteratursällskapet i Finland 831. Helsinki: SKS–SLS, 32–37, 40–41,
+                        44–45.</p>
+                    <p rend="hangingIndent">Holopainen, Reeta – Katajamäki, Sakari (2018)
+                        Eläintarinoita koululaisille. Zacharias Topelius faabelikirjailijana. –
+                            <hi rend="italics">Pirta</hi> 1, 18–20.</p>
+                    <p rend="hangingIndent">Hooker, Joseph Dalton (1879) <hi rend="italics">Botaniki</hi>. Englannink. mukailemalla suom. A. J. Mela. Helsinki:
+                        Holm. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/mela/botaniki1879_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/mela/botaniki1879_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Huldén, Lena (1998) Zachris Topelius och
+                        entomologin. – <hi rend="italics">Källan </hi>2, 36–44.</p>
+                    <p rend="hangingIndent">Huldén, Lena (2003) Luonnontieteilijät Suomea
+                        luomassa. – <hi rend="italics">Suomen kulttuurihistoria 3. Oma maa ja
+                            maailma.</hi> Toim. Anja Kervanto Nevanlinna ja Laura Kolbe.
+                        Helsinki: Tammi, 100–107.</p>
+                    <p rend="hangingIndent">Huldén, Lena (2005) Zachris Topelius och
+                        darwinismens genombrott i Finland. – <hi rend="italics">Topelius elää,
+                            Topelius lever. </hi>Topelius-seuran julkaisuja –
+                        Topeliussällskapets skrifter 1. Toim. Satu Apo ja Märtha Norrback.
+                        Jyväskylä: Atena, 53–65.</p>
+                    <p rend="hangingIndent">Häggman, Kai (2001) <hi rend="italics">Piispankadulta Bulevardille. Werner Söderström Osakeyhtiö
+                            1878–1939</hi>. Helsinki: WSOY.</p>
+                    <p rend="hangingIndent">Häggman, Kai (2008) <hi rend="italics">Paras tawara
+                            maailmassa. Suomalainen kustannustoiminta 1800-luvulta 2000-luvulle.
+                        </hi>Helsinki: Otava.</p>
+                    <p rend="hangingIndent">Häkkinen, Kaisa – Björkqvist, Pia (1991)
+                        Varhaisnykysuomen yhdyssanat. – <hi rend="italics">Sananjalka </hi>33,
+                        31–55.</p>
+                    <p rend="hangingIndent">Häkkinen, Kaisa (1994) <hi rend="italics">Agricolasta nykykieleen. Suomen kirjakielen historia.</hi>
+                        Helsinki: WSOY.</p>
+                    <p rend="hangingIndent">Häkkinen, Kaisa (2004) <hi rend="italics">Linnun
+                            nimi</hi>. Kuvitus: Magnus Körner, Ferdinand von Wright, Magnus von
+                        Wright ja Wilhelm von Wright. Helsinki: Teos.</p>
+                    <p rend="hangingIndent">Häyrynen, Maunu (2005) Topeliaaninen maisemakuvasto
+                        ja sen muutos. – <hi rend="italics">Topelius elää, Topelius lever.
+                        </hi>Toim. Satu Apo ja Märtha Norrback. Jyväskylä: Atena, 85–94.</p>
+                    <p rend="hangingIndent">Jaakkola, Pasi (2011) <hi rend="italics">Topeliaaninen usko. Kirjailija Sakari Topelius
+                            uskontokasvattajana</hi>. Väitöskirja, Helsingin yliopisto.
+                        Helsinki: Helsingin yliopisto.</p>
+                    <p rend="hangingIndent">Jantunen, Timo (2008) Topeliuksen kasvatusajattelu
+                        ja sen soveltaminen tänään. – <hi rend="italics">Topelius elää –
+                            Topelius lever</hi>. Topelius-seuran julkaisuja –
+                        Topeliussällskapets skrifter 3. Toim. Satu Apo ja Märtha Norrback.
+                        Jyväskylä: Atena, 51–78.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Juhannus</hi>. Tietävä:
+                        Juhlakalenteri. Helsinki: SKS. 2021. Saatavissa: URL: <xref type="ext" target="https://tietava.finlit.fi/juhlakalenteri/">https://tietava.finlit.fi/juhlakalenteri/</xref> (3.6.2025)</p>
+                    <p rend="hangingIndent">Juva, Mikko (1956) <hi rend="italics">Rajuilman
+                            alla. Suomalaisen kahdeksankymmenluvun synty.</hi> Porvoo–Helsinki:
+                        WSOY.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Kalevala</hi>. Toinen painos.
+                        Suomalaisen Kirjallisuuden Seuran Toimituksia 14. Helsinki: SKS. 1849.
+                        Saatavissa: Kalevala. Helsinki: SKS. 1998. Saatavissa: URL: <xref type="ext" target="https://www.finlit.fi/aineistot/kalevala/">https://www.finlit.fi/aineistot/kalevala/</xref> (3.6.2025)</p>
+                    <p rend="hangingIndent"><hi rend="italics">Kansallisbiografia</hi>. Päätoim.
+                        Matti Klinge. Helsinki: SKS 1997–. Studia Biographica 4. Päivitettävä
+                        julkaisu. Saatavissa: URL: <xref type="ext" target="http://www.kansallisbiografia.fi/">http://www.kansallisbiografia.fi/</xref> URN:NBN:fi-fe20051410
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Karihalme, Oili (1997) Muotoilun teoriasanaston
+                        termistyminen. –<hi rend="italics">Virittäjä </hi>2, 251–256.</p>
+                    <p rend="hangingIndent">Katajamäki, Sakari (2007) Suomen ruotsinkielinen
+                        kirjallisuus suomeksi. – <hi rend="italics">Suomennoskirjallisuuden
+                            historia 2</hi>. Toim. H. K. Riikonen, Urpo Kovala, Pekka Kujamäki
+                        ja Outi Paloposki. Suomalaisen Kirjallisuuden Seuran Toimituksia 1112.
+                        Helsinki: SKS, 66–80.</p>
+                    <p rend="hangingIndent">Katajamäki, Sakari (2019) Kuin korallien luoma.
+                        Tekstikriittinen näkökulma Topeliuksen Luonnonkirjan runokäännöksiin. –
+                            <hi rend="italics">MikaEL. Kääntämisen ja tulkkauksen tutkimuksen
+                            symposiumin verkkojulkaisu</hi>. Toim. Ritva Hartama-Heinonen, Marja
+                        Kivilehto, Minna Kujamäki ja Katja Vuokko. 12, 44–62. Saatavissa: <xref type="ext" target="https://journal.fi/mikael/issue/view/9198">https://journal.fi/mikael/issue/view/9198</xref> 3.6.2025)</p>
+                    <p rend="hangingIndent">Kauranen, Kaisa (tulossa) Torppari Kustaa Braskin
+                        tekstejä käsittelevän väitöskirjan julkaisematon käsikirjoitus.</p>
+                    <p rend="hangingIndent">Kean, Hilda (1998) <hi rend="italics">Animal Rights.
+                            Political and Social Change in Britain since 1800.</hi> London:
+                        Reaktion Books.</p>
+                    <p rend="hangingIndent">Kellgren, Johan Henric (1938) <hi rend="italics">Samlade skrifter VII:1</hi>. Utg. Sverker Ek, Allan Sjöding &amp;
+                        Otto Sylwan. Svenska författare utgivna av Svenska Vitterhetssamfundet
+                        IX. Stockholm: Svenska Vitterhetssamfundet.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Kielitoimiston sanakirja</hi>.
+                        Helsinki: Kotimaisten kielten keskus. Saatavissa: URL: <xref type="ext" target="http://www.kielitoimistonsanakirja.fi/">http://www.kielitoimistonsanakirja.fi/</xref>
+                        URN:NBN:fi:kotus-201433. Päivitettävä julkaisu. Päivitetty 19.3.2024.
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Kirstinä, Leena (2011a) Zacharias Topeliuksen
+                        Luonnonkirja. Miksi ja miten maailma on. – <hi rend="italics">Tapion
+                            tarhoista turkistarhoille. Luonto suomalaisessa lasten- ja
+                            nuortenkirjallisuudessa.</hi> Toim. Maria Laakso, Toni Lahtinen ja
+                        Päivi Heikkilä-Halttunen. Tietolipas 235. Helsinki: SKS, 42–54.</p>
+                    <p rend="hangingIndent">Kirstinä, Leena (2011b) Zachris Topelius luonnon ja
+                        eläinten suojelijana saduissa. Luentoaineisto 26.9.2011. Tampereen
+                        yliopisto.</p>
+                    <p rend="hangingIndent">Kirstinä, Leena (2011c) Vattumato olemisen suuressa
+                        ketjussa. Zacharias Topelius eläinten suojelijana. – <hi rend="italics">Tapion tarhoista turkistarhoille. Luonto suomalaisessa lasten- ja
+                            nuortenkirjallisuudessa.</hi> Toim. Maria Laakso, Toni Lahtinen ja
+                        Päivi Heikkilä-Halttunen. Tietolipas 235. Helsinki: SKS, 55–62.</p>
+                    <p rend="hangingIndent">Klinge, Matti (1989) Yliopisto, valtiosäädyt ja
+                        kansakunta. – Klinge, Matti sekä Rainer Knapas, Anto Leikola ja John
+                        Strömberg. <hi rend="italics">Keisarillinen Aleksanterin Yliopisto
+                            1808–1917. Helsingin yliopisto 1640–1990 II.</hi> Helsinki: Otava,
+                        672–723.</p>
+                    <p rend="hangingIndent">Klinge, Matti (1997) Universitetsrektorn som
+                        sagoberättare. – <hi rend="italics">SFV-kalendern</hi> 111, 7–12.</p>
+                    <p rend="hangingIndent">Klinge, Matti (1998) <hi rend="italics">Idylli ja
+                            uhka. Topeliuksen aatteita ja politiikkaa</hi>.
+                        Porvoo–Helsinki–Juva: WSOY.</p>
+                    <p rend="hangingIndent">Klinge, Matti (2007) Topelius, Zacharias (1818–1898)
+                        kirjailija, toimittaja, historian professori, valtioneuvos. – Suomen
+                        kansallisbiografia 9. Siltanen–Tott. Studia Biographica 3:9. Helsinki:
+                        SKS, 869<hi rend="italics">–</hi>875.</p>
+                    <p rend="hangingIndent">Knif<hi rend="italics">,</hi> Henrik (2017)
+                        Läseböckerna i idéhistorisk belysning. – Zacharias Topelius, Naturens
+                        bok och Boken om Vårt land. Utg. av Magnus Nylund under medverkan av
+                        Håkan Andersson, Pia Forssell och Henrik Knif. Zacharias Topelius
+                        Skrifter XVII. Skrifter utgivna av Svenska litteratursällskapet i
+                        Finland nr 816. Helsingfors: SLS, xxii–xxxi.</p>
+                    <p rend="hangingIndent">Knight, David (1989 [1986]) <hi rend="italics">The
+                            Age of Science. </hi><hi rend="italics">The Scientific World-view in
+                            the Nineteenth Century.</hi> Oxford: Basil Blackwell.</p>
+                    <p rend="hangingIndent">Korhonen, Veikko (1921) <hi rend="italics">Metsä ja
+                            kartano. Eläinsatuja</hi>. Porvoo: WSOY.</p>
+                    <p rend="hangingIndent">Kotivuori, Yrjö (2005) <hi rend="italics">Helsingin
+                            yliopiston ylioppilasmatrikkeli 1640–1852</hi>. Helsinki: Helsingin
+                        yliopisto. Saatavissa: URL: <xref type="ext" target="https://ylioppilasmatrikkeli.fi/">https://ylioppilasmatrikkeli.fi/</xref> (3.6.2025)</p>
+                    <p rend="hangingIndent">Koukkunen, Kalevi (1990) <hi rend="italics">Nykysuomen sanakirja 8. Vierassanojen etymologinen sanakirja</hi>.
+                        Porvoo–Helsinki–Juva: WSOY.</p>
+                    <p rend="hangingIndent">Krohn, Julius (1862) Kemiallisia tiedesanoja. – <hi rend="italics">Suomi-kirja</hi> 1862, 159–169. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/krohn/kemia_sm1860_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/krohn/kemia_sm1860_rdf.xml</xref>
+                        (3.6.2025).</p>
+                    <p rend="hangingIndent">Krohn, Julius (1864) <hi rend="italics">Kemian-oppi
+                            aloittelijoille</hi>. Suomalaisen Kirjallisuuden Seuran Toimituksia
+                        32. Helsinki: SKS.</p>
+                    <p rend="hangingIndent">Laakso, Maria – Lahtinen, Toni – Heikkilä-Halttunen,
+                        Päivi (2011) Johdatus lasten- ja nuortenkirjallisuuden luontoon. – <hi rend="italics">Tapion tarhoista turkistarhoille. Luonto
+                            suomalaisessa lasten- ja nuortenkirjallisuudessa. </hi>Toim. Maria
+                        Laakso, Toni Lahtinen ja Päivi Heikkilä-Halttunen. Tietolipas 235.
+                        Helsinki: SKS, 9–28.</p>
+                    <p rend="hangingIndent">Laine, Päivi (2007) <hi rend="italics">Suomi tiellä
+                            sivistyskieleksi. Suomenkielisen maantieteen sanaston kehittyminen
+                            ja kehittäminen 1800-luvulla</hi>. Turun yliopiston suomalaisen ja
+                        yleisen kielitieteen laitoksen julkaisuja 77. Turku: Turun
+                        yliopisto.</p>
+                    <p rend="hangingIndent">Laitinen, Lea (2004) Kieltosana ja kieletär: Yhden
+                        kielikiistan kulku ja ideologiat. – <hi rend="italics">Yhteistä kieltä
+                            tekemässä. Näkökulmia suomen kirjakielen kehitykseen
+                            1800-luvulla</hi>. Toim. Katja Huumo, Lea Laitinen ja Outi
+                        Paloposki. Suomalaisen Kirjallisuuden Seuran Toimituksia 979. Helsinki:
+                        SKS, 177–222.</p>
+                    <p rend="hangingIndent">Laitinen, Lea (2008) Maamme – meidän maa. – <hi rend="italics">Virittäjä</hi> 1, 84–114.</p>
+                    <p rend="hangingIndent">Laitinen, Lea (2009) Vapaus ja järjestys. Eläinten
+                        kielioppi Seitsemässä veljeksessä. – <hi rend="italics">Tulinuija.
+                            Aleksis Kiven Seuran albumi.</hi> Toim. Jaakko Yli-Paavola ja Pekka
+                        Laaksonen. Suomalaisen Kirjallisuuden Seuran Toimituksia 1246.<hi rend="italics"> </hi>Helsinki: SKS, 115–131.</p>
+                    <p rend="hangingIndent">Laitinen, Lea (2010) Kylä, kirkko ja kuningas.
+                        Omistusrakenteiden kielipolitiikkaa Ruotsin ajan Suomessa. − <hi rend="italics">Kielellä on merkitystä. Näkökulmia
+                            kielipolitiikkaan</hi>. Toim. Hanna Lappalainen, Marja-Leena
+                        Sorjonen ja Maria Vilkuna. Suomalaisen Kirjallisuuden Seuran Toimituksia
+                        1262. Helsinki: SKS, 369⎼402.</p>
+                    <p rend="hangingIndent">Lappalainen, Pekka (1959) <hi rend="italics">Aukusti
+                            Juhana Mela. Uranaukaisijan elämä</hi>. Turun yliopiston julkaisuja
+                        B 72. Turku: Turun yliopisto.</p>
+                    <p rend="hangingIndent">Lassila, Pertti (2000) <hi rend="italics">Runoilija
+                            ja rumpali. Luonnon, ihmisen ja isänmaan suhteista suomalaisen
+                            kirjallisuuden romanttisessa perinteessä.</hi> Tietolipas 166.
+                        Helsinki: SKS.</p>
+                    <p rend="hangingIndent">Lauerma, Petri (2004) Aluemurre vai murteiden
+                        yhdistelmä? Keskustelu kirjakielen perustasta 1800-luvun alkupuolella. –
+                            <hi rend="italics">Yhteistä kieltä tekemässä. Näkökulmia suomen
+                            kirjakielen kehitykseen 1800-luvulla</hi>. Toim. Katja Huumo, Lea
+                        Laitinen ja Outi Paloposki. Suomalaisen Kirjallisuuden Seuran
+                        Toimituksia 979. Helsinki: SKS, 136−176.</p>
+                    <p rend="hangingIndent">Lauerma, Petri (2012) <hi rend="italics">Kristityn
+                            vaellus varhaisnykysuomen merkinnästä. Jakob Johan Malmbergin
+                            suomennosten kielellinen kehitys 1800-luvun kirjasuomen
+                            murroksessa.</hi> Kotimaisten kielten keskuksen verkkojulkaisuja 31.
+                        Helsinki: Kotimaisten kielten keskus.</p>
+                    <p rend="hangingIndent">Laurent, Kaarina (1947) <hi rend="italics">Topelius
+                            saturunoilijana</hi>. Porvoo–Helsinki: WSOY.</p>
+                    <p rend="hangingIndent">Lehtonen, Maija (1997) Naturen och människan hos
+                        Topelius. – <hi rend="italics">SFV-kalendern</hi> 111, 13–23.</p>
+                    <p rend="hangingIndent">Lehtonen, Maija (2002) <hi rend="italics">Aaveita ja
+                            enkeleitä, lapsia ja sankareita. Näkökulmia Topeliukseen.</hi>
+                        Tampere: Suomen Nuorisokirjallisuuden Instituutti.</p>
+                    <p rend="hangingIndent">Lehtonen, Ulla (1981) <hi rend="italics">Lastenkirjallisuus Suomessa 1543–1850</hi>. Suomen
+                        Nuorisokirjallisuuden Instituutin julkaisuja 1. Tampere: Suomen
+                        Nuorisokirjallisuuden Instituutti.</p>
+                    <p rend="hangingIndent">Leikola, Anto (1968) <hi rend="italics">Vanhat
+                            eläinkirjat kertovat</hi>. Porvoo–Helsinki: WSOY.</p>
+                    <p rend="hangingIndent">Leikola, Anto (1974) Biologia kulttuurissamme. – <hi rend="italics">Luonnon tutkija</hi><hi rend="italics"> </hi>78:3,
+                        61–69.</p>
+                    <p rend="hangingIndent">Leikola, Anto (1980) <hi rend="italics">Oppineisuuden hirmu. Luonnontieteistä ja luonnon tutkijoista</hi>.
+                        Porvoo–Helsinki–Juva: WSOY.</p>
+                    <p rend="hangingIndent">Leikola, Anto (1982) <hi rend="italics">Naurun
+                            biologiaa ja muita esseitä.</hi> Porvoo–Helsinki–Juva: WSOY.</p>
+                    <p rend="hangingIndent">Lenngren, Anna Maria (1917) <hi rend="italics">Samlade skrifter Andra delen</hi>. Utg. Theodor Hjelmqvist &amp;
+                        Karl Warburg. Svenska författare utgivna av Svenska Vitterhetssamfundet
+                        IX. Stockholm: Svenska Vitterhetssamfundet.</p>
+                    <p rend="hangingIndent">Lenngren, Anna Maria (1926) <hi rend="italics">Samlade skrifter Tredje delen</hi>. Utg. Theodor Hjelmqvist &amp;
+                        Karl Warburg. Svenska författare utgivna av Svenska Vitterhetssamfundet
+                        VI. Stockholm: Albert Bonnier.</p>
+                    <p rend="hangingIndent">af Leopold, Carl Gustaf (2002) <hi rend="italics">Samlade skrifter av Carl Gustaf af Leopold</hi>. <hi rend="italics">Förra avdelningen Andra delen</hi>. Red. Torkel Stålmarck.
+                        Stockholm: Svenska Vitterhetssamfundet.</p>
+                    <p rend="hangingIndent">Lidén, Johan Henrik (1778) <hi rend="italics">Catalogus disputationum, in academiis et gymnasiis Sueciæ, atque
+                            etiam, a svecis, extra patriam habitarum, quotquot huc usque
+                            reperiri potuerunt</hi>. Upsaliæ.</p>
+                    <p rend="hangingIndent">Lindroth, Sten (1957) <hi rend="italics">Fru Lusta
+                            och Fru Dygd. Studier och porträtt</hi>.<hi rend="italics"> </hi>Stockholm: Wahlström &amp; Widstrand.</p>
+                    <p rend="hangingIndent">Lovejoy, Arthur O. (1964 [1936]) <hi rend="italics">The Great Chain of Being.</hi> Harvard: Harvard University
+                        Press.</p>
+                    <p rend="hangingIndent">Lunelund-Grönroos, Birgit (1954) <hi rend="italics">Zachris Topelius’ tryckta skrifter</hi>. Skrifter utgivna af
+                        Svenska litteratursällskapet i Finland 342. Helsingfors: SLS.</p>
+                    <p rend="hangingIndent">Lütken, C. F. (1866) <hi rend="italics">Zoologia eli
+                            eläinkunnan varhaishistoria</hi>. Kuopio: P. Aschan. Saatavissa:
+                        URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/anonyymi/anonyymi_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/anonyymi/anonyymi_coll_rdf.xml</xref>
+                        (3.6.2025).</p>
+                    <p rend="hangingIndent">Länkelä, Jaakko (1867) <hi rend="italics">Suomen
+                            kielen kielioppi. Alkeisopetuksen tarpeeksi</hi>. [Jyväskylä]:
+                        toimittaja.</p>
+                    <p rend="hangingIndent">Lönnrot, Elias (1847) <hi rend="italics">Svensk,
+                            Finsk och Tysk Tolk. Ruotsin, Suomen ja Saksan Tulkki.
+                            Schwedish-Finnisch-Deutsches Wörter- und Gespräch-Buch.
+                        </hi>Helsinki: A. C. Öhman. Saatavissa: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/lonnrot/tulkkijatk_1847_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/lonnrot/tulkkijatk_1847_rdf.xml</xref>
+                        <hi rend="italics"> </hi>(3.6.2025)</p>
+                    <p rend="hangingIndent">Lönnrot, Elias (1858) Kasvikon oppisanoja. – <hi rend="italics">Suomi </hi>1858, 1–108. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/lonnrot/kasvikkosanoja1858_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/lonnrot/kasvikkosanoja1858_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Lönnrot, Elias (1860) <hi rend="italics">Flora
+                            fennica. Suomen kasvisto: koelma</hi>. Suomalaisen Kirjallisuuden
+                        Seuran Toimituksia 24. Helsinki: SKS.</p>
+                    <p rend="hangingIndent">Lönnrot, Elias (1861 [1991]) Suomalainen Lintukirja.
+                        Käsikirjoitus vuodelta 1861. – Elias Lönnrot, <hi rend="italics">Valitut
+                            teokset 3. Kirjoitelmia ja lausumia</hi>. Toim. Raija Maijamaa.
+                        Suomalaisen Kirjallisuuden Seuran Toimituksia 551. Helsinki: SKS. 1991,
+                        426–438.</p>
+                    <p rend="hangingIndent">Lönnrot, Elias (1874) <hi rend="italics">Finskt-svenskt lexicon. Suomalais-ruotsalainen sanakirja</hi>.
+                        Suomalaisen Kirjallisuuden Seuran Toimituksia 50:1. Helsinki: SKS.</p>
+                    <p rend="hangingIndent">Lönnrot, Elias (1880) <hi rend="italics">Suomalais-ruotsalainen sanakirja. Jälkimäinen osa. N–Ö</hi>.
+                        Suomalaisen Kirjallisuuden Seuran Toimituksia 50:2. Helsinki: SKS.</p>
+                    <p rend="hangingIndent">Mahn, J. H. F. (1877) <hi rend="italics">Kuusisataa
+                            talouden hoitannossa käytettävää kunnollista sekä koeteltua keinoa
+                            kaikille säädyille eli todellinen mukavuuden, menestyksen,
+                            terveyden, työn ja kulunkien säästämisen neuvonantaja</hi>. Turku:
+                        Wilén.</p>
+                    <p rend="hangingIndent">Malmberg, A. J. (toim.) (1872) <hi rend="italics">Fauna Fennica. Suomen eläimistö, nuorisolle. 1–4, Nisäkkäät,
+                            linnut, matelijat ja sammakot</hi>. Helsinki: Frenckell: Edlund.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Mansikoita ja mustikoita
+                        III</hi>. Helsinki: G. W. Edlund. 1865.</p>
+                    <p rend="hangingIndent">Markkanen, Tapio (2008) Pikkujättiläisen hartioilta.
+                        – <hi rend="italics">Tieteessä tapahtuu</hi> 1, 38–39.</p>
+                    <p rend="hangingIndent">Mela, A. J. (1882) <hi rend="italics">Suomen
+                            luurankoiset, eli luonnontieteellisen Suomen
+                            luurankois-eläimistö</hi>. Helsinki: K. E. Holm. Saatavissa: URL:
+                            <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/mela/luurankoiset1882_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/mela/luurankoiset1882_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Meurman, A. (1883–1890) <hi rend="italics">Sanakirja
+                            yleiseen sivistykseen kuuluvia tietoja varten</hi>. Helsinki:
+                        Edlund. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/meurman/sanakirja1883-1890_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/meurman/sanakirja1883-1890_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Mikkola, Kati (2004) Uskonto, isänmaa, isänmaausko.
+                        Uskonnollisen argumentaation ulottuvuudet Topeliuksen Maamme kirjassa. –
+                            <hi rend="italics">Uskonnon paikka. Kirjoituksia uskontojen ja
+                            uskontoteorioiden rajoista.</hi> Toim. Outi Fingeroos, Minna Opas ja
+                        Teemu Taira. Tietolipas 205. Helsinki: SKS, 209–244.</p>
+                    <p rend="hangingIndent">Mikkola, Kati (2008) Maamme kirja Kalevalan
+                        tulkitsijana. – <hi rend="italics">Kalevalan kulttuurihistoria</hi>.
+                        Toim. Ulla Piela, Seppo Knuuttila ja Pekka Laaksonen. Suomalaisen
+                        Kirjallisuuden Seuran Toimituksia 1179. Helsinki: SKS, 170–189.</p>
+                    <p rend="hangingIndent">Mikola, Marja (1987) <hi rend="italics">Johan Julin
+                            – Valistusajan luonnontutkija Oulussa</hi>. Oulun yliopiston
+                        historian laitoksen julkaisuja, Yleinen aate- ja oppihistoria 5. Oulu:
+                        Oulun yliopisto.</p>
+                    <p rend="hangingIndent">Modeen, A. E. (1848) <hi rend="italics">Os-wiitta
+                            Yhteiseen ja Suomen Geografiaan</hi>. Suomennettu Stenhammar’in ja
+                        Palmblad’in mukaan. Viipuri: A. F. Cederwaller.</p>
+                    <p rend="hangingIndent">M–r (1856) Läsebok för de lägsta läroverken i
+                        Finland af Z. Topelius. Första Kursen. Naturens Bok. – <hi rend="italics">Kuopio Tidning</hi> 31.5.1856.</p>
+                    <p rend="hangingIndent">Murman, Johan Wilhelm (1866) <hi rend="italics">Eläintiede (Zoologia) suomalaisille alkeiskouluille 1–2</hi>.
+                        Turku: Wilen.</p>
+                    <p rend="hangingIndent">Mäkelä-Henriksson, Eeva (1988) Suomalaiset oppivat
+                        lukemaan ja kirjoittamaan. – <hi rend="italics"> Kirja Suomessa. Kirjan
+                            juhlavuoden näyttely Kansallismuseossa 25.8.–31.12.1988.
+                        </hi>Helsinki: Helsingin yliopiston kirjasto, 111–118.</p>
+                    <p rend="hangingIndent">Nervander, Johan Jakob (1850) <hi rend="italics">Skrifter af Johan Jakob Nervander, utgifna till minne för landsmän
+                            II</hi>. Utg. Johan Vilhelm Snellman. Helsingfors: Öhman.</p>
+                    <p rend="hangingIndent">Niemi, Juhani (1999) Kirjallisen instituution
+                        luominen ja vakiinnuttaminen. <hi rend="italics">–</hi><hi rend="italics"> Suomen kirjallisuushistoria 1. Hurskaista lauluista
+                            ilostelevaan romaaniin. </hi>Toim. Yrjö Varpio ja Liisi Huhtala.
+                        Suomalaisen Kirjallisuuden Seuran Toimituksia 724, 1. Helsinki: SKS,
+                        270–277.</p>
+                    <p rend="hangingIndent">Niiniluoto, Ilkka (2000) Filosofia. <hi rend="italics">–</hi><hi rend="italics"> Suomen tieteen historia 2.
+                            Humanistiset ja yhteiskuntatieteet. </hi>Päätoim. Päiviö Tommila.
+                        Porvoo–Helsinki–Juva: WSOY, 176–223.</p>
+                    <p rend="hangingIndent">Nordenskiöld, Erik (1928) <hi rend="italics">Biologian historia yleiskatsauksellisesti esitettynä II. 1700-luvun
+                            alusta Darwinin aikoihin.</hi> Porvoo: WSOY.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Nordisk familjebok.
+                            Konversationslexikon och realencyklopedi. </hi>Saatavissa: URL: <xref type="ext" target="http://runeberg.org/nf">http://runeberg.org/nf</xref> (3.6.2025)</p>
+                    <p rend="hangingIndent">Noro, Mauri (1981) Topelius ja Linné. – <hi rend="italics">Historiallinen Aikakauskirja </hi>79:1, 31–38.</p>
+                    <p rend="hangingIndent">Nyberg, Paul (1950) <hi rend="italics">Z. Topelius.
+                            Elämäkerrallinen kuvaus I–II</hi>. Porvoo–Helsinki: WSOY.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Nykysuomen sanakirja 1–6</hi>.
+                        Päätoim. Matti Sadeniemi. Porvoo–Helsinki–Juva: WSOY. 1992.</p>
+                    <p rend="hangingIndent">Nylander, W. (1848) Finska Foglars Finska namn,
+                        systematiskt ordnade. – <hi rend="italics">Suomi, Tidskrift i
+                            fosterländska ämnen. </hi><hi rend="italics">Åttonde</hi><hi rend="italics"> årgången</hi>, 285–295.</p>
+                    <p rend="hangingIndent">Nylund, Magnus – Andersson, Håkan – Forssell, Pia –
+                        Knif, Henrik (2017) Inledning. − <hi rend="italics">Naturens Bok och
+                            Boken om Vårt Land</hi>. Utg. Magnus Nylund under medverkan av Håkan
+                        Andersson, Pia Forssell och Henrik Knif. Zacharias Topelius Skrifter
+                        XVII. Skrifter utgivna av Svenska litteratursällskapet i Finland 816.
+                        Helsingfors: SLS. Saatavissa: URL: <xref type="ext" target="http://topelius.sls.fi/">http://topelius.sls.fi/</xref>
+                        URN:NBN:fi:sls-6598-1508156369 (3.6.2025).</p>
+                    <p rend="hangingIndent">Paloposki, Outi (2004) Suomennoskirjallisuus
+                        1800-luvun alkupuolella. – <hi rend="italics">Yhteistä kieltä tekemässä.
+                            Näkökulmia suomen kirjakielen kehtiykseen 1800-luvulla</hi>. Toim.
+                        Katja Huumo, Lea Laitinen ja Outi Paloposki. Suomalaisen Kirjallisuuden
+                        Seuran Toimituksia 979. Helsinki: SKS, 41–72.</p>
+                    <p rend="hangingIndent">Passmore, John (1975) The Treatments of Animals. –
+                            <hi rend="italics">Journal of History of Ideas </hi>36:2,
+                        195–218.</p>
+                    <p rend="hangingIndent">Patoluoto, Ilkka (1986) Hyödyllinen luomakunta.
+                        Hyötyajattelun maailmankuvalliset perusteet 1700-luvun Ruotsin
+                        valtakunnassa. – <hi rend="italics">Hyöty, sivistys, kansakunta.
+                            Suomalaista aatehistoriaa</hi><hi rend="italics">. </hi>Toim. Juha
+                        Manninen ja Ilkka Patoluoto. Oulu: Pohjoinen, 41–64.</p>
+                    <p rend="hangingIndent">Pesonen, Heikki (1999) Kristinusko ja
+                        ympäristökriisin syylliset. – <hi rend="italics">Uskonnon luonto.
+                            Ihmisen ja luonnon suhde uskonnollisessa ajattelussa. </hi>Toim.
+                        Heikki Pesonen. Jyväskylä: Atena, 13–32.</p>
+                    <p rend="hangingIndent">Pettersson, Björn (1952) <hi rend="italics">Bildiga
+                            naturmotiv i Topelius’ lyrik.</hi> Historiska och
+                        litteraturhistoriska studier 27–28. Skrifter utgivna av Svenska
+                        litteratursällskapet i Finland 335. Helsingfors: SLS.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Pieni tietosanakirja</hi>. Toim.
+                        Jaakko Forsman, J. A. Wecksell, I. Havu ja Hannes Salovaara. Helsinki:
+                        Otava. 1925–1928. Saatavissa: URL: <xref type="ext" target="http://runeberg.org/pieni/">http://runeberg.org/pieni/</xref>
+                        (3.6.2025).</p>
+                    <p rend="hangingIndent">Pihkala, Panu (2011) Maailmankatsomukset ja
+                        kristinusko ympäristökasvatuksessa. – <hi rend="italics">Kasvatus &amp;
+                            Aika</hi> 5:4, 86–105.</p>
+                    <p rend="hangingIndent">Pihkala, Panu (2014) Ekoteologia. – <hi rend="italics">Modernin teologian suuntauksia.</hi> Toim. Olli-Pekka
+                        Vainio ja Lauri Kemppainen. Helsinki: Kirjapaja, 233–260.</p>
+                    <p rend="hangingIndent">Pitkänen, Kaarina (2008) <hi rend="italics">Suomi
+                            kasvitieteen kieleksi. Elias Lönnrot termistön kehittäjänä</hi>.<hi rend="italics"> </hi>Suomalaisen Kirjallisuuden Seuran Toimituksia
+                        1164. Helsinki: SKS.</p>
+                    <p rend="hangingIndent">Pitkänen-Heikkilä, Kaarina (2010a) Miten 1800-luvun
+                        tietokirjojen suomentamisprosessia voi tutkia? – <hi rend="italics">MikaEL</hi><hi rend="italics">:</hi><hi rend="italics"> Kääntämisen
+                            ja tulkkauksen tutkimuksen symposiumin verkkojulkaisu. </hi>Vol. 4.
+                        Toim. Raila Hekkanen, Esa Penttilä ja Nestori Siponkoski. Saatavissa:
+                        URL: <xref type="ext" target="https://journal.fi/mikael/issue/view/9218">https://journal.fi/mikael/issue/view/9218</xref> (3.6.2025)</p>
+                    <p rend="hangingIndent">Pitkänen-Heikkilä, Kaarina (2010b) Suomentaja
+                        normien ylläpitäjänä ja rakentajana. – Johan Bäckvall ja Topeliuksen
+                        Luonnon-kirjan suomennosprosessi. – <hi rend="italics">Sanoista
+                            kirjakieliin. Juhlakirja Kaisa Häkkiselle 17. marraskuuta 2010</hi>.
+                        Toim. Sirkka Saarinen, Kirsti Siitonen ja Tanja Vaittinen.
+                        Suomalais-Ugrilaisen Seuran Toimituksia 259. Helsinki:
+                        Suomalais-Ugrilainen Seura, 81–95. Saatavissa: URL: <xref type="ext" target="https://www.sgr.fi/en/items/show/682">https://www.sgr.fi/en/items/show/682</xref></p>
+                    <p rend="hangingIndent">Pitkänen-Heikkilä, Kaarina (2013) Tietokirjojen
+                        suomentajat terminologian kehittäjinä ja vakiinnuttajina. – <hi rend="italics">Suomennetun tietokirjallisuuden historia:
+                            1800-luvulta 2000-luvulle</hi>. Toim. Outi Paloposki ja H. K.
+                        Riikonen. Suomalaisen Kirjallisuuden Seuran Toimituksia 1289. Helsinki:
+                        SKS, 66–91.</p>
+                    <p rend="hangingIndent">Pitkänen-Heikkilä, Kaarina (2018) Tiedesanaston
+                        suomentamista koskevat normit: Eläintaksonomisen sanaston kehittämisestä
+                        1800-luvulla ja 2000-luvulla. – <hi rend="italics">Virittäjä </hi>122:4,
+                        523–560. Saatavissa: DOI: <xref type="ext" target="https://doi.org/10.23982/vir.57006">https://doi.org/10.23982/vir.57006</xref></p>
+                    <p rend="hangingIndent">Pitkäranta, Reijo (2018) <hi rend="italics">Suomi–latina–suomi-sanakirja</hi>. Helsinki: Gaudeamus.</p>
+                    <p rend="hangingIndent">Platou, L. S. (1844) <hi rend="italics">Geografia
+                            eli Maan Opas</hi>. Suom. A. E. Ahlqvist. Kuopio. Saatavissa: URL:
+                            <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/ahlqvist/platoun_geografia1844_rdf.xml
+                        ">http://kaino.kotus.fi/korpus/1800/meta/ahlqvist/platoun_geografia1844_rdf.xml
+                        </xref> (3.6.2025)</p>
+                    <p rend="hangingIndent">Ranta, Pertti (2011) <hi rend="italics">Charles
+                            Darwin. </hi><hi rend="italics">Elämä ja evoluutio</hi>. Helsinki:
+                        Teos.</p>
+                    <p rend="hangingIndent">Renvall, Gustaf (1826) <hi rend="italics">Suomalainen Sana-Kirja. </hi><hi rend="italics">Lexicon linguae
+                            Finnicae, cum interpretatione duplici, coposiore Latina, breviore
+                            Germanica</hi>. Aboae: typis Frenckellianis. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/renvall/renvall_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/renvall/renvall_coll_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Reuterdahl, Henrik (1838) <hi rend="italics">Julläsning för barn</hi>. Lund: Gleerup.</p>
+                    <p rend="hangingIndent">Rousseau, Jean-Jacques (1905) <hi rend="italics">Émil</hi><hi rend="italics">e eli kasvatuksesta</hi>. Suom. Jalmari
+                        Hahl. Suomalaisen Kirjallisuuden Seuran Toimituksia 91. Helsinki:
+                        SKS.</p>
+                    <p rend="hangingIndent">Runeberg, Johan Ludvig (1830) <hi rend="italics">Dikter af Johan Ludvig Runeberg</hi>. [Kustannuspaikka tuntematon:
+                        Kustantaja tuntematon.]</p>
+                    <p rend="hangingIndent">Runeberg, Johan Ludvig (1848) <hi rend="italics">Fänrik Ståls sånger. </hi><hi rend="italics">En samling sånger 1 af
+                            Johan Ludvig Runeberg</hi>. Borgå: P. Widerholm.</p>
+                    <p rend="hangingIndent">Runeberg, Johan Ludvig (1874) <hi rend="italics">Runoelmia</hi>. Suom. Edvan Avellan. Helsinki: Simelius: Holm.</p>
+                    <p rend="hangingIndent">Saalas, Uunio (1957) <hi rend="italics">Carl
+                            Reinhold Sahlberg. </hi><hi rend="italics">Luonnontutkija,
+                            yliopisto- ja maatalousmies </hi><hi rend="italics">1779–1860.</hi>
+                        Historiallisia tutkimuksia 47. Helsinki: Suomen Historiallinen
+                        Seura.</p>
+                    <p rend="hangingIndent">Sadelin, Petrus Ulricus (1810) <hi rend="italics">Fauna Fennica, sive enumeratio animalium, quae alit terra
+                            Finlandiae insulaeque ei adjacentes.</hi> Aboae.</p>
+                    <p rend="hangingIndent">Sadelin, Petrus Ulricus (1819) <hi rend="italics">Fauna Fennica, sive enumeratio animalium, quae alit terra
+                            Finlandiae insulaeque ei adjacentes.</hi> Aboae.</p>
+                    <p rend="hangingIndent">Sainio, Matti A. (1957) <hi rend="italics">Kasvatusopin tutkimu</hi><hi rend="italics">s ja opetus Turun
+                            Akatemiassa. </hi>Jyväskylän Kasvatusopillisen korkeakoulun
+                        julkaisuja XIV. Jyväskylä: Jyväskylän yliopistoyhdistys.</p>
+                    <p rend="hangingIndent">Santmire, H. Paul (1970) <hi rend="italics">Brother
+                            Earth: Nature, God, and Ecology in Time of Crisis.</hi> Camden, New
+                        Jersey: T. Nelson.</p>
+                    <p rend="hangingIndent">Savolainen, Raimo (2006) <hi rend="italics">Sivistyksen voimalla. J. V. Snellmanin elämä</hi>. Helsinki:
+                        Edita.</p>
+                    <p rend="hangingIndent">Schödler, Fredrik (1856) <hi rend="italics">Luonnonkirja: kotona ja kouluissa luettava. </hi><hi rend="italics">I:n Osa: Physikki</hi>. Suom. Jaakko Innain. Viipuri: Suomalaisen
+                        kirjallisuuden Seura Viipurissa. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/innain/schodlerin_physikki1856_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/innain/schodlerin_physikki1856_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Schödler, Friedrich (1847–1848) <hi rend="italics">Naturens Bok för Hemmet </hi><hi rend="italics">och </hi><hi rend="italics">Skolan.</hi> Stockholm: Zacharias Haegström.</p>
+                    <p rend="hangingIndent">Simelius, Aukusti (1916) Juhana Bäckvall. Muutamia
+                        piirteitä. – <hi rend="italics">Aika</hi> 8, 436–441.</p>
+                    <p rend="hangingIndent">SKSK 1856–1857 = Finska litteratur-sällskapets
+                        förhandlingar året 16.3.1856 – 16.3.1857. <hi rend="italics">Suomi,
+                            Tidskrift i fosterländska ämnen. 1856. Sextonde årgången.
+                        </hi>Helsingfors: Finska Litteratur-Sällskapets förlag 1857,
+                        253–288.</p>
+                    <p rend="hangingIndent">SKSK 1857–1858 = Finska litteratur-sällskapets
+                        förhandlingar 16.3.1857 – 2.6.1858. <hi rend="italics">Suomi, Tidskrift
+                            i fosterländska ämnen. 1857. Sjuttonde årgången. </hi>Helsingfors:
+                        Finska Litteratur-Sällskapets förlag 1858, 267–304.</p>
+                    <p rend="hangingIndent">SKSK 1859–1860 = Suomalaisen kirjallisuuden seuran
+                        keskustelemiset 6.4.1859 – 16.3.1860. – <hi rend="italics">Suomi,
+                            Tidskrift i fosterländska ämnen. 1859. </hi>Nittonde årgången.<hi rend="italics"> </hi>Helsingfors: Finska Litteratur-Sällskapets
+                        förlag 1860, 293–326.</p>
+                    <p rend="hangingIndent">SKSK 1860–1861 = Suomalaisen Kirjallisuuden Seuran
+                        keskustelemiset 4.4.1860 – 16.3.1861. – <hi rend="italics">Suomi.
+                            Kirjoituksia isän-maallisista aineista. </hi>Toinen Jakso. 1:nen
+                            Osa.<hi rend="italics"> </hi>Helsinki: SKS 1863, 259–306.</p>
+                    <p rend="hangingIndent">SKSK 1861–1862 = Suomalaisen Kirjallisuuden Seuran
+                        keskustelemukset 3.4.1861 – 16.3.1862. – <hi rend="italics">Suomi.
+                            Kirjoituksia isän-maallisista aineista. </hi>Toinen Jakso. 2:nen
+                            Osa.<hi rend="italics"> </hi>Helsinki: SKS 1864, 163–244.</p>
+                    <p rend="hangingIndent">SKSK 1862–1863 = Suomalaisen Kirjallisuuden Seuran
+                        keskustelemukset 2.4.1862 – 16.3.1863. – <hi rend="italics">Suomi.
+                            Kirjoituksia isän-maallisista aineista. </hi>Toinen Jakso. 2:nen
+                            Osa.<hi rend="italics"> </hi>Helsinki: SKS 1864, 245–339.</p>
+                    <p rend="hangingIndent">SKSK 1864–1865 = Suomalaisen Kirjallisuuden Seuran
+                        keskustelemukset v. 1864–65. – <hi rend="italics">Suomi. Kirjoituksia
+                            isän-maallisista aineista. </hi>Toinen Jakso. 4 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1865, 273–356.</p>
+                    <p rend="hangingIndent">SKSK 1865–1866 = Suomalaisen Kirjallisuuden Seuran
+                        keskustelemukset 5.4.1865 – 16.3.1866. – <hi rend="italics">Suomi.
+                            Kirjoituksia isän-maallisista aineista. </hi>Uusi Jakso. 5 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1866, 271–365.</p>
+                    <p rend="hangingIndent">SKSK 1868–1869 = Suomalaisen Kirjallisuuden Seura,
+                        keskustelemukset v. 1868–1869. – <hi rend="italics">Suomi. Kirjoituksia
+                            isän-maallisista aineista. </hi>Toinen Jakso. 9 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1871, 391–463.</p>
+                    <p rend="hangingIndent">SKSK 1872–1873 = Suomalaisen Kirjallisuuden Seuran
+                        keskustelemukset v. 1872–1873. – <hi rend="italics">Suomi. Kirjoituksia
+                            isän-maallisista aineista</hi>. Toinen Jakso. 12 Osa. Helsinki: SKS
+                        1878, 97–173.</p>
+                    <p rend="hangingIndent">SKSK 1875–1876 = Suomalaisen Kirjallisuuden Seuran
+                        keskustelemukset v. 1875–1876. – <hi rend="italics">Suomi. Kirjoituksia
+                            isän-maallisista aineista</hi>. Toinen Jakso. 13 Osa. Helsinki: SKS
+                        1879, 167–304.</p>
+                    <p rend="hangingIndent">SKSK 1878–1879 = Suomalaisen Kirjallisuuden Seuran
+                        keskustelemukset v. 1878–1879. – <hi rend="italics">Suomi. Kirjoituksia
+                            isän-maallisista aineista</hi>. Toinen Jakso. 13 Osa. Helsinki: SKS
+                        1879, 375–468.</p>
+                    <p rend="hangingIndent">SKSK 1883–1884 = Suomalaisen Kirjallisuuden Seura
+                        keskustelemukset v. 1884–1885. – <hi rend="italics">Suomi. Kirjoituksia
+                            isän-maallisista aineista. </hi>Toinen Jakso. 17 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1885, 196–319.</p>
+                    <p rend="hangingIndent">SKSK 1884–1885 = Suomalaisen Kirjallisuuden Seura
+                        keskustelemukset v. 1884–1885. – <hi rend="italics">Suomi. Kirjoituksia
+                            isän-maallisista aineista. </hi>Toinen Jakso. 18 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1885, 217–321.</p>
+                    <p rend="hangingIndent">SKSK 1885–1886 = Suomalaisen Kirjallisuuden Seura
+                        keskustelemukset v. 1885–1886. – <hi rend="italics">Suomi. Kirjoituksia
+                            isän-maallisista aineista. </hi>Toinen Jakso. 19 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1886, 191–302.</p>
+                    <p rend="hangingIndent">SKSK 1903–1904 = Suomalaisen Kirjallisuuden Seura
+                        keskustelemukset v. 1903–1904. – <hi rend="italics">Suomi. Kirjoituksia
+                            isän-maallisista aineista. </hi>Neljäs Jakso. 2 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1904, 1–190.</p>
+                    <p rend="hangingIndent">SKSK 1910–1911 = Suomalaisen Kirjallisuuden Seura
+                        keskustelemukset v. 1910–1911. – <hi rend="italics">Suomi. Kirjoituksia
+                            isän-maallisista aineista. </hi>Neljäs Jakso. 10 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1903, 1910 ja 1912, 1–191.</p>
+                    <p rend="hangingIndent">SKSK 1920–1921 = Suomalaisen Kirjallisuuden Seura
+                        keskustelemukset v. 1920–1921. – <hi rend="italics">Suomi. </hi><hi rend="italics">Kirjoituksia isän-maallisista aineista. </hi>Viides
+                        Jakso. 1 Osa.<hi rend="italics"> </hi>Helsinki: SKS 1927, 1–93,
+                        1–32.</p>
+                    <p rend="hangingIndent">Snellman, J. V. (1856) Läsebok för de lägsta
+                        läroverken i Finland af Z. Topelius. – <hi rend="italics">Litteraturblad
+                            för allmän medborgerlig bildning </hi>7, 196–199.</p>
+                    <p rend="hangingIndent">Stenbäck, Lars (1850) <hi rend="italics">Dikter af
+                            Lars Stenbäck I, II</hi>. Andra tillökta och förbättrade Upplagan.
+                        Helsingfors: Edlund.</p>
+                    <p rend="hangingIndent">Still, Clary-Ann (2009) Barnet i Kulturvaggan.
+                        Föreningen Arbetets Vänners barnträdgårdsverksamhet i Åbo 1897–1937 och
+                        dess historiska bakgrund. – <hi rend="italics">Kasvatus ja aika</hi> 3,
+                        47–64. Saatavissa: URL: <xref type="ext" target="https://journal.fi/kasvatusjaaika/issue/view/4762">https://journal.fi/kasvatusjaaika/issue/view/4762</xref></p>
+                    <p rend="hangingIndent">Sulkunen, Irma (2004) <hi rend="italics">Suomalaisen
+                            Kirjallisuuden Seura 1831–1892</hi>. Suomalaisen Kirjallisuuden
+                        Seuran Toimituksia 952. Helsinki: SKS.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Suomen etymologinen
+                            sanakirja.</hi> Kotimaisten kielten keskuksen verkkojulkaisuja 72.
+                        Helsinki: Kotimaisten kielten keskus. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/ses/">http://kaino.kotus.fi/ses/</xref>
+                        URN:NBN:fi:kotus-202259. Päivitetty 15.8.2024 (3.6.2025) </p>
+                    <p rend="hangingIndent"><hi rend="italics">Suomen Kansan Satuja ja Tarinoita
+                            III.</hi> Toim. Eero Salmelainen. Suomalaisen Kirjallisuuden Seuran
+                        Toimituksia 17. Helsinki: SKS. 1863.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Suomen murteiden
+                            sanakirja</hi><hi rend="italics">. a–noukkia</hi>. Kotimaisten
+                        kielten keskuksen verkkojulkaisuja 30. Helsinki: Kotimaisten kielten
+                        keskus. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/sms">http://kaino.kotus.fi/sms</xref>
+                        URN:NBN:fi:kotus-201110 Päivitetty 5.6.2024. (3.6.2025)</p>
+                    <p rend="hangingIndent">Suutala, Maria (1995) <hi rend="italics">Naiset ja
+                            muut eläimet. Ihmisen suhde luontoon länsimaisessa ajattelussa.</hi>
+                        Helsinki: Yliopistopaino.</p>
+                    <p rend="hangingIndent">Suutala, Maria (2001) <hi rend="italics">Kesytetty
+                            nainen. Seksuaalisuus ja luontosuhde länsimaisessa ajattelussa.</hi>
+                        Helsinki: Yliopistopaino.</p>
+                    <p rend="hangingIndent">Suvikumpu, Liisa (2014) <hi rend="italics">Suomalaiset kylpylät. Kotimaisen kylpyläkulttuurin historiaa</hi>.
+                        Kirjokansi 20. Helsinki: SKS.</p>
+                    <p rend="hangingIndent"><hi rend="italics">Svenska Akademiens ordbok</hi>.
+                        Saatavissa: URL: <xref type="ext" target="https://www.saob.se">https://www.saob.se</xref> (3.6.2025)</p>
+                    <p rend="hangingIndent">Teerijoki, Ilkka (2008) Cajanus, Daniel – <hi rend="italics">Biografiskt lexikon för Finland 1. </hi><hi rend="italics">Svenska tiden</hi>. Red. Henrik Knif ym. Skrifter
+                        utgivna av Svenska litteratursällskapet i Finland 710:1. Helsingfors:
+                        Svenska litteratursällskapet; Stockholm: Atlantis.</p>
+                    <p rend="hangingIndent">Tengström, J. J. (1929) Muutamista Suomen
+                        kirjallisuuden ja kulttuurin esteistä. – <hi rend="italics">A.</hi><hi rend="italics"> </hi><hi rend="italics">I. Arwidssonista J.</hi><hi rend="italics"> </hi><hi rend="italics">V. Snellmaniin. Kansallisia
+                            kirjoitelmia vuosilta 1817–1844</hi>. Suomalaisuuden syntysanoja
+                        III. Suomalaisen Kirjallisuuden Seuran Toimituksia 105. Helsinki: SKS,
+                        1–53.</p>
+                    <p rend="hangingIndent">Tester, Keith (1991) <hi rend="italics">Animals and
+                            Society. The Humanity of Animal Rights</hi><hi rend="italics">.</hi>
+                        London: Routledge.</p>
+                    <p rend="hangingIndent">Thomas, Keith (1983) <hi rend="italics">Man and the
+                            Natural World. A History of the Modern Sensibility. </hi>New York:
+                        Pantheon Books.</p>
+                    <p rend="hangingIndent">Ticklén, J. F. (1832) <hi rend="italics">Termini
+                            Medici in Lingua Fennica Occurrentes</hi>. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/sanaluettelot/ticklen_terminimedici1832_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/sanaluettelot/ticklen_terminimedici1832_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent"><hi rend="italics">Tieteen termipankki.
+                            Vetenskapstermbanken i Finland. </hi><hi rend="italics">The Helsinki
+                            Term Bank for the Arts and Sciences</hi>. Päivitettävä julkaisu.
+                        Saatavissa: URL: <xref type="ext" target="https://tieteentermipankki.fi">https://tieteentermipankki.fi</xref> (3.6.2025)</p>
+                    <p rend="hangingIndent">Tigerstedt, E. N. (1943) <hi rend="italics">Topelius-studier I–II.</hi> Historiska och litteraturhistoriska<hi rend="italics"> </hi>studier 18–19. Skrifter utgivna av Svenska
+                        Litteratursällskap i Finland 294. Helsingfors: SLS.</p>
+                    <p rend="hangingIndent">Tiitta, Allan (1994) <hi rend="italics">Harmaakiven
+                            maa. Zacharias Topelius ja Suomen maantiede</hi>. Bidrag till
+                        kännedom av Finlands natur och folk 147. Helsinki: Suomen
+                        Tiedeseura.</p>
+                    <p rend="hangingIndent">Tiitta, Allan (2009) Johdannoksi. – Topelius,
+                        Zacharias, <hi rend="italics">Luonnonkirja. Ala-alkeiskouluin
+                            tarpeeksi</hi>. Suomalaisen kirjallisuuden klassikoita. Helsinki:
+                        SKS, vii–xvi.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1843a) Om Österbotten. – <hi rend="italics">Jou(k)kahainen</hi> 1, 32–50.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1843b) Grunddragen af
+                        jordbeskrifningen med hufwudsakligt afseende på natur- och folklif. –
+                            <hi rend="italics">Helsingfors Tidningar</hi> 14.10.1843.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1846) Jul-Literatur. – <hi rend="italics">Helsingfors Tidningar</hi> 23.12.1846.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1848) Från Helsingfors. – <hi rend="italics">Helsingfors Tidningar</hi> 29.11.1848.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1850a) Helsingfors. – <hi rend="italics">Helsingfors Tidningar</hi> 7.8.1850.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1850b) <hi rend="italics">Ljungblommor. </hi><hi rend="italics">Andra samlingen</hi>.
+                        Helsingfors: Förf:s förlag.</p>
+                    <p rend="hangingIndent">[Topelius, Zacharias] (1852) Fältskärns Andra
+                        Berättelse. Svärdet och plogen. − <hi rend="italics">Helsingfors
+                            Tidningar</hi> 28.1.1852.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1855) Om läsning för barn. –
+                            <hi rend="italics">Helsingfors Tidningar</hi> 7.11.–19.12.1855.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1856a) Förord till lärare och
+                        äldre läsare. – Topelius, Zacharias, <hi rend="italics">Läsebok för de
+                            lägsta lärowerken i Finland. Första Kursen. Naturens Bok.
+                        </hi>Helsingfors: Förf:s förlag.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1856b) Huru doktor Frobel
+                        uppfostrade småbarn. – <hi rend="italics">Helsingfors Tidningar</hi>
+                        5.3.1856.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1856c) Litteratur. – <hi rend="italics">Helsingfors Tidningar</hi> 14.5.1856.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1857a) Förord till första
+                        upplagan. – Topelius, Zacharias, <hi rend="italics">Läsebok för de
+                            lägsta lärowerken i Finland. Första Kursen. Naturens Bok. </hi>Andra
+                        upplagan. Helsingfors: Förf:s förlag.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1857b) <hi rend="italics">Läsebok för de lägsta lärowerken i Finland. Första Kursen. Naturens
+                            Bok. </hi>Andra upplagan. Helsingfors: Förf:s förlag.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1870) <hi rend="italics">Läsebok för de lägsta lärowerken i Finland. </hi><hi rend="italics">Naturens Bok</hi>. Sjette upplagan. Helsingfors: Holm.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1875) <hi rend="italics">Boken
+                            om Vårt Land. </hi><hi rend="italics">Läsebok för de lägsta
+                            läroverken i Finland</hi>. <hi rend="italics">Andra Kursen</hi>.
+                        Helsingfors: E. W Edlunds förlag.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1878) <hi rend="italics">Välskäärin kertomuksia. </hi><hi rend="italics">1 jakso</hi>. Suom.
+                        Robert Mellin. Oulu: Edlund.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1879a) <hi rend="italics">Välskäärin kertomuksia. 2 jakso</hi>. Suom. Robert Mellin. Oulu:
+                        Edlund.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1879b) <hi rend="italics">Välskäärin kertomuksia. 3 jakso</hi>. Suom. Robert Mellin. Oulu:
+                        Edlund.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1880) <hi rend="italics">Välskäärin kertomuksia. 4 jakso</hi>. Suom. Robert Mellin. Oulu:
+                        Edlund.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1881) Skydd för Finlands barn!
+                        – <hi rend="italics">Hufvudstadsbladet </hi>18.11.1881.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1882) <hi rend="italics">Välskäärin kertomuksia. </hi><hi rend="italics">5 jakso</hi>. Suom.
+                        Kaarlo Kramsu. Oulu: Edlund.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1884) <hi rend="italics">Läsebok för de lägsta lärowerken i Finland. Naturens Bok</hi>.
+                        Nionde upplagan. Helsingfors: Holm.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1890) Föredrag vid Kristliga
+                        föreningens af unge män möte. – <hi rend="italics">Finland</hi> 12. ja
+                            13.5.1890<hi rend="italics">.</hi></p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1897) Minnesord. – <hi rend="italics">Jägaren</hi> 1897: II. Jubileumshäfte, 124–127.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1898) <hi rend="italics">Blad
+                            ur min tänkebok</hi>. Helsingfors: Söderström &amp; C:o.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1907) Oppinut poika. – <hi rend="italics">Satuja ja runoja </hi>II. Suom. Viljo Tarkiainen ja
+                        Valter Juva. Porvoo: WSOY, 96–106.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1918) <hi rend="italics">Dagböcker </hi><hi rend="italics">I</hi>. Utg. Paul Nyberg.
+                        Helsingfors: Schildt.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1921) <hi rend="italics">Dagböcker </hi><hi rend="italics">II</hi>. Utg. Paul Nyberg.
+                        Helsingfors: Schildt.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1922–1924) <hi rend="italics">Dagböcker</hi><hi rend="italics"> IV</hi>. Utg. Paul Nyberg.
+                        Helsingfors: Schildt.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1923) <hi rend="italics">Elämäkerrallisia muistiinpanoja</hi>. Julk. Paul Nyberg. Suom.
+                        Helmi Krohn. Helsinki: Otava.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1940) <hi rend="italics">Topeliuksen kuvaelämäkerta</hi>. Toim. Paul Nyberg.
+                        Porvoo–Helsinki: WSOY.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (1949) <hi rend="italics">Välskärin kertomuksia</hi>. Kolmas osa.<hi rend="italics"> </hi>Suom. Juhani Aho. Porvoo–Helsinki: WSOY.</p>
+                    <p rend="hangingIndent">[Topelius, Zacharias] (1956) <hi rend="italics">Konstnärsbrev I</hi>. <hi rend="italics">Z. Topelius brevväxling
+                            med C. J. L. Almquist, J. L. Runeberg, Fredrika Runeberg, Fredrik
+                            Cygnaeus, Fredrik Pacius, Conrad Greve, J. A. Josephson.</hi> Utg.
+                        Paul Nyberg. Skrifter utgivna av Svenska litteratursällskapet i Finland
+                        360. Helsingfors: SLS.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (2004) <hi rend="italics">Finlands krönika</hi>. Utg. av Rainer Knapas. Skrifter utgivna av
+                        Svenska litteratursällskapet i Finland 660. Helsingfors: SLS.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (2010) <hi rend="italics">Ljungblommor</hi>. Utg. Carola Herberts under medverkan av Clas
+                        Zilliacus. Zacharias Topelius Skrifter I. Skrifter utgivna av Svenska
+                        litteratursällskapet i Finland 742. Helsingfors: SLS; Stockholm:
+                        Atlantis. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
+                        URN:NBN:fi:sls-6601-1508156399 (3.6.2025)</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (2011) <hi rend="italics">Finland framställdt i teckningar</hi>. Utg. Jens Grandell &amp;
+                        Rainer Knapas. Zacharias Topelius Skrifter XII. Skrifter utgivna av
+                        Svenska litteratursällskapet i Finland 747. Helsingfors: SLS; Stockholm:
+                        Atlantis. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
+                        URN:NBN:fi:sls-7228-1552035302 (3.6.2025).</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (2012) <hi rend="italics">Noveller</hi>. Utg. Pia Forssell. Zacharias Topelius Skrifter IV.
+                        Skrifter utgivna av Svenska litteratursällskapet i Finland 770.
+                        Helsingfors: SLS; Stockholm: Atlantis. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
+                        URN:NBN:fi:sls-6602-1508156409 (6.6.2025).</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (2013) <hi rend="italics">Hertiginnan af Finland och andra historiska noveller</hi>. Utg. Pia
+                        Forssell under medverkan av Matti Klinge och Anna Movall. Zacharias
+                        Topelius Skrifter V. Skrifter utgivna av Svenska litteratursällskapet i
+                        Finland 782. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
+                        URN:NBN:fi:sls-6603-1508156419 (3.6.2025)</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (2015a) <hi rend="italics">Tilinteon päivä ja muita kertomuksia</hi>. Suom. Anna Järvenpää,
+                        Jani Kämäräinen, Mirjami Lappalainen, Emilia Lehkonen, Miro
+                        Metsämuuronen, Heljä Pitkäkoski, Maija Sakki ja Marja Uusirasi. Turku:
+                        Faros.</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (2015b) <hi rend="italics">Zacharias Topelius korrespondens med förlag och översättare</hi>.
+                        Utgiven av Carola Herberts. Zacharias Topelius Skrifter XX:1. Skrifter
+                        utgivna av Svenska litteratursällskapet i Finland nr 835:1. Helsingfors:
+                        SLS. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref> URN:NBN:fi:sls-6604-1508156429
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (2017a) <hi rend="italics">Föreläsningar i geografi och historia</hi>. Utg. Jens Grandell.
+                        Zacharias Topelius Skrifter XV. Skrifter utgivna av Svenska
+                        litteratursällskapet i Finland 843. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
+                        URN:NBN:fi:sls-6282-1508152246 (3.6.2025)</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (2017b) <hi rend="italics">Naturens Bok och Boken om Vårt Land</hi>. Utg. Magnus Nylund under
+                        medverkan av Håkan Andersson, Pia Forssell och Henrik Knif. Zacharias
+                        Topelius Skrifter XVII. Skrifter utgivna av Svenska litteratursällskapet
+                        i Finland 816. Helsingfors: SLS. Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref>
+                        URN:NBN:fi:sls-6597-1508156359 (3.6.2025)</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (2018a) <hi rend="italics">Dagböcker</hi>. Utg. Pia Asp. Zacharias Topelius Skrifter XXI.
+                        Skrifter utgivna av Svenska litteratursällskapet i Finland 823.
+                        Saatavissa: URL: <xref type="ext" target="https://topelius.sls.fi">https://topelius.sls.fi</xref> URN:NBN:fi:sls-7059-1525330243
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Topelius, Zacharias (2018b) <hi rend="italics">Maamme kirja. </hi><hi rend="italics">Digitaalinen editio</hi>.
+                        Toim. Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko. Skrifter
+                        utgivna av Svenska litteratursällskapet i Finland 836. Helsinki:
+                        SKS–SLS. Saatavissa: URL: <xref type="ext" target="https://maammekirja.sls.fi">https://maammekirja.sls.fi</xref>
+                        URN:NBN:fi:sls-6612-1523551508 (3.6.2025)</p>
+                    <p rend="hangingIndent">Toropainen, Tanja (2016) Typografian vaikutus
+                        yhdyssubstantiivien oikeinkirjoitukseen Agricolan teoksissa. <hi rend="italics">Sananjalka</hi> 58, 175–198.</p>
+                    <p rend="hangingIndent">Ule, Otto (1845) <hi rend="italics">Mintähden ja
+                            sentähden. Kysymyksiä ja vastauksia kaikkeen luonnon tietoon
+                            kuuluvissa asioissa</hi>. Suom. Samuel Roos. Turku: Frenckell:
+                        Wilén. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/roos/mintahden1845_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/roos/mintahden1845_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Varelius, Antero (1855) <hi rend="italics">Enon
+                            Opetuksia Luonnon Asioista. 1. Osa.</hi> Turku: Frenckell.
+                        Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/varelius/varelius_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/varelius/varelius_coll_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Varelius, Antero (1856) <hi rend="italics">Enon
+                            Opetuksia Luonnon Asioista. 2. Osa.</hi> Turku: Frenckell.
+                        Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/varelius/varelius_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/varelius/varelius_coll_rdf.xml
+                        </xref> (3.6.2025)</p>
+                    <p rend="hangingIndent">Varhaisnykysuomen korpus. – Helsinki: Kotimaisten
+                        kielten keskus. Saatavissa: URL: <xref type="ext" target="http://kaino.kotus.fi/korpus/1800/meta/1800_coll_rdf.xml">http://kaino.kotus.fi/korpus/1800/meta/1800_coll_rdf.xml</xref>
+                        (3.6.2025)</p>
+                    <p rend="hangingIndent">Vasenius, Valfrid (1912) <hi rend="italics">Zacharias Topelius ihmisenä ja runoilijana I</hi>. Helsinki:
+                        Otava.</p>
+                    <p rend="hangingIndent">Vasenius, Valfrid (1927) <hi rend="italics">Zacharias Topelius ihmisenä ja runoilijana IV</hi>. Helsinki:
+                        Otava.</p>
+                    <p rend="hangingIndent">Vest, Eliel (1905) <hi rend="italics">Zachris
+                            Topelius. En biografisk studie</hi>. Helsingfors: Söderström &amp;
+                        C:o.</p>
+                    <p rend="hangingIndent">Vilkka, Leena (1993) <hi rend="italics">Ympäristöetiikka. Vastuu luonnosta, eläimistä ja tulevista
+                            sukupolvista.</hi> Helsinki: Yliopistopaino.</p>
+                    <p rend="hangingIndent">Wretö, Tore (2012) <hi rend="italics">Kampen om det
+                            medeltida Italien. Kejsare och påvar 313–1313</hi>. Stockholm:
+                        Atlantis.</p>
+                    <p rend="hangingIndent">von Wright, Magnus (1859) <hi rend="italics">Finlands Foglar, hufvudsakligen till deras drägter. Förra
+                            Afdelningen</hi>. Helsingfors: Finska Vetenskaps-Societeten.</p>
+                    <p rend="hangingIndent">von Wright, Magnus – Palmén, Johan Axel (1873) <hi rend="italics">Finlands Foglar, huvudsakligen till deras drägter.
+                            Senare afdelningen, efter författarens död omarbetad med särskild
+                            hänsyn till arternas utbredning</hi>. Helsingfors: Finska
+                        Vetenskaps-Societeten.</p>
+                </div>
+
 
             </div>
         </body>
