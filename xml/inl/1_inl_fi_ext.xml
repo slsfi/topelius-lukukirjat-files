@@ -14,8 +14,8 @@
         <body xml:space="preserve">
             <div type="content" id="content">
 <head type="title"><ref target="#top">Johdanto</ref></head>
-<head type="heading2"><ref target="#sec1">I Johdatusta Topeliuksen <hi rend="italics">Luonnonkirjaan</hi></ref> <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko)</hi></head>
-<head type="heading2"><ref target="#sec2">II <hi rend="italics">Naturens Bok</hi> – Topeliuksen työvoitto</ref> <hi rend="writer">(Allan Tiitta)</hi></head>
+<head type="heading2"><ref target="#sec1">I Johdatusta Topeliuksen Luonnonkirjaan</ref> <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko)</hi></head>
+<head type="heading2"><ref target="#sec2">II Naturens Bok – Topeliuksen työvoitto</ref> <hi rend="writer">(Allan Tiitta)</hi></head>
 <head type="heading3"><ref target="#sec2-1">Topeliuksen luontoharrastuksen viriäminen</ref></head>
 <head type="heading3"><ref target="#sec2-2">Yliopistovuodet</ref></head>
 <head type="heading3"><ref target="#sec2-3">Kiinnostus kouluopetuksen uudistamiseen</ref></head>
@@ -29,32 +29,31 @@
 <head type="heading3"><ref target="#sec3-4">Eläinten ja ihmisten näkökulmat</ref></head>
 <head type="heading3"><ref target="#sec3-5">Kirjassa rakentuva kulttuurinen todellisuus</ref></head>
 <head type="heading3"><ref target="#sec3-6">Pedagoginen polku luonnonilmiöiden havaitsemiseen ja tulkintaan</ref></head>
-<head type="heading2"><ref target="#sec4">IV <hi rend="italics">Luonnonkirjan</hi> vuosikymmenet</ref> <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko)</hi></head>
+<head type="heading2"><ref target="#sec4">IV Luonnonkirjan vuosikymmenet</ref> <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko)</hi></head>
 <head type="heading3"><ref target="#sec4-1">Topeliuksen lukukirja ilmestyy suomeksi</ref></head>
-<head type="heading3"><ref target="#sec4-2"><hi rend="italics">Luonnonkirja</hi> – käännösteos kehittyvällä kirjakielellä</ref></head>
+<head type="heading3"><ref target="#sec4-2">Luonnonkirja – käännösteos kehittyvällä kirjakielellä</ref></head>
 <head type="heading4"><ref target="#sec4-2-1">Johan Bäckvallin suomennoksen kielellisistä piirteistä</ref></head>
-<head type="heading4"><ref target="#sec4-2-2"><hi rend="italics">Luonnonkirjan</hi> erikoissanastosta ja Johan Bäckvallin käännösratkaisuista</ref></head>
-<head type="heading3"><ref target="#sec4-3"><hi rend="italics">Luonnonkirjan</hi> myöhempiä laitoksia</ref></head>
-<head type="heading2"><ref target="#sec5">V <hi rend="italics">Luonnonkirjan</hi> digitaalinen editio</ref> <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko)</hi></head>
-<head type="heading3"><ref target="#sec5-1"><hi rend="italics">Luonnonkirjan</hi> tekstien toimitusperiaatteet</ref></head>
-<head type="heading4"><ref target="#sec5-1-1"><hi rend="italics">Luonnonkirjaan</hi> tehdyt toimitukselliset muutokset</ref></head>
-<head type="heading4"><ref target="#sec5-1-2"><hi rend="italics">Luonnonkirjan</hi> versioiden väliset erot</ref></head>
+<head type="heading4"><ref target="#sec4-2-2">Luonnonkirjan erikoissanastosta ja Johan Bäckvallin käännösratkaisuista</ref></head>
+<head type="heading3"><ref target="#sec4-3">Luonnonkirjan myöhempiä laitoksia</ref></head>
+<head type="heading2"><ref target="#sec5">V Luonnonkirjan digitaalinen editio</ref> <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko)</hi></head>
+<head type="heading3"><ref target="#sec5-1">Luonnonkirjan tekstien toimitusperiaatteet</ref></head>
+<head type="heading4"><ref target="#sec5-1-1">Luonnonkirjaan tehdyt toimitukselliset muutokset</ref></head>
+<head type="heading4"><ref target="#sec5-1-2">Luonnonkirjan versioiden väliset erot</ref></head>
 <head type="heading3"><ref target="#sec5-2">Kommentaarien toimitusperiaatteet</ref></head>
 <head type="heading4"><ref target="#sec5-2-1">Kommentaarien aiheet</ref></head>
 <head type="heading4"><ref target="#sec5-2-2">Kommentaarien rakenne</ref></head>
-<head type="heading4"><ref target="#sec5-2-3">Luonnontieteellisen erikoissanaston kommentaariviitteet</ref></head>
+<head type="heading4"><ref target="#sec5-2-3">Luonnontieteellisen erikoissanaston kommentaariviitteet</ref></head><lb/>
 <head type="heading2"><ref target="#sec_intro_notes">Viitteet</ref></head>
 <lb/>
 <head type="heading2"><ref target="#sec_sources">Lähteet</ref></head>
             </div>
-            <div type="section" id="sec_intro">
+            <div type="section" title="introduction" id="sec_intro">
             	<div type="header" id="top">
 					<head type="title">Johdanto</head>
 			    </div>
                 <div id="sec1">
-                    <head type="heading2">I Johdatusta Topeliuksen <hi rend="italics">Luonnonkirjaan</hi></head>
-                    <p type="writer">Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko</p>
-                    <p>Zacharias Topeliuksen (1818–1898) lukukirja <hi rend="italics">Naturens
+                    <head type="heading2">I Johdatusta Topeliuksen Luonnonkirjaan <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko)</hi></head>
+                    <p rend="noIndent">Zacharias Topeliuksen (1818–1898) lukukirja <hi rend="italics">Naturens
                             Bok</hi> (1856), koko nimeltään <hi rend="italics">Läsebok för de lägsta
                             lärowerken i Finland. Första Kursen. Naturens Bok</hi>, syntyi alun
                         perin aloitukseksi kaksiosaiselle koulukirjalle. Jatkokurssin <hi rend="italics">Boken om Vårt Land</hi> (1875) kirjoittaminen viivästyi
@@ -106,12 +105,9 @@
 
 
                 <div id="sec2">
-                    <head type="heading2"> II <hi rend="italics">Naturens Bok</hi> – Topeliuksen
-                        työvoitto</head>
-                    <p type="writer">Allan Tiitta</p>
+                    <head type="heading2">II Naturens Bok – Topeliuksen työvoitto <hi rend="writer">(Allan Tiitta)</hi></head>
 
-
-                    <p>Zacharias Topelius oli hoitanut kaksi vuotta Suomen historian ylimääräisen
+                    <p rend="noIndent">Zacharias Topelius oli hoitanut kaksi vuotta Suomen historian ylimääräisen
                         professorin virkaa, kun hän julkaisi 1856 omakustanteena <hi rend="italics">Naturens Bokin</hi>, ala-alkeiskoulun oppilaille tarkoitetun luku- ja
                         oppikirjan ihmisestä sekä häntä ympäröivästä luonnosta ja avaruudesta. Miksi
                         juuri yliopistouransa aloittanut perheenisä, <hi rend="italics">Helsingfors
@@ -128,7 +124,7 @@
                     <div id="sec2-1">
                         <head type="heading3">Topeliuksen luontoharrastuksen viriäminen</head>
 
-                        <p>Topeliuksen isä Zacharias Topelius vanhempi oli Uudenkaarlepyyn
+                        <p rend="noIndent">Topeliuksen isä Zacharias Topelius vanhempi oli Uudenkaarlepyyn
                             piirilääkäri ja tilanhoitaja, jossa yhdistyivät monet valistuksen ja
                             hyödyn aikakauden ajatukset. Hän oli ehtinyt tutustua Ruotsissa
                             opiskellessaan siellä vallalle päässeeseen romanttiseen
@@ -266,7 +262,7 @@
                     <div id="sec2-2">
                         <head type="heading3">Yliopistovuodet</head>
 
-                        <p>Lääkärin ura oli kiehtonut Topeliusta kouluvuosista alkaen, joten hän
+                        <p rend="noIndent">Lääkärin ura oli kiehtonut Topeliusta kouluvuosista alkaen, joten hän
                             aloitti akateemiset opintonsa päämääränään valmistua isänsä tapaan
                                 lääkäriksi.<note id="ftn22" place="foot" n="23"> Topelius 1923,
                                 65–67; Topelius 1922–1924, 295</note> Siksi hän suuntasi opintonsa
@@ -323,7 +319,7 @@
                         <head type="heading3">Kiinnostus kouluopetuksen uudistamiseen</head>
 
 
-                        <p>Omat kokemukset olivat osoittaneet Topeliukselle, että koulu pikemminkin
+                        <p rend="noIndent">Omat kokemukset olivat osoittaneet Topeliukselle, että koulu pikemminkin
                             ikävystytti oppilaita kuin sai heidät innostumaan oppimiseen. Tämä
                             johtui opetuksen kuivakiskoisuudesta. Hänen mielestään oppilaille ei
                             tullut opettaa liian monia aineita, ja heidät oli säästettävä
@@ -400,7 +396,7 @@
                     <div id="sec2-4">
                         <head type="heading3">Arkkipiispan ehdotuksen pitkä toteutus</head>
 
-                        <p>Kun kasvatus- ja kouluasioista kiinnostunut ja niihin perehtynyt
+                        <p rend="noIndent">Kun kasvatus- ja kouluasioista kiinnostunut ja niihin perehtynyt
                             arkkipiispa Edvard Bergenheim esitti keväällä 1851 Topeliukselle idean
                             kirjoittaa oppikirja alimpien oppilaitosten käyttöön, tämä tunsi heti
                             ajatuksen omakseen.<note id="ftn43" place="foot" n="44">
@@ -537,7 +533,7 @@
                         <head type="heading3">Luonto on kuin iso kirja</head>
 
 
-                        <p><hi rend="italics">Naturens Bok</hi> oli ala-alkeiskoulun 8–9-vuotiaille
+                        <p rend="noIndent"><hi rend="italics">Naturens Bok</hi> oli ala-alkeiskoulun 8–9-vuotiaille
                             oppilaille tarkoitettu luku- ja oppikirja maapallosta ihmisen
                             asuinpaikkana. Opettajille ja varttuneemmille lukijoille osoittamassaan
                             esipuheessa Topelius selittää teoksen ideologiset lähtökohdat. Hänen
@@ -758,7 +754,7 @@
                     <div id="sec2-6">
                         <head type="heading3">Kahtiajakautunut vastaanotto</head>
 
-                        <p><hi rend="italics">Naturens Bok</hi> sai arvostelijoilta yleensä varsin
+                        <p rend="noIndent"><hi rend="italics">Naturens Bok</hi> sai arvostelijoilta yleensä varsin
                             suopean vastaanoton. Henrik Leopold Melanderin <hi rend="italics">Kuopio
                                 Tidningissä</hi> jo toukokuun lopulla 1856 julkaiseman laajan arvion
                             mukaan Suomessa tuskin kukaan muu kuin Topelius olisi kyennyt
@@ -938,11 +934,9 @@
 
 
                 <div id="sec3">
-                    <head type="heading2">III Topeliuksen opas luonnon lukutaitoon – <hi rend="italics">Luonnonkirja</hi> maailmankuvan rakentajana</head>
-                    <p type="writer">Kati Mikkola</p>
+                    <head type="heading2">III Topeliuksen opas luonnon lukutaitoon – Luonnonkirja maailmankuvan rakentajana <hi rend="writer">(Kati Mikkola)</hi></head>
 
-
-                    <p>Zacharias Topeliuksen kouluopetuksen tarpeisiin laatimaa <hi rend="italics">Naturens bokia</hi> (1856, suom. <hi rend="italics">Luonnon kirja</hi>
+                    <p rend="noIndent">Zacharias Topeliuksen kouluopetuksen tarpeisiin laatimaa <hi rend="italics">Naturens bokia</hi> (1856, suom. <hi rend="italics">Luonnon kirja</hi>
                         1860) pidetään yhtenä suomalaisen ympäristökasvatuksen keskeisteoksena,
                         jonka merkitys on ulottunut 1800-luvun jälkipuoliskolta pitkälle
                             1900-luvulle.<note id="ftn116" place="foot" n="117"> Pihkala 2011,
@@ -960,7 +954,7 @@
                         <head type="heading3">Kehyskertomuksen agraari Suomi</head>
 
 
-                        <p><hi rend="italics">Luonnonkirjan</hi> kohderyhmänä ovat lapset, mikä
+                        <p rend="noIndent"><hi rend="italics">Luonnonkirjan</hi> kohderyhmänä ovat lapset, mikä
                             tehdään selväksi jo kirjan alussa: ”Tämä kirja on lasten kirja.”<note id="ftn118" place="foot" n="119"> Topelius 1860, 3.</note>
                             Topelius pyrki virittämään kirjan sekä kieleltään että sisällöltään noin
                             8–9-vuotiaille sopivaksi. Viidestätoista luvusta muodostuva teos oli
@@ -1047,7 +1041,7 @@
                         <head type="heading3">Toden ja tarun maastoissa</head>
 
 
-                        <p>Tiedon ja tietämisen luonne on <hi rend="italics">Luonnonkirjassa</hi>
+                        <p rend="noIndent">Tiedon ja tietämisen luonne on <hi rend="italics">Luonnonkirjassa</hi>
                             monitahoista: kirja sisältää sekä tieteellistä että myyttistä ainesta,
                             sekä Jumalan ilmoituksena esitettyjä asioita että empiirisiin
                             havaintoihin perustuvaa kokemustietoa, niin ilmiöiden kuvailua kuin
@@ -1243,7 +1237,7 @@
                     <div id="sec3-3">
                         <head type="heading3">Kristillinen argumentaatio</head>
 
-                        <p><hi rend="italics">Luonnonkirjan</hi> rakenteessa ja argumentaatiossa on
+                        <p rend="noIndent"><hi rend="italics">Luonnonkirjan</hi> rakenteessa ja argumentaatiossa on
                             toistuvia elementtejä, jotka sitovat sen kristilliseen opetukseen ja
                             perinteeseen. Näiden elementtien taustalla voidaan hahmottaa neljä
                             keskeistä pyrkimystä: ohjata lukijaa tietynlaiseen kirjan lukutapaan,
@@ -1535,7 +1529,7 @@
                         <head type="heading3">Eläinten ja ihmisten näkökulmat</head>
 
 
-                        <p>Lukijoita tutustutetaan <hi rend="italics">Luonnonkirjassa</hi> eri
+                        <p rend="noIndent">Lukijoita tutustutetaan <hi rend="italics">Luonnonkirjassa</hi> eri
                             eläinlajien ominaispiirteisiin ja tapoihin sekä siihen, miten ihmiset
                             hyödyntävät eläimiä eri puolilla maailmaa. Eläimiä ja ihmisiä kuvataan
                             kertomuksilla, jotka havainnollistavat niiden suhdetta eri näkökulmista.
@@ -1731,7 +1725,7 @@
                         <head type="heading3">Kirjassa rakentuva kulttuurinen todellisuus</head>
 
 
-                        <p><hi rend="italics">Luonnonkirjassa</hi> rakentuva kulttuurinen
+                        <p rend="noIndent"><hi rend="italics">Luonnonkirjassa</hi> rakentuva kulttuurinen
                             todellisuus muodostuu toisaalta kotimaan ja ulkomaiden, toisaalta
                             menneiden aikojen ja nykyisyyden esittelystä. Kirja kirjoitettiin ja se
                             ilmestyi ennakkosensuurin aikana, mikä osaltaan vaikutti kirjailijan
@@ -1854,11 +1848,9 @@
 
 
                     <div id="sec3-6">
-                        <head type="heading3">Pedagoginen polku luonnonilmiöiden havaitsemiseen ja
-                            tulkintaan</head>
+                        <head type="heading3">Pedagoginen polku luonnonilmiöiden havaitsemiseen ja tulkintaan</head>
 
-
-                        <p>Topeliuksen luontokäsityksiä on luonnehdittu toisinaan aikansa
+                        <p rend="noIndent">Topeliuksen luontokäsityksiä on luonnehdittu toisinaan aikansa
                             edustajiksi, toisinaan aikaansa edellä oleviksi ja
                                 edistyksellisiksi.<note id="ftn260" place="foot" n="261"> Ks.
                                 Pihkala 2011, 93.</note> Topeliuksen tuotannossa onkin aineksia
@@ -1928,17 +1920,13 @@
 
 
                 <div id="sec4">
-                    <head type="heading2">IV <hi rend="italics">Luonnonkirjan</hi>
-                        vuosikymmenet</head>
-                    <p type="writer">Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko</p>
-
-
+                    <head type="heading2">IV Luonnonkirjan vuosikymmenet <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko)</hi></head>
 
                     <div id="sec4-1">
                         <head type="heading3">Topeliuksen lukukirja ilmestyy suomeksi</head>
 
 
-                        <p>Keväällä 1860 ilmestyneen <hi rend="italics">Luonnonkirjan</hi>
+                        <p rend="noIndent">Keväällä 1860 ilmestyneen <hi rend="italics">Luonnonkirjan</hi>
                             suomennostyö alkoi jo neljä vuotta aiemmin, helmikuussa 1856, jolloin
                                 <hi rend="italics">Naturens Bok</hi> ei ollut vielä edes ilmestynyt.
                             Topelius pyysi tuolloin teoksen kääntäjäksi Johan Bäckvallia
@@ -2148,11 +2136,9 @@
 
 
                     <div id="sec4-2">
-                        <head type="heading3"><hi rend="italics">Luonnonkirja</hi> – käännösteos
-                            kehittyvällä kirjakielellä</head>
+                        <head type="heading3">Luonnonkirja – käännösteos kehittyvällä kirjakielellä</head>
 
-
-                        <p>1800-luvun puoliväli, jolloin Johan Bäckvall käänsi <hi rend="italics">Naturens Bokin</hi> suomeksi, kuuluu kirjakielemme historiassa
+                        <p rend="noIndent">1800-luvun puoliväli, jolloin Johan Bäckvall käänsi <hi rend="italics">Naturens Bokin</hi> suomeksi, kuuluu kirjakielemme historiassa
                             vanhan kirjasuomen vaihetta seuranneeseen varhaisnykysuomen kauteen,
                             jonka katsotaan alkaneen vuonna 1810 ja päättyneen 1880-luvulle
                             tultaessa. Tällä lyhyellä mutta merkittävällä ajanjaksolla suomen
@@ -2225,11 +2211,10 @@
 
 
                         <div id="sec4-2-1">
-                            <head type="heading4">Johan Bäckvallin suomennoksen kielellisistä
-                                piirteistä</head>
+                            <head type="heading4">Johan Bäckvallin suomennoksen kielellisistä piirteistä</head>
 
 
-                            <p>Vaikka suomen kirjakieli löysi 1840-luvulla nykyisen länsimurteista
+                            <p rend="noIndent">Vaikka suomen kirjakieli löysi 1840-luvulla nykyisen länsimurteista
                                 perinnettä noudattavan perustansa, jota monipuolistamaan otettiin
                                 itäsuomalaista sanastoa,<hi rend="italics"> Luonnonkirjan</hi>
                                 ensipainoksen ilmestymisen aikaan suomenkielisissä teksteissä
@@ -2393,11 +2378,11 @@
 
 
                         <div id="sec4-2-2">
-                            <head type="heading4"><hi rend="italics">Luonnonkirjan</hi>
+                            <head type="heading4">Luonnonkirjan
                                 erikoissanastosta ja Johan Bäckvallin käännösratkaisuista</head>
 
 
-                            <p>Yksi kirjakielen sanaston rikastuttamisen osa-alue varhaisnykysuomen
+                            <p rend="noIndent">Yksi kirjakielen sanaston rikastuttamisen osa-alue varhaisnykysuomen
                                 kaudella koski erikoiskielten sanaston kehittämistä, mikä liittyy
                                     <hi rend="italics">Luonnonkirjankin</hi> suomennostyöhön.
                                 Erikoiskielet ovat ammatti- tai erikoisalan sisällä käytettäviä
@@ -2594,12 +2579,9 @@
 
 
                     <div id="sec4-3">
-                        <head type="heading3"><hi rend="italics">Luonnonkirjan</hi> myöhempiä
-                            laitoksia</head>
+                        <head type="heading3">Luonnonkirjan myöhempiä laitoksia</head>
 
-
-
-                        <p>Suomenkielinen <hi rend="italics">Luonnonkirja</hi> osoittautui
+                        <p rend="noIndent">Suomenkielinen <hi rend="italics">Luonnonkirja</hi> osoittautui
                             menestykseksi ja kestosuosikiksi, jonka suosiosta pystyy kilpailemaan
                             lähinnä vain teoksen jatko-osan suomennos <hi rend="italics">Maamme
                                 kirja</hi>, jonka G. W. Edlund julkaisi ensimmäisen kerran
@@ -2747,16 +2729,13 @@
 
 
                 <div id="sec5">
-                    <head type="heading2">V <hi rend="italics">Luonnonkirjan</hi> digitaalinen
-                        editio</head>
-                    <p type="writer">Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko</p>
+                    <head type="heading2">V Luonnonkirjan digitaalinen editio <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko)</hi></head>
 
                     <div id="sec5-1">
-                        <head type="heading3"><hi rend="italics">Luonnonkirjan</hi> tekstien
-                            toimitusperiaatteet</head>
+                        <head type="heading3">Luonnonkirjan tekstien toimitusperiaatteet</head>
 
 
-                        <p>Digitaaliseen editioon sisältyvä <hi rend="italics">Luonnonkirjan</hi>
+                        <p rend="noIndent">Digitaaliseen editioon sisältyvä <hi rend="italics">Luonnonkirjan</hi>
                             lukuteksti on toimitettu siten, että editio välittää Topeliuksen
                             oppikirjan tekstin siinä tekstiasussa, jossa teoksen ensimmäinen painos
                             julkaistiin opetuskäyttöön vuonna 1860. Tämän niin sanotun
@@ -2820,10 +2799,9 @@
 
 
                         <div id="sec5-1-1">
-                            <head type="heading4"><hi rend="italics">Luonnonkirjaan</hi> tehdyt
-                                toimitukselliset muutokset</head>
+                            <head type="heading4">Luonnonkirjaan tehdyt toimitukselliset muutokset</head>
 
-                            <p><hi rend="italics">Luonnonkirjan</hi> digitaalinen editio pyrkii
+                            <p rend="noIndent"><hi rend="italics">Luonnonkirjan</hi> digitaalinen editio pyrkii
                                 välittämään suomennoksen ensipainoksen tekstin nykylukijalle
                                 alkuperäislähdettä mahdollisimman uskollisesti vastaavassa mutta
                                 helposti luettavassa muodossa. Virheiden tulkinnan ja korjaamisen
@@ -2954,10 +2932,9 @@
 
 
                         <div id="sec5-1-2">
-                            <head type="heading4"><hi rend="italics">Luonnonkirjan</hi> versioiden
-                                väliset erot</head>
+                            <head type="heading4">Luonnonkirjan versioiden väliset erot</head>
 
-                            <p><hi rend="italics">Luonnonkirjan</hi> editioon sisältyvän kahden
+                            <p rend="noIndent"><hi rend="italics">Luonnonkirjan</hi> editioon sisältyvän kahden
                                 suomennoksen (1860 ja 1929) välisiä tekstimuutoksia voi tutkia
                                 digitaalisen edition Versiot-palstalla, jossa osoitetaan muuttuneet
                                 tekstikohdat kahden laitoksen välillä. Kuvaustapoja esitellään
@@ -2967,17 +2944,14 @@
                                 tarkastella digitaalisen edition lukutekstistä (ks. digitaalisen
                                 edition käyttöohjeet, kohta Tekstiin tehdyt muutokset).</p>
                         </div>
-
-
                     </div>
-
 
 
                     <div id="sec5-2">
                         <head type="heading3">Kommentaarien toimitusperiaatteet</head>
 
 
-                        <p><hi rend="italics">Luonnonkirjan</hi> digitaaliseen editioon laadittujen
+                        <p rend="noIndent"><hi rend="italics">Luonnonkirjan</hi> digitaaliseen editioon laadittujen
                             kommentaarien ensisijaisena tarkoituksena on selittää ja taustoittaa <hi rend="italics">Luonnonkirjaa</hi> sen suomennoksen syntyajankohdan
                             eli 1860-luvun lopun aikalaisperspektiivistä.<note id="ftn356" place="foot" n="357"> Reeta Holopainen (2019) on esitellyt
                                 kommentaarien toimitusperiaatteita tiivistetysti myös
@@ -3002,7 +2976,7 @@
                             <head type="heading4">Kommentaarien aiheet</head>
 
 
-                            <p>Henkilöiden ja historiallisten tapahtumien kommentaareissa
+                            <p rend="noIndent">Henkilöiden ja historiallisten tapahtumien kommentaareissa
                                 painotetaan sellaisia perustietoja, jotka tarkentavat muun muassa
                                 asioiden ajallisia yhteyksiä ja jotka siten auttavat lisätietojen
                                 etsimisessä. Siksi henkilökommentaareissa kuvataan useimmiten
@@ -3081,7 +3055,7 @@
                             <head type="heading4">Kommentaarien rakenne</head>
 
 
-                            <p>Lukutekstin kommentoidut kohdat saa näkyviin, kun valitsee
+                            <p rend="noIndent">Lukutekstin kommentoidut kohdat saa näkyviin, kun valitsee
                                 Näkymävaihtoehdot-valikosta ”Kommentit”. Tällöin lukutekstiin
                                 ilmestyvät asteriskit (*) kertovat kommentoidun tekstikohdan
                                 loppukohdan. Kommentaarit voi lukea joko viemällä osoittimen
@@ -3114,7 +3088,7 @@
                                 kommentaariviitteet</head>
 
 
-                            <p>1800-luvun puolivälin kirjakielessä eli varhaisnykysuomessa
+                            <p rend="noIndent">1800-luvun puolivälin kirjakielessä eli varhaisnykysuomessa
                                 luonnontieteen erikoiskielet olivat vasta muotoutumassa ja niiden
                                 erikoissanastot vaihtelivat kiinnostavasti. <hi rend="italics">Sinivuokko</hi>, varhaiskevään karaistunut kukka, tunnettiin
                                 esimerkiksi <hi rend="italics">vilu(-)kukkana</hi><note id="ftn359" place="foot" n="360"> Renvall 1826. Sana
@@ -3320,7 +3294,7 @@
                 <head type="heading2">Lähteet</head>
 
                 <div id="sec5-1">
-                    <head type="heading3">Editioon sisältyvien <hi rend="italics">Luonnonkirjan</hi> ja <hi rend="italics">Naturens Bokin</hi>
+                    <head type="heading3">Editioon sisältyvien Luonnonkirjan ja Naturens Bokin
                         laitokset</head>
                     <p rend="hangingIndent">Topelius, Zacharias (1860) <hi rend="italics">Luonnon-kirja. Ala-alkeiskoulujen tarpeeksi Z. Topeliukselta</hi>.
                         Suomalaisen Kirjallisuuden Seuran Toimituksia 23. Helsinki: SKS.</p>
