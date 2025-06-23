@@ -899,7 +899,9 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 	</xsl:template>
 
 	<xsl:template match="tei:figure">
-		<xsl:apply-templates/>
+		<xsl:if test="@type = 'illustration'">
+			<img class="tei symbol illustration-placeholder" src="assets/images/img_placeholder.svg" alt="kuva" loading="lazy"/>	
+		</xsl:if>
 	</xsl:template>
 
 	<!--
