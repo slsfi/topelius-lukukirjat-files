@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:zte="http://www.topelius.fi">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
 
 	<xsl:include href="inc_common.xsl"/>
 
@@ -125,7 +125,7 @@
 						</xsl:with-param>
 					</xsl:call-template>
 					<xsl:variable name="paragraphNumber">
-						<xsl:number level="any" count="tei:p[not(ancestor::tei:div[@type = 'header']) and not(ancestor::tei:div[@type = 'sources'])] | tei:lg | tei:list | tei:table[not(child::tei:head)] | tei:head[parent::tei:table] | tei:head[ancestor::tei:figure]" from="tei:body"/>
+						<xsl:number level="any" count="tei:p[not(ancestor::tei:div[@type = 'header']) and not(ancestor::tei:div[@type = 'sources'])] | tei:lg | tei:table[not(child::tei:head)] | tei:head[parent::tei:table] | tei:head[ancestor::tei:figure]" from="tei:body"/>
 					</xsl:variable>
 					<span>
 						<xsl:attribute name="class">
@@ -146,7 +146,7 @@
 						</xsl:with-param>
 					</xsl:call-template>
 					<xsl:variable name="paragraphNumber">
-						<xsl:number level="any" count="tei:p[not(ancestor::tei:div[@type = 'header']) and not(ancestor::tei:div[@type = 'sources'])] | tei:lg | tei:list | tei:table[not(child::tei:head)] | tei:head[parent::tei:table] | tei:head[ancestor::tei:figure]" from="tei:body"/>
+						<xsl:number level="any" count="tei:p[not(ancestor::tei:div[@type = 'header']) and not(ancestor::tei:div[@type = 'sources'])] | tei:lg | tei:table[not(child::tei:head)] | tei:head[parent::tei:table] | tei:head[ancestor::tei:figure]" from="tei:body"/>
 					</xsl:variable>
 					<span>
 						<xsl:attribute name="class">
@@ -291,7 +291,7 @@
 			</xsl:attribute>
 			<xsl:if test="count(preceding-sibling::tei:l) &lt; 1">
 				<span class="tei lNumber">
-					<xsl:number level="any" count="tei:p[not(ancestor::tei:div[@type = 'header']) and not(ancestor::tei:div[@type = 'sources'])] | tei:lg | tei:list | tei:table[not(child::tei:head)] | tei:head[parent::tei:table] | tei:head[ancestor::tei:figure]" from="tei:body"/>
+					<xsl:number level="any" count="tei:p[not(ancestor::tei:div[@type = 'header']) and not(ancestor::tei:div[@type = 'sources'])] | tei:lg | tei:table[not(child::tei:head)] | tei:head[parent::tei:table] | tei:head[ancestor::tei:figure]" from="tei:body"/>
 				</span>
 			</xsl:if>
 			<xsl:apply-templates/>
@@ -299,45 +299,17 @@
 	</xsl:template>
 
 	<xsl:template match="tei:item">
-		<xsl:choose>
-			<xsl:when test="parent::tei:list[@rend = 'indent']">
-				<p class="tei item_indented">
-					<xsl:apply-templates/>
-				</p>
-			</xsl:when>
-			<xsl:otherwise>
-				<p class="tei item">
-					<xsl:apply-templates/>
-				</p>
-			</xsl:otherwise>
-		</xsl:choose>
+		<li><xsl:apply-templates/></li>
 	</xsl:template>
 
 	<xsl:template match="tei:list">
-		<div>
-			<xsl:attribute name="class">
-				<xsl:choose>
-					<xsl:when test="@rend = 'indent'">
-						<xsl:text>tei list_indented</xsl:text>
-					</xsl:when>
-					<xsl:otherwise>
-						<xsl:text>tei list</xsl:text>
-					</xsl:otherwise>
-				</xsl:choose>
-			</xsl:attribute>
-			<xsl:variable name="paragraphNumber">
-				<xsl:number level="any" count="tei:p[not(ancestor::tei:div[@type = 'header']) and not(ancestor::tei:div[@type = 'sources'])] | tei:lg | tei:list | tei:table[not(child::tei:head)] | tei:head[parent::tei:table] | tei:head[ancestor::tei:figure]" from="tei:body"/>
-			</xsl:variable>
-			<span>
-				<xsl:attribute name="class">
-					<xsl:text>tei paragraph_number p</xsl:text>
-					<xsl:value-of select="$paragraphNumber"/>
-				</xsl:attribute>
-				<xsl:value-of select="$paragraphNumber"/>
-				<xsl:text> </xsl:text>
-			</span>
-			<xsl:apply-templates/>
-		</div>
+		<xsl:choose>
+			<xsl:when test="@rend = 'bulleted'">
+				<ul class="bullet-list">
+					<xsl:apply-templates/>
+				</ul>
+			</xsl:when>
+		</xsl:choose>
 	</xsl:template>
 
 	<xsl:template match="tei:table">
@@ -355,7 +327,7 @@
 				</xsl:call-template>
 				<xsl:if test="not(child::tei:head)">
 					<xsl:variable name="paragraphNumber">
-						<xsl:number level="any" count="tei:p[not(ancestor::tei:div[@type = 'header']) and not(ancestor::tei:div[@type = 'sources'])] | tei:lg | tei:list | tei:table[not(child::tei:head)] | tei:head[parent::tei:table] | tei:head[ancestor::tei:figure]" from="tei:body"/>
+						<xsl:number level="any" count="tei:p[not(ancestor::tei:div[@type = 'header']) and not(ancestor::tei:div[@type = 'sources'])] | tei:lg | tei:table[not(child::tei:head)] | tei:head[parent::tei:table] | tei:head[ancestor::tei:figure]" from="tei:body"/>
 					</xsl:variable>
 					<caption>
 						<span>
@@ -493,7 +465,7 @@
 			</xsl:when>
 			<xsl:otherwise>
 				<xsl:variable name="paragraphNumber">
-					<xsl:number level="any" count="tei:p[not(ancestor::tei:div[@type = 'header']) and not(ancestor::tei:div[@type = 'sources'])] | tei:lg | tei:list | tei:table[not(child::tei:head)] | tei:head[parent::tei:table] | tei:head[ancestor::tei:figure]" from="tei:body"/>
+					<xsl:number level="any" count="tei:p[not(ancestor::tei:div[@type = 'header']) and not(ancestor::tei:div[@type = 'sources'])] | tei:lg | tei:table[not(child::tei:head)] | tei:head[parent::tei:table] | tei:head[ancestor::tei:figure]" from="tei:body"/>
 				</xsl:variable>
 				<p>
 					<xsl:choose>
