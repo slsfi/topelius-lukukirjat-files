@@ -534,6 +534,10 @@
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
+	
+	<xsl:template match="tei:quote">
+		<blockquote><xsl:apply-templates/></blockquote>
+	</xsl:template>
 
 	<xsl:template match="tei:hi" mode="tooltip">
 		<xsl:call-template name="tei-hi"/>
