@@ -44,12 +44,13 @@
 <head type="heading4"><ref target="#sec5-2-2">Kommentaarien rakenne</ref></head>
 <head type="heading4"><ref target="#sec5-2-3">Luonnontieteellisen erikoissanaston kommentaariviitteet</ref></head><lb/>
 <head type="heading2"><ref target="#sec_intro_notes">Viitteet</ref></head>
-<head type="heading2"><ref target="#sec_sources">Lähteet</ref></head>
+<head type="heading2"><ref target="#sec6">Lähteet</ref></head>
             </div>
             <div type="section" title="introduction" id="sec_intro">
             	<div type="header" id="top">
 					<head type="title">Johdanto</head>
-            		<p type="writer">Reeta Holopainen, Sakari Katajamäki, Ossi Kokko, Kati Mikkola, Allan Tiitta</p>
+            		<p type="writer">Reeta Holopainen, Sakari Katajamäki, Ossi Kokko,
+            			<lb/>Kati Mikkola, Allan Tiitta</p>
 			    </div>
                 <div id="sec1">
                     <head type="heading2">I Johdatusta Topeliuksen <hi rend="italics">Luonnonkirjaan</hi> <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko)</hi></head>
@@ -3288,10 +3289,10 @@
                     <head type="heading2">Viitteet</head>
                 </div>
             </div>
-        	<div type="sources" id="sec5">
+        	<div type="sources" id="sec6">
                 <head type="heading2">Lähteet</head>
 
-                <div id="sec5-1">
+                <div id="sec6-1">
                     <head type="heading3">Editioon sisältyvien Luonnonkirjan ja Naturens Bokin
                         laitokset</head>
                     <p rend="hangingIndent">Topelius, Zacharias (1860) <hi rend="italics">Luonnon-kirja. Ala-alkeiskoulujen tarpeeksi Z. Topeliukselta</hi>.
@@ -3301,7 +3302,7 @@
                     <p rend="hangingIndent">Topelius, Zacharias (1856d) <hi rend="italics">Läsebok för de lägsta lärowerken i Finland. Första kursen. Naturens
                             Bok</hi>. Helsingfors: Förf:s förlag.</p>
                 </div>
-                <div id="sec5-2">
+                <div id="sec6-2">
                     <head type="heading3">Arkistolähteet</head>
                     <p rend="hangingIndent">Kansalliskirjaston käsikirjoituskokoelma (KK).
                         Zacharias Topeliuksen arkisto. Coll. 244.</p>
@@ -3310,7 +3311,7 @@
                     <p rend="hangingIndent">Suomalaisen Kirjallisuuden Seuran arkisto, perinteen
                         ja nykykulttuurin kokoelma (SKS KRA). Samuli Paulaharjun kokoelma.</p>
                 </div>
-                <div id="sec5-3">
+                <div id="sec6-3">
                     <head type="heading3">Muut lähteet</head>
                     <p rend="hangingIndent">Agricola, Mikael (1544) <hi rend="italics">Rucouskiria Bibliasta se on molemista testamentista messuramatusta
                             ja muusta monesta jotca toysella puolella luetellan cokoonpoymettu
