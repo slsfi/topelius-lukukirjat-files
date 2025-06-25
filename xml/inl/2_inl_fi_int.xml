@@ -19,7 +19,7 @@
 <head type="heading3"><ref target="#sec1-1"><hi rend="italics">Maamme kirja</hi> muuttuvana oppikirjaklassikkona</ref></head>
 <head type="heading3"><ref target="#sec1-2">Lukukirjasta digitaaliseksi editioksi</ref></head>
 
-<head type="heading2"><ref target="#sec2">II Maamme kirja ja kirja maastamme</ref> <hi rend="writer">(Mari Hatavara)</hi></head>
+<head type="heading2"><ref target="#sec2">II Maamme kirja ja kirja maastamme</ref> <hi rend="writer">(Mari Hatavara)</hi></head>
 <head type="heading3"><ref target="#sec2-1">Lukukirja kansalaisten kasvatukseen</ref></head>
 <head type="heading3"><ref target="#sec2-2">Kertoja ottaa yleisönsä</ref></head>
 <head type="heading3"><ref target="#sec2-3">Kirjallisuus keskusteluna todellisuudesta</ref></head>
@@ -29,7 +29,7 @@
 <head type="heading3"><ref target="#sec2-7">Painokset vaihtuvat, sanoma pysyy</ref></head>
 <head type="heading3"><ref target="#sec2-8"><hi rend="italics">Maamme kirjan</hi> vastaanotosta</ref></head>
 
-<head type="heading2"><ref target="#sec3">III <hi rend="italics">Maamme kirjan</hi> digitaalinen editio</ref> <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki, Ossi Kokko)</hi></head>
+<head type="heading2"><ref target="#sec3">III <hi rend="italics">Maamme kirjan</hi> digitaalinen editio</ref> <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki, Ossi Kokko)</hi></head>
 <head type="heading3"><ref target="#sec3-1">Editioon valitut <hi rend="italics">Maamme kirjan</hi> laitokset</ref></head>
 <head type="heading3"><ref target="#sec3-2"><hi rend="italics">Maamme kirjan</hi> tekstien toimitusperiaatteet</ref></head>
 <head type="heading4"><ref target="#sec3-2-1"><hi rend="italics">Maamme kirjaan</hi> tehdyt toimitukselliset muutokset</ref></head>
@@ -41,8 +41,8 @@
 <head type="heading4"><ref target="#sec3-4-1">Kommentaarien aiheet</ref></head>
 <head type="heading4"><ref target="#sec3-4-2">Kommentaarien rakenne</ref></head>
 <lb/>
-<head type="heading2"><ref target="#sec_notes">Viitteet</ref></head>
-<head type="heading2"><ref target="#sec_sources">Lähteet</ref></head>
+<head type="heading2"><ref target="#sec-notes">Viitteet</ref></head>
+<head type="heading2"><ref target="#sec-sources">Lähteet</ref></head>
             </div>
             <div type="section" title="introduction" id="sec_intro">
                 <div type="header" id="top">
@@ -51,7 +51,7 @@
                 </div>
                 <div id="sec1">
 			<head type="heading2">I Johdatusta Topeliuksen <hi rend="italics">Maamme kirjaan</hi>
-			    <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki, Ossi Kokko)</hi></head>
+			    <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki, Ossi Kokko)</hi></head>
                     
                 <p rend="noIndent">Zacharias Topeliuksen (1818–1898) <hi rend="italics">Boken om Vårt
                         Land</hi> (1875) ja sen suomennos <hi rend="italics">Maamme kirja </hi>(1876)
@@ -419,7 +419,7 @@
                 </div>
                 
                 <div id="sec2">
-                    <head type="heading2">II Maamme kirja ja kirja maastamme <hi rend="writer">(Mari Hatavara)</hi></head>
+                    <head type="heading2">II Maamme kirja ja kirja maastamme <hi rend="writer">(Mari Hatavara)</hi></head>
                 <div id="sec2-1">
                     <head type="heading3">Lukukirja kansalaisten kasvatukseen</head>
                     <p rend="noIndent">1800-luvun puoliväli, jolloin Zacharias Topelius suunnitteli ja kirjoitti <hi
@@ -2113,7 +2113,7 @@
 
                 <div id="sec3">
                     <head type="heading2">III <hi rend="italics">Maamme kirjan</hi> digitaalinen editio
-                        <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki, Ossi Kokko)</hi></head>
+                        <hi rend="writer">(Reeta Holopainen, Sakari Katajamäki, Ossi Kokko)</hi></head>
                     <div id="sec3-1">
                         <head type="heading3">Editioon valitut <hi rend="italics">Maamme kirjan</hi> laitokset</head>
                         <p rend="noIndent">Zacharias Topeliuksen vuonna 1875 ilmestynyt lukukirja <hi
@@ -2310,24 +2310,26 @@
                         <head type="heading4">Digitaalisen edition säännölliset muutokset</head>
                         <p rend="noIndent">Painoteknisiin seikkoihin liittyviä säännöllisiä muutoksia ei
                             ilmoiteta editoidun tekstin Tekstiin tehdyt muutokset -näkymässä. Tällaisia
-                            muutoksia ovat:</p><lb/>
-                        <p rend="noIndent">▪ alkuperäisteoksen tekstien rivitystä ei ole säilytetty
-                            runosäkeitä lukuun ottamatta</p>
-                        <p rend="noIndent">▪ välimerkkejä edeltävät tyhjät välit on poistettu</p>
-                        <p rend="noIndent">▪ fraktuuran w/W:t on muutettu antiikvan v/V:ksi (lukuun
-                            ottamatta sellaisia erisnimiä, joihin w/W kuuluu)</p>
-                        <p rend="noIndent">▪ antiikvan w/W:t on luettavuuden vuoksi muutettu v/V:ksi
-                            paitsi sellaisissa tapauksia, joissa w/W noudattaa nykykielen käytäntöä </p>
-                        <p rend="noIndent">▪ sanojen sisään tulleet välit (esim. <hi rend="italics">om
-                                enat</hi>) on poistettu</p>
-                        <p rend="noIndent">▪ puolta ilmaisevan merkinnän ulkoasuun on lisätty välilyönti,
-                            mikäli siinä ei ole sellaista ollut (<hi rend="italics">15 ½</hi> vs. <hi
-                                rend="italics">15½</hi>)</p>
-                        <p rend="noIndent">▪ alkuperäisteoksen lihavoinnit on säilytetty ja harvennukset
-                            on korvattu kursiivilla</p>
-                        <p rend="noIndent">▪ tehtäväkysymysten vastauksissa käytetty ylösalainen teksti
-                            on käännetty oikeinpäin, mutta osoitetaan lukutekstissä
-                            kommentaariviitteellä. </p><lb/>
+                            muutoksia ovat:</p>
+                        <list>
+                            <item>alkuperäisteoksen tekstien rivitystä ei ole säilytetty
+                            runosäkeitä lukuun ottamatta</item>
+                            <item>välimerkkejä edeltävät tyhjät välit on poistettu</item>
+                            <item>fraktuuran w/W:t on muutettu antiikvan v/V:ksi (lukuun
+                                ottamatta sellaisia erisnimiä, joihin w/W kuuluu)</item>
+                            <item>antiikvan w/W:t on luettavuuden vuoksi muutettu v/V:ksi
+                                paitsi sellaisissa tapauksia, joissa w/W noudattaa nykykielen käytäntöä </item>
+                            <item>sanojen sisään tulleet välit (esim. <hi rend="italics">om
+                                    enat</hi>) on poistettu</item>
+                            <item>puolta ilmaisevan merkinnän ulkoasuun on lisätty välilyönti,
+                                mikäli siinä ei ole sellaista ollut (<hi rend="italics">15 ½</hi> vs. <hi
+                                    rend="italics">15½</hi>)</item>
+                            <item>alkuperäisteoksen lihavoinnit on säilytetty ja harvennukset
+                                on korvattu kursiivilla</item>
+                            <item>tehtäväkysymysten vastauksissa käytetty ylösalainen teksti
+                                on käännetty oikeinpäin, mutta osoitetaan lukutekstissä
+                                kommentaariviitteellä.</item>
+                        </list>
                         <p rend="noIndent">Nämä säännölliset muutokset koskevat myös editioon valittuja
                                 <hi rend="italics">Maamme kirjan</hi> myöhempiä laitoksia, joiden tekstit
                             muilta osin vastaavat alkuperäistä tekstimuotoa.</p>
@@ -2506,11 +2508,11 @@
                     </div>
                 </div>
 
-                <div id="sec_notes">
+                <div id="sec-notes">
                     <head type="heading2">Viitteet</head>
                 </div>
             </div>
-            <div type="sources" id="sec_sources">
+            <div type="sources" id="sec-sources">
                 <head type="heading2">Lähteet</head>
                 <div> 
                     <head type="heading3">Editioon sisältyvien <hi rend="italics">Maamme kirjan</hi> ja <hi rend="italics">Boken om Vårt Landin</hi> laitokset</head>
