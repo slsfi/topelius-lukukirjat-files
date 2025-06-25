@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Kommentit</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Born digital.</p>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><creation><idNo>22</idNo><idNo type="bookid"/><idNo type="collection">2</idNo><title type="main">Kuudes Luku. Kertomuksia Suomen uudemmasta ajasta</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="notes"/>
+		</body>
+	</text>
+</TEI>
