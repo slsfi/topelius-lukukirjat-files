@@ -1608,9 +1608,6 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					</xsl:otherwise>
 				</xsl:choose>
 			</xsl:attribute>
-			<xsl:attribute name="loading">
-				<xsl:text>lazy</xsl:text>
-			</xsl:attribute>
 		</img>
 	</xsl:template>
 
