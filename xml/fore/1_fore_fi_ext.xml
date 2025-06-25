@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_redtextschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Topeliuksen Luonnonkirjan digitaalisen edition esipuhe</title>
+			</titleStmt>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+			<div type="header" id="top">
+				<head type="title">Esipuhe</head>
+			</div>
+			<div>
+				<p rend="noIndent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam, felis sed laoreet feugiat, odio erat imperdiet magna, at fermentum dui sapien in dui. Nulla at neque volutpat erat efficitur pretium ut vitae mi. Praesent id neque quis orci hendrerit ultrices nec nec turpis. Ut faucibus pellentesque ultricies. Pellentesque vel nisi ut magna sodales placerat. Sed eu libero malesuada, maximus nunc at, volutpat ipsum. Mauris eu ultrices tellus, at ultrices nunc. Duis libero tellus, vehicula vel aliquam quis, accumsan nec purus. Vivamus nunc risus, porta id mauris in, maximus maximus ligula.</p>
+				<p>Nunc placerat in odio non sodales. Vivamus sit amet metus accumsan, interdum est eu, volutpat augue. Nulla posuere pretium nunc, sit amet aliquet justo pulvinar eu. Ut ultricies semper pretium. Nam in tortor scelerisque, malesuada ex eget, mattis dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean varius iaculis justo, ac sagittis erat maximus ut. Donec id nulla turpis.</p>
+				<lb/>
+				<p rend="center"><hi rend="italics">Kirjoittajan nimi</hi></p>
+			</div>
+		</body>
+    </text>
+</TEI>
