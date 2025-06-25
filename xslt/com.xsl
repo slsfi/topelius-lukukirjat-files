@@ -117,7 +117,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					</xsl:when>
 					<xsl:when test="@type = 'notePosition' and contains($notePosition, '–')">
 						<xsl:choose>	
-							<xsl:when test="starts-with($notePosition, 'Viite') or starts-with($notePosition, 'Otsikko') or starts-with($notePosition, 'Päiväys')">
+							<xsl:when test="starts-with($notePosition, 'Viitteessä') or starts-with($notePosition, 'Otsikossa') or starts-with($notePosition, 'Päiväyksessä')">
 								<!-- Remove unwanted characters only from latter part of position -->
 								<xsl:variable name="sTo" select="substring-after($notePosition, '–')"/>
 								<xsl:variable name="sFrom" select="substring-before($notePosition, '–')"/>
@@ -134,7 +134,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					</xsl:when>
 					<xsl:when test="@type = 'notePosition'">
 						<xsl:choose>
-							<xsl:when test="contains($notePosition, 'Viite') or contains($notePosition, 'Otsikko') or contains($notePosition, 'Päiväys')">
+							<xsl:when test="contains($notePosition, 'Viitteessä') or contains($notePosition, 'Otsikossa') or contains($notePosition, 'Päiväyksessä')">
 								<xsl:value-of select="$notePosition"/>
 								<xsl:text> </xsl:text>
 							</xsl:when>
@@ -189,16 +189,16 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 							<xsl:when test="$notePos = 'Datering' or $notePos = 'Fotnot' or $notePos = 'Titel' or $notePos = 'Rubrik'">
 								<xsl:choose>
 									<xsl:when test="$notePos = 'Datering'">
-										<xsl:value-of select="'Päiväys'"/>
+										<xsl:value-of select="'Päiväyksessä'"/>
 									</xsl:when>
 									<xsl:when test="$notePos = 'Fotnot'">
-										<xsl:value-of select="'Viite'"/>
+										<xsl:value-of select="'Viitteessä'"/>
 									</xsl:when>
 									<xsl:when test="$notePos = 'Titel'">
-										<xsl:value-of select="'Otsikko'"/>
+										<xsl:value-of select="'Otsikossa'"/>
 									</xsl:when>
 									<xsl:when test="$notePos = 'Rubrik'">
-										<xsl:value-of select="'Otsikko'"/>
+										<xsl:value-of select="'Otsikossa'"/>
 									</xsl:when>
 									<xsl:otherwise>
 										<xsl:value-of select="$sFrom"/>
@@ -238,16 +238,16 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 							<xsl:when test="$notePos = 'Datering' or $notePos = 'Fotnot' or $notePos = 'Titel' or $notePos = 'Rubrik'">
 								<xsl:choose>
 									<xsl:when test="$notePos = 'Datering'">
-										<xsl:value-of select="'Päiväys'"/>
+										<xsl:value-of select="'Päiväyksessä'"/>
 									</xsl:when>
 									<xsl:when test="$notePos = 'Fotnot'">
-										<xsl:value-of select="'Viite'"/>
+										<xsl:value-of select="'Viitteessä'"/>
 									</xsl:when>
 									<xsl:when test="$notePos = 'Titel'">
-										<xsl:value-of select="'Otsikko'"/>
+										<xsl:value-of select="'Otsikossa'"/>
 									</xsl:when>
 									<xsl:when test="$notePos = 'Rubrik'">
-										<xsl:value-of select="'Otsikko'"/>
+										<xsl:value-of select="'Otsikossa'"/>
 									</xsl:when>
 									<xsl:otherwise>
 										<xsl:value-of select="$notePos"/>
