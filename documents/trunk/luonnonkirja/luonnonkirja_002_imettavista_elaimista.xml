@@ -35,7 +35,7 @@
 					tarkoituksensa, jota varten ne elävät. Jumala ei ole niitä tyhjän vuoksi
 					luonut. Välistä ymmärrämme hänen tarkoituksensa. Välistä on se meille
 					salassa. Uskokaamme aina Jumalan ijankaikkista hyvyyttä.</p>
-					<head style="blackletter"><hi rend="bold">Kuinka kuningas <anchor xml:id="start2564"/>Leijona (Jalopeura)<anchor xml:id="end2564"/> kokosi
+					<head style="blackletter"><anchor id="pos1"/><hi rend="bold">Kuinka kuningas <anchor xml:id="start2564"/>Leijona (Jalopeura)<anchor xml:id="end2564"/> kokosi
 							kansaansa.</hi></head>
 					<p style="blackletter">Olipa kerran kesällä. Leijona, joka on <anchor xml:id="start2565"/>eläinten<anchor xml:id="end2565"/> kuningas, istui
 						hallitus-istuimellansa metsässä. Siinä olivat kaikki eläimet, jotka
@@ -138,7 +138,7 @@
 						Mutta se, joka tarkasti kuuntelee, saapi tietää entistä enemmän.</p>
 				
 				<pb type="orig" n="24"/>
-					<head style="blackletter"><hi rend="bold">Mitä koti-eläimet kertoivat.</hi></head>
+					<head style="blackletter"><anchor id="pos2"/><hi rend="bold">Mitä koti-eläimet kertoivat.</hi></head>
 					<p style="blackletter">Koira murisi leijonalle. Sinä uskollinen koira, mitä sinulla on
 						sanomista? Alinomaa haukut sinä isäntäsi ovella.</p>
 					<p style="blackletter">Koira vastasi. Uskollinen kyllä olen, herra kuningas. Häpeän tuota
@@ -262,7 +262,7 @@
 					<p style="blackletter">Tulipa nyt kova karjumisen meteli metsässä. Arat koti-eläimet pakenivat
 						peljästyneinä ihmisten asuntoihin. Pedot tulivat leijonan istuimen
 						eteen.</p>
-					<head style="blackletter"><hi rend="bold">Mitä pedot kertoivat.</hi></head>
+					<head style="blackletter"><anchor id="pos3"/><hi rend="bold">Mitä pedot kertoivat.</hi></head>
 					<p style="blackletter">Ne tunnustivat leijonalle kaiken julmuutensa. Me elämme enimmästi muiden
 						eläinten lihasta. Jumala on antanut meille terävät kynnet, joilla
 						tartumme saaliisemme. Suussa ovat meillä terävät hampaat, joilla revimme
@@ -355,7 +355,7 @@
 						turmiosta.</p>
 					<p style="blackletter">Leijona ajoi peto-eläimet pois. Niiden perästä tuli vielä muita imettäviä
 						eläimiä, joita kutsutaan:</p>
-					<head style="blackletter"><hi rend="bold"><anchor xml:id="start2641"/>Nävertäjät<anchor xml:id="end2641"/>.</hi></head>
+					<head style="blackletter"><anchor id="pos4"/><hi rend="bold"><anchor xml:id="start2641"/>Nävertäjät<anchor xml:id="end2641"/>.</hi></head>
 					<p style="blackletter">Nämä olivat edellisiä pienemmät. Kaikilla oli kaksi pitkää etuhammasta,
 						joilla he kasvikunnasta nävertävät enimmän ruokansa.</p>
 					<figure type="illustration"><graphic url="luonnonkirja_013.jpg"/><figDesc>Mustavalkoinen piirros oravasta istumassa kannolla, kädessään pähkinä, taustalla katkennut oksa.</figDesc></figure>
@@ -410,7 +410,7 @@
 						maassamme. Rukoile alinomaa Jumalalta suojelusta. Ole hyvä eläimille.
 						Silloin ei vahingoita karhu. Silloin ei pure susi. Silloin juoksevat ne
 						lauhkeat eläimet iloisina vastaasi.</p>
-					<head style="blackletter"><hi rend="bold">Apinat.</hi></head>
+					<head style="blackletter"><anchor id="pos5"/><hi rend="bold">Apinat.</hi></head>
 					<p style="blackletter">Kaksi <choice><orig>poika</orig><reg>poikaa</reg></choice> meni kerran metsään. Toinen pani maahan savi-astian, joka oli
 						rusinoita täynnä. Molemmat pojat, jotka olivat väsyneinä, nukkuivat heti
 						puolipäivän lämpimässä.</p>
@@ -427,7 +427,7 @@
 						tulivat pojat takasi. Mielipä nyt saapasjalkanen apina juosta tiehensä.
 						Mutta saappaat olivat esteenä. Apina kompastui. Apina lankesi. Tulipa
 						sekin kiini matkima-halunsa tähden.</p>
-					<head style="blackletter"><hi rend="bold">Leijona.</hi></head>
+					<head style="blackletter"><anchor id="pos6"/><hi rend="bold">Leijona.</hi></head>
 					<p style="blackletter">Kaukana kuumassa Afrikassa kuuluu öillä leijonan kiljuminen. Silloin
 						vapisevat kaikki elävät, jotka ovat tienoilla. Uskaliaimmatkin koirat
 						<anchor xml:id="start2651"/>hätäyvät<anchor xml:id="end2651"/> silloin ihmisten jalkoihin. Karja ammoo. Hevoset kuopivat
@@ -445,7 +445,7 @@
 						peläten <pb type="orig" n="37"/>metsästäjän katsantoa, aivan hiljoilleen tiehensä.
 						Niin valtavasti koskee ihmisen sula katsanto väkevimpiinkin
 						eläimiin.</p>
-					<head style="blackletter"><hi rend="bold"><anchor xml:id="start2655"/>Kuningas-tiikeri<anchor xml:id="end2655"/>.</hi></head>
+					<head style="blackletter"><anchor id="pos7"/><hi rend="bold"><anchor xml:id="start2655"/>Kuningas-tiikeri<anchor xml:id="end2655"/>.</hi></head>
 					<p style="blackletter">Tämä asuu Aasiassa. Hän on hirmuinen. Hänen silmänsä näyttävät
 						sädehtivän. Hänen kielensä riippuu veri-punasena ulkona kidasta. Hän
 						tavoittaa sukkelimmankin hevosen. Hän juoksee <choice><orig>härkäpuussa</orig><reg>härkä suussa</reg></choice>. Elehvantti
@@ -455,7 +455,7 @@
 						kepillä. Tiikeri pakeni. Eläinten kesyttäjät näyttävät tiikerejä
 						rauta-häkeissä. Ne uskaltavat pistää kätensä niiden kitaan. Niin suuri
 						on ihmisen valta koko luonnon ylitse.</p>
-					<head style="blackletter"><hi rend="bold"><anchor xml:id="start2656"/>Karhu-Pekka<anchor xml:id="end2656"/>.</hi></head>
+					<head style="blackletter"><anchor id="pos8"/><hi rend="bold"><anchor xml:id="start2656"/>Karhu-Pekka<anchor xml:id="end2656"/>.</hi></head>
 					<p style="blackletter">Rovaniemen pitäjäässä asui mies nimeltä Karhu-Pekka. Hän oli tappanut
 						enimmästi yksinään kuusikymmentä karhua. Se on maassamme jo suuri
 						kunnia. Karhu-Pekka haki talvella karhun pesän. Siitä ajavat koirat
@@ -466,7 +466,7 @@
 						tulee iso ilo. Vietetäänpä karhun peijaisia isoilla pidoilla, joissa
 						lauletaan monta runoa karhun kunniaksi.</p>
 					<pb type="orig" n="38"/>
-					<head style="blackletter"><hi rend="bold"><anchor xml:id="start2657"/>Kettu ja kalastaja.</hi></head>
+					<head style="blackletter"><anchor id="pos9"/><hi rend="bold"><anchor xml:id="start2657"/>Kettu ja kalastaja.</hi></head>
 					<p style="blackletter">Olipa kerran ukko. Hän sai eräänä talvipäivänä niin paljon kaloja, kuin
 						mahtui hänen <anchor xml:id="start2658"/>laituriinsa<anchor xml:id="end2658"/>. Hyvin iloisena lähti hän kotiinsa, ajaen isoa
 						kuormaansa. Siinä lauleli hän ilomielin. Mutta mikähän tuo on, joka
@@ -491,7 +491,7 @@
 						kyllä, akkaseni. Kavala kettu on tehnyt minulle aika kolttosen.</p>
 				
 				<pb type="orig" n="39"/>
-					<head style="blackletter"><hi rend="bold">Karhun kalanpyytö.<anchor xml:id="end2657"/></hi></head>
+					<head style="blackletter"><anchor id="pos10"/><hi rend="bold">Karhun kalanpyytö.<anchor xml:id="end2657"/></hi></head>
 					<p style="blackletter">Kettu, joka oli syönyt vatsansa täyteen, istui aivan hyvillä mielin
 						metsän rinteellä. Iso koko kaloja oli vielä hänellä vieressä. Juosta
 						jolkuttelipa karhu metsästä. Hyvää päivää, <anchor xml:id="start2659"/>nepaimeni<anchor xml:id="end2659"/> kettu. —
@@ -530,7 +530,7 @@
 						lukitsematta. Siellä kaatoi hän kirnun. Niin sai hän taas hyvän atrian.
 						Kyllä hänelle onnistuivat ilkeät keinonsa. Mutta siksi kadotti hän
 						kaikki ystävänsä. Ei yksikään uskonut enää koko ilkeää kettua.</p>
-					<head style="romanType"><hi rend="bold"><anchor xml:id="start2662"/>Kaunis varsa.<anchor xml:id="end2662"/></hi></head>
+					<head style="romanType"><anchor id="pos11"/><hi rend="bold"><anchor xml:id="start2662"/>Kaunis varsa.<anchor xml:id="end2662"/></hi></head>
 					<lg>
 						<l style="romanType"><hi rend="italics">On varsin varma juoksemaan,</hi></l>
 						<l style="romanType"><hi rend="italics">Mun varsani vireesti.</hi></l>
@@ -552,7 +552,7 @@
 						<l style="romanType"><hi rend="italics">Sen suuhun pistän suitseni.</hi></l>
 						<l style="romanType"><hi rend="italics">Ajan ilolla matkani.</hi></l>
 					</lg>
-					<head style="romanType"><hi rend="bold"><anchor xml:id="start2663"/>Rakki ja jahtikoira.<anchor xml:id="end2663"/></hi></head>
+					<head style="romanType"><anchor id="pos12"/><hi rend="bold"><anchor xml:id="start2663"/>Rakki ja jahtikoira.<anchor xml:id="end2663"/></hi></head>
 					<figure type="illustration"><graphic url="luonnonkirja_016.jpg"/><figDesc>Puupiirros koirasta, jolla on satula selässään ja apina istumassa satulan päällä jakkaralla, taustalla ikkuna ja puutarha.</figDesc></figure>
 					<lg>
 						<l style="romanType">Rakki: <hi rend="italics">En tule talvella kylmähän,</hi></l>
@@ -572,7 +572,7 @@
 						<l style="romanType"><hi rend="italics">Haukkui siitä jok’ainoan.</hi></l>
 						<l style="romanType"><hi rend="italics">Viimein kuoli lihastahan.</hi></l>
 					</lg>
-					<head style="romanType"><hi rend="bold"><anchor xml:id="start2665"/>Härkä ja poika.<anchor xml:id="end2665"/></hi></head>
+					<head style="romanType"><anchor id="pos13"/><hi rend="bold"><anchor xml:id="start2665"/>Härkä ja poika.<anchor xml:id="end2665"/></hi></head>
 					<lg>
 						<l style="romanType"><hi rend="italics">On lapsia ulkona niityllä.</hi></l>
 						<l style="romanType"><hi rend="italics">On äiti lehmäinsä lypsyllä.</hi></l>
@@ -589,7 +589,7 @@
 						<l style="romanType"><hi rend="italics">On ruohoja ruokana vieressä.</hi></l>
 						<l style="romanType"><hi rend="italics">Ei oo ajatuksia mielessä.</hi></l>
 					</lg>
-					<head style="romanType"><hi rend="bold"><anchor xml:id="start2667"/>Kissa ja tyttönen.<anchor xml:id="end2667"/></hi></head>
+					<head style="romanType"><anchor id="pos14"/><hi rend="bold"><anchor xml:id="start2667"/>Kissa ja tyttönen.<anchor xml:id="end2667"/></hi></head>
 					<figure type="illustration"><graphic url="luonnonkirja_017.jpg"/><figDesc>Kaiverrus: polvillaan istuva tyttö silittää viereensä asettunutta kissaa, taustalla yksinkertainen lattia, mustavalkoinen tyyli.</figDesc></figure>
 					<lg>
 						<l style="romanType">Tyttönen. <hi rend="italics">Kissa, et saa sinä kynsiä.</hi></l>

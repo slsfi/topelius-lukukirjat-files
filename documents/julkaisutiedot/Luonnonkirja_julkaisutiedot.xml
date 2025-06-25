@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_redtextschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Topeliuksen Luonnonkirjan digitaalisen edition julkaisutiedot</title>
+			</titleStmt>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+			<p rend="titleAuthor">Zacharias Topelius</p>
+			<head type="title">Luonnonkirja</head>
+			<head type="subtitle">Digitaalinen editio</head>
+			<lb/>
+			<lb/>
+			<p rend="center">Toimittaneet <lb/>Reeta Holopainen<lb/>Sakari Katajamäki<lb/>Ossi Kokko</p>
+			<lb/>
+			<lb/>
+			<p rend="center">Suomalaisen Kirjallisuuden Seura<lb/>Helsinki 2025</p>
+			<lb/>
+        	<lb/>
+			<p rend="center">© Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko sekä<lb/>Suomalaisen Kirjallisuuden Seura</p>
+			<lb/>
+        	<milestone type="bar"/>
+			<lb/>
+			<table>
+				<head><hi rend="italics">Tekijät</hi></head>
+				<row>
+					<cell>Toimittajat</cell>
+					<cell>Reeta Holopainen<lb/>
+						Sakari Katajamäki<lb/>
+						Ossi Kokko</cell>
+				</row>
+				<row>
+					<cell>Johdanto-osuus</cell>
+					<cell>Reeta Holopainen<lb/>
+						Sakari Katajamäki<lb/>
+						Ossi Kokko<lb/>
+						Kati Mikkola<lb/>
+						Allan Tiitta</cell>
+				</row>
+				<row>
+					<cell>Kommentaarit</cell>
+					<cell>NN</cell>
+				</row>
+				<row>
+					<cell>Lukutekstin toimittaminen</cell>
+					<cell>NN</cell>
+				</row>
+				<row>
+					<cell>Jne.</cell>
+					<cell>NN</cell>
+				</row>
+			</table>
+		</body>
+    </text>
+</TEI>
