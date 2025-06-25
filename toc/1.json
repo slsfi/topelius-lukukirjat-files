@@ -34,11 +34,80 @@
 		{
 			"text": "Toinen Luku. Imettävistä eläimistä",
 			"itemId": "1_2",
-			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"type": "subtitle",
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Kuinka kuningas Leijona (Jalopeura) kokosi kansaansa",
+					"itemId": "1_2;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Mitä koti-eläimet kertoivat",
+					"itemId": "1_2;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Mitä pedot kertoivat",
+					"itemId": "1_2;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Nävertäjät",
+					"itemId": "1_2;pos4",
+					"type": "est"
+				},
+				{
+					"text": "Apinat",
+					"itemId": "1_2;pos5",
+					"type": "est"
+				},
+				{
+					"text": "Leijona",
+					"itemId": "1_2;pos6",
+					"type": "est"
+				},
+				{
+					"text": "Kuningas-tiikeri",
+					"itemId": "1_2;pos7",
+					"type": "est"
+				},
+				{
+					"text": "Karhu-Pekka",
+					"itemId": "1_2;pos8",
+					"type": "est"
+				},
+				{
+					"text": "Kettu ja kalastaja",
+					"itemId": "1_2;pos9",
+					"type": "est"
+				},
+				{
+					"text": "Karhun kalanpyytö",
+					"itemId": "1_2;pos10",
+					"type": "est"
+				},
+				{
+					"text": "Kaunis varsa",
+					"itemId": "1_2;pos11",
+					"type": "est"
+				},
+				{
+					"text": "Rakki ja jahtikoira",
+					"itemId": "1_2;pos12",
+					"type": "est"
+				},
+				{
+					"text": "Härkä ja poika",
+					"itemId": "1_2;pos13",
+					"type": "est"
+				},
+				{
+					"text": "Kissa ja tyttönen",
+					"itemId": "1_2;pos14",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Kolmas Luku. Linnuista",
