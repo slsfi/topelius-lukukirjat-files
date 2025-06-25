@@ -24,12 +24,12 @@
 				</h1>
 			</xsl:when>
 			<xsl:when test="@type = 'subtitle'">
-				<h2>
+				<p>
 					<xsl:attribute name="class">
 						<xsl:text>tei subtitle</xsl:text>
 					</xsl:attribute>
 					<xsl:apply-templates/>
-				</h2>
+				</p>
 			</xsl:when>
 			<xsl:when test="@type = 'collectiontitle'">
 				<p>
