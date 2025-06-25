@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_redtextschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Topeliuksen Maamme kirjan digitaalisen edition julkaisutiedot</title>
+			</titleStmt>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+			<p rend="titleAuthor">Zacharias Topelius</p>
+			<head type="title">Maamme kirja</head>
+			<head type="subtitle">Digitaalinen editio</head>
+			<lb/>
+			<lb/>
+			<p rend="center">Toimittaneet <lb/>Reeta Holopainen<lb/>Sakari Katajamäki<lb/>Ossi Kokko</p>
+			<lb/>
+			<lb/>
+			<p rend="center">Suomalaisen Kirjallisuuden Seura ja<lb/>Svenska litteratursällskapet i Finland<lb/>Helsinki 2018</p>
+			<lb/>
+        	<lb/>
+        	<p rend="center">Skrifter utgivna av Svenska litteratursällskapet i Finland 836</p>
+			<p rend="center">ISSN 2490-1547</p>
+			<lb/>
+        	<lb/>
+			<p rend="center">© Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko sekä Suomalaisen Kirjallisuuden Seura ja Svenska litteratursällskapet i Finland<lb/><hi rend="italics">Maamme kirjan</hi> vuoden 1915 laitosta uudistaneen Otto Mannisen sekä vuoden 1944 laitosta uudistaneiden Pentti Eskolan, Martti Haavion, Eino Jutikkalan, Reino Kalliolan, Jaakko Keräsen, Aarni Penttilän ja Aatos Talvialan oikeudenomistajat</p>
+			<lb/>
+        	<milestone type="bar"/>
+			<lb/>
+			<table>
+				<head><hi rend="italics">Tekijät</hi></head>
+				<row>
+					<cell>Ohjausryhmä</cell>
+					<cell>Jennica Thylin-Klaus (puheenjohtaja)<lb/>
+						Jonas Lång (puheenjohtaja, alkuvuosi 2017)<lb/>
+						Liisa Hakamies-Blomqvist (puheenjohtaja, 2016)<lb/>
+						Tuomas M. S. Lehtonen<lb/>
+						Kati Mikkola<lb/>
+						Märtha Norrback<lb/>
+						Karola Söderman
+					</cell>
+				</row>
+				<row>
+					<cell>Suunnittelutyöryhmä</cell>
+					<cell>Märtha Norrback (projektipäällikkö)<lb/>
+						Reeta Holopainen<lb/>
+						Sakari Katajamäki<lb/>
+						Ossi Kokko<lb/>
+						Anna Movall<lb/>
+						Magnus Nylund
+					</cell>
+				</row>
+				<row>
+					<cell>Toimittajat</cell>
+					<cell>Reeta Holopainen<lb/>
+						Sakari Katajamäki<lb/>
+						Ossi Kokko
+					</cell>
+				</row>
+				<row>
+					<cell>Johdanto-osuus</cell>
+					<cell>Mari Hatavara<lb/>
+						Reeta Holopainen<lb/>
+						Sakari Katajamäki<lb/>
+						Ossi Kokko
+					</cell>
+				</row>
+				<row>
+					<cell>Kommentaarit</cell>
+					<cell>Reeta Holopainen<lb/>
+						Sakari Katajamäki<lb/>
+						Ossi Kokko
+					</cell>
+				</row>
+				<row>
+					<cell>Lukutekstin toimittaminen</cell>
+					<cell>Reeta Holopainen<lb/>
+						Ossi Kokko
+					</cell>
+				</row>
+				<row>
+					<cell>Koodaus ja kollaatio</cell>
+					<cell>Reeta Holopainen<lb/>
+						Anna Movall
+					</cell>
+				</row>
+				<row>
+					<cell>Skannaus ja kuvankäsittely</cell>
+					<cell>Reeta Holopainen<lb/>
+						Tuuli Toivola<lb/>
+						Tove Ørsted
+					</cell>
+				</row>
+				<row>
+					<cell>OCR-käsittely</cell>
+					<cell>GREPECT GmbH</cell>
+				</row>
+				<row>
+					<cell>Tekninen toteutus</cell>
+					<cell>Niklas Liljestrand<lb/>
+						Anna Movall<lb/>
+						Johan Kylander
+					</cell>
+				</row>
+				<row>
+					<cell>Graafinen suunnittelu</cell>
+					<cell>Antti Pokela</cell>
+				</row>
+			</table>
+		</body>
+    </text>
+</TEI>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_redtextschema.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Topeliuksen Maamme kirjan digitaalisen edition esipuhe</title>
+			</titleStmt>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+			<div type="header" id="top">
+				<head type="title">Esipuhe</head>
+			</div>
+			<div>
+				<p rend="noIndent">Vuoden 2016 alussa Svenska litteratursällskapet i Finlandin (SLS) hallituksen silloinen varapuheenjohtaja Henrik Meinander sekä Suomalaisen Kirjallisuuden Seuran (SKS) pääsihteeri Tuomas M. S. Lehtonen ehdottivat, että seurat julkaisisivat yhteistyönä Zacharias Topeliuksen (1818−1898) <hi rend="italics">Maamme kirjasta</hi> digitaalisen edition Topeliuksen 200-vuotisjuhlavuoden kunniaksi. Idean taustalla vaikuttivat yhtäältä SLS:n vuonna 2005 perustama hanke Zacharias Topelius Skrifter, jossa kirjailijan alkuperäistuotannosta julkaistaan digitaalisia ja painettuja tekstikriittisiä editioita, sekä toisaalta SKS:n samana vuonna alkunsa saanut yksikkö Edith – suomalaisen kirjallisuuden kriittiset editiot.</p>
+				<p>Topeliuksen <hi rend="italics">Boken om Vårt Land</hi> ilmestyi 1875 ja oli tarkoitettu oppikoulujen valmistavien luokkien lukukirjaksi. Topeliuksen aiemmin julkaistu <hi rend="italics">Naturens Bok</hi> (1856) oli suunnattu kansakoulun alimmille luokille. <hi rend="italics">Boken om Vårt Landista</hi> otettiin kaksikymmentä painosta vuosina 1875−1942. Kirja ilmestyi suomeksi vuonna 1876, mutta käännöstä uudistettiin ensimmäisen kerran jo parin vuoden päästä. Sen jälkeen kirjasta on julkaistu suomeksi yli viisikymmentä painosta, ja sitä käytettiin kouluissa aina 1950-luvulle asti. <hi rend="italics">Maamme kirja</hi> on vaikuttanut merkittävästi suomalaisten omakuvaan, itseymmärrykseen sekä yhteisen kansallisen historiakäsityksen muodostumiseen.</p>
+				<p>Elinaikanaan Topelius päivitti itse lukukirjansa ruotsinkielisiä versioita. Hänen kuolemansa jälkeen päivittämistä jatkettiin vaihtelevan tiheästi ja erilaisin pyrkimyksin. Ruotsinkielinen tekstikriittinen julkaisuhanke Zacharias Topelius Skrifter (<xref type="ext" target="https://topelius.sls.fi/">topelius.sls.fi</xref>) sisältää kaikki Topeliuksen elinaikana julkaistut <hi rend="italics">Boken om Vårt Landin</hi> painokset. Se tarjoaa mahdollisuuden vertailla painoksia keskenään ja tutkia, miten Topelius muutti eri laitoksia.</p>
+				<p><hi rend="italics">Maamme kirjan</hi> digitaalisen edition tarkoitus on antaa käsitys suomennetun ja moneen kertaan uudistetun lukukirjan kehityksestä koko teoksen käyttöajalta. Koska kaikkien suomenkielisten painosten samanaikainen vertailu ei ole mahdollista, editioon on valittu kolme edustavaa laitosta Suomen historian eri vaiheilta, vuosilta 1878, 1915 ja 1944.</p>
+				<p>Edition ovat toimittaneet Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko. Holopainen on työskennellyt SLS:ssa hankkeeseen rekrytoituna toimittajana päätoimisesti elokuusta 2016 ja sivutoimisesti kesäkuusta 2017 alkaen. Katajamäki ja Kokko ovat toimineet hankkeessa sivutoimisesti maaliskuusta 2016 alkaen. Holopaisen ohella tekstejä on koodannut ja kollatoinut Anna Movall. <hi rend="italics">Maamme kirjan</hi> editioon sisältyvä ruotsinkielisen ensipainoksen mukainen teksti pohjautuu <hi rend="italics">Naturens Bok och Boken om Vårt Land</hi> -edition (SLS 2017) aineistoihin.</p>
+				<p>Topeliuksen teosta taustoittavat ja selittävät kommentaariviitteet on laadittu edition toimittajien yhteistyönä. Henkilöitä ja historiallisia tapahtumia, Topeliuksen toimintaa ja hänen tuotantonsa sisäisiä suhteita sekä <hi rend="italics">Maamme kirjan</hi> pohjatekstejä kartoittavien selitysten osalta kommentaarit pohjautuvat suurelta osin Magnus Nylundin ja Pia Forssellin tekemiin <hi rend="italics">Naturens Bok och Boken om Vårt Land</hi> -edition kommentaareihin sekä Zacharias Topelius Skrifter -hankkeen henkilötietokantaan. Kommentaareissa olevat teosten suomennoshistoriaa koskevat selitykset on laatinut Reeta Holopainen ja sananselitykset Ossi Kokko. Edition johdanto-osuuden artikkelin ”Maamme kirja ja kirja maastamme” on kirjoittanut tilaustyönä professori Mari Hatavara.</p>
+				<p>Hankkeen toimintaa on valvonut molempien seurojen edustajista koostunut ohjausryhmä, ja hankkeen projektipäällikkönä on toiminut Märtha Norrback. Edition toimitusperiaatteet, johdanto-osuuden sekä kommentaariviitteet on vertaisarvioinut kaksi SLS:n asettamaa tarkastajaa. SLS:n ja SKS:n oman rahoituksen ohella hanketta on taloudellisesti tukenut Ella ja Georg Ehrnroothin säätiö.</p>
+				<lb/>
+				<p rend="noIndent">Märtha Norrback, SLS, editiohankkeen projektipäällikkö<lb/><lb/>Reeta Holopainen, Sakari Katajamäki ja Ossi Kokko, edition toimittajat</p>
+			</div>
+		</body>
+    </text>
+</TEI>

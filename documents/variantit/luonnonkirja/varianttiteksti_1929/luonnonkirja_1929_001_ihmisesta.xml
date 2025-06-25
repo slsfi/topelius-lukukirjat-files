@@ -106,7 +106,7 @@
                 <app id="var60" type="sub"><rdg>puhutaan?</rdg></app> Siinä puhutaan ihmisen ruumiista. Siinä puhutaan 
                 <app id="var61" type="sub"><rdg>ihmisen</rdg></app> sielusta. Siinä puhutaan 
                 <app id="var62" type="sub"><rdg>ihmisen</rdg></app> aistimista.</p>
-            <head><hi rend="bold">Kuinka </hi>
+            <head style="blackletter"><hi rend="bold">Kuinka </hi>
                 <app id="var63" type="sub"><rdg><hi rend="bold">Dion</hi></rdg></app><hi rend="bold"> yritti </hi>
                 <app id="var64" type="sub"><rdg><hi rend="bold">luoda</hi></rdg></app><hi rend="bold"> ihmistä.</hi></head>
             <p style="blackletter">Olipa kerran mies. 
@@ -319,7 +319,7 @@
             <p style="blackletter">Nyt loppui 
                 <app id="var231" type="sub"><rdg>kertomus Dionista.</rdg></app> Nyt tulee toinen kertomus. Mistä siinä puhutaan? Siinä puhutaan
                 ihmisen opista.</p>
-            <head><hi rend="bold">Kasper ei saanut oppia mitään.</hi></head>
+            <head style="blackletter"><hi rend="bold">Kasper ei saanut oppia mitään.</hi></head>
             <p style="blackletter">Olipa kerran kuningas. Hän 
                 <app id="var232" type="sub"><rdg>käveli</rdg></app> muutamana päivänä 
                 <app id="var233" type="sub"><rdg>metsässä.</rdg></app> Siellä oli muurahaispesä. 
