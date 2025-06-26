@@ -238,7 +238,7 @@
 					ja koko pohjoiselle enemmän valoa kuin pimeää. Juuri sekin aika, jona on
 					pimeys, paistaa yön kuuvalo ja ilman <anchor xml:id="start3850"/>revontulet<anchor xml:id="end3850"/> ja lumen kuumotus, niin että
 					se pitkä talvi kuluu hiljalleen loppuun asti, kevättä odottaessa.</p>
-					<head style="romanType"><hi rend="bold"><hi rend="expanded">Kuusta.</hi></hi></head>
+					<head style="romanType"><anchor id="pos1"/><hi rend="bold"><hi rend="expanded">Kuusta.</hi></hi></head>
 					<p style="romanType">Jumala on antanut meille kauniin lyhdyn yöksi tuonne taivaalle, ja se on
 						kuu. Mikä on kuu? Se on suuri pallo, joka alinomaa vierii maan ympäri.
 						Miksikä tekee se niin? Siksi että maa on viittäkymmentä kertaa suurempi,
@@ -322,8 +322,7 @@
 						tulla maasta kuuhun. Ja siksi ei tiedä kukaan, jos ihmisiä on kuussa, ja
 						minkälaiset paikat siellä ovat. Se ainoasti tiedetään, että siellä on
 						hyvin korkeita vuoria, mutta tuskin ilmaa ja ei ollenkaan vettä.</p>
-					<head style="romanType"><hi rend="bold"><hi rend="expanded">Auringosta ja
-						tähdeistä.</hi></hi></head>
+					<head style="romanType"><anchor id="pos2"/><hi rend="bold"><hi rend="expanded">Auringosta ja tähdeistä.</hi></hi></head>
 					<p style="romanType">Maa vierii akselinsa ympäri lännestä itään päin, ja siksi näyttää se,
 						kuin aurinko kulkisi idästä länteen. Ei aurinko ole siksi yhdessä kohti;
 						kyllä se kulkee pitkää tietään eteenpäin mailmassa ympäri vielä
@@ -461,7 +460,7 @@
 						yksinäsi, Herra, et katoa; sinä pysyt ijankaikkisesti, niinkuin sinä
 						olet: pyhä, kaikkivaltias, kaikkiviisas ja kaikki-hyvä. Korkiasti
 						ylistetty olkoon sinun pyhä nimesi nyt ja ainiaan! Amen.</p>
-					<head style="romanType"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3879"/>Vuoden ajat.<anchor xml:id="end3879"/></hi></hi></head>
+					<head style="romanType"><anchor id="pos3"/><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3879"/>Vuoden ajat.<anchor xml:id="end3879"/></hi></hi></head>
 					<lg>
 						<l style="romanType"><hi rend="expanded">Keväimen</hi> toi Jumala,</l>
 						<l style="romanType">Lumen vei lämpimä,</l>
@@ -513,7 +512,7 @@
 						<l style="romanType">Elomme on hupaista,</l>
 						<l style="romanType">Kun häntä kiitämme.</l>
 					</lg>
-					<head style="romanType"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3880"/>Taivahan tähdet.<anchor xml:id="end3880"/></hi></hi></head>
+					<head style="romanType"><anchor id="pos4"/><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3880"/>Taivahan tähdet.<anchor xml:id="end3880"/></hi></hi></head>
 					<lg>
 						<l style="romanType"><anchor xml:id="start3881"/>Te maahamme loistavat liemut,</l>
 						<l style="romanType">Taas näytätte taivahan riemut,</l>

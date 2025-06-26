@@ -146,8 +146,7 @@
 					<choice><orig>ihmettetemme</orig><reg>ihmettelemme</reg></choice> tätä ihanaa maata, niin ei tämä kuitenkaan ole sielumme oikea
 					ja ijankaikkinen koti. Se on korkeampi: se on Jumalan kaikkivaltiaan tykönä
 					taivaan korkeudessa.</p>
-					<head style="romanType"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3496"/>Fingalin<anchor xml:id="end3496"/>
-						luolasta.</hi></hi></head>
+					<head style="romanType"><anchor id="pos1"/><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3496"/>Fingalin<anchor xml:id="end3496"/> luolasta.</hi></hi></head>
 					<p style="romanType"><anchor xml:id="start3497"/>Staffa’n saarella<anchor xml:id="end3497"/> Skotlannin maassa on mainio luola, jossa sadut sanovat
 						sen jalon uroon Fingalin asuneen. Siihen soudetaan veneellä merestä,
 						jonka vesi huuhtoo luolan sisustaa. Siellä luulee olevansa kauniissa
@@ -157,8 +156,7 @@
 						soitto. Se kuuluu niin kummalliselta, kun tuuli kulkee patsasten väliä,
 						ja luulisipa kuulevansa muinais-aikain ihmisten äänejä, jotka luolassa
 						etsivät suojaa raju-ilmalta.</p>
-					<head style="romanType"><hi rend="bold"><hi rend="expanded">Maan erinäisestä
-							muodosta.</hi></hi></head>
+					<head style="romanType"><anchor id="pos2"/><hi rend="bold"><hi rend="expanded">Maan erinäisestä muodosta.</hi></hi></head>
 					<p style="romanType">Limingossa Pohjanmaalla on niin suuri lakeus aivan niitty-maata, ettei
 						oikein voi nähdä yhdestä päästä toiseen. Isossa Kyrössä on yhtä iso
 						lakeus pelkkää peltoa. Siksi onkin näistä vanhastaan sanottu:</p>
@@ -201,7 +199,7 @@
 						kukkuloita ja <anchor xml:id="start3511"/>alangoita<anchor xml:id="end3511"/>, että luulee näkevänsä kyrsän kyrsän vieressä,
 						ladottuna maan suurelle pöydälle, jonka Jumala on valmistanut
 						ihmiselle.</p>
-					<head style="romanType"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3512"/>Maamme.<anchor xml:id="end3512"/></hi></hi></head>
+					<head style="romanType"><anchor id="pos3"/><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3512"/>Maamme.<anchor xml:id="end3512"/></hi></hi></head>
 					<lg>
 						<l style="romanType">Soi kallis maamme, Suomenmaa!</l>
 						<l style="romanType">Soi kauvas kuulumaan!</l>
@@ -251,7 +249,7 @@
 						<l style="romanType">Ois’ Suomehemme suotuisaan</l>
 						<l style="romanType">Halumme kulkemaan!</l>
 					</lg>
-					<head style="romanType"><hi rend="bold"><hi rend="expanded">Vuori ja lakso.</hi></hi></head>
+					<head style="romanType"><anchor id="pos4"/><hi rend="bold"><hi rend="expanded">Vuori ja lakso.</hi></hi></head>
 					<lg>
 						<l style="romanType">Se vahva vuori lausui: min’ oon tukena maan,</l>
 						<l style="romanType">Minusta virta hyökyy, ja myrskyt vastustan.</l>

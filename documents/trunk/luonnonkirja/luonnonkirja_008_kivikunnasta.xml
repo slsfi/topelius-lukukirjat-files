@@ -257,7 +257,7 @@
 					on Jumala jokapaikassa, ja jokapaikassa näkee ihminen hänen äärettömän
 					kaikkivaltansa jälkiä.</p>
 				<pb type="orig" n="119"/>
-					<head style="blackletter"><hi rend="bold">Kullasta ja hopeasta.</hi></head>
+					<head style="blackletter"><anchor id="pos1"/><hi rend="bold">Kullasta ja hopeasta.</hi></head>
 					<p style="blackletter">Kulta, jota ihmiset niin paljon haluavat, tulee tänne Venäjältä ja
 						Amerikasta. Välistä löydetään sitä puhtaana. Brasiliassa löydettiin
 						kerran kultakappale, joka painoi 128 (sata kahdeksankolmatta) leiviskää.
@@ -282,7 +282,7 @@
 						pahalla ahneudella on niin usein valtaa syntisen ihmisen sydämessä.</p>
 				
 				<pb type="orig" n="120"/>
-					<head style="blackletter"><hi rend="bold">Kaivannoista.</hi></head>
+					<head style="blackletter"><anchor id="pos2"/><hi rend="bold">Kaivannoista.</hi></head>
 					<p style="blackletter">Kun laskeupi alas syviin kaivantoihin ja näkee kaivantoväen liikkuvan
 						tulisoittoineen, tuleepa ajattelemaan satuissa mainittavia
 						lintukotolaisia, jotka takoivat kultaansa maan sisuksissa. Välistä
@@ -305,7 +305,7 @@
 						päälle. Ja sitte käypi niinkin, että vasta monien vuotten perästä
 						löydetään niiden ruumiit muuttumattomina. Sillä suola on tunkeunut
 						niiden läpitse ja varjellut niitä mätänemästä.</p>
-					<head style="blackletter"><hi rend="bold">Kivettymisistä.</hi></head>
+					<head style="blackletter"><anchor id="pos3"/><hi rend="bold">Kivettymisistä.</hi></head>
 					<p style="blackletter">Usein polemma me, kävellessämme maalla, jäänöksiä muinais-ajan kasvuista
 						ja elävistä. Niitä <pb type="orig" n="121"/>löytyy suuria vuoria, jotka ovat
 						<anchor xml:id="start3435"/>simpukkain<anchor xml:id="end3435"/> kuorista; koko se suuri Berlinin kaupunki on rakennettu
@@ -325,7 +325,7 @@
 						ylös, näenpä kummallista. Kukkaan ja lehtiin yleensä on tullut kova
 						kuori, joka on kokounut vedestä, ja koko kukka näyttää kuin olisi
 						leikattu ruskeasta kivestä.</p>
-					<head style="blackletter"><hi rend="bold">Kaikellaisista aineista.</hi></head>
+					<head style="blackletter"><anchor id="pos4"/><hi rend="bold">Kaikellaisista aineista.</hi></head>
 					<p style="blackletter">Kauvan sitte tuli eräs laiva haaksirikkoon <anchor xml:id="start3439"/>luotoja<anchor xml:id="end3439"/> vastaan meressä, ja
 						töin tuskin pelastivat merimiehet itsensä veneillä märkinä ja
 						kontettuneina tekivät he rannalle ison valkean kuivatakseen ja
@@ -364,7 +364,7 @@
 						mikään taito tehnyt niin paljo pahaa mailmassa. Ennemmin panemme <hi rend="expanded">olutta</hi> ja <hi rend="expanded">sahtia</hi>
 						maltaista, jotka ensin keitetään vierteeksi, ja se sitte käytetään. <hi rend="expanded">Simaa</hi> (mesijuomaa) valmistetaan hunajasta ja
 						vedestä kryytein kanssa.</p>
-					<head style="romanType"><hi rend="bold"><anchor xml:id="start3455"/>Orijärven kuparikaivanto.<anchor xml:id="end3455"/></hi></head>
+					<head style="romanType"><anchor id="pos5"/><hi rend="bold"><anchor xml:id="start3455"/>Orijärven kuparikaivanto.<anchor xml:id="end3455"/></hi></head>
 					<lg>
 						<l style="romanType"><hi rend="italics">Minä kuulin ukkosen <anchor xml:id="start3456"/>panevan maassa<anchor xml:id="end3456"/></hi></l>
 						<l style="romanType"><hi rend="italics">Ja tunsin sen tärinän allani,</hi></l>
@@ -390,7 +390,7 @@
 						<l style="romanType"><hi rend="italics">Kun valmistit, ja uudet miettimäsi myös.</hi></l>
 					</lg> 
 				<pb type="orig" n="124"/>
-					<head style="romanType"><hi rend="bold"><anchor xml:id="start3457"/>Timantti.<anchor xml:id="end3457"/></hi></head>
+					<head style="romanType"><anchor id="pos6"/><hi rend="bold"><anchor xml:id="start3457"/>Timantti.<anchor xml:id="end3457"/></hi></head>
 					<lg>
 						<l style="romanType"><hi rend="italics">Arabiassa kaukana</hi></l>
 						<l style="romanType"><hi rend="italics">Asui se Amru vanha.</hi></l>
