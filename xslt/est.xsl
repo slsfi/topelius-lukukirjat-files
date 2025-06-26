@@ -1597,6 +1597,9 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					<xsl:text> align_figure_</xsl:text>
 					<xsl:value-of select="@rend"/>
 				</xsl:if>
+				<xsl:if test="not(parent::tei:p)">
+					<xsl:text> unfloat</xsl:text>
+				</xsl:if>
 			</xsl:attribute>
 			<xsl:attribute name="alt">
 				<xsl:choose>
