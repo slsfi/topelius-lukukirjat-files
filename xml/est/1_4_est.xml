@@ -133,7 +133,7 @@
 					vainon Aadamin suvun ja käärmeen suvun välille. Hyvin surullista on se
 					meille. Mutta meillekki on rauha tuleva, kun aika on päättynyt.</p>
 				<pb type="orig" n="63"/>
-					<head style="blackletter" xml:id="h2"><hi rend="bold"><anchor xml:id="start2814"/>Sitkeä-henkisiä eläviä<anchor xml:id="end2814"/>.</hi></head>
+					<head style="blackletter" xml:id="h2"><anchor id="pos1"/><hi rend="bold"><anchor xml:id="start2814"/>Sitkeä-henkisiä eläviä<anchor xml:id="end2814"/>.</hi></head>
 					<p style="blackletter" xml:id="p14">Näin kerran kukkoraukan, jolta köökkipiika löi pään poikki, kun se piti
 						paistettaa murkinaksi. Päätöinnä lenti se aidan viereen ja istui siinä,
 						siksi-kuin kuoli. Kilpi-konnakin mataa vielä hetken aikaa, pään
@@ -146,7 +146,7 @@
 						alkoivat iloisesti hypellä; mutta hetken perästä kuolivat kaikki kolme.<anchor xml:id="end2815"/>
 						Sellaiset elävät saattavat myös olla kauvan ruuatta. Ison käärmeen on
 						nähty olevan ruuatta kaksi kuukautta, laihtumatta eli kuolematta.</p>
-					<head style="blackletter" xml:id="h3"><hi rend="bold">Käärmeet.</hi></head>
+					<head style="blackletter" xml:id="h3"><anchor id="pos2"/><hi rend="bold">Käärmeet.</hi></head>
 					<p style="blackletter" xml:id="p15">Eräs maanmies Amerikassa astui kalisevan käärmeen päälle, joka samassa
 						pisti häntä <choice><orig>saappaascn</orig><reg>saappaasen</reg></choice>. Mies ei <anchor xml:id="start2816"/>pitänyt tästä vaaria<anchor xml:id="end2816"/>, kun sen renki löi
 						käärmeen kuoliaaksi. Mutta hetken perästä alkoi pistetty jalka ajettua
@@ -164,7 +164,7 @@
 						voivat ottaa ne käteensä ja kääriä ne kaulansa ympärille. On tapana
 						täyttää kuolleen käärmeen nahan, juuri kuin imettävän eläinten ja
 						lintuin nahkoja täytetään, niin että ne ovat eläväin näköisiä.</p>
-					<head style="blackletter" xml:id="h4"><hi rend="bold">Lohikäärme ja Salamanderi.</hi></head>
+					<head style="blackletter" xml:id="h4"><anchor id="pos3"/><hi rend="bold">Lohikäärme ja Salamanderi.</hi></head>
 					<p style="blackletter" xml:id="p17">Sadut kertovat paljo asioita, joita ei enää olekkaan mailmassa. Suuret
 						siivelliset lohikäärmeet vahtasivat kätketyitä tavaroita ja söivät
 						kauniita prinsessoja. Tulessa asui kaunis salamanderi, joka kantoi
@@ -174,7 +174,7 @@
 						kirjava sisilisko, joka on tuskin korttelia pitkä. Tämä on <anchor xml:id="start2819"/>salamanderi<anchor xml:id="end2819"/>.
 						Ei sillä ole enää kultakruunua päässä. Ja tuleen pudottua kuolee se
 						niinkuin muutkin elävät. Paha on, kun niin on; mutta niin se on.</p>
-					<head style="blackletter" xml:id="h5"><hi rend="bold"><anchor xml:id="start2820"/>Sammakko.<anchor xml:id="end2820"/></hi></head>
+					<head style="blackletter" xml:id="h5"><anchor id="pos4"/><hi rend="bold"><anchor xml:id="start2820"/>Sammakko.<anchor xml:id="end2820"/></hi></head>
 					<lg xml:id="lg18">
 						<l style="blackletter">Sonnin sammakko <anchor xml:id="start2821"/>havahti<anchor xml:id="end2821"/>.</l>
 						<l style="blackletter">Polttipa kateus poloista.</l>

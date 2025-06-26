@@ -245,7 +245,7 @@
 					sillä siellä on pimeys ja kylmyys, ja siellä sielumme paleltuu kuoleman
 					varjossa. Mutta sinun tykönäsi on armo ja ijankaikkinen kirkkaus, ja
 					valkeudessasi on meillä valkeus.</p>
-					<head style="romanType" xml:id="h3"><hi rend="bold"><anchor xml:id="start3769"/>Magneetista<anchor xml:id="end3769"/> ja <anchor xml:id="start3770"/>kompassista<anchor xml:id="end3770"/>.</hi></head>
+					<head style="romanType" xml:id="h3"><anchor id="pos1"/><hi rend="bold"><anchor xml:id="start3769"/>Magneetista<anchor xml:id="end3769"/> ja <anchor xml:id="start3770"/>kompassista<anchor xml:id="end3770"/>.</hi></head>
 					<p style="romanType" xml:id="p21">Näjinpä kerran teräspalaisen, joka oli hevoisen kengän mukainen, ja sen
 						pienemmässä haarassa riippui rauta<pb type="orig" n="183"/>kappale kiini, eikä
 						näkynyt mitään, joka olisi sitä siinä pitänyt. Miten se voi käydä
@@ -275,7 +275,7 @@
 						se salainen voima on, jota kutsutaan <hi rend="expanded"><anchor xml:id="start3773"/>magneeti-voimaksi<anchor xml:id="end3773"/>,</hi> sitä ei voi kukaan oikein selittää. Se on
 						kuuluva niihin näkymättömiin mailman voimiin, joita jo olemme tulleet
 						tuntemaan <anchor xml:id="start3774"/>sähkönä eli liekkeenä<anchor xml:id="end3774"/>, valona ja lämminnä.</p>
-					<head style="romanType" xml:id="h4"><hi rend="bold"><anchor xml:id="start3775"/>Revontulista<anchor xml:id="end3775"/>.</hi></head>
+					<head style="romanType" xml:id="h4"><anchor id="pos2"/><hi rend="bold"><anchor xml:id="start3775"/>Revontulista<anchor xml:id="end3775"/>.</hi></head>
 					<p style="romanType" xml:id="p24">Syys- eli talvi-illalla, kun on kylmä, näemme taivaan vaalenevan
 						pohjoisessa leimuavasta valosta, joka alinomaa muuttuu. Välistä
 						leimahtelee se säteinä, välistä palaa se suurina kaarina; välistä on se
@@ -285,7 +285,7 @@
 						oikein tietää. Sen luullaan olevan sähkö- eli lieke-valoa, joka loistaa
 						korkealla ilmassa.<anchor xml:id="end3776"/> Ja revontulien palaessa tulee aina magneeti-neula
 						levottomaksi.</p>
-					<head style="romanType" xml:id="h5"><hi rend="bold"><anchor xml:id="start3777"/>Kiikarista eli pitkäsilmästä<anchor xml:id="end3777"/>.</hi></head>
+					<head style="romanType" xml:id="h5"><anchor id="pos3"/><hi rend="bold"><anchor xml:id="start3777"/>Kiikarista eli pitkäsilmästä<anchor xml:id="end3777"/>.</hi></head>
 					<p style="romanType" xml:id="p25">Suurennuslasilla näen pienimmätkin kappaleet paljoa suurempina, kuin ne
 						oikeastaan ovatkaan. Sillä katsoen on <anchor xml:id="start3778"/>kirppu<anchor xml:id="end3778"/> <anchor xml:id="start3779"/>rotan<anchor xml:id="end3779"/> kokoinen, ja
 						vesiherneessä näen mahdottoman paljo pieniä eläviä, joita en voi
@@ -298,7 +298,7 @@
 						kiikarin ja ojennan sen illalla kuuta kohti. Kuupa näyttää kummalliselta
 						ja vaunun-rattaan kokoiselta. Eli jos katson sillä tähtejä, näenpä monta
 						tähteä, joita en ennen paljain silmin nähnyt.</p>
-					<head style="romanType" xml:id="h6"><hi rend="bold"><anchor xml:id="start3781"/>Lämpö-mittarista<anchor xml:id="end3781"/>.</hi></head>
+					<head style="romanType" xml:id="h6"><anchor id="pos4"/><hi rend="bold"><anchor xml:id="start3781"/>Lämpö-mittarista<anchor xml:id="end3781"/>.</hi></head>
 					<p style="romanType" xml:id="p26">Usein tahdon tietää vissiin, kuinka lämmin on huoneessa ja ulkona. Siihen
 						on minulla kone, jota kutsutaan <hi rend="expanded">lämpömittariksi,</hi> ja jonka näet tässä kirjan laidassa
 						kuvattuna. Se on oikein viisaasti tehtynä. Ensiksi on koneniekka pannut
@@ -328,7 +328,7 @@
 						ilma painaa ylöspäin elo-hopeaa korkeammalle eli alemmalle lasiputkessa.
 						Ja siitä ennustetaan sadetta eli kaunista ilmaa, kun raskas ja kostea
 						ilman painaa enemmän kuin kuiva ja keveä ilma.</p>
-					<head style="romanType" xml:id="h7"><hi rend="bold"><hi rend="expanded"><choice><orig>Sunnuntai aamu</orig><reg><anchor xml:id="start3788"/>Sunnuntaiaamu</reg></choice>.<anchor xml:id="end3788"/></hi></hi></head>
+					<head style="romanType" xml:id="h7"><anchor id="pos5"/><hi rend="bold"><hi rend="expanded"><choice><orig>Sunnuntai aamu</orig><reg><anchor xml:id="start3788"/>Sunnuntaiaamu</reg></choice>.<anchor xml:id="end3788"/></hi></hi></head>
 					<lg xml:id="lg29">
 						<l style="romanType">Ah, terve, terve armas Suomeni</l>
 						<l style="romanType">Ihana maa!</l>

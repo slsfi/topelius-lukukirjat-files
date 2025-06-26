@@ -212,7 +212,7 @@
 					oikein käytettynä. Ei yksikään eläin ymmärrä sitä käyttää, ja kun joskus on
 					tavattu niin raakoja metsä-ihmisiä, etteivät ole tunteneet tulta, on niiden
 					sanottu olleen tuskin järjettömiä luontokappaleita parempia.</p>
-					<head style="blackletter" xml:id="h3"><hi rend="bold">Maanjäristyksestä.</hi></head>
+					<head style="blackletter" xml:id="h3"><anchor id="pos1"/><hi rend="bold">Maanjäristyksestä.</hi></head>
 					<p style="blackletter" xml:id="p19"><anchor xml:id="start3713"/>Eräänä syyspäivänä, sata vuotta takaperin, kuuli väki isossa Lissabonin
 						kaupungissa Portugalissa yhtäkkiä kovan maanalaisen jyrinän. Maa tärisi
 						hirmuisesti; <anchor xml:id="start3714"/>Tajon iso virta<anchor xml:id="end3714"/> kuohui ääriensä yli ja syöksi vetensä
@@ -235,7 +235,7 @@
 						antoi sille nimensä. Mutta juuri kuin molemmat kuninkaat riitelivät,
 						kumpiko saisi pitää saaren, vajousi koko saari jälleen meren syvyyteen,
 						eikä sitä ole sittemmin enää nähty.<anchor xml:id="end3722"/></p>
-					<head style="blackletter" xml:id="h4"><hi rend="bold">Tulivuorista.</hi></head>
+					<head style="blackletter" xml:id="h4"><anchor id="pos2"/><hi rend="bold">Tulivuorista.</hi></head>
 					<p style="blackletter" xml:id="p20">Suurimmat tulivuoret <anchor xml:id="start3726"/>mailman-osassamme<anchor xml:id="end3726"/> ovat Vesuvio Neapelin tienoilla,
 						Etna Sisilian saarella ja Hekla Islannin saarella. Kaikki kolme
 						suitsuavat vielä välistä tulta ja syytävät laavaa. <anchor xml:id="start3727"/>Seitsemänkymmentä
@@ -251,7 +251,7 @@
 						kaivettu paljaaksi, niin että siinä nähdään, kuinka ihmiset olivat
 						asuneet ja eläneet Kristuksen syntymisen aikana.</p>
 				<pb type="orig" n="172"/>
-					<head style="blackletter" xml:id="h5"><hi rend="bold">Tulen ja veden sodasta.</hi></head>
+					<head style="blackletter" xml:id="h5"><anchor id="pos3"/><hi rend="bold">Tulen ja veden sodasta.</hi></head>
 					<p style="blackletter" xml:id="p21"><anchor xml:id="start3728"/>Englannissa tapahtui kerran syksyllä, että meri kovalla myrskyllä
 						yhtäkkiä kohosi maalle ja pakkausi suureen <anchor xml:id="start3729"/>masuuniin<anchor xml:id="end3729"/>, jossa sulattiin
 						mahdottoman paljon rautamalmia.<anchor xml:id="end3728"/> Juurikuin vesi tuli masuuniin, kuului
@@ -261,7 +261,7 @@
 						tulipatsas. Sitte pirisi se kuuma malmi ympäriinsä joka suunnalle. Vesi
 						oli voittanut ja kiehui kauvan, juuri kuin ylpeillen voitostaan,
 						sammuneessa uunissa.</p>
-					<head style="romanType" xml:id="h6"><hi rend="bold">Säkene.</hi></head>
+					<head style="romanType" xml:id="h6"><anchor id="pos4"/><hi rend="bold">Säkene.</hi></head>
 					<lg xml:id="lg22">
 						<l style="romanType"><hi rend="italics">Säkene lentelet</hi></l>
 						<l style="romanType"><hi rend="italics">Pimeessä ilmassa</hi></l>
@@ -281,7 +281,7 @@
 						<l style="romanType"><hi rend="italics">Niinkuin säkenekin.</hi></l>
 					</lg>
 				<pb type="orig" n="173"/>
-					<head style="romanType" xml:id="h7"><hi rend="bold"><anchor xml:id="start3731"/>Varjele Herra!<anchor xml:id="end3731"/></hi></head>
+					<head style="romanType" xml:id="h7"><anchor id="pos5"/><hi rend="bold"><anchor xml:id="start3731"/>Varjele Herra!<anchor xml:id="end3731"/></hi></head>
 					<lg xml:id="lg25">
 						<l style="romanType"><hi rend="italics">Varjele Herra, me muuten hukumme,</hi></l>
 						<l style="romanType"><hi rend="italics">Jos sinun voimasi ei oo apumme!</hi></l>

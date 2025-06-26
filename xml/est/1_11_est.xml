@@ -156,7 +156,7 @@
 					kaksi kovaa ainetta <anchor xml:id="start3632"/>kuutilo (kiiseli)<anchor xml:id="end3632"/> ja <anchor xml:id="start3633"/>hiili<anchor xml:id="end3633"/> ovat yleisimmät <anchor xml:id="start3634"/>luonnon
 					kunnissa<anchor xml:id="end3634"/>. <anchor xml:id="start3635"/>Kasvut<anchor xml:id="end3635"/> ovat enimmästi yhdistettyjä hiilestä, haposta ja vedystä.
 					Mutta eläinten ruumiissa on, paitsi näitä, vielä tukoa.</p>
-					<head style="romanType" xml:id="h3"><hi rend="bold"><hi rend="expanded">Äänestä.</hi></hi></head>
+					<head style="romanType" xml:id="h3"><anchor id="pos1"/><hi rend="bold"><hi rend="expanded">Äänestä.</hi></hi></head>
 					<p style="romanType" xml:id="p13">Eräänä päivänä otti isä pyssynsä ja meni ampumaan <anchor xml:id="start3636"/>pyitä<anchor xml:id="end3636"/> lehdikossa.
 						Antakaapa minulleki pyssy ja <anchor xml:id="start3637"/>ruutia<anchor xml:id="end3637"/>, sanoin minä.</p>
 					<p style="romanType" xml:id="p14">Ei, sanoi isä; ei vielä, ennenkuin tulet vanhemmaksi. Ruuti ja pyssyt
@@ -237,8 +237,7 @@
 						kyynärää likempänä seinästä en kuule enää kaikua, sillä ääni palaa niin
 						sukkelasti takasi, etten voi eroittaa oman ääneni ja sen kaikumisen
 						väliä.</p>
-					<head style="romanType" xml:id="h4"><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3644"/>Ilman-suunnista<anchor xml:id="end3644"/> ja
-							tuulista.</hi></hi></head>
+					<head style="romanType" xml:id="h4"><anchor id="pos2"/><hi rend="bold"><hi rend="expanded"><anchor xml:id="start3644"/>Ilman-suunnista<anchor xml:id="end3644"/> ja tuulista.</hi></hi></head>
 					<p style="romanType" xml:id="p23">Tahdotko tietää ilman-suuntia, niin merkitse se suunta, jolla näet
 						auringon olevan puolenpäivän aikana, justiin kun kello on 12. Käännä
 						sitte selkäsi aurinkoon päin, niin nyt ovat silmäsi <hi rend="expanded"><anchor xml:id="start3645"/>pohjoista<anchor xml:id="end3645"/></hi> ja selkäsi <hi rend="expanded"><anchor xml:id="start3646"/>etelää<anchor xml:id="end3646"/></hi> kohti.
@@ -269,8 +268,7 @@
 						sukkelasti ylös sängystään, ja joka istuu pöydässä, ei hän ennätä
 						päättää atriaansa. Kaikkein täytyy rientää ulos ja nakkauta maahan,
 						sillä vähäisessä ajassa on kukatiesi koko huone mennyt tuuleen.</p>
-					<head style="romanType" xml:id="h5"><hi rend="bold"><hi rend="expanded">Höyrykoneista ja
-							rautateistä.</hi></hi></head>
+					<head style="romanType" xml:id="h5"><anchor id="pos3"/><hi rend="bold"><hi rend="expanded">Höyrykoneista ja rautateistä.</hi></hi></head>
 					<p style="romanType" xml:id="p25">Jos annan olu-putellin seisoa uunilla lämpimässä, paukauttaa oluessa
 						oleva hiilihappo korkin pois sen suusta. Jos katan kiehuvan padan, niin
 						ettei höyry pääse siitä ulos, <anchor xml:id="start3657"/>lähättää<anchor xml:id="end3657"/> höyryn voima kannen pois. Kaikki
@@ -318,7 +316,7 @@
 						rakennettu <anchor xml:id="start3662"/>järvien<anchor xml:id="end3662"/> ylitse. Monissa suurissa kaupungeissa kulkee rautatie
 						huoneiden kattoin päällitse. Ja nykyjään on rakennettu riippuva silta
 						rautatien kanssa sen hirmuisen suuren Niagaran vesiputouksen ylitse.</p>
-					<head style="romanType" xml:id="h6"><hi rend="bold">Myrsky.</hi></head>
+					<head style="romanType" xml:id="h6"><anchor id="pos4"/><hi rend="bold">Myrsky.</hi></head>
 					<lg xml:id="lg27">
 						<l style="romanType">Pianpa ilman piiriä</l>
 						<l style="romanType">Mä kotkan lailla lennän,</l>
