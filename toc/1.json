@@ -113,118 +113,458 @@
 			"text": "Kolmas Luku. Linnuista",
 			"itemId": "1_3",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Kotka",
+					"itemId": "1_3;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Harakka",
+					"itemId": "1_3;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Pääskyset ja varpunen",
+					"itemId": "1_3;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Muutto-linnut",
+					"itemId": "1_3;pos4",
+					"type": "est"
+				},
+				{
+					"text": "Muuttolinnut",
+					"itemId": "1_3;pos5",
+					"type": "est"
+				},
+				{
+					"text": "Lintu akkunassa",
+					"itemId": "1_3;pos6",
+					"type": "est"
+				},
+				{
+					"text": "Elätti-lintu",
+					"itemId": "1_3;pos7",
+					"type": "est"
+				},
+				{
+					"text": "Kettu ja kukko",
+					"itemId": "1_3;pos8",
+					"type": "est"
+				},
+				{
+					"text": "Varpunen ja hevoinen",
+					"itemId": "1_3;pos9",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Neljäs Luku",
 			"itemId": "1_4",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Sitkeä-henkisiä eläviä",
+					"itemId": "1_4;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Käärmeet",
+					"itemId": "1_4;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Lohikäärme ja Salamanderi",
+					"itemId": "1_4;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Sammakko",
+					"itemId": "1_4;pos4",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Viides Luku. Kaloista",
 			"itemId": "1_5",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Hai",
+					"itemId": "1_5;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Hauki",
+					"itemId": "1_5;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Lohi",
+					"itemId": "1_5;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Muista kaloista",
+					"itemId": "1_5;pos4",
+					"type": "est"
+				},
+				{
+					"text": "Lohi",
+					"itemId": "1_5;pos5",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Kuudes Luku. Nivel-elävistä ja nilvi-elävistä",
 			"itemId": "1_6",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Heinäsirkat",
+					"itemId": "1_6;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Mehiläisten talous",
+					"itemId": "1_6;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Muurahainen",
+					"itemId": "1_6;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Hämähäkki",
+					"itemId": "1_6;pos4",
+					"type": "est"
+				},
+				{
+					"text": "Mettiäinen ja kyyhky",
+					"itemId": "1_6;pos5",
+					"type": "est"
+				},
+				{
+					"text": "Eläinten tavoista",
+					"itemId": "1_6;pos6",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Seitsemäs Luku. Kasveista",
 			"itemId": "1_7",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Puista",
+					"itemId": "1_7;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Pensaista ja kyönnöksistä",
+					"itemId": "1_7;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Yrttejä ja ruohoja",
+					"itemId": "1_7;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Kukattomista kasveista",
+					"itemId": "1_7;pos4",
+					"type": "est"
+				},
+				{
+					"text": "Puiden ijästä",
+					"itemId": "1_7;pos5",
+					"type": "est"
+				},
+				{
+					"text": "Palmuista",
+					"itemId": "1_7;pos6",
+					"type": "est"
+				},
+				{
+					"text": "Tervasta",
+					"itemId": "1_7;pos7",
+					"type": "est"
+				},
+				{
+					"text": "Karl Linné’stä ja yrttikasveista",
+					"itemId": "1_7;pos8",
+					"type": "est"
+				},
+				{
+					"text": "Pellosta ja niitystä",
+					"itemId": "1_7;pos9",
+					"type": "est"
+				},
+				{
+					"text": "Viholainen ja orjantappurakukka",
+					"itemId": "1_7;pos10",
+					"type": "est"
+				},
+				{
+					"text": "Kukka laksossa",
+					"itemId": "1_7;pos11",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Kahdeksas Luku. Kivikunnasta",
 			"itemId": "1_8",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Kullasta ja hopeasta",
+					"itemId": "1_8;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Kaivannoista",
+					"itemId": "1_8;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Kivettymisistä",
+					"itemId": "1_8;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Kaikellaisista aineista",
+					"itemId": "1_8;pos4",
+					"type": "est"
+				},
+				{
+					"text": "Orijärven kuparikaivanto",
+					"itemId": "1_8;pos5",
+					"type": "est"
+				},
+				{
+					"text": "Timantti",
+					"itemId": "1_8;pos6",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Yhdeksäs Luku. Maasta",
 			"itemId": "1_9",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Fingalin luolasta",
+					"itemId": "1_9;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Maan erinäisestä muodosta",
+					"itemId": "1_9;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Maamme",
+					"itemId": "1_9;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Vuori ja lakso",
+					"itemId": "1_9;pos4",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Kymmenes Luku. Vedestä",
 			"itemId": "1_10",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Veden hävittämisistä",
+					"itemId": "1_10;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Vedestä lääkkeenä",
+					"itemId": "1_10;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Maamme vesistä",
+					"itemId": "1_10;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Lähde",
+					"itemId": "1_10;pos4",
+					"type": "est"
+				},
+				{
+					"text": "Lähde keväillä",
+					"itemId": "1_10;pos5",
+					"type": "est"
+				},
+				{
+					"text": "Meri yöllä",
+					"itemId": "1_10;pos6",
+					"type": "est"
+				},
+				{
+					"text": "Valta-meri",
+					"itemId": "1_10;pos7",
+					"type": "est"
+				},
+				{
+					"text": "Järvi",
+					"itemId": "1_10;pos8",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Yhdestoista Luku. Ilmasta",
 			"itemId": "1_11",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Äänestä",
+					"itemId": "1_11;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Ilman-suunnista ja tuulista",
+					"itemId": "1_11;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Höyrykoneista ja rautateistä",
+					"itemId": "1_11;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Myrsky",
+					"itemId": "1_11;pos4",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Kahdestoista Luku. Tulesta",
 			"itemId": "1_12",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Maanjäristyksestä",
+					"itemId": "1_12;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Tulivuorista",
+					"itemId": "1_12;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Tulen ja veden sodasta",
+					"itemId": "1_12;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Säkene",
+					"itemId": "1_12;pos4",
+					"type": "est"
+				},
+				{
+					"text": "Varjele Herra!",
+					"itemId": "1_12;pos5",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Kolmastoista Luku. Valosta ja lämpimästä",
 			"itemId": "1_13",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Magneetista ja kompassista",
+					"itemId": "1_13;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Revontulista",
+					"itemId": "1_13;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Kiikarista eli pitkäsilmästä",
+					"itemId": "1_13;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Lämpö-mittarista",
+					"itemId": "1_13;pos4",
+					"type": "est"
+				},
+				{
+					"text": "Sunnuntaiaamu",
+					"itemId": "1_13;pos5",
+					"type": "est"
+				}
+			]
 		},
 		{
 			"text": "Neljästoista Luku. Painosta ja liikunnosta",
 			"itemId": "1_14",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true
 		},
 		{
 			"text": "Viidestoista Luku. Suuresta avarasta maailmasta",
 			"itemId": "1_15",
 			"type": "est",
-			"description": "",
-			"url": "",
-			"date": "",
-			"collapsed": ""
+			"collapsed": true,
+			"children": [
+				{
+					"text": "Kuusta",
+					"itemId": "1_15;pos1",
+					"type": "est"
+				},
+				{
+					"text": "Auringosta ja tähdeistä",
+					"itemId": "1_15;pos2",
+					"type": "est"
+				},
+				{
+					"text": "Vuoden ajat",
+					"itemId": "1_15;pos3",
+					"type": "est"
+				},
+				{
+					"text": "Taivahan tähdet",
+					"itemId": "1_15;pos4",
+					"type": "est"
+				}
+			]
 		}
 	]
 }
