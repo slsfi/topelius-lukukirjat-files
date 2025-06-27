@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Boken om Vårt Land. 1875. Förord till Lärare och Lärarinnor, varianttikoodattu</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Läsebok för de lägsta lärowerken i Finland. Andra Kursen. Boken om Wårt Land, Helsingfors: G. W. Edlunds förlag 1875</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+  <pb type="orig"/>
+  <head>Förord<lb/>till Lärare och Lärarinnor.</head>
+  <p n="1"><hi rend="italics">Mottagen härmed välvilligt en länge utlofvad bok, som i nitton år varit en kär lefnadsuppgift för dess författare. Endast det bästa är godt nog åt ungdomen, och derför gifver jag det bästa jag förmår åt läroverken och vårt land. Men det bästa jag förmår är så långt från det bästa önskvärda, att jag betraktar denna bok som ett underlag, på hvilket efterträdare må bygga någonting bättre, behållande det som duger deri och lemnande resten åt glömskan.</hi></p>
+  <p><hi rend="italics">Ju lägre ned en läsebok ställes i åldersklasserna, såsom ett af de första, vägbrytande bildningsmedlen, desto högre måste man ställa dess uppgift. Dess bestämmelse är icke allenast att inöfva en korrekt läsning och uppfattning af det lästa; den bör på samma gång, under lärarens handledning, bringa fasthet, reda och följdriktighet i lärjungens tankeförmåga. Och med dessa formela och logiska syften bör läseboken förena ännu ett tredje, ett ideelt, nemligen att ingifva kärlek till en viss berättigad krets af tankar eller känslor samt längtan efter en högre insigt deri.</hi></p>
+  <p><hi rend="italics">Ur dessa synpunkter har jag föreställt mig, att läseboken icke bör, genom ett tätt ombyte af olikartade ämnen, splittra uppmärksamheten eller förvirra tankeföljden. Jag har ansett den böra fasthålla en begränsad krets af föreställningar, inleda mellan dem en naturlig förbindelse och likasom bygga broar från tanke till tanke. Den nödiga omvexlingen har jag icke velat söka i en mångfald af ämnen, utan i uppvisandet af samma ämnes olika synpunkter.</hi></p>
+  <p><hi rend="italics">Första kursen af denna läsebok, utgifven år 1856, var byggd på en sådan uppfattning och innebar dermed en fråga till läro<pb type="orig"/>verken. Det har synts mig, som skulle erfarenheten hafva besvarat frågan med ja. Oaktadt många brister, dem läraren och lärarinnan haft att fylla uti ”Naturens Bok”, har enheten i plan och tankeförbindelse visat sig motsvara ändamålet.</hi></p>
+  <p><hi rend="italics">Alltså är denna andra kurs utarbetad efter väsentligen samma plan. Efter ”Naturens Bok” följer ”Boken om Vårt Land”. Förbindelsen mellan dessa två idékretsar, som båda utgå från hemmet, synes vara så enkel och sjelffallen, att man knappt skall förstå, huru en så enkel tanke behöft en så lång tid för att mogna. Svårigheten ligger dels i ämnets rätta begränsning – jag hade först tagit det mycket vidsträcktare, – dels i uppdragandet af rätta gränsen mellan <hi rend="expanded italics">läseboken</hi>, som anslår, och <hi rend="expanded italics">läroboken</hi>, som genomför det angifna ämnet. Utkast, som skulle fylla tre gånger denna volym, hafva fördenskull offrats åt lågorna; hvilket må nämnas som förklaring af dröjsmålet.</hi></p>
+  <p><hi rend="italics">Det är möjligt, att äfven denna slutliga redaktion hvarken träffat det rätta måttet eller det rätta sättet. Ojemnheter förekomma, och den historiska afdelningen närmar sig läroboken, utan att gå dess detaljframställning i förväg.</hi></p>
+  <p><hi rend="italics">Härom må erfarenheten döma. Jag anhåller, att Lärare och Lärarinnor ville, af vänskap för skolans stora sak, meddela mig deras anmärkningar, antingen enskildt eller i tidningarna, för den händelse att en ny upplaga framdeles blefve af nöden.</hi></p>
+  <p><hi rend="italics">Såsom ”Naturens Bok” varit beräknad för barn från 8 år framåt, så är ”Boken om Vårt Land” beräknad för 10 års ålder och vidare framåt, utan bestämd åldersgräns, emedan ju alltid något blir svårfattligt förrän vid mognare år. Läraren och Lärarinnan, af hvilka bokens lefvande kraft beror, torde för olika åldersklasser utvälja olika ”läsningar”. Bokens stämning och författarens åsigter vilja anslå, men icke beherrska den unge läsaren.</hi></p>
+  <p><hi rend="italics">För den finska upplagan har jag haft lyckan vinna samma pröfvade, folkeliga hand, som bearbetat för finskan ”Naturens Bok”, min högtaktade bundsförvandt, kyrkoherden <hi rend="expanded italics">Johan Bäckvall</hi>. För honom samt andra aktade vänner, som biträdt med de<pb type="orig"/>ras upplysningar, råd och medverkan, beder jag att här få uttrycka min djupaste erkänsla.</hi></p>
+  <p><hi rend="italics">De artistiskt utförda trädsnitten äro (utom det sid. 293) från Ny Illustrerad Tidnings atelier i Stockholm, dels efter stålstick och lithografier, dels efter originala handteckningar af Ekman m. fl. Endast de betydande kostnader, som skulle hafva fördyrat bokens pris – hvilket är beräknadt så lågt som möjligt – hafva förbjudit ett tätare anbringande af dylika bilder, hvilka göra den svenska folkskolans nya läsebok så anslående. Orthografin följer, med några undantag, Svenska Akademins ordlista.</hi></p>
+  <p><hi rend="italics">Herrens Guds kraft, som allena verkar i oss allt godt, välsigne ock detta ofullkomliga arbete, att det må tjena Hans rike och i många unga hjertan inplanta kärlek till fäderneslandet.</hi></p>
+  <dateline rend="italics">Karis-Lojo <date when="1875-08-31">31 Aug. 1875</date>.</dateline>
+  <p rend="right">Z. T.</p>
+        </body>
+    </text>
+</TEI>

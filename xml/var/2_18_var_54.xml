@@ -1,0 +1,1007 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Boken om Vårt Land. 1875. Andra Läsningen. Folket, varianttikoodattu</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Läsebok för de lägsta lärowerken i Finland. Andra Kursen. Boken om Wårt Land, Helsingfors: G. W. Edlunds förlag 1875</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+  <pb type="orig" n="112"/>
+  <head type="section">Andra Läsningen.</head>
+  <head type="section">II. Folket.</head>
+  <head>57. Om Mathias Castrén.</head>
+  <p n="1">I Tervola kapell vid Kemi elf högt upp i norden var en fattig prestson vid namn <hi rend="expanded">Mathias Castrén</hi>. Hans slägtingar understödde honom, han arbetade mycket, kunde försaka mycket och hade en kraftig vilja. Han gick i skola, blef student och slutligen doktor i vishetsläran. Han kände då många språk, men isynnerhet ville han utforska sådana, som voro beslägtade med det finska språket. Fördenskull begaf han sig på långa resor, först till Lappland, sedan till Ryssland. Han genomreste i många år de vida, öde och glest befolkade länder, som ligga långt aflägsna vid Ishafvets kuster, och derifrån reste han söderut genom det inre Ryssland och Sibiriens ödemarker ända ned till gränserna af det fjerran österland, som kallas Kina. Derunder slet han mycket ondt, måste ofta vandra till fots genom drifvor och ödemarker, sofva under bar himmel, eller i eländiga kojor, nöja sig med den uslaste föda och lefva bland vildar, som icke hade begrepp om menniskors sed. Han var ofta i<pb type="orig" n="113"/> lifsfara, ofta sjuk och öfvergifven i dessa okända vrår af verlden. Han måste besegra otaliga hinder och finna en utväg i många svårigheter, som längesedan skulle ha afskräckt en mindre modig man. Men ingenting kunde afskräcka Castrén från det mål, som han föresatt sig.</p>
+  <p>Och detta var intet ringa mål; ty Castrén ville lära känna alla de många, nästan förgätna och utdöende folk, som engång hade tillhört den stora finska folkstammen och nu voro spridda i armod kring verlden. Hans hjerta var uppfylldt af kärlek och nitälskan för de glömda på jorden. Han åtog sig det finska folkets pligt att uppsöka dess fattige slägtingar. Han förbarmade sig öfver desse föraktade och förvildade stamförvandter; han ville göra dem kände för verlden och derigenom bereda dem en bättre lott, på samma gång som han gagnade vetenskapen och hoppades sprida ljus öfver vårt eget folks dunkla forntid. Fördenskull uppsökte han desse vildar i deras otillgängliga ödemarker, lärde sig deras språk, bodde med dem i deras kojor, följde dem på deras fiske och jagt, vann deras förtroende och antecknade deras berättelser. När han sedan återvände till hemlandet, rikare på kunskap om okända folk, än någon finsk man före honom, begynte han samla och ordna sina iakttagelser. Hans namn var då redan vida berömdt; han hade fått understöd för sina resor både från Finland och Ryssland. Slutligen blef han den förste professor i finska språket vid Finlands universitet. Men han fick icke tid att fullborda sina stora verk öfver den finska folkstammen och dess skilda språk. Han hade återvändt med en bruten helsa från vandringens långa mödor; han dog kort derefter, år 1852, vid endast 37 års ålder.</p>
+  <p>Blott en ringa del af sina forskningar hade Castrén hunnit ordna för trycket. Efter hans död utgåfvos hans samlade bref och anteckningar. Mycket i dem är ofullbordadt, ty Castrén föll midti i sitt lifs arbete, just när dessa<pb type="orig" n="114"/> stora forskningar begynte klarna för honom sjelf. Men han hade icke arbetat förgäfves: han hade redan uppnått en del af sitt mål och banat vägen för andra. De förgätna folken i den aflägsna östern och norden trädde nu fram för verldens blickar, deras språk utreddes, deras fornminnen bevarades och kastade ljus öfver det finska folket. Af Castrén ha vi den första vetenskapliga framställning om vårt folks hedniska gudalära, och han har uppdagat ”det finska folkets vagga”. Andra hafva sedan, lifvade af hans föredöme, fortsatt hans verk, och vi våga nu skåda tillbaka genom årtusenden af en okänd forntid. Derför skall icke heller någon finsk man eller qvinna förgäta denne trofaste, oförskräckte, allt försakande arbetare för sitt folk och menskligheten. Sådane män, som Mathias Castrén, lyfta folkens medvetande, vidga deras synkrets och gifva dem en ärofull plats i mensklighetens historia.</p>
+  <head>58. Om finska folkstammen.</head>
+  <p n="1">Vida på Rysslands stora slätter bodde fordom ett folk, som Ryssarne kallade <hi rend="expanded">Tschuder</hi>. Detta folk hade i en okänd forntid kommit från Asiens bergländer och förskingrades sedan i många grenar öfver hela norra och en stor del af nordvestra Europa. Sveriges och Noriges äldste inbyggare hörde till samma folkstam och kallades i dessa länder än <hi rend="expanded">Jotar</hi>, än <hi rend="expanded">Qvener</hi>, <hi rend="expanded">Lappar</hi> eller <hi rend="expanded">Finnar</hi>.</p>
+  <p>Ryssarne beskrifva Tschuderne såsom ett storvext och starkt, men fredligt och saktmodigt folk. Tschuderne byggde sina hus på ensliga kullar, hade boskap och åkerbruk samt voro skicklige smeder. De kände många trollkonster och ägde omätliga rikedomar, men dessa gräfde de ned i jor<pb type="orig" n="115"/>den. Ryssarne fingo begär till skatterna, anföllo Tschuderne och drefvo dem längre mot norden. Deraf uppkommo långvariga krig. Då föreslog engång den ryske fursten, att striden skulle afgöras genom ett vad. En Tschud och en Rysse skulle hvardera hugga omkull ett träd, och den, som först blef färdig med arbetet, skulle blifva herre i landet. Vadet blef öfverenskommet, träden utvaldes. Tschuden, som var en grundelig man, begynte hugga sitt träd vid roten, men Ryssen var slugare och begynte hugga sitt träd vid toppen. Så hände, att Ryssen blef förr färdig, och från den tiden var han herre i landet.</p>
+  <p>Men Tschuderne älskade friheten och kunde icke fördraga att lefva under främmande herravälde. Det syntes dem vara bättre, att frie begrafva sig under jorden, än att lefva som trälar på jordens yta. Då, säger sagan, togo de sina egodelar och gingo i hålor under bergen, och bergen föllo öfver dem och allt deras folk. Der lefva Tschuderne än i dag under jorden med deras rikedomar: guld, silfver, boskap, bäfverskinn, räfskinn och andra dyrbara pelsverk.</p>
+  <p>Tschuderne voro stamfäder för finska folk, som ännu bo i Ryssland. Ytterst i norr kringströfva, jemte Samojederne, <hi rend="expanded">Ostjaker</hi> och <hi rend="expanded">Voguler</hi>. Längre åt vester bo <hi rend="expanded">Permier</hi>, <hi rend="expanded">Votjaker</hi> och <hi rend="expanded">Syrjäner</hi>. Söderom dem bo <hi rend="expanded">Tscheremisser</hi>, <hi rend="expanded">Tschuvascher</hi>, <hi rend="expanded">Mordviner</hi>. Alla dessa äro fattiga, halfvilda folk, som underkufvats af Ryssarne. De uppslå sina tält eller kojor vid de stora flodernas stränder, lefva af fiske och jagt, eller kringströfva med sina renhjordar på de ödsliga stepperna. Några bekänna till namnet den kristna läran. Andra äro hedningar och dyrka himmelens gud, som de kalla Num, men tillbedja äfven stenar, träd och föremål af en ovanlig skapnad. De äro godmodiga menniskor, hvilka gerna dela med främlingen sitt ringa förråd och erbjuda honom skydd mot ovädret i deras kojor.</p>
+  <pb type="orig" n="116"/>
+  <p>Till finska folkstammen hör äfven det folk, som af andra kallas <hi rend="expanded">Ungrare</hi>, men som sjelf kallar sig <hi rend="expanded">Magyarer</hi>. De bodde fordom vid Svarta hafvets kuster, men inflyttade för tusen år sedan i det nuvarande Ungern. Der hafva de grundat ett rike med egna konungar, tilldess att Ungern i sednare tider förenats med kejsaredömet Österrike. Magyarerne äro ett skönt, stolt och tappert folk, i hvars språk man ännu tydligt igenkänner den finska slägtskapen. Om vi blygas för våra fattiga slägtingar i Ryssland, kunde ju de rike Magyarerne blygas för sina fattiga slägtingar i Finland. Derför må ingen förhäfva sig öfver en ringa anförvandt, men göra hvad han förmår, för att upplysa och understöda honom.</p>
+  <p>Utom Magyarerne äro numera alla folk af finsk stam nordbor. Längst i vester bo <hi rend="expanded">Woter</hi> och <hi rend="expanded">Wesser</hi> (eller <hi rend="expanded">Tschuder</hi>) i Ingermanland, <hi rend="expanded">Liver</hi> i Liffland, <hi rend="expanded">Ester</hi> i Estland, <hi rend="expanded">Lappar</hi> i ryska, finska, svenska och norska Lappmarken samt <hi rend="expanded">Karelare</hi> och <hi rend="expanded">Tavaster</hi> i Finland. I några trakter af Sverige bo äfven qvarlefvor af finska folk.</p>
+  <head>59. Om Bjarmerne.</head>
+  <p n="1">Det mäktigaste folket bland de gamle Tschuderne kallades <hi rend="expanded">Bjarmer</hi> och bodde vid floden Dvina i norra Ryssland. Om dem läser man mycket i gamla norska sagor. Bjarmerne hade städer och konungar, herrskade öfver många folk och voro lika tappre i krig, som företagsame i fredliga värf. Emedan de drefvo en stor handel med varor alltifrån Indien, blefvo de mycket rika. Men hos dem var den sed, att när en rik man dog, skulle hans egendom delas mellan arfvingarne och den döde, hvars andel nedgräf<pb type="orig" n="117"/>des i jorden vid Dvina floden. Kring denna plats var en hög skidgård med läst port, och der höllo sex <corr source="Rättelser">män</corr> vakt om natten. Inom skidgården glimmade marken af guld och ädelstenar, och der stod guden Jumalas bild, som bar kring halsen en tung guldkedja och på sina knän en stor silfverskål, uppfylld med guldmynt ända till brädden.</p>
+  <p>Månge hjeltar drogo från Norige till Bjarmaland, för att vinna ära och rikedomar. Stundom bedrefs en fredlig byteshandel, men ofta landstego Norrmännen för att plundra landet, efter den tidens vilda sed.</p>
+  <p>En gång sände norske konungen en man vid namn Karli att handla med Bjarmerne. Karli hade 25 man på sitt skepp och tog med sig en annan Norrman, Thorer Hund, som hade 80 välbeväpnade män på sitt fartyg. När de kommo till Bjarmaland, handlade de först med invånarne, men när marknadstiden var till ända, uppsade Norrmännen freden och seglade ut från Dvinas mynning. Derefter höllo de råd och beslöto att om natten plundra Jumalas gård.</p>
+  <p>Norrmännen gingo i land, sedan de qvarlemnat några män att vakta skeppen. Bjarmernes första nattvakt hade nyss gått hem, och den andra nattvakten hade ännu ej kommit. Thorer och Karli höggo in deras yxor upptill i skidgården och drogo sig med armstyrka öfver hägnaden. Porten öppnades, alla Norrmännen trängde in och begynte uppgräfva de skatter, som voro gömda i jordhögarne. Thorer borttog silfverskålen från Jumalas knän. Karli ville bemäktiga sig gudens halskedja och afhögg den med sin yxa, men hugget blef i brådskan för hårdt och träffade gudens hufvud, som nedföll med ett förskräckeligt brak. Detta hörde den nya nattvakten, som i detsamma anlände, och begynte att blåsa i sina horn. Bjarmerne skyndade till med höga rop, från alla sidor skallade hornen, och Norrmännen sprungo, allt hvad de förmådde, tillbaka till<pb type="orig" n="118"/> skeppen. Snart blefvo de kringrände och skulle ha varit förlorade, om icke Thorer Hund lärt sig trollkonster i Finnmarken och dermed – säger sagan – förvändt Bjarmernes syn, så att de ej kunde se sina fiender. Härigenom kommo Norrmännen lyckligt ur faran och återvände till deras land igen.</p>
+  <p>Flera hundrade år sednare blefvo Bjarmerne, efter ett tappert motstånd, underkufvade af Ryssarne. Somlige omkommo i krigen, andre utvandrade till Finland eller till Norige, och en del stadnade qvar under ryska väldet. Castrén säger, att desse Bjarmer varit de finske Karelarnes stamfäder, och visst är, att ännu i dag bo kring Dvinas mynning Karelare, som utmärka sig genom sin företagsamhet i handel. Månge bland dem vandra i Finland från gård till gård med sina renslar på ryggen, säljande nålar och dukar. Desse ”Laukku-ryssar” äro afkomlingar af de fordom så rike och mäktige Bjarmerne.</p>
+  <head>60. Tschudiska Folkwisor.</head>
+  <head type="sub">a) Moderswård.</head>
+  <lg>
+  <l>Hwarför ler jag, unga flicka?</l>
+  <l>Hwarför gläds jag, glada tärna?</l>
+  <l>Derför gläds jag, unga flicka,</l>
+  <l>Att ett ljufligt lif jag lefwer.</l>
+  <l>När i moders wård jag wexte,</l>
+  <l>Sjöng hon wisor wid min wagga,</l>
+  <l>Ständigt sjöng hon wackra sånger,</l>
+  <l>Lät så ljufligt orden falla,</l>
+  <l>Lät dem kring mitt hufwud halka.</l><pb type="orig" n="119"/>
+  <l>Dig jag prisar, hulda moder,</l>
+  <l>Dig jag prisar och berömmer</l>
+  <l>För den ömhet du mig wisat,</l>
+  <l>För din moderswård och mildhet.</l>
+  <l>När den sköna sommarn kommit</l>
+  <l>Och när bergningstid war inne,</l>
+  <l>Gingo några bort till frukost,</l>
+  <l>Andra togo tid till middag,</l>
+  <l>Swägerskorna sökte sömnen,</l>
+  <l>Broderbarnen sökte hwilan,</l>
+  <l>Men ej sof min goda moder,</l>
+  <l>Träget satt hon wid min wagga,</l>
+  <l>Gungade sin lilla älskling</l>
+  <l>Och den späda kinden smekte.</l>
+  </lg>
+  <lg>
+  <l>Alla hade tid att hwila,</l>
+  <l>Blott min moder hade icke.</l>
+  <l>Hon fick ingen tid att sofwa,</l>
+  <l>Skulle skölja mina bindlar</l>
+  <l>Och i dem så mjukt mig linda.</l>
+  </lg>
+  <head type="sub">b) Flickorna på gungan.</head>
+  <lg>
+  <l>Låt mig se min egen gunga!</l>
+  <l>Af hwad träd är gungan fogad?</l>
+  <l>Ej af al är gungan fogad,</l>
+  <l>Ej af pilträd är hon huggen:</l>
+  <l>Alen är så skör och brister,</l>
+  <pb type="orig" n="120"/>
+  <l>Pilen är så wek och böjes.</l>
+  <l>Utaf alm är axeln slöjdad,</l>
+  <l>Sidostolparne af lönnträd</l>
+  <l>Och af flätadt wide sitsen.</l>
+  </lg>
+  <lg>
+  <l>Granngårdsgossar, raske bröder,</l>
+  <l>Kan den goda gungan gunga,</l>
+  <l>Kan den säkra gungan swänga</l>
+  <l>Oss, twå lätta sommarsiskor,</l>
+  <l>Siskor med de lätta fjädrar,</l>
+  <l>Flickor med de gyllne smycken?</l>
+  </lg>
+  <lg>
+  <l>Granngårdsgossar, raske bröder,</l>
+  <l>Swängen dock ej alltför häftigt,</l>
+  <l>Gifwen icke fart för mycket,</l>
+  <l>Att wi ej till marken falla,</l>
+  <l>Halka från den goda gungan!</l>
+  <l>Kanske lyftar ingen upp oss,</l>
+  <l>Ingen oss från sanden hjelper.</l>
+  </lg>
+  <head>61. Om Lapparne.</head>
+  <p n="1">Castrén berättar om sin resa i Lappland:</p>
+  <p>Anblicken af en Lappby är icke angenäm sommartiden. Rundtomkring på marken ser man fisktarmar, fiskfjäll, förskämda fiskar och annan orenlighet, som förpestar luften. Genom den låga ingången till tälten utkrälar en skara menniskor, öfverhöljda med smuts. Sjelfva taga de saken gan<pb type="orig" n="121"/>ska lugnt. Artigheten bjuder, att alla, äfven de små barnen, välkomna den resande med ett handslag. Sedan detta i all tysthet försiggått, får man göra sig beredd på följande frågor: ”Är det fred i landet? Huru befinna sig kejsaren, biskopen och landshöfdingen?” – Stundom blef jag dessutom tillspord om min hemort, och då jag sade den vara belägen långt bortom fjällarne, frågade mig en Lapp, om jag är hemma från det land, der tobaken vexer.</p>
+  <p>Det var förvånande att se, med hvilken snabbhet de korta och oviga Lappqvinnorna lupo från det ena tältet till det andra. Snart inbjödos vi i ett litet mörkt kyffe, som skulle föreställa en stuga. Emellertid sof jag der ganska godt och kände mig derefter så vederqvickt, att jag nu hade mod att inträda i en af lappkåtorna. Dess fyrkantiga grundval bildades af tre på hvarandra ställda stockar, medan öfra delen var toppformig och sammanfogad af bräder. Man finner också runda kåtor med stengolf, som för värmens skull belägges med torf. Invändigt är bostaden delad med stockar i nio afdelningar. Sex äro förvaringsrum, två bebos af invånarne, och afdelningen i midten tjenar till eldstad. Till höger om eldstaden bo värden och värdinnan, till venster det öfriga husfolket. Lappen har äfven fiskbodar, uppförda på höga stolpar, för att afhålla rofdjuren.</p>
+  <p>När vi först anlände, öfverraskade vi Lapparne i deras enkla hvardagsdrägt, som består af barkade renhudar i form af en skjorta. Medan vi sofvo, påtogo de ett slags klädesskjorta, som är deras helgdagsdrägt. Ofvanpå den buro qvinnorna ett lifstycke, kring halsen en lärfskrage och på hufvudet en grannlåt i form af en hästsko. Män och qvinnor buro kring lifvet en gördel, rikligen utsmyckad med spännen af silfver eller af messing. Skor och benkläder voro af mjukt renskinn.</p>
+  <p>Lappen är kortvext, med låg panna, utstående kinder och små ögon. Till lynnet är han ett trögt, tungsinnt och<pb type="orig" n="122"/> trumpet slägte. Han beskylles för att vara afundsam, oförsonlig och listig, men prisas af andra för sitt godsinta hjertelag, sin gästfrihet, sin gudsfruktan och sin sedliga vandel, när han icke frestas af bränvinet. Hvarje dag läser han sina bordsböner, morgonböner och aftonböner; är också mån om att undervisa sina barn i det lilla han sjelf vet. Sin hustru och sina barn älskar han ömt. En Lappgubbe berättade mig, att han under trettio år aldrig vexlat ett ondt ord med sin hustru och aldrig tilltalat henne annorlunda, än med smeknamnet <hi rend="expanded">loddadsham</hi>, min lilla fågel. När en Lappfamilj lät en af sina gossar taga tjenst hos en resande främling och gossen sedan dog, ansågs detta som ett Guds straff för att föräldrarne kunnat lemna sitt barn ifrån sig.</p>
+  <p>I slutet af Mars flytta många Lappar upp till kusten af Ishafvet, för att fiska med Norrmännen. I Juli och Augusti bruka de fiska i sina egna insjöar. Då är Lappens gyllene tid, när han får sofva i sitt tält med mätt mage, utan myggor och utan bekymmer. Desse Fiskare-Lappar med deras små renhjordar bo dock i hus om vintern och anses stå högre i bildning, än vildmarkens rätte söner, Fjäll-Lapparne, som icke ha annan bostad, än sina flyttbara tält af fyra bågformiga stänger, nedslagna i jorden, och kring dem ett täcke af vadmal. I toppen är ett rökhål, i midten en eldstad af gråstenar; björkris är utströdt på bara marken, och några renhudar bredas derpå. Så bor Fjäll-Lappen vinter och sommar. Endast renarna hållas tillsamman och förskonas af vargen, önskar han sig ej något bättre. Han anser sig lycklig och rik; han ville ej byta sina fjällar mot ett paradis på jorden.</p>
+  <pb type="orig" n="123"/>
+  <head>62. Lappens ren.</head>
+  <p n="1">Lappen och hans ren äro två kamrater, som aldrig åtskiljas. När renkalfven är ung, leker han med Lappbarnen, och dessa lära sig tidigt att tämja hans lifliga, ostyriga lynne. Renen äter gräs, löf, lingonris och hjortron, men helst uppsöker han med sin fina lukt renmossan under snön. När mossan är slut på ett ställe, måste Lappen flytta med sina hjordar; och derför flyttar han ständigt.</p>
+  <p>Sommartid beta Lapparnes renar om nätterna, då de mindre plågas af hetta och mygg. Om morgonen drifvas de af hundarne till en inhägnad af risqvistar, och der mjölkas renkorna. Men detta sker icke godvilligt; de måste fångas med snaror, som kastas kring deras horn, och bindas vid träden. Om qvällen drifvas de åter ut på bete<pb type="orig" n="124"/> till natten. Då måste hundar eller herdar vara på vakt, ty vargen följer renhjordarnas spår och lurar i busken.</p>
+  <p>Hade Lappen icke sin ren, skulle han ej kunna lefva i ödemarkerna. Af renens hud gör han nästan alla sina kläder. Renmjölk, renost, renkött äro hans mat. När han vill köpa mjöl, säljer han renar i Norige, eller drifver han dem till Uleåborg. Då stå de vackra djuren der till hundradetal på en instängd gård och fälla tårar vid anblicken af sina kamraters död.</p>
+  <p>Renen är Lappens häst och spännes för en liten släde, som kallas pulka eller ackja och som liknar en på midten afhuggen båt med ryggstöd. Dragremmen går från pulkans spetsiga framstäf under renens mage till en gördel af skinn, som är spänd kring hans bringa. Bakuti pulkan sitter Lappen, instufvad ända till halsen i en fotmantel af vadmal eller skjälskinn, och kör renen med en rem, som är fästad vid grimman på venstra sidan och kastas öfver ryggen åt höger. Änden af denna töm är knuten kring en kort käpp, som Lappen håller i handen och som skramlar med lösa jernringar. Körandet fordrar stor skicklighet; derför kör ofta en lång rad efter hvarandra med den skickligaste i spetsen. Då får man se väl upp och ej vara rädd, när det går i fullt språng öfver berg, backar och drifvor. Det nyckfulla, ystra djuret med sin klingande klocka låter ej hejda sig: än stöter pulkan hårdt mot en stubbe i snön, än trillar hon öfverända, och detta bekymrar icke renen det minsta. Han ilar åstad med flygande fart, och den resande må sjelf se sig om, huru kan kommer på rätt igen. Men det är något eget och sällsamt, att renen icke gerna springer mot söder: det är som skulle hans håg stå till polen; han springer helst mot norr.</p>
+  <p>Renen är ett svagt djur i bredd med hästen: det behöfs tre renar, för att draga lika mycket som en häst. I pulkan sitter blott den, som kör, och möjligen dertill ett<pb type="orig" n="125"/> litet barn. En resande behöfver tre renar: en för sig sjelf, en för sin skjutskarl och en för sina saker. Flyttar en Lappfamilj, går vägvisaren först på sina skidor och leder en ren, som är försedd med bjellror kring halsen. Efter honom följa de lösa renarne, som hållas tillsamman af hundar och skidlöpare, och sist komma lastrenarne, som draga tält, husgeråd, barn, sjuka och gamla. Då är der lif bland de öde fjällen: bjellrorna klinga, hundarne skälla, Lapparne mana på hjorden med höga rop, och renens hofvar knaka öfver den hvita snön.</p>
+  <head>63. Lappska Sagor.</head>
+  <head type="sub">a) Syndafloden.</head>
+  <p n="1">Lapparne hafva i fordna tider ströfvat med sina renar kring hela Finland, och derför bära ännu i dag många orter namn efter dem. Men sjelfve säga Lapparne, att före dem bodde ett äldre folk, innan Gud stjelpte om verlden. Detta har gått så till, att Gud (Jubmel) har omhvälft jorden, så att vattnet ur sjöar och elfvar runnit ut öfver landet och fördränkt alla menniskor, undantagande två barn, en gosse och en flicka. Dessa tog Gud under armen och förde dem på ett högt berg, som kallas Passe-vare eller det heliga berget. Sedan faran var förbi och Gud hade släppt barnen ifrån sig, skildes de från hvarandra och gingo åt olika håll, för att se, om der funnes andra menniskor i verlden. När de vandrat i tre år, utan att finna menniskor, kommo de åter tillsamman och igenkände hvarandra. Derpå skildes de, vandrade åter i tre år, kommo tillsamman och igenkände hvarandra. Men när de i ytterligare tre år vandrat på samma sätt, kände de icke mera igen hvarandra.<pb type="orig" n="126"/> De blefvo då man och hustru, och från dem härstamma alla nu lefvande menniskor.</p>
+  <head type="sub">b) Jätten och menniskan.</head>
+  <p n="1">I fordna tider bodde i landet en stor och grym jätte, som kallades Stalo. Hans hustru hette Rutakis och var en elak trollpacka. Stalo var en menniskoätare och skulle med sin stora styrka hafva blifvit alla menniskor öfvermäktig, om han icke tillika hade varit öfvermåttan dum. Deraf begagnade sig ett listigt menniskobarn, som hette Askovis, och lurade jätten. Engång hade Askovis råkat i Stalos våld och föreslog jätten, att de skulle pröfva sin styrka, genom att springa med hufvudet mot ett träd och stöta hufvudet in i trädet. Stalo var genast färdig och sprang med all makt mot en grof tall, men kunde icke stånga hufvudet in. Askovis sade sig vilja spara sitt prof till i morgon; hvarpå han under natten urholkade en mängd trädstammar och betäckte öppningarne med bark. Dagen derpå lyckades hans prof förträffligt: han sprang mot den ena stammen efter den andra och stångade in hufvudet ända till öronen. Stalo var högeligen förvånad.</p>
+  <p>Askovis gick till björken och begynte vrida vidjor. Hvad skall du med dem? frågade Stalo. – Ingenting särdeles, svarade Askovis; jag skaffar mig vidjor, för att bära bort silfret ifrån din bod. – Nej, för all del, min gosse, menade jätten. Håll fram din hatt, så vill jag ösa den full med silfver! – Askovis höll fram sin hatt, men hade i tysthet skurit bort hattkullen och gjort en grop i jorden derunder. Jätten öste och öste, och aldrig ville hatten bli full. Det var en djup hatt, sade jätten. – Så lagom, svarade Askovis; men kanske vill du hellre fylla min rensel? – Nej, menade jätten, jag har nog af hatten.</p>
+  <pb type="orig" n="127"/>
+  <p>Stalo gillrade ut nät efter bäfrar, gjorde upp eld i skogen och lade sig att hvila. I nätet hade han fästat ett snöre och i andra ändan af snöret en bjellra, för att höra när bäfvern gick i nätet. Nu ringer bjellran, Stalo skyndar till nätet, men finner ingen, ty en listig Lappgubbe har ryckt i snöret och uppbrännt jättens kläder under hans frånvaro. Stalo återvänder och harmas öfver sin oförsigtighet att lägga kläderna så nära elden. Om en stund ringer det åter; jätten skyndar till nätet, finner ingen, och under hans frånvaro har Lappen släckt elden. Då börjar Stalo jemmerligen frysa, sträcker sina armar mot månen, som uppstiger på himmelen, och klagar för honom: se, fader, din son fryser! Men månen har annat att göra: han måste försvara sig mot trollen, som uppäta hans ena sida, och hör icke sin sons böner. På detta sätt frös jätten Stalo ihjäl.</p>
+  <head>64. Päiwiö-slägten.</head>
+  <p n="1">I en by, Päldo-järv, bodde för lång tid sedan en rik Lapp vid namn Päiviö. Han hade så många renar, att han behöfde 30 drängar och 30 pigor att vakta dem; men sina silfverskatter gömde han i jorden. Lapparne tillbådo den tiden underliga träd och stenar, som kallades Seid. När engång renarne dogo af sjukdom, drog Päiviö med sina söner till afguden Seid, prydde honom med granris och offrade renar till hans ära, bedjande honom om hjelp. En dag väntade Päiviö och hans söner förgäfves ett tecken att afguden hört deras bön. Då stodo de upp, buro torr ved kring Seiden och förstörde honom med eld. Hedningarne i byn harmades deröfver storligen och ville döda Päiviö, men han svarade dem med Gideons ord: låt afguden hämna<pb type="orig" n="128"/> sig sjelf! Päiviö blef kristen med hela sitt hus och sände sin son Vuolabba till Enare by, till att förstöra alla dervarande Seider.</p>
+  <p>Päiviö var en stark kämpe i strid, men hans tre söner blefvo än mera namnkunnige. <hi rend="expanded">Vuolabba</hi> (Olof) hette den starkaste. Han var så snabb, att han sprang fatt vildrenarna, grep den flyende vargen i svansen och krossade honom mot klippan. Sin stora båt bar han ensam på axeln, och de stenar, som jättarne icke förmådde lyfta, bar Vuolabba med lätthet till deras plats. Vid den tiden brukade Karelare från ryska sidan härja i Lappland. Vuolabba bar en ofantelig stock på fjället ofvanför sitt tält och inbillade Karelarne, att hans tre år gamle son burit upp stocken. Då vågade ingen angripa honom.</p>
+  <p>Päiviös andre son hette <hi rend="expanded">Isak</hi>. Han var en så skicklig bågskytt, att han skjöt harren, när denne hoppade öfver vattnet i forsen. Isak låg äfven i fejd med de ryske Karelarne. I spetsen för dem gick en höfding, klädd i en kopparrustning från hufvud till fot, och var så styf, att han icke sjelf kunde föra gaffeln till sin mun, när han åt, utan måste matas af drängen. Isak hade länge lurat på höfdingen och skjöt vid en sådan måltid gaffeln in i höfdingens hals.</p>
+  <p>Tredje Päiviö-sonen hette <hi rend="expanded">Johan</hi> och var en af de mäktige trollkarlar, som icke numera födas i verlden. Äfven han låg i krig med Karelarne och använde mot dem sina fruktansvärda trollkonster. Engång fingo de honom fatt och tvungo honom att blifva deras vägvisare öfver fjället om natten. Det var ett mycket brant ställe på Pallastunturi. Der trollade Johan, så att Karelarne hörde klockor ringa och sågo eldar lysa i en by nedanför branten. Johan manade nu sina följeslagare att följa tätt efter honom, der han visade vägen med blosset. I detsamma kastade han blosset utför branten, men sjelf fick han fotfäste<pb type="orig" n="129"/> i en skrefva af berget. Karelarne på sina skidor kommo med full fart rusande efter blosset och förgingos så alla i det nattliga brådjupet.</p>
+  <head>65. Lappska Folkwisor.</head>
+  <lg>
+  <l>a) Högt på bergen will jag wandra,</l>
+  <l>På de höga, branta fjällar;</l>
+  <l>Pilar will jag taga med mig,</l>
+  <l>Långa, jernbeslagna pilar;</l>
+  <l>Wilda renar will jag skjuta,</l>
+  <l>Stora, sköna, wilda renar.</l>
+  <l>Sedan firar jag mitt bröllop,</l>
+  <l>Firar det med ståt och glädje.</l>
+  </lg>
+  <lg>
+  <l>b) Hwilken utaf alla windar</l>
+  <l>Är mer swal och ljuf än andra?</l>
+  <l>Är det söderns qwalmuppfyllda,</l>
+  <l>Ljumma fläkt från mulna himlar?</l>
+  <l>Är det icke hellre nordens</l>
+  <l>Friska wind från höga fjällar?</l>
+  </lg>
+  <lg>
+  <l>c) (Björninnan wäcker sina ungar)</l>
+  <l>Skynden, mina späda ungar!</l>
+  <l>Skidan ren på drifwan slinter,</l>
+  <l>Wenstra fotens skida rasslar.</l>
+  <l>Kommer han, den onde jägarn,</l>
+  <pb type="orig" n="130"/>
+  <l>Låt oss mot hans båge ryta,</l>
+  <l>Och hans pilar will jag fånga</l>
+  <l>I mitt gap med koppartänder.</l>
+  </lg>
+  <lg>
+  <l>d) (Gräshoppan frågar myggan)</l>
+  <l>Säg, hwad gör du, hela sommarn?</l>
+  <l>– Hwad jag gör? jag sjunger bara.</l>
+  <l>Men hwad gör du sjelf om sommarn?</l>
+  <l>– Jo, jag dansar, när du sjunger.</l>
+  </lg>
+  <head>66. Lappgossens wisa.</head>
+  <lg>
+  <l>Spring, min snälla ren,</l>
+  <l>Öfwer berg och fält!</l>
+  <l>Wid min flickas tält</l>
+  <l>Får du krafsa sen.</l>
+  <l>Ymnig mossa är</l>
+  <l>Under drifwan der.</l>
+  </lg>
+  <lg>
+  <l>Dagen är så kort,</l>
+  <l>Wägen är så lång,</l>
+  <l>Spring du wid min sång,</l>
+  <l>Låt oss skynda bort!</l>
+  <l>Här är ingen ro,</l>
+  <l>Här blott ulfwar bo.</l>
+  </lg>
+  <pb type="orig" n="131"/>
+  <lg>
+  <l>Se, der flög en örn!</l>
+  <l>Säll han wingar har.</l>
+  <l>Se hur molnet far;</l>
+  <l>Satt jag i dess hörn,</l>
+  <l>Såg jag ren kanske</l>
+  <l>Dig derborta le.</l>
+  </lg>
+  <lg>
+  <l>Du, som hjertat här</l>
+  <l>Fångade i hast,</l>
+  <l>– Så en wildren fast</l>
+  <l>Wid en tam man snär; –</l>
+  <l>O, du drar mig mer,</l>
+  <l>Än en fors dit ner.</l>
+  </lg>
+  <lg>
+  <l>Sen jag dig fick se,</l>
+  <l>Tusen tankar jag</l>
+  <l>Har båd’ natt och dag,</l>
+  <l>Tusen äro de</l>
+  <l>Och blott en ändå:</l>
+  <l>Att dig äga få.</l>
+  </lg>
+  <lg>
+  <l>Du må gömma dig</l>
+  <l>Bakom däldens sten,</l>
+  <l>Eller med din ren</l>
+  <l>Fly till skogs för mig,</l>
+  <l>Undan, undan skall</l>
+  <l>Både sten och tall!</l>
+  </lg>
+  <p rend="right">F. M. Franzén.</p>
+  <pb type="orig" n="132"/>
+  <head>67. Om Esterne.</head>
+  <p n="1">Esterne bo icke i Finland och höra icke till vårt folk, men äro nära beslägtade med den gren af finska folket, som kallas Tavaster. Dessa två, Ester och Tavaster, voro fordom samma folk, den tiden de bodde i nuvarande Ryssland. Men när de undanträngdes af Ryssarne och flyttade mot nordvest, delade sig folket. En del gick norrom Finska Viken och blef bosatt i Finland; en annan del gick söderom hafsviken och blef bosatt i Estland. Ty Estland är beläget vid södra kusten af Finska Viken och är ett litet, tätt befolkadt land med sjöar, floder och fruktbara åkerfält. Det har en annan natur, än Finland, känner inga berg af granit och sträcker mot hafvet en öppen, sandig kust. Ett och annat granitblock, som hafsisen fordom fört öfver från finska sidan, visas i Estland som något märkvärdigt.</p>
+  <p>Esterne blefvo för mer än sexhundra år sedan underkufvade af Tyskarne. Sedan ha de lydt under flera främmande välden och lidit mycket af härjande krig; nu lyda de under Ryssland. Deras tyske herrar ha behandlat dem hårdt och tagit ifrån dem deras jord, så att Esterne ända till vår tid varit landbönder under de tyska riddaregodsen. Under ett hårdt förtryck ha de icke fått samma frihet och undervisning, som deras bröder Finnarne, men numera behandlas de bättre och få äga jord. Ändock hafva Esterne troget bevarat deras eget språk, deras egna minnen och egna folklynne. De äro ett lifligt, känsligt och ihärdigt folk, som mycket älskar sin fädernebygd. Ofta ser man dem segla i deras öppna båtar öfver till finska kusten, och der igenkänner man dem af deras långa bruna rockar, deras långa bruna hår, deras smärta vext och deras lifliga bruna ögon.</p>
+  <pb type="orig" n="133"/>
+  <p>Esternes språk är så likt Finnarnes, att båda lätt förstå hvarandra, när de hunnit vänja sig vid den främmande brytningen. Esten har likasom afstympat de finska orden och lånat flera ord från tyskan eller från ryskan. I öfrigt likna Ester och Finnar äfven deri hvarandra, att båda älska visor och gamla sagor, som under hårda tider varit Esternes tröst. Emedan dessa folkminnen likna Finnarnes sagor och folksånger, såsom två grenar ur samma rot, skola vi omtala några bland dem.</p>
+  <head>68. Esternes Kalewi-poeg.</head>
+  <p n="1">Esterne hafva många vackra folksagor och en stor hjeltedikt i 20 sånger, uppkallad efter deras störste folkhjelte, Kalevi-poeg (Kalevan-poika), Kalevs son. Om honom berättas följande saga:</p>
+  <p>En gumma vallade sina kor i skogen och fann der en orrhöna och ett ägg. Af dem uppvexte två sköna jungfrur, Salme och Linda, som fingo månge friare. Salme blef gift med nordstjernan, men Linda valde till sin make den från gudarne härstammande starke hjelten Kalev (Kaleva). Linda och Kalev hade tre söner, och yngste sonen var född efter fadrens död. Medan de tre gossarne voro på jagt, kom en ”vindkunnig” trollkarl från Finland och bortröfvade deras moder. Då anropade Linda himmelens gud, Ukko, och han förvandlade henne till en klippa på Iru-berget vid staden Reval.</p>
+  <p>Sönerne sökte förgäfves sin moder. Den äldste for till Ryssland och blef en kunnig köpman; den medlerste drog till norden och blef en berömd krigare. Den yngste, Kalevi-poeg, förliknades vid en örn med jernklor och hade<pb type="orig" n="134"/> många sällsama öden. Han samm öfver Finska Viken till Finland, uppsökte trollkarlen i ödemarkerna och slog honom med en ekstam till marken. Sin moder kunde han icke finna; hon visade sig för honom som en skön jungfru i drömmen, och han förstod nu, att hon icke mera fanns bland de lefvande.</p>
+  <p>Då följer en rad af äfventyr. Kalevi-poeg uppsöker en berömd smed i Finland och köper ett så oförlikneligt svärd, att han dermed klyfver smedens städ ända till marken, utan att en skråma synes på klingan. Det vilda lynnet vaknar; Kalevi-poeg nedhugger smedens son, och den olycklige fadren förbannar svärdet, så att det en dag skall blifva sin herres död. Kalevi-poeg återvänder till Estland och öfverenskommer med sina bröder, att den, som förmår längst kasta ett klippstycke, han skall blifva landets konung. Kalevi-poeg kastar längst, blir konung i Estland och plöjer landet med en jättehäst och en jätteplog. Vargarne sönderslita hans häst; han utrotar vilddjuren, han odlar landet. Han vill bygga ett fäste, vandrar med plankor på ryggen midtigenom Peipus-sjön och trycker så djupa fotspår i landet, att han nedplattar bergen. Medan han hvilar sig på stranden, stjäl en elak trollkarl hans svärd och tappar det uti sjön. Kalevi-poeg vaknar och lofvar svärdet att ligga förborgadt i sjön, tilldess att en lika stark hjelte kommer att upptaga det, men kommer han sjelf, må det skära hans fot. Derefter slår han sönder sina plankor mot trollkarlens söner och går att hämta sig nya. På denna resa kommer han till de dödas rike under jorden. Der herrskar en ond ande, Sarvik, öfver omätliga rikedomar. Kalevi-poeg besegrar Sarvik, befriar tre fångna jungfrur och återvänder, belastad med byte, till dagens ljus.</p>
+  <p>Nu vill Kalevi-poeg uppsöka verldens ände och bygger sig dertill ett skepp af silfver. Han seglar norrut till Lappland och råkar i stora faror. Engång uppslukas han<pb type="orig" n="135"/> af en hafshvirfvel och räddas af en hvalfisk. En annan gång plockar en jätteflicka honom i sitt förkläde och hämtar honom som ett underdjur till sin fader. Han besöker eldsprutande berg, han ser norrskenets andar strida med silfverspjut och gyllene sköldar. Ändtligen säger honom en vis man, att förrän han finner verldens slut, skall han finna sitt eget. Kalevi-poeg återvänder till Estland, besegrar i ett fältslag sitt lands fiender, nedstiger än engång till de dödas rike och binder Sarvik med kedjor. Men nu komma jernklädde män öfver hafvet att anfalla Estland. Der står åter ett blodigt slag. Kalevi-poeg segrar, men hans bäste kämpar ha stupat. Han står ensam, ”lik en i våren förvissnad björk”. Enslig bor han uti den stora skogen. Då vandrar han en dag vid stranden af Peipus och ser sitt fordna svärd blixtra i vattnet. Full af längtan, vadar han ut, för att återtaga det, men svärdet, som ihågkommer förbannelsen och löftet, afskär hans båda ben ända till knäet. Så hämnar svärdet ett fordom utgjutet oskyldigt blod.</p>
+  <p>Kalevi-poeg dör, men gudarne ställa honom efter döden att benlös vakta dödsrikets portar och den i kedjor bundne Sarvik. Der slår Kalevi-poeg sin hand mot bergporten, men handen blir fastsittande i remnan, och hvar gång Kalevi-poeg vill rycka sig lös, skälfver marken i jordbäfning.</p>
+  <head>69. Estniska Folkwisor.</head>
+  <head type="sub">a) Hemmets dotter.</head>
+  <lg>
+  <l>Nu är solsken, nu är sommar,</l>
+  <l>Lärkan drillar öfwer lindan,</l>
+  <l>Nu så löfwas alla lundar,</l>
+  <pb type="orig" n="136"/>
+  <l>Nu så blomma alla hagar,</l>
+  <l>Gräset står så skönt på ängen,</l>
+  <l>Tallen bugar sig i skogen,</l>
+  <l>Björken böjer sig i dalen,</l>
+  <l>Äpplen glänsa nu på grenen,</l>
+  <l>Nötter lysa mellan löfwen,</l>
+  <l>Alla hemmets döttrar sjunga.</l>
+  </lg>
+  <lg>
+  <l>Sommarn flyr, och hösten kommer,</l>
+  <l>Lian bergar ängens grönska,</l>
+  <l>Yxan fäller backens tallar,</l>
+  <l>Bilan böjer björkens krona,</l>
+  <l>Frosten plockar grenens äpple,</l>
+  <l>Nötterna slår blixten neder,</l>
+  <l>Och en man tar hemmets dotter.</l>
+  <l>Ängen tåras då af saknad,</l>
+  <l>Sörjande står gula skogen,</l>
+  <l>Hennes faders fålar gnägga,</l>
+  <l>Hennes moders qwigor råma,</l>
+  <l>Hennes broders oxar böla,</l>
+  <l>Sakna den, som gaf dem föda,</l>
+  <l>Sörja den, som gaf dem dricka,</l>
+  <l>Minnas hulda wårdarinnan.</l>
+  </lg>
+  <lg>
+  <l>Gick hon ej, den glada flickan,</l>
+  <l>Redan före solens uppgång</l>
+  <l>Sjungande till ladugården?</l>
+  <l>Smög hon ej till qwigans krubba,</l>
+  <l>Innan hennes moder wisste,</l>
+  <pb type="orig" n="137"/>
+  <l>Innan hennes fader waknat?</l>
+  <l>Räckte hon ej hö ur famnen,</l>
+  <l>Strödde egenhändigt hafran,</l>
+  <l>Windade ur brunnen watten,</l>
+  <l>Innan far och mor det wisste?</l>
+  <l>Och det skulle de ej minnas!</l>
+  </lg>
+  <head type="sub">b) Fosterbygdens lof.</head>
+  <lg>
+  <l>Du min by, min gyllne hembygd,</l>
+  <l>Du min by, der förr jag wuxit,</l>
+  <l>Ljufwa land, der förr jag lefwat,</l>
+  <l>Raske wuxo dina söner</l>
+  <l>Och så friska dina döttrar.</l>
+  <l>Du är dock en by, som duger,</l>
+  <l>Du bär bröd på dina åkrar,</l>
+  <l>Du bär hö på dina ängar,</l>
+  <l>Öfwerst åkern, nederst ängen,</l>
+  <l>Och i midten blommar linet.</l>
+  <l>På din backe doftar kummin,</l>
+  <l>Dina fält stå swafwelgula,</l>
+  <l>Dina häckar bära krusbär,</l>
+  <l>Hagtorn grönskar i ditt gärde,</l>
+  <l>Och af äpplen doftar gården.</l>
+  </lg>
+  <lg>
+  <l>We dig, by, dit nu jag kommit,</l>
+  <l>Dn, hwars egen nu jag blifwit,</l>
+  <l>Skam åt dig, ja, skam och nesa!</l>
+  <l>Blott på gyckel blir du prisad,</l>
+  <pb type="orig" n="138"/>
+  <l>Blott på spe du nämns den goda,</l>
+  <l>Sanka sumpmark, fula fält, du,</l>
+  <l>Som förderfwar rena hjertan,</l>
+  <l>Som beskymfar tadelfria</l>
+  <l>Och förleder mödrars döttrar!</l>
+  </lg>
+  <lg>
+  <l>Dig, min egen by, jag prisar,</l>
+  <l>Dig, min hembygd, jag besjunger.</l>
+  <l>Du är dock en by, som duger,</l>
+  <l>Står på klippan, som en kyrka,</l>
+  <l>Som ett bönehus på höjden.</l>
+  <l>Som en ljuflig syn på berget.</l>
+  <l>Blott i ett står du i wärde</l>
+  <l>Efter Wesenburg och Rewal:<note id="ftn7" n="*)" place="foot" anchored="true">Städer i Estland.</note></l>
+  <l>Att du ej ser sköna skeppen</l>
+  <l>Med de rika waror nalkas,</l>
+  <l>Ser ej skepp med kryddor gunga</l>
+  <l>Och sin last af linne lossa.</l>
+  </lg>
+  <head>70. Om Finlands folk.</head>
+  <p n="1">Detta är kartan öfver Finlands folk:</p>
+  <p>I östra delen af landet: i Karelen, Savolaks, norra och nordöstra delen af Österbotten, bo <hi rend="expanded">Karelare</hi>. I vestra delen af landet: i Tavastland, Satakunda, Egentliga Finland, norra Nyland och sydöstra Österbotten bo <hi rend="expanded">Tavaster</hi>. I södra Nyland, vid kusten af södra Österbotten och på Ålands<pb type="orig" n="139"/> skärgård bo folk <corr source="Rättelser">af</corr> <hi rend="expanded">svensk</hi> härkomst. I södra Finland har ett litet antal <hi rend="expanded">Ryssar</hi> inflyttat, och för öfrigt finner man i landet en och annan Tysk, Engelsman, Fransman, Dansk, Norrman samt några få af andra nationer.</p>
+  <p>I detta landet bor alltså ett folk af olika härkomst och olika språk. Bland etthundra invånare i Finland härstamma 86 från den finska folkstammen, 12 från Svenskarne, 1 från Ryssarne och 1 från andra nationer, mest Tyskar. Mången har en svensk fader och en finsk moder, eller en finsk fader och en svensk moder; några ha en rysk fader och en finsk moder, eller ha deras föräldrar eller förfäder inflyttat från främmande land. Få äro af så oblandad härkomst, att icke någon af deras slägt burit i sina ådror olika folkslags blod. Men det är sagdt, att alla, som erkänna och älska detta landet såsom deras fädernesland, – alla, som lyda detta lands lagar och arbeta för dess välfärd, – äro <hi rend="expanded">ett</hi> folk. De äro förenade genom deras kärlek, deras lydnad, deras gemensama välgång. Om sjömän, som härstamma från olika folk, segla på samma fartyg i vida hafvet, så måste de ju sämjas och arbeta, för att hinna till hamn; annars skulle fartyget förgås med dem alla. Och på samma sätt, om Gud förenat inbyggare af olika härkomst på samma stycke af jorden med en gemensam ansvarighet, måste de ju hålla tillsamman i endrägt, på det att dem må väl gå och på det att icke andra, endrägtigare folk må taga ifrån dem deras ärfda jord. De måste stå som en man, med ett hjerta för fäderneslandet.</p>
+  <p>Detta folket har vuxit samman, såsom många träd göra en stor skog. Tallen, granen och björken äro olika trädslag, men tillsamman äro de skogen. Folket i det ena landskapet skiljer sig från folket i det andra landskapet genom utseende, klädedrägt, lynne, seder och lefnadssätt. Vi kunna lätt skilja en Tavastländing från en Karelare, en Nyländing från en Österbottning; ja, vi igenkänna <hi rend="expanded">en</hi> sockens<pb type="orig" n="140"/> inbyggare bland många andra från grannsocknarna. Men resa vi utrikes och möta der landsmän från olika delar af landet, så märka vi, att de hafva en likhet sig emellan. Och om en främling reser i Finland, märker han, att detta landets inbyggare likna hvarandra. Ty de, som från barndomen uppvuxit i samma land, under samma lagar och lefnadsförhållanden, måste ju, med all skiljaktighet hvar för sig, ändock hafva mycken likhet inbördes.</p>
+  <p>En sådan folkets inbördes likhet eller egendomlighet (<hi rend="expanded">folklynne</hi>, <hi rend="expanded">folk-karakter</hi>) är lättare att igenkänna, än att beskrifva. Det är den stämpel, som Gud har påtryckt hvarje folk, genom att låta det länge bo tillsamman. Detta märke bär hvarochen med sig, hvar han i verlden går. Det kan afnötas genom uppfostran, vanor och lifvets intryck, men det kan sällan fullkomligt utplånas.</p>
+  <p>Den stämpel, som Gud har påtryckt Finlands folk, kan bäst urskiljas, om vi gifva akt på detta folkets framfarna öden. Det har ända till våra dagar bevarat minnet af sina fäders hedniska tro, men sedan det fått Guds uppenbarade ord, har detta alltid varit dess högsta skatt. Det måste således vara ett folk, med djup och allvarlig <hi rend="expanded">gudsfruktan</hi>. Det har i tusen år beständigt arbetat på att rödja och odla sitt land: – det måste vara ett <hi rend="expanded">arbetsamt</hi>, <hi rend="expanded">ihärdigt</hi> folk. Det har arbetat i en hård jordmån och under ett strängt, nordiskt klimat: – det måste vara ett <hi rend="expanded">härdadt</hi> och <hi rend="expanded">starkt</hi> folk. Stora olyckor och ödeläggelser hafva öfvergått detta folk mer än de flesta andra; det har ofta varit tvunget att kämpa mot den bittraste nöd, det har slagits till jorden, det har från sina brända gårdar måst fly till de djupaste ödemarker, och ändock har det lefvat, hoppats och åter stått upprätt: – det måste vara ett <hi rend="expanded">tåligt</hi>, <hi rend="expanded">försakande</hi>, <hi rend="expanded">lifskraftigt</hi> folk. Aldrig har ur det finska folkets sköte framgått en eröfrare, som anfallit och underkufvat andra nationer: – det måste<pb type="orig" n="141"/> vara ett <hi rend="expanded">fridsamt</hi> folk, utan hersklystnad, icke skapadt att intaga en plats ibland jordens mäktige. Men det har intill sista blodsdroppen försvarat sitt eget fädernesland; det har frambragt utmärkte fältherrar och verldsberömde soldater: – det måste dock vara ett <hi rend="expanded">tappert</hi> och <hi rend="expanded">stridbart</hi> folk. Kufvadt, besegradt, men aldrig tillintetgjordt, har det under främmande öfvervälde städse behållit sitt sätt att lefva och sitt sätt att tänka: – det måste vara ett ytterligt <hi rend="expanded">segt</hi> och <hi rend="expanded">envist</hi> folk. När det engång underkastat sig annat eller eget lands styrelse, har det sedan aldrig gjort uppror mot denna sin öfverhet, aldrig tålt förrädare, aldrig sålt sitt fädernesland: – det måste vara ett <hi rend="expanded">trofast</hi> folk. Ofta har det försummat att göra sin rätt eller sin styrka gällande: – det måste vara ett <hi rend="expanded">långtänkt</hi> och <hi rend="expanded">senfärdigt</hi> folk. Men under tider af våld och förtryck har det aldrig kunnat lära att böja sig under förtryckares ok: – det måste vara ett <hi rend="expanded">frihetsälskande</hi> folk. Och slutligen har det, i sina ensliga skogar, fjerran ifrån den bildade verldens medelpunkter, långsamt, under hårda mödor kämpat sig fram till upplysning; – det måste vara ett <hi rend="expanded">vetgirigt</hi> och <hi rend="expanded">kunskapsälskande</hi> folk.</p>
+  <p>Sådana äro grunddragen hos detta folk, som Gud har utkorat till att odla den högsta norden. För ett sådant värf behöfves ett sådant folk. Och Gud har ställt detta folk främst som ett föredöme och en lärmästare för många fattige, okunnige stamförvandter, som äro spridde kring verlden. Det är en stor kallelse, som Finlands folk har fått på sin del. Gud styrke det dertill med sin sanning och sin kraft. Saligt är det folk, hvars Gud Herren är; det folk, som han till ett arf utkorat hafver. Ps. 33: 12.</p>
+  <pb type="orig" n="142"/>
+  <head>71. Matti.</head>
+  <p n="1">En husbonde hade tre tjenare. Ivan var Rysse, Erik var Svensk, och Matti var Finne. En sommarmorgon utsände husbonden sina tjenare att uppgräfta en stenbacke till åker och anvisade dem ett stycke hvardera. Ivan gräftade under munter sång och blef färdig till middagen. Erik arbetade, ömsom skrattande, ömsom knotande, och blef färdig på eftermiddagen. Matti såg tvär ut, tog sig en god betänketid och blef färdig på sena qvällen.</p>
+  <p>När de slutat sitt arbete, kom husbonden för att bese det. Ivan har arbetat flinkast, sade han; men Ivan har lemnat stenarna qvar. Erik har bortröjt de små stenarna, men låtit de stora ligga. Matti har bortröjt de stora stenarna, men låtit de små ligga qvar. Hvar och en af eder har en förtjenst och ett fel. Nästa gång vill jag sända Ivan att harfva min åker, Erik skall dika min äng, och Matti skall bryta stenar; dertill är <hi rend="expanded">han</hi> skapad.</p>
+  <p>Matti blef således stenbrytare. Önskar nu någon att lära känna denne betänksame man, så är han till vexten af medelstorlek, axelbred, armstyf och väl härdad. Han har brunt hår, grå ögon, grå hy, något inböjd näsa, tunna läppar, bredt ansigte. Han är således ingen skönhet; men det säges, att han har vackra bröder med bruna ögon och täcka systrar med lingult hår. Mattis hållning är styf och trumpen, såsom det egnar en stenbrytare. Han går långa vägar med trygga, långsama steg. I ungdomen säges han tillochmed hafva dansat, men det måste vara förtal, ty nu kan ingen förmärka något slags danskonst hos honom.</p>
+  <p>Till lynnet är Matti en af dem, som icke förhasta sig. Han är tvär och tillbakadragen; men när han suttit en stund bland goda vänner, tyckes han likasom töa och krypa ur idet. Hans trumpna ansigte förmildras, han kan blifva<pb type="orig" n="143"/> munter, tillochmed qvick på sitt eget sätt. Man skulle icke tro om en så allvarsam man, att han kan gyckla och skämta så, som han likväl kan, och då roar det honom obeskrifligt, att förlöjliga egna och andras dårskaper. Ehuru vanligen fåordig och <corr source="Rättelser">tystlåten,</corr> kan han då tala mer, än en annan står ut med att höra. Till Mattis fel hör nemligen också det, att ofta tiga, när det vore bättre att tala, men stundom tala, när det vore bättre att tiga.</p>
+  <p>Matti är en så genomärlig man, att han måste låna ordet <hi rend="expanded">tjuf</hi> från ett annat språk. Han är också en lugn man. Att styra utför en brant fors, att lägga an mot björnen på fem stegs afstånd, eller att släcka det brinnande taket öfver en krutkällare, bekommer honom icke det minsta. I krig har han heller aldrig kunnat lära sig konsten att springa. Han är aldrig rädd före eller under faran, men <hi rend="expanded">efteråt</hi> är han mycket försigtig. Att han är långsam och senfärdig, vet hela verlden. Möter han en bekant på vägen, blir han ej färdig att helsa, förrän den andre är redan ett stycke förbi. Ändock händer, att sedan han alltför länge begrundat en sak, råkar han ut för en förunderlig brådska. Fundera länge och sedan fjäska, är Mattis vana. Han har så länge kommit allestädes för sent, låtit vänta på sig och funnit andra, som hunnit före honom, att han råkat i mycket bekymmer för de nya jernvägarnes punktlighet på minuten. Men Matti är läraktig: han brukar nu ofta, för säkerhets skull, infinna sig en timma för tidigt. Att han är envis som synden, vet ock hela verlden; hans envishet är just afviga sidan af hans ihärdighet. Hvad han en gång fått i sitt hufvud, det vill han drifva igenom. Der han skall stå, der står han; men behagar han icke, är det förspilld möda, att öfvertala honom. En af Mattis bröder, en lång karl, dränkte sig i ett vattenämbar: det var ingen lätt sak, men han ville drunkna, och han drunknade. Alltid behöfver Matti betänketid. Han misstror allt nytt; men<pb type="orig" n="144"/> han kan vänja sig småningom. Derför afskyr han nya moder och seder, men när dessa kommit ur bruk hos andra, händer, att Matti finner behag för dem. I hans slägt finnas ock få, som börja, men många, som hålla med. När den, som börjat, släpper sitt tag, blifva alla de andra borta. Och de, som ingenting göra, äro mycket flitige att klandra dem, som göra något.</p>
+  <p>Till Mattis senfärdighet hör, att han tål mycket, innan han vredgas, men en gång vred, blir han ofta vred öfver all måtta. Han bär tåligt en stor missvext och knotar öfver ett litet olägligt regn. Han kan förlåta den, som beröfvat honom all hans egendom, men har någon stulit hans grimskaft, då börjar Matti process.</p>
+  <p>Matti älskar sin häst, sin åker, sin båt, sin badstuga, sin smedja och sin säkra gamla lodbössa. Någre af bröderne handla och färdas på resor till lands eller sjös. Helst vill dock Matti lefva i fred i sin stuga, utan bekymmer för morgondagen, och anser sig rik, när han i dag har sitt rågbröd, sin gröt, sin mujka eller ströming och sina potäter. I nödfall äter han bark. Är han väl mätt, af egen eller andras mat, händer ibland, att han slår sig på latbänken; deremellan är han en styf arbetare. Det skulle ej skada Matti, att bättre kunna räkna inkomst och utgift, ty spara för morgondagen är icke hans sak. Medan han ömsom slösar och svälter, blifva främlingar rike på hans bekostnad. Han kan se framför sina fötter högar af guld, men kommer sig ej till att sträcka ut handen och taga dem. Matti är en karl med godt naturligt förstånd, och dock är ingen så lätt lurad som han. Han tycker sig göra en god affär, när han byter sin flinka häst och får en med spatten i stället.</p>
+  <p>För öfrigt är Matti hjelpsam, gästfri, pålitlig och trofast; sofver om vintern, vakar om sommaren, hör gerna musik, diktar vackra visor och tycker om allt, som behöfver eftertanke. Han är en mästare i att gissa gåtor och<pb type="orig" n="145"/> sinnrika ordspråk. Han vill gå till grunden med allt; han gräfver sin brunn så djup, som ville han gräfva igenom jorden, och om han i barndomen råkat stappla på katekesen, kan han sedan begrunda i åratal hvarför Gud har låtit honom födas till denna verlden.</p>
+  <p>Vi skola icke tala om Mattis finare bröder och systrar: de likna utvärtes andra finare menniskor och bära dock alltid ett stycke af Matti inom sig. Gud välsigne den breda näfven och det ärliga hjertat! Matti har sina fel, Matti har sitt hufvud för sig, men när Vår Herre vill bryta stenar på jorden, skickar han Matti till stenbacken. Detta är Mattis embete. Vår Herre vet bäst hvartill vi duga.</p>
+  <head>72. Om finska språket.</head>
+  <p n="1">De språk, som mest talas i Europa, höra till tre stora afdelningar: de <hi rend="expanded">latinska</hi> språken (franska, italienska, spanska m. fl.), de <hi rend="expanded">germaniska</hi> språken (svenska, tyska, engelska m. fl.) och de <hi rend="expanded">slaviska</hi> språken (ryska, polska m. fl). Men finskan hör icke till någon af dem, utan står i främsta ledet af en egen stor afdelning, de <hi rend="expanded">finska</hi> språken. Dessa äro mera beslägtade med turkiskan och andra österländska språk, än med de rådande språken i Europa; ja, det är en större skilnad mellan svenska och finska, än mellan svenska och ryska. Till de finska språken räknas ungerskan, lappskan och de språk, som talas af våra stamförvandter i Ryssland. Estniska språket är endast en gren eller munart utaf det finska.</p>
+  <p>Inom Finland talas också olika munarter. <hi rend="expanded">Ostfinskan</hi>, eller talspråket i Savolaks och Karelen, är mjukare och rikare på vokaler, än den hårdare och kraftigare <hi rend="expanded">vest<pb type="orig" n="146"/>finskan</hi>, som talas i Tavastland och de vestliga bygderna. Ostfinskan har lånat några ord från ryskan och tyskan, medan vestfinskan lånat flera från svenskan. Många omflyttningar af befolkningen hafva gjort, att ostfinskan och vestfinskan flerstädes inträngt på hvarandras område, och på några orter äro de likasom sammanvuxna. Derför hör man olikheter i språket på olika orter, dock icke större, än att alla förstå hvarandra. I det inre och norra Finland talas ett renare språk, än vid kusterna. Någre mena, att den vackraste finskan talas i nordöstra Tavastland; men detta vilja icke Nordösterbottningarne och Savolaksarne medgifva.</p>
+  <p>Det är nu mer än trehundra år, sedan finska språket först började begagnas i skrift och tryck. Derigenom att bibeln öfversattes i vestra Finland, blef vestfinskan det egentliga skriftspråket och fick en tidigare utbildning. Först i våra dagar har man sett böcker tryckas på ostfinskans munart. Nu har man också begynt rikta språket med det bästa från alla dess munarter, och månge flitige forskare hafva ransakat språkets egenheter, så att den finska språkläran snart skall blifva en af de bäst utredda i verlden.</p>
+  <p>Och finska språket förtjenar väl för dess egen skull all den stora kärlek och omsorg man derpå använder. Det finns icke många språk, som så klart och i så rika, så fina skiftningar förmå återgifva tankarnes mångfald och känslornas stämning. Det finns icke heller många, som lyckas att med en så beundransvärd fyndighet afspegla naturen. En främmande, ojäfvig man, en berömd dansk språkforskare vid namn Rask, beskrifver detta språk med följande ord:</p>
+  <p>”Finskan är ett af de mest naturfriska, regelrätta, lätt utbildade och välljudande tungomål på jorden. Det har den skönaste samklang mellan konsonanter och vokaler, hvari det liknar italienskan. Det har intet af de obehagliga hväsljuden och de hårdt utandade ljuden i slaviska el<pb type="orig" n="147"/>ler lappska språken. Det har ett alldeles bestämdt tonfall, likasom franskan. Det har flera former och färre böjningssätt eller afvikelser, än latinet, det vill säga större fördelar med mindre ofullkomligheter. Det är oändligt rikt på ordens utgreningar och sammansättningar, likasom grekiskan och tyskan. Det tyckes således hafva utsökt och förenat det bästa af alla andra språk i Europa; men då intet är fullkomligt under solen, saknar finskan det, som tyckes vara vigtigare än alla inre förtjenster, nemligen en stor användning i böcker, en vid utsträckning, ett närmare samband med syskonspåken och äran att talas vid ett lysande hof”.</p>
+  <p>Sedan Rask skref dessa ord (1820), har finska språket fått många lärorika böcker och blifvit mera jemfördt med syskonspråken. Det är äfven kändt och högt aktadt af utländske språkforskare, men furstar och hof tala icke finska, och för Europas öfriga folk är detta språk så obegripligt, som fåglarnas qvitter. Endast stundom lysssnar en främling med undran på de finska folkvisornas melodiska ord. Och när han läser dessa sköna dikter, öfversatta till andra språk, vet han icke huru mycken innerlighet der går förlorad i öfversättningen. Ty det finska språket är likasom ett genomskinligt flor, der folkets själ öfverallt lyser igenom. Det är ännu ett hittebarn i Europa, lindadt i silke, men utsatt i ödemarkerna. När detta barn vexer upp och kan bestyrka sin härkomst, skall man i det igenkänna en konungadotter. Det skall en dag blifva lika rikt på stora tankar, som det nu är rikt på oskyldig fägring. Det skall kunna utsäga det bästa och ädlaste, som någonsin uppstigit i ett menniskohjerta. Ty dertill har Gud gifvit det stora, kungliga gåfvor, och detta barn skola vi bära på våra armar ut i verlden.</p>
+  <pb type="orig" n="148"/>
+  <head>73. Lippo och Tapio.</head>
+  <head type="sub">(Folksaga från Karelen).</head>
+  <p n="1">Tre män gingo ut på jagt. En af dem hette Lippo, flink karl, skogsgångare. De träffade tre renar. Två voro insnärjda i hvarandras horn, den tredje var lös. Lippo bad sina kamrater jaga de två, han ville jaga den tredje. Han jagade, skidade, natten kom. Lippo hade ej upphunnit renen. Lippo kom till en gård i skogen. Renen sprang in på gården, Lippo följde honom. Värden stod på gården; en gammal gubbe, skägget, håret, allt af granmossa. Gården var Tapiola, och värden var Tapio, skogens konung.</p>
+  <p>Gubben klappade renen på halsen och sade: hvad är det för en odugling, som jagat min fåle svettig? Lippo trädde fram och svarade: nog är det jag. Tapio sade: nå, efter du jagat min fåle till sena qvällen, så blif öfver natten qvar i min stuga.</p>
+  <p>Lippo inträdde i Tapios stuga och såg sig omkring. Här funnos renar, elgar, björnar, räfvar, vargar och alla djur, som lefva i skogen. Tapio gaf Lippo qvällsvard och undfägnade honom väl. Om morgonen, när Lippo ville begifva sig bort, fann han ej sina skidor. Tapio sade till honom: jag har en enda dotter; vill du ej stadna här och blifva min svärson? Lippo svarade: nog ville jag stadna, men jag är en fattig man. Bry dig icke derom, sade Tapio; fattigdomen är intet fel, hos oss får du allt hvad dig lyster. Då stadnade Lippo, flinka karlen, skogsgångaren, qvar och blef Tapios svärson.</p>
+  <p>Efter tre år gaf Lippos hustru åt honom en liten pojke. Lippo bad då Tapio att få återvända till sitt hem. Tapio sade: gör åt mig ett par goda skidor, så vill jag visa dig vä<pb type="orig" n="149"/>gen. Lippo gick till skogen och högg ämnen till skidor. Talgmesen sjöng på grenen:</p>
+  <lg>
+  <l>”Ti, ti, talgmesen,</l>
+  <l>Ti, ti, sparfungen,</l>
+  <l>Sätt qvist under rännan,</l>
+  <l>Under foten qviständen!”</l>
+  </lg>
+  <p rend="noIndent">Lippo kastade en käpp efter fågeln: hvad qvittrar du der, din stackare? Gjorde så skidorna färdiga, men Tapio sade: de passa icke åt mig. Lippo gick andra dagen till skogen, och talgmesen sjöng samma visa. Lippo bannade honom och gjorde ett nytt par skidor, men icke heller dessa passade. Tredje dagen gick Lippo till skogen, och talgmesen sjöng samma visa. Nå, sade Lippo, du lär väl ej sjunga för ro skull. Gjorde så nya skidor med en bra qvist under foten i skidrännan, och Tapio sade: se, nu duga de! Stadna alltid öfver natten der du ser spår af min skidstaf, men gör kojan tät, så att himmelens stjernor ej skina in genom taket.</p>
+  <p>Lippo skidade bort på resa med hustru och barn. Mot qvällen såg han det första spåret af Tapios skidstaf, och der fanns en stekt elg till aftonmåltid. Lippo tillredde en god koja af granris med tätt tak, drog in barnet på kälken och blef öfver natten med sin hustru i kojan. Andra dagen fortsatte han färden, fann åter ett spår af Tapios staf, och der var en stekt ren. Åter gjorde Lippo en tät koja och blef der öfver natten. Tredje dagen for han vidare, fann det tredje spåret, och der var en stekt tjäder. Se, nu är mitt hem icke långt borta, när qvällsvarden är så liten, menade Lippo. Gjorde nu i hast en gles koja och drog in kälken med barnet. Himmelen glänste klar, och nattens stjernor tindrade in genom taket. Om morgonen uppstod Lippo: hans hustru var borta. Lippo gick ut, såg sig omkring: skidspåren syntes icke åt något håll. Lippo satt med sitt barn framför kojan och visste<pb type="orig" n="150"/> ej hvartåt han nu skulle skida. Aftonen kom: en elg sprang förbi i sakta lunk. Lippo blef qvar öfver natten. Om morgonen fann han åter en stekt tjäder, och åter sprang der en elg förbi. Så blef Lippo der i många, många år med sitt barn. Hvar morgon funno de en stekt tjäder, och hvar dag sprang en elg förbi kojan.</p>
+  <p>Under tiden vexte barnet stort och blef en öfvermåttan klok pojke. Gossen bad Lippo göra ett långt rör, för att se derigenom, om de ännu hade långt till hemmet. Lippo hade god tid och gjorde ett rör åt gossen. När gossen såg genom röret, sade han: icke ha vi långt hem, vi äro vid gärdesgården, just vid vår åker. – Strax begåfvo sig far och son på väg, och med detsamma voro de hemma.</p>
+  <p>Så var den saken. Och från Lippos gosse hafva Lapparne fått sin början.</p>
+  <head>74. Räfwen och haren.</head>
+  <head type="sub">(Folksaga från Satakunda).</head>
+  <p n="1">Räfven och haren möttes. Räfven sade till haren: dig är då ingen rädd för!</p>
+  <p>– Hvem är då rädd för dig? sade haren.</p>
+  <p>– För mig äro alla rädda, menade räfven. Jag har en så lång svans, att alla taga mig för en varg, när de se mig på afstånd. Det ger respekt, ser du; men dig stackare fruktar ingen.</p>
+  <p>– Hålla vi vad? sade haren. Jag skall visa, att de nog finnas, som äro rädda för mig.</p>
+  <p>Räfven gick in derpå, de höllo vad och begåfvo sig ut på vandring tillsamman. Då hände sig, att haren såg en fårskock, som låg vid en gärdesgård. Detta tyckte han vara ett godt tillfälle och hoppade alldeles oförväntadt<pb type="orig" n="151"/> midtin i skocken. Fåren till fötter, allt hvad de kunde, hitåt och ditåt, så förskräckta blefvo de! Detta roade haren obeskrifligt. I sin glädje öfver att ha vunnit vadet, begynte han skratta och skrattade så omåttligt, att han klöf munnen i kors, och alltsedan den dagen är harens mun på det sättet klufven.</p>
+  <p>Så var den saken.</p>
+  <head>75. Folksägner om jättarne.</head>
+  <p n="1">Fordom, säges det, bodde jättar mångenstädes i Finland. De voro så långa, att när de uppgjorde brasor i skogen, tände de först eld i grantopparne, och till hvarje brasa åtgick en hel skog. Engång gick en jätte från Sääksmäki tvärsöfver Mallasvesi sjö, som är mycket djup och mer än en mil bred. När jätten kom öfver till andra stranden på Pelkäne sidan, kände han sig något trött och sade: tänk, att vattnet redan begynte gå öfver stöfvelskaften!</p>
+  <p>En annan jätte satt grensle öfver taket på Marie kyrka i nejden af Åbo och lappade sina skor. Hans becktråd var så lång, att den räckte på hvardera sidan ända till marken. Nu hände sig, att en bonde kom åkande i sin kärra på vägen från Åbo och råkade i slingan af tråden, just när jätten drog ihop sömmen. Åhå, sade jätten, när bonden, hästen och kärran följde med i sömmen; hvarifrån kom der smolk i min becktråd? Men icke ids jag lösa upp knuten. – Hvarpå han knackade med hammaren och sade: visst blef der en liten klump!</p>
+  <p>Jätten lade sig engång tvärsöfver landsvägen med knäna i krok, och alla vägfarande åkte obehindradt under hans knän. När någon deröfver yttrade sin förundran, hördes en röst från skogen säga: det är ju bara ett tre års barn!</p>
+  <pb type="orig" n="152"/>
+  <p>I nejden af Wuoksi sutto en afton två jätteflickor och sjöngo, den ena på Lohikallio, den andra på Ruskiavuori. Mellan dessa berg är afståndet fem fjerdedels mil, men båda flickorna kunde höra hvarandra och sjöngo i samma takt. Värre buller gjorde en jätte i Ithis. När han klappade i händerna, hördes dånet kring hela verlden.</p>
+  <p>Desse jättar hade en styrka, som motsvarade deras storlek. När de funno det besvärligt att vada öfver sjöarne, vroko de stora stenar i vattnet och gjorde sig broar. Jätteflickorna buro i sina förkläden hela berg af mossa, hvilken de kastade i sjöarna, och deraf uppstodo sanka kärr. Mångenstädes ser man ännu jättekast, eller kummel af tunga stenar och klippstycken, dem jättarne kastat. I sjön Tarjanne är en kal holme, som kallas Munkholmen, och der ha jättarne samlat högar af stenar vid farleden mellan Ruovesi och Wirdois. Stenarna ville de kasta på båtar, som foro förbi. Och Munkholmen har sitt namn af munkarne, som tros hafva varit onda troll.</p>
+  <p>Mest voro likväl kyrkorna utsatta för jättarnes stenkastning. Det säges, att jättarne för god betalning byggt många stenkyrkor, men sedan ha de ångrat sitt arbete och velat förstöra det. De tålde icke höra klockorna ringa, och alla kors besvärade dem. Derför brukade jättarne ställa sig på bergshöjderna, stundom på en eller flera mils afstånd, och slunga klippstycken mot kyrkan. Aldrig har man hört, att de träffat målet, men klipporna, som de slungat, visas ännu i dag ett stycke från kyrkan, stundom på landbacken, stundom i sjön.</p>
+  <p>Reso kyrka byggdes också af en jätte. Han började arbetet efter trefaldighetssöndagen om våren och hade det nära färdigt, när kornet gick i ax. Presten tyckte icke om byggmästaren och råkade en natt höra jättens hustru sjunga en vaggvisa för sitt barn i bergsklyftan:</p>
+  <pb type="orig" n="153"/>
+  <lg>
+  <l>Killi kirkoja tekee,</l>
+  <l>Nalle nauloja takoo</l>
+  <l>Rahallises’ Raisionmaas’.</l>
+  </lg>
+  <p>Det är: Killi bygger kyrkor, Nalle smider spikar i det penningerika Reso-landet. – Men nu visste presten, att trollens styrka ligger i namnet, så att den, som vet deras namn, blir dem öfvermäktig. Dagen derpå såg han jätten med sin medhjelpare sitta grensle öfver kyrkans takås, för att uppfästa ett kors. Hvarpå presten ropade deras namn:</p>
+  <lg>
+  <l>Pois, Killi, kirkosta!</l>
+  <l>Pois, Nalle, harjasta!</l>
+  </lg>
+  <p>Det är: bort Killi, från kyrkan! Bort, Nalle, från takåsen! – Strax förvandlades jättarne till två svarta korpar, som skriande flögo sin väg. Jätten Killi ville dock hämnas och vadade ut i hafvet, för att hämta ett stort klippstycke och krossa kyrkan. När han ej mer kunde finna vägen dit, kastade han från sig klippstycket utanför Runsala, en half mil från Åbo. Der synes den stora klippan än i dag uti sjön och kallas <hi rend="expanded">Kukkarokivi</hi>, eller påse-stenen, emedan jätten burit den i en påse på ryggen.</p>
+  <head>76. Möten med jättar.</head>
+  <p n="1">En kulen höstafton seglade några sjömän i sin jala<note id="ftn8" n="*)" place="foot" anchored="true"><hi rend="expanded">Jala</hi> kallas en vid kusten af Wiborgs län bruklig snabbseglande jakt med egendomlig tackling.</note> långs hafskusten nära Wiborg och sågo en stor eld upptänd på stranden. De voro frusne, gingo i land, för att värma sig, och funno, till sin förskräckelse, en sofvande jätte ligga i rundel kring brasan med fötterna under hufvudet. Sjömännen fingo brådt att åter begifva sig ut till<pb type="orig" n="154"/> sjös, men i detsamma vaknade jätten. Hvarifrån ären J, finske gossar? frågade han. – Derifrån, derifrån, stammade sjömännen och pekade åt trakten af Wiborg. Jätten sade: nog känner jag Wiborg och den stora stenen i kyrkomuren ofvanför dörren: den har jag sjelf i mina unga år fört dit från Neitsyniemi. Men, finske gossar, hafven J icke något godt med eder från Wiborg?</p>
+  <p>Sjömännen hämtade en tunna tjära från sin jala, och jätten tömde i en klunk tunnans innehåll. Tack, sade han; det var den gamla Wiborgska drycken. Men begifven nu eder bort, innan mina gossar återvända! De äro unga och ostyriga; det kunde gå eder illa.</p>
+  <p>Sjömännen läto icke säga sig detta två gånger. De sprungo ombord och hade knappt hunnit hissa seglen, när de sågo två unge jättar på stranden. Den ene kastade en så tung sten, att jalan så när hade sjunkit. Den andre sprang ut i vattnet och grep så hårdt i bakstammen, att jalan med fulla segel icke rördes ur fläcken. I sin nöd grepo sjömännen till sina yxor och lyckades afhugga jättens ena hand, hvarpå han släppte sitt tag och lät dem fortsätta resan. Efteråt vägde sjömännen den afhuggna handen, och om man får tro deras berättelse, har den vägt 13 lispund och 6 skålpund.</p>
+  <p>Tjära tyckes ha varit jättarnes älsklingsdryck. Det finnes en annan berättelse om några bönder, som förde tjära till Helsingfors och mötte på vägen en jätte, som begärde af dem en sup finskt bränvin. Det var icke rådligt att neka; bönderne bådo honom hålla till godo hvad de medförde på deras lass. Jätten lyftade tre tunnor efter hvarandra till munnen, drack ut tjäran, torkade sig om skägget och sade med välbehag: nog har det ännu sin gamla goda smak.</p>
+  <pb type="orig" n="155"/>
+  <head>77. Skämtsagor.</head>
+  <p n="1">Någonstädes i detta land är en by vid namn Hölmölä, och der bo Hölmöläiset, Hölmöläboerne. Desse Hölmöläiset äro ett mycket försigtigt folk och betänka sig väl, innan de företaga sig något, på det att ingen skada måtte ske genom för mycken brådska. Om dem berättas, bland många andra kloka företag, följande:</p>
+  <p>a) <hi rend="expanded">Skörden</hi>. När Hölmöläiset skulle skära sin råg, behöfde de dertill sju personer. En böjde ned rågstängeln; den andre höll ett trädstycke derunder; den tredje afhögg halmen; den fjerde bar halmen till kärfven; den femte band kärfven; den sjette bar kärfvarna tillsamman, och den sjunde reste upp skylen. Matti råkade en dag betrakta deras arbete och förundrade sig öfver deras stora omtänksamhet. Om aftonen var en half teg skuren och halfannan oskuren. Matti ville göra Hölmöläiset en tjenst och företog sig om natten att skära och binda det, som ännu var oskuret. När han slutat sitt arbete, lade han skäran på sista skylen och gick bort att sofva. Hölmöläiset återvände om morgonen och funno rågen skuren samt skäran på skylen. Allmän förundran. Efter en lång öfverläggning stadnade alla vid den meningen, att ett så skadeligt hastverk, som denna skörden, måste ha skett genom trolleri och att trollkarlen hade förvandlat sig till en skära. Han skulle således dränkas, för att han icke en annan gång måtte fjäska bort folkets grundeliga arbete. Men det befanns icke rådligt att röra vid en så farlig person; derför tog man en lång stake, band vid dess spets en ögla och lyckades på detta sätt nedrycka skäran. Hela sällskapet hade nu den fägnaden, att se huru skäran måste följa med till sjöstranden, fastän hon stretade af alla krafter emot och hakade sig fast i stubbar<pb type="orig" n="156"/> och dikeskanter. Ändtligen ficks skäran i båten och roddes ut på djupet. Vid skaftet band man en stor sten med starka tåg, för att hon ej skulle flyta, och så hifvades hon med fröjderop ut i sjön. Olyckligtvis råkade hon fastna i båtkanten med sitt krokiga bett, stenen tyngde, båten kantrade, och Hölmöläiset undkommo med knapp nöd trollkarlens ondskefulla anslag.</p>
+  <p>b) <hi rend="expanded">Stugan</hi>. Hölmöläiset byggde åt sig en stuga och gjorde detta så grundeligt, att de glömde göra fönster i väggen. När stugan blef färdig, funno de henne något mörk och begrundade länge, huru de skulle få in dagsljuset. Slutligen funno de ett godt råd: de borde hämta in ljuset med säck. Alltså utspände de säcken mot solskenet, tillknöto den försigtigt och buro den in i stugan. Här öppnades säcken, men till allas förvåning blef stugan icke det minsta upplyst. Medan de stodo bekymrade öfver denna oväntade missräkning, råkade Matti komma och fick höra deras bekymmer. Nå, sade Matti, gifven mig hundra mark, så skall jag skaffa in ljus! Hölmöläiset voro glade att för så godt pris få dager och gåfvo strax det betingade priset. Hvarpå Matti högg ett hål i väggen, och se, strax föll solskenet in i stugan! Hölmöläiset blefvo så förtjuste öfver denna upptäckt, att de beslöto hugga ut hela väggen. Dager fingo de nu tillräckligt, men med detsamma ramlade stugan.</p>
+  <p>c) <hi rend="expanded">Jagten</hi>. Engång gingo Hölmöläiset på björnjagt om vintern. När de kommo till björnens ide, satte de sig först att äta en grundelig frukost. Derefter hölls råd, och man beslöt, att Pekka skulle först krypa in i idet, för att hämta ut björnen. För säkerhets skull band man ett rep kring hans ben och kom öfverens, att, om nöd blef å färde, skulle Pekka sparka och de öfrige draga ut honom. Pekka kröp in, och när han väl var derinne, bet björnen hufvudet af honom. Litet sprattlade Pekka med foten, och så var det slut med honom; men kamraterne derute sade sig emel<pb type="orig" n="157"/>lan: nu sparkade han; det lär icke vara så trefligt derinne. Hvarpå de drogo Pekka ut, och Pekka var utan hufvud. Ja, verkeligen, utan hufvud! sade Hölmöläiset och höllo råd om hvad detta månde betyda. En af dem menade, att det var icke så visst, om Pekka haft något hufvud, när han kröp in i idet. – Nå, sade en annan, det må jag veta; jag såg ju tydligt huru han rörde skägget, när han åt ärter vid frukosten.</p>
+  <p>d) <hi rend="expanded">Måltiden</hi>. Icke bättre gick det en annan gång, när Hölmöläiset brände en sved vid sjöstranden. På motsatta stranden betade deras kor; vargen kom och ref ihjäl en af korna. Hölmöläiset rodde öfver sjön och beslöto att steka sig frukost af kon, efter hon i alla fall redan var död. Då nu sveden brann på den andra stranden, tyckte de det vara onödigt att göra en ny eld, hvarför de afhöggo ett stycke kött och uppreste det att stekas mot eldskenet derborta. Efter en stund ansågs steken vara färdig, och man begynte äta, men steken ville ej smaka. Någon tyckte då, att fisk skulle smaka bättre, och efter der hängde en not vid stranden, lade man ut noten på sandmon och drog ett varp, men fick endast stickor och ljung. Då hölls rådplägning om hvad man nu borde få till mats, och allmänna meningen var, att gröt skulle smaka bäst. Men eftersom alla voro hungriga och man icke hade en gryta, som kunde förslå åt alla, beslöt man vänta till vintern, när man kunde koka i vaken. Att nu vänta till vintern med hungriga magar, var icke lätt, men Hölmöläiset väntade, såsom det anstår ett grundeligt folk, hvilket icke förhastar sig. Vintern kom, och isen lade sig öfver sjön. Då gick en af sällskapet ut och högg en vak i isen, hvarefter en annan bar ut mjölsäcken, spillde mjölet i vaken och begynte att röra om. När man tyckte att gröten borde vara färdig, klef kocken ned i vaken, för att smaka på anrättningen, och der blef han. De öfrige väntade en stund, men<pb type="orig" n="158"/> när kocken ej kom tillbaka, begynte de misstänka, att han ensam ville äta upp deras gröt. En klef då ned under isen, för att också få vara med om kalaset, och blef borta, liksom den förste. Ja, sade de öfrige, nu äta de båda upp gröten. Hvarefter alla klefvo ned i vaken, den ena efter den andra, och der blefvo de.</p>
+  <head>78. Finska Folksången.</head>
+  <p n="1">Sång och musik äro för menniskan likasom ett annat heligare språk, på hvilket hon gerna uttrycker sorg och glädje, saknad och hopp. I alla tider har det finska folket hyst en stor kärlek till sång, <hi rend="expanded">runo</hi>, (runa), som hos folket är antingen visa, trollruna, lärodikt eller berättande sång. Till sådana folkrunor räknar man icke psalmer och andeliga visor, ej heller sådana konstgjorda dikter, som herrefolk sjunger. Folkvisan skiljer sig från de sednare genom sin enkelhet och sin lefvande natursanning, alldeles som skogen skiljer sig från den konstgjorda parken.</p>
+  <p>I den gamla finska folkvisan är det sinnrika, innerliga ordet hufvudsak och melodin mycket enkel, ja, så enformig, att de allra flesta hafva samma åttastafviga versbyggnad och sjungas på samma melodi, den uråldriga runomelodin. Den gamla visan känner icke heller det vanliga slutrimmet, men har i stället ett bokstafsrim, sålunda att orden i samma versrad vanligen börja med samma bokstaf. De nya sångerna hafva deremot omvexlande versform och melodier, men orden äro hvarken så sinnrika, så enkla eller så innerliga, som i de gamla. Det är endast i Karelen man ännu stundom får höra gamla runor, som muntligen gått i arf från slägte till slägte igenom många århundraden, och dessa<pb type="orig" n="159"/> runor dö mer och mer ut. I hela det öfriga landet hör man endast sånger af nyare ursprung, några öfversatta från svenskan eller från tyskan, men de flesta diktade inom folket. Ty folkets håg är som en rinnande vattukälla: den måste ju beständigt utskicka djupets ådror i dagen.</p>
+  <p>Den finska folksången upprinner ur två djupa källor: ensamheten och sorgen. I detta landet bo menniskorna ofta långt skilda ifrån hvarandra, och derför söka de vänner och sällskap i hela naturen. De föreställa sig, att alla ting i naturen hafva lif, känsla och talegåfva. Kommer någon till främmande land, äro solen och vinden hans gamla bekanta. Flyttar den unga bruden bort från sitt hem och sörjer öfver att alla der skola glömma henne, vet hon, att åtminstone vidjan och gärdselstören skola igenkänna henne, när hon kommer tillbaka. En flicka säger i sin ensamhet till luftens fågel:</p>
+  <lg>
+  <l>Svinga hit, du lilla fågel,</l>
+  <l>Kom till mig, du arma lilla,</l>
+  <l>Tala om för mig din längtan,</l>
+  <l>Och din saknad uppenbara!</l>
+  <l>Jag skall säga hvad jag saknar</l>
+  <l>Och mitt hjertas sorg dig yppa;</l>
+  <l>Sen så byta vi vår saknad,</l>
+  <l>Dela mellan oss vår längtan.</l>
+  </lg>
+  <p>Derför anförtror hon sina sorger äfven åt skogen:</p>
+  <lg>
+  <l>Jag vill säga mina sorger</l>
+  <l>Åt den gröna lundens aspar</l>
+  <l>Och åt späda videbusken.</l>
+  </lg>
+  <p>Hon vet ju, att de alla hysa deltagande för hennes öde:</p>
+  <lg>
+  <l>Derom talar insjöns holme,</l>
+  <l>Alla holmens stränder klaga,</l>
+  <l>Alla gröna lindor sörja,</l>
+  <l>Alla ljufva lundar tåras,</l>
+  <l>Blommorna på fältet snyfta,</l>
+  <pb type="orig" n="160"/>
+  <l>Och det vackra gräset gråter</l>
+  <l>Öfver den förskjutnas öde.</l>
+  </lg>
+  <p>En olycklig man beder korpen bortbära hans bekymmer och kasta dem i sjön, men dock icke i vatten, der fiskar finnas, ty</p>
+  <lg>
+  <l>Alla fiskar finge sorger,</l>
+  <l>Insjöns abborr skulle sjunka,</l>
+  <l>Stora gäddor skulle spricka,</l>
+  <l>Mörtar falla uti stycken;</l>
+  <l>Siken blefve alltför sorgsen,</l>
+  <l>Mujkans silfver skulle mörkna</l>
+  <l>Af den arme mannens smärta.</l>
+  </lg>
+  <p>Men äfven de glada och lyckliga söka naturens sällskap. Muntra flickor bedja göken gala åt dem silfver och guld. Berget, träden, djuren yppa sina tankar för hvarandra och för menniskorna. Naturen har varit folkets bästa sånglärarinna. Derför säger också den anspråkslöse sångaren:</p>
+  <lg>
+  <l>Egen sång är all min lärdom,</l>
+  <l>All min konst tog jag från vägen,</l>
+  <l>Hjertats glöd från gröna skogen.</l>
+  <l>Ljungen lärde mig att sjunga,</l>
+  <l>Busken gaf mig mina visor,</l>
+  <l>När jag gick i vall som liten,</l>
+  <l>Var som barn i lammens sällskap</l>
+  <l>På de honungsrika tufvor</l>
+  <l>Och de solbelysta kullar.</l>
+  <l>Vinden gaf mig ord tillfyllest,</l>
+  <l>Förde med sig många tusen,</l>
+  <l>Och de strömmade som forsar</l>
+  <l>Och som vågors brus i sången.</l>
+  </lg>
+  <p>Barn hafva sina egna sånger, de unga sina, de gifta sina, de gamla sina. Lifvet gifver nog ständigt nya ämnen. Det finska folket är, med allt sitt allvar, mycket böjdt för<pb type="orig" n="161"/> att skämta med sina egna eller andras svagheter, och derför har man äfven begabbelserunor, som förlöjliga laster och dårskaper. Bland de många sångerna är visan äldst, dernäst trollsången. Yngst är den berättande sången; men Kalevalas äldsta runor hafva gått genom årtusenden. Många sjunga, men icke många dikta sina sånger sjelfva. Vid stranden af sjön Koitere lefde för många år sedan en åttatioårig, fordom berömd sångerska vid namn Mateli Kuivolatar. När jag engång uppläste för henne visor, dem jag upptecknat på andra orter långt derifrån, sade gamla Mateli: ”hvem sjöng de visorna för eder? Kommer man ännu ihåg dem i landet? Jag gjorde dem, när jag var en ung flicka.” – De hade gått från mun till mun och från slägte till slägte.</p>
+  <p>Många kunnige män, äfven utom Finland, prisa den finska folksången såsom en af de skönaste på jorden. Andra folk kunna sjunga med mera brinnande känsla, mera storartad, djerf och kraftig hänförelse. Men innerligare ur hjertats djup sjunger intet folk. Och den enkla, ljufva finska visan med sitt rörande behag är en perla bland alla folkvisor.</p>
+  <p rend="right">E. Lönnrot.</p>
+  <head>79. Finska Folkwisor.</head>
+  <head type="sub">a) Sånglärarinnan.</head>
+  <lg>
+  <l>När jag wexte i min hemgård</l>
+  <l>Som en fågel i sitt näste,</l>
+  <l>Kom till oss en gammal qwinna,</l>
+  <l>Sångerska från Lapplands ände,</l>
+  <l>Och hon kunde dikta wisor,</l>
+  <l>Kunde många sånger sjunga.</l>
+  <pb type="orig" n="162"/>
+  <l rend="indent">Henne gaf jag då min kjortel,</l>
+  <l>Gaf till lön mitt goda linne,</l>
+  <l>Bytte bort mitt blåa nystan,</l>
+  <l>Delade mitt röda ullgarn,</l>
+  <l>För att hon mig lärde sjunga,</l>
+  <l>Lärde mig de bästa sånger,</l>
+  <l>Lade wisor på min tunga</l>
+  <l>Och på mina läppar orden.</l>
+  <l rend="indent">Hör du nu, du gamla qwinna,</l>
+  <l>Hör du, gumma, hwad jag säger:</l>
+  <l>Gif igen min wackra kjortel,</l>
+  <l>Gif mitt linne nu tillbaka,</l>
+  <l>Återgif mitt röda ullgarn</l>
+  <l>Och mitt sköna blåa nystan!</l>
+  <l>Wisor har jag nu tillräckligt,</l>
+  <l>Sånger nog ditt råd förutan;</l>
+  <l>Nu lär sorgen mig att sjunga,</l>
+  <l>Nu lär nog bekymret wisor,</l>
+  <l>Saknaden ger ord tillfyllest,</l>
+  <l>Jag har tankar nog i hågen.</l>
+  </lg>
+  <p rend="right">Kanteletar 2: 131.</p>
+  <head type="sub">b) De hemlösa.</head>
+  <lg>
+  <l>Förr så hade wi små systrar,</l>
+  <l>Förr i långt förflutna dagar,</l>
+  <l>Också wi, en ljusblå brygga,</l>
+  <l>Och wi bröder hade fordom</l>
+  <l>Målad båt med röda ränder.</l>
+  <pb type="orig" n="163"/>
+  <l>Då begynte winden blåsa,</l>
+  <l>Luftens strand begynte storma,</l>
+  <l>Blåsten ryckte barr från träden,</l>
+  <l>Ryckte med sig ljungens blommor</l>
+  <l>Och det späda gräsets stänglar.</l>
+  <l>Syskonbryggan slog han sönder,</l>
+  <l>Bröt i bitar brödrabåten,</l>
+  <l>Dref i wattnets wård oss bröder</l>
+  <l>Och oss systrar långt mot holmen,</l>
+  <l>Gaf oss fingrarna till årar,</l>
+  <l>Gaf wår flata hand till styre,</l>
+  <l><corr source="Rättelser">Granens</corr> grenar till wår stuga,</l>
+  <l>Enens buske till wår boning.</l>
+  </lg>
+  <p rend="right">Kanteletar 1: 16.</p>
+  <head type="sub">c) Eget hem är bäst af alla.</head>
+  <lg>
+  <l>Mjuk och warm är linneskjortan,</l>
+  <l>Som min egen moder sydde;</l>
+  <l>Kall är äfwen ylletröjan,</l>
+  <l>Som en främmande har stickat.</l>
+  <l rend="indent">Warm är ock min moders badstu,</l>
+  <l>Fast ej bad i ugnen kastas;</l>
+  <l>Men den heta ångan wärmer</l>
+  <l>Ej mitt bad i byn derborta.</l>
+  <l rend="indent">Hemmets bröd är mört och wackert,</l>
+  <l>Om det ock med agnar blandas;</l>
+  <l>Främlings bröd, det smakar illa,</l>
+  <l>Fastän smöret breds deröfwer.</l>
+  <pb type="orig" n="164"/>
+  <l rend="indent">Mjukt som ull är dock min moders</l>
+  <l>Och min faders ris, som straffar,</l>
+  <l>Men en främlings ris är taggigt,</l>
+  <l>Huru lätt det än mig widrör.</l>
+  <l rend="indent">Ack, det goda, gyllne hemmet,</l>
+  <l>Hos min fader war det lyckligt!</l>
+  <l>Fastän brödet war så fattigt,</l>
+  <l>Fanns der riklig ro dessmera;</l>
+  <l>Der blef jag ej störd i sömnen</l>
+  <l>Och fick hwila utan bannor.</l>
+  </lg>
+  <p rend="right">Kant. 1: 75.</p>
+  <head type="sub">d) Brudens afsked.</head>
+  <lg>
+  <l>Icke war jag dock tillförne</l>
+  <l>Mörkare än andra flickor,</l>
+  <l>Blekare än wattnets fiskar;</l>
+  <l>Mörkare jag blef än andra,</l>
+  <l>Blekare än wattnets fiskar.</l>
+  <l rend="indent">Hur betalar jag min moders</l>
+  <l>Mjölk och hur min faders godhet?</l>
+  <l>O, jag tackar dig, min fader</l>
+  <l>För min ungdoms bröd och bergning!</l>
+  <l>O, jag tackar dig, min moder,</l>
+  <l>För hwar gång du ömt mig waggat,</l>
+  <l>Burit mig på dina armar</l>
+  <l>Och din barm mig räckt till näring!</l>
+  <l rend="indent">Gårdens folk, jag tackar eder,</l>
+  <l>Goda barndomswänner alla,</l>
+  <pb type="orig" n="165"/>
+  <l>Uti hwilkas wård jag wuxit</l>
+  <l>Under mina blomningsdagar!</l>
+  <l>Nu så måste jag ju resa</l>
+  <l>Från det kära gyllne hemmet,</l>
+  <l>Från min faders goda stuga</l>
+  <l>Och min moders glada boning.</l>
+  <l rend="indent">Blif då qwar i lugn, o pörte,</l>
+  <l>Pörte med ditt tak af bräder!</l>
+  <l>Godt det blir att återkomma,</l>
+  <l>Kärt att här ännu få wandra.</l>
+  <l>Blif då qwar i lugn, o farstu,</l>
+  <l>Farstu med ditt golf af bräder!</l>
+  <l>Blif i ostörd ro derute,</l>
+  <l>Gård med dina ljufwa rönnar!</l>
+  <l>Er i fridens hägn jag lemnar,</l>
+  <l>Bygder, bäruppfyllda skogar,</l>
+  <l>Sjöar med de hundra holmar,</l>
+  <l>Wida, ljungbewuxna hedar!</l>
+  </lg>
+  <p rend="right">Ur första upplagan af Kalevala.</p>
+  <head type="sub">e) Den unge soldaten.</head>
+  <lg>
+  <l>All min slägt så mycket sörjer,</l>
+  <l>Alla mina fränder klaga,</l>
+  <l>Att jag nu går ut i kriget,</l>
+  <l>Mot kanonens wida mynning,</l>
+  <l>Mot den jernbesmidda tjärnan,</l>
+  <l>Till mitt fall på stridens walplats.</l>
+  <pb type="orig" n="166"/>
+  <l rend="indent">Men ej må min slägt mig sörja,</l>
+  <l>Ej må hulde fränder klaga.</l>
+  <l>Icke stupar jag i kärret,</l>
+  <l>Faller bragdlös ej på sweden,</l>
+  <l>När wid swärdens klang jag slutar.</l>
+  <l>Skön likwäl är krigets sotsäng,</l>
+  <l>Stolt är <corr source="Rättelser">krigarns</corr> fall för swärdet,</l>
+  <l>Hastigt der en gosse bortgår,</l>
+  <l>Utan sjukdom han förswinner,</l>
+  <l>Oförwissnadt ung han faller.</l>
+  </lg>
+  <p rend="right">Kant. 2: 265.</p>
+  <head type="sub">f) Skämtwisa.</head>
+  <lg>
+  <l>Kom till oss, du käre Thomas,</l>
+  <l>Hemta julen i ditt följe!</l>
+  <l>Kom, allhelgona! Kom, julhelg!</l>
+  <l>Kom rätt snart, du glada påsktid!</l>
+  <l>Riklig mat ha wi i boden,</l>
+  <l>Helgdagsrätter ha wi många:</l>
+  <l>Syrsans lår och feta flugben,</l>
+  <l>Stjerten af en sparf dessutom,</l>
+  <l>Lilltån af en fattig groda,</l>
+  <l>Halfwa ögat af en ödla.</l>
+  </lg>
+  <p rend="right">Kant. 1: 23.</p>
+  <head type="sub">g) På Saimas strand.</head>
+  <lg>
+  <l>Min guldfågel i fjerran sjunger,</l>
+  <l>Klagar fjerran på Saimas strand.</l>
+  <pb type="orig" n="167"/>
+  <l>Ej är en båt wid strandens skär,</l>
+  <l>Som öfwer sjön min älskling bär.</l>
+  </lg>
+  <lg>
+  <l>Långsamt rinna min längtans dagar,</l>
+  <l>Sorgfri mins jag en stund ej mer,</l>
+  <l>Wet ej hwad budskap ryktet för,</l>
+  <l>När ej min wän jag komma hör.</l>
+  </lg>
+  <lg>
+  <l>Hoppets fröjder och lyckliga tider</l>
+  <l>Sällan lindra mitt hjertas sorg.</l>
+  <l>Kallt är mitt bröst, som is på sjö;</l>
+  <l>Hwem skall wärma engång dess snö?</l>
+  </lg>
+  <lg>
+  <l>Örnen flyger wid himmelens fäste,</l>
+  <l>Anden ror öfwer fjärdens wåg.</l>
+  <l>Långt är på Saimas strand min wän,</l>
+  <l>Wågar ej ut för stormen än.</l>
+  </lg>
+  <lg>
+  <l>Windarna hwina och wågorna brusa,</l>
+  <l>Båtarna gunga små wid land;</l>
+  <l>Båtarna gunga så små wid land,</l>
+  <l>Alltför swag är min älsklings hand.</l>
+  </lg>
+  <lg>
+  <l>Älskade, gå ej i wågornas wälde,</l>
+  <l>Saimas wågor bedraga dig!</l>
+  <l>Då skall ej sorgen lemna mig,</l>
+  <l>Innan han bäddar min graf hos dig.</l>
+  </lg>
+  <p rend="right">Kanteletar.</p>
+  <pb type="orig" n="168"/>
+  <head>80. Finska Ordspråk.</head>
+  <p n="1">Om den vise konung Salomo berättas, att han talade tre tusen ordspråk och att hans visor voro ett tusen och fem. Räknar man visheten efter denna måttstock, skulle det finska folket vara visare än konung Salomo, ty dess upptecknade ordspråk äro flera än sjutusen, och dess visor, dem ingen räknat, uppgå säkert till flera tusende. Deröfver må vi icke förhäfva oss; andra folk kunna hafva lika många. Men det är visst, att det begrundande finska folket har nedlagt många sinnrika tankar i sina sånger, mycken djup visdom i sina ordspråk och gåtor. Redan år 1842 lät doktor Lönnrot trycka en samling af 7,077 ordspråk, och sedan ha ännu flera blifvit upptecknade. De flesta äro i runans versform och behållas derigenom lättare i minnet. Språket i dem har en egen sinnrik korthet, som icke kan återgifvas på svenska.</p>
+  <p>Många bland allmogen föra hälften af sitt tal med ordspråk. Vill en fattig man trösta sig öfver en ny olycka, säger han: Högtifrån jag icke faller, ifrån qvasten ned på golfvet. – Förebrår man någon att lita för mycket på andras hjelp, heter det: Illa är förståndet bosatt, när det bor i annans hufvud. – Vill man antyda, att äfven rikt folk har sina bekymmer, tänker man på skällkon och säger: Den, som bär på halsen skällan, går också med nedtyngdt hufvud. – Påminner man åter den fattige om förnöjsamhet, säger man: Koppar är som guld för tiggarn, tenn är silfver för den arme. – Klagar någon, att han förlorat sina barn, suckar han: Sonlös hugger ensam veden, dotterlös får stampa mjölet. – Till en storskrytare säger man: Broar byggas ej med orden, något virke skall det vara. – Vill någon afvisa oförtjent beröm eller tadel, heter det: Ej så god, som man berömmes, ej så elak, som man klandras.<pb type="orig" n="169"/> Och så finner man ett ordspråk för alla lifvets förhållanden. Här anteckna vi några prof på enradiga ordspråk.</p>
+  <p>– Välbegynt är mycket vunnet.</p>
+  <p>– Tiden väntar ej på någon.</p>
+  <p>– Mannen lefver ej af namnet.</p>
+  <p>– Finnes öl, så finnas vänner.</p>
+  <p>– Hunden skäller ej på hemfolk.</p>
+  <p>– Djupa brunnar torka icke.</p>
+  <p>– Lärdom tynger ej på ryggen.</p>
+  <p>– Stödet stjelper icke stacken.</p>
+  <p>– Alltid ämnar sig den late.</p>
+  <p>– Ensam skrattar ingen länge.</p>
+  <p>– Drucken man är aldrig fattig.</p>
+  <p>– Tukta ej en björn med björkris!</p>
+  <p>– Dålig vakt gör många tjufvar.</p>
+  <p>– Den, som frågar, far ej vilse.</p>
+  <p>– Mycket ser den länge lefver.</p>
+  <head type="sub">Prof på tvåradiga ordspråk.</head>
+  <p>– Hjelp en resande i backen,<lb/>Icke när han hunnit öfver!</p>
+  <p>– Skönhet bergar icke ängen,<lb/>Grannlåt bränner icke sveden.</p>
+  <p>– Den, som lefver, tänker framåt;<lb/>Bakåt må den döde blicka.</p>
+  <p>– Sällan ger det glesa nätet,<lb/>Men då ger det stora fiskar.</p>
+  <p>– Prisa icke förr det gamla,<lb/>Än du undersökt det nya.</p>
+  <p>– Förrän alla blifva goda,<lb/>Blir hvart kärr i Finland åker.</p>
+  <p>– Gå omkring mig, banna ej mig!<lb/>Sade åkerns sten till plöjarn.</p>
+  <p>– Den är ej af hundar biten,<lb/><pb type="orig" n="170"/>Som af lagen öfvervunnits.</p>
+  <p>– Icke tål en lerig åker<lb/>Plöjarn med de granna stöflar.</p>
+  <p>– Den, som ej sett större under,<lb/>Må en drucken karl betrakta.</p>
+  <p>– Gud har skapat ingen brådska,<lb/>Det är onda verldens påhitt.</p>
+  <p>– Abborren har fritt att välja:<lb/>Lemna kroken eller svälja.</p>
+  <p>– Ej blir hafvet sämre deraf,<lb/>Att en hund från stranden slickar.</p>
+  <p>– Knifven prisar man för bettet,<lb/>Menskan prisar man för vettet.</p>
+  <p>– Eget land är alltid kärast<lb/>Och dess skog bland alla grönast.</p>
+  <p>– Rodret är i mannens hand,<lb/>Gud allen styr båt till land.</p>
+  <head type="sub">Andra ordspråk.</head>
+  <p>– En man vid sitt ord,<lb/>En oxe vid sina horn.</p>
+  <p>– Hellre från din jord,<lb/>Än från ditt ord.</p>
+  <p>– Aftonen vet mera än morgonen.</p>
+  <p>– Många stora ord rymmas i en mun.</p>
+  <p>– Ropet är nödens broder.</p>
+  <p>– Husbondens steg göda åkern.</p>
+  <p>– Från roten stiger man upp i trädet.</p>
+  <p>– Den tålige vinner allt.</p>
+  <p>– Vargen begråter ej hundens död.</p>
+  <p>– Hellre vatten af en broder, än öl af främlingen.</p>
+  <p>– Längesedan dog den, som klandrade sig sjelf.</p>
+  <p>– Vex upp utan aga, dö utan ära!</p>
+  <pb type="orig" n="171"/>
+  <p>– Prisa främmande land för en främling, eget land för dig sjelf!</p>
+  <p>– Förr tager den korte ett strå från marken, än den långe tager en stjerna från himmelen.</p>
+  <p>– Den är icke karl, som får sig en syssla; den är karl, som förstår att sköta henne.</p>
+  <p>– En qvinna må återvända från halfva vägen; en man måste gå fram till slutet.</p>
+  <p>– Äfven skatan är en vacker fågel, när man sällan ser henne.</p>
+  <p>– Vägen vet ej hvem som går på honom, brödet vet ej hvem som äter det.</p>
+  <p>– Nöden är icke stor, sålänge ett enda medel finnes till räddning.</p>
+  <p>– Den gode gifver af sitt lilla, den elake sparar sitt öfverflöd.</p>
+  <p rend="right">(Efter E. Lönnrot).</p>
+  <head>81. Finska Gåtor.</head>
+  <p n="1">Om de finska ordspråken äro till antalet många tusen, äro de finska gåtorna icke färre. Folket älskar mycket denna sinnrika lek med tankar, hvarigenom barnens förstånd öfvas från späda år att leda sig från det bekanta till det obekanta. Derför brukas också ett straff för den, som ej kan gissa ett visst antal gåtor. När familjen sitter samlad i stugan under de långa höst- och vinterqvällarna, finnes vanligen någon gåtkunnig, som ställer de öfriga på prof, och är der någon, som lemnar tre gåtor olösta, blir han förvisad till <hi rend="expanded">Hymylä</hi>. Detta ord kan öfversättas med Löjets gård, eller Narrgården, och betyder en ort, der man är illa utsatt för allehanda begabbelse. Emedan nu en del<pb type="orig" n="172"/> gåtor kunna uttydas på flera sätt, blir der stundom tvist, om straffet bör tillämpas, och mången förklarar från början, att han ej ämnar gå till Hymylä för mindre än sex gåtor.</p>
+  <p>Har nu en blifvit svarslös, så att blott en gåta fattas uti det bestämda antalet, hviskas det om honom: nu vända sig hans ögon redan till Hymylä. Är antalet fullt, börjar den, som framställt gåtorna, att uppräkna alla dem, som förblifvit olösta, och säger för hvarje gåta:</p>
+  <lg>
+  <l>Hyj, Hyj, till Hymylä!</l>
+  <l>Icke visste du den heller.</l>
+  </lg>
+  <p>Den straffskyldige utspökas nu på det löjligaste vis och skickas till Hymylä, hvilket sker så, att han utvisas ur stugan. Derpå berättas, huru han blifvit mottagen och undfägnad i Hymylä. Barnen i Narrgården skickas att se hvarför hundarne skälla och återkomma med det svar, att en trasig tölp är i antågande, att hans häst är en råtta, hans kusk en katt, hans släde en söndrig slef o. s. v. Hymylä värdinnan fäller af förundran det nyss bakade brödet i askan; en annan spiller het välling öfver den nykomnes hufvud. Denne vill då tvätta sig och förses med en tjärpyts, hvarefter han tillsäges att torka sig ren på dun, agnar och sotiga taksparrar. Hymyläfolket frågar hvad nytt man hör i verlden, och när han icke vet berätta annat, än desamma olösta gåtorna, förundrar sig Hymyläfolket öfver en sådan stackare, hvarpå han slutligen säges få mat, som består af slaskvatten, <corr source="Rättelser">potatesskal,</corr> fiskben, mögligt bröd och andra rariteter.</p>
+  <p>Efter en sådan resebeskrifning anses den resande hafva återkommit, inkallas i stugan och tillfrågas huru det nuförtiden står till i Hymylä. Han berättar då något efter egen smak, t. ex. huru man der kokade gröt med en yxe och högg ved med en gryta, huru korna bakade bröd och qvinnorna stodo klafvade i ladugården m. m. Nu är han fri<pb type="orig" n="173"/> från sitt straff, får återtaga sin plats i sällskapet och sjelf börja att förelägga gåtor för någon annan, som i sin tur kan dömas, om han står svarslös. Ingen vill gerna resa till Hymylä, och derför anstränga alla sin skarpsinnighet både att gissa och minnas gamla gåtor samt att uppfinna nya. Det är icke lätt för en främling att skicka dessa väl öfvade gåtgissare till Hymylä; mycket lättare kan han sjelf befinnas värdig att anträda resan.</p>
+  <p rend="right">(Efter E. Lönnrot).</p>
+  <p>Efterföljande gåtor må tjena som prof:</p>
+  <lg>
+  <l>1. Guld på gården ligger,</l>
+  <l>Ingen tager upp det.</l>
+  <l>2. Utan händer, utan fötter,</l>
+  <l>Klifver uppför branta väggen,</l>
+  <l>Sitter ned på spiseln.</l>
+  <l>3. Matbord under, qvarn derofvan;</l>
+  <l>Ofvan qvarnen vexer småskog.</l>
+  <l>4. Gumman i en vrå af stugan</l>
+  <l>Är försedd med hundra tänder,</l>
+  <l>Tuggar maten, sväljer icke.</l>
+  <l>5. Drunknar ej i vattnet,</l>
+  <l>Brinner ej i elden,</l>
+  <l>Får ej rum i jordens sköte,</l>
+  <l>Vidrör allt, som finns i verlden.</l>
+  <l>6. Föddes på en gång med verlden,</l>
+  <l>Dör ej förrän verlden slutar,</l>
+  <l>Är ej än fem veckor gammal.</l>
+  <l>7. Trånga vikar, långa uddar,</l>
+  <l>Hvarje slutas med en bergklack.</l>
+  <l>8. Fadren sjelf ännu är ofödd,</l>
+  <l>Sönerne gå ren i kriget.</l>
+  <l>9. Först så drager man af huden,</l>
+  <l>Innan man kan klippa fåret.</l>
+  <l>10. Söker oupphörligt,</l>
+  <l>Finner och är missnöjd.</l>
+  <l>11. När i Helsingfors det hugges,</l>
+  <l>Flyga spånorna kring landet.</l>
+  <l>12. Herrskapsmat och kungsmat,</l>
+  <pb type="orig" n="174"/>
+  <l>Duger ej åt grisen,</l>
+  <l>Hunden rör den icke.</l>
+  <l>13. Öfre delen lefver,</l>
+  <l>Undre delen lefver,</l>
+  <l>Midten lefver icke.</l>
+  <l>14. Hästen är i stallet,</l>
+  <l>Svansen uppå taket.</l>
+  <l>15. Ropar oupphörligt,</l>
+  <l>Men blir aldrig hes.</l>
+  <l>16. Fadren rak och modren vriden,</l>
+  <l>Döttrarna om lifvet platta,</l>
+  <l>Sönerne ha runda kinder.</l>
+  <l>17. Springer utan fötter,</l>
+  <l>Flyger utan vingar,</l>
+  <l>På en dag kring tio byar.</l>
+  <l>18. Korpen flyger, vattnet rinner</l>
+  <l>Ständigt från hans båda vingar.</l>
+  <l>19. Tvenne skepp på stora hafvet</l>
+  <l>Segla, segla oupphörligt,</l>
+  <l>Aldrig råka de hvarandra.</l>
+  <l>20. Två små gyllne dufvor flyga</l>
+  <l>Upp till solen, upp till månen,</l>
+  <l>Blifva qvar på tankens kulle.</l>
+  <l>21. Tvenne stå, och tvenne ligga,</l>
+  <l>En går ständigt fram och åter.</l>
+  <l>22. Bördan tröttnar, icke bärarn.</l>
+  <l>23. Genast när du öppnar dörren,</l>
+  <l>Kommer en emot och kysser.</l>
+  <l>24. Sommarenka, vinterenka,</l>
+  <l>Men hvar höst står hon i bruddrägt.</l>
+  <l>25. Silfverperlor föllo</l>
+  <l>På en gyllne väfnad:</l>
+  <l>Månen såg dem, solen tog dem.</l>
+  <l>26. Loppan sprang en dag i skogen,</l>
+  <l>Ficks ej hem med tusen hästar.</l>
+  <l>27. Hvarje dag tre gånger påklädd</l>
+  <l>Och dock mesta tiden naken.</l>
+  <l>28. Färdas som en kung kring landet,</l>
+  <l>Gästar årligt minsta koja.</l>
+  <l>29. Går till skogen, ser åt hemmet,</l>
+  <l>Kommer hem och ser åt skogen.</l>
+  <pb type="orig" n="175"/>
+  <l>30. Flög en fågel vinglös,</l>
+  <l>Satt i trädet fotlös,</l>
+  <l>Skjöts af jungfru munlös</l>
+  <l>Utan pil och båge,</l>
+  <l>Stektes utan panna,</l>
+  <l>Utan salt förtärdes.</l>
+  <l>31. Liten lunsig gumma</l>
+  <l>Utan fot och hufvud</l>
+  <l>Skaffar bröd åt alla.</l>
+  <l>32. Liten tall på tufvan vexer,</l>
+  <l>Bär en gullgul honungskaka.</l>
+  <l>33. Föll en droppe mjölk i pörtet,</l>
+  <l>Litet vassla föll på golfvet,</l>
+  <l>Ficks ej bort med qvast och vinge,</l>
+  <l>Ej med knif och ej med hyfvel.</l>
+  <l>34. Kan ej tänka, kan ej tala,</l>
+  <l>Säger sanningen åt alla.</l>
+  <l>35. Mörklätt dvärg med krokig näsa</l>
+  <l>Vårdar alla gårdens skatter.</l>
+  <l>36. Svarta hönan ligger</l>
+  <l>Öfver röda ägg.</l>
+  <l>37. Hvem är det, som alltid grinar?</l>
+  <l>38. Fyra fålar hvila,</l>
+  <l>En går rundtomkring i stallet.</l>
+  <l>39. Se, din broder går bredvid dig,</l>
+  <l>Räcker hand, men talar icke.</l>
+  <l>40. Dina egna fylla stugan,</l>
+  <l>Och du känner ej igen dem.</l>
+  <l>41. Liten fågel linsvans</l>
+  <l>Pryder hus och kyrka.</l>
+  <l>42. Har om dagen kött och blod,</l>
+  <l>Men om natten intet.</l>
+  <l>43. Mördaren blef upphängd,</l>
+  <l>Alla döda fördes hem,</l>
+  <l>Grafven vändes uppochned.</l>
+  <l>44. Fågeln står på stickans ände,</l>
+  <l>Talar utländskt språk.</l>
+  <l>45. Väfs ett täcke högt i luften,</l>
+  <l>Fransarna på marken hänga.</l>
+  <l>46. Åkern hvit och kornet svart;</l>
+  <l>Den, som kan, han sår der.</l>
+  <pb type="orig" n="176"/>
+  <l>47. Barnen gifva di åt modren.</l>
+  <l>48. Trött blef vägen, källan törstig</l>
+  <l>Och det goda brödet hungrigt.</l>
+  </lg>
+  <head type="sub">Uttydning af gåtorna.</head>
+  <p><!--Följande text tryckt upp och ned.-->1 Solskenet. – 2 Degen i tråget. – 3 Mage, mun och hufvud. – 4 Ullkardan. – 5 Ett namn. – 6 Månen. – 7 Fingrarna. – 8 När man flintar eld och gnistorna flyga. – 9 Skon aftages först och sedan strumpan. – 10 Fiskaren lappar sin not. – 11 Penningar eller böcker. – 12 Salt. – 13 Ryttaren, hästen och sadeln. – 14 Elden och röken. – 15 Forsen. – 16 Humlestören, rankan, bladen och knopparne. – 17 Ryktet. – 18 Båten och årarna. – 19 Solen och månen. – 20 Ögonen. – 21 Dörrposterna, tröskeln och dörren. – 22 Roddaren och båten. – 23 Stugans värme. – 24 Rian. – 25 Dagen. – 26 Gnistan och skogselden. – 27 Matbordet. – <corr source="Rättelser">28 Julen. –</corr> 29 – Yxan på mannens axel. – 30 Snön och solen. – 31 Mjölsäcken. – 32 Hjortron. – 33 Solsken och månsken. – 34 Betsmanet. – 35 Nyckeln. – 36 Grytan på glöden. – 37 Väggspringan. – 38 Strumpstickorna. – 39 Skuggan. – 40 Egna fjät. – 41 Synålen. – 42 Skon. – 43 Noten, fiskarna och håfven. – 44 Sprakande perta. – 45 Molnet, som regnar. – 46 Papperet och det skrifna. 47 Floderna och hafvet. – 48 Frälsarens lidande.</p>
+  <head>82. Folktro och Vidskepelse.</head>
+  <p n="1">De stora ödemarkernas enslighet har mäktigt verkat på folkets inbillning. Skogarna, bergen, insjöarna, forsarna, vinterns långa mörker, sommarens långa ljus, allt detta har stämt finska folkets håg för det underbara, och dess trollkunnighet har länge varit ryktbar hos andra folk.</p>
+  <p>Tron på <corr source="Rättelser">trolldom</corr> är ett minne från hedendomen. Man trodde då, att alla föremål i naturen hade lif och att men<pb type="orig" n="177"/>niskan kunde med sitt ord beherrska allt lefvande. Om alltså någon kände de rätta orden, kunde han dermed framkalla eller bota sjukdomar, besvärja stormar, upptäcka fördolda skatter, förutsäga tillkommande ting och annat mer.</p>
+  <p>Qvarlefvor af denna tro finnas ännu mångenstädes i landet. Trollkarlar och trollqvinnor stå i anseende hos de okunnige och eftersökas på långa vägar. Ju längre borta, dess större anseende. I södra Finland anses folket i Tavastland trollkunnigt; i Tavastland rådfrågar man Österbottningar. I södra Österbotten rådfrågar man Nordösterbottningar, och desse anse Lapparne vara alla andra öfverlägsne. Ofta bedraga desse trollkarlar de lättrogne; ofta tro de sjelfve på sina besvärjelser. De låta väl betala och undfägna sig, äro afundsame om sin konst och lära den icke gerna åt andra, än sina barn. De bruka flerahanda trollmedel, men besvärjelseorden äro de förnämsta, och utan dem kan ingenting uträttas. Vill någon uppteckna dessa trollrunor, bortlemnar trollkarlen två eller tre ord, emedan besvärjelsen då anses förlora sin kraft.</p>
+  <p>Trollorden eller ”läsningarna” brukas nu mest för läkedom. Framför allt måste man veta plågans ursprung. Har den sjuke sårat sig med hvasst jern, måste man veta jernets ursprung. Har han brännt sig, måste man veta eldens uppkomst. Är han biten af björn, varg, hund, orm eller geting, måste man veta deras härkomst. Är det en vanlig invärtes åkomma, beskrifver trollkarlen sjukdomens namn och födelse, dess föräldrar, systrar och bröder. Är det en ovanlig åkomma, gissar han på ovänners anstiftan eller andra orsaker. Hjelper icke detta, uppräknar han alla fyra elementerna, ty från något af dem måste sjukdomen komma. Denna del af besvärjelsen kallas <hi rend="expanded">ursprungsorden</hi>, och derpå följa <hi rend="expanded">läkedomsorden</hi>. Trollkarlen tilltalar sjukdomen med stränga ord, besvär den att borttaga sin sveda och fly till någon aflägsen ödemark, en strid fors, eller ett<pb type="orig" n="178"/> bottenlöst kärr, och då lofvas häst för resan. Lyder icke sjukdomen, hotar trollkarlen att klaga hos dess föräldrar, och är den skickad af någon ovän, hotas denne med de svåraste straff. Lyder sjukdomen ändock icke, så framsägas <hi rend="expanded">nödorden</hi>, som innehålla de strängaste hotelser, och derefter bedes biet att flyga öfver nio haf, för att hemta läkemedel; men hjelpa icke ens nödorden, då är sjukdomen skickad af Gud, och dess botande står ej i mensklig makt.</p>
+  <p>Man trodde förr, att långt i norden vid Kemi elf fanns smärtornas berg, Kipuvuori. Från midten af berget framskjöt en hög topp; på toppen var en liten stuga, i stugan en källa, i källan en lefverfärgad sten och i stenen en håla, nio famnar djup. Till denna håla förvisades smärtorna. Dödens tre döttrar, Kivutar, Tuonetar och Akäätär, mottogo dem med vantar på händerna, uppsamlade dem i kopparskopor, rensade, dryftade och sållade dem, hvarpå smärtorna stektes och kokades i en jernpanna, tilldess att de slutligen nedhälldes i hålan. Meningen var, att smärtorna icke kunde i berget skada någon oskyldig.</p>
+  <lg>
+  <l>”Stenen gråter ej för smärta,</l>
+  <l>Berget klagar ej för plågor”.</l>
+  </lg>
+  <p>Äfven många, som icke vilja anses för trollkarlar, bruka allehanda vidskepelse, för att skydda sig eller sin boskap mot onda makters inflytande. Många tro också på tomtar och skogsrån. Få berg eller sjöar finnas i landet, der man icke säger sig hafva sett någon haltia eller rådare. Men i stället att omtala sådan vantro, som är ett arf från förfäderne och nu alltmera kommer ur bruk, skola vi minnas de vackra eldarna, som mångenstädes i Finland brinna om midsommarnatten på höjderna. Icke mången vet, att dessa oskyldiga kokko-eldar äro ett minne af den hedniske solguden, densamme, som i bibeln kallas Baal. Våra hedniske förfäder brukade fira hans fest vid den tiden på året, när solen står högst på himmelen. Numera veta vi, att solen<pb type="orig" n="179"/> är endast Guds skapade verk, och när vi fröjda oss vid eldens sken åt den ljusa midsommarnatten, tillbedje vi icke mera Baal, utan prise Gud, vår Skapare, som så underbarligen pryder naturen i dess skönaste fägring.</p>
+  <head>83. Om Karelarne.</head>
+  <p n="1">Det finska folket liknar ett träd, som utsträcker sina rötter i jorden. Dess största och kraftigaste rötter äro två beslägtade, men länge skilda stamfolk, som nu äro förenade, nemligen <hi rend="expanded">Karelarne</hi> (Karjalaiset) och <hi rend="expanded">Tavasterne</hi> (Hämäläiset). De hafva delat landet sig emellan, så att<pb type="orig" n="180"/> Karelarne bo i östra, sydöstra och norra Finland, men Tavasterne bo i vestra och södra Finland. Fordom var mycken tvedrägt emellan dessa folk, men nu hafva de länge lefvat fredligt bredvid hvarandra, utan att bortlägga vissa olikheter, hvaraf de lätt kunna igenkännas.</p>
+  <p>Karelaren är smärt till vexten, har brunt, lockigt hår och lifliga blå ögon. Jemförd med Tavasten, är Karelaren mera öppen, vänlig, rörlig och företagsam, men också mera pratsam, skrytsam, nyfiken och snarsticken. Han tycker om resor och handel, färdas långa vägar i eget land och för sina varor till Ryssland. Hans lynne är känsligt; han blir lätt sorgsen och lätt glad; han älskar skämt och vackra visor, dem hans egne sångare smida. Derför har man i hans land funnit de skönaste sånger, dem han bevarat i minnet från sina förfäders tid.</p>
+  <p>Karelaren brukar slägtnamn och hans gård, der många bo uti den stora stugan, bär namn efter slägten. Efter fordna krig har en så olika befolkning inflyttat i Karelen, att ofta folket i en by icke liknar folket i närmaste grannby. I hela södra delen af Wiborgs län är en brokig blandning af en äldre befolkning, <hi rend="expanded">Äyrämöiset</hi>, och de sednare inflyttade <hi rend="expanded">Savakot</hi>. Dessa två folk ha intill våra dagar åtskilts genom olika klädedrägt, och när en qvinna af Äyrämöiset gifter sig i en slägt af Savakot, eller tvärtom, underhandlas på förhand noga om hvilken drägt den unga hustrun skall bära. Den vackra folkdrägten i Jääskis socken är åter en helt annan och igenkännes af qvinnornas på ryggen nedhängande långa hvita hufvudduk. Bilden här ofvanför är tecknad i Jääskis. Mannen i sin långa hvita rock och hustrun i sin korta hvita jacka, sitt smala förkläde, sin randiga kjol och sin hvita hufva möta på landsvägen en bekant, som kör i sin fyrhjuliga lastvagn till Petersburg. Der är Karelarens ständiga marknadstorg. Der förtjenar han penningar tillochmed för småsten, och lätt, som<pb type="orig" n="181"/> de kommit, gå hans penningar åter. Ty Karelaren är ett gladlynt, gifmildt folk, som gerna sjelf lefver godt och gerna bjuder med sig åt andra. ”När brödet är slut, äter man hvetbröd”. I södra Karelen bakar värdinnan dagligen färskt mjukt bröd, men i det fattiga norra Karelen duger äfven det hårda brödet, som ju i missvextår måste blandas med bark.</p>
+  <p>Karelaren är likasom solsidan af det finska folket: öppen, tillgänglig, liflig och lättsinnig, lätt ledd och lätt missledd, godtrogen som ett barn, icke utan sin andel af finsk envishet, men läraktig och utrustad med gåfvor, som endast behöfva en god uppfostran, för att ställa honom bland de främste i sitt folk.</p>
+  <head>84. Om Sawolaksarne.</head>
+  <p n="1">Savolaksarne äro samma folk som Karelarne, men hafva tidigare bosatt sig vid Saima vattnen och derigenom antagit olikheter i sed och lynne. Medan Karelaren lidit mycket förtryck af store godsherrar och blifvit stundom för mycket ödmjuk, har Savolaksaren blifvit rikare, mera oberoende och fått ett sjelfförtroende, som stundom gör honom dryg, men som icke saknar sin värdighet. Han tillhör, med sin vetgirighet och sitt goda hufvud, de mest bildade af landsbygdens folk; hans ostfinska munart är utbredd från Willmanstrand ända till närheten af Kajana. I de förmögnare socknarna kring Kuopio råder ett öfverflöd af silfver, siden, krydder, viner, cigarrer, som icke annorstädes träffas uti den finske bondens stuga. Gammal sed har i dessa trakter mycket förändrats, sedan ångbåtarne röka på alla vatten, och den nya tiden har medfört ondt<pb type="orig" n="182"/> med godt. I de aflägsnare delarna af Savolaks lefver ett enklare folk i sina enstaka gårdar emellan svedjebackarna.</p>
+  <p>Savolaksaren är en förståndigare och mera beräknande man, än den godmodige Karelaren. Hans handel lyckas vanligen bättre, och han skrattar åt sina grannar, som uppäta i dag mer, än de förtjenat i går.</p>
+  <p>Utom sveden och skogen, egnar Savolaksaren sin mesta omsorg åt stallet och ladugården. Hans häst är den bäste trafvarn i landet; hans ko gifver honom så mycket smör, att han deraf utför många tusen lispund om året. Derför ställa vi också här en bild af den flitiga Savolaks-flickan, som tjärnar sitt smör. Hon är blyg att visa sig här i sin enkla arbetsdrägt, likasom ville hon säga till oss: jag är icke så fattig, som jag här synes vara, jag har många grannare söndagskjortlar, dukar och förkläden, sparade i vår bod. Men vi svara henne: var obekymrad för din drägt, der du står i ditt flitiga arbete vid den gamla smörtjärnan! Enkelhet och flit äro din bästa prydnad; endast arbetet gör oss alla rika, endast gudsfruktan, blygsamhet och stilla husliga dygder göra den finska flickan till en skatt för sitt hem och till en värdig dotter af fosterlandet.</p>
+  <pb type="orig" n="183"/>
+  <head>85. Twå runosmeder.</head>
+  <p n="1">I folkspråket talar man om att <hi rend="expanded">smida</hi> runor. Såsom smeden hamrar det glödande jernet till nyttiga redskap, så smider sångaren sina glödande tankar till ord och musik.</p>
+  <p>Savolaks är de nye runosmedernes rätta hembygd. I stället för de gamla folkvisorna, som alltmera glömmas, sjunger nu folket nyare visor, mindre enkla och innerliga, men ofta qvicka och fyndiga. Vi skola omtala två af de nyare runosmederne.</p>
+  <p><hi rend="expanded">Paavo Korhonen</hi> var en ung bondeson i Rautalampi socken, när han företog sig att göra en qvick smädevisa om en länsman, som tog mutor af bönderne och lät dem olofligen bränna bränvin. Visan blef bekant och roade många, Korhonen efterskickades till bröllopp och andra gästabud, stundom på långa vägar, för att sjunga för gästerne. Och han sjöng med flödande tunga, han sjöng stundom hela dagarna, stundom långt in på nätterna, än sorgsna, än lustiga visor. Han sjöng om den nya kyrkan, den goda skörden, den hårda missvexten, det sköna, men då föraktade finska språket och annat mer, som folket förstod och som gick till dess hjerta. Efteråt hände, att han upptecknade hvad han sjungit, eller skrefvo andra hans visor ur minnet, och många afskrifter utspriddes i bygderna. Korhonen visste ej sjelf huru många visor han diktat, han menade blott, att de kunde nog fylla en stor kista. Sjelf omtalade han, att han hade uttänkt de bästa visorna under ensliga skogsvandringar och fiskarefärder, och då skref han ibland vid hemkomsten upp hvad han diktat. Många visor förblefvo oskrifna, andra förstördes med afskrifterna, och blott ett litet antal är tryckt.</p>
+  <p>När Paavos fader dog, ärfde han gården, men han tyckte mer om sitt fria vandringslif och lemnade hem<pb type="orig" n="184"/>manet åt sin yngre broder. Hans gamla moder sörjde öfver sonens ostadighet; men han älskade mycket sin moder och gaf henne alla penningar han kunde förtjena. Öfver sin döda syster skref han sköna minnesord.</p>
+  <p>Ännu som gammal man brukade Paavo Korhonen gerna färdas ensam på sjön. En höstmorgon i Oktober år 1840 fanns han död i sin båt ej långt ifrån hemstranden. Han var då 65 år gammal; strandens björkar och insjöns vågor hade sett honom dö.</p>
+  <p>I Suonenjoki socken bodde en gästgifvare vid namn <hi rend="expanded">Bengt Lyytinen</hi>. Likasom Korhonen, var äfven Lyytinen en ringa, olärd man, hvilken var road af läsning och på egen hand förskaffade sig kunskaper. Men liksom Korhonen ej dugde till jordbrukare, så passade icke heller Lyytinen till gästgifvare, fastän han var det i 64 år. Han var mera road att vandra omkring och språka med alla re<pb type="orig" n="185"/>sande, än att sköta om hästar och skjuts. Äfven han sjöng många omtyckta visor, dem han sedan upptecknade och som gingo i afskrifter ut ibland folket. Han sjöng om kyrkan, om gården, om åkern, om tidens snabba flygt, om arbetarens ära och lättingens dårskaper. Och så blef han gammal och grå, medan hans sånger ännu lefde unga på folkets läppar. I Februari år 1871 slöt han sitt lif, 88 år gammal.</p>
+  <p>Målaren Ekman har aftecknat den stuga i Savolaks, som bilden visar oss. Der är den stora spiseln, der dottern i huset kokar gröten till middagen. Der äro qvasten, vattsån, sängen med sitt förhänge, brödspetten under taket, hyllan, bordet, väggskåpet. Solen skiner in genom det lilla fönstret Bengt Lyytinen sitter i högsätet och sjunger en sång, som han nyss uppskrifvit ur minnet. Gårdsvärden och värdinnan lyssna på sången, sjelfva den unga hustrun vid spiseln vänder sig om, och endast det lilla barnet har somnat i mormodrens famn.</p>
+  <head>86. Om Tawasterne.</head>
+  <p n="1">Allt det mjuka, ljusa och öppna, som möjligen kan upptäckas uti det finska lynnet, är ett arf af Karelarne; allt det stadiga, tysta och sträfva hos vårt folk är förnämligast Tavastearf. Det är ganska förunderligt, att Gud har ställt dessa två olika folk så nära hvarandra, på det att det ena må fylla det andras brist. Och hade icke Gud ställt de lifligare och ostadigare Karelarne i öster mot Ryssland, medan han ställt de tröge och oböjlige Tavasterne i vester mot Sverige, så skulle visserligen mycket i vårt land nu vara annorlunda.</p>
+  <pb type="orig" n="186"/>
+  <p>Tavasten är mera groflemmad, styf och axelbred, mera härdad, tvär och oböjlig, än hans broder Karelaren. Han har rakare hår, oftast brunt, stundom linfärgadt; ögonen små och grå eller ljusblå; ansigtet bredare, hyn gråare, uppsynen sträfvare. Tavasten är ock en mera tystlåten och allvarsam man, långtänkt och envis, sen att vredgas, sen att förlåta. Bakom hans halstarriga lynne bo mycken trofasthet, mycken hjelpsamhet, mycket tålamod. Han mottager den onda och den goda dagen med samma orubbliga lugn.</p>
+  <p>Tavasten är alltså den rätte stenbrytaren, hvilken har inhuggit sitt bomärke i flertalet af sitt folk. En ihärdigare man är icke lätt att finna, när han företagit sig något, icke heller en trögare, när det faller honom in att ingenting göra. Om han stundom icke har något emot att lefva godt på gästabuden, eller om söndagen föra stat med sin nymålade schäs, är han deremellan den tarfligaste bland hela sitt folk. När han sommartid, klädd i sin grofva <hi rend="expanded">mekko</hi>, är ute i sitt arbete från dagningen intill sena qvällen, kan han nöja sig med sin halffärdiga <hi rend="expanded">talkkuna</hi> af kokadt korn- eller hafremjöl, som han blandar med mjölk i en näfverrifva. Han bor stundom tillsamman i stora byar, alltfrån den tid, när han måste försvara sig mot fienders anfall, och är så mån om sin åker, att han lägger gödselhögen midtpå sin gård. Han anser det nyttiga och det vackra för samma sak, och fastän han ej tycker illa om visor och en lustig fiol, har naturen icke ämnat honom hvarken till sångare eller till spelman. På samma sätt tycker han också om sagor och ordspråk, som andra berätta, men sjelf har han glömt det mesta, som hans fäder berättat. Han är sjelf som en gammal saga: sådan han nu är, sådan har han varit i många hundrade år.</p>
+  <p>Det måste likväl tilläggas, att detta äkta gamla Tavastelynne qvarlefver numera blott i några af Tavastlands inre och nordliga delar. Längre vester- och söderut har Tava<pb type="orig" n="187"/>stefolket blifvit rörligare, driftigare och tillgängligare för inflytandet af en ny tid och af sina grannar. I södra Tavastland, i norra Nyland och det inre Satakunda igenkänner man ännu något af stamfolket; men i Egentliga Finland, vid vestkusten och i södra Österbotten har Tavasten blifvit så omskapad, att icke mycket annat återstår af hans ursprung, än de allmänna dragen, som han påtryckt sitt folk.</p>
+  <p>Bilden visar en tavastländsk flicka från Akkas socken. Hon står här, liksom Savolaksflickan, uti sin enkla hvardagsdrägt med den snäfva yllekjolen, det långa förklädet och den ljusbottniga, grönrutiga bomullshalsduken. Hon borstar sitt lin, medan hon förvånad betraktar alla de främmande, som här se på henne. Hon har icke tid att försumma sitt arbete; linlandet är hennes åker och äng, och i vinter skall månget skönt, gult lispund af hennes vara skickas till Tammerfors, för att der spinnas och väfvas i den stora fabriken.</p>
+  <head>87. Mästerskytten Mårten Kitunen.</head>
+  <p n="1">Finnarne hafva alltid ansett det för en mannabragd, att döda starka rofdjur. Derför hafva de ock hållit björnen högt i ära, såsom en värdig motståndare, och när en<pb type="orig" n="188"/> björn fälles, bruka jägarne med stor ståt fira hans graföl. Den döde björnen helsades i gamla visor med de ömmaste smeknamn: skogens guld och silfver, skogens äpple, skogens sköna honungstass. Och jägarne besjöngo under gästabudet hans födelse, hans bedrifter och hans ärofulla död.</p>
+  <p>På Kitunen hemman i Wirdois, vid gränsen mot Österbotten, hade en bonde sex gossar. Fem voro stora och starka, hvarför de följde fadren i arbetet, men den äldste, som hette Mårten, var i barndomen liten och svag. Han fick råda sig sjelf, gå med bössan i skogen och skjuta tjädrar, orrar och hjerpar, som de öfrige läto sig väl smaka. Deraf blef Mårten en flink skytt med säkert öga, säker hand och ett modigt hjerta. En morgon på sena hösten, när han var sexton år gammal, mötte han oförväntadt en stor björn på en gångstig i skogen. Den vintersömnige Nalle, som alldeles icke hade någon respekt för den spenslige gossen, kom brummande på två ben emot honom, liksom ville han säga: ur vägen, pyssling! Detta förargade Mårten. Han lade an med sin säkra lodbössa, och pang! – björnen hoppade, träffad i hjertat, väl tre alnar högt med ett förskräckligt rytande, hvarefter han föll död till marken. Nu först blef Mårten rädd och klef upp i ett träd; men björnen låg der han låg, och <corr source="Rättelser">andtruten</corr> sprang gossen till gården, för att berätta sitt äfventyr. Der ville först ingen tro honom; dock fick han fadrens häst och släde. Med stor möda hemsläpades den tunga besten från skogen, och från den dagen kallades lille Mårten ”urhollinen poika”, den tappre gossen.</p>
+  <p>Mårten Kitunen fick snart det rykte om sig, att vara en mästerskytt och den bäste böss-smed i hemtrakterna. Hans äfventyr skulle fylla en hel bok. Engång skidade han på tjäderjagt ända till Keuru och hörde, att der funnos björnar i Liukko ödemark. Det var i Mars månad, Mårten tog med sig två kamrater, och en gubbe visade vä<pb type="orig" n="189"/>gen. Men vägen var lång, gubben tröttnade, vände om och skrattade åt desse narrar, som gjorde sig så onödigt besvär. Icke långt derefter kommo de tre skyttarne till en björnlya och sågo tre väldige bjessar masa sig der i all maklighet. Nu hölls krigsråd: hvar skytt tog en björn på sin lott. Mårten fällde den förste och dertill ännu sju ungar. Kamraterne fällde de öfrige, och dagen derpå släpades tio döda björnar till Liukko hemman. Då skrattade icke gubben mera; han trodde nu fullt och fast, att Mårten Kitunen var en trollkarl.</p>
+  <p>Björnen brukade ofta helsa på böndernes sveder och kalasa der på den mognande rågen. Mårten var nyfiken att se huru detta gick till och klef en sommarafton upp i en tall bredvid sveden. Björnen kom ganska riktigt, nosade först försigtigt omkring, men fann inga misstänkta spår och begaf sig midtin i rågen. Mårten klef ned, kröp tyst efter honom och skickade honom ett par kulor i ryggen. Rytande hoppade björnen upp, Mårten kastade sig till marken, Nalle sprang öfver honom, utan att stadna. Följande morgon hittades Nalle svårt sårad i skogen och blef jägarens byte.</p>
+  <p>Mårten Kitunen brukade också skjuta björnar från lafve. En sådan bygges i skogen nära det ställe, der björnen fällt någon ko, ty Nalle kommer gerna tredje natten tillbaka att äta sin stek i flera måltider. Då lägga sig två skyttar i försåt på lafven, medan en tredje karl vandrar bort med tjärade skosulor. Ty Nalle är så klok, att han misstänker alla steg, som leda till stället, men när han ser andra steg leda bort, tror han sig vara säker. Och då får han sig snart några kulor i pelsen. Annars bär han den döda kon till kärret, gräfver en grop och förvarar sin stek till nästa gång under mossan.</p>
+  <p>Kriget mot björnarna aflopp ej utan stora faror, och tre gånger blef Kitunen illa sårad. Första gången kastade<pb type="orig" n="190"/> björnen omkull honom i drifvorna och bet honom i hufvudet, tilldess att Kitunen fick sin knif ur renseln och nedgjorde fienden. Andra gången klef han upp i ett träd, men björnen drog honom i benen och bet hans fötter. Då föll Kitunen rakt på björnens rygg, grep fast i pelsen och ropade: marsch! Hvaraf björnen blef så skrämd, att han galopperade med sin ryttare till skogen, men Kitunen kastade sig af, och några timmar derefter föll björnen för brödernes kulor. Tredje gången klickade Kitunens bössa, när björnen rusade ut ur lyan. Kitunen slog honom för örat med bösskolfven, men då detta ej hjelpte, stack han sin högra arm i björnens öppna gap. Armen blef illa biten, men Nalle förlorade modet, och blef skjuten af de öfrige jägarne.</p>
+  <p>Vid 74 års ålder skjöt Mårten Kitunen sin sista björn i Laukas. Han hade då inalles fällt 198 fullvuxna björnar, utom så många ungar, att han icke ens räknat dem. Nu<pb type="orig" n="191"/>mera för gammal att sigta rätt, lefde han ännu 11 år som jordbrukare och fiskare på sitt goda hemman i Wirdois och dog år 1833, nära 86 år gammal. Denne ryktbare mästerskytt var en mild, gladlynt och gudfruktig man, ytterst måttlig och arbetsam, mycket afhållen af alla, som kände honom. Han hade i 60 år lefvat lyckligt med sin hustru och gungade barnabarnsbarnen, som björnungar, på sina knän.</p>
+  <p>Bilden föreställer en björnjagt om vintern. Hunden har uppdrifvit två björnar ur lyan till höger, och den ene anfaller jägarne. Der behöfvas de egenskaper, som utmärkte Mårten Kitunen: säkert öga, säker hand och ett modigt hjerta.</p>
+  <head>88. Om Finlands swenska befolkning.</head>
+  <p n="1">Icke alla vårt lands söner och döttrar härstamma från Karelare och Tavaster. När vi resa långs Finlands södra eller vestra hafskuster, eller när vi segla ut i skärgårdarna, finna vi en annan befolkning, som talar ett annat språk och skiljer sig i seder och lynne från den finska befolkningen. Desse kustbor härstamma från Sverige och tala sitt svenska språk, likasom någre af finsk härkomst i Sverige tala sitt finska språk. Men emedan de hitflyttat i en långt aflägsen forntid och sedan i många århundraden lefvat och kämpat vid sidan af Finlands öfrige inbyggare; emedan de älska och erkänna vårt land såsom deras fädernesland och alldeles icke vilja skilja sig mer derifrån, hafva de vuxit in uti Finlands folk och äro i denna mening Finnar, såsom vi alla. De äro med lif och själ våra, och hvad språk än tungan talar, är här endast ett folk med ett hjerta för fäderneslandet.</p>
+  <pb type="orig" n="192"/>
+  <p>I förra tider har vårt lands svenska befolkning varit kunnigare, än den finska befolkningen, och derför ansett sig vara något förmer. Ty Sverige har beherrskat Finland, icke allenast med sin större makt, utan än mer med sin tidigare och längre hunna bildning. Nu är mycket annorlunda, sedan Finland icke mer är förenadt med Sverige. Nu tillvexer den finska befolkningen med hvarje år i kunskaper, och nu äro alla jemnlikar.</p>
+  <p>Den svenska befolkningen i Finland åtskiljes af den mellanboende finska befolkningen i tre områden: Åland med dess skärgård, södra Nyland och södra Österbotten. Tidigast, eller för mer än tusen år sedan, inflyttade Åländingarne till deras öar och utbredde sig till en del af Åbo skärgård. Nyländingarne flyttade in på olika tider från Sverige, somlige för tusen år sedan, andra sednare. De svenske Österbottningarne inflyttade för sex eller sjuhundra år sedan öfver de smala hafspassen till finska kusten. Ingen mins mera när alla dessa inflyttningar skett; man vet blott, att der sedan varit många omflyttningar, till följd af krig, pest och hungersnöd, så att nu hör man svenska talas, der det förr talats finska, och finska, der det förr talats svenska.</p>
+  <p>Dessa kustnejder äro tätt bebodda och väl odlade. Deras svenska befolkning är rörligare, otåligare, ostadigare, än den finska befolkningen; snabbare i beslut, raskare i handling. På samma gång har den antagit något af den finska befolkningens lugn och blifvit i sina seder ett annat folk, än Svenskarne i Sverige. Dess drifvande kraft har satt den finska befolkningen mera i rörelse, och båda grannarne hafva lärt sig något af hvarandra.</p>
+  <p>Här är mycken olikhet mellan den svenska befolkningen i skilda landskap; ja, invånarne i två grannsocknar likna icke hvarandra. Hafvet har uppfostrat alla desse kustbor till sjömän och fiskare. Åländingen är den bäste köp<pb type="orig" n="193"/>mannen, Nyländingen är den bäste jordbrukaren, Österbottningen är den bäste timmermannen ibland de tre. Åländingen tillbringar sin halfva tid på resor till sjös; Österbottningen vandrar omkring på arbetsförtjenst ända till Ryssland och Estland; Nyländingen stadnar qvar vid sin åker och sin fisknot. Alla tre äro mera förståndige, än känslige. De sjunga sina visor för melodiernas skull och bry sig icke mycket om orden. Alla tre äro äfven ömtålige om frihet och oberoende: Nyländingen minst, emedan han lydt under herregods, Österbottningen mest, emedan han alltid har varit en fri jordägare. Och fastän Åländingen tidigast flyttat bort ifrån Sverige, är han den af de tre, som mest liknar det svenska stamfolket, emedan han bor så nära Sverige och så ofta är der på resor.</p>
+  <head>89. Om swenska språket.</head>
+  <p n="1">För sju eller åttahundra år sedan talade Svenskar, Norrmän och Danskar samma språk. Det kallades då <hi rend="expanded">Norräna tungan</hi> och var nära beslägtadt med de språk, som talas af Tyskar, Holländare och Engelsmän. Sedermera, när de tre folken länge lefvat åtskilda eller varit i krig med hvarandra, begynte danska språket få ett mjukare, vekare ljud, emedan det hade tyskan så nära. Och då Danmark länge beherrskade Norige, blefvo danska och norska i det närmaste samma språk, dock att norskan är hårdare. Men från dessa två skilde sig svenska språket, hvilket behöll sin gamla nordiska hårdhet, ehuru det med tiden blef mindre sträft och mera välljudande, än det var i Norräna tungan.</p>
+  <p>För mer än trehundra år sedan öfversattes bibeln till svenska. Då var detta språk ännu mycket hårdt och skrefs<pb type="orig" n="194"/> med en underlig, ojemn stafning. Men efterhand begynte store skalder och vetenskapsmän att skrifva svenska böcker, och då utbildades språket. Många gamla ord blefvo glömda, många nya ord inkommo från franskan, tyskan och danskan. Herrefolket begynte att tala ett finare språk, än bönderne. Då begynte också talspråket skilja sig från skriftspråket, så att icke alla ord talas så, som de skrifvas. Men när några nu begynt ändra ordens länge brukliga skrifsätt och detta icke kan göras fullkomligt, är det bättre att behålla det förra skrifsättet med dess brister, än att införa nya brister uti de gamlas ställe.</p>
+  <p>Svenska språket är icke så mjukt, böjligt och fint skiftande, som t. ex. det finska; men det är manligt och kraftfullt, det klingar som stål mot berg. Emedan det sjungits af store skalder, har det blifvit så stolt och glänsande, som få andra språk. Men när finske skalder diktat på svenska, har deras språk blifvit enklare och innerligare, likasom en återspegling af vårt lands folk och natur. Här i Finland uttalas svenskan mera klanglös, än i Sverige, och vi tycka, att Svenskarne hafva ett sjungande uttal. Detta kommer sig deraf, att vårt finska öra har vant sig vid ett annat tonfall. Vi begå många fel, när vi tala svenska; vi inblanda dervid finska ord och uttryckssätt, dem vi ej sjelfva märka. Då skratta Svenskarne åt oss. Men när någon rådbråkar det finska språket – hvilket sker både värre och oftare – då skrattar ej Finnen, han endast rättar felet. Hvarje folk gör väl i att älska sitt språk och bevara det rent.</p>
+  <p>Svenskarne tala sitt språk i flera olika munarter. Här i Finland talar också den svenska befolkningen mångenstädes ett så föråldradt språk, att det blott med svårighet kan begripas af andra. Sådant kommer deraf, att våra svenske landsmän lefvat så länge skilde från Sverige och behållit<pb type="orig" n="195"/> sitt fordna talspråk, medan detta i Sverige och svenska böcker blifvit med tiden förändradt.</p>
+  <head>90. Skärgårdsbor i sydwestra Finland.</head>
+  <p n="1">På Ålands tusen öar och klippor, intill den vida skärgården söderom Åbo, bor en svensk befolkning af sjömän och fiskare. De odla något litet säd och potäter, de hafva hästar och boskap, de bränna kalk och tegel, de utskeppa ved, men deras rätta åker och äng är hafvet. Somlige äro skeppsredare, bygga stora fartyg och segla med god vinst till främmande länder. Andra föra på deras skutor och galeaser fisk, ved, kalk och flera varor till Stockholm, Åbo, Helsingfors och Reval. Dessa små skeppare, med 1 och 2 mans besättning ombord, segla mest efter landkänning på deras vana farvatten, ankra vid motvind i skydd af klipporna, men öfverraskas ofta af stormbyar och vindkast, som frambryta vid klippuddarna. Andra lefva hela sommaren i sin fiskarebåt ute på sjön och föra på hösten salt ströming och torsk till städerna. Män, qvinnor och barn ha pröfvat hafvet i alla väderskiften, de blekna icke för hvita vågor, men när de en tid slitit ondt, tycka de om att ligga i ro för ankar och lefva godt. Det finska lynnets lugn gör dem då tålmodiga och obekymrade om sin tidspillan. Sådane äro de fleste af våra kustbor: deras lif är deladt emellan ett hårdt arbete och en maklig hvila.</p>
+  <p>Hemma bo de i små byar eller ensliga stugor, som alla hafva sin flaggstång vid gafveln. De fira jul och midsommarvaka, dansa grundligt på brölloppen och äta grundligt vid läsförhören. Desse vestfinske <corr source="Rättelser">skärgårdsbor</corr> ha under sina resor lärt sig ett höfligt umgängessätt. De kläda<pb type="orig" n="196"/> sig på helgdagar nästan som herrefolk, bruka också gerna herrskapsmat vid deras gästabud. Det kan vara fattigt nog deremellan, när fisket slår felt; men skall det vara godt, så sparar man icke. Om vintern binda de nät och not; handslöjd brukas här mer än i Nyland, och qvinnorna väfde förr mycket, innan det blef sed att köpa fabriksväfnader.</p>
+  <p>Bilden visar en fiskarebåt, som ligger förtöjd vid stranden af Aurajoki, nära Åbo. Det är en höstafton. En af karlarne sofver under det utspända segeltältet, medan den andre, makligt lutad mot masten, röker sin korta pipa. Hustrun utbreder till natten en notslarfva öfver fiskfjärdingarna, och den lilla flickan väntar halfsofvande på sin aftonvard, för att sedan söka sin sofplats under det skyddande seglet.</p>
+  <pb type="orig" n="197"/>
+  <head>91. Nyländingar.</head>
+  <p n="1">De svenske Nyländingarne äro dels åkerbrukare på sin bördiga jord, dels fiskare vid sina vikar och hafskuster. Jordbrukaren har sin not, fiskaren har sin åkertäppa. Strax i norr bor en finsk befolkning med andra seder. Den svenske Nyländingen är välbergad, gladlynt, förståndig, pratsam, maklig. Han bor mest i låga hus med små fönster, fruktträd framför fönsterna, hafstång på stranden. I städernas grannskap har han lärt sig herreseder och stadspriser, men längre i bygderna är mycket qvar utaf gammal sed, fastän icke af gammal drägt. Folket österom Helsingfors skiljer sig märkbart från folket vesterom Helsingfors och talar en olika munart af sitt svenska språk.</p>
+  <p>Om våren, i Mars eller April, går kustbon här, som annorstädes, ut i sjelskytte på isen. Han drager då en hvit skjorta öfver kläderna, bär på sitt hufvud en hvit harskinnsmössa och närmar sig, krypande på magen, de skygga sjelarne ute vid iskanten. Sjelen lyssnar, jägaren ligger andlöst stilla. Pang, skottet smäller, jägaren skyndar fram och griper sitt byte med en jernkrok, innan sjelen hinner dyka i vattnet. Skinn och späck betala sig väl, men yrket är farligt och mödosamt. Ofta drifver skytten på lös is till sjös, ofta faller han in i en remna; stundom är han borta i veckotal, flera mil ut på hafvet. – I Österbotten fångas sjelen äfven med grofva nät, i hvilka han rullar sig in, när han känner sig fången. Då är det icke lätt att lyfta i båten en sådan tung, lefvande best, som stundom kan väga ända till 15 lispund och som modigt försvarar sig med sina hvassa tänder.</p>
+  <p>Nyländingen tycker om lustiga sagor. Hans berättelser om Bemböleboerne likna mycket det vi redan känna om Hölmöläboerne. Det var med Bemböle-kräklan man rörde om gröten i träsket. Bemböleboerne tyckte saltet<pb type="orig" n="198"/> vara för dyrt att köpa i staden och beslöto af sparsamhet att så det i åkern. När åkern skulle harfvas, gjorde de en stark bår och ställde hästen på den, för att han ej skulle trampa ned utsädet. Fyra karlar buro på detta sätt hästen kring åkern och släpade harfven efter sig. När sedan smörblommor vexte upp der saltet var sådt, smakade Bemböleboerne på de uppskjutande plantorna, funno dem något bäska och sade sig emellan: det är ännu icke rätt moget, men nog smakar det redan litet salt!</p>
+  <p>Nyländingen sjunger också många visor, gamla och nya, sorgsna och muntra. Melodierna äro ofta vackra, men om orden är han icke så noga, endast de klinga bra. Det är som med namnsdagsplakaterna på hans vägg: hufvudsaken är, att de skola vara grannt målade.</p>
+  <p>Vi taga två profstycken af de nyländska folkvisorna. Det första är ifrån Strömfors socken:</p>
+  <lg>
+  <l>Se, god afton och god qwäll,</l>
+  <l>Min utwaldaste wän!</l>
+  <l>Huru lefwer wäl werlden med dig?</l>
+  </lg>
+  <lg>
+  <l>Har du helsan och mår bra,</l>
+  <l>Som jag tror att du skall ha,</l>
+  <l>Har du nöjen, wisst fägnar det mig.</l>
+  </lg>
+  <lg>
+  <l>Har du pengar, har du gull,</l>
+  <l>Har du dina kistor full,</l>
+  <l>Har du det, så wisst roar det mig.</l>
+  </lg>
+  <lg>
+  <l>Har du ett förnöjsamt sinn,</l>
+  <l>Det är rikedomen din,</l>
+  <l>Det är bättre, än pengar och gull.</l>
+  </lg>
+  <lg>
+  <l>När jag tänker uppå dig,</l>
+  <l>Röres blodet i mig;</l>
+  <l>Lilla wän, förglöm dock aldrig mig!</l>
+  </lg>
+  <pb type="orig" n="199"/>
+  <lg>
+  <l>Se på stjernorna de små</l>
+  <l>Under himmelen den blå</l>
+  <l>Falla neder till jorden liksom strå.</l>
+  </lg>
+  <lg>
+  <l>Förr skall sjöar och strand</l>
+  <l>Blifwa torra liksom sand,</l>
+  <l>Förrän jag skall ta mig någon ann.</l>
+  </lg>
+  <head type="sub">Sjömanswisa från Pernå.</head>
+  <lg>
+  <l>Se på de sjömansgossar,</l>
+  <l>Hur raska som de gå,</l>
+  <l>Och alla wackra flickor</l>
+  <l>De tycka om dem så,</l>
+  <l>För att de är’ så raska</l>
+  <l>Och ha ett lustigt mod.</l>
+  <l>Sitt unga lif de wåga</l>
+  <l>På sjö och saltan flod.</l>
+  </lg>
+  <lg>
+  <l>En landsman han plöjer</l>
+  <l>Sin åker och sin äng,</l>
+  <l>Om natten får han ligga</l>
+  <l>Och sofwa i sin säng.</l>
+  <l>Wi unga sjömansgossar,</l>
+  <l>Som ut på böljan gå,</l>
+  <l>Wi få så sällan sofwa,</l>
+  <l>Men alltid klara stå.</l>
+  </lg>
+  <lg>
+  <l>Och denna wisan gjorde wi</l>
+  <l>På resan wi kom hem;</l>
+  <l>I engelska kanalen</l>
+  <l>Wi låg för bidewind.</l>
+  <l>Det war ett wackert wäder</l>
+  <pb type="orig" n="200"/>
+  <l>Att roa tiden bort,</l>
+  <l>Så gjorde wi den wisan,</l>
+  <l>Och den blef ganska kort.</l>
+  </lg>
+  <head>92. Österbottningarne.</head>
+  <p n="1">Långs Wasa läns hela kust, utom Lillkyro socken, bor svensk befolkning 2 eller 3 mil inåt landet, der den finska befolkningen vidtager. Nära hvarandra talar en by svenska, en annan by finska; några förstå båda språken, men den svenska byns ungdom gifter sig ej med den finska byns ungdom, eller tvärtom. Ändock hafva de båda grannarne antagit mycket af hvarandras seder. De välbyggda gårdarna med deras utbyggda loft öfver boden äro nästan lika hos båda. Bostädernas inredning, plogen, kärran, seltygen, knifbältet, och tyvärr äfven knifven, äro desamma i svenska och finska byar. Utom språket, som talas i olika munarter, är der nästan lika stor skilnad mellan de svenska socknarna inbördes, som mellan de svenska och finska.</p>
+  <p>De svenske Österbottningarne hafva både godt och ondt rykte om sig i landet. Man ser dem öfverallt som skicklige arbetare i städer och herregårdar. De bygga skepp och båtar, hus och fabriker bättre än andra, men stundom utbrister hos dem det gamla, ärfda krigarelynnet. När de tagit sig för mycket till bästa, råka de lätt i slagsmål. Ingenstädes i landet flyter så ofta blod, som vid deras och deras finske grannars gästabud. Stundom samlas två byars ungdom på landsvägen enkom att slåss. Der åker en resande: kämparne afbryta striden, lemna vägen fri och fortsätta slagsmålet, när den resande är förbi.</p>
+  <p>Dessa strider skulle kosta långt mera blod, om ej qvinnan så ofta kastade sig emellan, med fara för eget lif.<pb type="orig" n="201"/> När karlarne vandra bort på arbetsförtjenst, sköta qvinnorna jordbruket och gå äfven deremellan i karlsysslor. De köra, de plöja, de dika, de hugga ved. De små barnen lemnas då i andra barns vård och dö ofta bort.</p>
+  <p>Bilden är tecknad i Lappfjärds socken. Af svenska sagor och sånger i Österbotten taga vi här blott en, som röjer i sig det gamla kämpalynnet. Det är en folksaga om</p>
+  <head type="sub">Starka Matts.</head>
+  <p n="1">Det var engång en gosse vid namn Starka Matts (Stark-Matt). Han var yngst och dummast bland syskonen. När han ej hemma dugde till något, sändes han ut i verlden och kom till en smedja. Smeden ställde honom vid blåsbälgen och sade: pusta nu duktigt! Matts vek upp ärmarna, grep i stången, och vid första taget sprack blåsbälgen som en såpbubbla, medan kolen hvirflade upp som ett eldregn i ässjan. Duger ej, sade smeden; tag släggan, och håll<pb type="orig" n="202"/> bara takten! Matts slog några försigtiga slag; smeden sade: slå bättre! Matts lyftade släggan mot taket, dammade till och körde med ett enda slag städet och stabben ned i jorden.</p>
+  <p>Smeden tyckte sin nya dräng vara för hårdhändt och gaf honom respass. Matts tog tjenst som dräng på en herregård och skickades ut att köra hem ved från skogen. När han radat på lasset, var det för tungt för hästen. Matts spände hästen ur redet, lade hästen på lasset och drog det sjelf. Släden brast, Matts gjorde en starkare släde och drog hem lasset. Då rymdes släden ej in genom porten. Matts drog, portstolparne brusto som stickor, och fram kom lasset.</p>
+  <p>Nu blefvo de andra drängarne rädde för Matts och beslöto förgöra honom. Matts skulle gräfva en brunn och gräfde så djupt, att han syntes som en mask dernere på brunnsbottnen. Der låg en qvarnsten på gården; den fällde drängarne ned i brunnen. Qvarnstenen råkade falla som ett halsband kring Matts, så att hans hufvud stod upp genom hålet i stenen. Nej, sade Matts, hvar i verlden ha de hittat mor mins gamla spinnrockshjul? Matts fortsatte gräfningen; drängarne hemtade storklockan från kyrktornet och fällde henne i brunnen. Matts tog lyra, betraktade klockan och sade: hvar i all verlden ha de hittat far mins gamla kyrkhatt?</p>
+  <p>Matts gräfde brunnen färdig, och ingen vågade mera ofreda honom. Det blef krig, fienden ryckte med en stor krigshär in i landet. Matts skickades ut i kriget. Der blef ett stort fältslag, men Matts var hungrig och satte sig först att äta. Medan han bredde sin smörgås, märkte han svarta korn, som flögo in i hans smörask. Se på dem, som kasta blåbär i smöret! menade Matts om kulorna. Detta förargade honom, han ryckte upp en fura med rötterna,<pb type="orig" n="203"/> gick mot fienden och slog så hurtigt omkring sig, att af fiendens hela här blef ingenting annat qvar, än pjexremmarna. Så var det, och nog lär det vara sannt.</p>
+  <head>93. Ryssarne i Finland.</head>
+  <p n="1">Finnar och Ryssar bo så nära hvarandra, att de ju ofta måste besöka hvarandras land för handel och andra ärender. Deraf har händt, att månge Finnar blifvit bofaste i Ryssland och månge Ryssar bofaste i Finland. Desse Ryssar hafva blifvit köpmän i städerne, eller köpt bruk och egendomar, eller hitkommit som murare, <corr source="Rättelser">trädgårdsodlare</corr> och handtverkare. Talrikast äro de i östra och en del af södra Finland, men ganska få i de vestra och norra delarne af vårt land.</p>
+  <p>Utom bosatte Ryssar finnes äfven ryskt krigsfolk i landet. Desse Ryssar marschera bort efter någon tid, och andre komma i stället. Stundom trifvas de så väl här i landet, att de bosätta sig här, när de fått afsked. De bofaste Ryssarne i Finland äro till antalet icke månge och räknas <corr source="Rättelser">till</corr> landets folk. De fleste lära sig landets språk, och deras barn uppvexa som landets barn. Men alle Ryssar hafva sin särskilda kristna tro, som kallas den grekiska kyrkans tro, och i några städer hafva de egna kyrkor med vaxljus, taflor och helgonbilder. I Wiborgs län finnas äfven finske bönder, hvilka sedan förfädernes tid bekänna sig till den grekiska läran.</p>
+  <p>I förra krigstider var man icke glad att se Ryssarne här i landet, ty de kommo då som fiender; men numera komma de som vänner, grannar och bundsförvandter. Och fastän de i mycket äro olika detta lands folk och tala sig<pb type="orig" n="204"/> emellan sitt ryska språk, som icke är lätt att lära, förlikas de godt med landets infödde. Ty Ryssarne äro flitige, gladlynte, godmodige och barnkäre; de hafva ett lifligare lynne, än Finnarne, älska musik och sjunga gerna. Bland dem finnas månge, som genom sparsamhet blifvit rike, och månge, som äro välgörande mot de fattige. Stundom ser man den ryske soldaten dela sin stora limpa med de fattiga, hålla bondens barn på sitt knä och sjunga för dem sina främmande visor.</p>
+  <p>De långe, ljushårige landthandlare, som vandra omkring i byarna med sin rensel på ryggen och kallas ”Laukku-Ryssar”, äro icke Ryssar, utan Karelare, som bo i det norra Ryssland och bekänna sig till den grekiska läran.</p>
+  <head>94. Om andra, som inflyttat till Finland.</head>
+  <p n="1">Månge <hi rend="expanded">Tyskar</hi> hafva inflyttat till Finland och här blifvit handlande, handtverkare eller konstnärer. De finnas talrikast i Wiborg, der man ännu hör tyska språket talas, jemte finska, svenska och ryska, men äfven i Helsingfors, Åbo och några andra af landets städer. Tyskarne äro arbetsame och hafva infört tyska handelsvaror, men äfven många nyttiga kunskaper. Någre af dem flytta hem till sitt land igen, när de här samlat förmögenhet; andra qvarstadna, och deras barn antaga landets språk och seder.</p>
+  <p>Vid fabrikerna och i städerna hafva några få skicklige <hi rend="expanded">Engelsmän</hi> bosatt sig. Man finner äfven några <hi rend="expanded">Fransmän</hi>, <hi rend="expanded">Schweitzare</hi>, <hi rend="expanded">Danskar</hi> och <hi rend="expanded">Polackar</hi> bosatte i Finland, men deras antal är ringa.</p>
+  <p><hi rend="expanded">Judarne</hi>, som enligt profetians ord äro förskingrade kring hela verlden, äro förbjudne af lagen att bosätta sig<pb type="orig" n="205"/> i vårt land. Men emedan lagen tillåter afskedadt krigsfolk af judisk härkomst att med deras familjer idka näringar här i landet, finner man i Helsingfors och Wiborg några hundrade Judar, som handla med gamla kläder och möbler och hafva sina egna synagogor, der de fira sin gudstjenst efter Moses’ lag. De fleste äro fattige och ringa ansedde, icke rike och mäktige, som Judarne uti andra länder; men alla igenkänna i dem det märkvärdiga folket, som fordom var Guds folk, tilldess att Guds straffdom kom öfver dem.</p>
+  <p>Ett annat främmande och förskingradt folk har på sina vandringar genom verlden kommit ända till Finland. Detta folk är <hi rend="expanded">Zigenarne</hi>, som af Svenskarne kallas Tattare och af Finnarne Mustalaiset. Af dem finnas här några hundrade, som igenkännas af sin bruna hy, sitt svarta hår och sina mörka, sydlänska ögon. Man har förgäfves sökt förmå dem att stadigt bosätta sig på ett ställe och söka sin utkomst med åkerbruk eller annan borgerlig näring. De vandra helst i det inre och östliga Finland från gård till gård och från by till by, hafva inga egna hus och sofva stundom i skogen. Deras vanliga yrke är att sko hästar, bota sjuka kreatur, lappa gamla kittlar och spå i händerna. Som hästbytare och stundom hästtjufvar äro de icke väl beryktade, när de komma till byn med sina svarthåriga, halfvilda barn och all sin egendom på en kärra. De tala sig emellan ett främmande språk, men med andra tala de landets språk. Månge frukta dem, och kronobetjeningen har mycket besvär med dem; men vi skola ej glömma, att de dock äro fattige landsflyktingar, likasom Judarne. Derför måste vi hafva medlidande med dem; ty af Judar och Zigenare lära vi, hvilken stor olycka det är, att icke hafva ett fädernesland. Då är en menniska såsom på vida hafvet: hon ser ingen strand, hon har ingen hamn, hon lefver och dör som en främling på jorden.</p>
+        </body>
+    </text>
+</TEI>
