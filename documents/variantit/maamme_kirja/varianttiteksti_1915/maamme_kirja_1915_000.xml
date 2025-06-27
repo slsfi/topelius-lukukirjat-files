@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Maamme kirja. 1915. Alkulause, varianttikoodattu</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Sakari Topelius, Maamme kirja. Lukukirja Suomen alimmille oppilaitoksille. Toinen oppimäärä., Yhdeskolmatta, parannettu painos, Helsinki: G. W. Edlund 1915</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+<pb type="orig"/>
+<head style="romanType"><anchor id="struct100a" subtype="sub" /><hi rend="bold"><hi rend="italics">Alkulause.</hi></hi></head>
+<p style="romanType"><hi rend="italics">Sen jälkeen, kun vuonna 1910 ilmestyi ”Maamme kirjan” 20:s painos, on varsinkin opettajien taholta sekä yksityisesti että julkisesti lausuttu toivomuksia siihen suuntaan, että tämän lukukirjan kielellinen asu, joka ei enää kaikin puolin ole tyydyttänyt nykyajan vaatimuksia, saatettaisiin kauttaaltaan ja johdonmukaisesti tehtävillä korjauksilla mallikelpoiseen kuntoon. Kun ottaa huomioon, että ”Maamme kirjaa” on kouluissamme käytetty jo 40 vuotta, minkä ajan kuluessa kirjakielemme on varsin tuntuvasti kehittynyt, niin saattaa ilman lähempiä selityksiä käsittää, että alkuaan hyvä suomennos, vaikkapa sitä myöhemmin oli ansiokkaalla tavalla paranneltu, kuitenkin vielä eräissä kohdin saattoi jättää toivomisen varaa.</hi></p>
+<p style="romanType"><hi rend="italics">”Maamme kirjan” ensimmäinen suomentaja oli kirkkoherra <hi rend="expanded">Joh. Bäckvall</hi>, joka suoritti tämän työn Sakari Topeliuksen omasta pyynnöstä. Mutta kun myöhemmin havaittiin, että suomennos kaipasi parantamista, annettiin runoilija <hi rend="expanded">Paavo Cajanderin</hi> toimeksi tehdä siihen kaikki tarpeelliset korjaukset ja uudistukset, ja siten saatiinkin kielellisesti uudistettu teksti, joka pitkiä aikoja vastasi tarkoitustaan. Vähitellen kävi kuitenkin yhä ilmeisemmäksi, että näin korjattu kieliasu, kuten jo Cajander oli itsekin havainnut, ei ollut vielä vapautunut kaikista ensimmäisen suomennoksen kankeuksista ja muista puutteista. Kun sitäpaitsi kirjakielemme yhä edistyvä kehitys toi mukanaan uusia, korkeampia vaatimuksia, jouduttiin lopulta siihen, että ”Maamme kirja”, joka yhä oli säilyttänyt paikkansa suosituimpana lukukirjana kansakouluissamme, oli julkaistava perinpohjin tarkastettuna suomennoksena.</hi></p>
+<p style="romanType"><hi rend="italics">Tämä tehtävä on ollut monessa suhteessa vaikea. Suomalaisen tekstin tulee tarkoin vastata Topeliuksen erikoista ajatus- ja sanontatapaa, mutta samalla niin täydellisesti kuin suinkin karttaa niitä kankeuksia ja vieraanvoittoisia lauserakenteita, jotka tavallisesti pääsevät hyviäkin suomennoksia haittaamaan vain sen vuoksi, että kirjoittaja ei ole saanut vapaasti ajatella omalla kielellään, vaan on kääntäjänä koettanut esittää vieraskielisiä ajatuksia kutakuinkin virheettömällä suomen kielellä. Tällainen muodollisesti virheetön kielenkäyttö ei kuiten</hi><pb type="orig"/><hi rend="italics">kaan ole sinänsä riittävä silloin, kun on puhe varsinaisesta lukukirjasta, jossa äidinkielen tietysti pitää esiintyä ominaisessa luonnossaan ja kauneudessaan.</hi></p>
+<p style="romanType"><hi rend="italics">Yllä esitettyjä näkökohtia silmällä pitäen ryhtyi maisteri <hi rend="expanded">A. K. Ahlfors</hi> merkitsemään ”Maamme kirjan” tekstiin kaikki ne korjaukset ja muutokset, jotka hänestä tuntuivat tarpeellisilta, samalla tarkistaen myös lukuisia asiallisia kohtia. Täten hän sai toimeen kauttaaltaan uudistetun tekstin, joka paljoa paremmin kuin edellinen painos tyydytti oikeakielisyyden vaatimuksia.</hi></p>
+<p style="romanType"><hi rend="italics">Voidaksemme julkaista uuden painoksen niin mallikelpoisessa asussa kuin nykyään on mahdollista, tahdoimme ennen painattamista antaa tämän korjatun tekstin vielä jonkun toisen etevän kielenkäyttäjän tarkastettavaksi. Sitäpaitsi oli runopukuisiin lukukappaleisiin, joihin maisteri Ahlfors ei ollut kajonnut, myöskin saatava korjauksia, vieläpä eräisiin niistä uusi käännös. Tällöin suostui yliopistonlehtori <hi rend="expanded">Otto Manninen</hi> suorittamaan lopullisen korjaus- ja tarkastustyön, käyttäen maisteri Ahlforsin merkitsemiä korjauksia, mikäli ne näyttivät ehdottomilta parannuksilta, ja omasta puolestaan vielä uudistaen tekstiä yllä viitattuun suuntaan.</hi></p>
+<p style="romanType"><hi rend="italics">Jos tätä ”Maamme kirjan” painosta verrataan edelliseen v. 1910 julkaistuun, käy piankin ilmeiseksi, että tekstiin on tullut useita muutoksia. Siitä johtuu muun mukana, että kouluissa on koetettava saada nyt esillä oleva korjattu painos yksinomaiseen käytäntöön eikä enää sovi ainakaan saman luokan oppilailla luettaa jotakin vanhempaa painosta rinnan tämän kanssa. Vastedes ei enää tule hankaluutta siitä, että oppilailla on eri painoksia, koska tekstin voidaan katsoa nyt saaneen lopullisen asunsa, lukuunottamatta sitä, että erinäisiin lukukappaleisiin sisältyvät, maamme nykyoloja koskevat asia- ja henkilötiedot kulloinkin tarkistetaan ja että teoksen kuvitusta myöskin parannetaan.</hi></p>
+<p style="romanType"><hi rend="italics">Helsingissä, maaliskuussa 1915.</hi></p>
+<p rend="right" style="romanType"><hi rend="bold">Kustantaja.</hi><anchor id="struct100b" subtype="sub" /></p>
+
+        </body>
+    </text>
+</TEI>

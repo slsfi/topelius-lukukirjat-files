@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Maamme kirja. Toinen painos 1878. Kolmas Luku. Pakanallisia Jumaloita ja sankarisatuja, varianttikoodattu (perusteksti)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Lukukirja alimmaisille oppilaitoksille Suomessa. Toinen Jakso. Maamme Kirja. suomentanut Joh. Bäckvall, Toinen painos, Helsinki: G. W. Edlund 1878</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+<pb type="orig" n="196" />
+  <head type="section" style="blackletter"><hi rend="bold">Kolmas <app id="var1a_h"><lem>Luku.</lem></app></hi></head>
+  <head type="section" style="romanType"><anchor id="struct2018a" /><app id="var1_h"><lem><hi rend="bold">Pakanallisia Jumaloita</hi></lem></app><hi rend="bold"> ja </hi><app id="var2_h"><lem><hi rend="bold">Sankarisatuja.</hi></lem></app><anchor id="struct2018b" /></head>
+  <head style="blackletter"><app id="var3_h"><lem><hi rend="bold">95.</hi></lem></app><hi rend="bold"> Pakanallisten </hi><app id="var4_h"><lem><hi rend="bold">Suomalaisten Jumaloista.</hi></lem></app></head>
+  <p style="blackletter">Jo kauan <app id="var5_h"><lem>ennen kuin</lem></app> Jumala kaikkivaltias oli ilmoittanut totisen oppinsa ihmisille, <app id="var6_h"><lem>oli hän heidän sydämiinsä laskenut hämärän aavistuksen häneltä itsestään.</lem></app> He näkivät päänsä päällä taivaan <app id="var8_h"><lem>ja sen herranvoimat</lem></app> ja <app id="var8b_h"><lem>salamat,</lem></app> edessään avaran meren ja viheriän maan, ympärillään päivän ja yön, talven ja kesän, elämän ja kuoleman <app id="var9_h"><lem>alinomaa keskenään vaihettelevan.</lem></app> He tunsivat itsensä vähäpätöisiksi ja voimattomiksi, heidän elämänsä lakastui kuin kukkanen kedolla, ja he etsivät <app id="var10_h"><lem>Jumalata</lem></app> turvautuakseen <app id="var11_h"><lem>johonkuhun ijankaikkiseen,</lem></app> joka ei ollut maallisten muutosten alainen.</p>
+  <p style="blackletter">Mutta he etsivät <app id="var12_h"><lem>Jumalata</lem></app> näkyväisessä maailmassa, eivätkä <app id="var14_h"><lem>tietäneet, tietämättömyydessään, Jumalan olevan näkymättömän hengen,</lem></app> joka kaikkialla <app id="var15_h"><lem>läsnä olevana ilmoittaa</lem></app> voimansa luonnossa. <app id="var16_h"><lem>Siitä sokaantuivat</lem></app> heidän silmänsä, ja he etsivät häntä turhaan. <app id="var17_h"><lem>He uskoivat hänen olevan näkyväisessä taivaassa ja nimittivät häntä nimellä <hi rend="expanded">Jum</hi> eli <hi rend="expanded">Jumala</hi> (Jumalan asunto).</lem></app> <app id="var17b_h"><lem>Koska vanhuutta pidettiin suuressa kunniassa, sanottiin taivaan Jumalata myöskin <hi rend="expanded">Ukoksi</hi>.</lem></app> Hänen luultiin hallitsevan pilvien kulkua, ukkosta, lunta, rae- ja vesisadetta. Häntä ei voinut kukaan vastustaa: <app id="var18_h"><lem>pilvi</lem></app> oli hänen <app id="var19_h"><lem>paitanansa,</lem></app> salama hänen <app id="var20_h"><lem>nuolenaan,</lem></app> ja hän näkyi joskus taivaan rannalla siniset sukat ja kirjavat kengät jalassa. <app id="var22_h"><lem type="empty" /></app></p>
+  <p style="blackletter"><anchor id="struct3a_h" />Ukolla oli – niin uskoivat pakanat – vaimo, nimeltä <hi rend="expanded">Akka</hi>, jonka vakasta mehiläinen <app id="var23_h"><lem>toi</lem></app> mettä. Aurinko, kuu ja tähdet olivat eri jumalia, joilla oli nuoria, kauniita poikia ja tyttäriä: <hi rend="expanded">Päivätär</hi>, auringon tytär, <hi rend="expanded">Kuutar</hi>, kuun tytär, <hi rend="expanded">Tähdetär</hi>, tähden tytär. <app id="var24_h"><lem>Auringon poikia</lem></app> oli <hi rend="expanded">Panu</hi>, tulenhenki. <hi rend="expanded">Luonnottaret</hi> olivat luonnon kolme tytärtä, jotka synnyttivät raudan. Ilman tytär <hi rend="expanded">Il<pb type="orig" n="197" />matar</hi> oli avullisena maailman luomisessa, mutta <hi rend="expanded">Tuulen tytär</hi> oli huonosti kasvatettu <app id="var26_h"><lem>neito,</lem></app> joka kutoi huonoja paitoja. <app id="var27_h"><lem>Etelä-tuulen</lem></app> tytär, <hi rend="expanded">Etelätär</hi>, antoi sadetta kovana pouta-aikana, ja kesän tytär, <hi rend="expanded">Suvetar</hi>, <app id="var28_h"><lem>hoiti</lem></app> karjaa metsässä.</p>
+  <p style="blackletter">Veden jumalan nimi oli <hi rend="expanded">Ahti</hi>, arvokas ukko jolla oli pitkä, merenruohoinen parta. Hän asui <app id="var30_h"><lem>kallion luolassa</lem></app> <hi rend="expanded">Ahtolassa</hi>, ja hänellä oli äärettömät aarteet, <app id="var31_h"><lem>jotka</lem></app> hän oli <app id="var32_h"><lem>ryöstänyt meren-kulkijoilta</lem></app> ja harvoin antoi takaisin. Hänen vaimonsa oli antelias <hi rend="expanded">Vellamo</hi>, jolla oli sininen lakki, <app id="var33_h"><lem>kaisla-paita</lem></app> ja vaahtoinen vaippa yllä. Heillä oli monta kaunista, mutta <app id="var34_h"><lem>huikentelevata</lem></app> lasta, ja aallon tytär <hi rend="expanded">Aallotar</hi> <app id="var35_h"><lem>harjaili</lem></app> välistä kalliolla pitkiä <app id="var36_h"><lem>hivuksiansa</lem></app> harjalla hopeapäällä.<anchor id="struct3b_h" /></p>
+  <p style="blackletter"><app id="var37_h"><lem>Maan valtava äiti oli <hi rend="expanded">Maan-emo</hi> ja häneltä rukoiltiin runsaita viljavuosia.</lem></app> <app id="var37b_h"><lem>Metsän</lem></app> kuningas oli vanha ruskeapartainen <hi rend="expanded">Tapio</hi>, jolla oli <app id="var38_h"><lem>korkea</lem></app> havuhattu ja <app id="var39_h"><lem>naavaturkki.</lem></app> Hänen asuntonsa oli kaunis <hi rend="expanded">Metsola</hi>, jossa Tapiolla oli kolme linnaa ja raha-aitta, jonka kultaista avainta hänen vaimonsa <hi rend="expanded">Mielikki</hi> kantoi vyöllään. Tältä pyysi metsästäjä hyvää <app id="var40_h"><lem>metsä-onnea,</lem></app> ja jos hän näki <app id="var41_h"><lem>hänen</lem></app> vihaisena, rumissa, <app id="var42_h"><lem>huononpuoleisissa</lem></app> vaatteissa, kävi metsästys huonosti; mutta jos hän näki <app id="var43_h"><lem>hänen lykkyvaattehissa, käet</lem></app> kullan <app id="var44_h"><lem><choice><orig>käärehissa</orig><reg>käärehissä</reg></choice>,</lem></app> kaula helmissä hyvissä, silloin <app id="var45_h"><lem>oli hän</lem></app> varma onnestaan. Sillä kaikki <app id="var46_h"><lem>metsän eläimet</lem></app> olivat Tapion <app id="var47_h"><lem>karjoja;</lem></app> <app id="var48_h"><lem>hänellä oli monta palvelijata ja kauniita, hyvästi kasvatettuja lapsia. <hi rend="expanded">Nyyrikki</hi> veisti pilkkuja puihin, ettei metsästäjä eksyisi; <hi rend="expanded">Tellervo</hi> johdatti karjan kotiin; <hi rend="expanded">Tuulikki</hi> levitti punaisen silkki-huivinsa sillaksi ojan poikki.</lem></app> <app id="var49_h"><lem><hi rend="expanded">Metsän piika</hi>, Tapion pieni palvelustyttö, eli sulalla medellä ja puhalteli niin suloisesti huiluansa, että Mielikki heräsi aamu-unestaan ja kuuli metsästäjän rukoukset.</lem></app> <app id="var49b_h"><lem type="empty" /></app></p>
+  <p style="blackletter"><anchor id="struct5a_h" /><hi rend="expanded">Hiitolassa</hi>, <app id="var50_h"><lem><choice><orig>kaukaua</orig><reg>kaukana</reg></choice> autioiden vuorten välissä,</lem></app> asui julma <hi rend="expanded">Hiisi</hi>. Koko hänen sukunsa oli häijyjä noitia, hän oli kipujen ja <app id="var51_h"><lem>kauhistuksen</lem></app> <app id="var51b_h"><lem>jumala,</lem></app> hän hioi <app id="var52_h"><lem>terävimmät miekat.</lem></app> Maan alla, <hi rend="expanded">Tuonelassa</hi>, oli <app id="var53_h"><lem>kuolleitten</lem></app> valtakunta, johon <app id="var54_h"><lem>tultiin</lem></app> yhdeksän meren ylitse. Sen <app id="var55_h"><lem>verihimokas</lem></app> kuningas oli <hi rend="expanded">Tuoni</hi>, jonka häijy vaimo oli miehensä apuna kuolleita vartioimassa. Pojilla oli vaskisormet,<pb type="orig" n="198" /> tyttäret olivat <app id="var56_h"><lem>yhtä rumia kuin</lem></app> ilkeitä, mutta häijyin oli sokea <hi rend="expanded">Loviatar</hi>, kipujen äiti.<anchor id="struct5b_h" /></p>
+  <p style="blackletter">Paitsi näitä oli monta muuta sekä hyvää että pahaa olentoa, jotka milloin auttoivat, milloin vahingoittivat ihmisiä. <app id="var57_h"><lem>Jokaisessa puussa, jokaisessa vuoressa, jokaisessa lähteessä</lem></app> asui <app id="var58_h"><lem><hi rend="expanded">haltija</hi>;</lem></app> <app id="var58b_h"><lem>kaikissa oli elo, koko luonto oli täynnä eläviä henkiä.</lem></app> Ja niin <app id="var59_h"><lem>on</lem></app> Jumala kaikkivaltias pakanain käsityksessä <app id="var60_h"><lem>särkynyt</lem></app> <app id="var60b_h"><lem>moneen tuhanteen pirstaan ja</lem></app> jokainen <app id="var61_h"><lem>sellainen pirsta</lem></app> Jumalasta oli <app id="var62_h"><lem>kiintynyt johonkuhun luonnon-esineesen.</lem></app></p>
+  <p style="blackletter">Ihmisen henki <app id="var63_h"><lem>ainoastaan</lem></app> oli vapaa. Viisas ihminen voi hallita luontoa ja lumota <app id="var64_h"><lem>jumalat</lem></app> sanan voimalla. Hän voi <app id="var65_h"><lem><hi rend="expanded">luvuillaan</hi> luoda luonnon-esineitä tahi muuttaa ne muuksi.</lem></app> Hän voi <app id="var66_h"><lem>kutsua maahan ukkosentulen, raesateen, hallan, vedenpaisunnan; hän voi nostaa tauteja ja karkoittaa niitä.</lem></app> <app id="var67_h"><lem type="empty"></lem></app> <app id="var67b_h"><lem>Kaikkeen tähän tarvitsi hän</lem></app> tietää <app id="var68_h"><lem>kappalten</lem></app> synnyt, ja silloin <app id="var69_h"><lem>oli hän kaikkein</lem></app> hallitsija, paitsi kuoleman, jota hän ei voinut lumota, <app id="var70_h"><lem>senvuoksi että</lem></app> ei tietänyt sen syntyä.</p>
+  <p style="blackletter">Kaikessa tässä oli <app id="var71_h"><lem>jumalallisen totuuden haamoitusta.</lem></app> Sillä Suomen kansa on kaikkina aikoina miettinyt <app id="var72_h"><lem>korkeita, syvällisiä</lem></app> asioita ja rakastanut <app id="var73_h"><lem>viisautta, jota se on kunnioittanut enemmän kuin väkevyyttä.</lem></app> Mutta se tarvitsi Jumalan <app id="var74_h"><lem>ilmoittaman sanan käsittääkseen</lem></app> sen Jumalan, jota se <app id="var75_h"><lem>oli niin kauan ja</lem></app> turhaan etsinyt.</p>
+  <p style="blackletter">Suomalaisten pakanallinen jumalanpalvelus oli <app id="var77_h"><lem>aivan yksinkertainen.</lem></app> <app id="var77b_h"><lem>Heillä ei ollut epäjumalantemppeliä, ei pappeja, eikä epäjumalankuvia.</lem></app> Heillä oli pyhiä <app id="var78_h"><lem>puita, pyhiä vuoria, pyhiä järviä, jokia ja lähteitä, pyhiä eläimiäkin, semmoisia kuin karhu, kärme, ampiainen, kotka.</lem></app> <app id="var78b_h"><lem type="empty" /></app> He <app id="var79_h"><lem>palvelivat jumaloitaan</lem></app> rukouksilla ja uhreilla, joita toimitti <app id="var80_h"><lem>isäntä, emäntä tahi</lem></app> kansan viisaat miehet. <app id="var81_h"><lem>Metsästäjä ripusti peuransarvet pyhään puuhun.</lem></app> Kalastaja antoi lihavimman osan saalistaan, <app id="var82_h"><lem>halmeenviljelijä</lem></app> uhrasi <app id="var83_h"><lem>halmeen tulosta, emäntä</lem></app> tiputti maahan muutamia <choice><orig>maito pisaroita</orig><reg>maitopisaroita</reg></choice> <hi rend="expanded">maahisille</hi>. <app id="var85_h"><lem>Ihmisen verta ei vuodatettu uhreissa; ainoastaan metsästäjä</lem></app> leikkasi <app id="var86_h"><lem>peukaloonsa</lem></app> ja vuodatti <app id="var87_h"><lem>veripisaroita</lem></app> muurahaispesään Tapiolle uhriksi.</p>
+<pb type="orig" n="199" />
+  <head style="blackletter"><app id="var88_h"><lem><hi rend="bold">96.</hi></lem></app> <app id="var88b_h"><lem><hi rend="bold">Kalevalasta</hi></lem></app> <hi rend="bold">ja Elias </hi><app id="var89_h"><lem><hi rend="bold">Lönnrotista.</hi></lem></app></head>
+  <p style="blackletter"><app id="var90_h"><lem>Pispa</lem></app> Agricola <app id="var91_h"><lem>alkoi</lem></app> enemmän kuin <app id="var92_h"><lem>300</lem></app> vuotta takaperin ensimmäisenä <app id="var94_h"><lem>kirjoittaa muistoon joitakuita</lem></app> kohtia suomalaisesta <app id="var95_h"><lem>mytologiasta eli jumalais-sadustosta,</lem></app> ja sittemmin ovat toiset paremmalla <app id="var96_h"><lem>onnella</lem></app> keräilleet tämän pakanallisen <app id="var97_h"><lem>uskon</lem></app> jäännöksiä. <app id="var98_h"><lem>Aikaa jo</lem></app> tiedettiin, että vanhoja suomalaisia runoja vielä <app id="var99_h"><lem>laulettiin kansassa.</lem></app> Papistolle <app id="var100_h"><lem>mieluisia eivät olleet nämä pakanuuden jätteet,</lem></app> ja moni harras kristitty katseli niitä <app id="var102_h"><lem>pelvolla</lem></app> ja kauhistuksella. <app id="var103_h"><lem>Näin</lem></app> tapahtui, että paljon näitä muinaisajan runoja, jotka <app id="var104_h"><lem>ei</lem></app> olleet <app id="var105_h"><lem>kirjoitettuina,</lem></app> vaan <app id="var106_h"><lem>säilytettiin muistossa</lem></app> polvesta polveen, joutui <app id="var107_h"><lem>unhotukseen</lem></app> ja säilyi ainoastaan <app id="var108_h"><lem>Karjalassa</lem></app> ja muutamissa <app id="var109_h"><lem>toisissa</lem></app> etäisissä paikoissa. Mutta sielläkin <app id="var110_h"><lem>valitti moni,</lem></app> että heidän lapsuutensa aikana isät lauloivat <app id="var111_h"><lem>paljon, joka sitte jäi</lem></app> unohduksiin, ja nuoremmat laulajat eivät enää voineet <app id="var112_h"><lem>muistossa</lem></app> ja voimassa vetää <app id="var113_h"><lem>vertoja vanhemmille.</lem></app></p>
+  <p style="blackletter"><app id="var114_h"><lem>Sata</lem></app> vuotta on nyt kulunut siitä, <app id="var115_h"><lem>kuin</lem></app> professori <app id="var116_h"><lem>Porthan</lem></app> Turussa alkoi <app id="var117_h"><lem>kirjoittaa muistiin muutamia näistä vanhoista runoista</lem></app> ja huomasi ne <app id="var118_h"><lem>suuri-arvoisiksi</lem></app> kansan muinaisajan <app id="var119_h"><lem>tuntemiseen.</lem></app> Hänen aikanaan ja hänen jälkeensä rupesivat oppineet miehet <app id="var120_h"><lem><choice><orig>uiinkuin</orig><reg>niinkuin</reg></choice></lem></app> Ganander, <choice><orig>Lenqvist</orig><reg>Lencqvist</reg></choice> ja muut, etsimään <app id="var122_h"><lem>runoista sitä,</lem></app> mitä tahtoivat tietää pakanuuden uskonnosta. Näiden jälkeen <app id="var123_h"><lem>alkoi tohtori Topelius ko’ota</lem></app> ja <app id="var124_h"><lem>painattaa</lem></app> runoja, joita karjalaiset laulajat <app id="var125_h"><lem>lauloivat hänelle. Aina usiampia</lem></app> sellaisia runoja löydettiin, niiden <app id="var126_h"><lem>arvoa</lem></app> ruvettiin käsittämään, mutta <app id="var127_h"><lem>ei kukaan ollut</lem></app> vielä aavistanut, että ne <app id="var128_h"><lem>olivat vaan kappaleita suuresta ja kokonaisesta kansan runoelmasta.</lem></app></p>
+  <p style="blackletter">Silloin <app id="var129_h"><lem>alkoi tohtori <hi rend="expanded">Elias Lönnrot</hi> vaeltaa</lem></app> <app id="var130_h"><lem>niissä seuduissa Suomen ja Venäjän Karjalata,</lem></app> joissa vielä <app id="var131_h"><lem>harmaapäiset</lem></app> viisaat <app id="var132_h"><lem>runoja lauloivat.</lem></app> Hän löysi <app id="var133_h"><lem>vielä paljoa</lem></app> enemmän tällaisia muinaisajan runoja, kuin muut ennen häntä olivat löytäneet, ja kirjoitti ne muistiin. Kummakseen <app id="var135_h"><lem>havaitsi hän</lem></app> <app id="var135b_h"><lem>runoilla olevan keskinäisen yhteyden ja niiden kertovan samoista tapauksista tai samoista henkilöistä. Sitte yhdisti hän kaikki kertomarunot isoon kokoukseen, jonka</lem></app> hän nimitti <hi rend="expanded">Kalevalaksi</hi>, vanhan jättiläisen Kalevan <app id="var136_h"><lem>jälkeen,</lem></app> jonka <app id="var137_h"><lem>sanottiin olevan</lem></app> suomalaisten sankarien <app id="var138_h"><lem>esi-isän.</lem></app> <app id="var138b_h"><lem>Toiset<pb type="orig" n="200" /> runot</lem></app> taas, joissa kansa lauloi <app id="var139_h"><lem>ilojaan ja surujaan,</lem></app> keräsi <app id="var140_h"><lem>hän <hi rend="expanded">Kantelettareesen</hi>,</lem></app> joka sai nimensä kanteleesta, <app id="var141_h"><lem>Suomalaisten</lem></app> vanhasta kielisoittimesta. Paitsi tätä <app id="var142_h"><lem>kokosi hän</lem></app> suomalaisia <app id="var143_h"><lem>sananlaskuja ja arvoituksia,</lem></app> <app id="var144_h"><lem>kirjoitti</lem></app> monta opettavaista virttä ja painatti monta hyödyllistä kirjaa, <app id="var145_h"><lem>muun</lem></app> muassa suuren <app id="var146_h"><lem>suomalaisen</lem></app> <app id="var146b_h"><lem>sanakirjansa. Niin</lem></app> <app id="var147_h"><lem>on hän</lem></app> kuuluisimpia ja <app id="var148_h"><lem>enimmän</lem></app> rakastettuja miehiä, <app id="var149_h"><lem>joita</lem></app> koskaan on <app id="var150_h"><lem>elänyt Suomessa.</lem></app></p>
+<figure type="illustration" />
+  <p style="blackletter">Mutta tohtori Lönnrot piti <app id="var151_h"><lem>halpana oman kunniansa.</lem></app> Hän kiitti <app id="var152_h"><lem>Jumalata,</lem></app> joka oli valinnut <app id="var153_h"><lem>hänet välikappaleekseen</lem></app> maan <app id="var154_h"><lem>päällä,</lem></app> ja piti ainoana <app id="var155_h"><lem>ansionaan,</lem></app> että oli yksi niistä <app id="var156_h"><lem>monesta,</lem></app> jotka <app id="var157_h"><lem>tekivät</lem></app> työtä isänmaan <app id="var158_h"><lem>eteen.</lem></app> Oltuaan kauan lääkärinä Kajaanissa, <app id="var159_h"><lem>tuli hän Suomen kielen</lem></app> professoriksi Helsingin yliopistoon ja muutti <app id="var161_h"><lem>lopulta syntymäpaikkaansa Sammattiin, tehden</lem></app> aina suuressa nöyryydessä työtä <app id="var162_h"><lem>ihmisten hyväksi</lem></app> ja kansansa valistukseksi. <app id="var163_h"><lem type="empty" /></app> Hänen <app id="var164_h"><lem>kauttansa on Suomen kansa</lem></app> oppinut tuntemaan hämärän muinaisaikansa ja saanut <app id="var165_h"><lem>miehuutta</lem></app> pysymään <app id="var166_h"><lem>omana</lem></app> itsenäisenä kansana muiden kansojen <app id="var167_h"><lem>rinnalla maailmassa.</lem></app></p>
+  <p style="blackletter">Kalevala <app id="var168_h"><lem>tuli ensikerran</lem></app> painosta v. 1835, toisen kerran v. 1849 Lönnrotin lisäämänä ja <app id="var169_h"><lem>toisella lailla</lem></app> järjestettynä painoksena. Tämä kirja on herättänyt suurta huomiota ei ainoastaan Suomessa, vaan <app id="var171_h"><lem>monessa kohden</lem></app> Euroopassa, <app id="var172_h"><lem>vieläpä Amerikassakin.</lem></app> Se on käännetty <app id="var173_h"><lem>ruotsiksi ja useille vieraille kielille.</lem></app> Kaikkialla on <app id="var174_h"><lem>arveltu</lem></app> että Kalevala on merkillisimpiä <app id="var175_h"><lem>kansan runo-teoksia,</lem></app> mitä milloinkaan on ilmaantunut, ja kiitetty Suomen kansaa onnelliseksi <app id="var176_h"><lem>että</lem></app> sillä sellainen on. Sillä <app id="var177_h"><lem>Kalevala ei ole minkään muun kansanlaulu-kokouksen kaltainen koko</lem></app> maailmassa. Se <app id="var179_h"><lem>kuvaapi</lem></app> Suomen kansan <app id="var180_h"><lem>ominaisuutta</lem></app> ja vaikka siinä on paljon semmoista, mikä meidän <app id="var181_h"><lem>aikamme mielestä</lem></app> näyttää pakanalliselta ja <app id="var182_h"><lem>kummalliselta, ilmaantuu</lem></app> siinä kuitenkin <app id="var183_h"><lem>sy<pb type="orig" n="201" />vällinen</lem></app> viisaus, yksinkertainen kauneus ja liikuttava <app id="var184_h"><lem>isänmaan rakkaus.</lem></app></p>
+  <p style="blackletter"><app id="var185_h"><lem>Uudemmassa</lem></app> Kalevalassa on viisikymmentä runoa, joissa on yhteensä <app id="var186_h"><lem>22,800</lem></app> kahdeksantavuista <app id="var186b_h"><lem>sä’että.</lem></app> Se sisältää kertomuksen Suomen kansan muinaisista sankareista ja heidän elämänsä vaiheista. Me luemme siinä vanhasta, viisaasta <app id="var188_h"><lem>runolaulajasta</lem></app> <hi rend="expanded">Väinämöisestä</hi>, urheasta <app id="var189_h"><lem>seppä</lem></app> <hi rend="expanded">Ilmarisesta</hi>, nuoresta, <app id="var190_h"><lem>urhollisesta</lem></app> ja uhkamielisestä <hi rend="expanded">Lemminkäisestä</hi>, <app id="var191_h"><lem>ylenvoimallisesta, kova-onnisesta</lem></app> <hi rend="expanded">Kullervosta</hi>, <app id="var192_h"><lem>kerskaavasta</lem></app> <hi rend="expanded">Joukahaisesta</hi> ja lisäksi maailman luomisesta, laulun synnystä, Pohjolasta, Väinölästä ja <app id="var193_h"><lem>monesta</lem></app> muusta. Kerromme <app id="var194_h"><lem>siis tässä</lem></app> lyhyesti muutamia kappaleita Kalevalasta niille, jotka eivät ole <app id="var195_h"><lem>lukeneet tätä ihmeellistä kirjaa.</lem></app></p>
+
+  <head style="romanType"><hi rend="bold"><app id="var195b_h"><lem>97.</lem></app> Maailman <choice><orig>lnomisesta</orig><reg>luomisesta</reg></choice>.</hi></head>
+  <head type="sub" style="blackletter"><app id="var195c_h"><lem>(Kalevala 1.)</lem></app></head>
+<lg>
+<l style="romanType">Noin kuulin saneltavaksi,</l>
+<l style="romanType"><app id="var197_h"><lem>Tiesin</lem></app> virttä tehtäväksi:</l>
+<l style="romanType">Yksin meillä yöt tulevat,</l>
+<l style="romanType"><app id="var198_h"><lem>Yksin</lem></app> päivät valkenevat,</l>
+<l style="romanType"><app id="var199_h"><lem>Yksin</lem></app> syntyi Väinämöinen,</l>
+<l style="romanType"><app id="var200_h"><lem>Ilmestyi</lem></app> ikirunoja</l>
+<l style="romanType"><app id="var201_h"><lem>Kapehesta</lem></app> kantajasta,</l>
+<l style="romanType">Ilmattaresta emosta.</l>
+<l rend="indent" style="romanType">Olipa impi ilman tyttö,</l>
+<l style="romanType"><app id="var203_h"><lem>Kave</lem></app> Luonnotar korea,</l>
+<l style="romanType"><app id="var204_h"><lem>Ilman</lem></app> pitkillä pihoilla,</l>
+<l style="romanType"><app id="var205_h"><lem>Tasaisilla</lem></app> tanterilla.</l>
+<l rend="indent" style="romanType">Ikävystyi aikojansa,</l>
+<l style="romanType"><app id="var206_h"><lem>Ouostui</lem></app> elämätänsä,</l>
+<l style="romanType"><app id="var207_h"><lem>Aina</lem></app> yksin ollessansa,</l>
+<l style="romanType"><app id="var208_h"><lem>Impenä</lem></app> eläessänsä,</l>
+<pb type="orig" n="202" />
+<l style="romanType"><app id="var209_h"><lem>Ilman</lem></app> pitkillä pihoilla,</l>
+<l style="romanType"><app id="var210_h"><lem>Avaroilla</lem></app> autioilla.</l>
+<l rend="indent" style="romanType">Jop’ on <app id="var211_h"><lem>astuiksen</lem></app> alemma,</l>
+<l style="romanType"><app id="var212_h"><lem>Laskeusi</lem></app> lainehille;</l>
+<l style="romanType"><app id="var213_h"><lem>Tuli</lem></app> suuri tuulen puuska,</l>
+<l style="romanType"><app id="var214_h"><lem>I’ästä</lem></app> vihainen ilma,</l>
+<l style="romanType"><app id="var215_h"><lem>Meren</lem></app> kuohuille kohotti,</l>
+<l style="romanType"><app id="var216_h"><lem>Lainehille</lem></app> laikahutti.</l>
+<l rend="indent" style="romanType">Tuuli neittä tuuitteli,</l>
+<l style="romanType"><app id="var217_h"><lem>Aalto</lem></app> impeä ajeli</l>
+<l style="romanType"><app id="var218_h"><lem>Ympäri</lem></app> selän sinisen</l>
+<l style="romanType"><app id="var219_h"><lem>Lakkipäien</lem></app> lainehien.</l>
+<l rend="indent" style="romanType">Vuotta seitsemän satoa,</l>
+<l style="romanType"><app id="var220_h"><lem>Yhdeksän</lem></app> yrön ikeä</l>
+<l style="romanType"><app id="var221_h"><lem>Vieri</lem></app> impi <app id="var221b_h"><lem>ve’en</lem></app> emona,</l>
+<l style="romanType"><app id="var222_h"><lem>Uipi</lem></app> iät, uipi lännet,</l>
+<l style="romanType"><app id="var223_h"><lem>Uipi</lem></app> luotehet, etelät,</l>
+<l style="romanType"><app id="var224_h"><lem>Uipi</lem></app> kaikki ilman rannat.</l>
+<l rend="indent" style="romanType">Itkeä hyryttelevi,</l>
+<l style="romanType"><app id="var225_h"><lem>Sanan</lem></app> virkkoi, noin nimesi:</l>
+<l style="romanType">”Voi poloinen päiviäni,</l>
+<l style="romanType"><app id="var227_h"><lem>Lapsi kurja</lem></app> kulkuani!</l>
+<l style="romanType">Jo olen joutunut johonki,</l>
+<l style="romanType"><app id="var228_h"><lem>Iäkseni</lem></app> ilman alle</l>
+<l style="romanType"><app id="var228b_h"><lem>Tuulten</lem></app> tuuiteltavaksi</l>
+<l style="romanType"><app id="var229_h"><lem>Aaltojen</lem></app> ajeltavaksi.</l>
+<l rend="indent" style="romanType">Parempi olisi ollut</l>
+<l style="romanType"><app id="var230_h"><lem>Ilman</lem></app> impenä eleä,</l>
+<l style="romanType"><app id="var231_h"><lem>Kuin</lem></app> on nyt tätä nykyä</l>
+<l style="romanType"><app id="var232_h"><lem>Vierähellä</lem></app> veen emona;</l>
+<l style="romanType"><app id="var233_h"><lem>Vilu</lem></app> tääll’ on ollakseni,</l>
+<l style="romanType"><app id="var234_h"><lem>Vaiva värjätelläkseni,</lem></app></l>
+<l style="romanType"><app id="var235_h"><lem>Aalloissa</lem></app> asuakseni,</l>
+<l style="romanType"><app id="var236_h"><lem>Veessä</lem></app> vierielläkseni.</l>
+<l rend="indent" style="romanType">Oi Ukko ylijumala,</l>
+<pb type="orig" n="203" />
+<l style="romanType"><app id="var238_h"><lem>Ilman</lem></app> kaiken kannattaja,</l>
+<l style="romanType"><app id="var239_h"><lem>Tule</lem></app> tänne tarvittaissa,</l>
+<l style="romanType"><app id="var240_h"><lem>Käy</lem></app> tänne kutsuttaessa,</l>
+<l style="romanType"><app id="var241_h"><lem>Käy</lem></app> pian, välehen jou’u</l>
+<l style="romanType"><app id="var243_h"><lem>Välehemmin</lem></app> tarvitahan!”</l>
+<l rend="indent" style="romanType">Kului aikoa vähäisen,</l>
+<l style="romanType"><app id="var244_h"><lem>Pirahteli</lem></app> pikkaraisen,</l>
+<l style="romanType"><app id="var245_h"><lem>Tuli</lem></app> sotka suora lintu,</l>
+<l style="romanType"><app id="var246_h"><lem>Lenteä</lem></app> lekuttelevi</l>
+<l style="romanType"><app id="var246b_h"><lem>Etsien</lem></app> pesän sioa,</l>
+<l style="romanType"><app id="var246c_h"><lem>Asunmaata</lem></app> arvaellen</l>
+<l rend="indent" style="romanType">Lenti iät, lenti lännet,</l>
+<l style="romanType"><app id="var247_h"><lem>Lenti</lem></app> luotehet, etelät,</l>
+<l style="romanType"><app id="var248_h"><lem>Ei löydä</lem></app> tiloa tuota,</l>
+<l style="romanType"><app id="var249_h"><lem>Paikkoa</lem></app> pahintakana,</l>
+<l style="romanType"><app id="var250_h"><lem>Kuhun</lem></app> laatisi pesänsä,</l>
+<l style="romanType"><app id="var251_h"><lem>Ottaisi olosiansa.</lem></app></l>
+<l rend="indent" style="romanType">Liitelevi, laatelevi,</l>
+<l style="romanType"><app id="var252_h"><lem>Arvelee,</lem></app> ajattelevi:</l>
+<l style="romanType">”Teenkö tuulehen tupani,</l>
+<l style="romanType"><app id="var253_h"><lem>Aalloillen asunsiani,</lem></app></l>
+<l style="romanType"><app id="var254_h"><lem>Tuuli</lem></app> kaatavi tupasen,</l>
+<l style="romanType"><app id="var255_h"><lem>Aalto</lem></app> vie <app id="var255b_h"><lem>asunsiani!”</lem></app></l>
+<l rend="indent" style="romanType">Niin silloin veen emonen,</l>
+<l style="romanType"><app id="var256_h"><lem>Veen</lem></app> emonen, ilman impi,</l>
+<l style="romanType"><app id="var258_h"><lem>Nosti</lem></app> polvea merestä,</l>
+<l style="romanType"><app id="var259_h"><lem>Lapaluuta</lem></app> lainehesta</l>
+<l style="romanType"><app id="var260_h"><lem>Sotkalle pesänsijaksi,</lem></app></l>
+<l style="romanType"><app id="var261_h"><lem>Asunmaaksi</lem></app> armahaksi.</l>
+<l rend="indent" style="romanType">Tuo <app id="var262_h"><lem>sorsa,</lem></app> sorea lintu</l>
+<l style="romanType"><app id="var264_h"><lem>Liiteleiksi,</lem></app> laateleikse,</l>
+<l style="romanType"><app id="var265_h"><lem>Keksi</lem></app> polven veen <app id="var266_h"><lem>emoisen</lem></app></l>
+<l style="romanType"><app id="var267_h"><lem>Sinervöisellä</lem></app> selällä,</l>
+<l style="romanType"><app id="var268_h"><lem>Luuli</lem></app> heinämättähäksi,</l>
+<l style="romanType"><app id="var269_h"><lem>Tuoreheksi</lem></app> turpeheksi.</l>
+<pb type="orig" n="204" />
+<l rend="indent" style="romanType">Lentelevi, liitelevi</l>
+<l style="romanType"><app id="var271_h"><lem>Päähän</lem></app> polven laskeuvi,</l>
+<l style="romanType"><app id="var272_h"><lem>Siihen</lem></app> laativi pesänsä,</l>
+<l style="romanType"><app id="var273_h"><lem>Muni kultaset</lem></app> munansa,</l>
+<l style="romanType"><app id="var274_h"><lem>Kuusi</lem></app> kultaista munoa,</l>
+<l style="romanType"><app id="var275_h"><lem>Rautamunan</lem></app> seitsemännen.</l>
+<l rend="indent" style="romanType">Alkoi hautoa munia,</l>
+<l style="romanType"><app id="var276_h"><lem>Päätä</lem></app> polven lämmitellä;</l>
+<l style="romanType"><app id="var277_h"><lem>Hautoi</lem></app> päivän, hautoi toisen,</l>
+<l style="romanType"><app id="var278_h"><lem>Hautoi</lem></app> kohta <app id="var278b_h"><lem>kolmannenki;</lem></app></l>
+<l style="romanType"><app id="var279_h"><lem>Jopa</lem></app> tuosta veen emonen,</l>
+<l style="romanType"><app id="var280_h"><lem>Veen</lem></app> emonen, ilman impi,</l>
+<l style="romanType"><app id="var281_h"><lem>Tuntevi</lem></app> tulistuvaksi,</l>
+<l style="romanType"><app id="var282_h"><lem>Hipiänsä</lem></app> hiiltyväksi.</l>
+<l style="romanType">Vavahutti polveansa,</l>
+<l style="romanType"><app id="var283_h"><lem>Järkytti</lem></app> jäseniänsä,</l>
+<l style="romanType"><app id="var284_h"><lem>Munat</lem></app> vierähti vetehen,</l>
+<l style="romanType"><app id="var285_h"><lem>Meren aaltohon</lem></app> ajaikse;</l>
+<l style="romanType"><app id="var286_h"><lem>Karskahti</lem></app> munat muruiksi,</l>
+<l style="romanType"><app id="var287_h"><lem>Katkieli</lem></app> kappaleiksi.</l>
+<l rend="indent" style="romanType">Ei munat mutahan <app id="var287b_h"><lem>jou’a,</lem></app></l>
+<l style="romanType"><app id="var288_h"><lem>Siepalehet</lem></app> veen sekahan,</l>
+<l style="romanType"><app id="var289_h"><lem>Muuttuivat munat</lem></app> hyviksi,</l>
+<l style="romanType"><app id="var290_h"><lem>Kappalehet</lem></app> kaunoisiksi:</l>
+<l style="romanType"><app id="var291_h"><lem>Munasen</lem></app> alainen puoli</l>
+<l style="romanType"><app id="var292_h"><lem>Alaiseksi</lem></app> maa-emäksi,</l>
+<l style="romanType"><app id="var293_h"><lem>Munasen</lem></app> yläinen puoli</l>
+<l style="romanType"><app id="var294_h"><lem>Yläiseksi</lem></app> taivahaksi,</l>
+<l style="romanType"><app id="var295_h"><lem>Yläpuoli</lem></app> ruskeaista</l>
+<l style="romanType"><app id="var296_h"><lem>Päivöseksi</lem></app> paistamahan,</l>
+<l style="romanType"><app id="var297_h"><lem>Yläpuoli</lem></app> valkeaista</l>
+<l style="romanType"><app id="var298_h"><lem>Se</lem></app> kuuksi kumottamahan;</l>
+<l style="romanType"><app id="var299_h"><lem>Mi</lem></app> munassa kirjavaista,</l>
+<l style="romanType"><app id="var300_h"><lem>Ne</lem></app> tähiksi taivahalle,</l>
+<l style="romanType"><app id="var301_h"><lem>Mi</lem></app> munassa mustukaista,</l>
+<pb type="orig" n="205" />
+<l style="romanType"><app id="var302_h"><lem>Nepä</lem></app> ilman pilvilöiksi.</l>
+<l rend="indent" style="romanType">Ajat eellehen menevät,</l>
+<l style="romanType"><app id="var303_h"><lem>Vuoet</lem></app> tuota tuonnemmaksi;</l>
+<l style="romanType"><app id="var304_h"><lem>Uuen</lem></app> päivän paistaessa,</l>
+<l style="romanType"><app id="var305_h"><lem>Uuen</lem></app> kuun kumottaessa;</l>
+<l style="romanType"><app id="var306_h"><lem>Aina</lem></app> uipi veen emonen,</l>
+<l style="romanType"><app id="var307_h"><lem>Veen</lem></app> emonen, ilman impi,</l>
+<l style="romanType"><app id="var308_h"><lem>Noilla</lem></app> vienoilla vesillä,</l>
+<l style="romanType"><app id="var309_h"><lem>Utuisilla</lem></app> lainehilla,</l>
+<l style="romanType"><app id="var310_h"><lem>Eessänsä</lem></app> vesi vetelä,</l>
+<l style="romanType"><app id="var311_h"><lem>Takanansa</lem></app> taivas selvä.</l>
+<l rend="indent" style="romanType">Jo vuonna yheksäntenä</l>
+<l style="romanType"><app id="var313_h"><lem>Kymmenentenä</lem></app> kesänä,</l>
+<l style="romanType"><app id="var313b_h"><lem>Nosti</lem></app> päätänsä merestä</l>
+<l style="romanType"><app id="var313c_h"><lem>Kohottavi</lem></app> kokkoansa</l>
+<l style="romanType"><app id="var314_h"><lem>Alkoi luoda</lem></app> luomiansa</l>
+<l style="romanType"><app id="var315_h"><lem>Selvällä</lem></app> meren selällä</l>
+<l style="romanType"><app id="var316_h"><lem>Ulapalla</lem></app> aukealla.</l>
+<l style="romanType">Kussa kättä käännähytti,</l>
+<l style="romanType"><app id="var317_h"><lem>Siihen</lem></app> niemet siivoeli;</l>
+<l style="romanType"><app id="var318_h"><lem>Kussa</lem></app> pohjasi jalalla,</l>
+<l style="romanType"><app id="var319_h"><lem>Kalahauat</lem></app> kaivaeli;</l>
+<l style="romanType"><app id="var320_h"><lem>Kussa</lem></app> ilman kuplistihe,</l>
+<l style="romanType"><app id="var321_h"><lem>Siihen</lem></app> syöverit syventi.</l>
+<l style="romanType">Kylin maahan kääntelihe,</l>
+<l style="romanType"><app id="var322_h"><lem>Siihen</lem></app> sai sileät rannat;</l>
+<l style="romanType"><app id="var323_h"><lem>Jaloin</lem></app> maahan kääntelihe,</l>
+<l style="romanType"><app id="var324_h"><lem>Siihen</lem></app> loi lohiapajat;</l>
+<l style="romanType"><app id="var325_h"><lem>Päin kun</lem></app> päätyi maata vasten,</l>
+<l style="romanType"><app id="var326_h"><lem>Siihen</lem></app> laitteli lahelmat.</l>
+<l style="romanType">Ui siitä ulomma maasta,</l>
+<l style="romanType"><app id="var327_h"><lem>Seisattelihe</lem></app> selälle,</l>
+<l style="romanType"><app id="var328_h"><lem>Luopi</lem></app> luotoja merehen,</l>
+<l style="romanType"><app id="var329_h"><lem>Kasvatti</lem></app> salakaria,</l>
+<l style="romanType"><app id="var330_h"><lem>Laivan</lem></app> laskemasijaksi,</l>
+<pb type="orig" n="206" />
+<l style="romanType"><app id="var331_h"><lem>Merimiesten</lem></app> pään menoksi.</l>
+<l rend="indent" style="romanType">Jo <app id="var332_h"><lem>oli</lem></app> saaret siivottuna,</l>
+<l style="romanType"><app id="var333_h"><lem>Luotu</lem></app> luotoset merehen,</l>
+<l style="romanType"><app id="var334_h"><lem>Ilman</lem></app> pielet pistettynä,</l>
+<l style="romanType"><app id="var335_h"><lem>Maat</lem></app> ja manteret sanottu,</l>
+<l style="romanType"><app id="var336_h"><lem>Kirjattu</lem></app> kivihin kirjat,</l>
+<l style="romanType"><app id="var337_h"><lem>Veetty</lem></app> viivat kallioihin;</l>
+<l style="romanType"><app id="var338_h"><lem>Viel’</lem></app> ei synny Väinämöinen,</l>
+<l style="romanType"><app id="var339_h"><lem>Ilmau</lem></app> ikirunoja.</l>
+<l rend="indent" style="romanType">Vaka, vanha Väinämöinen</l>
+<l style="romanType"><app id="var341_h"><lem>Kulki</lem></app> äitinsä kohussa</l>
+<l style="romanType"><app id="var342_h"><lem>Kolmekymmentä</lem></app> keseä,</l>
+<l style="romanType"><app id="var343_h"><lem>Yhen</lem></app> verran <app id="var343b_h"><lem>talviakin,</lem></app></l>
+<l style="romanType"><app id="var344_h"><lem>Noilla</lem></app> vienoilla vesillä,</l>
+<l style="romanType"><app id="var345_h"><lem>Utuisilla</lem></app> lainehilla.</l>
+<l rend="indent" style="romanType">Arvelee, ajattelevi,</l>
+<l style="romanType"><app id="var346_h"><lem>Miten</lem></app> olla, kuin eleä,</l>
+<l style="romanType">Sanovi sanalla tuolla,</l>
+<l style="romanType"><app id="var348_h"><lem>Lausui</lem></app> tuolla lausehella:</l>
+<l style="romanType">”Kuu keritä, päivyt päästä,</l>
+<l style="romanType"><app id="var349_h"><lem>Saata maallen</lem></app> matkamiestä,</l>
+<l style="romanType"><app id="var350_h"><lem>Ilmoillen</lem></app> inehmon lasta,</l>
+<l style="romanType"><app id="var351_h"><lem>Kuuta</lem></app> taivon katsomahan,</l>
+<l style="romanType"><app id="var352_h"><lem>Päiveä</lem></app> ihoamahan,</l>
+<l style="romanType">Otavaista oppimahan,</l>
+<l style="romanType"><app id="var353_h"><lem>Tähtiä</lem></app> tähyämähän.”</l>
+<l rend="indent" style="romanType">Kun ei kuu kerittänynnä,</l>
+<l style="romanType"><app id="var354_h"><lem>Eikä</lem></app> päivyt päästänynnä,</l>
+<l style="romanType"><app id="var355_h"><lem>Itse</lem></app> suistui suin <app id="var356_h"><lem>merihin,</lem></app></l>
+<l style="romanType"><app id="var357_h"><lem>Käsin</lem></app> kääntyi lainehesen;</l>
+<l style="romanType"><app id="var358_h"><lem>Jääpi</lem></app> mies meren varahan,</l>
+<l style="romanType"><app id="var359_h"><lem>Uros</lem></app> aaltojen sekahan.</l>
+<l rend="indent" style="romanType">Virui siellä viisi vuotta,</l>
+<l style="romanType"><app id="var360_h"><lem>Sekä</lem></app> viisi, jotta kuusi,</l>
+<l style="romanType"><app id="var361_h"><lem>Vuotta</lem></app> seitsemän, kaheksan;</l>
+<pb type="orig" n="207" />
+<l style="romanType"><app id="var362_h"><lem>Seisattui</lem></app> selälle viimein,</l>
+<l style="romanType"><app id="var363_h"><lem>Niemelle</lem></app> nimettömälle,</l>
+<l style="romanType"><app id="var364_h"><lem>Manterelle</lem></app> puuttomalle.</l>
+<l style="romanType"><app id="var365_h"><lem>Polvin</lem></app> maasta ponnistihe,</l>
+<l style="romanType"><app id="var366_h"><lem>Käsivarsin</lem></app> käännältihe,</l>
+<l style="romanType"><app id="var367_h"><lem>Nousi</lem></app> kuuta katsomahan,</l>
+<l style="romanType"><app id="var368_h"><lem>Päiveä</lem></app> ihoamahan,</l>
+<l style="romanType">Otavaista oppimahan,</l>
+<l style="romanType"><app id="var369_h"><lem>Tähtiä</lem></app> tähyämähän.</l>
+<l rend="indent" style="romanType">Se oli synty Väinämöisen,</l>
+<l style="romanType"><app id="var370_h"><lem>Rotu</lem></app> rohkean runojan.</l>
+</lg>
+
+  <head style="blackletter"><app id="var371_h"><lem><hi rend="bold">98.</hi></lem></app><hi rend="bold"> Maanviljelyksen alku.</hi></head>
+  <head type="sub" style="blackletter"><app id="var371b_h"><lem>(Kalev. 2.)</lem></app></head>
+  <p style="blackletter"><app id="var372_h"><lem>Monta vuotta asui Väinämöinen</lem></app> nimettömällä niemellä. Maa oli <app id="var374_h"><lem>autio</lem></app> ja <app id="var375_h"><lem>hedelmätön;</lem></app> puuta ei kasvanut, linnun ääntä ei kuulunut avaroissa erämaissa.</p>
+  <p style="blackletter"><app id="var376_h"><lem>Väinämöinen</lem></app> ajatteli: kenpä maita <app id="var377_h"><lem>kylvämähän.</lem></app> Pellervoinen, pellon poika, Sampsa poika pikkarainen meni maita kylvämään. Hän kylvi mäet männiköiksi, kummut kuusikoiksi, kankahat kanervikoiksi, notkot nuoriksi vesoiksi. Väinämöinen meni katsomaan Sampsan työtä, ja näki puut <app id="var381_h"><lem>ylenneheksi,</lem></app> mutta <app id="var382_h"><lem>yks’ on</lem></app> taimi taimimatta, juurtumatta puu Jumalan.</p>
+  <p style="blackletter">Viikon <app id="var383_h"><lem>päästä</lem></app> nousi viisi nuorta <app id="var384_h"><lem>veden neittä</lem></app> utuisen niemen rannalle nurmea niittämähän, <app id="var385_h"><lem>kastekortta</lem></app> katkomahan. Minkä niittivät, sen haravoivat ja vetivät <app id="var386_h"><lem>karhille.</lem></app> Tulipa silloin merestä jättiläinen Tursas, tunki heinät tuleen, poltti ne poroksi ja istutti tuhkaan lemmen lehden, <app id="var387_h"><lem>tammen terhon.</lem></app> Tästä kasvoi kaunis tammi, jonka latva täytti taivahille, lehvät ilmoille levisi, ja <app id="var389_h"><lem>piätti</lem></app> pilvet juoksemasta, päivän paistamasta ja kuun kumottamasta.</p>
+  <p style="blackletter"><anchor id="struct12a_h" /><app id="var390_h"><lem>Siitä</lem></app> tuli sellainen pimeys, että ihmiset maan päällä ja kalat meressä tuskastuivat elämäänsä. Ei yksikään mies ollut niin voi<pb type="orig" n="208" />makas että olisi taitanut tammen kaataa, ja Väinämöisen täytyi rukoilla äitiään Ilmatarta lähettämään <app id="var392_h"><lem>veden väkeä</lem></app> avuksi. Meren syvyydestä nousi pieni mies. Ei <app id="var392b_h"><lem>tuo ollut</lem></app> suuren suuri eikä aivan pienen pieni: miehen peukalon <choice><orig>pitainen</orig><reg>pituinen</reg></choice>, <app id="var392c_h"><lem>vaskihattu</lem></app> hartioilla, vaskisaappahat jalassa, vaskikintahat kädessä, vaskivyöhyt vyölle vyötty, vaskikirves vyön takana. Väinämöisestä <app id="var392d_h"><lem>oli tuo näöltään mies</lem></app> ja uros <app id="var392e_h"><lem>silmän luonniltaan,</lem></app> mutta oli <app id="var392f_h"><lem>vaan</lem></app> liian pieni. ”Mi sinä olet miehiäsi, ku kurja urohiasi?” kysyi hän.<anchor id="struct12b_h" /></p>
+  <p style="blackletter">– ”Olen mie mokoma miesi”, vastasi <app id="var393_h"><lem>mies pienoinen</lem></app> ja kasvoi samassa sellaiseksi <app id="var394_h"><lem>jättiläisiksi,</lem></app> että hänen päänsä pilviä piteli. Hän kohotti <app id="var395_h"><lem>kirvestään,</lem></app> iski puuta <app id="var396_h"><lem>että tuli</lem></app> tuiski <app id="var397_h"><lem>kirveestä</lem></app> ja <app id="var398_h"><lem>kaatoi tammen kolmannella lyönnillä.</lem></app> Ken nyt siitä oksan otti, se otti ikuisen onnen, ken latvan taittoi, se taittoi ikuisen taian ja ken lehvän leikkasi, se leikkasi ikuisen lemmen; lastut muuttuivat laivoiksi ja veneiksi, joita meren läikkä veden selällä läikytteli.</p>
+  <p style="blackletter">Nyt paistoi taas aurinko ja kuu, pilvet <app id="var401_h"><lem>pääsi</lem></app> juoksemaan, taivaan kaaret <app id="var402_h"><lem>kaartamahan,</lem></app> lehti tuli puuhun, ruoho maahan, linnut puuhun laulamahan, kukat kultaiset kedolle. Ohra yksin <app id="var403_h"><lem>jäi maasta</lem></app> nousematta.</p>
+  <p style="blackletter">Miettien käveli Väinämöinen meren rannalla ja löysi <app id="var404_h"><lem>hietiköstä</lem></app> seitsemiä siemeniä. Nämä <app id="var405_h"><lem>kätki hän näädän nahkahan</lem></app> ja läksi siementä sirottamaan Kalevan kaivon viereen. Silloin tirskui tiainen puusta: <app id="var406_h"><lem>kaada</lem></app> metsä, polta kaski! Muutoin ei nouse Osmon ohra, ei kasva Kalevan kaura.</p>
+  <p style="blackletter">Väinämöinen kaatoi <app id="var407_h"><lem>kasken suuren,</lem></app> mutta jätti yhden ainoan koivun kaatamatta. <app id="var408_h"><lem>Tulipa</lem></app> kokko ilman lintu lentäen. Miksi on jätetty koivu kaatamatta? – Lintujen <app id="var410_h"><lem>lepeämäksi,</lem></app> kokon ilman <app id="var411_h"><lem>istuimeksi.</lem></app> – Hyvinpä sinä teit, sanoi kokko. Silloin iski tulta ilman lintu ja sytytti kasken palamaan. Väinämöinen kylvi tuhkaan nuo seitsemät siemenensä, lausuen:</p>
+<lg>
+<l style="blackletter">”Minä kylvän kyyhättelen</l>
+<l style="blackletter">Luojan sormien lomitse,</l>
+<l style="blackletter"><app id="var412_h"><lem>Käen</lem></app> kautta kaikkivallan.”</l>
+</lg>
+<p rend="noIndent" style="blackletter">Sitten <app id="var413_h"><lem>rukoili hän</lem></app> maasta voimaa ja taivaasta <app id="var414_h"><lem>sadetta oraillensa;</lem></app><pb type="orig" n="209" /> Ukko kuuli hänen rukouksensa, ohra kasvoi mieltä myöten, tähkät kuudelle taholle, korret kolmisolmuisina. Ja kevätkäkönen tuli tuohon yksinäiseen koivuun aamuin <app id="var415_h"><lem>illoin</lem></app> kukkumaan <app id="var416_h"><lem>rikkautta Suomenmaalle.</lem></app></p>
+
+  <head style="blackletter"><app id="var417_h"><lem><hi rend="bold">99.</hi></lem></app><hi rend="bold"> Tulen synty.</hi></head>
+  <head type="sub" style="blackletter"><app id="var418_h"><lem>(Kalev. 47</lem></app> ja <app id="var419_h"><lem>48.)</lem></app></head>
+  <p style="blackletter"><app id="var420_h"><lem>Silloin, kun</lem></app> Pohjan akka harvahammas oli sulkenut auringon ja kuun <app id="var422_h"><lem>”vuorehen teräksisehen”,</lem></app> oli taivaassa ja maassa <app id="var423_h"><lem>alinomainen</lem></app> yö. Taivaan <app id="var424_h"><lem>Ukko</lem></app> etsi kadonneita valkeitaan, mutta ei löytänyt niitä. Silloin <app id="var425_h"><lem>iski hän</lem></app> miekalla tuliterällä tulta kynnestään ja kätki <app id="var426_h"><lem>tulikipunan</lem></app> hopeiseen kehään. Ilman impi pantiin tulta tuudittelemaan ilman <app id="var427_h"><lem>partahalla</lem></app> kultaisessa kätkyessä, hihnoissa hopeisissa. Mutta <app id="var428_h"><lem>kipuna</lem></app> putosi <app id="var429_h"><lem>immeltä varattomalta, repäsi</lem></app> taivaan <app id="var430_h"><lem>reikihin</lem></app> ja suikahti maahan puhki pilvien, läpi <app id="var431_h"><lem>taivahan yheksän.</lem></app></p>
+  <p style="blackletter">Väinämöinen sanoi veljelleen Ilmariselle: <app id="var432_h"><lem>lähtekäämme</lem></app> katsomahan mikä tuo <app id="var433_h"><lem>outo valkea oli, joka taivaasta</lem></app> maahan valahti! <app id="var434_h"><lem>Urot</lem></app> lähtivät, soutivat <app id="var435_h"><lem>ympäri Nevanjokea</lem></app> ja tapasivat Ilmattaren, joka kertoi tulen raivoisan kulun. <app id="var436_h"><lem>Tuli</lem></app> oli ensin pudonnut Tuurin uuteen tupaan, vahingoittanut <app id="var437_h"><lem>väen</lem></app> ja polttanut lapsen kätkyessä. Siitä <app id="var438_h"><lem>kulki tuli,</lem></app> polttaen maita ja soita, ja vierähti viimein <app id="var439_h"><lem>aaltoihin Aluenjärven,</lem></app> joka säihkyellen kuohui yli äyräittensä. Silloin sinervä siika nieli <app id="var440_h"><lem>tulisoroisen</lem></app> ja Aluenjärvi asettui. Mutta tuska tuli siialle, <app id="var441_h"><lem>kipuna</lem></app> poltti ja hän pyysi lohelta apua. Lohi nieli siian, <app id="var442_h"><lem>sai saman tuskan</lem></app> ja pyysi <app id="var443_h"><lem>hauilta</lem></app> apua. Hauki nieli lohen, mutta tuska tuli <app id="var444_h"><lem>hauillekin.</lem></app> Väinämöinen ja Ilmarinen kutoivat nyt niinisen nuotan ja <app id="var445_h"><lem>pyysivät</lem></app> turhaan <app id="var446_h"><lem>saada</lem></app> haukea.</p>
+  <p style="blackletter"><app id="var447_h"><lem>Sitte kylvivät he pellavata</lem></app> ja kutoivat <app id="var449_h"><lem>liinaisen</lem></app> nuotan, joka oli perältä <app id="var450_h"><lem>satoa</lem></app> syltä, siulat seitsentä <app id="var451_h"><lem>satoa.</lem></app> Nuotta vietiin vesille, vedettiin ja vennättiin, mutta turhaan. <app id="var452_h"><lem>Nyt</lem></app> jatkettiin siuloja viidellä sylisadalla, ja pyydettiin Ahtia ja Vellamoa avuksi. Viimein saatiin hauki, mutta kukaan ei uskaltanut sitä halkaista. Päivän<pb type="orig" n="210" /> poika sai isänsä kultapäisen ja hopeateräisen veitsen ja <app id="var454_h"><lem>halkasi</lem></app> sillä <app id="var455_h"><lem>hauin, löyti</lem></app> sen vatsasta lohen, lohen vatsasta siian, siian sisästä sinikeräsen, siitä punaisen kerän ja punaisesta kerästä kipunan. Mutta kipuna pääsi Päivän pojan käsistä, poltti <app id="var457_h"><lem>parran Väinämöisen,</lem></app> Ilmariselta <app id="var458_h"><lem>sitä</lem></app> pahemmin <app id="var459_h"><lem>poltti poskipäitä,</lem></app> käsiä kärventeli ja meni taas hävittämään <app id="var460_h"><lem>maailmata.</lem></app> Viimein <app id="var461_h"><lem>tempasi Väinämöinen lahokannon alta tulikipunan</lem></app> koivun kääpihin ja kantoi <app id="var462_h"><lem>sitä vaskikattilassa</lem></app> tupaansa. Siitä ajasta <app id="var463_h"><lem>alkain</lem></app> on tulta takassa, valoa tuvassa ja hiilos Ilmarisen ahjossa.</p>
+  <p style="blackletter">Mutta tulen vihoja parantamaan pyydettiin Turjan tyttöä ja <app id="var464_h"><lem>Pohjolan</lem></app> poikaa Lapista tulemaan hyyssä sukka, jäässä kenkä, hyinen vyöhyt vyölle vyötty, hyinen kattila kädessä viskomaan hyydettä ja vilua vettä haavoille. Ja jos ei tästä tulisi apua, rukoiltiin Ukkoa <app id="var467_h"><lem>ylijumalata</lem></app> lähettämään jäätä ja hyvää voidetta paranteeksi tuimille tulen vihoille.</p>
+
+  <head style="romanType"><app id="var468_h"><lem><hi rend="bold">100.</hi></lem></app><hi rend="bold"> Raudan synty.</hi></head>
+  <head type="sub" style="romanType"><app id="var468b_h"><lem>(Kalev. 8, 9).</lem></app></head>
+<lg>
+<l style="romanType"><app id="var469_h"><lem>Vaka</lem></app> vanha Väinämöinen</l>
+<l style="romanType"><app id="var470_h"><lem type="empty" /></app></l>  
+<app id="var470b_h"><lem><l style="romanType">Veikaten venettä veisti</l>
+<l style="romanType">Vuorella teräksisellä,</l>
+<l style="romanType">Rautaisella kalliolla,</l></lem></app>
+<l style="romanType"><app id="var470c_h"><lem type="empty"></lem></app> </l> 
+<l style="romanType"><app id="var471_h"><lem>Veisti</lem></app> päivän, veisti toisen,</l>
+<l style="romanType"><app id="var472_h"><lem>Veisti</lem></app> kohta <app id="var472b_h"><lem>kolmannenkin.</lem></app></l>
+<l style="romanType">Niin päivällä kolmannella</l>
+<l style="romanType">Hiisi pontta pyörähytti,</l>
+<l style="romanType">Lempo tempasi tereä,</l>
+<l style="romanType"><app id="var473_h"><lem>Kävipä</lem></app> kivehen kirves,</l>
+<l style="romanType"><app id="var474_h"><lem>Kasa</lem></app> kalkkoi kalliohon,</l>
+<l style="romanType"><app id="var475_h"><lem>Kirves</lem></app> kilpistyi kivestä,</l>
+<l style="romanType"><app id="var476_h"><lem>Terä</lem></app> liuskahti liha’an,</l>
+<pb type="orig" n="211" />
+<l rend="indent" style="romanType"><app id="var477_h"><lem>Polvehen</lem></app> pojan pätöisen,</l>
+<l rend="indent" style="romanType"><app id="var478_h"><lem>Varpahasen</lem></app> Väinämöisen,</l>
+<l rend="indent" style="romanType"><app id="var479_h"><lem>Sen</lem></app> Lempo lihoille liitti</l>
+<l rend="indent" style="romanType">Hiisi suonille sovitti,</l>
+<l style="romanType"><app id="var481_h"><lem>Veri</lem></app> pääsi vuotamahan</l>
+<l style="romanType"><app id="var481b_h"><lem>Hurme</lem></app> huppelehtamahan.</l>
+<l style="romanType">Vaka, vanha Väinämöinen</l>
+<l style="romanType"><app id="var483_h"><lem>Loihe</lem></app> siitä loitsimahan</l>
+<l style="romanType"><app id="var484_h"><lem>Luki</lem></app> synnyt syitä myöten,</l>
+<l style="romanType"><app id="var485_h"><lem>Luottehet lomia myöten,</lem></app></l>
+<l style="romanType"><app id="var486_h"><lem>Mutt’</lem></app> ei muista muutamia</l>
+<l style="romanType"><app id="var487_h"><lem>Rauan</lem></app> suuria sanoja,</l>
+<l style="romanType"><app id="var488_h"><lem>Joista</lem></app> salpa saataisihin,</l>
+<l style="romanType"><app id="var489_h"><lem>Luja</lem></app> lukko tuotaisihin</l>
+<l style="romanType"><app id="var490_h"><lem>Noille</lem></app> rauan ratkomille,</l>
+<l style="romanType"><app id="var491_h"><lem>Suu</lem></app> sinervän silpomille.</l>
+<l rend="indent" style="romanType">Jopa tuskaksi tulevi,</l>
+<l rend="indent" style="romanType"><app id="var492_h"><lem>Läylemmäksi</lem></app> lankeavi;</l>
+<l rend="indent" style="romanType"><app id="var493_h"><lem>Vaka</lem></app> vanha Väinämöinen</l>
+<l rend="indent"><app id="var493b_h"><lem type="empty"></lem></app></l> 
+<l rend="indent" style="romanType"><app id="var494_h"><lem>Pani</lem></app> varsan valjahisin</l>
+<l rend="indent" style="romanType"><app id="var495_h"><lem>Ruskean</lem></app> reen etehen,</l>
+<l rend="indent" style="romanType"><app id="var496_h"><lem>Siitä</lem></app> reuoikse rekehen,</l>
+<l rend="indent" style="romanType"><app id="var497_h"><lem>Kohennaikse</lem></app> korjahansa.</l>
+<l rend="indent" style="romanType"><app id="var498_h"><lem>Laski</lem></app> virkkua vitsalla,</l>
+<l rend="indent" style="romanType"><app id="var499_h"><lem>Helähytti helmisvyöllä,</lem></app></l>
+<l rend="indent" style="romanType"><app id="var500_h"><lem>Virkku</lem></app> juoksi, matka joutui,</l>
+<l rend="indent" style="romanType"><app id="var501_h"><lem>Reki</lem></app> vieri, tie lyheni,</l>
+<l rend="indent" style="romanType"><app id="var502_h"><lem>Jo</lem></app> kohta kylä tulevi,</l>
+<l rend="indent" style="romanType"><app id="var503_h"><lem>Kolme</lem></app> tietä kohtoavi.</l>
+<l style="romanType">Laski virkkua vitsalla,</l>
+<l style="romanType"><app id="var504_h"><lem>Ajoa</lem></app> suhuttelevi,</l>
+<l style="romanType"><app id="var504b_h"><lem>Ajoi</lem></app> matkoa palasen,</l>
+<l style="romanType"><app id="var505_h"><lem>Ylimmäistä</lem></app> tietä myöten,</l>
+<l style="romanType"><app id="var506_h"><lem>Ylimmäisehen</lem></app> talohon,</l>
+<l style="romanType">Yli kynnyksen <app id="var507_h"><lem>kysäisi,</lem></app></l>
+<pb type="orig" n="212" />
+<l style="romanType"><app id="var508_h"><lem>Lausui</lem></app> lakkapuun takoa:</l>
+<l style="romanType">”Oisiko talossa tässä</l>
+<l style="romanType"><app id="var509_h"><lem>Rauan</lem></app> raannan katsojata,</l>
+<l style="romanType"><app id="var510_h"><lem>Veren</lem></app> summan sulkijata?”</l>
+<l rend="indent" style="romanType">Ukko uunilta urahti;</l>
+<l rend="indent" style="romanType"><app id="var512_h"><lem>Halliparta</lem></app> paukutteli:</l>
+<l rend="indent" style="romanType">”On sulettu <app id="var513_h"><lem>suuremmatkin,</lem></app></l>
+<l rend="indent" style="romanType"><app id="var514_h"><lem>Jalommatkin</lem></app> jaksettuna</l>
+<l rend="indent" style="romanType">Luojan kolmella sanalla,</l>
+<l rend="indent" style="romanType"><app id="var515_h"><lem>Syvän</lem></app> synnyn säätämällä,</l>
+<l rend="indent" style="romanType"><app id="var516_h"><lem>Joet</lem></app> suista, järvet päistä,</l>
+<l rend="indent" style="romanType"><app id="var517_h"><lem>Virrat</lem></app> niskalta vihaiset,</l>
+<l rend="indent" style="romanType"><app id="var518_h"><lem>Lahet</lem></app> niemien nenistä,</l>
+<l rend="indent" style="romanType"><app id="var519_h"><lem>Kannakset</lem></app> kapeimmilta.”</l>
+<l style="romanType">Siitä vanha Väinämöinen</l>
+<l style="romanType"><app id="var520_h"><lem>Itse</lem></app> korjasta kohosi,</l>
+<l style="romanType"><app id="var521_h"><lem>Tuosta</lem></app> pirttihin tulevi,</l>
+<l style="romanType"><app id="var522_h"><lem>Alle</lem></app> kattojen ajaikse.</l>
+<l style="romanType">Tuoahan <choice><orig>hopea tuoppi</orig><reg>hopeatuoppi</reg></choice>,</l>
+<l style="romanType"><app id="var524_h"><lem>Kultakannu</lem></app> kannetahan,</l>
+<l style="romanType"><app id="var525_h"><lem>Ei</lem></app> veä vähäistäkänä,</l>
+<l style="romanType"><app id="var526_h"><lem>Pikkuistakana</lem></app> piätä</l>
+<l style="romanType"><app id="var527_h"><lem>Verta</lem></app> vanhan Väinämöisen,</l>
+<l style="romanType"><app id="var528_h"><lem>Hurmetta</lem></app> jalon urohon.</l>
+<l style="romanType">Ukko uunilta urahti</l>
+<l rend="indent" style="romanType"><app id="var530_h"><lem>Halliparta</lem></app> paukutteli:</l>
+<l style="romanType">”Mi sinä lienet miehiäsi,</l>
+<l style="romanType"><app id="var531_h"><lem>Verta</lem></app> on seitsemän venettä</l>
+<l style="romanType"><app id="var532_h"><lem>Sun</lem></app> poloinen polvestasi</l>
+<l style="romanType"><app id="var532b_h"><lem>Lattialle</lem></app> laskettuna;</l>
+<l style="romanType"><app id="var533_h"><lem>Muut</lem></app> on muistaisin sanaset,</l>
+<l style="romanType"><app id="var534_h"><lem>Vaan</lem></app> en arvoa alusta</l>
+<l style="romanType"><app id="var536_h"><lem>Mist’</lem></app> on rauta syntynynnä</l>
+<l style="romanType"><app id="var538_h"><lem>Kasvanunna</lem></app> koito kuona.”</l>
+<l rend="indent" style="romanType">Silloin vanha Väinämöinen</l>
+<pb type="orig" n="213" />
+<l rend="indent" style="romanType"><app id="var539_h"><lem>Sanan</lem></app> virkkoi, noin nimesi:</l>
+<l rend="indent" style="romanType">”Itse tieän rauan synnyn,</l>
+<l rend="indent" style="romanType"><app id="var540_h"><lem>Arvoan</lem></app> alun teräksen:</l>
+<l rend="indent" style="romanType"><app id="var541_h"><lem>Ilma</lem></app> on emoja ensin,</l>
+<l rend="indent" style="romanType"><app id="var542_h"><lem>Vesi</lem></app> vanhin veljeksiä,</l>
+<l rend="indent" style="romanType"><app id="var543_h"><lem>Rauta</lem></app> nuorin veljeksiä,</l>
+<l rend="indent" style="romanType"><app id="var544_h"><lem>Tuli</lem></app> kerran keskimmäinen.</l>
+<l style="romanType">Tuo <choice><orig>ukko</orig><reg>Ukko</reg></choice> ylinen luoja,</l>
+<l style="romanType"><app id="var546_h"><lem>Itse</lem></app> ilmojen Jumala,</l>
+<l style="romanType"><app id="var547_h"><lem>Ilmasta</lem></app> veen <app id="var547b_h"><lem>eroitti,</lem></app></l>
+<l style="romanType"><app id="var547c_h"><lem>Veestä</lem></app> maati manterehen:</l>
+<l style="romanType"><app id="var548_h"><lem>Rauta</lem></app> on raukka syntymättä,</l>
+<l style="romanType"><app id="var549_h"><lem>Syntymättä,</lem></app> kasvamatta.</l>
+<l style="romanType">Ukko <app id="var550_h"><lem>ilmainen</lem></app> Jumala</l>
+<l style="romanType"><app id="var550b_h"><lem>Hieroi</lem></app> kahta kämmentänsä,</l>
+<app id="var550c_h"><lem><l style="romanType">Mykelti molempiansa</l></lem></app>
+<l style="romanType"><app id="var550d_h"><lem>Vasemmassa</lem></app> polven päässä</l>
+<l rend="indent" style="romanType"><app id="var551_h"><lem>Siitä</lem></app> syntyi kolme neittä,</l>
+<l style="romanType"><app id="var552_h"><lem>Koko</lem></app> kolme Luonnotarta</l>
+<l style="romanType"><app id="var552b_h"><lem>Rauan</lem></app> ruostehen emoiksi,</l>
+<app id="var552c_h"><lem><l style="romanType">Suu sinervän siittäjäksi.</l></lem></app>
+<l rend="indent" style="romanType">Astui immet pilven äärtä,</l>
+<l rend="indent" style="romanType"><app id="var553_h"><lem>Lypsit</lem></app> maalle maitojansa,</l>
+<l rend="indent" style="romanType"><app id="var554_h"><lem>Lypsit</lem></app> maille, lypsit soille,</l>
+<l rend="indent" style="romanType"><app id="var555_h"><lem>Lypsit</lem></app> vienoille vesille.</l>
+<l rend="indent" style="romanType">Ku on lypsi mustan maion,</l>
+<l rend="indent" style="romanType"><app id="var556_h"><lem>Siitä</lem></app> syntyi meltorauta,</l>
+<l rend="indent" style="romanType"><app id="var557_h"><lem>Ku</lem></app> on valkean valutti,</l>
+<l rend="indent" style="romanType"><app id="var558_h"><lem>Siit’</lem></app> on tehtynä teräkset,</l>
+<l rend="indent" style="romanType"><app id="var560_h"><lem>Ku</lem></app> on puikutti punaisen,</l>
+<l rend="indent" style="romanType"><app id="var561_h"><lem>Siit’</lem></app> on saatu <app id="var562_h"><lem>rääkyrauta.</lem></app></l>
+<l style="romanType">Olipa aikoa <app id="var563_h"><lem>vähäinen,</lem></app></l>
+<l style="romanType"><app id="var564_h"><lem>Rauta</lem></app> tahteli tavata</l>
+<l style="romanType"><app id="var565_h"><lem>Vanhempata</lem></app> veikkoansa,</l>
+<l style="romanType"><app id="var566_h"><lem>Käyä</lem></app> tulta tuntemahan.</l>
+<pb type="orig" n="214" />
+<l style="romanType">Tuli tuhmaksi rupesi,</l>
+<l style="romanType"><app id="var567_h"><lem>Kasvoi</lem></app> aivan kauheaksi,</l>
+<l style="romanType"><app id="var568_h"><lem>Oli</lem></app> polttoa poloisen</l>
+<l style="romanType"><app id="var569_h"><lem>Rauta</lem></app> raukan veikkosensa.</l>
+<l style="romanType">Rauta pääsi piilemähän</l>
+<l style="romanType"><app id="var570_h"><lem>Tuon</lem></app> tuiman tulen käsistä.</l>
+<l style="romanType">Siitä sitten rauta piili</l>
+<l style="romanType"><app id="var571_h"><lem>Heiluvassa</lem></app> hettehessä</l>
+<l style="romanType"><app id="var572_h"><lem>Läikkyvässä</lem></app> lähtehessä,</l>
+<l style="romanType"><app id="var573_h"><lem>Suurimmalla</lem></app> suon selällä,</l>
+<l style="romanType"><app id="var574_h"><lem>Tuiman</lem></app> tunturin laella,</l>
+<l style="romanType"><app id="var575_h"><lem>Jossa</lem></app> joutsenet munivat,</l>
+<l style="romanType"><app id="var576_h"><lem>Hanhi pojat</lem></app> hautelevi;</l>
+<l style="romanType">Piili <app id="var577_h"><lem>vuoden,</lem></app> piili toisen,</l>
+<l style="romanType"><app id="var578_h"><lem>Piili</lem></app> kohta kolmannenki</l>
+<l style="romanType"><app id="var579_h"><lem>Kahen</lem></app> kantosen välissä</l>
+<l style="romanType"><app id="var580_h"><lem>Koivun</lem></app> kolmen juuren alla;</l>
+<l style="romanType"><app id="var581_h"><lem>Ei</lem></app> toki pakohon pääsnyt</l>
+<l style="romanType"><app id="var582_h"><lem>Tulen</lem></app> tuimista käsistä.</l>
+<l rend="indent" style="romanType">Susi juoksi suota myöten,</l>
+<l rend="indent" style="romanType"><app id="var583_h"><lem>Karhu</lem></app> kangasta samosi,</l>
+<l rend="indent" style="romanType"><app id="var584_h"><lem>Suo</lem></app> liikkui suen jälissä,</l>
+<l rend="indent" style="romanType"><app id="var585_h"><lem>Kangas</lem></app> karhun kämmenissä,</l>
+<l rend="indent" style="romanType"><app id="var586_h"><lem>Siihen</lem></app> nousi rautaruoste,</l>
+<l rend="indent" style="romanType"><app id="var587_h"><lem>Ja</lem></app> kasvoi teräskaranko</l>
+<l rend="indent" style="romanType"><app id="var588_h"><lem>Suen</lem></app> sorkkien <app id="var588b_h"><lem>sioille,</lem></app></l>
+<l rend="indent" style="romanType"><app id="var589_h"><lem>Karhun</lem></app> kannan kaivamille.</l>
+<l style="romanType">Syntyi seppo Ilmarinen,</l>
+<l style="romanType"><app id="var590_h"><lem>Sekä</lem></app> syntyi, jotta kasvoi,</l>
+<l style="romanType"><app id="var592_h"><lem>Se</lem></app> syntyi sysimäellä,</l>
+<l style="romanType"><app id="var593_h"><lem>Kasvoi</lem></app> hiilikankahalla,</l>
+<l style="romanType"><app id="var594_h"><lem>Vaskinen</lem></app> vasara käessä</l>
+<l style="romanType"><app id="var595_h"><lem>Pihit</lem></app> pikkuiset piossa.</l>
+<l rend="indent" style="romanType">Yöllä syntyi Ilmarinen,</l>
+<l rend="indent" style="romanType"><app id="var596_h"><lem>Päivällä</lem></app> pajasen laati,</l>
+<pb type="orig" n="215" />
+<l rend="indent" style="romanType">Etsi paikkoa pajalle,</l>
+<l rend="indent" style="romanType"><app id="var597_h"><lem>Levitystä lietsimelle,</lem></app></l>
+<l rend="indent" style="romanType"><app id="var598_h"><lem>Näki</lem></app> suota salmekkehen,</l>
+<l rend="indent" style="romanType"><app id="var599_h"><lem>Näki</lem></app> rautaiset orahat,</l>
+<l rend="indent" style="romanType"><app id="var600_h"><lem>Teräksiset</lem></app> tierottimet</l>
+<l rend="indent" style="romanType"><app id="var601_h"><lem>Suen</lem></app> suurilla jälillä,</l>
+<l rend="indent" style="romanType"><app id="var602_h"><lem>Karhun</lem></app> kämmenen tiloilla.</l>
+<l rend="indent" style="romanType">Sanovi sanalla tuolla:</l>
+<l rend="indent" style="romanType">”Voi sinua rauta raukka,</l>
+<l rend="indent" style="romanType"><app id="var604_h"><lem>Kuin</lem></app> olet kurjassa tilassa,</l>
+<l rend="indent" style="romanType"><app id="var605_h"><lem>Suolla</lem></app> sorkissa sutosen,</l>
+<l rend="indent" style="romanType"><app id="var606_h"><lem>Aina karhun askelissa!</lem></app></l>
+<l rend="indent" style="romanType">Mitä tuostaki tulisi,</l>
+<l rend="indent" style="romanType"><app id="var607_h"><lem>Josp’</lem></app> on tunkisin tulehen,</l>
+<l rend="indent" style="romanType"><app id="var608_h"><lem>Ahjohon</lem></app> asetteleisin?”</l>
+<l style="romanType">Rauta raukka säpsähtihe,</l>
+<l style="romanType"><app id="var609_h"><lem>Säpsähtihe, säikähtihe,</lem></app></l>
+<l style="romanType"><app id="var610_h"><lem>Kun</lem></app> kuuli tulen sanomat,</l>
+<l style="romanType"><app id="var611_h"><lem>Tulen</lem></app> tuimat maininnaiset.</l>
+<l style="romanType">Sanoi seppo Ilmarinen:</l>
+<l style="romanType">”Ellös <app id="var612_h"><lem>ole</lem></app> milläskänä,</l>
+<l style="romanType"><app id="var613_h"><lem>Tuli</lem></app> ei polta tuttuansa,</l>
+<l style="romanType"><app id="var614_h"><lem>Herjaele</lem></app> heimoansa!</l>
+<l style="romanType">Kun tulet tulen tuville,</l>
+<l style="romanType"><app id="var615_h"><lem>Siellä</lem></app> kasvat kaunihiksi,</l>
+<l style="romanType"><app id="var616_h"><lem>Ylenet ylenehoksi,</lem></app></l>
+<l style="romanType"><app id="var617_h"><lem>Miesten</lem></app> miekoiksi hyviksi,</l>
+<l style="romanType"><app id="var618_h"><lem>Naisten</lem></app> nauhan päättimiksi.”</l>
+<l rend="indent" style="romanType"><app id="var619_h"><lem>Senp’</lem></app> on päivyen perästä</l>
+<l rend="indent" style="romanType"><app id="var620_h"><lem>Rauta</lem></app> suosta sotkettihin,</l>
+<l rend="indent" style="romanType"><app id="var621_h"><lem>Vetelästä</lem></app> vellottihin,</l>
+<l rend="indent" style="romanType"><app id="var622_h"><lem>Tuotihin</lem></app> sepon pajahan.</l>
+<l rend="indent" style="romanType">Tuon seppo tulehen tunki</l>
+<l rend="indent" style="romanType"><app id="var624_h"><lem>Alle</lem></app> ahjonsa ajeli,</l>
+<l rend="indent" style="romanType"><app id="var625_h"><lem>Lietsoi</lem></app> kerran, lietsoi toisen,</l>
+<pb type="orig" n="216" />
+<l rend="indent" style="romanType"><app id="var626_h"><lem>Lietsoi kohta</lem></app> kolmannenki,</l>
+<l rend="indent" style="romanType"><app id="var627_h"><lem>Rauta</lem></app> vellinä viruvi,</l>
+<l rend="indent" style="romanType"><app id="var628_h"><lem>Kuonana kohoelevi</lem></app></l>
+<l rend="indent" style="romanType"><app id="var629_h"><lem>Sepon</lem></app> suurissa tulissa,</l>
+<l rend="indent" style="romanType"><app id="var630_h"><lem>Ilmi valkean</lem></app> väessä.</l>
+<l rend="indent" style="romanType">Siinä huuti rauta raukka:</l>
+<l rend="indent" style="romanType">”Ota pois minua täältä</l>
+<l rend="indent" style="romanType"><app id="var631_h"><lem>Tuskista</lem></app> tulen punaisen!”</l>
+<l rend="indent" style="romanType">Sanoi seppo Ilmarinen:</l>
+<l rend="indent" style="romanType">”Jos otan <app id="var632_h"><lem>sinun</lem></app> tulesta,</l>
+<l rend="indent" style="romanType"><app id="var633_h"><lem>Vielä</lem></app> veistät veljeäsi,</l>
+<l rend="indent" style="romanType"><app id="var634_h"><lem>Lastuat</lem></app> emosi lasta.”</l>
+<l style="romanType">Siinä vannoi rauta raukka,</l>
+<l style="romanType"><app id="var635_h"><lem>Vannoi</lem></app> vaikean valansa,</l>
+<l style="romanType"><app id="var635b_h"><lem>Ahjolla,</lem></app> alaisimella,</l>
+<l style="romanType"><app id="var635c_h"><lem>Vasaroilla,</lem></app> valkkamilla:</l>
+<l style="romanType">”Onpa puuta purrakseni,</l>
+<l style="romanType"><app id="var636_h"><lem>Kiven syäntä</lem></app> syöäkseni,</l>
+<l style="romanType"><app id="var637_h"><lem>Etten</lem></app> veistä veikkoani,</l>
+<l style="romanType"><app id="var638_h"><lem>Lastua</lem></app> emoni lasta;</l>
+<l style="romanType"><app id="var639_h"><lem>Parempi</lem></app> on ollakseni,</l>
+<l style="romanType"><app id="var640_h"><lem>Eleäkseni</lem></app> ehompi</l>
+<l style="romanType"><app id="var641_h"><lem>Kulkijalla</lem></app> kumppalina,</l>
+<l style="romanType"><app id="var642_h"><lem>Käyvällä</lem></app> käsi-asenna,</l>
+<l style="romanType"><app id="var643_h"><lem>Kun</lem></app> syöä omaa sukua,</l>
+<l style="romanType"><app id="var644_h"><lem>Heimoani</lem></app> herjaella.”</l>
+<l rend="indent" style="romanType">Silloin seppo Ilmarinen</l>
+<l rend="indent" style="romanType"><app id="var645_h"><lem>Rauan tempasi</lem></app> tulesta,</l>
+<l rend="indent" style="romanType"><app id="var646_h"><lem>Asetti alaisimelle,</lem></app></l>
+<l rend="indent" style="romanType"><app id="var647_h"><lem>Rakentavi</lem></app> raukeaksi,</l>
+<l rend="indent" style="romanType"><app id="var648_h"><lem>Tekevi</lem></app> teräkaluiksi,</l>
+<l rend="indent" style="romanType"><app id="var649_h"><lem>Keihäiksi,</lem></app> kirvehiksi,</l>
+<l rend="indent" style="romanType"><app id="var650_h"><lem>Kaikellaisiksi</lem></app> kaluiksi.</l>
+<l rend="indent" style="romanType">Viel’ <app id="var651_h"><lem>oli</lem></app> pikkuista vajalla,</l>
+<l rend="indent" style="romanType"><app id="var653_h"><lem>Rauta</lem></app> raukka tarpehessa:</l>
+<pb type="orig" n="217" />
+<l rend="indent" style="romanType"><app id="var654_h"><lem>Eipä</lem></app> kiehu rauan kieli,</l>
+<l rend="indent" style="romanType"><app id="var655_h"><lem>Ei</lem></app> sukeu suu teräksen,</l>
+<l rend="indent" style="romanType"><app id="var656_h"><lem>Rauta</lem></app> ei kasva karkeaksi</l>
+<l rend="indent" style="romanType"><app id="var658_h"><lem>Ilman</lem></app> veessä kastumatta.</l>
+<l style="romanType">Siitä seppo Ilmarinen</l>
+<l style="romanType"><app id="var660_h"><lem>Itse tuota arvelevi,</lem></app></l>
+<l style="romanType"><app id="var661_h"><lem>Laati</lem></app> pikkuisen poroa,</l>
+<l style="romanType"><app id="var662_h"><lem>Lipeäistä</lem></app> liuotteli</l>
+<app id="var662b_h"><lem><l style="romanType">Teräksen teko-mujuiksi,</l>
+<l style="romanType">Rauan karkaisu-vesiksi.</l></lem></app>
+<l style="romanType">Koitti seppo kielellänsä,</l>
+<l style="romanType"><app id="var663_h"><lem>Hyvin</lem></app> maistoi mielellänsä,</l>
+<l style="romanType"><app id="var664_h"><lem>Itse</lem></app> tuon sanoiksi virkki:</l>
+<l style="romanType">”Ei <app id="var665_h"><lem>nämä</lem></app> hyvät minulle</l>
+<app id="var666_h"><lem><l style="romanType">Teräksen teko-vesiksi,</l>
+<l style="romanType">Rautojen rakento-maiksi.”</l></lem></app>
+<l rend="indent" style="romanType">Mehiläinen maasta nousi,</l>
+<l style="romanType"><app id="var667_h"><lem>Sinisiipi</lem></app> mättähästä,</l>
+<l style="romanType"><app id="var668_h"><lem>Lentelevi,</lem></app> liitelevi</l>
+<l style="romanType"><app id="var669_h"><lem>Ympäri</lem></app> sepon pajoa.</l>
+<l style="romanType">Niin seppo sanoiksi virkki:</l>
+<l style="romanType">”Mehiläinen mies kepeä,</l>
+<l style="romanType"><app id="var671_h"><lem>Tuo</lem></app> simoa siivessäsi,</l>
+<l style="romanType"><app id="var672_h"><lem>Kanna</lem></app> mettä kielessäsi</l>
+<l style="romanType"><app id="var673_h"><lem>Kuuen</lem></app> kukkasen nenästä,</l>
+<l style="romanType"><app id="var674_h"><lem>Seitsemän</lem></app> on heinän päästä</l>
+<l style="romanType"><app id="var675_h"><lem>Teräksille</lem></app> tehtäville,</l>
+<l style="romanType"><app id="var676_h"><lem>Rauoille</lem></app> rakettaville!”</l>
+<l rend="indent" style="romanType">Herhiläinen, Hiien lintu</l>
+<l rend="indent" style="romanType"><app id="var678_h"><lem>Katselevi,</lem></app> kuuntelevi,</l>
+<l rend="indent" style="romanType"><app id="var679_h"><lem>Katseli</lem></app> katon rajasta,</l>
+<l rend="indent" style="romanType"><app id="var680_h"><lem>Alta</lem></app> tuohen <app id="var680b_h"><lem>tuiotteli;</lem></app></l>
+<l rend="indent" style="romanType">Lenteä hyrähtelevi,</l>
+<l rend="indent" style="romanType"><app id="var681_h"><lem>Viskoi Hiien</lem></app> hirmuloita,</l>
+<l rend="indent" style="romanType"><app id="var682_h"><lem>Kantoi</lem></app> käärmehen kähyjä,</l>
+<pb type="orig" n="218" />
+<l rend="indent" style="romanType"><app id="var683_h"><lem>Maon</lem></app> mustia mujuja,</l>
+<l rend="indent" style="romanType"><app id="var684_h"><lem>Sammakon</lem></app> salavihoja</l>
+<l rend="indent" style="romanType"><app id="var685_h"><lem>Teräksen teko-mujuihin,</lem></app></l>
+<l rend="indent" style="romanType"><app id="var685b_h"><lem>Rauan karkaisu-vetehen.</lem></app></l>
+<l rend="indent" style="romanType">Itse seppo Ilmarinen,</l>
+<l rend="indent" style="romanType"><app id="var686_h"><lem>Takoja</lem></app> alinomainen</l>
+<l rend="indent" style="romanType"><app id="var686b_h"><lem>Luulevi,</lem></app> ajattelevi</l>
+<l rend="indent" style="romanType"><app id="var687_h"><lem>Mehiläisen</lem></app> tulleheksi,</l>
+<l rend="indent" style="romanType"><app id="var688_h"><lem>Tuon</lem></app> on mettä tuoneheksi,</l>
+<l rend="indent" style="romanType"><app id="var689_h"><lem>Kantaneheksi</lem></app> simoa;</l>
+<l rend="indent" style="romanType"><app id="var690_h"><lem>Siihen</lem></app> tempasi teräksen,</l>
+<l rend="indent" style="romanType"><app id="var691_h"><lem>Siihen</lem></app> kasti rauta raukan,</l>
+<l rend="indent" style="romanType"><app id="var692_h"><lem>Pois</lem></app> tulesta tuotaessa,</l>
+<l rend="indent" style="romanType"><app id="var693_h"><lem>Ahjosta</lem></app> otettaessa.</l>
+<l style="romanType">Sai siitä teräs pahaksi,</l>
+<l style="romanType"><app id="var694_h"><lem>Rauta</lem></app> raivoksi rupesi,</l>
+<l style="romanType"><app id="var695_h"><lem>Petti</lem></app> <app id="var695b_h"><lem>vaivainen</lem></app> valansa,</l>
+<l style="romanType"><app id="var696_h"><lem>Söi</lem></app> kuin koira kunniansa,</l>
+<l style="romanType"><app id="var697_h"><lem>Veisti</lem></app> raukka veljeänsä,</l>
+<l style="romanType"><app id="var698_h"><lem>Sukuansa</lem></app> suin piteli,</l>
+<l style="romanType"><app id="var699_h"><lem>Veren</lem></app> päästi vuotamahan,</l>
+<l style="romanType"><app id="var700_h"><lem>Hurmehen</lem></app> hurahtamahan.</l>
+<l rend="indent" style="romanType">Ukko uunilta urahti,</l>
+<l rend="indent" style="romanType"><app id="var701_h"><lem>Parta</lem></app> lauloi, pää <app id="var702_h"><lem>järähti:</lem></app></l>
+<l rend="indent" style="romanType">Jo nyt tieän rauan synnyn,</l>
+<l rend="indent" style="romanType"><app id="var703_h"><lem>Tajuan</lem></app> tavat teräksen.</l>
+<l style="romanType">Ohoh sinua rauta raukka,</l>
+<l style="romanType"><app id="var705_h"><lem>Rauta</lem></app> raukka, koito kuona,</l>
+<l style="romanType"><app id="var705b_h"><lem type="empty" /></app></l>  
+<l style="romanType"><app id="var706_h"><lem>Kuin sä</lem></app> kasvoit kauheaksi</l>
+<l style="romanType"><app id="var706b_h"><lem>Ylen</lem></app> suureksi <app id="var706c_h"><lem>ylenit!</lem></app></l>
+<l style="romanType">Et sä silloin suuri ollut,</l>
+<l style="romanType"><app id="var707_h"><lem>Etkä</lem></app> suuri, etkä pieni,</l>
+<l style="romanType"><app id="var708_h"><lem>Et</lem></app> kovin <app id="var708b_h"><lem>koreakana,</lem></app></l>
+<l style="romanType"><app id="var709_h"><lem>Etkä</lem></app> äijältä äkäinen,</l>
+<l style="romanType"><app id="var710_h"><lem>Kun</lem></app> sa maitona makasit,</l>
+<pb type="orig" n="219" />
+<l style="romanType"><app id="var711_h"><lem>Rieskasena</lem></app> riuottelit</l>
+<l style="romanType"><app id="var712_h"><lem>Pitkän</lem></app> pilven rannan päällä,</l>
+<l style="romanType"><app id="var713_h"><lem>Alla</lem></app> taivahan tasaisen.</l>
+<l style="romanType">Etkä silloin suuri ollut,</l>
+<l style="romanType"><app id="var714_h"><lem>Kun</lem></app> sa liejuna lepäsit</l>
+<l style="romanType"><app id="var715_h"><lem>Suurimmalla</lem></app> suon selällä,</l>
+<l style="romanType"><app id="var716_h"><lem>Tuiman</lem></app> tunturin laella.</l>
+<l style="romanType">Etkä silloin suuri ollut,</l>
+<l style="romanType"><app id="var717_h"><lem>Kun</lem></app> sua hirvet suolla hieroi,</l>
+<l style="romanType"><app id="var718_h"><lem>Susi</lem></app> sotki sorkillansa,</l>
+<l style="romanType"><app id="var719_h"><lem>Karhu kämmenyisillänsä.</lem></app></l>
+<l style="romanType">Etkä silloin suuri ollut,</l>
+<l style="romanType"><app id="var720_h"><lem>Kun sa</lem></app> suosta sotkettihin,</l>
+<l style="romanType"><app id="var721_h"><lem>Vietihin</lem></app> sepon <choice><orig>pojahan,</orig><reg>pajahan</reg></choice></l>
+<l style="romanType"><app id="var722_h"><lem>Alle</lem></app> ahjon Ilmarisen.</l>
+<l style="romanType">Etkä silloin suuri ollut,</l>
+<l style="romanType"><app id="var723_h"><lem>Kun</lem></app> sa kuonana kohisit</l>
+<l style="romanType"><app id="var724_h"><lem>Tuimissa tulisioissa,</lem></app></l>
+<l style="romanType"><app id="var725_h"><lem>Vannoit</lem></app> vaikean valasi</l>
+<l style="romanType"><app id="var726_h"><lem>Ahjolla, alaisimella,</lem></app></l>
+<l style="romanType"><app id="var726b_h"><lem>Vasaroilla,</lem></app> valkkamilla.</l>
+<l style="romanType">Joko nyt suureksi <app id="var727_h"><lem>sukenit,</lem></app></l>
+<l style="romanType"><app id="var728_h"><lem>Äreäksi</lem></app> ärtelihit,</l>
+<l style="romanType"><app id="var729_h"><lem>Rikoit</lem></app> vaivainen valasi,</l>
+<l style="romanType"><app id="var730_h"><lem>Söit</lem></app> kuin koira kunniasi,</l>
+<l style="romanType"><app id="var731_h"><lem>Kun sa</lem></app> syrjit syntyäsi,</l>
+<l style="romanType"><app id="var732_h"><lem>Sukuasi</lem></app> suin pitelit.</l>
+<l style="romanType">Tule nyt työsi tuntemahan,</l>
+<l style="romanType"><app id="var733_h"><lem>Pahasi</lem></app> parantamahan,</l>
+<l style="romanType"><app id="var734_h"><lem>Ennenkuin</lem></app> sanon emolle,</l>
+<l style="romanType"><app id="var735_h"><lem>Vanhemmallesi</lem></app> valitan;</l>
+<l style="romanType"><app id="var736_h"><lem>Enemp’</lem></app> on emolla työtä,</l>
+<l style="romanType"><app id="var737_h"><lem>Vaiva</lem></app> suuri vanhemmalla,</l>
+<l style="romanType"><app id="var738_h"><lem>Kun</lem></app> poika pahoin tekevi,</l>
+<l style="romanType"><app id="var739_h"><lem>Lapsi</lem></app> tuhmin turmelevi.</l>
+<pb type="orig" n="220" />
+<l rend="indent" style="romanType"><app id="var740_h"><lem>   Piäty</lem></app> veri vuotamasta,</l>
+<l rend="indent" style="romanType"><app id="var741_h"><lem>Hurme</lem></app> huppelehtamasta,</l>
+<l rend="indent" style="romanType"><app id="var742_h"><lem>Veri</lem></app> seiso kuni seinä,</l>
+<l rend="indent" style="romanType"><app id="var743_h"><lem>Asu</lem></app> hurme kuni aita,</l>
+<l rend="indent" style="romanType"><app id="var744_h"><lem>Kuin</lem></app> miekka meressä seiso,</l>
+<l rend="indent" style="romanType"><app id="var745_h"><lem>Saraheinä</lem></app> sammalessa.</l>
+<l rend="indent" style="romanType">Vaan jos mieli laatinevi</l>
+<l rend="indent" style="romanType"><app id="var746_h"><lem>Liikkua</lem></app> lipeämmästi,</l>
+<l rend="indent" style="romanType"><app id="var747_h"><lem>Niin sa</lem></app> liikkuos lihassa,</l>
+<l rend="indent" style="romanType"><app id="var749_h"><lem>Sekä</lem></app> luissa luistaellos,</l>
+<l rend="indent" style="romanType"><app id="var750_h"><lem>Sisässä</lem></app> sinun parempi,</l>
+<l rend="indent" style="romanType"><app id="var751_h"><lem>Alla</lem></app> kalvon kaunihimpi</l>
+<l rend="indent" style="romanType"><app id="var752_h"><lem>Suonissa</lem></app> sorottamassa</l>
+<l rend="indent" style="romanType"><app id="var753_h"><lem>Sekä</lem></app> luissa luistamassa.</l>
+<l rend="indent" style="romanType">   Tyy’y nyt tyyris tippumasta,</l>
+<l rend="indent" style="romanType"><app id="var755_h"><lem>Punainen</lem></app> putoamasta.</l>
+<l rend="indent" style="romanType">Tyytyi ennen Tyrjän koski,</l>
+<l rend="indent" style="romanType"><app id="var756_h"><lem>Joki</lem></app> Tuonelan tyrehtyi,</l>
+<l rend="indent" style="romanType"><app id="var757_h"><lem>Meri</lem></app> kuivi, taivas kuivi</l>
+<l rend="indent" style="romanType"><app id="var758_h"><lem>Sinä</lem></app> suurna poutavuonna,</l>
+<l rend="indent" style="romanType"><app id="var759_h"><lem>Tulivuonna</lem></app> voimatoinna.</l>
+<l rend="indent" style="romanType">Jos et tuostana totelle,</l>
+<l rend="indent" style="romanType"><app id="var760_h"><lem>Huuan</lem></app> Hiiestä patoa,</l>
+<l rend="indent" style="romanType"><app id="var761_h"><lem>Jolla</lem></app> verta keitetähän</l>
+<l rend="indent" style="romanType"><app id="var762_h"><lem>Hurmetta</lem></app> varistetahan.</l>
+<l rend="indent" style="romanType">Kun ei lie minussa miestä</l>
+<l rend="indent" style="romanType"><app id="var763_h"><lem>Tämän</lem></app> tulvan <app id="var763b_h"><lem>tukkiaksi,</lem></app></l>
+<l rend="indent" style="romanType"><app id="var764_h"><lem>Onp’</lem></app> on taatto taivahinen,</l>
+<l rend="indent" style="romanType"><app id="var765_h"><lem>Pilven päällinen</lem></app> Jumala,</l>
+<l rend="indent" style="romanType"><app id="var766_h"><lem>Joka</lem></app> miehistä pätevi</l>
+<l rend="indent" style="romanType"><app id="var767_h"><lem>Veren</lem></app> suuta sulkemahan.</l>
+<l style="romanType">Oi Ukko, ylinen luoja,</l>
+<l style="romanType"><app id="var769_h"><lem>Taivahallinen</lem></app> Jumala!</l>
+<l style="romanType">Tule tänne tarvittaissa,</l>
+<l style="romanType"><app id="var770_h"><lem>Käy</lem></app> tänne <app id="var770b_h"><lem>kutsuttaessa,</lem></app></l>
+<pb type="orig" n="221" />
+<l style="romanType"><app id="var771_h"><lem>Tunge</lem></app> turpea kätesi,</l>
+<l style="romanType"><app id="var772_h"><lem>Paina</lem></app> paksu peukalosi</l>
+<l style="romanType"><app id="var773_h"><lem>Tukkeheksi</lem></app> tuiman reiän,</l>
+<l style="romanType"><app id="var774_h"><lem>Paikaksi</lem></app> pahan veräjän,</l>
+<l style="romanType"><app id="var775_h"><lem>Veä</lem></app> päälle lemmen lehti,</l>
+<l style="romanType"><app id="var776_h"><lem><choice><orig>Kulta lumme</orig><reg>Kultalumme</reg></choice></lem></app> luikahuta</l>
+<l style="romanType"><app id="var777_h"><lem>Veren</lem></app> tielle <app id="var777b_h"><lem>telkkimeksi,</lem></app></l>
+<l style="romanType"><app id="var778_h"><lem>Jott’ ei</lem></app> parsku parralleni,</l>
+<l style="romanType"><app id="var779_h"><lem>Valu</lem></app> vaaterievuilleni.”</l>
+<l rend="indent" style="romanType">Sillä sulki suun vereltä,</l>
+<l rend="indent" style="romanType"><app id="var780_h"><lem>Tien</lem></app> on <app id="var781_h"><lem>telkki</lem></app> hurmehelta.</l>
+<l rend="indent" style="romanType">Pani poikansa pajahan</l>
+<l rend="indent" style="romanType"><app id="var782_h"><lem>Tekemähän</lem></app> voitehia</l>
+<l rend="indent" style="romanType"><app id="var783_h"><lem>Noista</lem></app> heinän helpehistä,</l>
+<l rend="indent" style="romanType"><app id="var784_h"><lem>Tuhatlatvan tutkamista,</lem></app></l>
+<l rend="indent" style="romanType"><app id="var785_h"><lem>Me’en</lem></app> maahan vuotajista,</l>
+<l rend="indent" style="romanType"><app id="var786_h"><lem>Simatilkan</lem></app> tippujista.</l>
+<l style="romanType">Tuli poikanen pajasta</l>
+<l style="romanType"><app id="var787_h"><lem>Tekemästä</lem></app> voitehia,</l>
+<l style="romanType"><app id="var788_h"><lem>Rasvoja</lem></app> rakentamasta,</l>
+<l style="romanType"><app id="var789_h"><lem>Ne</lem></app> työnti ukon kätehen.</l>
+<l style="romanType">Koki ukko kielellänsä,</l>
+<l style="romanType"><app id="var790_h"><lem>Maistoi</lem></app> suullansa sulalla,</l>
+<l style="romanType"><app id="var791_h"><lem>Tunsi</lem></app> <app id="var791b_h"><lem><choice><orig>katsehet</orig><reg>kastehet</reg></choice></lem></app> hyviksi,</l>
+<l style="romanType"><app id="var792_h"><lem>Voitehet</lem></app> vakaisiksi.</l>
+<l rend="indent" style="romanType">Siitä voiti Väinämöistä,</l>
+<l rend="indent" style="romanType"><app id="var793_h"><lem>Pahoin tullutta</lem></app> paranti,</l>
+<l rend="indent" style="romanType"><app id="var794_h"><lem>Voiti</lem></app> alta, voiti päältä,</l>
+<l rend="indent" style="romanType"><app id="var795_h"><lem>Kerran</lem></app> keskeä sivalti,</l>
+<l rend="indent" style="romanType"><app id="var796_h"><lem>Sanovi</lem></app> sanalla tuolla,</l>
+<l rend="indent" style="romanType"><app id="var797_h"><lem>Lausui</lem></app> tuolla lausehella:</l>
+<l rend="indent" style="romanType">”En liiku omin lihoini,</l>
+<l rend="indent" style="romanType"><app id="var798_h"><lem>Liikun</lem></app> Luojani lihoilla,</l>
+<l rend="indent" style="romanType"><app id="var799_h"><lem>En</lem></app> väiky omin väkini,</l>
+<l rend="indent" style="romanType"><app id="var800_h"><lem>Väikyn</lem></app> väellä kaikkivallan,</l>
+<pb type="orig" n="222" />
+<l rend="indent" style="romanType"><app id="var801_h"><lem>En</lem></app> puhu omalla suulla,</l>
+<l rend="indent" style="romanType"><app id="var802_h"><lem>Puhelen</lem></app> Jumalan suulla;</l>
+<l rend="indent" style="romanType"><app id="var803_h"><lem>Josp’</lem></app> on mulla suu suloinen,</l>
+<l rend="indent" style="romanType"><app id="var804_h"><lem>Suloisempi</lem></app> suu Jumalan,</l>
+<l rend="indent" style="romanType"><app id="var805_h"><lem>Jospa</lem></app> on kaunoinen käteni,</l>
+<l rend="indent" style="romanType"><app id="var806_h"><lem>Käsi</lem></app> Luojan kaunihimpi.”</l>
+<l style="romanType">Tukun silkkiä sivalti,</l>
+<l style="romanType"><app id="var807_h"><lem>Sitehiksi</lem></app> suoritteli.</l>
+<l style="romanType"><app id="var807b_h"><lem type="empty" /></app></l>  
+<l style="romanType">Siitä vanha Väinämöinen</l>
+<l style="romanType"><app id="var808_h"><lem>Jo</lem></app> tunsi avun totisen,</l>
+<l style="romanType"><app id="var809_h"><lem>Siirti</lem></app> silmänsä ylemmä,</l>
+<l style="romanType"><app id="var810_h"><lem>Katsahtavi</lem></app> kaunihisti</l>
+<l style="romanType"><app id="var811_h"><lem>Päälle</lem></app> pään on taivosehen,</l>
+<l style="romanType"><app id="var813_h"><lem>Sanovi</lem></app> sanalla tuolla,</l>
+<l style="romanType"><app id="var814_h"><lem>Lausui</lem></app> tuolla lausehella:</l>
+<l style="romanType">”Tuoltapa aina armot käyvät,</l>
+<l style="romanType"><app id="var815_h"><lem>Turvat</lem></app> tuttavat tulevat</l>
+<l style="romanType"><app id="var816_h"><lem>Ylähästä</lem></app> taivahasta,</l>
+<l style="romanType"><app id="var817_h"><lem>Luota</lem></app> Luojan kaikkivallan.</l>
+<l style="romanType">Ole nyt kiitetty Jumala,</l>
+<l style="romanType"><app id="var819_h"><lem>Ylistetty</lem></app> Luoja yksin,</l>
+<l style="romanType"><app id="var820_h"><lem>Kun</lem></app> annoit avun minulle,</l>
+<l style="romanType"><app id="var821_h"><lem>Tuotit</lem></app> turvan tuttavasti</l>
+<l style="romanType"><app id="var822_h"><lem>Noissa</lem></app> tuskissa kovissa,</l>
+<l style="romanType"><app id="var823_h"><lem>Terän</lem></app> rauan raatamissa.”</l>
+<l style="romanType">Siitä vanha Väinämöinen</l>
+<l style="romanType"><app id="var824_h"><lem>Vielä</lem></app> tuon sanoiksi virkki:</l>
+<l style="romanType">”Elkätte etinen kansa,</l>
+<l style="romanType"><app id="var826_h"><lem>Kansa</lem></app> vasta kasvavainen</l>
+<l style="romanType"><app id="var827_h"><lem>Veikaten</lem></app> venettä tehkö,</l>
+<l style="romanType"><app id="var828_h"><lem>Uhkaellen</lem></app> kaartakana;</l>
+<l style="romanType"><app id="var829_h"><lem>Jumalas’</lem></app> on juoksun määrä,</l>
+<l style="romanType">Luojassa lopun asetus,</l>
+<l style="romanType"><app id="var830_h"><lem>Ei uron</lem></app> osoannassa,</l>
+<l style="romanType"><app id="var831_h"><lem>Vallassa</lem></app> väkevänkänä.”</l>
+</lg>
+<pb type="orig" n="223" />
+  <head style="blackletter"><app id="var832_h"><lem><hi rend="bold">101.</hi></lem></app><hi rend="bold"> Väinämöinen ja Joukahainen.</hi></head>
+  <head type="sub" style="blackletter"><app id="var832b_h"><lem>(Kalev. 3.)</lem></app></head>
+  <p style="blackletter"><app id="var833_h"><lem>Pohjoisessa maassa, Pohjolassa,</lem></app> asui nuori mies <app id="var834_h"><lem>nimeltä Joukahainen.</lem></app> Hän kuuli sanoman Väinämöisen viisaudesta, tunsi kateutta mielessään ja päätti lähteä kilpailemaan tuon mainion laulajan kanssa. Turhaan <app id="var835_h"><lem>kielti häntä</lem></app> isä ja äiti. Joukahainen vastasi: <app id="var836_h"><lem>hyvä</lem></app> on isäni tieto, emoni sitä parempi, oma tietoni ylinnä, laulan laulajan parahan pahimmaksi laulajaksi.</p>
+  <p style="blackletter">Hän valjasti <app id="var838_h"><lem>nyt tulisen</lem></app> ruunansa <app id="var839_h"><lem>korjan kultaisen etehen</lem></app> ja lähti kopeana matkalle. Kolmantena päivänä <app id="var840_h"><lem>ajaa suhutteli hän</lem></app> Väinölän ahoille. <app id="var842_h"><lem>Tässä kohtasi hän</lem></app> Väinämöisen, joka ajeli hiljaa tietään, ja aisa tarttui aisan päähän, rahe <app id="var844_h"><lem>rahkehen</lem></app> takistui. Heidän välillään syntyi nyt seuraava haastelu:</p>
+  <p style="blackletter"><hi rend="expanded">Väinämöinen.</hi> Kuka sinä olet, joka ajat niin tuhmasti eteen ja <app id="var846_h"><lem>säret</lem></app> sekä valjaat että reen?</p>
+  <p style="blackletter"><hi rend="expanded">Joukahainen.</hi> Minä olen Joukahainen. Mutta kuta kurjaa sukua ja joukkiota sinä olet?</p>
+  <p style="blackletter"><app id="var848_h"><lem><hi rend="expanded">Vn.</hi></lem></app> Minä olen Väinämöinen. Jos <app id="var849_h"><lem>sinä olet</lem></app> Joukahainen, niin anna minulle tietä, sillä sinä olet <app id="var850_h"><lem>nuorempi minua.</lem></app></p>
+  <p style="blackletter"><app id="var851_h"><lem><hi rend="expanded">Jn.</hi></lem></app> Vähä on miehen nuoruudesta ja vanhuudesta, vaan kumpi on <app id="var852_h"><lem>tiedolta</lem></app> parempi, muistannalta mahtavampi. <app id="var853_h"><lem>Koetelkaamme toistamme laulussa,</lem></app> ja se, joka <app id="var854_h"><lem>tietää vähemmän, poiketkoon</lem></app> syrjään sen tieltä, joka tietää enemmän.</p>
+  <p style="blackletter"><app id="var855_h"><lem><hi rend="expanded">Vn.</hi></lem></app> Mitäpä minä tietänen, joka <app id="var856_h"><lem>olen</lem></app> aikani elellyt näillä yksillä ahoilla ja kotipellon <app id="var857_h"><lem>pientarella</lem></app> kuunnellut kotikäkeä? Sinä joka tiedät enemmän, kerro minulle mitä <app id="var860_h"><lem>sinä tiedät!</lem></app></p>
+  <p style="blackletter"><app id="var861_h"><lem><hi rend="expanded">Jn.</hi></lem></app> Tiedänpä minä jotakin. <app id="var862_h"><lem>Sen tiedän,</lem></app> että reppänä on liki lakea ja että lieska on liki kiuasta. <app id="var863_h"><lem>Hyle</lem></app> syöpi luotansa lohia ja siikoja, hauki kutee <app id="var864_h"><lem>kovalla säällä,</lem></app> ahven <app id="var865_h"><lem>syksyt syvillä uipi</lem></app> ja kutee kesät matalalla. Kun ei tuosta kyllin liene, niin tiedän senkin, että pohjola kyntää porolla, etelä <app id="var867_h"><lem>emähevolla,</lem></app> takalappi tarvahalla. Kolme on koskea kovoa, kolme järveä jaloa ja kolme vuorta korkeata tämän ilman kannen alla. Hämehess’ on Hälläpyörä, Kaatrakoski Karjalassa, ei ole Vuoksen voittanutta, ylikäynyttä Imatran. <app id="var869_h"><lem>Niin on laita.</lem></app></p>
+<pb type="orig" n="224" />
+  <p style="blackletter"><app id="var870_h"><lem><hi rend="expanded">Vn.</hi></lem></app> Lapsen tieto, naisen muisti, ei ole partasuun urohon. Sano <app id="var871_h"><lem>asiain syntyjä</lem></app> syviä!</p>
+  <p style="blackletter"><app id="var872_h"><lem><hi rend="expanded">Jn.</hi></lem></app> Tiedänpä <app id="var873_h"><lem>tiaisen</lem></app> synnyn, <app id="var874_h"><lem>tiedän</lem></app> linnuksi <app id="var875_h"><lem>tiaisen,</lem></app> kyyn <app id="var876_h"><lem>viherän kärmeheksi,</lem></app> kiiskisen veden kalaksi. Vuoresta on veden synty, tulen synty taivahasta ja raudan alku ruostehesta. Mätäs on märkä maita vanhin, paju puita ensimmäinen, hongan juuri huonehia, paatonen patarania. Tiedä se.</p>
+  <p style="blackletter"><app id="var878_h"><lem><hi rend="expanded">Vn.</hi></lem></app> Muistatko mitä <app id="var879_h"><lem>enemmin, vain jo</lem></app> loppuivat lorusi?</p>
+  <p style="blackletter"><app id="var880_h"><lem><hi rend="expanded">Jn.</hi> Muistan vieläkin</lem></app> jotakin, <app id="var880b_h"><lem>muistampa</lem></app> kuluneen ajan, kun olin merta kyntämässä, kalahaudat kaivamassa, <app id="var881_h"><lem>rannan louhet</lem></app> luomassa <app id="var882_h"><lem>kokoon.</lem></app> Seitsemäntenä urosna olin maata muodostamassa, ilman pieliä pistämässä, taivaan kaarta kantamassa, aurinkoa auttamassa, <app id="var883_h"><lem>otavaa</lem></app> ojentamassa, taivasta <app id="var884_h"><lem>tähittämässä.</lem></app> Tiedä se.</p>
+  <p style="blackletter"><app id="var886_h"><lem><hi rend="expanded">Vn.</hi></lem></app> Sen varsin <app id="var887_h"><lem>valehtelitkin.</lem></app> Ei <app id="var888_h"><lem>sinua</lem></app> silloin nähty, kun merta <app id="var889_h"><lem>kynnettiin,</lem></app> maata muodostettiin, <app id="var890_h"><lem>aurinko,</lem></app> kuu ja tähdet pantiin <app id="var891_h"><lem>ratojaan kulkemaan.</lem></app></p>
+  <p style="blackletter"><app id="var892_h"><lem><hi rend="expanded">Jn.</hi></lem></app> Kun ei <app id="var893_h"><lem>lie</lem></app> minulla mieltä, kysyn mieltä miekaltani. Lähdepä laulaja laveasuinen kanssani miekan mittelöhön.</p>
+  <p style="blackletter"><hi rend="expanded"><app id="var893b_h"><lem>Vn.</lem></app></hi> <app id="var893c_h"><lem>Yhtä vähän pelkään miekkaasi kuin tietoasikin.</lem></app></p>
+  <p style="blackletter"><app id="var896_h"><lem><hi rend="expanded">Jn.</hi> Sen, joka</lem></app> ei uskalla kanssani miekkailla, <app id="var897_h"><lem>laulan</lem></app> lantatunkiolle, läävän nurkkahan nutistan.</p>
+  <p style="blackletter">Ja samassa nuori Joukahainen murti suuta, <app id="var898_h"><lem>murti</lem></app> päätä, murti mustoa haventa. Mutta <app id="var899_h"><lem>hyvin</lem></app> suuttui tästä vanha Väinämöinen ja <app id="var900_h"><lem>alkoi</lem></app> itse <app id="var901_h"><lem>laulaa voimallisia tietolaulujaan.</lem></app> Ne laulut eivät olleet lasten lauluja, <app id="var902_h"><lem>eivätkä</lem></app> naisten loruja; ne olivat partasuun <app id="var903_h"><lem>urohon,</lem></app> joiden voimasta järvet läikkyivät, maa järisi, vuoret vaskiset vapisivat. <app id="var904_h"><lem>Pahoin</lem></app> kävi <app id="var905_h"><lem>nuorelle Joukahaiselle.</lem></app> Hänen hevosensa, rekensä, vempeleensä, rahkeensa, ruoskansa, <app id="var906_h"><lem>joutsensa,</lem></app> nuolensa, lakkinsa, kintaansa, vyönsä, kaikki laulun <app id="var907_h"><lem>voima hajotteli</lem></app> ja muuksi muutti. Mutta <app id="var908_h"><lem>itse vajosi hän</lem></app> <app id="var908b_h"><lem>vyötäistä</lem></app> myöten suohon.</p>
+  <p style="blackletter">Siitä nuori Joukahainen joutui hätään, rukoili henkensä puolesta ja lupasi antaa <app id="var909_h"><lem>lujat lunnaat.</lem></app> Hän lupasi toisen jousistaan, toisen pursistaan, toisen hevosistaan, lupasi kultia, hopeita, aumoja, hietapeltoja, mutta vaipui <app id="var910_h"><lem>aina</lem></app> syvemmälle, <app id="var911_h"><lem>siksi</lem></app> että <app id="var912_h"><lem>leuka kävi lietteesen</lem></app> <app id="var912b_h"><lem>ja suohon, ja sammaleihin suu.</lem></app> <app id="var912c_h"><lem>Silloin</lem></app> <app id="var913_h"><lem>lupasi hän</lem></app><pb type="orig" n="225" /> <choice><orig>pasi hän</orig><reg type="empty" /></choice> nuoren Aino sisarensa lunnaiksi. Väinämöinen <app id="var914_h"><lem>tuosta</lem></app> ihastui <choice><orig>iki hyväksi</orig><reg>ikihyväksi</reg></choice>, <app id="var915_h"><lem>pyörti</lem></app> pyhät sanansa, ja Joukahainen palasi <app id="var916_h"><lem>surumielin kotiinsa.</lem></app></p>
+  <p style="blackletter">Mutta Ainosta kerrotaan <app id="var917_h"><lem>sitte</lem></app> kaunis <app id="var918_h"><lem>satu, kuinka</lem></app> hän itki yöt <app id="var919_h"><lem>ja päivät</lem></app> eikä tahtonut <app id="var920_h"><lem>Väinämöiselle vaimoksi mennä,</lem></app> vaan <app id="var921_h"><lem>syöksi</lem></app> mieluummin mereen sisareksi veden kaloille. Siitä syntyisi tässä liian pitkä jutelma.</p>
+  <head style="blackletter"><app id="var922_h"><lem><hi rend="bold">102.</hi></lem></app><hi rend="bold"> Väinämöisen ensimmäinen Pohjolanmatka.</hi></head>
+  <head type="sub" style="blackletter"><app id="var922b_h"><lem>(Kalev. 6, 7, 8.)</lem></app></head>
+  <p style="blackletter">Tähän aikaan <app id="var923_h"><lem>oli</lem></app> rauha ja ystävyys<choice><orig>.</orig><reg type="empty" /></choice> Väinölän ja Pohjolan välillä. Väinämöinen päätti <app id="var925_h"><lem>noutaa itselleen vaimon Pohjolan tyttäristä kadonneen Ainon sijaan.</lem></app></p>
+  <p style="blackletter">Mutta Joukahaisen mielessä kyti kostonhalu<supplied>.</supplied> Hän takoi itselleen tulisen jousen, punoi jänteen Hiiden hirven suonista, vuoli <app id="var927_h"><lem>nuolia pinon,</lem></app> joiden varret <app id="var928_h"><lem>oli</lem></app> tammesta ja päät tervaksesta, <app id="var929_h"><lem>karkasi</lem></app> ne <app id="var930_h"><lem>kärmeen</lem></app> myrkyssä ja sulitti ne pääskysen pienillä sulilla. Näin varustettuna <app id="var931_h"><lem>väijyi hän</lem></app> vanhaa Väinämöistä.</p>
+  <p style="blackletter">Kauan <app id="var932_h"><lem>vuotti hän;</lem></app> viimein <app id="var933_h"><lem>keksi hän</lem></app> muutamana aamuna mustan pilkun merellä. Se oli Väinämöinen, joka <app id="var934_h"><lem>ajoi</lem></app> <app id="var934b_h"><lem>olkihisella oriilla, jonka kaviot ei aalloissa kastuneet.</lem></app></p>
+  <p style="blackletter">Joukahainen otti jousensa. Äiti <app id="var936_h"><lem>varoitti</lem></app> häntä: <app id="var937_h"><lem>elä</lem></app> tapa Kalevan poikaa! Hän on sukua suurta, hänen <choice><orig>kansanssa</orig><reg>kanssansa</reg></choice> <app id="var938_h"><lem>katoo</lem></app> laulu ja ilo maan päältä.</p>
+  <p style="blackletter">Joukahainen mietti vähäisen, mutta ampui vihdoin. Ensimmäinen nuoli <app id="var940_h"><lem>kävi</lem></app> pilviin. Toinen meni maan sisään. Kolmas sattui Väinämöisen hevosen vasempaan lapaan, ja <app id="var941_h"><lem>ajaja</lem></app> suistui <app id="var942_h"><lem>selästä</lem></app> mereen. <app id="var943_h"><lem>Sitte kerskasi Joukahainen</lem></app> ja sanoi: <app id="var945_h"><lem>et</lem></app> sinä, vanha Väinämöinen, sinä <app id="var947_h"><lem>ilmoisna</lem></app> ikänä, kuuna kullan valkeana astu Väinölän ahoja.</p>
+  <p style="blackletter">Mutta Väinämöinen ei ollut kuollut, sillä laulun voima on kuolematon. Yhdeksän päivää ajeli häntä myrsky ympäri meren selkää ja hänen jäsenensä alkoivat <app id="var949_h"><lem>kangistua kylmästä.</lem></app> Silloin <app id="var950_h"><lem>lenti</lem></app><pb type="orig" n="226" /> ilman halki Lapin kokko, jonka <app id="var951_h"><lem>yksi</lem></app> siipi vettä viisti, toinen taivasta <app id="var952_h"><lem>lakasi.</lem></app> Kiitollinen kokko muisti vielä koivun, jonka Väinämöinen oli jättänyt kaskeensa linnuille leposijaksi, ja kantoi uroon selässään <app id="var953_h"><lem>eräälle niemelle pohjan pitkään perään.</lem></app> <app id="var953b_h"><lem>Täällä oli pienoinen Pohjolan piikatyttö</lem></app> tehnyt liiton auringon ja kuun kanssa <app id="var954_h"><lem>havataksensa</lem></app> ja noustaksensa yksin ajoin. Ennen päivän koittoa <app id="var955_h"><lem>oli hän</lem></app> jo kerinnyt kuusi villaista lammasta, <app id="var956_h"><lem>pesnyt</lem></app> pöydät, <app id="var957_h"><lem>lakasnut</lem></app> lattian ja kantanut rikat pellolle. Hän kuuli Väinämöisen valituksen, ilmoitti sen emännälle, joka <app id="var958_h"><lem>urohon nouti</lem></app> tupaan ja virvoitti häntä.</p>
+  <p style="blackletter"><app id="var959_h"><lem>Jonkun</lem></app> ajan <app id="var960_h"><lem>siellä oltuansa ikävystyi Väinämöinen vieraana elää</lem></app> vieraassa maassa ja lupasi kultaa ja hopeata, jos <app id="var962_h"><lem>hän</lem></app> vietäisiin <figure type="illustration" /> <app id="var963_h"><lem>kotitienoilleen.</lem></app> Siihen vastasi <hi rend="expanded">Louhi</hi>, Pohjolan emäntä: <app id="var964_h"><lem>kullat</lem></app> on lasten kukkasia, hopeat hevon helyjä; mutta jos tahdot takoa Sammon yhdestä joutsenen kynästä, maholehmän maitosesta,<pb type="orig" n="227" /> yhden <app id="var965_h"><lem>ohrasen</lem></app> jyvästä, yhden uuhen <app id="var966_h"><lem>villaisesta,</lem></app> niin annan sinulle tyttäreni vaimoksi ja <app id="var967_h"><lem>vien</lem></app> sinut kotiisi.</p>
+  <p style="blackletter">En taida Sampoa takoa, vastasi Väinämöinen, mutta lähetän <app id="var968_h"><lem>luoksesi<choice><orig>,</orig><reg type="empty" /></choice> veljeni Ilmarisen</lem></app> joka on takonut <app id="var969_h"><lem>taivaan kannen;</lem></app> hän <app id="var970_h"><lem>tekee mitä tahdot. Se on hyvä,</lem></app> arveli Louhi. <app id="var971_h"><lem>Minä lähetän</lem></app> sinut <app id="var972_h"><lem>kotiisi;</lem></app> mutta varo, ettet päätäsi ylennä ennenkuin hepo uupuu tai ilta ennättää, muuten kohtaa sinua <app id="var974_h"><lem>kova onni.</lem></app></p>
+  <p style="blackletter">Väinämöinen lähti hevosella ja reellä paluumatkalle, mutta ei ennättänyt kauas, <app id="var975_h"><lem>ennenkuin hän</lem></app> kuuli <app id="var976_h"><lem>surinan</lem></app> ylhäältä päänsä päältä ja <app id="var978_h"><lem>kohotti</lem></app> silmänsä <app id="var979_h"><lem>taivasta kohti. Siinä näki hän</lem></app> verrattoman kauniin Pohjan neidon istuvan <app id="var981_h"><lem>valkean-kiiltävissä</lem></app> vaatteissa <app id="var981b_h"><lem><choice><orig>taivan</orig><reg>taivaan</reg></choice> kaarella</lem></app> kehräämässä kultalankaa <app id="var982_h"><lem>kultakankaasensa.</lem></app> Ihastuneena <app id="var983_h"><lem>pyyti Väinämöinen</lem></app> kaunista neitoa astumaan maahan ja tulemaan hänelle vaimoksi. Mutta neito ilvehti ja käski hänen ensiksi <app id="var984_h"><lem>halkaiseman</lem></app> jouhen veitsellä kärettömällä, <app id="var985_h"><lem>sitte käski hän häntä vetämään</lem></app> munan solmuun, <app id="var987_h"><lem>kiskomaan</lem></app> kivestä tuohta ja vihdoin <app id="var988_h"><lem>särkemään</lem></app> jäästä aidaksia ilman <app id="var989_h"><lem>pilkkeen</lem></app> pirahtamatta. Nämä kaikki teki Väinämöinen; mutta kun neito vielä käski hänen <app id="var990_h"><lem>tekemään</lem></app> venettä <app id="var991_h"><lem>kehrävartensa</lem></app> muruista ja työntää veneen vesille ilman <app id="var992_h"><lem>siihen</lem></app> koskematta, löi Väinämöinen kirveellä polveensa, <app id="var993_h"><lem>josta jo</lem></app> ennen on kerrottu <app id="var994_h"><lem>raudan synnyn</lem></app> sadussa.</p>
+
+  <head style="blackletter"><app id="var995_h"><lem><hi rend="bold">103.</hi></lem></app><hi rend="bold"> Ilmarinen takoo Sammon.</hi></head>
+  <head type="sub" style="blackletter"><app id="var995b_h"><lem>(Kalev. 10).</lem></app></head>
+  <p style="blackletter">Väinämöinen palasi kotiin <app id="var996_h"><lem>pahoilla mielin</lem></app> siitä, että oli luvannut lähettää veljensä Ilmarisen Pohjolaan. Hän <app id="var998_h"><lem>mietti petosta</lem></app> ja lauloi tien viereen <app id="var999_h"><lem>taivaalle ylettyvän</lem></app> kuusen, jonka oksilla <app id="var1000_h"><lem>riippui kuu ja otava.</lem></app></p>
+  <p style="blackletter">Väinämöinen tapasi Ilmarisen pajassa ja houkutteli häntä katsomaan tuota <app id="var1002_h"><lem><choice><orig>kukkalatva kuusta</orig><reg>kukkalatvakuusta</reg></choice>.</lem></app> Rehellinen seppä antoi vietellä <app id="var1003_h"><lem>itsensä</lem></app> ja kiipesi kuuseen <app id="var1004_h"><lem>ottamaan alas noita taivaan valoja.</lem></app> Kuusi pilkkasi häntä ja sanoi: <app id="var1005_h"><lem>voipa</lem></app> urosta mieletöntä, lapsen lailla nousit latvaani kuvakuuta ja <app id="var1006_h"><lem>valetähtiä ottamaan!</lem></app></p>
+<pb type="orig" n="228" />
+<figure type="illustration" />
+  <p style="blackletter"><app id="var1007_h"><lem>Kohta lauloi Väinämöinen ilman raivohon, tuppuroihin tuulen,</lem></app> joka <app id="var1009_h"><lem>vei</lem></app> hänen veljensä Pohjolaan <app id="var1010_h"><lem>yli</lem></app> kuun, alatse päivän. Louhi Pohjolan emäntä otti Ilmarisen <app id="var1013_h"><lem>ilolla</lem></app> vastaan, syötti häntä, juotti häntä ja <app id="var1014_h"><lem>esitteli</lem></app> hänelle <app id="var1015_h"><lem>tytärtään,</lem></app> valittuihin <app id="var1016_h"><lem>vaatteisin</lem></app> puettuna. Saadakseen tämän vaimokseen, <app id="var1017_h"><lem>lupasi Ilmarinen</lem></app> takoa Sammon.</p>
+  <p style="blackletter"><app id="var1019_h"><lem>Tähän työhön tarvitsi hän pajan, palkeen, vasaran</lem></app> ja <app id="var1020_h"><lem>alasimen, mutta</lem></app> näitä kaluja ei ollut Pohjolassa. Ilmarinen tiesi neuvon: hän katsoi sopivan paikan kallioiden välissä ja <app id="var1021_h"><lem>laittoi</lem></app> siihen mitä <app id="var1022_h"><lem>hän tarvitsi.</lem></app> Työ alkoi, orjat <app id="var1023_h"><lem>liehtoivat.</lem></app> Kolmantena päivänä <app id="var1024_h"><lem>veti seppä</lem></app> ahjosta kultaisen jousen, mutta jousella oli pahoja <app id="var1025_h"><lem>tapoja, se tahtoi</lem></app> joka päivä <app id="var1026_h"><lem>tähdätä ihmisten päitä.</lem></app> Ilmarinen murti sen kappaleiksi, viskasi tuleen ja veti toisena päivänä <app id="var1027_h"><lem>ahjostaan</lem></app> veneen, jonka kokat olivat kullasta ja <app id="var1028_h"><lem>vaskesta hangat.</lem></app> Silläkin oli pahoja tapoja, <app id="var1029_h"><lem>se lähti</lem></app> suotta <app id="var1030_h"><lem>sotahan,</lem></app> ja <app id="var1031_h"><lem>sai mennä samaa tietä</lem></app> <app id="var1031b_h"><lem>kuin</lem></app> jousikin. Seuraavana päivänä tungeikse tulesta kultasarvinen lehmä, jolla oli auringon ja otavan merkit otsassa, mutta <app id="var1032_h"><lem>tällä</lem></app> oli tapana <app id="var1033_h"><lem>makaella</lem></app> metsässä ja kaataa maitokiulunsa. Se <app id="var1034_h"><lem>tungettiin</lem></app> tuleen, ja nyt vedettiin ahjosta kultainen aura. Tällä taas oli tapana kyntää kylän peltoja, ja se työnnettiin tuleen <app id="var1035_h"><lem>niinkuin</lem></app> muutkin. Ilmarinen pani nyt <app id="var1036_h"><lem>tuulet</lem></app> lietsomaan. Itä lietsoi, lietsoi länsi, etelä enemmän lietsoi ja <app id="var1037_h"><lem>pohjainen</lem></app> kovin porotti. <app id="var1038_h"><lem>Silloin tuli</lem></app> tuiski pajan <app id="var1039_h"><lem>ikkunasta, säkeneet säykkyivät<supplied>,</supplied></lem></app><supplied /> tomu nousi taivaalle ja savu pilvihin sakeni.</p>
+  <p style="blackletter"><app id="var1040_h"><lem>Niin</lem></app> kului kolme päivää; ja <app id="var1042_h"><lem>nyt tungeikse viimein</lem></app> Sampo <app id="var1043_h"><lem>ahjosta maalle.</lem></app> Ilmarinen lyödä lynnähytteli ja takoa taputteli taitavasti Sammon valmiiksi. <app id="var1044_h"><lem>Tämä</lem></app> oli <app id="var1045_h"><lem>salainen,</lem></app> kallis <app id="var1046_h"><lem>taika-kappale. Sammon</lem></app> yhdessä laidassa oli jauhomylly, toisessa suolamylly, kolmannessa <app id="var1047_h"><lem>oli rahamylly; siinä</lem></app> jauhoi <app id="var1048_h"><lem>se yhden</lem></app> purnun syötäviä,<pb type="orig" n="229" /> toisen myötäviä, kolmannen kotipitoja. Louhi ihastui <app id="var1049_h"><lem>tästä niin,</lem></app> että <app id="var1050_h"><lem>hän salpasi</lem></app> <app id="var1050b_h"><lem>tämän valtavan koneen</lem></app> yhdeksän lukon taakse, yhdeksän sylen syvään, vaaran vaskisen <app id="var1051_h"><lem>sisähän.</lem></app></p>
+  <p style="blackletter">Mutta kun Ilmarinen vaati <app id="var1052_h"><lem>palkintoansa, keksi Pohjolan neiti</lem></app> monta estettä. Hän ei joutanut kesäisiltä kiirehiltä; marjat oli maalla poimimatta, lahden rannat laulamatta, lehdot leikin lyömättä, ja jos hän nyt muuttaisi pois, kukapa sitten <app id="var1055_h"><lem>kunnahilla</lem></app> käkiä kukuttaisi ja <app id="var1056_h"><lem>lintusia</lem></app> laulattaisi? Ilmarinen <app id="var1057_h"><lem>tuskastui</lem></app> näihin <app id="var1058_h"><lem>epäyksiin,</lem></app> ja kun Louhi, <app id="var1059_h"><lem>joka oli toiveensa perille tullut,</lem></app> ei tahtonut estää <app id="var1060_h"><lem>Ilmarisen paluumatkaa, matkasi tämä</lem></app> veneellä takaisin omille <app id="var1062_h"><lem>maille,</lem></app> Väinölän ahoille.</p>
+
+  <head style="blackletter"><hi rend="bold"><app id="var1062b_h"><lem>104.</lem></app> Lemminkäisen <app id="var1062c_h"><lem>elämän vaiheista.</lem></app></hi></head>
+  <head type="sub" style="blackletter"><app id="var1062d_h"><lem>(Kalev. 11, 12.)</lem></app></head>
+<figure type="illustration" />
+  <p style="blackletter">Kaukoniemen kainalossa, utuisen niemen nenässä kasvoi äitinsä luona satujen lemmikki, urhokas, nuori ja kaunis Lemminkäinen, jota myös nimitettiin <app id="var1063_h"><lem>Ahdiksi (veden jumalaksi),</lem></app> Saarelaiseksi ja Kaukomieleksi. Hänellä oli kala ruokana, ja hänestä tuli komea, punaverinen nuorukainen, <app id="var1064_h"><lem>jolla oli musta tukka, oivallinen pää</lem></app> ja <app id="var1065_h"><lem>voimakas käsi.</lem></app> Mutta hänen <app id="var1066_h"><lem>luontonsa</lem></app> oli meren aaltojen kaltainen, huikentelevainen, kopea, ja siksi <app id="var1067_h"><lem>joutui hän</lem></app> moniin <app id="var1068_h"><lem>seikkoihin,</lem></app> jotka eivät aina olleet miehen ja uroon <app id="var1069_h"><lem>töiksi arvollisia.</lem></app></p>
+  <p style="blackletter">Saarella nimettömällä asui siihen aikaan kaunis <app id="var1070_h"><lem>neito</lem></app> <hi rend="expanded">Kyllikki</hi>, jonka <app id="var1071_h"><lem>jäykkyys</lem></app> kaikkia <app id="var1072_h"><lem>kosioita</lem></app> kohtaan oli<pb type="orig" n="230" /> niin tunnettu, että kerrottiin auringon, kuun ja tähden turhaan <app id="var1073_h"><lem><choice><orig>hänta</orig><reg>häntä</reg></choice> kosineen pojillensa.</lem></app> Kaikki tämä tuli Lemminkäisen tiedoksi; hän päätti vastoin äitinsä neuvoa saada tämän ylpeän neidon vaimokseen ja lähti matkaan niemelle nimettömälle.</p>
+  <p style="blackletter">Alku ei ollut <app id="var1076_h"><lem>mitä parahin.</lem></app> Lemminkäinen tuli Saareen ja ajoi veräjään rekensä kumoon. Ilvehtien sanoivat Saaren tyttäret, että sellainen uros saisi <app id="var1077_h"><lem>lyödä leikkiä paimenpoikana palolla.</lem></app> Mitä huoli <app id="var1078_h"><lem>Lemminkäinen,</lem></app> rupesi paimeneksi. Mutta hänen mielensä paloi <app id="var1079_h"><lem>Kyllikissä,</lem></app> hänen tähtensä hän <app id="var1080_h"><lem>sata saapasta kulutti,</lem></app> sadat airot poikki souti. Tuo <app id="var1081_h"><lem>ylevä</lem></app> Saaren <app id="var1082_h"><lem>neiti ei suostunut</lem></app> hänen <app id="var1083_h"><lem>rakkauteensa. Hän ei</lem></app> sanonut <app id="var1084_h"><lem>hänelle vaimoksi ennen joutavansa, kun</lem></app> oli kiven kuluksi jauhanut, petkeleen periksi piessyt ja huhmaren sukuksi survonut.</p>
+  <p style="blackletter"><app id="var1085_h"><lem>Oli</lem></app> aikaa <app id="var1086_h"><lem>vähäisen,</lem></app> niin karkelivat neitoset eräänä iltana mannerpuolella saloa, Kyllikki ylinnä muita. Lemminkäinen silloin ajoi valitulla <app id="var1087_h"><lem>varsallansa</lem></app> keskelle kisaketoa, ja koppoi Kyllikin <app id="var1089_h"><lem>korjahansa.</lem></app> Kyllikki rukoili, uhkasi; viimein <app id="var1090_h"><lem>alkoi hän suostua.</lem></app> Lemminkäinen vannoi ei enää käyvänsä sotia ja <app id="var1092_h"><lem>neiti</lem></app> vannoi ei enää menevänsä <app id="var1093_h"><lem>hyvälläkään halulla kylän</lem></app> karkeloihin. Niin vei Lemminkäinen nuoren <app id="var1094_h"><lem>puolison kotiinsa, jossa</lem></app> äiti otti heidät ystävällisesti vastaan, ja he elivät <app id="var1095_h"><lem>jonkun ajan onnellisina</lem></app> Kaukoniemellä.</p>
+  <p style="blackletter">Kerran <app id="var1096_h"><lem>viipyi Lemminkäinen</lem></app> kauan <app id="var1097_h"><lem>kalastuksella.</lem></app> Aika kävi Kyllikille pitkäksi, ja hän meni <app id="var1098_h"><lem>leikittelemään</lem></app> kylän nuorison seuraan. Lemminkäisen sisar Ainikki ei <app id="var1100_h"><lem>malttanutkaan</lem></app> olla tätä <app id="var1101_h"><lem>sanomatta,</lem></app> ja Lemminkäinen kotiin tullessaan suuttui ja <app id="var1102_h"><lem>sydäntyi tuosta.</lem></app> Äiti, <app id="var1103_h"><lem>sanoi hän, laita</lem></app> minulle sauna; Kyllikki on rikkonut valansa, <app id="var1104_h"><lem>ja minä</lem></app> matkustan Pohjolaan <app id="var1105_h"><lem>noutamaan</lem></app> sieltä <app id="var1106_h"><lem>toisen vaimon.</lem></app> Ota minun harjani, ja silloin on hukka Lemminkäisen, kun harja hurmehin valuvi.</p>
+  <p style="blackletter">Turhaan itki Kyllikki, turhaan rukoili ja varoitti äiti. Lemminkäinen <app id="var1107_h"><lem>vyöteleiksi</lem></app> rautapaitoihin ja teräsvöihin, <app id="var1108_h"><lem>sitoi sivulleen</lem></app> terävän miekkansa eikä <app id="var1109_h"><lem>unohtanut</lem></app> mahtavilla <app id="var1110_h"><lem>noitasanoilla</lem></app> varaella itseään vihollisista. Yhden ainoan hän unohti: sanat <app id="var1111_h"><lem>kärmeen pistoa</lem></app> vastaan. Ylpeänä taidostaan <app id="var1112_h"><lem>vihelti hän</lem></app> hevosensa viidakosta ja ajoi Pohjolaan. Siellä <app id="var1113_h"><lem>kuuli hän</lem></app> laulua ja soittoa suuresta tu<pb type="orig" n="231" />vasta. <app id="var1114_h"><lem>Rohkeasti astui hän</lem></app> sisään ja lauloi itse niin mahtavasti, että turkinhelmat iskivät <app id="var1116_h"><lem>tulta,</lem></app> silmät valoivat valkeata. Hän lauloi Rutjan koskeen nuoret ja vanhat, miehet miekkoinensa, <app id="var1117_h"><lem>uroot</lem></app> aseinensa. Yhden ainoan pahaisen heitti <app id="var1118_h"><lem>hän laulamatta, se oli Ulappalan sokea paimen.</lem></app> Mutta sellaista häpeätä ei paimen <app id="var1119_h"><lem>voinut</lem></app> kärsiä: hän lähti pois ja meni Tuonelan joelle Lemminkäistä <app id="var1120_h"><lem>vuottamaan.</lem></app></p>
+
+  <head style="blackletter"><app id="var1121_h"><lem><hi rend="bold">105.</hi></lem></app><hi rend="bold"> Lemminkäisen surma.</hi></head>
+  <head type="sub" style="blackletter"><app id="var1121b_h"><lem>(Kalev. 13, 14, 15).</lem></app></head>
+  <p style="blackletter">Ylpeänä urotöistään <app id="var1122_h"><lem>kysyi Lemminkäinen</lem></app> Pohjolan kaunista tytärtä vaimokseen. <app id="var1123_h"><lem>Ei,</lem></app> vastasi äiti, häntä ei saa kukaan muu kysyä, kuin se, joka on hiihtänyt Hiiden <app id="var1125_h"><lem>sukkelan</lem></app> hirven. Lemminkäinen otti suksensa, liukkaat kuin <app id="var1126_h"><lem>kärmeet,</lem></app> ja <app id="var1127_h"><lem>hiihti,</lem></app> että <app id="var1128_h"><lem>säkeneet suihkivat</lem></app> ympäri <app id="var1129_h"><lem>Lapinmaata.</lem></app> Hirvi pääsi pakoon, sukset taittuivat. Ei ollut enää muuta keinoa, kuin pyytää uusia suksia Ukolta ja rukoilla Tapion pienoista <app id="var1131_h"><lem>neitoa</lem></app> simapillillä herättämään <app id="var1132_h"><lem>nukkuvan metsän emännän.</lem></app> Mielikki heräsi, Tapio vaatetti metsän hopeaan, ja metsästäjä palasi <app id="var1133_h"><lem>hiihtämänsä hirven kanssa</lem></app> Pohjolaan.</p>
+  <p style="blackletter">Vielä puuttuu jotakin, sanoi Pohjolan emäntä. <app id="var1135_h"><lem>Ennenkuin</lem></app> saat tyttäreni, pitää sinun suistaa Hiiden ruskea, tulta <app id="var1136_h"><lem>säihkyvä</lem></app> hevonen. Lemminkäinen otti <app id="var1137_h"><lem>kulta-ohjakset</lem></app> ja hopeisen marhaminnan ja näki <app id="var1138_h"><lem>kuusikolla</lem></app> hevosen, jonka tukka tulta tuiski, harja savua suihki. Eipä ollut muuta neuvoa kuin rukoilla Ukkoa <app id="var1139_h"><lem>laskemaan</lem></app> rautaisia rakeita liekkien jäähdyttämiseksi, ja rakeista säikähtyneenä <app id="var1140_h"><lem>pisti hevonen</lem></app> hyvällä päänsä kultaisiin <app id="var1141_h"><lem>suitsihin.</lem></app></p>
+  <p style="blackletter">Vielä et saa tytärtäni, sanoi <app id="var1142_h"><lem>Pohjan</lem></app> emäntä, ennenkuin ammut yhden nuolen nostamalla kauniin joutsenen Tuonelan joesta. – Lemminkäinen lähti Tuonelaan. <app id="var1143_h"><lem>Mutta</lem></app> <app id="var1143b_h"><lem>täällä</lem></app> väijyi häntä Pohjolan sokea paimen, <app id="var1144_h"><lem>otti kyykärmeen</lem></app> vedestä ja ampui sen nuoren uroon maksan läpi. <app id="var1145_h"><lem>Myöhään</lem></app> katui nyt Lemminkäinen, <app id="var1146_h"><lem>kun ei</lem></app> muistanut kysyä <app id="var1147_h"><lem>kärmeen</lem></app> sanoja, ja <app id="var1148_h"><lem>muisteli</lem></app> kuollessaan rakastettua äitiänsä.<pb type="orig" n="232" /> Paimen syöksi hänet Tuonen mustaan jokeen, ja siinä hänet Tuonen <app id="var1149_h"><lem>verihimoinen</lem></app> poika löi kappaleiksi hirmuisella miekallansa.</p>
+  <p style="blackletter"><app id="var1150_h"><lem>Tällä</lem></app> välin <app id="var1151_h"><lem>oli Lemminkäisen äiti ja hänen hyljätty puolisonsa</lem></app> joka päivä <app id="var1154_h"><lem>levottomuudella</lem></app> silmäilleet tuota ennustavaista harjaa. Eräänä aamuna <app id="var1155_h"><lem>näkivät he harjan verta vuotavan.</lem></app> Äiti kokosi kourin helmansa ja juoksi <app id="var1156_h"><lem>pitkät matkat kadonnutta poikaansa etsimään.</lem></app> Rakkaus <app id="var1157_h"><lem>häntä joudutti,</lem></app> hänen juostessaan mäet mätkyivät, norot nousivat, vaarat vaipuivat. Viimein <app id="var1158_h"><lem>tuli hän</lem></app> Pohjolaan. Missä on minun poikani? En tiedä, sanoi emäntä, <app id="var1159_h"><lem>kentiesi</lem></app> ovat karhut ja sudet <app id="var1160_h"><lem>repineet hänet jäällä. Tahi</lem></app> lienee <app id="var1161_h"><lem>tuo katala</lem></app> raukka hukkunut <app id="var1162_h"><lem>kuohuvihin</lem></app> koskiin.</p>
+  <p style="blackletter">– Jo vainen <app id="var1163_h"><lem>valehtelitki,</lem></app> sanoi äiti, lausu tarkkoja tosia, taikka surmasi tulevi.</p>
+  <p style="blackletter">Nyt <app id="var1165_h"><lem>täytyi Pohjan emännän</lem></app> kertoa Lemminkäisen vaaralliset <app id="var1167_h"><lem>retket.</lem></app> Äiti lähti etsimään kadonneen jälkiä. Hän raivasi tieltään kannot ja kivet, juoksi suuret suot, samosi vetten halki, kysyi hongilta, tieltä ja kuulta. Kaikki sanoivat itsellään olevan kyllin huolta omista tehtävistään. Mutta armas aurinko kertoi hänelle Lemminkäisen onnettoman lopun.</p>
+  <p style="blackletter">Äiti sai silloin Ilmariselta vaskisen haravan, jonka piit olivat <app id="var1168_h"><lem>sataa</lem></app> syltä pitkät. Aurinko lähetti hiostavan helteen pimeään <app id="var1169_h"><lem>Tuonelahan</lem></app> ja nukutti <app id="var1170_h"><lem>Tuonen</lem></app> kansan. Äiti meni poikaansa haravoimaan Tuonen mustasta virrasta, joka juoksee Manalan halki. Kauan <app id="var1171_h"><lem>teki hän</lem></app> työtä väsymättä ja löysi viimein lemmittynsä paloitetun ruumiin. Heitä mies <app id="var1172_h"><lem>vetehen, huusi</lem></app> korppi: siika on syönyt häneltä silmät, hauki on hartiat <app id="var1173_h"><lem>halaisnut.</lem></app> Mutta äiti ei <app id="var1174_h"><lem>epäile.</lem></app> Hän rukoili suonten hoitajatarta, soreata Suonetarta, solmeilemaan kuolleen suonet; rukoili <app id="var1176_h"><lem>Jumalata</lem></app> liittämään luut <app id="var1177_h"><lem>lihoa</lem></app> myöten; rukoili mehiläistä tuomaan mettä Tapiolasta. Kaikki kuulivat hänen rukouksensa. Mehiläinen lensi yhdeksän meren ylitse ja palasi <app id="var1178_h"><lem>takasin,</lem></app> sylissä seitsemän kuppia täynnä voiteita. Kuolleen ruumis parani, mutta henkeä <app id="var1179_h"><lem>ei siinä</lem></app> ollut.</p>
+  <p style="blackletter">Taas <app id="var1180_h"><lem>lähetti äiti</lem></app> mehiläisen ylös tähtien välitse Luojan kellareihin, joissa hyvät henget valmistelivat hopeisissa kattiloissa voiteita, ja sieltä palasi mehiläinen <app id="var1181_h"><lem>kallisten voidetten kanssa takasin.</lem></app><pb type="orig" n="233" /> Lemminkäinen heräsi ikäänkuin unesta. Kauan olen nukkunut, <app id="var1182_h"><lem>sanoi hän.</lem></app> Olet, sanoi hänen armas hoitajansa, vielä kauemmin olisit nukkunut, <app id="var1183_h"><lem>jos ei</lem></app> äiti raukkasi olisi valvonut sinun tähtesi.</p>
+  <p style="blackletter">– Oi, huokasi Lemminkäinen, sydämeni on tuolla <app id="var1184_h"><lem>Pohjolan</lem></app> neitosissa. Vielä en ole ampunut <app id="var1185_h"><lem>Tuonen</lem></app> joutsenta.</p>
+  <p style="blackletter">– Heitä herjät joutsenesi, torui äiti, ja kiitä onneasi ja julkista <app id="var1186_h"><lem>Jumalatasi,</lem></app> sillä itsestäni en minä ole voinut mitään. Jumala ainoastaan <app id="var1187_h"><lem>voipi</lem></app> kuolleet Tuonen tuvilta <app id="var1188_h"><lem>henkiin herättää.</lem></app></p>
+  <p style="blackletter">Ja he palasivat kotiin.</p>
+
+  <head style="blackletter"><app id="var1189_h"><lem><hi rend="bold">106.</hi></lem></app><hi rend="bold"> Väinämöinen Tuonelassa.</hi></head>
+  <head type="sub" style="blackletter"><app id="var1189b_h"><lem>(Kalev. 16).</lem></app></head>
+  <p style="blackletter">Väinämöinen olisi veistänyt <app id="var1190_h"><lem>veneen, vaan</lem></app> puuttui <app id="var1191_h"><lem>puita ja lautoja.</lem></app> Pellon poika, Sampsa Pellervoinen, lähti etsimään metsästä puita ja tuli haavan luokse. Älä minuun koske, sanoi haapa; kolmasti tänä kesänä <app id="var1193_h"><lem>söi toukka <choice><orig>sydämmyeni</orig><reg>sydämmeni</reg></choice>,</lem></app> vuotava <app id="var1194_h"><lem>vene</lem></app> minusta tulee ja pursi <app id="var1195_h"><lem>putoavainen.</lem></app> Sampsa tuli hongan luokse. Älä minuun koske sanoi honka; minä olen honka huolainniekka, kolmasti tänä kesänä korppi koikkui latvassani. Sampsa meni tammen luokse, ja tammi sanoi olevansa aivan vikautumaton; käki <app id="var1197_h"><lem>vaan</lem></app> sen oksilla oli kukkunut ja linnut lehvillä <app id="var1198_h"><lem>levännyt.</lem></app> Sampsa kaatoi tammen, ja Väinämöinen alkoi laulamalla <app id="var1199_h"><lem>venettä veistää.</lem></app></p>
+  <p style="blackletter">Hän oli jo <app id="var1200_h"><lem>pannut</lem></app> pohjan ja liittänyt laidat, kun havaitsi <app id="var1201_h"><lem>puuttuvansa kolmea sanaa saadakseen parraspuut päätetyiksi.</lem></app> Mistäpä hän saisi <app id="var1203_h"><lem>nämät</lem></app> sanat? Saisiko pääskysen päälaelta, joutsenkarjan juonen päästä, hanhilauman hartioilta? Hän tappoi pääskysiä, joutsenia ja hanhia <app id="var1204_h"><lem>laumottain,</lem></app> mutta ei saanut <app id="var1205_h"><lem>sanaa puoltakaan.</lem></app> Hän etsi sanoja kesäpeuran kielen alta, suusta valkean oravan, sai monta sanaa, mutta kaikki avuttomia. <app id="var1206_h"><lem>Sitte päätti hän</lem></app> etsiä sanoja Tuonen pimeästä kodista, Manalan ikimajoista.</p>
+  <p style="blackletter">Väinämöinen lähti matkaan, kulki kolme viikkoa vitsikkoa, tuo<pb type="orig" n="234" />mikkoa ja katajikkoa: <app id="var1208_h"><lem>jo näki hän</lem></app> kaukana Manalan saaren Tuonen mustassa virrassa ja huusi Tuonen tytärtä tuomaan hänelle <app id="var1210_h"><lem>lautan.</lem></app> Tuonen pieni tytär pesi poukkuja rannalla, ja kysyi miksi hän taudin tappamatta, <app id="var1213_h"><lem>muun surman</lem></app> musertamatta oli tullut <app id="var1214_h"><lem>Manan</lem></app> majoille. Väinämöinen vastasi <app id="var1215_h"><lem>kielastellen:</lem></app> Tuoni <app id="var1216_h"><lem>minun</lem></app> tänne tuotti, Mana mailtani veteli, rauta mun Manalle saattoi, vesi ja valkea toivat <app id="var1217_h"><lem>minun</lem></app> Manalaan. Mutta Tuonen neitoa ei ollut niin helppo pettää. Jos Tuoni olisi tuonut sinut tänne, olisi sinulla Manan kintahat kädessä; jos rauta olisi <app id="var1218_h"><lem>tappanut sinut,</lem></app> niin verin vaatteesi valuisi; jos vesi olisi sinut hukuttanut, niin vesin helmasi herahteleisi; jos tuli olisi <app id="var1219_h"><lem>polttanut sinut,</lem></app> olisihan partasi palanut. Väinämöisen täytyi tunnustaa, että reki oli <app id="var1220_h"><lem>rikkounut</lem></app> runoilta ja jalas taittunut lausehilta. Voi hullua miestä, sanoi Tuonen neito, kun tulet syyttä ja tauditta <app id="var1221_h"><lem>Manan majoille.</lem></app> Palaa <app id="var1222_h"><lem>heti omille maille, paljo</lem></app> on tänne tullehia, ei <app id="var1223_h"><lem>paljo</lem></app> palannehia.</p>
+  <p style="blackletter">Väinämöinen vastasi: <app id="var1224_h"><lem>akka</lem></app> tieltä kääntyköhön, ei mies pahempikaan. <app id="var1225_h"><lem>Nyt saatettiin Väinämöinen</lem></app> mustan virran poikki. Tuonelassa tarjottiin vieraalle olutta, mutta matoja ja sammakoita mateli juomatuopissa. Sanoja ei hänelle aiottu antaa, ja sanottiin ettei hän täältä pääsisi sinä ilmoisna ikänä <app id="var1228_h"><lem>kotihinsa</lem></app> kulkemaan.</p>
+  <p style="blackletter">Väinämöinen uuvutettiin <app id="var1229_h"><lem>unehen,</lem></app> mutta mies makasi, vaate valvoi. Tuonelassa oli vanha käykkäleuka akka ja kolmisormi ukko. Akka kehräsi vaskilankoja, ukko kutoi niistä <app id="var1230_h"><lem>sataisen pitkän</lem></app> nuotan. Tuonen rautanäppi poika veti nuotan vinoon Tuonelan joen poikki, <app id="var1231_h"><lem>ettei</lem></app> Väinämöinen pääsisi pakenemaan. Mutta Väinämöinen, havaittuaan <app id="var1233_h"><lem>tuhonsa tulevan</lem></app> muuttelihe <app id="var1234_h"><lem>kärmeeksi</lem></app> ja luikerteli vaarallisen <app id="var1235_h"><lem>verkon</lem></app> <app id="var1235b_h"><lem>läpitse.</lem></app> Aamulla <app id="var1236_h"><lem>meni Tuonen poika</lem></app> kokemaan nuottaansa. Sai siitä <app id="var1238_h"><lem>sadan</lem></app> taimenia ja <app id="var1239_h"><lem>tuhannen</lem></app> pieniä kaloja, mutta Kalevan uros oli <app id="var1240_h"><lem>pääsnyt</lem></app> pakoon ja palannut onnellisesti kotiinsa.</p>
+  <p style="blackletter"><app id="var1241_h"><lem>Hyvin iloinen oli <choice><orig>Väinämäinen</orig><reg>Väinämöinen</reg></choice>, kun</lem></app> näin <app id="var1243_h"><lem>oli päässyt</lem></app> kuoleman pauloista. Älköhön, <app id="var1244_h"><lem>sanoi hän,</lem></app> älköhön hyvä Jumala sitä suvaitko, <app id="var1245_h"><lem>itse-mennyttä Manalle; paljo</lem></app> on sinne saanehia, vähän sieltä tullehia. Ja <app id="var1246_h"><lem>älköhön</lem></app> kukaan tehkö syytä syyttömälle, sillä pahoin palkka <app id="var1247_h"><lem>maksetahan</lem></app> Tuonelan kodissa: vuode on siellä kuumista kivistä, peitto kyistä ja <app id="var1248_h"><lem>kärmehistä</lem></app> kudottu.</p>
+<pb type="orig" n="235" />
+  <p style="blackletter"><app id="var1249_h"><lem>Sitte</lem></app> kertoo toinen <app id="var1250_h"><lem>satu,</lem></app> kuinka Väinämöinen voimallisella laulullaan herätti <app id="var1251_h"><lem>kuolleen</lem></app> jättiläisen, Vipusen, ja vaati häneltä nuo <app id="var1252_h"><lem>kolmet sanat.</lem></app> Jättiläinen <app id="var1253_h"><lem>nielasi tuon</lem></app> liian rohkean laulajan suureen kitaansa, mutta Väinämöinen laati hänen vatsaansa pajan ja vaivasi jättiläistä siksi, <app id="var1254_h"><lem>että</lem></app> tämän täytyi ilmoittaa hänelle sanat ja päästää hänet <app id="var1255_h"><lem>vapauteen.</lem></app></p>
+  <p style="blackletter">Nyt <app id="var1256_h"><lem>sai Väinämöinen</lem></app> veneensä valmiiksi, <app id="var1257_h"><lem>eikä</lem></app> tarvinnut siihen nauloja eikä kirvestä. Vene syntyi veistämättä, laiva lastun ottamatta.</p>
+
+  <head style="blackletter"><app id="var1258_h"><lem><hi rend="bold">107.</hi></lem></app><hi rend="bold"> Ilmarinen </hi><app id="var1259_h"><lem><hi rend="bold">saapi</hi></lem></app><hi rend="bold"> Pohjan neidon.</hi></head>
+  <head type="sub" style="blackletter"><app id="var1260_h"><lem>(Kalev. 18–25).</lem></app></head>
+  <p style="blackletter">Väinämöinen pani haahden <app id="var1261_h"><lem>haljakkahan,</lem></app> kuvasi kokat kullalla ja purjehti kosiomatkalle Pohjolaan. Annikki, hyväniminen yön tytti, hämärän neiti, näki hänen purjehtivan, urkki häneltä <app id="var1263_h"><lem>toet</lem></app> totiset ja ilmoitti ne veljelleen Ilmariselle. Tämä kiirehti Väinämöisen jälkeen, tapasi hänet ja teki hänen kanssansa sellaisen sopimuksen, että <app id="var1264_h"><lem>Pohjan</lem></app> neito saisi valita heistä kumman tahtoisi.</p>
+  <p style="blackletter">Pohjolan isäntä, kuultuaan linnan hallin haukkuvan, panetti pihlajaisia puita takkaan ja sanoi: <app id="var1266_h"><lem>jos</lem></app> puista vuotaa verta, tulee sota, mutta jos vettä vuotaa, saamme elää rauhassa. Ei verta eikä vettä, vaan mettä vuoti pyhästä pihlajapuusta. Kosiomiehet olivat <app id="var1268_h"><lem>terveet tulleet,</lem></app> äiti koetti houkutella tytärtään menemään viisaalle ja rikkaalle Väinämöiselle eikä <choice><orig>kyöhälle</orig><reg>köyhälle</reg></choice> Ilmariselle. Neito vastasi: <app id="var1270_h"><lem>en</lem></app> mene osan <choice><orig>hyyvyydelle</orig><reg>hyvyydelle</reg></choice>, enkä miehen mielevyydelle; menen <app id="var1272_h"><lem>hänelle,</lem></app> joka on meille <app id="var1273_h"><lem><choice><orig>sammon</orig><reg>Sammon</reg></choice></lem></app> takonut, kirjokannen kalkutellut. Niin sai Ilmarinen neidon sydämen.</p>
+  <p style="blackletter">Mutta Pohjolan emäntä viekasteli. Morsian ei ollut vielä valmiina; hänen jalkansa oli vielä kesken kenkimistä. Sillä aikaa <app id="var1274_h"><lem>pitäisi Ilmarisen</lem></app> kyntää kyinen pelto ilman auran nostamatta.</p>
+  <p style="blackletter">Ilmarinen kysyi apua morsiameltaan, ja tämä antoi hyviä neuvoja. Ilmarinen <app id="var1275_h"><lem>takoi</lem></app> kultaisen auran, rautaiset jalkineet, rauta<pb type="orig" n="236" />paidan, rautakintaat ja <app id="var1276_h"><lem>näin kynti hän</lem></app> kyisen pellon. Sitten määrättiin hänelle toinen koetustyö: hänen piti tuoda Tuonen karhu ja suistaa Manalan susi, joka <app id="var1277_h"><lem>jo oli</lem></app> tappanut sata urosta. Tämäkin <app id="var1278_h"><lem>keino</lem></app> onnistui; seppä teki neidon neuvon mukaan <app id="var1279_h"><lem>teräksestä</lem></app> suitset, ja ututyttö, Terhenetär, seuloi sumua kentälle. Mutta <app id="var1280_h"><lem>vieläkin</lem></app> pantiin hänelle kovin koetus: hänen piti pyytää suuri hauki Tuonelan joesta.</p>
+  <p style="blackletter">Ilmarinen takoi itselleen tulisen vaakalinnun ja <app id="var1281_h"><lem>laskeusi</lem></app> jokeen. <app id="var1282_h"><lem>Siinä syntyi</lem></app> kauhea taistelu. Vetehinen, veden hirviö tuli avuksi <app id="var1284_h"><lem>hau’ille,</lem></app> jonka kita oli kolmen kosken verta, ja ilman kokon avutta <app id="var1285_h"><lem>olisi se</lem></app> niellyt Ilmarisen. Mutta kokko painoi <app id="var1286_h"><lem>Vetehisen</lem></app> <app id="var1286b_h"><lem>veden pohjaan</lem></app> ja iski kyntensä <app id="var1287_h"><lem>hau’in</lem></app> niskaan. Ylpeänä <app id="var1288_h"><lem>vei Ilmarinen hau’in</lem></app> pään Pohjolaan.</p>
+  <p style="blackletter">Nyt <app id="var1289_h"><lem>viimein suostui Pohjolan emäntä väkinäisesti</lem></app> häiden pitoon. Alla päin, pahoilla mielin purjehti Väinämöinen kotiinsa, varoittaen kaikkia vanhoja miehiä koskaan kilvoin neittä kosimasta nuorten urosten keralla.</p>
+  <p style="blackletter">Pohjolassa <app id="var1291_h"><lem>laitettiin</lem></app> suuret pidot. Karjalasta tuotiin tavattoman suuri härkä: sen pää keikkui Kemijoella, <app id="var1293_h"><lem>Hämehessä häntä häilyi,</lem></app> ja pääskynen tarvitsi päivän lentääksensä sarvien väliä. Eipä uskaltanut kukaan teurastaa sellaista härkää; mutta <app id="var1294_h"><lem>mies musta merestä nousi,</lem></app> joka alle maljan maata mahtui, alle seulan seisomahan, sillä oli kivestä hattu, kivestä kengät ja veitsi kultainen kädessä. Hän teurasti härän; <app id="var1296_h"><lem>leipiä</lem></app> leivottiin, olutta pantiin, kun ensin <app id="var1297_h"><lem>saatiin</lem></app> tietää oluen synty. Kun kaikki tämä oli tehty, lähetettiin <app id="var1298_h"><lem>Pohjolan pienoinen</lem></app> palkkapiika kutsumaan häävieraita, muun muassa sokeita ja rampoja, mutta etenkin vanhaa Väinämöistä. Lemminkäinen yksinään jätettiin häihin kutsumatta.</p>
+  <p style="blackletter">Vieraat tulivat ja heitä kestittiin parhaalla tavalla. Monta kaunista laulua laulettiin, ja Väinämöinen kiitti Luojan viisautta, joka muuttaa meren virrat mesiksi, suoloiksi meren somerot, lehdot laajat leipämaiksi. Sitten <app id="var1301_h"><lem>vei Ilmarinen morsiamen</lem></app> kotiinsa, heidät otettiin vastaan <app id="var1302_h"><lem>suurella kunnioituksella,</lem></app> ja he elivät kauan yhdessä onnellisina.</p>
+  <p style="blackletter">Kaikesta tästä on monta kaunista runoa. <app id="var1303_h"><lem>Toinen satu kertoo<pb type="orig" n="237" /> Lemminkäisen vihasta,</lem></app> kun häntä ei kutsuttu häihin, <app id="var1304_h"><lem>kuinka</lem></app> hän kopeasti tuli Pohjolaan kostamaan tätä häpeätä, mutta <app id="var1305_h"><lem>täytyi urhoollisesti</lem></app> taisteltuaan välttää väkevämpäänsä. Tästä syntyi sitten pitkällinen sota.</p>
+
+  <head style="blackletter"><app id="var1306_h"><lem><hi rend="bold">108.</hi></lem></app> <app id="var1306b_h"><lem><hi rend="bold">Satu</hi></lem></app><hi rend="bold"> Kullervosta.</hi></head>
+  <head type="sub" style="blackletter"><app id="var1307_h"><lem>(Kalev. 31–36).</lem></app></head>
+  <p style="blackletter">Karjalassa asui kaksi veljestä, Untamo ja Kalervo. Nämä joutuivat sotaan <app id="var1308_h"><lem>kalavedestä</lem></app> ja <app id="var1309_h"><lem>halmemaasta; sota</lem></app> päättyi niin, että Untamo tappoi veljensä Kalervon suvun ja poltti hänen talonsa. Kalervon onneton vaimo vietiin orjaksi <app id="var1310_h"><lem>ja</lem></app> synnytti vähän ajan kuluttua pojan, jolle pantiin <hi rend="expanded">Kullervo</hi> nimeksi. <app id="var1311_h"><lem>Tällä pojalla</lem></app> oli jo pienenä <app id="var1312_h"><lem>erinomainen voima.</lem></app> Kolmen päivän vanhana <app id="var1313_h"><lem>repi hän</lem></app> kapalovyönsä ja särki kätkyensä. Untamo ihastui hänen voimastansa ja luuli saavansa hänestä väkevän orjan, tuhansien vertaisen.</p>
+  <p style="blackletter">Kun poika oli polven korkuinen, <app id="var1314_h"><lem>alkoi hän</lem></app> jo miettiä <app id="var1315_h"><lem>kostoa</lem></app> isänsä <app id="var1316_h"><lem>kuolemasta</lem></app> ja äitinsä <app id="var1317_h"><lem>orjuudesta.</lem></app> Tämän havaitsi Untamo, <app id="var1318_h"><lem>pelkäsi veren kostoa,</lem></app> pani pojan tynnyriin ja heitti <app id="var1319_h"><lem>sen</lem></app> veteen. Kolmen päivän perästä kun käytiin katsomaan, <app id="var1321_h"><lem>näki hän</lem></app> pojan istuvan <app id="var1322_h"><lem>aaltojen</lem></app> selässä, vapa vaskinen kädessä. Untamo teki suuren rovion tervaksista ja tuohista; rovio sytytettiin ja poika viskattiin tuleen, mutta kolmen päivän perästä <app id="var1323_h"><lem>nähtiin hänen</lem></app> hiilikoukulla <app id="var1324_h"><lem>kekäleitä kohentelevan</lem></app> karvankaan katoamatta, kutrisen kähertymättä. Nyt <app id="var1325_h"><lem>antoi Untamo hirttää</lem></app> pojan puuhun, mutta <app id="var1326_h"><lem>tapasi hänen</lem></app> iloisena piirtämässä kuvia puun <app id="var1327_h"><lem>kuoreen.</lem></app> Untamo <app id="var1328_h"><lem>väsyi</lem></app> suorimasta surmiansa ja sanoi: <app id="var1329_h"><lem>jos</lem></app> elät kauniisti ja siivolla, niin saat olla talossa ja <app id="var1330_h"><lem>orjan töitä toimitella.</lem></app></p>
+  <p style="blackletter">Kullervo kasvoi väkeväksi ja toimitti huonosti <app id="var1331_h"><lem>orjan tehtävänsä. Hän</lem></app> pantiin lapsen <app id="var1332_h"><lem>katsontahan;</lem></app> mutta hän katkoi lapsen käden, kaivoi <app id="var1333_h"><lem>silmän,</lem></app> tapatti sen taudilla ja poltti kätkyen tulella. <app id="var1334_h"><lem>Nyt pantiin Kullervo kasken kaadantaan;</lem></app> mutta hän kaatoi maahan<pb type="orig" n="238" /> koko metsän. <app id="var1336_h"><lem>Nyt määrättiin hän aidan panohon:</lem></app> hän <app id="var1338_h"><lem>sai</lem></app> kokkahongat aidaksiksi ja korpikuuset seipäiksi ja teki <app id="var1339_h"><lem>aidan aukottoman. Hän</lem></app> pantiin puimaan rukiita, <app id="var1340_h"><lem>ja</lem></app> pui <app id="var1341_h"><lem>rukiit</lem></app> ruumeniksi. Viimein <app id="var1342_h"><lem>suuttui Untamo</lem></app> ja myi tämän <app id="var1343_h"><lem>vallattoman</lem></app> orjan halvasta hinnasta Ilmariselle.</p>
+  <p style="blackletter">Kullervo pantiin nyt paimentamaan talon karjaa <app id="var1344_h"><lem>ja</lem></app> sai emännältä evääkseen leivän, johon oli <app id="var1345_h"><lem>kivi leivottu keskelle.</lem></app> Kullervo <app id="var1347_h"><lem>paimenti</lem></app> karjaa, rupesi illalla syömään ja <app id="var1348_h"><lem>kasahutti</lem></app> isänsä veitsen kiveen. Surusta ja vihasta tuimistuneena <app id="var1349_h"><lem>sorti hän</lem></app> karjan <app id="var1350_h"><lem>leväsuohon</lem></app> kuolemaan, <app id="var1351_h"><lem>lausui</lem></app> sudet lehmiksi, karhut karjaksi ja ajoi ne taloon. Ilmarisen vaimo meni lypsämään lehmiään, ja pedot repivät hänet kuoliaaksi. Se oli meno nuoren naisen, tuon ihaillun ja ikävöidyn <app id="var1352_h"><lem>Pohjolan</lem></app> neidon. Häntä ei voinut Ilmarinen koskaan <app id="var1353_h"><lem>unohtaa,</lem></app> ja hänen mielensä oli musta kuin pajan sysi.</p>
+  <p style="blackletter">Tämän raivotyön tehtyään <app id="var1354_h"><lem>pakeni Kullervo henkipattosena</lem></app> metsiin ja tuli viimein <app id="var1355_h"><lem>piilo-pirttiin,</lem></app> jossa löysi vanhempansa, jotka <app id="var1356_h"><lem>luuli jo</lem></app> kuolleiksi. Hän tahtoi nyt rehellisesti tehdä työtä, mutta pahasti kasvatettuna <app id="var1357_h"><lem>teki hän</lem></app> kaikki <app id="var1358_h"><lem>nurin.</lem></app> Veneen <app id="var1359_h"><lem>souti hän</lem></app> rikki, nuotan <app id="var1360_h"><lem>tarpoi hän</lem></app> tappuroiksi; viimein <app id="var1361_h"><lem>tuli hänestä</lem></app> suuri pahantekijä. <app id="var1362_h"><lem>Sitte</lem></app> kirosi <app id="var1363_h"><lem>oma isä hänet,</lem></app> ja <app id="var1364_h"><lem>itse hän</lem></app> kirosi omaa onnetonta kohtaloansa. Äiti yksin häntä rakasti, kun muut hänet hylkäsivät.</p>
+  <p style="blackletter">Kullervo kulki Untamon kartanoon, kosti verisesti sukunsa häpeän ja hävitti koko Untamon suvun. Tämän kovan <app id="var1365_h"><lem>tappelun</lem></app> perästä <app id="var1366_h"><lem>palasi hän</lem></app> kotiin isänsä tupaan. Ei ollut siellä ketään kättä antamassa, tupa oli autio, hiilos kylmä, kaikki kuolleet, paitsi Musti, talon uskollinen koira. Kullervo itki äitinsä haudalla ja <app id="var1367_h"><lem>kuleskeli</lem></app> rauhatonna pitkin erämaita. Viimein <app id="var1368_h"><lem>tuli hän</lem></app> sille paikalle metsässä, jossa oli tehnyt suuren rikoksen, ja siinä olivat kanervan kukat lakastuneet. Silloin <app id="var1369_h"><lem>tempasi Kullervo</lem></app> miekkansa ja kysyi, haluaisiko se juoda viallista verta. Mielelläni, vastasi miekka, miksi en sitä tekisi, kun olen niin usein juonut <app id="var1370_h"><lem>viatontakin</lem></app> verta?</p>
+  <p style="blackletter">Ja voimakas Kullervo, Kalervon poika, <app id="var1371_h"><lem>iskihe</lem></app> siinä <app id="var1372_h"><lem>oman miekkansa kärjelle.</lem></app></p>
+  <p style="blackletter">Mutta Väinämöinen, kuultuaan Kullervon <app id="var1373_h"><lem>kadonneheksi,</lem></app> varoitti tulevia sukupolvia, etteivät kaltoin kasvattaisi lapsiaan, sillä<pb type="orig" n="239" /> sellaisista lapsista tulee harvoin hyviä ja viisaita ihmisiä. Kullervo kasvatettiin <app id="var1374_h"><lem>hylättynä</lem></app> orjana; <app id="var1375_h"><lem>senvuoksi tuli hänestä</lem></app> mieletön pahantekijä ja onneton mies.</p>
+
+  <head style="blackletter"><app id="var1377_h"><lem><hi rend="bold">109.</hi></lem></app><hi rend="bold"> Sota Sammosta.</hi></head>
+  <head type="sub" style="blackletter"><app id="var1378_h"><lem>(Kalev.</lem></app> 39–43).</head>
+  <p style="blackletter">Kalevala on <app id="var1379_h"><lem>satu</lem></app> kahdesta kansasta eli suvusta: <app id="var1380_h"><lem>Kalevan</lem></app> suvusta, joka asui Väinölässä, ja Pohjan kansasta, joka asui Pohjolassa. <app id="var1381_h"><lem>Muutamat luulevat Väinölän olleen Laatokan eteläisellä ja Pohjolan sen pohjoisella rannalla.</lem></app> Näiden <app id="var1381b_h"><lem>molempain</lem></app> kansain välillä oli kilpailu, ensin rauhallinen, lopulta sotainen. <app id="var1382_h"><lem>Senvuoksi jakauntuu Kalevala</lem></app> kahteen osaan, ja <app id="var1384_h"><lem>satu</lem></app> Kullervosta, joka <app id="var1385_h"><lem>saatti hengeltä pois</lem></app> Ilmarisen vaimon, Pohjolan lemmikin, on ikäänkuin raja-aitana molempain välillä.</p>
+  <p style="blackletter">Ilmarinen murehti kuollutta vaimoansa. Turhaan <app id="var1387_h"><lem>takoi hän</lem></app> itselleen vaimon hopeasta ja kullasta: tällä ei ollut sydäntä, millä <app id="var1388_h"><lem>vastata hänen rakkauteensa.</lem></app> Turhaan <app id="var1389_h"><lem>ryösti hän</lem></app> entisen vaimonsa nuoremman sisaren Pohjolasta: tämä häntä vihasi ja <app id="var1390_h"><lem>uhalla kohteli;</lem></app> Ilmarinen muutti hänet kalalokiksi. Entinen ystävyys Väinölän ja Pohjolan välillä oli muuttunut <app id="var1391_h"><lem>vihaksi, ja</lem></app> näiden <app id="var1392_h"><lem>välillä</lem></app> syttyi verinen sota.</p>
+  <p style="blackletter"><anchor id="struct34a_h" />Väinämöinen ja Ilmarinen päättivät ryöstää Sammon, joka <app id="var1392b_h"><lem>Pohjolan oli rikkaaksi tehnyt. Ratsastaessansa matkalle kuulivat he</lem></app> veneen <app id="var1392c_h"><lem>itkevän rannalla</lem></app> ja valittavan että muut veneet saavat käydä sotia ja tuoda täytensä rahoja. <app id="var1393_h"><lem>Uroot</lem></app> päättivät <app id="var1394_h"><lem>nyt</lem></app> matkustaa meritse. Heidän seuraansa yhtyi nuori Lemminkäinen, joka aina <app id="var1395_h"><lem>halusi urho-töitä</lem></app> ja <app id="var1396_h"><lem>seikkailuksia. Tiellä tarttui vene summattoman</lem></app> suuren <app id="var1398_h"><lem>hau’in</lem></app> hartioille. Ilmarinen ja Lemminkäinen taistelivat turhaan tätä hirviötä vastaan. Silloin Väinämöinen <app id="var1399_h"><lem>itse</lem></app> löi <app id="var1400_h"><lem>hau’in</lem></app> kahdeksi kappaleeksi ja teki sen päästä ensimmäisen kanteleensa.<anchor id="struct34b_h" /></p>
+  <p style="blackletter">Nuo kolme urosta tulivat Pohjolaan ja vaativat osansa Sammosta. Louhi vastasi: <app id="var1401_h"><lem>ei</lem></app> pyyssä kahden jakoa; jonka jälkeen hän<pb type="orig" n="240" /> kutsui Pohjolan kokoon varjelemaan <app id="var1403_h"><lem>aarretta.</lem></app> Silloin Väinämöinen otti kanteleensa ja lauloi <app id="var1404_h"><lem>koko Pohjolan</lem></app> väen uneen. <app id="var1405_h"><lem>Uroot murtihe</lem></app> yhdeksän portin kautta vaskiseen vuoreen, veivät Sammon <app id="var1406_h"><lem>veneesensä</lem></app> ja soutivat kaikin voimin kotiansa kohti. Matkalla <app id="var1407_h"><lem>alkoi Lemminkäinen,</lem></app> joka aina oli kevytmielinen, <app id="var1408_h"><lem>iloissaan</lem></app> laulaa karjahdella käreällä äänellänsä. Siitäpä kurki kannon päässä säikähti, <app id="var1409_h"><lem>lenti poikki</lem></app> <app id="var1409b_h"><lem>Pohjolahan</lem></app> ja herätti <app id="var1410_h"><lem>parullaan</lem></app> Pohjolan väen. Louhi säikähti nähdessään Sammon olevan poissa ja rukoili Udutarta seulomaan utua merelle. Väinämöinen <app id="var1411_h"><lem>sivalti</lem></app> miekallaan udun halki, ja missä miekka veteen sattui siinä sima siukui kalvan tiestä. Mutta nyt <app id="var1413_h"><lem>pauhasi</lem></app> aalto, <app id="var1414_h"><lem>Ilmarisen kasvot vaalistuivat,</lem></app> ja veneen vieressä <app id="var1415_h"><lem>nosti Iku-Turso</lem></app> merestä <app id="var1416_h"><lem>hirveän-näköistä</lem></app> päätään. Väinämöinen tarttui <app id="var1417_h"><lem>häntä</lem></app> korviin ja pakotti hänet <app id="var1418_h"><lem>ijäksi</lem></app> päiväksi painumaan meren syvyyteen. Ukko lähetti <app id="var1419_h"><lem>vinkuvan</lem></app> rajutuulen; laineet vaahtopäät hakkasivat alusta, veivät <app id="var1420_h"><lem>hau’in-luisen</lem></app> kanteleen ja olivat niellä koko veneen. Väinämöinen oli yhä <app id="var1421_h"><lem>neuvokkaana</lem></app> ja <app id="var1422_h"><lem>tyynenä.</lem></app> Hän asetteli tuulta, Lemminkäinen laittoi lujat varppeet, ja <app id="var1423_h"><lem>vakavasti kulki vene</lem></app> eteenpäin mäkipäitä kuohuja myöten.</p>
+  <p style="blackletter">Pahin vaara oli vielä <app id="var1425_h"><lem>jälellä.</lem></app> Pohjolan <app id="var1426_h"><lem>sota-urohot</lem></app> ajoivat Louhen johdolla pakenevia takaa ja olivat jo <app id="var1427_h"><lem>kiinni saamaisillaan heidät.</lem></app> Siinä alkoi nyt molemmin puolin kummallinen ja hirmuinen taistelu <app id="var1428_h"><lem>väkevillä</lem></app> taikakeinoilla. Väinämöinen <app id="var1429_h"><lem>otti tuluksistaan</lem></app> piitä ja taulaa, nakkasi ne mereen ja <app id="var1431_h"><lem>siitä</lem></app> kasvoi salakallio, johon Pohjolan vene puuttui ja <app id="var1432_h"><lem>lenti</lem></app> poikki. Louhi <app id="var1433_h"><lem>muutaltihe</lem></app> suunnattoman suureksi <app id="var1434_h"><lem>kokoksi,</lem></app> jolla oli viikatteet kynsinä, veneen laidat siipinä ja sata miestä siiven alla. Tämä lensi urosten purjepuun <app id="var1435_h"><lem>nenähän.</lem></app> Lemminkäinen sivalsi miekallaan kokkoa, Väinämöinen iski melalla sen kynnet muruiksi. Pohjolan miehet melskahtivat mereen, mutta kokko tarttui kiinni Sampoon, joka särkyi kappaleiksi ja ajelehti muruina meren pinnalla. Siitä tulivat meri ja Suomen rannat <app id="var1436_h"><lem>ijäti</lem></app> rikkaiksi. Valtansa menettäneenä <app id="var1437_h"><lem>palasi Louhi</lem></app> Pohjolaan, <app id="var1437b_h"><lem>eikä</lem></app> saanut Sammosta muuta kuin kannen, <app id="var1438_h"><lem>ja</lem></app> nuo kolme urosta tulivat hekin <app id="var1439_h"><lem>kotiin</lem></app> tuoden Sammon muruja muassaan.</p>
+<pb type="orig" n="241" />
+
+  <head style="blackletter"><app id="var1440_h"><lem><hi rend="bold">110.</hi></lem></app><hi rend="bold"> Väinämöisen laulu.</hi></head>
+  <head type="sub" style="blackletter"><app id="var1440b_h"><lem>(Kalev. 41, 44.)</lem></app></head>
+  <p style="blackletter">Turhaan <app id="var1441_h"><lem>etsi Väinämöinen</lem></app> merestä kadonnutta <app id="var1442_h"><lem>kantelettaan.</lem></app> Silloin <app id="var1443_h"><lem>kuuli hän</lem></app> koivun valittavan rannalla. Miksi itket ihana koivu? Miksi en itkisi, <app id="var1445_h"><lem>vastasi koivu,</lem></app> kun <app id="var1446_h"><lem>seison tässä vaivainen varatonna.</lem></app> Miehet kuorivat valkean vyöni, lapset juovat <choice><orig>mahalani</orig><reg>mahlani</reg></choice>, tytöt lehväni leikkelevät, halla vie kaunihin hameeni ja jättää minut alastomaksi pakkasessa värisemään. Älä itke, puu vihanta, sanoi Väinämöinen; saat sinä olevan onnen, kohta itkenet ilosta.</p>
+<figure type="illustration" />
+  <p style="blackletter">Väinämöinen otti koivun ja teki siitä kanteleen. Kun kevätkäki tammessa tanhualla kukahti, kumpusi kultaa sen suusta kultaiselle kunnaalle ja siitä saatiin naulat <app id="var1450_h"><lem>kanteleesen.</lem></app> Aholla istui neitonen nuori sulhoansa odotellen. Ei se impi itkenynnä, eikä varsin<pb type="orig" n="242" /> <app id="var1453_h"><lem>ilonnutkaan;</lem></app> ilman lauloi itseksensä <app id="var1454_h"><lem>kaunihin kesä-illan</lem></app> kuluksi. Anna impi <app id="var1455_h"><lem>hivuksiasi,</lem></app> sanoi Väinämöinen. Ja impi antoi hienoja <app id="var1456_h"><lem>hivuksiansa</lem></app> viisi, kuusi hasta: siit’ on kielet kanteleessa.</p>
+  <p style="blackletter">Väinämöinen istui hopeaiselle mäelle ja lauloi; kantele oli poikkipuolin <app id="var1458_h"><lem>polvilla</lem></app> ja hänen sormensa hyppelivät kielillä. Siinä soitti Väinämöinen, ja koko luonto riemahti ilosta. Vuoret loukkui, paaet paukkui, petäjät <app id="var1459_h"><lem>iloa piti</lem></app> ja kannot hyppi kankahalla. Soitto kuului kauas, eikä ollut sitä otusta, joka ei <app id="var1460_h"><lem>tullut kuulemahan.</lem></app> Kaikki metsän eläimet, kaikki ilman linnut, veden kalaset <app id="var1461_h"><lem>kaikellaiset</lem></app> ja matosetkin maanalaiset tulivat <app id="var1462_h"><lem>kuultelemaan</lem></app> tuota soittoa suloista<supplied>.</supplied> Itse karhukin samosi petäjäisestä pesästään ja <app id="var1463_h"><lem>kuvahti</lem></app> kuuseen paremmin kuullakseen. Kokko heitti pentunsa pesään, kun kuuli sorean Suomen soiton. Allit tulivat syviltä <app id="var1464_h"><lem>aalloilta,</lem></app> joutsenet sulilta <app id="var1465_h"><lem>mailta</lem></app> ja tuhansittain pieniä peipposia, sirkkuja ja leivoja istui haastellen laulajan hartioilla. Tapiolan ukko ja kaikki Tapion kansa kulki vuoren kukkulalle soittoa tajuamahan. Mielikki siroikse <app id="var1466_h"><lem>sinisukkahan, punapaulahan.</lem></app> Ilman impyet ihanat istuivat kuuntelemassa mikä <app id="var1468_h"><lem>taivon</lem></app> kaarella, mikä pienen pilven rusoreunalla. Kuutar korea impi ja Päivätär neiti kutoivat paraikaa kultakangasta ja kun soiton äänen kuulivat, suistui heiltä sukkula kädestä, kultarihmat <app id="var1470_h"><lem>katkesi</lem></app> ja hopeaniidet <app id="var1471_h"><lem>helkähti.</lem></app> Veden ukko ruohoparta luikahaikse <choice><orig>lumpehclle</orig><reg>lumpehelle</reg></choice>, ja Vellamo <app id="var1473_h"><lem>nousi</lem></app> vesikarille ruoistoon. Sotkottaret, rannan ruokoiset kälykset hiipoivat pitkiä hiuksiansa ja pudottivat ihastuksissaan harjansa veteen.</p>
+  <p style="blackletter">Yhtä <app id="var1475_h"><lem>kummallisesti tunkeusi</lem></app> <app id="var1475b_h"><lem>kanteleen soitto</lem></app> ihmistenkin sydämiin<supplied>.</supplied> Kun se soi tuvassa, niin katto kajahteli, lattiat ja <app id="var1476_h"><lem>akkunat</lem></app> iloitsivat, kiuas liikkui ja patsas pajahti. Eikä ollut niin uljasta urosta, ei miestä eikä vaimoa, ei vanhaa eikä nuorta, joka ei <app id="var1477_h"><lem>itkenyt ilosta</lem></app> kanteleen kaunista soittoa kuunnellessaan. Miehet olivat kaikki lakit kädessä, <app id="var1478_h"><lem>akat</lem></app> käsi poskella, pojat maassa <app id="var1479_h"><lem>polvillaan,</lem></app> tyttäret vesissä silmin, ja pienet <app id="var1480_h"><lem>tyttöset</lem></app> jättivät <app id="var1481_h"><lem>kesken leikkinsä.</lem></app> Ei sinä <choice><orig>iloisna</orig><reg>ilmoisna</reg></choice> ikänä, kuuna kullan valkeana ole tuota ennen kuultu noin suloista soitantoa. Väinämöisen omista silmistä vierivät vesipisarat kuuden kultavyön kautta mereen. Korppi yritti niitä poimimaan, mutta ei saanut.<pb type="orig" n="243" /> Tuli sotka ja poimi ne ja toi kalliit kyyneleet Väinämöiselle: <app id="var1485_h"><lem>jo</lem></app> <app id="var1486_h"><lem>olivat ne toisiksi</lem></app> muuttuneet, helmiksi heristyneet, simpukoiksi <choice><orig>siirtyneet,</orig><reg>siintyneet</reg></choice> kuningasten kunnioiksi, valtojen <app id="var1488_h"><lem>iki-iloksi.</lem></app></p>
+  <head style="romanType"><app id="var1489_h"><lem><hi rend="bold">111.</hi></lem></app><hi rend="bold"> Sota valosta.</hi></head>
+  <head type="sub" style="romanType"><app id="var1489b_h"><lem>(Kalev. 47, 49.)</lem></app></head>
+<lg>
+<l style="romanType">Vaka vanha Väinämöinen</l>
+<l style="romanType"><app id="var1490_h"><lem>Kauan</lem></app> soitti kanteletta,</l>
+<l style="romanType"><app id="var1491_h"><lem>Sekä</lem></app> soitti, jotta lauloi,</l>
+<l style="romanType"><app id="var1492_h"><lem>Jotta</lem></app> ilmankin iloitsi.</l>
+<l rend="indent" style="romanType">Soitto kuului kuun tupihin,</l>
+<l rend="indent" style="romanType"><app id="var1493_h"><lem>Ilo</lem></app> päivän ikkunoille.</l>
+<l rend="indent" style="romanType"><app id="var1494_h"><lem>Kuu</lem></app> tuvastahan tulevi,</l>
+<l rend="indent" style="romanType"><app id="var1495_h"><lem>Päätyi</lem></app> päivä linnastansa,</l>
+<l rend="indent" style="romanType"><app id="var1496_h"><lem>Loihe</lem></app> latvahan petäjän</l>
+<l rend="indent" style="romanType"><app id="var1497_h"><lem>Kanteletta</lem></app> kuulemahan,</l>
+<l rend="indent" style="romanType"><app id="var1498_h"><lem>Iloa</lem></app> imehtimähän.</l>
+<l style="romanType">Louhi Pohjolan emäntä,</l>
+<l style="romanType">Pohjan akka harvahammas,</l>
+<l style="romanType"><app id="var1501_h"><lem>Siitä</lem></app> päivän kiinni saapi,</l>
+<l style="romanType"><app id="var1502_h"><lem>Kuuhuen</lem></app> käsin <choice><orig>tavott</orig><reg>tavotti</reg></choice>;</l>
+<l style="romanType"><app id="var1503_h"><lem>Ne</lem></app> kohta kotihin saattoi</l>
+<l style="romanType"><app id="var1504_h"><lem>Pimeähän</lem></app> Pohjolahan,</l>
+<l style="romanType"><app id="var1505_h"><lem>Kätki</lem></app> kuun kumottamasta</l>
+<l style="romanType"><app id="var1506_h"><lem>Kirjarintahan</lem></app> kivehen,</l>
+<l style="romanType"><app id="var1507_h"><lem>Lauloi</lem></app> päivän paistamasta</l>
+<l style="romanType"><app id="var1508_h"><lem>Vuorehen</lem></app> teräksisehen,</l>
+<l style="romanType"><app id="var1509_h"><lem>Itse</lem></app> tuossa noin saneli:</l>
+<l style="romanType"><app id="var1510_h"><lem>”Ellös</lem></app> täältä ilman pääskö,</l>
+<l style="romanType"><app id="var1511_h"><lem>Nousko</lem></app> kuu kumottamahan,</l>
+<l style="romanType"><app id="var1512_h"><lem>Pääskö</lem></app> päivä paistamahan,</l>
+<pb type="orig" n="244" />
+<l style="romanType"><app id="var1513_h"><lem>Kun</lem></app> en käyne päästämähän,</l>
+<l style="romanType"><app id="var1514_h"><lem>Itse</lem></app> tulle noutamahan!”</l>
+<l rend="indent" style="romanType">Kun oli kuun kulettanunna,</l>
+<l style="romanType"><app id="var1516_h"><lem>Sekä</lem></app> päivän saattanunna</l>
+<l style="romanType">Pohjolan kivimäkehen,</l>
+<l style="romanType"><app id="var1517_h"><lem>Jopa</lem></app> valkean varasti,</l>
+<l style="romanType"><app id="var1518_h"><lem>Tulen</lem></app> Väinölän tuvilta,</l>
+<l style="romanType"><app id="var1518b_h"><lem>Sai</lem></app> tuvat tulettomiksi,</l>
+<l style="romanType"><app id="var1518c_h"><lem>Pirtit</lem></app> valkeattomiksi.</l>
+<l rend="indent" style="romanType">Jo oli yö alinomainen,</l>
+<l style="romanType"><app id="var1519_h"><lem>Pitkä</lem></app> pilkkosen pimeä,</l>
+<l style="romanType"><app id="var1520_h"><lem>Yö oli</lem></app> Kalevalassa,</l>
+<l style="romanType"><app id="var1521_h"><lem>Noilla</lem></app> Väinölän tuvilla,</l>
+<l style="romanType"><app id="var1522_h"><lem>Sekä</lem></app> tuolla taivahassa,</l>
+<l style="romanType">Ukon ilman <app id="var1523_h"><lem>istumilla.</lem></app></l>
+<l style="romanType">Vilu viljalle tulevi,</l>
+<l style="romanType"><app id="var1524_h"><lem>Karjoille</lem></app> olo kamala,</l>
+<l style="romanType"><app id="var1525_h"><lem>Outo</lem></app> ilman lintusille</l>
+<l style="romanType"><app id="var1525b_h"><lem>Ikävä imehnosille,</lem></app></l>
+<l style="romanType"><app id="var1526_h"><lem>Kun</lem></app> ei konsa päivyt paista,</l>
+<l style="romanType"><app id="var1527_h"><lem>Eikä</lem></app> kuuhuet kumota.</l>
+<l style="romanType">Hauki tiesi hauan pohjat,</l>
+<l style="romanType"><app id="var1528_h"><lem>Kokko</lem></app> lintujen kulennan,</l>
+<l style="romanType"><app id="var1529_h"><lem>Tuuli</lem></app> haahen päiväyksen;</l>
+<l style="romanType"><app id="var1530_h"><lem>Ei tieä imehnon</lem></app> lapset,</l>
+<l style="romanType"><app id="var1531_h"><lem>Milloin</lem></app> aamu alkanevi,</l>
+<l style="romanType"><app id="var1532_h"><lem>Milloin</lem></app> yö yrittänevi</l>
+<l style="romanType"><app id="var1533_h"><lem>Nenässä</lem></app> utuisen niemen,</l>
+<l style="romanType"><app id="var1534_h"><lem>Päässä</lem></app> saaren terhenisen.</l>
+<l rend="indent" style="romanType">Nuoret neuvoa pitävät,</l>
+<l rend="indent" style="romanType"><app id="var1535_h"><lem>Ikäpuolet</lem></app> arvelevat,</l>
+<l rend="indent" style="romanType"><app id="var1536_h"><lem>Päätyvät</lem></app> sepon pajahan,</l>
+<l rend="indent" style="romanType"><app id="var1537_h"><lem>Sanovat</lem></app> sanalla tuolla:</l>
+<l rend="indent" style="romanType">”Nouse seppo seinän alta,</l>
+<l rend="indent" style="romanType"><app id="var1539_h"><lem>Takoja</lem></app> kiven takoa,</l>
+<pb type="orig" n="245" />
+<l rend="indent" style="romanType"><app id="var1540_h"><lem>Takomahan</lem></app> uutta kuuta,</l>
+<l rend="indent" style="romanType"><app id="var1541_h"><lem>Uutta</lem></app> auringon keheä!”</l>
+<l rend="indent" style="romanType">Nousi seppo seinän alta</l>
+<l rend="indent" style="romanType"><app id="var1542_h"><lem>Takomahan</lem></app> uutta kuuta,</l>
+<l rend="indent" style="romanType"><app id="var1543_h"><lem>Uutta</lem></app> auringon kehäistä;</l>
+<l rend="indent" style="romanType"><app id="var1544_h"><lem>Kuun</lem></app> on kullasta kuvasi,</l>
+<l rend="indent" style="romanType"><app id="var1545_h"><lem>Hopeasta</lem></app> päivän laati.</l>
+<l style="romanType">Seppo kuuhuen kuvasi,</l>
+<l style="romanType"><app id="var1546_h"><lem>Takoi</lem></app> päivän valmihiksi,</l>
+<l style="romanType"><app id="var1547_h"><lem>Noita</lem></app> nosteli halulla,</l>
+<l style="romanType"><app id="var1548_h"><lem>Kaunihisti</lem></app> kannatteli,</l>
+<l style="romanType"><app id="var1549_h"><lem>Kuun</lem></app> on kuusen latvasehen,</l>
+<l style="romanType"><app id="var1550_h"><lem>Päivän</lem></app> pitkän männyn päähän;</l>
+<l style="romanType"><app id="var1552_h"><lem>Hiki</lem></app> vieri viejän päästä,</l>
+<l style="romanType"><app id="var1553_h"><lem>Kaste</lem></app> kantajan otsasta</l>
+<l style="romanType"><app id="var1554_h"><lem>Työssä</lem></app> tuiki työlähässä,</l>
+<l style="romanType"><app id="var1555_h"><lem>Nostannassa</lem></app> vaikeassa.</l>
+<l style="romanType">Saipa kuun kohotetuksi,</l>
+<l style="romanType"><app id="var1556_h"><lem>Auringon</lem></app> asetetuksi,</l>
+<l style="romanType"><app id="var1557_h"><lem>Eipä</lem></app> kuu kumotakana,</l>
+<l style="romanType"><app id="var1558_h"><lem>Eikä</lem></app> päivyt paistakana.</l>
+<l rend="indent" style="romanType">Itse vanha Väinämöinen,</l>
+<l style="romanType"><app id="var1559_h"><lem>Tietäjä iän ikuinen</lem></app></l>
+<l style="romanType"><app id="var1560_h"><lem>Leikkasi</lem></app> lepästä lastut,</l>
+<l style="romanType"><app id="var1561_h"><lem>Laittoi</lem></app> lastut laaullensa,</l>
+<l style="romanType"><app id="var1562_h"><lem>Kävi</lem></app> arvat kääntämähän,</l>
+<l style="romanType"><app id="var1563_h"><lem>Sormin</lem></app> arvat suortamahan,</l>
+<l style="romanType">Sanovi sanalla tuolla,</l>
+<l style="romanType"><app id="var1564_h"><lem>Lausui</lem></app> tuolla lausehella:</l>
+<l style="romanType">”Kysyn <app id="var1565_h"><lem>luojalta</lem></app> lupoa,</l>
+<l style="romanType"><app id="var1566_h"><lem>Sano</lem></app> totta <app id="var1566b_h"><lem>luojan</lem></app> merkki,</l>
+<l style="romanType"><app id="var1567_h"><lem>Juttele</lem></app> Jumalan arpa,</l>
+<l style="romanType"><app id="var1568_h"><lem>Minne</lem></app> meiltä päivä päätyi,</l>
+<l style="romanType"><app id="var1569_h"><lem>Kunne</lem></app> meiltä kuu katosi?”</l>
+<l rend="indent" style="romanType">Toi arpa toet sanomat,</l>
+<pb type="orig" n="246" />
+<l style="romanType"><app id="var1570_h"><lem>Sanoi</lem></app> päivän saaneheksi,</l>
+<l style="romanType"><app id="var1570b_h"><lem>Kuun tuonne kaonneheksi</lem></app></l>
+<l style="romanType">Pohjolan kivimäkehen.</l>
+<l rend="indent" style="romanType">Vaka vanha Väinämöinen</l>
+<l style="romanType"><app id="var1571_h"><lem>Jopa lähti,</lem></app> jotta joutui</l>
+<l style="romanType"><app id="var1572_h"><lem>Pimeähän</lem></app> Pohjolahan.</l>
+<l style="romanType">Astui päivän, astui toisen,</l>
+<l style="romanType"><app id="var1573_h"><lem>Päivänäpä</lem></app> kolmantena</l>
+<l style="romanType"><app id="var1574_h"><lem>Jo</lem></app> näkyvi Pohjan portti,</l>
+<l style="romanType"><app id="var1575_h"><lem>Kivikummut</lem></app> kuumottavi.</l>
+<l style="romanType">Ensin huuti huikahutti</l>
+<l style="romanType"><app id="var1576_h"><lem>Tuolla</lem></app> Pohjolan joella:</l>
+<l style="romanType"><app id="var1577_h"><lem>Tuokate</lem></app> venettä tänne!</l>
+<l style="romanType">Niin sanovi Pohjan poika:</l>
+<l style="romanType">”Ei täältä venehet joua,</l>
+<l style="romanType"><app id="var1578_h"><lem>Tule</lem></app> sormin soutimina.”</l>
+<l rend="indent" style="romanType">Siinä vanha Väinämöinen</l>
+<l style="romanType"><app id="var1579_h"><lem>Arvelee,</lem></app> ajattelevi:</l>
+<l style="romanType">”Sep’ ei miesi lienekänä,</l>
+<l style="romanType"><app id="var1580_h"><lem>Ku</lem></app> on tieltä myösteleikse.”</l>
+<l style="romanType">Meni haukina merehen,</l>
+<l style="romanType"><app id="var1581_h"><lem>Pian</lem></app> uipi salmen poikki,</l>
+<l style="romanType"><app id="var1582_h"><lem>Astui</lem></app> jalan, astui toisen</l>
+<l style="romanType">Pohjan rannalle rapasi.</l>
+<l rend="indent" style="romanType">Niin sanovi Pohjan <app id="var1584_h"><lem>pojat:</lem></app></l>
+<l style="romanType">”Käypä Pohjolan pihalle,</l>
+<l style="romanType"><app id="var1585_h"><lem>Tule</lem></app> Pohjolan tupahan!”</l>
+<l style="romanType">Meni Pohjolan tupahan.</l>
+<l style="romanType">Siellä miehet mettä juovat,</l>
+<l style="romanType"><app id="var1586_h"><lem>Simoa</lem></app> sirettelevät,</l>
+<l style="romanType"><app id="var1587_h"><lem>Miehet</lem></app> kaikki <app id="var1588_h"><lem>miekka</lem></app> vyöllä,</l>
+<l style="romanType"><app id="var1589_h"><lem>Urohot</lem></app> sota-aseissa</l>
+<l style="romanType"><app id="var1590_h"><lem>Pään</lem></app> varalle Väinämöisen,</l>
+<l style="romanType"><app id="var1591_h"><lem>Surmaksi</lem></app> Savantolaisen.</l>
+<l style="romanType">Nuo kysyvät tullehelta:</l>
+<pb type="orig" n="247" />
+<l style="romanType">”Ku sanoma kurjan miehen?”</l>
+<l rend="indent" style="romanType">”Kuusta on sanomat kummat,</l>
+<l style="romanType"><app id="var1592_h"><lem>Päivästä</lem></app> iki-imehet.</l>
+<l style="romanType"><app id="var1593_h"><lem>Minnes</lem></app> meiltä päivä päätyi,</l>
+<l style="romanType"><app id="var1594_h"><lem>Kunnes</lem></app> meiltä kuu katosi?”</l>
+<l rend="indent" style="romanType">Pohjan poikaset sanovi:</l>
+<l style="romanType">”Tuonne teiltä päivä päätyi</l>
+<l style="romanType"><app id="var1595_h"><lem>Kirjarintahan</lem></app> kivehen,</l>
+<l style="romanType"><app id="var1596_h"><lem>Sielt’</lem></app> ei pääse päästämättä,</l>
+<l style="romanType"><app id="var1597_h"><lem>Selviä</lem></app> selittämättä.</l>
+<l rend="indent" style="romanType">Silloin vanha Väinämöinen</l>
+<l style="romanType"><app id="var1598_h"><lem>Itse</lem></app> tuon sanoiksi virkki:</l>
+<l style="romanType">”Kun ei kuu kivestä pääsne,</l>
+<l style="romanType"><app id="var1599_h"><lem>Pääsne</lem></app> päivä kalliosta,</l>
+<l style="romanType"><app id="var1600_h"><lem>Käykämme</lem></app> käsirysyhyn,</l>
+<l style="romanType"><app id="var1601_h"><lem>Ruvetkamme</lem></app> miekkasille.”</l>
+<l style="romanType">Veti miekan, riisti rauan,</l>
+<l style="romanType"><app id="var1602_h"><lem>Tempasi</lem></app> tupesta tuiman,</l>
+<l style="romanType"><app id="var1603_h"><lem>Jonka</lem></app> kuu kärestä paistoi,</l>
+<l style="romanType"><app id="var1604_h"><lem>Päivä</lem></app> västistä välähyi,</l>
+<l style="romanType"><app id="var1605_h"><lem>Hepo</lem></app> seisovi selällä,</l>
+<l style="romanType"><app id="var1606_h"><lem>Kasi</lem></app> naukui naulan tiessä.</l>
+<l rend="indent" style="romanType">Mentihin ulos pihalle,</l>
+<l style="romanType"><app id="var1607_h"><lem>Tasarinnan</lem></app> tanterelle;</l>
+<l style="romanType">Siitä vanha Väinämöinen</l>
+<l style="romanType"><app id="var1608_h"><lem>Löip’</lem></app> on kerran leimahutti,</l>
+<l style="romanType"><app id="var1609_h"><lem>Listi</lem></app> kuin naurihin napoja,</l>
+<l style="romanType"><app id="var1610_h"><lem>Lippasi</lem></app> kuin liinan päitä</l>
+<l style="romanType"><app id="var1612_h"><lem>Päitä</lem></app> Pohjan poikasien.</l>
+<l rend="indent" style="romanType">Siitä vanha Väinämöinen</l>
+<l rend="indent" style="romanType"><app id="var1613_h"><lem>Kävi</lem></app> kuuta katsomahan,</l>
+<l rend="indent" style="romanType"><app id="var1614_h"><lem>Päiveä</lem></app> kerittämähän</l>
+<l rend="indent" style="romanType"><app id="var1615_h"><lem>Kirjarinnasta</lem></app> kivestä.</l>
+<l rend="indent" style="romanType">Astui tietä pikkuruisen,</l>
+<l rend="indent" style="romanType"><app id="var1616_h"><lem>Niin</lem></app> näki vihannan saaren,</l>
+<pb type="orig" n="248" />
+<l style="romanType"><app id="var1617_h"><lem>Saarell’</lem></app> on komea koivu,</l>
+<l style="romanType"><app id="var1618_h"><lem>Koivun</lem></app> <choice><orig>olla</orig><reg>alla</reg></choice> paasi paksu,</l>
+<l style="romanType"><app id="var1619_h"><lem>Alla</lem></app> paaen kallioinen,</l>
+<l style="romanType"><app id="var1620_h"><lem>Yheksin</lem></app> ovia eessä,</l>
+<l style="romanType"><app id="var1621_h"><lem>Saoin</lem></app> salpoja ovilla.</l>
+<l rend="indent" style="romanType">Keksi piirtämän kivessä,</l>
+<l style="romanType"><app id="var1622_h"><lem>Valeviivan</lem></app> kalliossa;</l>
+<l style="romanType"><app id="var1623_h"><lem>Veti</lem></app> miekkansa tupesta,</l>
+<l style="romanType"><app id="var1624_h"><lem>Kirjoitti</lem></app> kivehen kirjan</l>
+<l style="romanType"><app id="var1625_h"><lem>Miekalla</lem></app> <choice><orig>tuliterellä</orig><reg>tuliterällä</reg></choice>,</l>
+<l style="romanType"><app id="var1626_h"><lem>Katkesi</lem></app> kivi kaheksi,</l>
+<l style="romanType"><app id="var1627_h"><lem>Paasi</lem></app> kolmeksi pakahtui.</l>
+<l rend="indent" style="romanType">Vaka vanha Väinämöinen</l>
+<l style="romanType"><app id="var1628_h"><lem>Katsovi</lem></app> kiven rakohon,</l>
+<l style="romanType"><app id="var1629_h"><lem>Siellä</lem></app> kyyt olutta juovat,</l>
+<l style="romanType"><app id="var1630_h"><lem>Maot</lem></app> vierrettä vetävät.</l>
+<l style="romanType">Leikkasip’ on pään maolta,</l>
+<l style="romanType"><app id="var1631_h"><lem>Katkoi</lem></app> kaulan käärmeheltä,</l>
+<l style="romanType"><app id="var1632_h"><lem>Kourin</lem></app> koitteli ovia,</l>
+<l style="romanType"><app id="var1633_h"><lem>Salpoja</lem></app> sanan väellä,</l>
+<l style="romanType"><app id="var1634_h"><lem>Ei</lem></app> ovet käsin avau,</l>
+<l style="romanType"><app id="var1635_h"><lem>Salvat</lem></app> ei sanoista huoli.</l>
+<l rend="indent" style="romanType">Silloin vanha Väinämöinen</l>
+<l rend="indent" style="romanType"><app id="var1636_h"><lem>Kohta</lem></app> lähtevi kotia</l>
+<l rend="indent" style="romanType"><app id="var1637_h"><lem>Alla</lem></app> päin, pahoilla mielin.</l>
+<l rend="indent" style="romanType">Sanoi lieto Lemminkäinen:</l>
+<l rend="indent" style="romanType">”Miks’ et ottanut minua</l>
+<l rend="indent" style="romanType"><app id="var1638_h"><lem>Kanssasi</lem></app> karehtijaksi,</l>
+<l rend="indent" style="romanType"><app id="var1639_h"><lem>Oisi</lem></app> lukot luikahtanna,</l>
+<l rend="indent" style="romanType"><app id="var1640_h"><lem>Takasalvat</lem></app> taittununna.”</l>
+<l rend="indent" style="romanType"><app id="var1641_h"><lem>Sanoi vanha</lem></app> Väinämöinen:</l>
+<l rend="indent" style="romanType"><app id="var1641b_h"><lem type="empty" /></app></l>
+<l rend="indent" style="romanType">”Ei salvat sanoilla taitu,</l>
+<l rend="indent" style="romanType"><app id="var1642_h"><lem>Lukot</lem></app> loihulla murene.”</l>
+<l rend="indent" style="romanType">Meni sepponsa pajahan,</l>
+<l rend="indent" style="romanType"><app id="var1643_h"><lem>Sanan</lem></app> virkkoi, noin nimesi:</l>
+<pb type="orig" n="249" />
+<l style="romanType">”Ohoh, seppo Ilmarinen,</l>
+<l style="romanType"><app id="var1645_h"><lem>Taos</lem></app> kuokka kolmihaara,</l>
+<l style="romanType"><app id="var1646_h"><lem>Tao</lem></app> tuuria tusina,</l>
+<l style="romanType"><app id="var1647_h"><lem>Avaimia</lem></app> aika kimppu,</l>
+<l style="romanType"><app id="var1648_h"><lem>Jolla</lem></app> kuun kivestä päästän,</l>
+<l style="romanType"><app id="var1649_h"><lem>Päivän</lem></app> päästän kalliosta.”</l>
+<l style="romanType">Se on seppo Ilmarinen</l>
+<l style="romanType"><app id="var1650_h"><lem>Takoi</lem></app> miehen tarpehia,</l>
+<l style="romanType"><app id="var1651_h"><lem>Takoi</lem></app> tuuria tusinan,</l>
+<l style="romanType"><app id="var1652_h"><lem>Avaimia</lem></app> aika kimpun.</l>
+<l rend="indent" style="romanType">Louhi Pohjolan emäntä,</l>
+<l rend="indent" style="romanType">Pohjan akka harvahammas</l>
+<l rend="indent" style="romanType"><app id="var1655_h"><lem>Siitti</lem></app> siivet sulkinensa,</l>
+<l rend="indent" style="romanType"><app id="var1656_h"><lem>Levahutti</lem></app> lentämähän</l>
+<l rend="indent" style="romanType"><app id="var1657_h"><lem>Poikki</lem></app> Pohjolan merestä</l>
+<l rend="indent" style="romanType"><app id="var1658_h"><lem>Sepon</lem></app> Ilmarin pajalle.</l>
+<l rend="indent" style="romanType">   Aukoi seppo ikkunansa,</l>
+<l rend="indent" style="romanType"><app id="var1660_h"><lem>Katsoi</lem></app> kuin tulisi tuuli;</l>
+<l rend="indent" style="romanType"><app id="var1662_h"><lem>Ei</lem></app> ollut tulento tuulen,</l>
+<l rend="indent" style="romanType"><app id="var1664_h"><lem>Oli</lem></app> harmoa havukka.</l>
+<l rend="indent" style="romanType">   ”Mit’ olet otus hakeva</l>
+<l rend="indent" style="romanType"><app id="var1667_h"><lem>Istut</lem></app> alla ikkunani?”</l>
+<l rend="indent" style="romanType">Lintu kielelle paneikse:</l>
+<l rend="indent" style="romanType">”Mitä <app id="var1668_h"><lem>seppä</lem></app> siitä laait,</l>
+<l rend="indent" style="romanType"><app id="var1669_h"><lem>Kuta</lem></app> rautio rakennat?”</l>
+<l style="romanType">”Taon kaularenkahaista</l>
+<l style="romanType"><app id="var1670_h"><lem>Tuolle</lem></app> Pohjolan akalle,</l>
+<l style="romanType"><app id="var1671_h"><lem>Jolla</lem></app> kiinni kytketähän</l>
+<l style="romanType"><app id="var1672_h"><lem>Vaaran</lem></app> vankan liepehesen.”</l>
+<l rend="indent" style="romanType">Louhi Pohjolan emäntä,</l>
+<l rend="indent" style="romanType">Pohjan akka harvahammas</l>
+<l rend="indent" style="romanType"><app id="var1675_h"><lem>Jo</lem></app> tunsi tuhon tulevan,</l>
+<l rend="indent" style="romanType"><app id="var1676_h"><lem>Hätäpäivän</lem></app> päälle saavan,</l>
+<l rend="indent" style="romanType"><app id="var1677_h"><lem>Heti</lem></app> loihe lentämähän,</l>
+<l rend="indent" style="romanType"><app id="var1678_h"><lem>Pääsi</lem></app> poies Pohjolahan.</l>
+<pb type="orig" n="250" />
+<l style="romanType"><app id="var1679_h"><lem>Laski</lem></app> kuun kivestä irti,</l>
+<l style="romanType"><app id="var1680_h"><lem>Päästi</lem></app> päivän kalliosta,</l>
+<l style="romanType"><app id="var1681_h"><lem>Itse</lem></app> muuksi muutaltihe,</l>
+<l style="romanType"><app id="var1682_h"><lem>Kyhäsihe kyyhkyiseksi,</lem></app></l>
+<l style="romanType"><app id="var1683_h"><lem>Lenteä</lem></app> lekuttelevi</l>
+<l style="romanType"><app id="var1684_h"><lem>Sepon</lem></app> Ilmarin pajahan,</l>
+<l style="romanType"><app id="var1685_h"><lem>Virkkoi</lem></app> siitä kynnykseltä:</l>
+<l style="romanType">”Jopa kuu kivestä nousi,</l>
+<l style="romanType"><app id="var1686_h"><lem>Päivä</lem></app> pääsi kalliosta.”</l>
+<l rend="indent" style="romanType">Se on seppo Ilmarinen</l>
+<l style="romanType"><app id="var1687_h"><lem>Astuvi</lem></app> pajan ovelle,</l>
+<l style="romanType"><app id="var1688_h"><lem>Katsoi tarkan</lem></app> taivahalle,</l>
+<l style="romanType"><app id="var1689_h"><lem>Näki</lem></app> kuun kumottavaksi,</l>
+<l style="romanType"><app id="var1690_h"><lem>Näki</lem></app> päivän paistavaksi.</l>
+<l style="romanType">Meni luokse Väinämöisen:</l>
+<l style="romanType">”Ohoh, vanha Väinämöinen,</l>
+<l style="romanType"><app id="var1691_h"><lem>Käypä</lem></app> kuuta katsomahan,</l>
+<l style="romanType"><app id="var1692_h"><lem>Päiveä</lem></app> tähyämähän.”</l>
+<l rend="indent" style="romanType">Vaka vanha Väinämöinen</l>
+<l style="romanType"><app id="var1693_h"><lem>Itse</lem></app> pistihe pihalle,</l>
+<l style="romanType"><app id="var1694_h"><lem>Varsin</lem></app> päätänsä kohotti,</l>
+<l style="romanType"><app id="var1695_h"><lem>Katsahtavi</lem></app> taivahalle:</l>
+<l style="romanType"><app id="var1696_h"><lem>Kuu</lem></app> oli <app id="var1697_h"><lem>nousnut,</lem></app> päivä pääsnyt,</l>
+<l style="romanType"><app id="var1698_h"><lem>Taivon</lem></app> aurinko tavannut.</l>
+<l rend="indent" style="romanType">Silloin vanha Väinämöinen</l>
+<l style="romanType"><app id="var1699_h"><lem>Sai</lem></app> itse sanelemahan:</l>
+<l style="romanType">”Terve kuu kumottamasta,</l>
+<l style="romanType"><app id="var1701_h"><lem>Kaunis</lem></app> kasvot näyttämästä,</l>
+<l style="romanType"><app id="var1702_h"><lem>Päiväkulta</lem></app> koittamasta,</l>
+<l style="romanType"><app id="var1703_h"><lem>Aurinko</lem></app> ylenemästä!</l>
+<l style="romanType">Kuu kulta kivestä pääsit,</l>
+<l style="romanType"><app id="var1705_h"><lem>Päivä</lem></app> kaunis kalliosta,</l>
+<l style="romanType"><app id="var1706_h"><lem>Nousit</lem></app> kullaisna käkenä,</l>
+<l style="romanType"><app id="var1707_h"><lem>Hopeisna</lem></app> kyyhkyläisnä</l>
+<l style="romanType"><app id="var1708_h"><lem>Elollesi</lem></app> entiselle,</l>
+<pb type="orig" n="251" />
+<l style="romanType"><app id="var1709_h"><lem>Matkoillesi</lem></app> muinaisille.</l>
+<l style="romanType">Nouse aina aamusilla,</l>
+<l style="romanType"><app id="var1711_h"><lem>Tämän</lem></app> päivänki perästä;</l>
+<l style="romanType">Teepä meille terveyttä,</l>
+<l style="romanType"><app id="var1712_h"><lem>Siirrä</lem></app> saama saatavihin,</l>
+<l style="romanType"><app id="var1713_h"><lem>Pyytö</lem></app> päähän peukalomme,</l>
+<l style="romanType"><app id="var1714_h"><lem>Onni</lem></app> onkemme nenähän!</l>
+<l style="romanType">Käy nyt tiesi tervehenä,</l>
+<l style="romanType"><app id="var1715_h"><lem>Matkasi</lem></app> imantehena,</l>
+<l style="romanType"><app id="var1716_h"><lem>Päätä</lem></app> kaari kaunihisti,</l>
+<l style="romanType"><app id="var1717_h"><lem>Pääse</lem></app> illalla ilohon!”</l>
+</lg>
+
+  <head style="blackletter"><app id="var1718_h"><lem><hi rend="bold">112.</hi></lem></app><hi rend="bold"> Väinämöinen ja </hi><app id="var1719_h"><lem><hi rend="bold">Jesuslapsi.</hi></lem></app></head>
+  <head type="sub" style="blackletter"><app id="var1719b_h"><lem>(Kalev. 50.)</lem></app></head>
+  <p style="blackletter">Kalevala loppuu eriskummaisella ja älykkäällä kertomuksella siitä kuinka Väinämöisen täytyi <app id="var1721_h"><lem>heittää</lem></app> valtansa vastasyntyneelle <app id="var1722_h"><lem>Jesuslapselle.</lem></app> Tämä runo on sepitetty <app id="var1723_h"><lem>kristin-ajan</lem></app> alussa, jolloin pakanuuden muistot vielä elivät <app id="var1724_h"><lem>tuoreina kansassa. Likuttavata</lem></app> on nähdä, kuinka kansa ikäänkuin uhraa <app id="var1725_h"><lem>enimmän lemmityn</lem></app> uroonsa Herralle <app id="var1726_h"><lem>Jesukselle</lem></app> Kristukselle, jonka edessä parhain, viisainkin ihminen on ainoastaan syntinen ja hullu.</p>
+  <p style="blackletter"><app id="var1727_h"><lem>Jesus, sanoo</lem></app> tämä suomalainen <app id="var1728_h"><lem>satu,</lem></app> syntyi köyhänä ja ylenkatsottuna <app id="var1729_h"><lem>Ruotuksen<note id="ftn9" n="*)" place="foot">Kuningas Herodeksen.</note></lem></app> tallissa, ja hänen äitinsä <app id="var1730_h"><lem>Marjatta<note id="ftn10" n="**)" place="foot">Neitsy Maaria.</note></lem></app> <app id="var1730b_h"><lem>piiletteli</lem></app> kultaista <app id="var1731_h"><lem>omenatansa</lem></app> pahansuovilta ihmisiltä. Eräänä päivänä <app id="var1732_h"><lem>istui poika</lem></app> äitinsä sylissä, ja tämän hapsiansa harjatessa <app id="var1733_h"><lem>katosi poika yht’äkkiä</lem></app> hänen polviltansa. Säikähtyneenä ja <app id="var1735_h"><lem>levotonna meni äiti</lem></app> etsimään lastansa <app id="var1736_h"><lem>mahdottomimmista</lem></app> paikoista: jauhavan myllynkiven alta, juoksevan jalaksen alta, <app id="var1737_h"><lem>seulottavan</lem></app> seulan alta, kannetta<pb type="orig" n="252" />van korvon alta, mäiltä, männiköiltä, kanervikoilta ja katajan juurten alta. Hän kysyi tähdeltä, kysyi kuulta, ja ne vastasivat: <app id="var1738_h"><lem>jos</lem></app> tietäisimme missä hän on, emme sitä sinulle sanoisi, sillä hän on meidät luonut. Viimein <app id="var1739_h"><lem>tapasi hän</lem></app> auringon, kumarteli ja kysyi:</p>
+<lg>
+<l style="blackletter">”Oi <app id="var1740_h"><lem>Päivyt</lem></app> Jumalan luoma!</l>
+<l style="blackletter"><app id="var1742_h"><lem>Etkö</lem></app> tieä poiuttani?”</l>
+</lg>
+  <p style="blackletter">– Kyllä tieän poikuesi, sanoi aurinko. <app id="var1743_h"><lem>Hänpä</lem></app> on <app id="var1744_h"><lem>minunkin</lem></app> luonut, ja nyt <app id="var1745_h"><lem>on hän</lem></app> suossa suonivyöstä.</p>
+  <p style="blackletter">Marjatta <app id="var1746_h"><lem>löyti</lem></app> poikansa suosta. Tämä kasvoi kauniiksi lapseksi, mutta kukaan ei <app id="var1747_h"><lem>tietänyt</lem></app> hänen nimeänsä. Äiti <app id="var1748_h"><lem>kutsui</lem></app> häntä kukkaseksensa ja <app id="var1749_h"><lem>kultaiseksi omenaksensa;</lem></app> vieraat <app id="var1750_h"><lem>kutsuivat</lem></app> häntä pilkalla vennon joutioksi. Tarvittiinpa nyt <app id="var1751_h"><lem>kastajata</lem></app> tälle köyhälle lapselle, ja Marjatta pyysi <app id="var1752_h"><lem>Virokannas nimistä ukkoa tähän toimeen.</lem></app> Tämä vastasi: <app id="var1753_h"><lem>en</lem></app> minä kasta sellaista riivattua ja <app id="var1754_h"><lem>katalata,</lem></app> ennenkuin on tutkittu, onko siitä elämään. – <app id="var1755_h"><lem>Näet pakanuuden ajalla</lem></app> <app id="var1755b_h"><lem>oli</lem></app> sellainen julma tapa, että heikot <app id="var1756_h"><lem>tahi</lem></app> köyhät lapset, <app id="var1757_h"><lem>joita ei nähty eloon kelvollisiksi,</lem></app> vietiin erämaahan kuolemaan.</p>
+  <p style="blackletter">Kukapa nyt tutkijaksi ja tuomariksi? <app id="var1759_h"><lem>Viisaimman tehtävä se oli.</lem></app> Kutsuttiin siis Väinämöistä, <app id="var1760_h"><lem>hän</lem></app> tuli tutkimaan lasta ja tuomitsi, että koska poika oli suolta saatu, <app id="var1761_h"><lem>vietäköön se</lem></app> suolle takaisin ja puulla päähän <app id="var1762_h"><lem>lyötäköhön.</lem></app></p>
+  <p style="blackletter">Silloin <app id="var1763_h"><lem>tämä kaksiviikkoinen</lem></app> lapsi alkoi puhua ja lausui:</p>
+<lg>
+<l style="blackletter">”Ohoh sinua ukko utra,</l>
+<l style="blackletter"><app id="var1765_h"><lem>Ukko</lem></app> utra, unteloinen,</l>
+<l style="blackletter"><app id="var1766_h"><lem>Kun</lem></app> olet tuhmin tuominnunna</l>
+<l style="blackletter"><app id="var1768_h"><lem>Väärin</lem></app> laskenna lakia.</l>
+<l style="blackletter">Eipä syistä suuremmista,</l>
+<l style="blackletter"><app id="var1769_h"><lem>Töista</lem></app> tuhmemmistakana</l>
+<l style="blackletter"><app id="var1770_h"><lem>Itseäsi</lem></app> suolle viety,</l>
+<l style="blackletter"><app id="var1771_h"><lem>Eikä</lem></app> puulla päähän lyöty,</l>
+<l style="blackletter"><app id="var1772_h"><lem>Kun</lem></app> sa miesnä nuorempana</l>
+<l style="blackletter"><app id="var1773_h"><lem>Lainasit</lem></app> emosi lapsen</l>
+<l style="blackletter"><app id="var1774_h"><lem>Oman</lem></app> pääsi päästimeksi,</l>
+<l style="blackletter"><app id="var1775_h"><lem>Itsesi</lem></app> lunastimeksi.</l>
+<l style="blackletter">Ei sinua silloinkana</l>
+<pb type="orig" n="253" />
+<l style="blackletter"><app id="var1777_h"><lem>Eip’</lem></app> on vielä suolle viety,</l>
+<l style="blackletter"><app id="var1778_h"><lem>Kun sa</lem></app> miesnä nuorempana</l>
+<l style="blackletter"><app id="var1779_h"><lem>Menettelit</lem></app> neiet nuoret</l>
+<l style="blackletter"><app id="var1780_h"><lem>Alle</lem></app> aaltojen syvien,</l>
+<l style="blackletter"><app id="var1781_h"><lem>Päälle</lem></app> mustien mutien.”</l>
+</lg>
+  <p style="blackletter">Tästä hämmästyneenä <app id="var1782_h"><lem>kastoi Virokannas heti</lem></app> lapsen Karjalan kuninkaaksi. Mutta Väinämöinen <app id="var1784_h"><lem>siitä suuttui</lem></app> ja häpesi. Hän ei voinut <app id="var1785_h"><lem>enää elää siinä</lem></app> maassa, <app id="var1786_h"><lem>jossa</lem></app> pieni lapsi oli tehnyt hänen viisautensa hulluudeksi. Hän meni merenrantaan, lauloi vaskisen aluksen ja laski sillä selvälle meren selälle. Istuen purtensa perässä <app id="var1787_h"><lem>lauloi hän</lem></app> nämä sanat jäähyväisiksi Suomelle:</p>
+<lg>
+<l style="blackletter"><app id="var1788_h"><lem>Annapas</lem></app> ajan kulua,</l>
+<l style="blackletter"><app id="var1789_h"><lem>Päivän</lem></app> mennä, toisen tulla,</l>
+<l style="blackletter"><app id="var1790_h"><lem>Taas</lem></app> minua tarvitahan,</l>
+<l style="blackletter"><app id="var1791_h"><lem>Katsotahan,</lem></app> kaivatahan</l>
+<l style="blackletter"><app id="var1792_h"><lem>Uuen <choice><orig>sammon</orig><reg>Sammon</reg></choice></lem></app> saattajaksi,</l>
+<l style="blackletter"><app id="var1793_h"><lem>Uuen</lem></app> soiton <app id="var1793b_h"><lem>suoriaksi,</lem></app></l>
+<l style="blackletter"><app id="var1794_h"><lem>Uuen</lem></app> kuun kulettajaksi,</l>
+<l style="blackletter"><app id="var1795_h"><lem>Uuen</lem></app> päivän päästäjäksi,</l>
+<l style="blackletter"><app id="var1796_h"><lem>Kun</lem></app> ei kuuta, aurinkoa,</l>
+<l style="blackletter"><app id="var1797_h"><lem>Eikä</lem></app> ilmaista iloa.”</l>
+</lg>
+  <p style="blackletter">Ja siitä vanha Väinämöinen laskea karehteli yläisihin <app id="var1798_h"><lem>maa-emihin,</lem></app> alaisihin taivosihin, jättäen <app id="var1799_h"><lem>jälelle</lem></app> kanteleensa,</p>
+<lg>
+<l style="blackletter"><app id="var1800_h"><lem>Soiton</lem></app> Suomelle sorean,</l>
+<l style="blackletter"><app id="var1801_h"><lem>Kansalle</lem></app> ilon ikuisen,</l>
+<l style="blackletter"><app id="var1802_h"><lem>Laulut</lem></app> suuret lapsillensa.</l>
+</lg>
+        </body>
+    </text>
+</TEI>

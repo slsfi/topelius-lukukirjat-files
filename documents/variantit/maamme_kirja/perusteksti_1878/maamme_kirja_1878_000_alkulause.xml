@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Maamme kirja. Toinen painos 1878. Alkulause, varianttikoodattu (perusteksti)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Lukukirja alimmaisille oppilaitoksille Suomessa. Toinen Jakso. Maamme Kirja. suomentanut Joh. Bäckvall, Toinen painos, Helsinki: G. W. Edlund 1878</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+<pb type="orig" />
+  <head style="romanType"><anchor id="struct100a" subtype="sub" /><hi rend="bold expanded">Alkulause</hi><lb /><hi rend="bold">Opettajille ja Opettajattarille.</hi></head>
+  <p style="romanType"><hi rend="italics">Tässä jätetään maamme kansakouluille <choice><orig>ju</orig><reg>ja</reg></choice> muille lukijoille suomennos professori Z. Topelius’en vasta antamasta ruotsalaisesta kirjasta ”Boken om Vårt Land”, tällä yksinkertaisella nimellä: <hi rend="expanded">Maamme <choice><orig>kirja</orig><reg>Kirja</reg></choice></hi>, jolle nimitykselle pyydän lukijan ei paneman laajempata merkintöä, kuin sen sisällys sille myöntää. Pyydän myös kansan yhtä hyväntahtoisesti, kuin alkuperäinen kirja on saanut yleisön mielisuosion, ottamaan vastaan tämän suomennoksen, katsomatta moniin siinä oleviin epävakaisuuksiin. Professori Topelius sanoo ”Boken om <choice><orig>vårt</orig><reg>Vårt</reg></choice> Land” olleen 19 vuotta tekeillä, ja mitä hän lausuu sen perusjuonesta ja sisällyksestä, sopii suomennokseenkin, jonka vuoksi suomennan tähän alkulauseesta hänen omat sanansa:</hi></p>
+  <p style="romanType"><hi rend="italics">”Ainoastaan paras on hyvä kyllä nuorisolle, ja siksi annan minä parasta mitä voin oppilaitoksille ja meidän maallemme. Mutta paras, jota voin, on niin kaukana parhaasta toivottavasta, että pidän tätä kirjaa alustana, jolle jälkeentulevaiset rakentakoot jotakin parempata, pitäen sen mitä siinä kelpaa, ja jättäen jäännöksen unhotuksiin.</hi></p>
+  <p style="romanType"><hi rend="italics">Jota alemmaksi lukukirja asetetaan ikäluokissa, niinkuin yksi ensimmäisiä, tietä raivaavia sivistämisen välikappaleita, sitä ylemmä täytyy asettaa sen vaatimus. Sen tarkoituksena ei ole ainoastaan selvän lukemisen ja luetun käsittämisen harjoittaminen; sen tulee myös samalla kertaa opettajan johdatuksella tuottaa vakavuutta, selkoa ja asianmukaisuutta oppilaan ajatusvoimaan. Ja näihin muodollisiin ja ajatusjohtoisiin tarkoituksiin tulee lukukirjan yhdistää vielä kolmaskin aatteellinen, että herättää rakkautta vissiin oikeutettuun ajatusten tahi tunteiden piiriin kuin myös halua korkeampaan oppitietoon siinä.</hi></p>
+  <p style="romanType"><hi rend="italics">Tältä näkökannalta olen ajatellut, ettei lukukirjan erilaisten ainetten tiheään vaihettelemisella tule hajottaa huomiota tahi hämmentää ajatusten juoksua. Minä olen luullut sen pitävän pysyä kiinni rajoitetussa ajatusten piirissä, matkaansaattaa niiden välillä luonnollisen yhteyden ja juurikuin rakentaa siltoja ajatuksesta ajatukseen. Tarpeellista vaihettelemista en ole tahtonut etsiä ainetten moninaisuudessa, vaan saman aineen erilaisten näkökohtain osoittamisessa.</hi></p>
+<pb type="orig" />
+  <p style="romanType"><hi rend="italics">Ensi jakso tätä (ruotsalaista) lukukirjaa, painosta tullut 1856 (suomennos tuli jälkeenpäin), oli perustettu sellaiselle käsitykselle ja sisälti siis kysymyksen oppilaitoksille. Minusta on näyttänyt juurikuin kokemus olisi vastannut kysymykseen asian niin olevan. Ehkä opettajalla ja opettajattarella on ollut monia vajavuuksia täytettävänä ”Luonnon <choice><orig>kirjassa</orig><reg>Kirjassa</reg></choice>”, on yhteensopu perusjuonessa ja ajatusten yhdistämisessä näyttänyt vastaavan tarkoitusta.</hi></p>
+  <p style="romanType"><hi rend="italics">On siis tämä toinen jakso tehty järkinäisesti saman perusjuonen mukaan. ”Luonnon <choice><orig>kirjaa</orig><reg>Kirjaa</reg></choice>” seuraa nyt ”Maamme Kirja”. Yhteys näiden kahden aatepiirin välillä, jotka molemmat lähtevät kodista, näyttää olevan niin yksinkertainen ja selvä, että tuskin voi ymmärtää, kuinka niin yksinkertainen miete on tarvinnut niin pitkän ajan <choice><orig>valmistuaksensat</orig><reg>valmistuaksensa</reg></choice><supplied>.</supplied> Vaikeus on osittain aineen oikeassa määräämisessä – minä olin ensin ottanut sen paljoa laajemmaksi, – osittain oikean rajan saamisessa <hi rend="expanded">lukukirjan</hi>, joka miellyttää, ja <hi rend="expanded">oppikirjan</hi> välillä, joka <choice><orig>täydellisesi</orig><reg>täydellisesti</reg></choice> selittää aineen. Suunnitelmat, joista olisi tullut kolme kertaa tätä suurempi kirja, on siis uhrattu tuleen, joka mainittakoon selitykseksi viipymiselle.</hi></p>
+  <p style="romanType"><hi rend="italics">Mahdollista on, ettei tämäkään lopullinen toimitus ole tavannut oikeata määrää eikä oikeata tapaa. Epätasaisuuksia löytyy, ja historiallinen osa likenee oppikirjaa, ilman ennakolta tulematta sen perinpohjaisiin selityksiin.</hi></p>
+  <p style="romanType"><hi rend="italics">Tästä tuomitkoon kokemus. Pyydän Opettajain ja Opettajattarien, ystävyydestä koulun suureen asiaan, ilmoittamaan minulle muistutuksiansa, joko yksityisesti tahi sanomalehdissä, sitä varten, jos uutta painosta tarvittaisiin.</hi></p>
+  <p style="romanType"><hi rend="italics">Niinkuin ”Luonnon Kirja” oli aiottu lapsille 8 vuodesta eteenpäin niin on ”Maamme Kirja” 10 vuotisille ja siitä eteenpäin määräämättömään ikään, sillä aina jääpi jotakin vaikeaksi ymmärtää ennen täydellisempää ikää. Opettaja ja Opettajatar, joiden vallassa kirjan elävä voima on, valitseisivat erilaisille ikäluokille erilaisia ”lukuja”. Kirjan tarkoitus ja sen tekijän mietteet tahtovat miellyttää, mutta eivät hallita nuoria lukijoita.</hi></p>
+  <p style="romanType"><hi rend="italics">Kirjan taiteellisesti tehdyt puupiirroskuvat (paitsi 292 sivulla olevata) ovat ”Ny Illustrerad Tidning’in<supplied>”</supplied> atelierissä Tukholmassa valmistetut osittain teräs- ja kivipiirrosten, osittain Ekmannin y. m. käsipirrrustusten mukaan. Ainoastaan suuret kustannukset, jotka olisivat tehneet kalliimmaksi kirjan hinnan – joka on laskettu niin huokiaksi kun mahdollista on ollut – ovat estäneet saamasta tähän usiampia kuvia, jotka tekevät Ruotsin kansakoulun uuden lukukirjan niin mieluiseksi”.</hi></p>
+  <p style="romanType"><hi rend="italics">Suomentaja, jonka työ tässä nyt jääpi yleisön tarkastettavaksi, saapi nöyrimmästi kiittää professori Z. Topelius’ta, jonka pyynnöstä otin tämän työn tehdäkseni, hänen hyvistä neuvoistansa ja ohjauksistansa, kan<pb type="orig" />slianeuvos E. Lönnrotia ja professori Ahlqvistia, jotka suomennostyön alussa olivat avullisina, kuin myös maisteri K. Slööriä y. m., jotka korjausluennassa ovat oikoneet virhiä.</hi></p>
+  <p style="romanType"><hi rend="italics">Hellempätä toivoa en voi kirjan vaikutukselle lausua kuin professori Topelius’en sanat esilauseen lopussa: ”Herran Jumalan voima, joka ainoa vaikuttaa meissä kaikkea hyvää, siunatkoon tämänkin vajavaisen työn, että se tulisi Hänen valtakuntansa hyödyksi ja moneen nuoreen sydämeen istuttaisi rakkautta isänmaatansa kohtaan”.</hi></p>
+  <p style="romanType"><hi rend="italics">Koivistolla 14 päivänä joulukuuta 1875.</hi></p>
+<p rend="right" style="romanType"><hi rend="bold">J. B.</hi></p>
+  <head style="romanType"><hi rend="bold expanded">Alkulause toiseen painokseen.</hi></head>
+  <p style="romanType"><hi rend="italics">Professori Z. Topeliuksen kehoituksesta ja suomentajan, Pastori J. Bäckvallin suostumuksella on allekirjoittanut uudemman kirjoitustavan mukaiseksi muutellut suomennoksen kieltä tässä ”Maamme Kirjan” toisessa painoksessa, joka nyt jätetään yleisön käytettäväksi. Kirjassa olevat runokappaleet ovat melkein kaikki uudestaan suomennetut. Kolmas luku on tehty enemmän Kalevalan mukaiseksi lausetavaltaan. Toisissakin suorasanaisissa osissa on melkoisia muutoksia tehty, mutta niinkuin korjaustöissä aina, on tässäkin ehkä entiselleen jäänyt usea kohta, joka kenties olisi muuttamalla paremmaksi saatu. Toivon kuitenkin että kirjan sisällys palkitsee suomennoksen mahdolliset vaillinaisuudet.</hi></p>
+  <p style="romanType"><hi rend="italics">Helsingissä 10 p. toukokuuta v. 1878.</hi></p>
+<p rend="right"><hi rend="bold">P. Cajander.</hi><anchor id="struct100b" subtype="sub" /></p>
+<pb type="orig" />
+<pb type="orig" />
+  <head style="romanType"><anchor id="struct900a_g" subtype="sub" /><hi rend="bold expanded">Ainehisto.</hi></head>
+  <head style="romanType"><hi rend="bold">Ensimmäinen Luku. Maa.</hi></head>
+<p rend="noIndent">1. Aamulaulu ................... siv. 1</p>
+<p rend="noIndent">2. Koti ..................... ” 3</p>
+<p rend="noIndent">3. Isänmaa .................... ” 4</p>
+<p rend="noIndent">4. Sun maasi ................... ” 6</p>
+<p rend="noIndent">5. Kuninkaan lahjat ................ ” 7</p>
+<p rend="noIndent">6. Hädän hetkenä ................. ” 10</p>
+<p rend="noIndent">7. Maa ja kansa .................. ” 11</p>
+<p rend="noIndent">8. Meidän maamme ja maailma ............ ” 13</p>
+<p rend="noIndent">9. Merimiehen ikävöiminen kotiinsa ........... ” 15</p>
+<p rend="noIndent">10. Meidän maamme alku ............... ” 16</p>
+<p rend="noIndent">11. Meren-neito .................. ” 19</p>
+<p rend="noIndent">12. Itämeri .................... ” 20</p>
+<p rend="noIndent">13. Ahvenanmaanlaulu ................ ” 23</p>
+<p rend="noIndent">14. Suomen ylängöt ja laksot ............. ” 23</p>
+<p rend="noIndent">15. Maakunnat ................... ” 26</p>
+<p rend="noIndent">16. Lapinmaan tunturit ................ ” 29</p>
+<p rend="noIndent">17. Inarinjärvi ................... ” 31</p>
+<p rend="noIndent">18. Luoppionvaara ja Aavasaksa ............ ” 32</p>
+<p rend="noIndent">19. Oulunjoki ................... ” 34</p>
+<p rend="noIndent">20. Kallan-kari ................... ” 36</p>
+<p rend="noIndent">21. Isokyrö .................... ” 37</p>
+<p rend="noIndent">22. Satakunnan rannikko ............... ” 39</p>
+<p rend="noIndent">23. Talvipäivä Ahvenanmaalla ............. ” 40</p>
+<p rend="noIndent">24. Maanvieremä Uskelassa .............. ” 41</p>
+<p rend="noIndent">25. Hankoniemen majakka .............. ” 43</p>
+<p rend="noIndent">26. Pyynikki .................... ” 45</p>
+<p rend="noIndent">27. Nokianvirta ja Kyrönkoski ............. ” 46</p>
+<p rend="noIndent">28. Paikkarin torppa ................ ” 48</p>
+<p rend="noIndent">29. Suomen erämaita ................ ” 50</p>
+<p rend="noIndent">30. Päijänteen vesistö ................ ” 51</p>
+<p rend="noIndent">31. Saimaa .................... ” 53</p>
+<p rend="noIndent">32. Punkaharju .................. ” 55</p>
+<p rend="noIndent">33. Imatra .................... ” 56</p>
+<pb type="orig" />
+<p rend="noIndent">34. Luonnon-mullistus ................ siv. 59</p>
+<p rend="noIndent">35. Laatokka ................... ” 62</p>
+<p rend="noIndent">36. Suomen ilmanalasta ............... ” 64</p>
+<p rend="noIndent">37. Kirkkaalla jäällä ................ ” 66</p>
+<p rend="noIndent">38. Kesäyön kirkkaus ................ ” 68</p>
+<p rend="noIndent">39. Joutsen .................... ” 69</p>
+<p rend="noIndent">40. Ilman ennustamisesta .............. ” 71</p>
+<p rend="noIndent">41. Pyterlahden graniiti-louhos ............ ” 73</p>
+<p rend="noIndent">42. Ruskealan marmorilouhos ............. ” 75</p>
+<p rend="noIndent">43. Suomen rauta ................. ” 76</p>
+<p rend="noIndent">44. Lapinmaan kulta ................ ” 78</p>
+<p rend="noIndent">45. Kasvien levenemisestä .............. ” 80</p>
+<p rend="noIndent">46. Metsä .................... ” 82</p>
+<p rend="noIndent">47. Kulovalkea .................. ” 85</p>
+<p rend="noIndent">48. Pellosta ja niitystä ............... ” 87</p>
+<p rend="noIndent">49. Hallayö .................... ” 90</p>
+<p rend="noIndent">50. Kärsivällisyys ................. ” 92</p>
+<p rend="noIndent">51. Syötävistä sieneistä ............... ” 95</p>
+<p rend="noIndent">52. Puutarhoista ja ryytimaista ............ ” 96</p>
+<p rend="noIndent">53. Ystäviä ja vihollisia ............... ” 97</p>
+<p rend="noIndent">54. Suomen hevosesta ................ ” 99</p>
+<p rend="noIndent">55. Karjasta ................... ” 101</p>
+<p rend="noIndent">56. Suomalaisia Paimenlauluja ............ ” 102</p>
+  <head style="romanType"><hi rend="bold">Toinen Luku. Kansasta.</hi></head>
+<p rend="noIndent">57. Mathias Aleksanteri Castrén’ista .......... ” 104</p>
+<p rend="noIndent">58. Suomen kansakunnasta .............. ” 106</p>
+<p rend="noIndent">59. Permalaisista ................. ” 108</p>
+<p rend="noIndent">60. Vatjalaisia kansanlauluja ............. ” 110</p>
+<p rend="noIndent">61. Lappalaisista ................. ” 112</p>
+<p rend="noIndent">62. Lappalaisen poro ................ ” 114</p>
+<p rend="noIndent">63. Lappalaisten satuja ............... ” 117</p>
+<p rend="noIndent">64. Päiviön suku .................. ” 119</p>
+<p rend="noIndent">65. Lapin kansanlauluja ............... ” 120</p>
+<p rend="noIndent">66. Lappalaisen pojan laulu ............. ” 121</p>
+<p rend="noIndent">67. Virolaisista .................. ” 123</p>
+<p rend="noIndent">68. Virolaisten Kalevi-poeg ............. ” 124</p>
+<p rend="noIndent">69. Virolaisia kansanlauluja ............. ” 126</p>
+<p rend="noIndent">70. Suomen kansasta ................ ” 129</p>
+<p rend="noIndent">71. Matti .................... ” 132</p>
+<p rend="noIndent">72. Suomen kielestä ................ ” 136</p>
+<p rend="noIndent">73. Lippo ja Tapio ................. ” 138</p>
+<pb type="orig" />
+<p rend="noIndent">74. Kettu ja Jänis ................ siv. 141</p>
+<p rend="noIndent">75. Kansan tarinoita jättiläisistä ........... ” 141</p>
+<p rend="noIndent">76. Yhtymisiä jättiläisten kanssa .......... ” 144</p>
+<p rend="noIndent">77. Leikkisatuja ................. ” 145</p>
+<p rend="noIndent">78. Suomalainen kansanrunous ........... ” 148</p>
+<p rend="noIndent">79. Suomalaisia kansanlauluja ............ ” 151</p>
+<p rend="noIndent">80. Suomalaisia sananlaskuja ............ ” 158</p>
+<p rend="noIndent">81. Suomalaisia arvoituksia ............ ” 161</p>
+<p rend="noIndent">82. Kansanluulo ja taikausko ............ ” 166</p>
+<p rend="noIndent">83. Karjalaisista ................. ” 169</p>
+<p rend="noIndent">84. Savolaisista ................. ” 171</p>
+<p rend="noIndent">85. Kaksi runoseppää ............... ” 172</p>
+<p rend="noIndent">86. Hämäläisistä ................. ” 175</p>
+<p rend="noIndent">87. Karhun-ampuja Martti Kitunen .......... ” 177</p>
+<p rend="noIndent">88. Suomenmaan ruotsalaisista asukkaista ....... ” 180</p>
+<p rend="noIndent">89. Ruotsinkielestä ................ ” 182</p>
+<p rend="noIndent">90. Saariston asukkaat lounaspuolisessa Suomessa .... ” 184</p>
+<p rend="noIndent">91. Uusmaalaiset ................ ” 186</p>
+<p rend="noIndent">92. Pohjalaiset ................. ” 190</p>
+<p rend="noIndent">93. Venäläiset Suomessa ............. ” 193</p>
+<p rend="noIndent">94. Muista, jotka ovat muuttaneet Suomeen ....... ” 194</p>
+  <head style="romanType"><hi rend="bold">Kolmas Luku. Pakanallisia Jumaloita ja sankarisatuja.</hi></head>
+<p rend="noIndent">95. Pakanallisten Suomalaisten Jumaloista ....... ” 196</p>
+<p rend="noIndent">96. Kalevalasta ja Elias Lönnrotista ......... ” 199</p>
+<p rend="noIndent">97. Maailman luomisesta ............. ” 201</p>
+<p rend="noIndent">98. Maanviljelyksen alku ............. ” 207</p>
+<p rend="noIndent">99. Tulen synty ................. ” 209</p>
+<p rend="noIndent">100. Raudan synty ................ ” 210</p>
+<p rend="noIndent">101. Väinämöinen ja Joukahainen .......... ” 223</p>
+<p rend="noIndent">102. Väinämöisen ensimmäinen Pohjolan matka ..... ” 225</p>
+<p rend="noIndent">103. Ilmarinen takoo Sammon ............ ” 227</p>
+<p rend="noIndent">104. Lemminkäisen elämän vaiheista ......... ” 229</p>
+<p rend="noIndent">105. Lemminkäisen surma ............. ” 231</p>
+<p rend="noIndent">106. Väinämöinen Tuonelassa ............ ” 233</p>
+<p rend="noIndent">107. Ilmarinen saapi Pohjan neidon .......... ” 235</p>
+<p rend="noIndent">108. Satu Kullervosta ............... ” 237</p>
+<p rend="noIndent">109. Sota <choice><orig>sammosta</orig><reg>Sammosta</reg></choice> ................ ” 239</p>
+<p rend="noIndent">110. Väinämöisen laulu .............. ” 241</p>
+<p rend="noIndent">111. Sota valosta ................. ” 243</p>
+<p rend="noIndent">112. Väinämöinen ja Jesuslapsi ........... ” 251</p>
+<pb type="orig" />
+  <head style="romanType"><hi rend="bold">Neljäs Luku. Kertomuksia Suomen katolisesta ajasta.</hi></head>
+<p rend="noIndent">113. Kivi-aikakauden kansasta ............ siv. 254</p>
+<p rend="noIndent">114. Suomalaisista pakanuuden ajalla ......... ” 255</p>
+<p rend="noIndent">115. Ruotsalaisista ................ ” 257</p>
+<p rend="noIndent">116. Pyhästä Eerik kuninkaasta ........... ” 260</p>
+<p rend="noIndent">117. Ensimmäinen risti-retki Suomeen ......... ” 261</p>
+<p rend="noIndent">118. Kuningas Eerik ja pispa Henrik ......... ” 264</p>
+<p rend="noIndent">119. Pispa Henrikin kuolemasta ........... ” 265</p>
+<p rend="noIndent">120. Pispa Tuomaasta ............... ” 267</p>
+<p rend="noIndent">121. Hämeenmaa ristitään ............. ” 269</p>
+<p rend="noIndent">122. Karjala ristitään ............... ” 271</p>
+<p rend="noIndent">123. Venäjän valtakunnan alku ........... ” 274</p>
+<p rend="noIndent">124. Matti Kurki ja Pirkkalaiset ........... ” 275</p>
+<p rend="noIndent">125. Kuinka erämaat tulivat asutuiksi ......... ” 277</p>
+<p rend="noIndent">126. Pispa Hemmingistä .............. ” 278</p>
+<p rend="noIndent">127. Kalmarin Unioni ............... ” 280</p>
+<p rend="noIndent">128. Pispa Maunu Tavastista ............ ” 282</p>
+<p rend="noIndent">129. Katolisesta opista ............... ” 284</p>
+<p rend="noIndent">130. Turun tuomiokirkosta ............. ” 286</p>
+<p rend="noIndent">131. Naantalin luostarista ............. ” 288</p>
+<p rend="noIndent">132. Suomen neljästä säädystä ............ ” 290</p>
+<p rend="noIndent">133. Viipurin pamauksesta ............. ” 292</p>
+<p rend="noIndent">134. Kristian Tyrannista .............. ” 295</p>
+<p rend="noIndent">135. Kustaa Vaasasta ............... ” 297</p>
+<p rend="noIndent">136. Junker Tuomas ja Eerik Fleming ......... ” 299</p>
+<p rend="noIndent">137. Pispa Arvid Kurki .............. ” 301</p>
+  <head style="romanType"><hi rend="bold">Viides Luku. Kertomuksia Suomen sotaisista ajoista.</hi></head>
+<p rend="noIndent">138. Lutheruksen uskonpuhdistuksesta ......... ” 303</p>
+<p rend="noIndent">139. Kuningas Kustaan hallitus ........... ” 305</p>
+<p rend="noIndent">140. Pispa Mikael Agrikola ............. ” 307</p>
+<p rend="noIndent">141. Suomen herttua Juhana ............ ” 309</p>
+<p rend="noIndent">142. Kuningas Eerik ja Suomalaiset .......... ” 311</p>
+<p rend="noIndent">143. Kaarina Maununtyttärestä ............ ” 313</p>
+<p rend="noIndent">144. Pontus Delagardie ja hänen aikakautensa ...... ” 315</p>
+<p rend="noIndent">145. Klaus Fleming ja Nuijasota ........... ” 317</p>
+<p rend="noIndent">146. Herttua Kaarlo ja Arvid Stålarm ......... ” 319</p>
+<p rend="noIndent">147. Juhana Flemingistä .............. ” 321</p>
+<p rend="noIndent">148. Kuningas Kaarlo 9:nestä ............ ” 322</p>
+<p rend="noIndent">149. Sigfrid Forsius ................ ” 324</p>
+<p rend="noIndent">150. Kuningas Kustaa Aadolfista ........... ” 326</p>
+<pb type="orig" />
+<p rend="noIndent">151. Suomalaiset Demminin luona .......... siv. 328</p>
+<p rend="noIndent">152. Breitenfeldin tappelu ............. ” 329</p>
+<p rend="noIndent">153. Suomalaiset Würtzburgin luona ......... ” 332</p>
+<p rend="noIndent">154. Meno Lech-virran ylitse ............ ” 333</p>
+<p rend="noIndent">155. Lützenin Tappelu ............... ” 335</p>
+<p rend="noIndent">156. Kuningatar Kristina ja kolmenkymmenvuotisen sodan loppu ................... ” 339</p>
+<p rend="noIndent">157. Kreivin aika ja Turun akatemia ......... ” 340</p>
+<p rend="noIndent">158. Kuningas Kaarlo 10:s Kustaa ja Arvid Wittenberg .. ” 343</p>
+<p rend="noIndent">159. Kuningas Kaarlo 11:n aikakausi ......... ” 345</p>
+<p rend="noIndent">160. Suuret nälkävuodet .............. ” 347</p>
+<p rend="noIndent">161. Kahdestoista Kaarlo ja Narvan tappelu ...... ” 349</p>
+<p rend="noIndent">162. Tie Pultavaan ................ ” 351</p>
+<p rend="noIndent">163. Viipurin valloitus .............. ” 353</p>
+<p rend="noIndent">164. Napuen Tappelu ............... ” 355</p>
+<p rend="noIndent">165. Kajaanin linna ja Kivekkäät .......... ” 357</p>
+<p rend="noIndent">166. Tapani Löfvingin retket ............ ” 359</p>
+<p rend="noIndent">167. Ison vihan ajat ............... ” 362</p>
+<p rend="noIndent">168. Kuningas Kaarlo 12:n muisto .......... ” 365</p>
+  <head style="romanType"><hi rend="bold">Kuudes Luku. Kertomuksia Suomen uudemmasta ajasta.</hi></head>
+<p rend="noIndent">169. Uuden-kaupungin rauha ja vapauden-aika ...... ” 368</p>
+<p rend="noIndent">170. Arvid Horn ja Suomen toipuminen ........ ” 370</p>
+<p rend="noIndent">171. Lappeenrannan tappelu ............ ” 372</p>
+<p rend="noIndent">172. Hyödyn aikakausi .............. ” 375</p>
+<p rend="noIndent">173. Kuningas Kustaa 3:s .............. ” 378</p>
+<p rend="noIndent">174. Anjalan liitto ................ ” 382</p>
+<p rend="noIndent">175. Porrassalmen tappelu ............. ” 384</p>
+<p rend="noIndent">176. Kuningas Kustaan kuolema ........... ” 387</p>
+<p rend="noIndent">177. Kustaa Mauritz Armfelt ............ ” 389</p>
+<p rend="noIndent">178. Henrik Gabriel Porthan ............ ” 391</p>
+<p rend="noIndent">179. Frans Mikael Franzén ............. ” 394</p>
+<p rend="noIndent">180. Vuoden 1808 sota .............. ” 397</p>
+<p rend="noIndent">181. Kaarlo Juhana Adlercreutz ........... ” 401</p>
+<p rend="noIndent">182. Haminan rauha ............... ” 404</p>
+<p rend="noIndent">183. Vänrikki Stoolin Tarinat ............ ” 407</p>
+<p rend="noIndent">184. Sotilaspoika ................. ” 410</p>
+<p rend="noIndent">185. Keisari Aleksanteri 1:nen ja Porvoon valtiopäivät ... ” 411</p>
+<p rend="noIndent">186. Suomi jälleen yhdistettynä ........... ” 415</p>
+<p rend="noIndent">187. Turun tulipalo ................ ” 418</p>
+<p rend="noIndent">188. Yliopiston riemujuhla v. 1840 .......... ” 420</p>
+<p rend="noIndent">189. Keisari Nikolai ja sota merivaltoja vastaan ..... ” 424</p>
+<pb type="orig" />
+<p rend="noIndent">190. Keisari <choice><orig>Aloksanteri</orig><reg>Aleksanteri</reg></choice> 2:nen ja Helsingin valtiopäivät v. 1863 siv. 426</p>
+<p rend="noIndent">191. Maamme perustuslait ............. ” 430</p>
+<p rend="noIndent">192. Maamme pääkaupungista ............ ” 434</p>
+<p rend="noIndent">193. Yhteiskunnasta ja hallituksesta ......... ” 436</p>
+<p rend="noIndent">194. Yhdistys- ja kulkukeinoista ........... ” 440</p>
+<p rend="noIndent">195. Edistyminen varallisuudessa ........... ” 444</p>
+<p rend="noIndent">196. Kirkko ja koulu ............... ” 447</p>
+<p rend="noIndent">197. Runoilijoista ja taideniekoista .......... ” 455</p>
+<p rend="noIndent">198. Suonin kotimaan virsi ............. ” 455</p>
+<p rend="noIndent">199. Kotiintulo koulusta .............. ” 456</p>
+<p rend="noIndent">200. Isänmaan virsi ................ ” 459<anchor id="struct900b_g" subtype="sub" /></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
+    <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Boken om Vårt Land. 1875. Tredje Läsningen. Hednagudar och hjeltesagor, varianttikoodattu</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Z. Topelius, Läsebok för de lägsta lärowerken i Finland. Andra Kursen. Boken om Wårt Land, Helsingfors: G. W. Edlunds förlag 1875</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+    <text>
+        <body xml:space="preserve">
+  <pb type="orig" n="206" />
+  <head type="section">Tredje Läsningen.</head>
+  <head type="section">Hednagudar och Hjeltesagor.</head>
+  <head>95. Om de hedniske Finnarnes gudar.</head>
+  <p n="1">Långt innan Gud Allsmäktig uppenbarat sin sanna kunskap för menniskorna, hade han sjelf nedlagt en dunkel aning i deras samweten. De sågo öfwer sig himmelen med dess åska och ljungeld, framför sig det wida hafwet och den gröna jorden, rundtomkring sig den beständiga omwexlingen af dag och natt, winter och sommar, lif och död. De kände sig ringa och wanmäktiga, deras lif förgick som blomstret på marken, och de sökte Gud, för att trygga sig wid något ewigt, som icke war underkastadt jordens wexlingar.</p>
+  <p>Men de sökte Gud i den synliga werlden och wisste icke, i deras okunnighet, att Gud är en osynlig ande, som allestädes närwarande uppenbarar sin kraft i naturen. Deraf förwillades deras ögon, och de sökte honom förgäfwes. De trodde, att han fanns i den synliga himmelen, och kallade honom <hi rend="expanded">Jum</hi>, eller <hi rend="expanded">Jumala</hi> (Guds boning). Emedan ålderdomen hölls i stor wördnad, kallades himmelens gud äfwen <hi rend="expanded">Ukko</hi>, den gamle. Han troddes styra molnens lopp, åskan, snön, haglet och regnet. Honom kunde ingen motstå: molnet war hans skjorta, blixten hans pil, och han sågs stundom wid himlaranden, klädd i blå strumpor och brokiga skor.</p>
+  <p>Ukko – så trodde hedningarne – hade en hustru, <hi rend="expanded">Akka</hi>, från hwars korg biet hemtade honung. Solen, månen och stjernorna woro särskilda gudamakter, som hade unga, sköna söner och döttrar: <hi rend="expanded">Päiwätär</hi>, solens dotter, <hi rend="expanded">Kuutar</hi>, månens dotter, <hi rend="expanded">Tähetär</hi>, stjernans dotter. En af solens söner war <hi rend="expanded">Panu</hi>, eldsanden. <hi rend="expanded">Luonottaret</hi> woro<pb type="orig" n="207" /> naturens tre döttrar, som framalstrade jernet. Luftens dotter <hi rend="expanded">Ilmatar</hi> bidrog till werldens skapelse, men windens dotter, <hi rend="expanded">Tuulen tytär</hi>, war en illa uppfostrad flicka, som wäfde dåliga skjortor. Sunnanwindens dotter, <hi rend="expanded">Etelätär</hi>, gaf regn i torka, och sommarens dotter, <hi rend="expanded">Suwetar</hi>, wårdade boskap i skogen.</p>
+  <p>Wattnets gud hette <hi rend="expanded">Ahti</hi> och war en wördig gubbe med långt skägg af sjögräs. Han bodde i en klippgrotta, <hi rend="expanded">Ahtola</hi>, och hade omätliga skatter, dem han röfwat af sjöfarande och sällan tillbakagaf. Hans hustru war den gifmilda <hi rend="expanded">Wellamo</hi>, klädd i blå mössa, säfskjorta och kappa af skum. De hade många sköna, men ostadiga barn, och wågens dotter, <hi rend="expanded">Aallotar</hi>, brukade stundom kamma på klippan sitt långa hår med silfwerborste.</p>
+  <p>Jordens mäktiga moder hette <hi rend="expanded">Maan emo</hi> och anropades om rikliga skördar. Skogens beherrskare war den gamle, brunskäggige <hi rend="expanded">Tapio</hi> med sin höga hatt af barr och sin pels af granmossa. Hans boning war det wackra <hi rend="expanded">Metsola</hi>, skogsgården, der Tapio hade tre konungaborgar och en skattkammare, till hwilken hans hustru <hi rend="expanded">Mielikki</hi> bar guldnyckeln wid sidan. Henne bad jägaren om en lycklig jagt, och såg han henne wresig, i fula, tarfliga kläder, lyckades jagten illa; men såg han henne prydd med guldarmband och perlor, då war han säker om lycklig fångst. Ty alla skogens djur woro Tapios boskapshjordar; han hade många tjenare och wackra, wäl uppfostrade barn. <hi rend="expanded">Nyyrikki</hi> högg märke i träden, att jägaren ej skulle gå wilse; <hi rend="expanded">Tellerwo</hi> ledde hem boskapen; <hi rend="expanded">Tuulikki</hi> bredde sin röda silkesduk till en brygga öfwer bäcken. <hi rend="expanded">Metsän piika</hi>, skogens lilla tjensteflicka, lefde af idel honung och blåste så ljufligt sin flöjt, att Mielikki waknade ur sin morgonslummer och hörde jägarens böner.</p>
+  <p>I <hi rend="expanded">Hiittola</hi>, långt bland de öde bergen, bodde den grymme <hi rend="expanded">Hiisi</hi>. Hela hans slägt war onda troll, han war<pb type="orig" n="208" /> plågornas och förskräckelsens konung, han kunde slipa de skarpaste swärd. Under jorden, i <hi rend="expanded">Tuonela</hi>, war de dödas rike, till hwilket man färdades öfwer nio haf. Dess blodlystne konung war <hi rend="expanded">Tuoni</hi>, hwars elaka hustru hjelpte sin man att wakta de döda. Sönerne hade kopparfingrar, döttrarna woro lika fula och ondsinta, men wärst war den blinda <hi rend="expanded">Lowiatar</hi>, plågornas moder.</p>
+  <p>Utom dem funnos många andra både goda och onda wäsen, som stundom hjelpte, stundom skadade menniskorna. I hwarje träd, hwarje berg, hwarje källa bodde en <hi rend="expanded">haltia</hi> eller skyddsande; allt hade lif, hela naturen war uppfylld af lefwande andar. Och så hade Gud Allsmäktig i hedningarnes föreställning likasom fallit sönder i många tusende spillror, och hwarje sådan spillra af Gud war bunden wid något naturföremål.</p>
+  <p>Menniskans ande allena war fri. Den wisa menniskan kunde beherrska naturen och beswärja gudarne genom ordets makt. Hon kunde med sina läsningar (<hi rend="expanded">luwut</hi>) skapa naturföremål eller förwandla dem till någonting annat. Hon kunde nedkalla blixten, haglet, frosten, wattuflödet; hon kunde framkalla sjukdomarna, eller bortdrifwa dem. Till allt sådant behöfde hon weta tingens ursprung (<hi rend="expanded">synty</hi>), och då war hon herrskare öfwer allting, förutom döden, som hon icke kunde beswärja, emedan hon icke wisste hans ursprung.</p>
+  <p>I allt detta låg en skymt af den gudomliga sanningen. Ty det finska folket har i alla tider begrundat höga ting och älskat wisheten, som det aktat högre än styrkan. Men det behöfde Guds uppenbarade ord, för att finna den Gud, som det så länge förgäfwes sökt.</p>
+  <p>Finnarnes hedniska gudstjenst war mycket enkel. De hade inga afgudatempel, inga prester, inga afgudabilder. De hade heliga träd, heliga berg, heliga sjöar, floder och källor, äfwen heliga djur, såsom björnen, ormen, getingen, örnen. De tjenade sina gudar med böner och offer, hwilka förrätta<pb type="orig" n="209" />des af husfadren, husmodren eller de wise bland folket. Jägaren hängde renens horn i det heliga trädet. Fiskaren gaf det feta af fångsten, swedjebrukaren offrade swedens korn, husmodren utspillde på jorden några droppar mjölk åt de underjordiske (<hi rend="expanded">maahiset</hi>). Menniskoblod gjöts icke wid offren; endast jägaren skar sig i tummen och offrade dropparne af sitt blod i en myrstack åt Tapio.</p>
+  <head>96. Om Kalewala och Elias Lönnrot.</head>
+  <p n="1">Biskop Agricola begynte för mer än 300 år sedan att först anteckna en finsk <hi rend="expanded">mythologi</hi> eller gudalära, och sedan hafwa andre med bättre framgång uppsamlat qwarlefworna af denna hedniska tro. Man wisste länge, att gamla finska runor ännu sjöngos af folket. Presterskapet tyckte ej om dessa qwarlefwor af hedendomen, och många fromme kristne betraktade dem med fruktan och afsky. Så hände, att många af dessa forntida runor, som icke woro uppskrifna, utan behöllos i minnet från far till son, blefwo annorstädes glömda och bibehöllo sig blott i Karelen och några andra aflägsna orter. Men äfwen der klagade månge, att i deras barndom fäderne sjungit mycket, som sedan blef glömdt, och de yngre sångarne kunde ej mera mäta sig i minne och kraft med de äldre.</p>
+  <p>Det är nu hundra år, sedan professor Porthan i Åbo begynte att uppteckna några af dessa gamla runor och fann dem hafwa ett wärde för kännedomen af folkets forntid. Samtidigt och efter honom begynte lärde män, såsom Ganander, Lencqwist och andre, att utleta från runorna det, som de wille weta om hedendomens tro. Efter dem begynte doktor Topelius att samla och trycka runor,<pb type="orig" n="210" /> som karelske sångare sjöngo för honom. Alltflera sådana runor upptäcktes, man begynte förstå deras wärde, men ingen hade ännu anat, att de kunde wara stycken af en hel, stor folkdikt.</p>
+  <p>Då företog sig doktor <hi rend="expanded">Elias Lönnrot</hi> att wandra igenom de trakter i finska och ryska Karelen, der runorna ännu sjöngos af gråhårige wise. Han fann ännu långt flera sådana forntida runor, än andra funnit före hans tid, och upptecknade dem. Till sin förundran märkte han då, att runorna hade ett inbördes sammanhang och beskrefwo samma händelser eller samma personer. Då sammanställde han alla berättande runor i en stor samling, hwilken han kallade <hi rend="expanded">Kalewala</hi>, efter den gamle jätten Kalewa, som sades wara de finske hjeltarnes stamfader. Andra runor åter, i hwilka folket sjöng om sina fröjder och sorger, samlade han i <hi rend="expanded">Kanteletar</hi>, som fick sitt namn af kantele, Finnarnes gamla strängaspel. Dessutom samlade han finska ordspråk och gåtor, skref många lärorika psalmer och lät trycka många nyttiga böcker, bland hwilka är hans stora ordbok öfwer det finska språket. Så blef han en af de mest namnkunnige och mest älskade män, som någonsin lefwat i Finland.</p>
+  <p>Men doktor Lönnrot aktade ringa sin egen ära. Han prisade Gud, som utkorat honom till ett af sina redskap på jorden, och ansåg det för sin enda berömmelse, att wara en af de månge, som arbeta för fäderneslandet. Sedan han<pb type="orig" n="211" /> länge warit läkare i Kajana, blef han professor i finska språket wid Helsingfors universitet och flyttade slutligen till sin födelseort i Sammatti, alltid med stor ödmjukhet arbetande för medmenniskors wäl och sitt folks upplysning. Genom honom har det finska folket lärt sig känna sin dunkla forntid och fått mod att bestå som ett eget sjelfständigt folk gentemot andra folk i werlden.</p>
+  <p>Kalewala utkom första gången 1835, andra gången 1849 i en af Lönnrot tillökt och annorlunda ordnad upplaga. Denna bok har wäckt ett stort uppseende, icke blott i Finland, utan mångenstädes i Europa, ja i Amerika. Den har blifwit öfwersatt till swenska (af M. Castrén och K. Collan) samt till flera främmande språk. Öfwerallt har man ansett Kalewala för en af de märkwärdigaste folkdikter, som någonsin utkommit, och prisat det finska folket lyckligt att äga en sådan. Ty Kalewala liknar icke någon annan samling af folksånger i hela werlden. Der återspeglar sig det finska folkets egendomlighet, och wid sidan af mycket, som för wår tid synes hedniskt och widunderligt, finnes der en djup wisdom, en enkel skönhet och en rörande fosterlandskärlek.</p>
+  <p>Nyare Kalewala innehåller femtio runor eller sånger, med inalles 22,800 åttastafwiga werser. Dess innehåll är en berättelse om det finska folkets forntida hjeltar och deras äfwentyr. Wi läsa der om den gamle, wise runosångaren <hi rend="expanded">Wäinämöinen</hi>, den raske smeden <hi rend="expanded">Ilmarinen</hi>, den unge, tappre och öfwermodige <hi rend="expanded">Lemminkäinen</hi>, den jättestarke, olycksfödde <hi rend="expanded">Kullerwo</hi>, den skrytsame <hi rend="expanded">Joukahainen</hi> och widare om werldens skapelse, om sångens begynnelse, om Pohjola i norden, om Wäinölä i södern och annat mer. Wi skola derför i korthet berätta några stycken ur Kalewala för dem, som icke ha läst den märkwärdiga boken.</p>
+  <pb type="orig" n="212" />
+  <head>97. Werldens Skapelse.</head>
+  <head type="sub">(Efter Kalevala I.)</head>
+  <lg>
+  <l>Så jag hörde fordom sägas,</l>
+  <l>Hörde sången förr begynnas:</l>
+  <l>En i sender kommer natten,</l>
+  <l>En i sender ljusnar dagen,</l>
+  <l>Ensam föddes Wäinämöinen,</l>
+  <l>Den evärdelige sångarn.</l>
+  <l rend="indent">Luftens dotter var hans moder,</l>
+  <l rend="indent">Vinden var hans starke fader,</l>
+  <l rend="indent">Vida hafvet var hans vagga</l>
+  <l rend="indent">Och hans hem var öde rymden.</l>
+  <l>Det var luftens ljufva dotter,</l>
+  <l>Ilmatar, naturens tärna.</l>
+  <l>Under fästets rymd hon bodde,</l>
+  <l>Ledsnade att ensam lefva,</l>
+  <l>Sänkte sig till vattnets vågor,</l>
+  <l>Vaggades af östanvinden</l>
+  <l>På de skumbetäckta böljor.</l>
+  <l rend="indent">Så i nio menskoåldrar,</l>
+  <l>I sjuhundra långa somrar</l>
+  <l>Drefs den klara luftens dotter</l>
+  <l>På de vida vattenöknar,</l>
+  <l>Samm mot öster, samm mot vester,</l>
+  <l>Tröttnade vid villa vågor,</l>
+  <l>Och hon bad till himlens herre:</l>
+  <l>Ukko, högste gud derofvan,</l>
+  <l>Hjelp mig arma, öfvergifna!</l>
+  <l rend="indent">Som hon bad, då kom en fågel,</l>
+  <l rend="indent">Hafvets and på snabba vingar,</l>
+  <l rend="indent">Sökte för sitt bo ett fäste,</l>
+  <l rend="indent">Fann ej minsta lägerställe.</l>
+  <l rend="indent">Bygger jag mitt bo i vinden,</l>
+  <pb type="orig" n="213" />
+  <l rend="indent">Så skall vinden störta stugan.</l>
+  <l rend="indent">Bygger jag mitt bo på vågen,</l>
+  <l rend="indent">Så skall vågen föra bort det.</l>
+  <l>Men då höjde vattnets moder,</l>
+  <l>Vattnets moder, luftens tärna,</l>
+  <l>Knä och skuldra upp ur vågen.</l>
+  <l>Och så kom den vilsna anden,</l>
+  <l>Trodde, att det var en tufva,</l>
+  <l>Blomsterö på öde hafvet,</l>
+  <l>Byggde så sitt bo på tufvan,</l>
+  <l>Lade äggen sju i blomstren;</l>
+  <l>Sex af äggen voro guldägg,</l>
+  <l>Men det sjunde var ett jernägg.</l>
+  <l rend="indent">Vattnets moder, luftens tärna</l>
+  <l rend="indent">Kände snart en ovan värme,</l>
+  <l rend="indent">Drog med hast sitt knä tillbaka,</l>
+  <l rend="indent">Äggen rullade i vattnet,</l>
+  <l rend="indent">Föllo der i tusen stycken.</l>
+  <l>Ej förgingos de i vattnet,</l>
+  <l>Herrligt hvarje ägg förbyttes:</l>
+  <l>Af dess nedra hälft blef jorden,</l>
+  <l>Af dess öfra hälft blef himlen,</l>
+  <l>Af dess gula tändes solen,</l>
+  <l>Af dess hvita lyste månen,</l>
+  <l>Af dess klara delar föddes</l>
+  <l>Stjernorna på fästets båge,</l>
+  <l>Och dess dunkla delar spriddes</l>
+  <l>Såsom moln på himlahvalfvet.</l>
+  <l rend="indent">Åter gingo långa tider,</l>
+  <l rend="indent">Många långa år förflöto;</l>
+  <l rend="indent">Vattnets moder, luftens tärna</l>
+  <l rend="indent">Samm ännu i hafvets töcken,</l>
+  <l rend="indent">Med det dunkla djupet under</l>
+  <l rend="indent">Och den klara himlen ofvan.</l>
+  <pb type="orig" n="214" />
+  <l>Efter tio långa somrar</l>
+  <l>Höjde hon sin hand ur vågen</l>
+  <l>Och begynte skapa länder.</l>
+  <l>Der hon sträckte sina händer,</l>
+  <l>Höjdes stränder, uddar, öar;</l>
+  <l>Der hon trampade med foten,</l>
+  <l>Gräfde hon ut fiskens gropar;</l>
+  <l>Der hon dykade i vattnet,</l>
+  <l>Danade hon hafvets hålor;</l>
+  <l>Der hon närmade sig landet,</l>
+  <l>Jemnade hon strandens vallar,</l>
+  <l>Bröt de breda hafvets bugter</l>
+  <l>Redde plats att fånga laxar.</l>
+  <l>Och så skapade hon vikar,</l>
+  <l>Öar, fjärdar, dolda klippor,</l>
+  <l>Der de sköna fartyg stranda</l>
+  <l>Och der raske sjömän drunkna.</l>
+  <l>Redan stodo luftens stolpar,</l>
+  <l>Bergens refflor, jordens marker;</l>
+  <l>Men ej än fanns Wäinämöinen,</l>
+  <l>Den evärdelige <corr source="Rättelser">sångarn.</corr></l>
+  <l rend="indent">Sent omsider, sist af alla</l>
+  <l rend="indent">Föddes också Wäinämöinen,</l>
+  <l rend="indent">Grånad redan, när han föddes,</l>
+  <l rend="indent">Vis och gammal ren i vaggan.</l>
+  <l>Hafvets bölja var hans vagga</l>
+  <l>Och dess skum hans hufvudkudde.</l>
+  <l>Icke solen, icke månen,</l>
+  <l>Egen kraft och egen vilja</l>
+  <l>Banade hans väg i verlden.</l>
+  <l>Fallen ur sin moders sköte,</l>
+  <l>Dref han åtta år på hafvet,</l>
+  <l>Dref så till en namnlös udde,</l>
+  <l>Steg med fröjd på gröna jorden,</l>
+  <pb type="orig" n="215" />
+  <l>Att beskåda himlens måne,</l>
+  <l>Att af solens sken sig glädja</l>
+  <l>Och betrakta karlavagnen.</l>
+  <l rend="indent">Alltså blef nu verlden skapad,</l>
+  <l rend="indent">Alltså föddes Wäinämöinen,</l>
+  <l rend="indent">Den evärdelige sångarn.</l>
+  </lg>
+  <head>98. Åkerbrukets begynnelse.</head>
+  <head type="sub">(Kw. 2).</head>
+  <p n="1">I många år bodde Wäinämöinen på den namnlösa udden. Jorden war öde och ofruktbar; intet träd wexte, ingen fågel sjöng i de wida ödemarkerna.</p>
+  <p>Då eftersinnade Wäinämöinen hwem som skulle befrukta jorden. Åkerns unge gosse, Sampsa Pellerwoinen, gick ut att så. Han sådde tallar på moarna, granar på kullarna, ljung på hedarna och löfträd uti de fuktiga dalar. Wäinämöinen gick ut att beskåda Sampsas werk, och se, alla wexter frodades herrligt, men gudarnes heliga träd, eken, wille ej wexa wid flodstranden.</p>
+  <p>Efter en wecka uppstego fem af wattnets unga tärnor på stranden och begynte att berga hö på den dimmiga udden. Då steg jätten Tursas ur hafwet, tände eld i tärnornas hö och nedlade i askan kärlekens blad, ekollonet. Häraf wexte en ek, skjöt hastigt i höjden, nådde himmelen med sin topp, hämmade med sina grenar molnens flygt och bortskymde sol och måne, så att de icke lyste på jorden.</p>
+  <p>Nu blef ett sådant mörker, att menskorna på jorden och fiskarne i hafwet ledsnade att lefwa. Ingen man war nog stark att fälla denna ek, och Wäinämöinen nödgades anropa sin moder Ilmatar om bistånd af wattnets makter.<pb type="orig" n="216" /> Ur det djupa hafwet uppsteg en liten man. Icke war han en af de störste, icke heller en af de minste: lång som en mans tumme, och bar hjelm och handskar, bälte, skor, yxa, alla af koppar. Wäinämöinen tyckte mannen wara nog karlawulen, men nästan för liten. Hwarifrån är du, pyssling? frågade han. Will du anses för en hjelte, du?</p>
+  <p>– Man är jag så wäl som andra, swarade pysslingen, och i samma stund wexte han jättestor, så att hans hjessa uppnådde molnen. Han lyftade sin gnistrande yxa, elden sprakade under hans hugg, och wid tredje hugget fällde han eken. Den, som fick en qwist af gudarnes heliga ek, fick dermed beständig lycka. Af dess topp ficks trollmedel, af dess löf tjusningsmakt, och af spånorna blefwo skepp på hafwet.</p>
+  <p>Nu lyste åter sol och måne, molnen duggade, träd och örter frodades, fåglarna sjöngo, och blomster betäckte fälten. Kornet allena wille ej gro i jorden.</p>
+  <p>Wäinämöinen gick tankfull wid hafwets strand och fann der sju olika sädeskorn. Dem lade han i ett ekorrskinn och gick ut att så. Då qwittrade bofinken: fäll skogen! bränn sweden! Annars wexer ej Osmos korn, annars frodas ej Kalewas hafre.</p>
+  <p>Wäinämöinen fällde skogen, men en enda björk lät han stå. Luftens örn kom flygande. Hwarför har du qwarlemnat björken? – För att luftens fåglar må hafwa ett hwiloställe. – Deri har du gjort wäl, sade örnen. Hwarpå han lånade eld från blixten och antände sweden. Wäinämöinen utsådde i askan de sju sädeskornen och nedkallade öfwer dem jordens kraft, himmelens regn. Ukko hörde hans bön, den första sweden bar rika ax, och wårens fågel, göken, inbjöds att sjunga i den ensama björken rikdom åt Finland.</p>
+  <pb type="orig" n="217" />
+  <head>99. Eldens ursprung.</head>
+  <head type="sub">(Kw. 47).</head>
+  <p n="1">Wid den tiden, när Pohjolas onda hexa hade stängt sol och måne i kopparberget, war i himmelen och på jorden beständig natt. Himmelens Ukko sökte sina förlorade lyktor, men kunde ej finna dem. Då slog han med sitt blanka swärd eld ur sin nagel och gömde gnistan uti en silfwerdosa. Luftens tärna waggade gnistan wid himlaranden. Gnistan föll, ljungade ned genom nio bristande himlar, fräste genom det klufna molnet och föll till jorden.</p>
+  <p>Wäinämöinen sade till sin broder Ilmarinen: låt oss se hwad det war, som nedföll till jorden! Hjeltarne gingo ut, rodde öfwer Newafloden och mötte Ilmatar, som berättade eldens wilda framfart. Elden hade först nedfallit i Tiuris nya stuga, skadat folket och uppbrännt barnet i waggan. Derifrån gick elden ut att härja skogen och antände slutligen sjön Aluejärwi, som gnistrande sjöd öfwer sina bräddar. Siken uppslök den härjande gnistan. Siken kände gnistan bränna, kom i nöd och bad laxen uppsluka honom. Laxen uppslukade siken, kom uti samma nöd och bad gäddan uppsluka honom. Gäddan kom uti samma nöd. Wäinämöinen och Ilmarinen gjorde en not af lindbast och sökte förgäfwes fånga gäddan.</p>
+  <p>Då sådde de lin och bundo en ny not af lingarn, sjuhundra famnar i längd på hwardera armen. Noten drogs, men åter förgäfwes. Nu bands noten femhundra famnar längre på hwardera armen; Ahti och Wellamo bådos om bistånd. Ändtligen fångades gäddan, men ingen wågade uppskära henne. Solens son fick sin faders guldknif, uppskar gäddan, fann i henne laxen, i laxen siken, i siken ett blått nystan, i detta ett rödt nystan och i det röda nystanet gnistan. Men gnistan sprakade bort ur solsonens händer, swedde Wäinämöinens skägg, förföljde Ilmarinen ut till en<pb type="orig" n="218" /> sten i hafwet och gick åter att härja werlden. Till sist lyckades Wäinämöinen fånga henne i ett stycke fnöske, och från den tiden hade man eld i spiseln, ljus i stugan och glöd i Ilmarinens ässja.</p>
+  <p>Men för brännskador anropades Turjas tärna och Pohjolas gosse att komma från Lappland med sina skor af is, sina strumpor af rimfrost, sin gördel af frusen dagg. De skulle stänka snöslagg på såret, hämta rimfrost på en kälke, och om detta ej hjelpte, skulle Ukko sända hagel och goda salfwor att bota brännskadan.</p>
+  <head>100. Jernets ursprung.</head>
+  <head type="sub">(Kv. 9).</head>
+  <lg>
+  <l>Vise gamle Wäinämöinen</l>
+  <l>Timrade en båt på berget.</l>
+  <l>Yxan slant, och onde Hiisi</l>
+  <l>Styrde yxans bett mot knäet,</l>
+  <l>Blodet rann i strida forsar,</l>
+  <l>Rann kring alla fält och kullar,</l>
+  <l>Öfver alla floders bräddar.</l>
+  <l rend="indent">Vise gamle Wäinämöinen</l>
+  <l rend="indent">Visste alla läkdomsorden,</l>
+  <l rend="indent">Men ett enda han ej visste,</l>
+  <l rend="indent">Visste ej att hämma blodet,</l>
+  <l rend="indent">Visste ej att läsa låset</l>
+  <l rend="indent">För de sår, som jernet bitit.</l>
+  <l>Kom så till en kunnig trollkarl.</l>
+  <l>Mäktig var den vise mannen,</l>
+  <l>Kunde med tre ord allenast</l>
+  <l>Dämma floder, hejda forsar,</l>
+  <l>Men ett enda han ej visste,</l>
+  <pb type="orig" n="219" />
+  <l>Visste icke jernets ursprung.</l>
+  <l rend="indent">Då tog vise Wäinämöinen,</l>
+  <l rend="indent">Vis och gammal, sjelf till ordet:</l>
+  <l rend="indent">Väl jag känner jernets ursprung,</l>
+  <l rend="indent">Tror mig veta stålets början.</l>
+  <l rend="indent">Äldst bland bröderne är vattnet,</l>
+  <l rend="indent">Jernet är den yngste brodern,</l>
+  <l rend="indent">Och den medlerste är elden.</l>
+  <l>Ukko, himlens höge herre,</l>
+  <l>Skilde vattnet åt från luften,</l>
+  <l>Skilde jorden åt från vattnet:</l>
+  <l>Då ännu var jernet ofödt.</l>
+  <l rend="indent">Ukko gned på venstra knäet</l>
+  <l rend="indent">Sina händer mot hvarandra:</l>
+  <l rend="indent">Deraf blefvo skaparns döttrar,</l>
+  <l rend="indent">Tre de skönaste bland tärnor,</l>
+  <l rend="indent">Och de blefvo jernets mödrar.</l>
+  <l rend="indent">Högt från molnets rand de spillde</l>
+  <l rend="indent">Mjölk i kärren, mjölk i vattnet;</l>
+  <l rend="indent">Deraf vexte sedan jernet:</l>
+  <l rend="indent">Smidigt jern af svarta mjölken,</l>
+  <l rend="indent">Stålet af den hvita mjölken,</l>
+  <l rend="indent">Spröda jernet af den röda.</l>
+  <l>Barn var än det unga jernet,</l>
+  <l>Ville se sin broder elden.</l>
+  <l>Elden ville jernet bränna,</l>
+  <l>Jernet flydde med förfäran</l>
+  <l>Till det sanka kärrets källor</l>
+  <l>Och till fjällets hårda hjessa,</l>
+  <l>Gömde sig på tredje året</l>
+  <l>Under trenne björkars rötter.</l>
+  <l>Vargarna på kärret sprungo,</l>
+  <l>Björnarna på heden lupo:</l>
+  <l>Så kom jernet upp i dagen.</l>
+  <pb type="orig" n="220" />
+  <l rend="indent">Dåförtiden vexte redan</l>
+  <l rend="indent">Den evärdelige smeden</l>
+  <l rend="indent">Ilmarinen upp vid milan.</l>
+  <l rend="indent">Ilmarinen, född om natten,</l>
+  <l rend="indent">Byggde smedja andra dagen,</l>
+  <l rend="indent">Sökte sig en plats för städet,</l>
+  <l rend="indent">Kom till kärret, märkte spåren</l>
+  <l rend="indent">Och fann der det unga jernet.</l>
+  <l rend="indent">Kära jern, han hördes säga,</l>
+  <l rend="indent">Illa bor du här i mossen,</l>
+  <l rend="indent">Vargens fötter dig förtrampa,</l>
+  <l rend="indent">Björnens tassar hårdt dig trycka;</l>
+  <l rend="indent">Jag vill lägga dig i ässjan.</l>
+  <l>Då förskräcktes arma jernet</l>
+  <l>För sin vilde broder elden.</l>
+  <l>– Kära jern, låt ej dig skrämma!</l>
+  <l>Icke skall dig elden bränna;</l>
+  <l>Slägt och vänner nog han skonar,</l>
+  <l>Och i elden skall du blifva</l>
+  <l>Männers svärd och qvinnors prydnad.</l>
+  <l rend="indent">Så blef jernet lagdt i ässjan.</l>
+  <l rend="indent">Belgen blåste, jernet smälte</l>
+  <l rend="indent">Och bad smeden om förskoning.</l>
+  <l rend="indent">– Kära jern, sad’ smeden åter,</l>
+  <l rend="indent">Rycker jag dig nu ur elden,</l>
+  <l rend="indent">Skall din egen bror du hugga</l>
+  <l rend="indent">Och din moders söner såra.</l>
+  <l>Men då svor det arma jernet,</l>
+  <l>Svor en kraftig ed och sade:</l>
+  <l>Träd har jag fullt upp att äta,</l>
+  <l>Stenens hjerta kan jag bita:</l>
+  <l>Skulle jag min broder såra?</l>
+  <l>Bättre synes mig att vara</l>
+  <l>Vandrarns staf och männers verktyg.</l>
+  <pb type="orig" n="221" />
+  <l rend="indent">Nu ur elden jernet rycktes,</l>
+  <l rend="indent">Blef på städet spjut och yxe,</l>
+  <l rend="indent">Blef till många verktyg hamradt.</l>
+  <l rend="indent">Derpå skulle jernet härdas;</l>
+  <l rend="indent">Aska tog då Ilmarinen,</l>
+  <l rend="indent">Lade den i smidevattnet,</l>
+  <l rend="indent">Smakade derpå och sade:</l>
+  <l rend="indent">Än är vattnet ej rätt tjenligt.</l>
+  <l rend="indent">Mehiläinen, flinke gosse,</l>
+  <l rend="indent">Snälla bi, flyg ut, att bringa</l>
+  <l rend="indent">Honung ifrån gräs och blomster!</l>
+  <l>Detta hörde Herhiläinen,</l>
+  <l>Hiisis geting, der han ilsken</l>
+  <l>Lurade på smedjetaket.</l>
+  <l>Lade så i härdningsvattnet</l>
+  <l>Alla Hiisis onda konster,</l>
+  <l>Paddans gift och ormens etter.</l>
+  <l rend="indent">Ilmarinen såg det icke,</l>
+  <l rend="indent">Trodde glad, att biets honung</l>
+  <l rend="indent">Ljufligt uti vattnet droppat.</l>
+  <l rend="indent">Och dit doppade han jernet:</l>
+  <l rend="indent">Deraf blef all jernets ondska.</l>
+  <l rend="indent">Uselt har sin ed det brutit,</l>
+  <l rend="indent">Bitit sina egna bröder,</l>
+  <l rend="indent">Gjutit blod i strida strömmar.</l>
+  <l>Alltså gamle Wäinämöinen</l>
+  <l>Jernets födelse förtäljde.</l>
+  <l>Nu besvärjarn tog till ordet,</l>
+  <l>Bannade med kraft och sade:</l>
+  <l>Ve dig, jern, beklagansvärda,</l>
+  <l>Usla slagg, har så du fostrats,</l>
+  <l>Vuxit upp så vild och väldig?</l>
+  <l>Icke var du stor den tiden,</l>
+  <l>Icke stor och icke liten,</l>
+  <pb type="orig" n="222" />
+  <l>När du rann som mjölk till jorden,</l>
+  <l>När du gömde dig i kärret,</l>
+  <l>När du våndades i ässjan,</l>
+  <l>När du svor din ed och bröt den.</l>
+  <l>Kom nu, att ditt dåd beskåda</l>
+  <l>Och ditt onda verk förbättra,</l>
+  <l>Innan för din mor jag klagar,</l>
+  <l>Att så illa du dig skickar!</l>
+  <l>Men du, blod, hör upp att flyta!</l>
+  <l>Bättre bor du uti ådern,</l>
+  <l>Dit du måste återvända;</l>
+  <l>Annars skall din röda vätska</l>
+  <l>Jag i Hiisis gryta koka.</l>
+  <l>Ukko dämme dina forsar</l>
+  <l>Och god läkdom oss berede.</l>
+  <l rend="indent">Nu bereddes goda salfvor,</l>
+  <l rend="indent">Honungssöta trolldomsmedel,</l>
+  <l rend="indent">Blodet hörde upp att rinna,</l>
+  <l rend="indent">Frisk blef åter Wäinämöinen,</l>
+  <l rend="indent">Starkare än förr han varit,</l>
+  <l rend="indent">Och han höjde sina blickar</l>
+  <l rend="indent">Upp mot himmelen och sade:</l>
+  <l>Dädan kommer städse nåden.</l>
+  <l>Dig, o Jumala, jag prisar,</l>
+  <l>Att din hjelp du mig förlänat</l>
+  <l>Uti jernets svåra smärtor.</l>
+  <l>Men du, folk, som efter kommer,</l>
+  <l>Icke må du timra båtar,</l>
+  <l>Trotsande på egna krafter.</l>
+  <l>Menskomakt kan icke bygga</l>
+  <l>Lifvets svaga plankor trygga;</l>
+  <l>Gud allen, som kraften sände,</l>
+  <l>Mäter färdens mått och ände.</l>
+  </lg>
+  <pb type="orig" n="223" />
+  <head>101. Wäinämöinen och Joukahainen.</head>
+  <head type="sub">(Kw. 3).</head>
+  <p n="1">I nordlandet, Pohjola, bodde en ung man wid namn Joukahainen. Han förnam ryktet om Wäinämöinens wisdom, kände afund i sitt sinne och beslöt att täfla med den berömde sångaren. Förgäfwes warnade honom fader och moder. Joukahainen swarade: min fader wet mycket, min moder wet än mera, men sjelf wet jag mest, och sjunga kan jag förmer än de ypperste.</p>
+  <p>Alltså spände han sin eldfrustande häst för sin guldsmidda släde och begaf sig öfwermodigt på wäg. På tredje dagen kom han med stoj och buller åkande fram på wägen till Wäinölä. Här mötte han Wäinämöinen, som stilla färdades fram på wägen, och bådas slädar fastnade hop. Mellan dem uppstod då följande samtal:</p>
+  <p><hi rend="expanded">Wäinämöinen</hi>. Hwem är du, som kör så oskickligt emot mig och söndrar min släde?</p>
+  <p><hi rend="expanded">Joukahainen</hi>. Jag är Joukahainen. Men af hwilket uselt följe är du?</p>
+  <p><hi rend="expanded">Wn</hi>. Jag är Wäinämöinen. Är du Joukahainen, så gif wäg åt mig, ty du är yngre till åren.</p>
+  <p><hi rend="expanded">Jn</hi>. Här är icke fråga om ungdom och ålderdom, utan om hwem som i wisdom är mer än den andre. Må wi pröfwa hwarandra i sång, och den, som wet mindre, må wika för den, som wet mer.</p>
+  <p><hi rend="expanded">Wn</hi>. Hwad skulle jag weta, som endast har hört mitt hemlands gökar gala? Du, som wet mera, käre, berätta för mig hwad du wet!</p>
+  <p><hi rend="expanded">Jn</hi>. Kanske wet jag ett och annat. Jag wet, att röken går ut genom taket och att lågen är icke långt ifrån spiseln. Sjelhunden äter lax och sik, gäddan leker i kylig<pb type="orig" n="224" /> wäderlek, abborren simmar om hösten på djupet och leker på grund om sommaren. Är detta ej nog, så wet jag, att i norden köres med renar, i södern med hästar. Det finns tre swåra forsar, tre stora sjöar och tre höga berg under himmelen. Hälläpyörä är i Tawastland, Kaatrakoski i Karelen, men Wuoksi är förmer, och Imatra har icke sin like. Så war det.</p>
+  <p><hi rend="expanded">Wn</hi>. Barnets joller, qwinnors sladder, ej en skäggig hjeltes wisdom. Berätta för mig om tingens ursprung!</p>
+  <p><hi rend="expanded">Jn</hi>. Bofinken är en fågel, ormen är ett kräldjur, girsen en fisk. Wattnet kommer från berget, elden från himmelen och jernet af rost. Tufwan är den äldsta mark, widen det äldsta trädslag, furan det första wirket och stenen den första grytan. Så war det.</p>
+  <p><hi rend="expanded">Wn</hi>. Wet du kanske något mera, eller är ditt pladder slut?</p>
+  <p><hi rend="expanded">Jn</hi>. Ännu wet jag hwarjehanda. Jag mins de flydda tider, när jag plöjde hafwen, uthögg de stora djupen, der fisken bor, och wältrade samman strandens klippor. Sjunde mannen war jag ibland de hjeltar, som danade jorden, reste luftens poster, uppburo himlens hwalf och ledde på deras banor solen, månen och karlawagnen. Så war det.</p>
+  <p><hi rend="expanded">Wn</hi>. Detta ljuger du. Icke såg man dig, när hafwets fåror plöjdes, jorden danades, himlen hwälfdes och sol, måne och stjernor leddes på sina banor.</p>
+  <p><hi rend="expanded">Jn</hi>. Nåwäl, är jag ej wis nog, så låt oss pröfwa wåra swärd i twekamp.</p>
+  <p><hi rend="expanded">Wn</hi>. Lika litet aktar jag ditt swärd, som din wishet.</p>
+  <p><hi rend="expanded">Jn</hi>. Den, som ej wågar strida med mig, honom will jag förwandla med min sång till en föraktad fänad uti min ladugård.</p>
+  <p>Och härwid skakade unge Joukahainen hånfullt sitt swartlockiga hufwud. Men ganska wred blef nu den gamle Wäinämöinen och begynte sjelf att sjunga sin mäktiga trollsång.<pb type="orig" n="225" /> Det war icke ett barns joller, icke qwinnors sladder: det war en skäggig hjeltes sång, för hwilken sjöarna swallade, jorden skalf och kopparbergen wåldsamt skakades. Illa gick det då den unge Joukahainen. Hans häst, hans släde, hans loka, selar, piske, båge, pilar, mössa, handskar, bälte, allt förströddes och förwandlades för den wäldiga sången. Men sjelf blef han trollad intill medjan ned i det sanka kärret.</p>
+  <p>Då kom unge Joukahainen i nöd och bad om sitt lif mot en god lösepenning. Han bjöd efter hwarandra twå starka bågar, twå sköna båtar, twå goda hästar, silfwer och guld, åkrar och sädesstackar, men sjönk allt djupare, intilldess att han stod ända till hakan i dyn och fick mossa i munnen. Då bjöd han sin unga syster Aino till lösepenning. Wäinämöinen löste beswärjelsen, och Joukahainen återwände bedröfwad till hemmet.</p>
+  <p>Men om Aino finnes sedan en skön saga, huru hon sörjde att blifwa den gamle Wäinämöinens maka och hellre gick bort att blifwa sikens syster i hafwet. Hwilket här wore för långt att berätta.</p>
+  <head>102. Wäinämöinens första Pohjolafärd.</head>
+  <head type="sub">(Kw. 6, 7, 8).</head>
+  <p n="1">Wid den tiden war fred och wänskap mellan Wäinölä och Pohjola. Wäinämöinen beslöt att söka sig en hustru bland Pohjolas döttrar, i stället för den förlorade Aino.</p>
+  <p>Men Joukahainen bar i sitt sinne tankar på hämd. Han smidde sig en eldbåge, snodde sin bågsträng af senor från Hiisis elg, täljde sig ekpilar, härdade dem i ormens etter och fjädrade dem med swalans wingar. Så bewäpnad, lade han sig i försåt för den gamle Wäinämöinen.</p>
+  <pb type="orig" n="226" />
+  <p>Länge spejade han; slutligen såg han en mörk punkt nalkas i morgongryningen. Det war Wäinämöinen, som red öfwer hafwet på sin halmgula fåle, utan att dess hofwar wättes af wågorna.</p>
+  <p>Joukahainen grep sin båge. Hans moder warnade honom: döda icke Kalewas son! Hans slägt är hög, och med honom förswinna sång och glädje från jorden.</p>
+  <p>Något betänkte sig unge Joukahainen, men slutligen skjöt han. Första pilen genomborrade molnet. Den andra trängde djupt ned i jorden. Den tredje pilen träffade Wäinämöinens häst i wenstra bogen, och ryttaren stupade handlöst i hafwet. Då fröjdades Joukahainen och sade: aldrig, så länge tiden warar och månen lyser, skall Wäinämöinen mera trampa Kalewas moar.</p>
+  <p>Men Wäinämöinen war icke död, ty sångens makt är odödlig. Nio dagar drefs han af stormen kring hafwet, och hans lemmar begynte styfna af köld. Då flög genom luften Lapplands örn, hwars ena winge sopade molnen, medan den andra berörde hafwets yta. Den tacksama örnen mindes ännu björken, som Wäinämöinen qwarlemnat på sweden till fåglarnas hwiloställe, och bar hjelten på sin rygg till en udde i det yttersta Pohja. Här hade Pohjas lilla tjensteflicka aftalat med solen och månen, att hon skulle tidigt uppstå om morgonen. Förrän dagen grydde, hade hon redan klippt sex ulliga får, twättat borden, sopat golfwet och burit soporna ut på åkern. Hon hörde Wäinämöinens klagande röst, wärdinnan förde honom till stugan och wederqwickte honom.</p>
+  <p>Om någon tid ledsnade Wäinämöinen att lefwa som gäst i främmande land och lofwade silfwer och guld, om man wille återföra honom till hembygden. Dertill swarade <hi rend="expanded">Louhi</hi>, Pohjolas wärdinna: här bära barnen blommor af guld, och hästarne bära bjellror af silfwer; men will du åt mig smida Sampo af en swanfjäder, en mjölkdroppe, ett<pb type="orig" n="227" /> kornfrö och ett ullstrå, skall jag gifwa dig min dotter till hustru och föra dig hem.</p>
+  <p>Sampo kan jag icke smida, swarade Wäinämöinen, men jag will sända till dig min broder Ilmarinen, som har smidt himmelens lock; han skall uppfylla din önskan. Det är godt, menade Louhi. Jag will återsända dig hem; men akta dig att se upp mot himmelen, förrän din häst tröttnar, annars drabbar dig ofärd.</p>
+  <p>Wäinämöinen begaf sig nu med häst och släde på återwägen, men hade ej hunnit långt, innan han hörde ett sus öfwer sig och upplyftade sina ögon mot himmelen. Då såg han Pohjas oförlikneliga tärna sitta i glänsande hwita kläder under norrskenets båge och spinna guldtråd för sin<pb type="orig" n="228" /> gyllene wäf. Betagen af kärlek, bad han den sköna tärnan nedstiga till jorden och blifwa hans maka. Men hon gäckade honom och bad honom först klyfwa ett tagelstrå med en uddlös knif, sedan slå knut på ett ägg, derefter skala näfwer af stenen och slutligen hugga ett gärdsel af isen, utan att minsta isstycke finge lossna. Detta allt utförde Wäinämöinen; men när hon ännu bad honom timra en båt af hennes slända och utskjuta båten, utan att widröra den, högg han yxan i knäet, såsom förut är berättadt i sagan om jernets ursprung.</p>
+  <head>103. Ilmarinen smider Sampo.</head>
+  <p>(Kw. 10).</p>
+  <p n="1">Wäinämöinen återwände, orolig öfwer löftet att sända sin broder till Pohjola. Han uttänkte derför en list och sjöng wid wägen en himmelshög gran, i hwars grenar hängde månen och Karlawagnen.</p>
+  <p>Wäinämöinen fann Ilmarinen i smedjan och lockade honom att beskåda den praktfulla granen. Den ärlige smeden lät narra sig och klättrade upp i granen, för att nedtaga himlaljusen. Granen gäckade honom och sade: o du enfaldige hjelte, nu har du som ett barn klättrat upp i min krona, för att fånga månens skenbild och falska stjernor!</p>
+  <pb type="orig" n="229" />
+  <p>Strax framkallade Wäinämöinen en stormwind, som förde hans broder ofwanom månen och nedanom solen med sig till Pohjola. Ilmarinen helsades med glädje af Louhi, som på det bästa undfägnade honom och framställde för honom sin dotter i präktiga kläder. För att winna henne till hustru, lofwade han att smida Sampo.</p>
+  <p>För att smida, behöfde han smedja, blåsbälg, slägga och städ, men sådant fanns icke i Pohjola. Ilmarinen war icke rådlös: han walde sig ett passande ställe mellan stora stenblock och skaffade sig hwad han behöfde. Arbetet började, trälarne skötte blåsbälgen. På tredje dagen drog smeden ur ässjan en gyllene båge, men bågen hade onda wanor, han wille hwar dag sigta på en menniskas hufwud. Ilmarinen bröt honom i stycken, kastade honom i elden och framdrog följande dag en guldsmyckad båt. Äfwen den hade oseder, drog utan orsak i krig och sändes samma wäg som bågen. Nästa dag uppstod ur elden en guldhornad ko med solens och sjustjernans märke på pannan, men hon hade owanan att sofwa i skogen och utstjelpa mjölkstäfwan. Hon kastades i elden, och nu framdrogs en gyllene plog. Han åter hade den osed att plöja andras åkrar och kastades, som de andra, i elden. Nu tog Ilmarinen windarne till sina smedjedrängar. Östan pustade, westan pustade, sunnan blåste än mera, och nordan hwen med sin fulla kraft. Lågen stod ut genom smedjans gluggar, gnistorna sprakade, sotet dammade, röken steg i täta hwirflar upp emot Jumalas gård.</p>
+  <p>Så förgingo ånyo tre dagar; och nu framdrogs ändtligen <hi rend="expanded">Sampo</hi> ur ässjan. Ilmarinen swängde hurtigt sin slägga och hamrade konstwerket färdigt. Det war ett hemlighetsfullt, dyrbart trollredskap. Wid Sampos ena kant war en mjölqwarn, wid den andra en saltqwarn, wid den tredje en penningqwarn; der malades ett mått till förtäring, ett till försäljning, ett till förwaring. Deröfwer blef Louhi<pb type="orig" n="230" /> mycket glad och skyndade att gömma det mäktiga redskapet bakom nio lås, på nio famnars djup uti kopparberget.</p>
+  <p>Men när Ilmarinen fordrade sin belöning, uppfann Pohjolas tärna många undflykter. Hon hade så många sysslor ogjorda: hon hade ej plockat markens bär, ej sjungit wid stranden, ej lekt i löfskogen, och om hon flyttade bort, hwem skulle då locka wårens gökar att gala på kullarna? Ilmarinen ledsnade wid dessa betänkligheter, och när Louhi, som wunnit sin önskan, icke hade något emot hans hemresa, återwände han i båt tillbaka till Wäinölä.</p>
+  <head>104. Lemminkäinens äfwentyr.</head>
+  <head type="sub">(Kw. 11, 12).</head>
+  <p n="1">På Kaukoniemis dimmiga udde wid hafsstranden uppwexte hos sin moder sagornas älskling, den unge och sköne hjelten Lemminkäinen, som äfwen kallas Ahti (sjöguden), Saarelainen (öbon) och Kaukomieli (den fjerran längtande). Han närde sig med fisk och blef en ståtlig, rödlätt yngling med swart hår, ypperligt hufwud och kraftig arm. Men hans lynne war såsom hafwets wågor, ostadigt, lättsinnigt, öfwermodigt, och derigenom råkade han i många äfwentyr, som icke alltid woro en man och en hjelte wärdiga.</p>
+  <pb type="orig" n="231" />
+  <p>På Saari, den namnlösa ön, bodde wid den tiden en skön jungfru wid namn <hi rend="expanded">Kyllikki</hi>, hwars hårdhet mot alla friare war så wida berömd, att det berättades, huru solen, månen och stjernan förgäfwes friat till henne för deras söner. Ryktet om allt detta kom till Lemminkäinen, han föresatte sig, twärtemot sin moders råd, att winna den stolta flickan till maka, och begaf sig på färd till den namnlösa ön.</p>
+  <p>Början war icke den bästa. Lemminkäinen ankom till Saari och körde kull med sin släde i porten. Gäckande yttrade Saaris flickor, att en sådan hjelte kunde dansa med kalfwarna. Lemminkäinen tog dem på orden och gick i wall med hjordarna. Men hans håg stod till Kyllikki, han slet för hennes skull hundra par skor och nötte ut hundra par årar. Den stolta Saarijungfrun försmådde hans kärlek. När hon malat upp hela sin handqwarn, när hon afnött sin mortelstöt ända till handtaget, då, men icke förr, wille hon blifwa hans hustru.</p>
+  <p>Någon tid derefter dansade Saaris ungdom på ängen wid stranden. Då åkte Lemminkäinen med sin ystra fåle in på lekplatsen och bortröfwade Kyllikki. Hon bad, hon hotade; slutligen lät hon blidka sig. Han swor att ej mera draga i krig, och hon swor att mera ej gå till dans i byn. Så hemförde Lemminkäinen sin unga maka, de mottogos wänligt af modern och lefde en tid lyckligt på Kaukoniemi.</p>
+  <p>Engång dröjde Lemminkäinen länge borta på jagt, tiden blef Kyllikki lång, och hon gick att leka med byns ungdom. Ainikki, den pratsama systern, kunde ej tiga dermed, och Lemminkäinen blef wid sin hemkomst högeligen wredgad. Moder, sade han, red mig en badstuga; Kyllikki har brutit sin ed, och jag will färdas till Pohja, att söka mig der en annan hustru. Tag du min borste, och icke förr än du ser blod drypa derur, har din son fått banesår.</p>
+  <pb type="orig" n="232" />
+  <p>Förgäfwes gret Kyllikki, förgäfwes bad och warnade modern. Lemminkäinen påtog sin starka rustning, hängde wid sidan sitt skarpa swärd och glömde ej att uttala de mäktiga trollord, som skydda mot fiender. Ett enda glömde han: det war orden mot ormbett. Stolt af sin wishet, hwisslade han fram en häst ur snåret och åkte till Pohjola. Der hörde han sång och spel i den stora stugan. Dristigt trädde han in och sjöng sjelf så wäldigt, att gnistor flögo ur hans pels, Pohjas hjeltar förskingrades och dess bäste sångare fingo stenar i halsen. En enda skonades för hans uselhets skull, och det war den blinde herden från Ulappala. Men en sådan skymf kunde herden icke förgäta: han gick bort och lade sig i försåt wid Tuonis elf.</p>
+  <head>105. Lemminkäinens ofärd.</head>
+  <head type="sub">(Kw. 13, 14, 15).</head>
+  <p n="1">Stolt af sina bragder, begärde Lemminkäinen Pohjolas sköna tärna till maka. Nej, swarade modren; henne får ingen sämre hjelte, än den, som har fångat Hiisis snabba elg. Lemminkäinen tog sina ormsnabba skidor, och det blef en jagt, så att gnistorna flögo kring wida Lappland. Elgen undkom, skidorna bräcktes. Nu war intet annat råd, än att begära nya skidor af Ukko och bedja Tapios lilla tärna med sin honungspipa wäcka den sofwande skogsfrun. Mielikki waknade, Tapio klädde skogen i silfwer, och jägaren återwände med den fångade elgen.</p>
+  <p>Ännu fattas något, sade Pohjas wärdinna. Innan du får min dotter, måste du betsla Hiisis bruna, eldfrustande häst. – Lemminkäinen tog sin silfwergrimma och såg på afstånd hästen springa i rök och lågor. Då war intet<pb type="orig" n="233" /> annat råd, än att anropa Ukko om ett jernhårdt hagel, som afkylde lågorna, och skrämd af haglet, stack hästen godwilligt sitt hufwud i grimman.</p>
+  <p>Ännu fattas något, sade Pohjas wärdinna. Innan du får min dotter, måste du med ett enda pilskott skjuta den sköna swanen på Tuonis elf. – Lemminkäinen begaf sig på wäg till underjorden. Men här lurade på honom Ulappalas blinde herde, grep en orm ur wattnet och skjöt ormen twärtigenom den unge hjeltens lefwer. För sent ångrade Lemminkäinen nu, att han förgätit ormorden, och tänkte döende på sin älskade moder. Herden wrok honom ned i den swarta elfwen, och der högg honom Tuonis blodgirige son i stycken med sitt förfärliga slagswärd.</p>
+  <p>Under tiden hade Lemminkäinens moder och hans förskjutna maka hwar dag med oro betraktat den profetiska borsten. En morgon sågo de borsten drypa af blod. Modern uppskörtade sin klädning och gick att söka sin förlorade son. Kärleken bewingade hennes steg; kullarna dånade, dalarna höjdes, bergen sänkte sig, der hon framgick. Omsider kom hon till Pohjola. Hwar är min son? Jag wet icke, sade wärdinnan; kanske ha björnar och wargar sönderslitit honom på isen. Eller har den stackaren drunknat i forsen.</p>
+  <p>– Lögnerska, sade modern, will du ej säga mig sanningen, skall du dö!</p>
+  <p>Nu måste Pohjas wärdinna omtala de farliga profwen. Modern gick att söka den förlorades spår. Hon undanröjde stubbar och stenar, sprang öfwer kärren, samm genom wattnen, frågade furan, wägen och månen. De sade sig alla hafwa nog att tänka på egna sorger. Men den milda solen förbarmade sig öfwer henne och berättade Lemminkäinens sorgliga öde.</p>
+  <p>Nu fick modern af Ilmarinen en kopparräfsa, hwars tinnar woro hundra famnar i längd. Solen sände sin brännande stråle ned till den mörka underjorden och söfde Tuo<pb type="orig" n="234" />nis folk. Modern gick att räfsa i dödens swarta flod, som strömmar igenom underjorden. Hon arbetade länge, outtröttligt, och fann till sist sin älsklings sönderstyckade kropp. Kasta karlen i wattnet, ropade korpen; siken har ätit hans ögon, gäddan har bitit hans skuldra. – Men en moder misströstar icke. Hon bad ådrornas wänliga wårdarinna Suonetar sammanknyta den dödes pulsar; hon bad Jumala hopfoga de styckade lederna; hon bad Mehiläinen, biet, att hemta honung från Tapios boning. Alla hörde hennes böner. Biet flög öfwer nio haf och wände åter med sju balsamskålar. Den dödes kropp helnade, men lifwet war borta.</p>
+  <p>Åter sände modern biet till stjernorna. Biet flög in i Skaparens källrar, der goda andar tillredde balsam i silfwerkittlar, och återwände med denna kostliga läkedom. Lemminkäinen waknade, som ur en swår dröm. Jag har sofwit länge, sade han. Ja, sade den ömma wårdarinnan, ännu mycket längre skulle du hafwa sofwit, om ej din arma moder wakat för dig.</p>
+  <p>– Ack, suckade Lemminkäinen, mitt hjerta är borta hos Pohjas tärnor. Ännu har jag ej skjutit Tuonis swan.</p>
+  <p>– Lemna dina usla swanor, bannade modren, och prisa hellre Skaparens godhet, ty af egen kraft har jag intet förmått. Han allena kan återkalla de döde från Tuonela.</p>
+  <p>Och de återwände till hemmet.</p>
+  <head>106. Wäinämöinen i Tuonela.</head>
+  <head type="sub">(Kw. 16).</head>
+  <p n="1">Wäinämöinen wille timra en båt och saknade wirke. Åkerns gosse, Sampsa Pellerwoinen, gick ut att söka wirket i skogen och kom till en asp. Låt mig stå, sade aspen; masken har ätit mitt hjerta, och gör man en båt af mig, skall<pb type="orig" n="235" /> jag sjunka. Sampsa kom till en fura. Låt mig stå, sade furan; jag är full med skador, och kråkan har kraxat uti min krona. Sampsa gick till eken, och eken sade sig wara fullkomligt oskadd; endast göken hade galat uti hans gröna grenar. Sampsa fällde eken, och Wäinämöinen <corr source="Rättelser">begynte</corr> timra sin båt med sång.</p>
+  <p>Redan hade han sträckt kölen och hopfogat sidorna, när han märkte, att honom fattades tre ord, för att timra de öfwersta skidborden. Hwarifrån skulle han få dessa ord? Månne från swalans hufwud, från swanens hjessa, från gåsens wingar? Han dödade swalor, swanor och gäss till ändlös mängd, men orden funnos ej der. Han sökte ord under renens tunga och på ekorrns läppar, fann många, men icke de rätta. Då beslöt han, att söka orden i dödsgudens boning, det mörka Tuonela.</p>
+  <p>Wäinämöinen begaf sig på wäg, gick i tre weckor genom björkskog, häggskog och enskog: då såg han på afstånd Manas ö i den swarta floden och ropade åt Tuonis dotter, att hon skulle hemta åt honom en färja. Tuonis lilla dotter klappade byke wid stranden och frågade hwarför han, oskadd af sår och sjukdom, kommit till dödens boning. Wäinämöinen swarade med undflykter: Tuoni sjelf hade fört honom till Manala, jernet hade dräpt honom, wattnet och elden hade bragt honom om lifwet. Men Tuoniflickan lät icke bedraga sig. Hade Tuoni hitfört dig, skulle han klädt dig i Manas handskar; hade jernet dräpt dig, skulle du drypa af blod: hade wattnet dränkt dig, skulle du wara wåt; hade elden brännt dig, wore ju skägget afswedt. Wäinämöinen måste bekänna, att sångens släde gått sönder, att ordens mede brustit för honom. We dig, dåre, sade Tuoniflickan, att du utan orsak kommit till Manala. Wänd genast om, ty månge ha kommit hit, men få ha återwändt.</p>
+  <p>Wäinämöinen swarade: qwinnor må wända på halfwa wägen; en man gör det icke. Alltså blef han färjad öfwer<pb type="orig" n="236" /> den swarta floden. I Tuonis gård bjöds öl till undfägnad, men maskar och grodor kröpo i dryckesstopet. Inga ord wille man gifwa honom, och härifrån, sade man, skulle han aldrig återwända.</p>
+  <p>Wäinämöinen fördes till hwila, men aktade sig wäl att falla i sömn. I Tuonis gård fanns en gumma med sned haka och en gubbe med endast tre fingrar. Gumman spann koppartråd, gubben band deraf en hundra famnar lång not. Tuonis son med sina jernfingrar utlade noten snedt öfwer floden, för att afstänga all utwäg till flykt. Men Wäinämöinen, som märkte ofärd hota, förwandlade sig till en orm och slingrade sig genom det farliga stängslet. Om morgonen gick Tuonis son att wittja noten. Hundra foreller fann han och tusen småfiskar, men Kalewas hjelte hade undkommit och lyckligt återwändt tillbaka till hemmet.</p>
+  <p>Ganska glad war Wäinämöinen, att så hafwa undgått dödens snaror. Aldrig, sade han, aldrig i tiden må någon lefwande sjelfmant nedstiga till Tuonis mörka boning. Aldrig må heller någon skada en skuldlös nästa, ty hwarje brottsling skall hwila på glödheta hällar under ett tak af ormar i Tuonis gård.</p>
+  <p>Sedan berättar en annan saga huru Wäinämöinen wäckte med sin kraftiga sång den döde jätten Wipunen och begärde af honom de tre orden. Jätten uppslukade den förmätne sångaren i sitt ofantliga gap, men Wäinämöinen byggde i hans mage en smedja och plågade jätten så länge, att denne måste gifwa honom både orden och friheten.</p>
+  <p>Nu lyckades Wäinämöinen timra sin nya båt, och dertill behöfde han hwarken spik eller yxe. Otäljd och utan spånor, byggdes båten med sång.</p>
+  <pb type="orig" n="237" />
+  <head>107. Ilmarinen winner Pohjas mö.</head>
+  <head type="sub">(Kw. 18–25).</head>
+  <p n="1">Wäinämöinen klädde sin nya båt med wadmal, prydde stäfwen med guld och seglade på friarefärd till Pohjola. Nattens dotter, Anni med det wackra namnet, såg honom segla, utletade hemligheten och yppade den för sin broder Ilmarinen. Denne skyndade efter Wäinämöinen, upphann honom och öfwerenskom med honom, att låta Pohjas tärna wälja emellan dem.</p>
+  <p>När Pohjas wärd hörde gårdshunden skälla, lade han rönnwed i spiseln och sade: dryper der blod ur weden, få wi krig, men dryper der watten, få wi lefwa i fred. Icke blod, icke watten, men honung dröp ur den heliga rönnen. Friarne helsades wälkomne, modern sökte öfwertala sin dotter att wälja den wise och rike Wäinämöinen framför den fattige smeden. Flickan swarade: ringa aktar jag wishet och rikedom mot honom, som smidt oss det herrliga Sampo. Alltså wann Ilmarinen ungmöns hjerta.</p>
+  <p>Men Pohjas wärdinna sökte undflykter. Bruden war ännu icke färdig; hon hade ej påträdt sin ena sko. Undertiden borde Ilmarinen plöja en åker, uppfylld med huggormar, utan att lyfta plogen från marken.</p>
+  <p>Ilmarinen frågade sin fästmö, och hon gaf honom goda råd. Han smed sig en guldplog, jernskor, jernhandskar, jernbrynja och plöjde så ormåkern. Derefter förelades honom åter ett prof: han skulle fånga Tuonis björn och betsla Manas warg, som dödat hundrade hjeltar. Äfwen detta lyckades; smeden hade gjort sig ett stålbetsel, och Terhenäter, dimmans dotter, sållade töcken på fältet. Men nu förelades honom det swåraste profwet: han skulle fånga den stora gäddan i Tuonis elf.</p>
+  <pb type="orig" n="238" />
+  <p>Ilmarinen smed sig en eldsprakande hafsörn och nedsteg i floden. En förfärlig strid uppstod. Wattnets widunder, Wetehinen, kom att hjelpa gäddan, hwars gap war som twenne forsar, och utan örnen hade Ilmarinen förwisst blifwit uppslukad. Men örnen nedtryckte widundret under wattnet och slog sina klor i gäddans nacke. Stolt förde Ilmarinen hennes hufwud till Pohjagården.</p>
+  <p>Nu ändtligen gaf Pohjas wärdinna motwilligt sitt bifall till brölloppet. Sorgsen, med nedsänkt hufwud, seglade Wäinämöinen tillbaka till hemmet, warnande alla gamle män, att icke framdeles täfla med yngre hjeltar om tärnors hjertan.</p>
+  <p>I Pohjola tillreddes nu ett stort gästabud. Från Karelen hemtades en ofantlig oxe: hans hufwud war i Kemi, hans swans i Tawastland, och swalan behöfde en dag för att flyga emellan hans horn. Ingen wågade slagta en sådan oxe; men ur hafwet uppsteg en tumslång man med stenmössa, stenskor och guldknif i handen. Han slagtade oxen; bröd bakades, öl bryggdes, sedan man först fått weta ölets ursprung. När detta war gjordt, sändes Pohjas lilla tjenstepiga att bjuda brölloppsgästerne, deribland äfwen blinde och lame, men främst bland alla den gamle Wäinämöinen. Lemminkäinen allena blef icke bjuden till brölloppet.</p>
+  <p>Kommo så gästerne och blefwo med stor heder undfägnade. Många sköna sånger sjöngos, och Wäinämöinen prisade Skaparens wishet, som förwandlar hafwets floder till honung, stenar till saltkorn, kullar till bröd och skogar till sädesfält. Sedan förde Ilmarinen bruden till sitt hem, de nygifta emottogos med många ärebetygelser och lefde länge lyckligt tillsamman.</p>
+  <p>Om allt detta finnas många wackra runor. En annan saga förtäljer om Lemminkäinens wrede, när han icke blef bjuden till brölloppet, och huru han trotsigt nppträdde i Pohja, för att hämnas sin skymf, men måste efter tappra bragder<pb type="orig" n="239" /> wika för öfwermakten. Deraf uppstod sedan ett långwarigt krig.</p>
+  <head>108. Sagan om Kullerwo.</head>
+  <head type="sub">(Kw. 31–36).</head>
+  <p n="1">I Karelen bodde twå bröder, Untamo och Kalerwo. De råkade i strid om fisket och swedjemarken; striden slutade så, att Untamo dödade sin broder Kalerwos slägt och brände hans gård. Kalerwos olyckliga hustru bortfördes i träldom och födde kort derefter en son, som kallades <hi rend="expanded">Kullerwo</hi>. Denne gosse wisade tidigt en sällsam styrka. Tre dagar gammal, slet han sönder sin linda och bräckte waggan. Untamo fröjdades åt hans styrka och hoppades få i honom en stark träl, mera wärd än hundrade andra.</p>
+  <p>När gossen räckte en man till knäet, begynte han eftersinna huru han skulle hämna sin faders död och sin moders träldom. Detta märkte Untamo, fruktade blodshämden, lade gossen i en tunna och kastade honom i wattnet. Efter tre dagar fann han gossen sittande på sin tunna med ett metspö i handen. Nu gjorde Untamo ett stort bål af näfwer och kådigt wirke; gossen kastades i elden, men efter tre dagar återfanns han oskadad, rörande med en stake i kolen. Tredje gången lät Untamo hänga gossen i ett träd, men återfann honom, muntert ritande bilder i trädstammen. Då tröttnade Untamo att förgöra gossen och sade till honom: om du förhåller dig wäl, skall du få stadna som träl i gården.</p>
+  <p>Kullerwo wexte stark och skötte illa en träls sysslor. Han skulle wårda ett litet barn; han bröt barnets arm, utstötte dess öga, lät det dö och uppbrände dess wagga. Derefter skulle Kullerwo hugga en swed; då ödelade han hela<pb type="orig" n="240" /> skogen. En annan gång skulle han gärda en åker och reste ett gärde af de högsta furor, men utan ingång. Han skulle tröska råg och tröskade allt till sådor. Slutligen wredgades Untamo och sålde för en ringa penning den obändige trälen åt Ilmarinen.</p>
+  <p>Nu skulle Kullerwo walla gårdens kor och fick af wärdinnan till wägkost ett bröd, der hon inbakat en sten. Kullerwo wallade hjorden, satte sig om qwällen att äta och bröt sönder mot stenen sin faders knif. Full af sorg och wrede, jagade han hjorden att förgås i kärret och dref till gården en annan hjord af björnar och wargar. Ilmarinens hustru gick ut att mjölka korna och blef söndersliten af wilddjuren. Så förgicks den unga qwinnan, den så högt beundrade, så länge efterlängtade Pohjabruden. Henne kunde Ilmarinen aldrig förgäta, och hans håg war mörk som sotet i smedjan.</p>
+  <p>Efter denna wilda bragd flydde Kullerwo fågelfri i skogarna och kom slutligen till en undangömd stuga, der han återfann sina föräldrar, hwilka han ansett döda. Nu wille han redligt arbeta, men illa hade han blifwit uppfostrad och gjorde allting förwändt. Båten rodde han sönder, noten stötte han till blånor; slutligen blef han en stor brottsling. Då förbannades han af sin fader och förbannade sjelf sitt olyckliga öde. Hans moder allena älskade honom, när alla öfwergåfwo honom.</p>
+  <p>Kullerwo drog till Untamos gård, hämnade blodigt sin slägts skymf och utrotade Untamos hela slägt. Efter den hårda striden drog han hem till sin faders stuga. Ingen emottog honom, stugan war öde, ugnen kall, alla döde, utom Musti, den trogne hunden. Kullerwo gret på sin moders graf och irrade fridlös omkring i ödemarken. Slutligen kom han till ett ställe i skogen, der han begått ett stort brott, och der hade ljungens blommor wissnat. Då drog Kullerwo sitt swärd och frågade, om det wille dricka ett skuldbelastadt<pb type="orig" n="241" /> blod. Gerna, swarade swärdet; hwarför skulle jag icke detta, när jag så ofta har druckit oskyldigt blod?</p>
+  <p>Och den starke Kullerwo, Kalerwos son, störtade sig på sitt eget swärd.</p>
+  <p>Men när Wäinämöinen erfor Kullerwos sorgliga öde, warnade han efterkommande slägten, att icke uppfostra barn med wettlös hårdhet, ty af sådana barn blifwa sällan goda och kloka menniskor. Kullerwo uppfostrades som en föraktad träl: derför blef han en wettlös brottsling och en olycklig man.</p>
+  <head>109. Striden om Sampo.</head>
+  <head type="sub">(Kw. 39–43).</head>
+  <p n="1">Kalewala är en saga om twå folk eller slägter: Kalewaslägten, som bodde i Wäinölä, och Nordanfolket, som bodde i Pohjola. Någre tro, att Wäinölä warit på södra kusten af Ladoga och Pohjola på den norra. Mellan de båda folken war en täflan, först fredlig, sedan fientlig. Häraf delas Kalewala i twå hälfter, och sagan om Kullerwo, som dödade Ilmarinens hustru, Pohjolas älskling, är likasom skiljemuren mellan dem båda.</p>
+  <p>Ilmarinen sörjde sin förlorade maka. Förgäfwes smidde han sig en hustru af silfwer och guld: hon hade intet hjerta att beswara hans kärlek. Förgäfwes bortröfwade han sin förra makas yngre syster från Pohjola: hon hatade och trotsade honom; han förwandlade henne till en fiskmås. Den fordna wänskapen mellan Wäinölä och Pohjola hadeförwandlats i fiendskap, och mellan dem uppkom ett blodigt krig.</p>
+  <p>Wäinämöinen och Ilmarinen beslöto att bortröfwa Sampo, hwaraf Pohjola blifwit rikt. Wid det att de redo ut, hörde de båten klaga wid stranden, att andra båtar fingo<pb type="orig" n="242" /> segla ut i krig och hemföra byte. Hjeltarne beslöto då att färdas till sjös. Till dem slöt sig den unge Lemminkäinen, alltid lysten efter bragder och äfwentyr. Under wägen stötte båten mot en ofantelig gädda. Twå hjeltar stredo förgäfwes mot detta widunder. Wäinämöinen klöf gäddan i twå stycken och gjorde af hennes hufwud sin första kantele.</p>
+  <p>De tre hjeltarne kommo till Pohjola och fordrade sin andel i Sampo. Louhi swarade: hjerpen är för liten att delas åt twå; hwarefter hon samlade krigare, för att förswara sin skatt. Då fattade Wäinämöinen sin kantele och sjöng allt Pohjolas folk till sömn. Hjeltarne banade sig wäg genom de nio portarne i kopparberget, bortförde Sampo till sin båt och rodde med all kraft mot hemmet. Under wägen företog sig Lemminkäinen, alltid obetänksam, att i glädjen skråla på hafwet med sin rossliga stämma. Detta hörde en trana, som genast flög norrut och med sitt anskri wäckte Pohjolas folk. Louhi såg med förskräckelse, att Sampo war borta, och beswor dimmans dotter Udutar att andas sitt töcken ut öfwer hafwet. Wäinämöinen sönderhögg töcknet med sitt swärd, och der swärdet träffade wattnet, flöt honung i hafwet. Men nu brusade wågen, blodet flydde från Ilmarinens kinder, och wid båtens sida upplyftade hafwets widunder Iku-Turso sitt förfärliga hufwud. Wäinämöinen grep honom i öronen och twang honom att för alltid dyka tillbaka i hafsdjupen. Nu sände Ukko en rytande storm; wågorna reste sig jättehöga, bortryckte gäddbensharpan och wille uppsluka båten. Wäinämöinen förblef rådig och lugn. Han beswor stormen, Lemminkäinen tillredde starka skidbord, och trygg gick båten framåt i bergshög sjö.</p>
+  <p>Den wärsta faran återstod än. Pohjolas bewäpnade folk, med Louhi i spetsen, förföljde de flyende och war nära att upphinna dem. Då begynte en sällsam och fruktanswärd strid med mäktig trolldom på båda sidor. Wäinämöinen kastade en bit fnöske i hafwet och gjorde deraf en klippa,<pb type="orig" n="243" /> mot hwilken Pohjabåten splittrades sönder. Louhi förwandlade sig till en ofantlig örn, bewäpnad med klor af lior, tog sina män på wingarne och satte sig på masten af hjeltarnes båt. Lemminkäinen högg in på örnen med sitt swärd, Wäinämöinen krossade hans klor med båtrodret. Pohjas män störtade med brak i hafwet, men örnen grep Sampo, som brast i stycken och dref i spillror kring hafsytan. Deraf blefwo hafwet och Finlands stränder för alltid rika. Maktlös wände Louhi, som endast lyckats rädda locket af Sampo, tillbaka till Pohjola, och de tre hjeltarne återkommo till hemmet med spillror af skatten.</p>
+  <head>110. Wäinämöinens sång.</head>
+  <head type="sub">(Kw. 41, 44).</head>
+  <p n="1">Förgäfwes letade Wäinämöinen i hafwet sin sjunkna kantele. Då hörde han en björk klaga wid stranden. Hwarför gråter du, björk? Må jag ej gråta, swarade björken, när jag står här så öfwergifwen. Männen skala mitt näfwer, barnen dricka min saft, flickorna bryta mitt löf, hösten tager min krona och lemnar mig naken att frysa uti den långa wintern. – Sörj icke mer, sade Wäinämöinen; när du nästa gång gråter, skall du gråta af glädje.</p>
+  <p>Wäinämöinen tog björken och gjorde af honom en kantele. När wårens gök galade i eken, droppade guld från hans tunga, och deraf togos kanteles skrufwar. I swedjelunden satt en ung tärna, wäntande på sin fästman. Icke gret hon, icke heller war hon rätt glad; hon sjöng för sig sjelf en wisa uti den wackra sommarqwällen. Gif mig dina lockar, sade Wäinämöinen. Och hon gaf sina mjuka lockar: deraf blefwo kanteles strängar.</p>
+  <pb type="orig" n="244" />
+  <p>Wäinämöinen satt på silfwerkullen och sjöng; kantele låg på hans knä, och hans lätta fingrar rörde wid strängarna. Hela naturen betogs af undran och glädje. Ekot dånade genom bergen, hafwets dolda klippor uppstego till wattenytan, furorna bugade sig, skälfwande af fröjd, och ängens blommor kysste hwarandra. Alla skogens djur, alla luftens fåglar, alla hafwets fiskar, ja maskarna i mullen närmade sig, för att lyssna på dessa sköna toner. Sjelfwa björnen lunkade öfwer sandmon och klef i ett träd, för att bättre höra; sjelfwa örnen lemnade sina ungar i boet, och tusen små fåglar satte sig qwittrande på sångarens skuldror. Tapio med allt sitt husfolk gick till berget att lyssna; Mie<pb type="orig" n="245" />likki klädde sig i blå strumpor och röda skoband. Luftens undersköna tärnor satte sig på guldmolnets rand; solens och månens döttrar tappade af beundran sina gyllene wäfspolar. Hafskonungen med sitt skägg af wass dykade upp mellan neckrosbladen, Wellamo stödde sig mot klippan. Sotkottaret, swanornas systrar, borstade sitt långa hår och fällde af undran sin borste i sjön.</p>
+  <p>Lika underbart trängde kanteles spel in i menniskors hjertan. När det ljöd i stugan, darrade taket, golfwet swigtade, ugnens stenar rörde sig, fönstren klingade. Icke fanns en så tapper hjelte, icke man eller qwinna, ung eller gammal, som icke gret af glädje wid kanteles wälljud. Män blottade sitt hufwud, ynglingar böjde sitt knä till marken, bygdens tärnor stodo med tårfyllda ögon, små flickor glömde sin glada lek. Aldrig, så länge månen bestrålat jorden, hade någon dödlig förnummit så sköna toner. Från Wäinämöinens egna ögon strömmade strida tårar ned genom sex gyllne <corr source="Rättelser" type="empty" /> gördlar och förswunno i hafwet. Korpen wille uppsamla dem, men knipan hann före honom. Hon upptog dessa dyrbara tårar, och se, de woro nu förwandlade till skinande perlor, wärde att smycka en konungs krona.</p>
+  <head>111. Striden om Ljuset.</head>
+  <head type="sub">(Kv. 47, 49).</head>
+  <lg>
+  <l rend="indent">Sångens vise Wäinämöinen</l>
+  <l rend="indent">Sjöng på insjöns strand en qväll.</l>
+  <l rend="indent">Lyssnande, förtjust och säll,</l>
+  <l rend="indent">Strålade af fröjd naturen</l>
+  <l rend="indent">Och, på vindens vingar buren,</l>
+  <pb type="orig" n="246" />
+  <l rend="indent">Klang en ton i dal och fjäll.</l>
+  <l rend="indent">Månen satt i molnets stuga</l>
+  <l rend="indent">Och förnam den klara ton;</l>
+  <l rend="indent">Länge lät han ej sig truga,</l>
+  <l rend="indent">Sänkte sig till gröna mon,</l>
+  <l rend="indent">Satte sig på björkens gren</l>
+  <l rend="indent">Med sitt ljufligaste sken.</l>
+  <l>Solen i sitt silfverslott</l>
+  <l>Icke än till hvila gått,</l>
+  <l>Hörde nu en ton i vinden,</l>
+  <l>Rodnade som eld på kinden</l>
+  <l>Och fördröjde qvällens lopp,</l>
+  <l>Steg ur aftonrodnans sängar,</l>
+  <l>För att glad i furans topp</l>
+  <l>Lyss på Wäinämöinens strängar.</l>
+  <l rend="indent">Nordens nattliga värdinna</l>
+  <l rend="indent">Louhi, mörkrets moder, såg</l>
+  <l rend="indent">Solen lysa, ljuf i håg,</l>
+  <l rend="indent">Och af glädje månen brinna;</l>
+  <l rend="indent">Grep i furan solens rand,</l>
+  <l rend="indent">Grep i björken månens skifva,</l>
+  <l rend="indent">Förde dem till nordens land,</l>
+  <l rend="indent">Att för evigt der förblifva;</l>
+  <l rend="indent">Stängde dem med trolldomsmakt</l>
+  <l rend="indent">Djupt i kopparbergets schakt</l>
+  <l rend="indent">Och svor dyr en ed, att binda</l>
+  <l rend="indent">Ljusets makter, fångna, blinda,</l>
+  <l rend="indent">Till den tid hon förelagt.</l>
+  <l>Vardt så mörker. Samma stund</l>
+  <l>Föll en natt, så svart som grafven,</l>
+  <l>Öfver stranden, öfver hafven</l>
+  <l>Och betäckte jordens rund.</l>
+  <l>Blott från Kalevalas härdar</l>
+  <l>Lyste gladt en flamma än</l>
+  <pb type="orig" n="247" />
+  <l>Öfver Finlands vida fjärdar.</l>
+  <l>Sist tog Louhi äfven den,</l>
+  <l>Det vardt natt i Finlands höst,</l>
+  <l>Natt i Ukkos stjerneverldar,</l>
+  <l>Natt i menniskornas bröst.</l>
+  <l>Sjelfva tidens bråda flod,</l>
+  <l>Utan mätare af stunden,</l>
+  <l>Af förfäran stilla stod,</l>
+  <l>Och, af inga gränser bunden,</l>
+  <l>Blef en evighet sekunden.</l>
+  <l>Luftens fågel sjöng ej mer,</l>
+  <l>Hjorden kom ej hem till qvällen,</l>
+  <l>Vinden vilse gick på fjällen,</l>
+  <l>Blomman slog sitt öga ner,</l>
+  <l>Och den bleka frosten stal</l>
+  <l>Skördarna i Wäinös dal.</l>
+  <l rend="indent">Sorgsne att i mörkret famla,</l>
+  <l rend="indent">Gingo unga, gingo gamla</l>
+  <l rend="indent">Hän till Ilmarinens smedja,</l>
+  <l rend="indent">Att om sol och måne bedja.</l>
+  <l rend="indent">Och han smed med konstrik hand</l>
+  <l rend="indent">Klar af silfver solens rand,</l>
+  <l rend="indent">Smed en måne, blid och huld,</l>
+  <l rend="indent">Danad af det gula guld;</l>
+  <l rend="indent">Bragte med osäglig möda</l>
+  <l rend="indent">Solen uti furan opp,</l>
+  <l rend="indent">Månen uti björkens topp;</l>
+  <l rend="indent">Guldet ville icke glöda,</l>
+  <l rend="indent">Silfret lyste kallt och matt.</l>
+  <l rend="indent">Uti kopparbergets natt</l>
+  <l rend="indent">Lågo ljusets källor döda.</l>
+  <l>Det fick Wäinämöinen veta</l>
+  <l>Genom spådomskonst och drog</l>
+  <l>Fjerran bort till nordanskog,</l>
+  <pb type="orig" n="248" />
+  <l>För att ljuset återleta.</l>
+  <l>Men med trotsande förakt</l>
+  <l>Sade nordens bistre söner:</l>
+  <l>Ljuset är i berget bragt,</l>
+  <l>Löses ej af dina böner.</l>
+  <l rend="indent">Då har Wäinämöinen sagt:</l>
+  <l rend="indent">Flyge svärdet ur sin slida,</l>
+  <l rend="indent">Att för ljusets höga makt</l>
+  <l rend="indent">Intill döden vi må strida!</l>
+  <l>Och hans svärd som blixten hven;</l>
+  <l>På dess klinga glänste månen,</l>
+  <l>På dess fäste solen sken.</l>
+  <l>För dess första solblink ren</l>
+  <l>Föll den främste Pohjasonen,</l>
+  <l>Och för hvarje hugg han gaf</l>
+  <l>Flög en oväns hufvud af.</l>
+  <l>Nu han bräckte klippans graf,</l>
+  <l>Högg dess ormar uti stycken;</l>
+  <l>Nattens makt var dock för mycken,</l>
+  <l>Alltför stark dess port i nord,</l>
+  <l>Trotsade hans arm, hans ord.</l>
+  <l>Wäinämöinen drog bedröfvad</l>
+  <l>Åter till sitt hemlands skär.</l>
+  <l>Kom så Lemminkäinen der,</l>
+  <l>Mera munter, mindre pröfvad:</l>
+  <l>Hvarför tog du mig ej med?</l>
+  <l>Porten skulle jag ryckt ned.</l>
+  <l rend="indent">Sade Wäinämöinen: käcka</l>
+  <l rend="indent">Ord förmå ej murar bräcka.</l>
+  <l rend="indent">Gick till Ilmarinens smedja,</l>
+  <l rend="indent">Att om starka redskap bedja.</l>
+  <l rend="indent">Ässjan glödde, släggan slog,</l>
+  <l rend="indent">Jernet sågs i flagor brinna,</l>
+  <l rend="indent">Och den bistre smeden log.</l>
+  <pb type="orig" n="249" />
+  <l>Nordens nattliga värdinna</l>
+  <l>Louhi hörde långtifrån</l>
+  <l>Släggans underliga dån,</l>
+  <l>Klädde sig i hökens fjäder,</l>
+  <l>Susade som nordanväder,</l>
+  <l>Flög till Ilmarinen ned:</l>
+  <l>Du berömde mästersmed,</l>
+  <l>Säg hvad du nu sysslar med!</l>
+  <l rend="indent">Sade Ilmari: jag hamrar</l>
+  <l rend="indent">Halsring åt förtryckarinnan;</l>
+  <l rend="indent">Smidas skall den onda qvinnan</l>
+  <l rend="indent">Hårdt vid kopparbergets kamrar.</l>
+  <l>Sagdt. De hotfullt stolta orden</l>
+  <l>Haglade som hammarslag.</l>
+  <l>Louhi räddes straffets dag,</l>
+  <l>Flög med vingad hast till norden,</l>
+  <l>Löste sol och måne fort</l>
+  <l>Fria bort ur bergets port.</l>
+  <l rend="indent">Louhi sen i dufvohamn</l>
+  <l rend="indent">Bar till Ilmarinens smedja</l>
+  <l rend="indent">Bud om ljusets lösta kedja,</l>
+  <l rend="indent">Och med fröjd förutan namn</l>
+  <l rend="indent">Sågo hjeltarne den höga</l>
+  <l rend="indent">Solens åter vakna öga</l>
+  <l rend="indent">Och den gyllne månens sken</l>
+  <l rend="indent">Skina öfver löf och gren.</l>
+  <l rend="indent">Nya vingar fick sekunden,</l>
+  <l rend="indent">Hög, omätlig, underbar</l>
+  <l rend="indent">Hvälfde sig en himmel klar</l>
+  <l rend="indent">Öfver fälten, öfver lunden.</l>
+  <l rend="indent">Hvart det tjusta ögat såg,</l>
+  <l rend="indent">Flög ett skimmer öfver fjärden,</l>
+  <l rend="indent">Och det vackraste i verlden</l>
+  <l rend="indent">Uppenbart för alla låg.</l>
+  <pb type="orig" n="250" />
+  <l rend="indent">Öfverallt var fågelsång,</l>
+  <l rend="indent">Ungdom, kärlek och försoning,</l>
+  <l rend="indent">Och blott daggen gret sin tår,</l>
+  <l rend="indent">När från Ukkos höga boning</l>
+  <l rend="indent">Morgonen med gyllne hår</l>
+  <l rend="indent">Sänkte sig till jordens vår.</l>
+  </lg>
+  <head type="sub">Solsången.</head>
+  <lg>
+  <l>Då hof gamle Wäinämöinen</l>
+  <l>Än en gång sin stämma opp:</l>
+  <l>Hell dig, måne i ditt lopp!</l>
+  <l>Hell dig, hulda sol, som randas</l>
+  <l>Lika skön för allt, som andas,</l>
+  <l>Lika rik för allas hopp!</l>
+  <l>Liksom vinterns silfverdufva,</l>
+  <l>Sorgsen du i natten dök,</l>
+  <l>Men som vårens gyllne gök,</l>
+  <l>Steg du glad ur bergets grufva.</l>
+  <l>Kom ännu hvar morgonstund,</l>
+  <l>Att vår lefnadsdag förljufva,</l>
+  <l>Och i sommarqvällens blund</l>
+  <l>Lys ännu på grafvens tufva!</l>
+  <l>Bringa kraft, och bringa frid,</l>
+  <l>Vandra lycklig, vandra blid,</l>
+  <l>Och fullända stor din bana</l>
+  <l>Under himlens blåa fana,</l>
+  <l>Segerrik i ljusets strid!</l>
+  </lg>
+  <pb type="orig" n="251" />
+  <head>112. Wäinämöinen och Jesusbarnet.</head>
+  <head type="sub">(Kw. 50.)</head>
+  <p n="1">Kalewala slutar med en märkwärdig och sinnrik berättelse om huru Wäinämöinen måste wika för det nyfödda Jesusbarnet. Denna runa är diktad i början af den kristna tiden, när hedendomens minnen ännu lefde friska hos folket. Det är rörande att se, huru folket likasom offrar sin mest älskade hjelte åt Herren Jesus Kristus, inför hwilken äfwen den bäste, den wisaste ibland menniskor är endast en syndare och en dåre.</p>
+  <p>Jesus, säger den finska sagan, föddes fattig och föraktad i Ruotus’<note id="ftn9" n="*)" place="foot" anchored="true">Konung Herodes.</note> stall och undandoldes af sin moder Mariatta<note id="ftn10" n="**)" place="foot" anchored="true">Jungfru Maria.</note> för menniskornas ondska. En dag satt den späde gossen uti sin moders famn, och medan hon borstade hans lockiga hufwud, förswann han plötsligt ur hennes åsyn. Häpen och full af oro, gick hon att söka barnet i de mest omöjliga gömställen: under en malande qwarnsten, under den bortilande slädens mede, under det skakade sållet, under den burna wattsån, i skogens träd, under ängens gräs, i ljungen och under enbuskarnes rötter. Hon frågade stjernan, hon frågade månen, och de swarade henne: om wi wisste hwar han wore, skulle wi ej säga dig det, ty <hi rend="expanded">han</hi> har skapat oss. Slutligen mötte hon solen, bugade sig för himmelens stora ljus och frågade:</p>
+  <lg>
+  <l>O du sol, som Gud har skapat,</l>
+  <l>Wet du intet om min gosse?</l>
+  </lg>
+  <p>– Din gosse känner jag ganska wäl, sade solen. Det är <hi rend="expanded">han</hi>, som har skapat mig, och nu står han upp till armarna sjunken i kärret.</p>
+  <pb type="orig" n="252" />
+  <p>Mariatta fann gossen i kärret. Han wexte och blef ett wackert litet barn, men ingen wisste hans namn. Modern kallade honom sin blomma och sitt gyllene äpple; främmande kallade honom föraktligt lättingars leksak. Nu behöfdes någon, som skulle döpa det fattiga barnet, och Mariatta wände sig till en gubbe, som hette Wirokannas. Han swarade: icke döper jag en sådan usel stackare, innan någon har granskat barnet, om det bör få lefwa. – Ty under hedendomen war den grymma sed, att swaga eller fattiga barn, som man icke ansåg wärda att lefwa, sattes ut i ödemarken att dö.</p>
+  <p>Hwem skulle nu afkunna barnets dom? Den wisaste skulle göra det. Alltså kallades Wäinämöinen, han kom att granska barnet och fällde den dom, att eftersom gossen tagits från kärret, skulle han åter föras ut till kärret, och der skulle hans hufwud sönderkrossas med en klubba.</p>
+  <p>Då upplät det twå weckor gamla barnet sin mun och sade:</p>
+  <lg>
+  <l>O du stackars gamle gubbe,</l>
+  <l>Du försofne arme dåre,</l>
+  <l>Du har fällt ett dårligt domslut,</l>
+  <l>Illa har du tolkat lagen.</l>
+  <l>Ej för wida wärre synder</l>
+  <l>Har man fört dig sjelf till kärret</l>
+  <l>Och ditt hufwud sönderkrossat,</l>
+  <l>När din broder Ilmarinen</l>
+  <l>Du gaf bort till lösepenning</l>
+  <l>För din hemfärd ifrån Pohja,</l>
+  <l>Eller när den unga Aino</l>
+  <l>Fordom störtade för din skull</l>
+  <l>Sorgsen uti hafwets wågor.</l>
+  </lg>
+  <p>Wid dessa ord skyndade Wirokannas, full af häpnad, att döpa barnet till en konung i Karelen. Men den gamle Wäinämöinen betogs af harm och blygsel. Han kunde icke mera lefwa i det land, der ett litet barn förwandlat hans<pb type="orig" n="253" /> wishet i dårskap. Han gick till stranden, sjöng åt sig ett skepp af koppar och styrde ut mot det öppna hafwet. Stående i skeppets stäf, sjöng han dessa afskedsord till Finland:</p>
+  <lg>
+  <l>Låt ännu en tid förflyta.</l>
+  <l>Dagar komma och förswinna,</l>
+  <l>Då behöfwer man mig åter,</l>
+  <l>Wäntar, saknar mig ånyo,</l>
+  <l>Att en annan Sampo bringa,</l>
+  <l>Ny tids kantele att dana,</l>
+  <l>Att en annan måne hemta,</l>
+  <l>Att ännu en sol befria,</l>
+  <l>När båd’ sol och måne saknas</l>
+  <l>Och all fröjd ur werlden swunnit.</l>
+  </lg>
+  <p>Och han seglade bort genom tidernas swallande wågor till andra, högre rymder, lemnande qwar sin kantele med de</p>
+  <lg>
+  <l>Sköna strängars spel åt Suomi</l>
+  <l>Och de höga runosånger</l>
+  <l>Åt sitt folk till ewig glädje.</l>
+  </lg>
+        </body>
+    </text>
+</TEI>
