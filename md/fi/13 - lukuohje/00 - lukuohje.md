@@ -15,11 +15,11 @@
         </tr>
         <tr>
             <td style="font-weight: normal;"><span style="background-color: var(--emendations-color, #ccc);">harmaa pohjaväri lukutekstissä</span></td>
-            <td>tekstiin tehty toimituksellinen muutos</td>
+            <td>alkuteoksen tekstiin tehty toimituksellinen muutos</td>
         </tr>
         <tr>
             <td style="font-weight: normal;"><span style="color: var(--pageBreakOriginal-color, #b32fa0)">|#|</span></td>
-            <td>sivunumero alkutekstissä</td>
+            <td>sivunumero alkuteoksessa</td>
         </tr>
     </tbody>
 </table>
