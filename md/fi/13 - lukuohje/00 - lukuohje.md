@@ -49,15 +49,15 @@
             <td>asiamuutos</td>
         </tr>
         <tr>
-            <td><img src="assets/images/squared_times.svg"></td>
+            <td><span class="seg"><img src="assets/images/squared_times.svg"></span></td>
             <td>alle kappaleen laajuinen puuttuva tekstikohta</td>
         </tr>
         <tr>
-            <td><img src="assets/images/ms_arrow_right.svg" alt="oikealle osoittava punainen kolmio"><img src="assets/images/ms_arrow_left.svg" alt="vasemmalle osoittava punainen kolmio"></td>
+            <td><span class="anchorScrollTarget"><img src="assets/images/ms_arrow_right.svg" alt="oikealle osoittava punainen kolmio"></span><span class="anchorScrollTarget"><img src="assets/images/ms_arrow_left.svg" alt="vasemmalle osoittava punainen kolmio"></span></td>
             <td>asiamuutoskokonaisuus (kolmioiden välissä)</td>
         </tr>
         <tr>
-            <td><img src="assets/images/ms_arrow_right_gray.svg" alt="oikealle osoittava harmaa kolmio"><img src="assets/images/ms_arrow_left_gray.svg" alt="vasemmalle osoittava harmaa kolmio"></td>
+            <td><span class="anchorScrollTarget"><img src="assets/images/ms_arrow_right_gray.svg" alt="oikealle osoittava harmaa kolmio"></span><span class="anchorScrollTarget"><img src="assets/images/ms_arrow_left_gray.svg" alt="vasemmalle osoittava harmaa kolmio"></span></td>
             <td>identtinen kokonaisuus tai vastaava kokonaisuus (kolmioiden välissä)</td>
         </tr>
         <tr>
