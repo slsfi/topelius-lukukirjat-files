@@ -1,0 +1,16 @@
+Haku kohdistuu edition lukuteksteihin ja versioihin. Tekstit, jotka löytyvät sivuston »Editiosta»-osiosta, eivät sisälly hakuun.
+
+<details>
+    <summary>Hakuohjeita</summary>
+    <p>Käytä hakukenttää tehdäksesi vapaatekstihakuja tekstien otsikoista ja sisällöstä. Haku hakee kokonaisia sanoja eikä ole merkkikokoriippuvainen. Mikäli hakulauseke sisältää useamman hakusanan, hakutulos sisältää kaikki tekstit, joissa vähintään yksi hakusanoista esiintyy (lähtökohtaisesti looginen operaattori sanojen välillä on TAI). Jos haet esim. <span class="query_example">jernväg&nbsp;kanal</span> saat tulokseksi kaikki tekstit, joissa vähintään yksi sanoista <i>jernväg</i> ja <i>kanal</i> esiintyy.</p>
+    <p>Voit käyttää seuraavia hakuoperaattoreita:</p>
+    <ul>
+        <li><span class="query_example">+</span> hakusanan edessä osoittaa, että hakusanan on esiinnyttävä tuloksissa (looginen JA). Esim. haku <span class="query_example">jernväg&nbsp;+kanal</span> antaa tulokseksi kaikki tekstit, jotka sisältävät sekä <i>jernväg</i> että <i>kanal</i>.</li>
+        <li><span class="query_example">-</span> hakusanan edessä osoittaa, että hakusana ei saa esiintyä tuloksissa (looginen EI). <span class="query_example">jernväg&nbsp;-kanal</span> antaa tulokseksi kaikki tekstit, jotka sisältävät <i>jernväg</i> tai eivät sisällä <i>kanal</i>. Näyttääksesi tekstit, jotka sisältävät <i>jernväg</i> <b>ja</b> eivät sisällä <i>kanal</i>, operaattori on yhdistettävä JA-operaattorin kanssa: <span class="query_example">jernväg&nbsp;+-kanal</span>.</li>
+        <li><span class="query_example">"</span> (suorat lainausmerkit) lausekkeen alussa ja lopussa antaa tulokseksi tekstit, joissa lausekkeen hakusanat esiintyvät juuri annetussa järjestyksessä. Esim. <span class="query_example">"ny&nbsp;jernväg"</span> antaa tulokseksi tekstit, joissa tarkalleen tämä lauseke esiintyy.</li>
+        <li><span class="query_example">\*</span> (asteriski) hakusanan lopussa toimii jokerimerkkinä, eli esim. <span class="query_example">jernväg\*</span> antaa tulokseksi tekstit joissa mm. <i>jernväg</i>, <i>jernvägen</i>, <i>jernvägar</i> ja <i>jernvägskonduktören</i> esiintyvät.</li>
+        <li><span class="query_example">(</span> ja <span class="query_example">)</span> eli sulkeita käytetään ryhmittämään hakusanoja ja määrittämään loogisten operaattoreiden järjestys. Esim. <span class="query_example">(jernväg&nbsp;kanal) +&nbsp;(kostnad&nbsp;staden)</span> antaa tulokseksi kaikki tekstit, joissa vähintään yksi sanoista <i>jernväg</i> ja <i>kanal</i> ja vähintään yksi sanoista <i>kostnad</i> ja <i>staden</i> esiintyy.</li>
+        <li><span class="query_example">~N</span> (missä N on kokonaisluku) hakusanan päätteeksi tekee ns. sumean haun. Luku N, laskettuna kirjaimissa, määrittää kuinka lähellä hakusanaa hakutulosten on oltava. Esim. <span class="query_example">jernväg~1</span> antaa tulokseksi tekstejä, jotka sisältävät mm. <i>jernväg</i>, <i>järnväg</i>, <i>jernwäg</i> ja <i>jernvägs</i>.</li>
+    </ul>
+    <p>Useimmissa tapauksissa hakuoperaattorit ovat yhdistettävissä. Esim. <span class="query_example">kostnad&nbsp;+jernväg~2&nbsp;+"saima&nbsp;kanal"</span> antaa tulokseksi kaikki tekstit, joissa sekä <i>kostnad</i> että sanan <i>jernväg</i> eri muunnelmat ja tarkka lauseke <i>saima kanal</i> esiintyvät.</p>
+</details>
