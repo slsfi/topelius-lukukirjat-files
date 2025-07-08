@@ -48,14 +48,14 @@
             <p style="blackletter">
                 <app id="var19" type="sub"><rdg>Aloittakaamme</rdg></app> siis. 
                 <app id="var20" type="sub"><rdg>Kuuntelepa</rdg></app> nyt. Isä ei ole kotona. Missä 
-                <app id="var21" type="sub int"><rdg>isä on?</rdg></app> Hän tekee työtä lastensa eduksi. Hän tekee työtä isänmaansa hyödyksi.
+                <app id="var21" type="sub"><rdg>isä on?</rdg></app> Hän tekee työtä lastensa eduksi. Hän tekee työtä isänmaansa hyödyksi.
                 Hän tekee työtä Jumalan kunniaksi. Työttä emme saa leipää. Leivättä ei voi
                 kukaan elää. 
                 <app id="var22" type="int"><rdg>Kiitoksia,</rdg></app> isä. 
                 <app id="var23" type="int"><rdg>Kiitos,</rdg></app> hyvä 
                 <app id="var24" type="int"><rdg>Jumala,</rdg></app> jokapäiväisestä leivästä.</p>
             <p style="blackletter">Äiti istuu tuvassa. Mitä 
-                <app id="var25" type="sub int"><rdg>äiti tekee?</rdg></app> Hän tekee työtä lastensa 
+                <app id="var25" type="sub"><rdg>äiti tekee?</rdg></app> Hän tekee työtä lastensa 
                 <app id="var26" type="sub"><rdg>hyväksi.</rdg></app> Hän ompelee vaatteemme. Hän keittää ruokamme. Vaatteitta 
                 <app id="var27" type="sub"><rdg>paleltuisimme.</rdg></app> Ruuatta 
                 <app id="var28" type="sub"><rdg>nääntyisimme</rdg></app> nälkään. 
@@ -69,7 +69,7 @@
                 <app id="var34" type="sub"><rdg>oikeata</rdg></app> iloa. Mielellämme 
                 <app id="var35" type="sub"><rdg>me <seg>siis</seg></rdg></app> tottelemme vanhempiamme. 
                 <app id="var36" type="sub"><rdg>Sydämestämme</rdg></app> siis heitä 
-                <app id="var37" type="sub int"><rdg>rakastamme <seg>kaiken</seg> elinaikamme.</rdg></app></p>
+                <app id="var37" type="sub"><rdg>rakastamme <seg>kaiken</seg> elinaikamme.</rdg></app></p>
             <p style="blackletter">Liisa on sisareni. Hän on aivan pieni. Hän ei kävele. Hän
                 konttaa. Hän ei puhu. Hän loruaa. Nauraa hän osaa. Haukotella hän osaa.
                 Aivastella hän osaa. 
@@ -89,11 +89,11 @@
             <pb type="orig" n="7"/>
             <p style="blackletter">
                 <app id="var47" type="sub"><rdg>Isoisä</rdg></app> istuu pöydän takana. Hän on hyvin vanha. Hän on 
-                <app id="var48" type="sub int"><rdg>aivan harmaapäinen.</rdg></app> Hänellä 
+                <app id="var48" type="sub"><rdg>aivan harmaapäinen.</rdg></app> Hänellä 
                 <app id="var49" type="sub"><rdg>on kurttuiset</rdg></app> kädet. Ei hänellä ole hampaitakaan. Mutta vallan hyvä hän on. Hän on
                 elänyt 
                 <app id="var50" type="sub"><rdg><seg>hyvin</seg> kauan.</rdg></app> Hän on nähnyt hyvin paljon. Hän on viisas mies. Jumalinen 
-                <app id="var51" type="sub int"><rdg>hän <seg>on</seg> varmaan.</rdg></app> Hän osaa kertoa Jumalan 
+                <app id="var51" type="sub"><rdg>hän <seg>on</seg> varmaan.</rdg></app> Hän osaa kertoa Jumalan 
                 <app id="var52" type="sub"><rdg>voimasta.</rdg></app> Hän tuntee ihmiset. Hän tietää eläinten 
                 <app id="var53" type="sub"><rdg>elämän.</rdg></app> Kasvit tietää hän kaikki. Hän tahtoo kertoa meille 
                 <app id="var54" type="sub"><rdg>kaikkea.</rdg></app> Kiitoksia 
@@ -145,7 +145,7 @@
                 <app id="var88" type="sub"><rdg>Dion</rdg></app> sanoi näin. Vielä puuttuu jotakin. 
                 <app id="var89" type="sub"><rdg><hi rend="expanded">Liikuntakyky</hi></rdg></app> on poissa. <hi rend="expanded">Tunto</hi> on poissa. Kuva on 
                 <app id="var90" type="sub"><rdg>hermoton. Hermoton</rdg></app> on 
-                <app id="var91" type="sub int"><rdg>kovin onneton.</rdg></app> Ontuvan täytyy kulkea sauvan nojassa. 
+                <app id="var91" type="sub"><rdg>kovin onneton.</rdg></app> Ontuvan täytyy kulkea sauvan nojassa. 
                 <app id="var92" type="sub"><rdg>Kumpikin tarvitsee muiden</rdg></app> apua. Hyvä 
                 <app id="var93" type="int"><rdg>Jumala,</rdg></app> suo 
                 <app id="var94" type="sub"><rdg>kuvan kävellä jaloillaan. Hyvä Jumala, suo sen</rdg></app> ottaa 
@@ -165,7 +165,7 @@
             <p style="blackletter">Kuva löi päänsä puuhun. Kuva 
                 <app id="var107" type="sub"><rdg>kompastui pienimpäänkin kiveen. Dion pelästyi.</rdg></app> Vielä 
                 <app id="var108" type="sub"><rdg>puuttui</rdg></app> jotakin. Kuva on sokea. Sokea on 
-                <app id="var109" type="sub int"><rdg>kovin onneton. Hän</rdg></app> elää alinomaisessa pimeydessä. Muiden täytyy 
+                <app id="var109" type="sub"><rdg>kovin onneton. Hän</rdg></app> elää alinomaisessa pimeydessä. Muiden täytyy 
                 <app id="var110" type="sub"><rdg>häntä taluttaa kädestä.</rdg></app> Hän on vieras maan päällä. Hyvä 
                 <app id="var111" type="int"><rdg>Jumala,</rdg></app> suo kuvan nähdä silmillään.</p>
             <p style="blackletter">Enkeli 
@@ -233,7 +233,7 @@
             <p style="blackletter">Enkeli 
                 <app id="var164" type="sub"><rdg>kosketti kuvaa.</rdg></app> Kuvan huulet saivat äänen. Hänen kielensä sujui 
                 <app id="var165" type="sub"><rdg>puhumaan.</rdg></app> Hänen suunsa sai 
-                <app id="var166" type="sub int"><rdg>puheenlahjan. Dion</rdg></app> tuli hyvin iloiseksi. Nyt on kaikki 
+                <app id="var166" type="sub"><rdg>puheenlahjan. Dion</rdg></app> tuli hyvin iloiseksi. Nyt on kaikki 
                 <app id="var167" type="sub"><rdg>hyvin.</rdg></app> Nyt on ihminen 
                 <app id="var168" type="sub"><rdg>valmis.</rdg></app></p>
             <p style="blackletter">Vieläkin koetteli 
@@ -294,7 +294,7 @@
             <p style="blackletter">Enkeli 
                 <app id="var213" type="sub"><rdg>kosketti kuvaa.</rdg></app> Kohta musertui kuva tomuksi. 
                 <app id="var214" type="sub"><rdg>Dion pelästyi</rdg></app> kovin. Mitä 
-                <app id="var215" type="sub int"><rdg>minun <seg>on</seg> tekeminen?</rdg></app> Olen ylpeydelläni vihoittanut elävän Jumalan.</p>
+                <app id="var215" type="sub"><rdg>minun <seg>on</seg> tekeminen?</rdg></app> Olen ylpeydelläni vihoittanut elävän Jumalan.</p>
             <p style="blackletter">Enkeli näki 
                 <app id="var216" type="sub"><rdg>Dionin katumuksen.</rdg></app> Nöyryytä itsesi Jumalan 
                 <app id="var217" type="sub"><rdg>kaikkivaltiaan <seg>edessä.</seg></rdg></app> Anna hänelle ainoalle kunnia. Ota sauvasi. Seuraa minua. Minä
@@ -333,7 +333,7 @@
                 <app id="var241" type="sub"><rdg>kohta</rdg></app> kuin 
                 <app id="var242" type="sub"><rdg>täysin</rdg></app> oppineet.</p>
             <p style="blackletter">Tämäpä 
-                <app id="var243" type="sub int"><rdg>kuninkaasta <seg>näytti</seg> ihmeelliseltä.</rdg></app> Hän ajatteli itsekseen näin. Muurahainen on 
+                <app id="var243" type="sub"><rdg>kuninkaasta <seg>näytti</seg> ihmeelliseltä.</rdg></app> Hän ajatteli itsekseen näin. Muurahainen on 
                 <app id="var244" type="sub"><rdg>vain eläin.</rdg></app> Se rakentaa niin kummallisia kammioita. Mutta kukaan ei ole opettanut
                     
                 <app id="var245" type="sub"><rdg>sitä</rdg></app> rakentamaan. Ihminenhän on 
@@ -341,12 +341,12 @@
                 <hi rend="expanded">Miksi ei ihminen voi oppia itsestänsä?</hi></p>
             <p style="blackletter">Kuninkaalla oli puutarha. Sen ympärillä oli korkea muuri.
                 Siinä oli 
-                <app id="var247" type="sub int"><rdg>kauniita hedelmäpuita.</rdg></app> Siinä oli kirkkaita 
+                <app id="var247" type="sub"><rdg>kauniita hedelmäpuita.</rdg></app> Siinä oli kirkkaita 
                 <app id="var248" type="sub"><rdg>lähteitä.</rdg></app> Kuninkaalla oli myös paimen. 
                 <app id="var249" type="sub"><rdg>Kuningas</rdg></app> kutsui 
                 <app id="var250" type="sub"><rdg>hänet luoksensa.</rdg></app> Kartanossani on poika. 
                 <app id="var251" type="sub"><rdg>Hänen nimensä</rdg></app> on 
-                <app id="var252" type="sub int"><rdg>Kasper.</rdg></app> Hän on hyvin pieni. Hän ei taida vielä puhua. Vie Kasper puutarhaan.
+                <app id="var252" type="sub"><rdg>Kasper.</rdg></app> Hän on hyvin pieni. Hän ei taida vielä puhua. Vie Kasper puutarhaan.
                 Sulje 
                 <app id="var253" type="sub"><rdg>hänet</rdg></app> sinne. Anna hänelle ruokaa. Anna hänelle juomaa. Mutta 
                 <app id="var254" type="sub"><rdg>tämä</rdg></app> tulee sinun tehdä yöllä. Kasper ei saa sinua nähdä. 
@@ -400,7 +400,7 @@
                 <app id="var288" type="sub"><rdg>piiloutui</rdg></app> puiden taakse. Kuningas meni 
                 <app id="var289" type="sub"><rdg>likemmäksi.</rdg></app> Kasper pakeni. Hän kiipesi muurin ylitse. Hän juoksi metsään.
                 Kuningas 
-                <app id="var290" type="sub int"><rdg>käski hakea hänet.</rdg></app> Palvelijat etsivät <pb type="orig" n="13"/>läpi koko metsän. Viimein
+                <app id="var290" type="sub"><rdg>käski hakea hänet.</rdg></app> Palvelijat etsivät <pb type="orig" n="13"/>läpi koko metsän. Viimein
                     
                 <app id="var291" type="sub"><rdg>he <seg>löysivät</seg></rdg></app> Kasperin puusta. Hän torjui vastaan. Hän puri kuin susi. Hän kynsi
                 kuin kissa. Hän karjui kuin leijona. 
@@ -414,9 +414,9 @@
                 <app id="var298" type="sub"><rdg>kuningasta käteen. Hän</rdg></app> oli peto.</p>
             <p style="blackletter">
                 <app id="var299" type="sub"><rdg>Silloin</rdg></app> hyvä 
-                <app id="var300" type="sub int"><rdg>kuningas surkutteli häntä.</rdg></app> Hän sanoi näin. Nyt näen Jumalan tarkoituksen. Eläintä ei tarvitse
+                <app id="var300" type="sub"><rdg>kuningas surkutteli häntä.</rdg></app> Hän sanoi näin. Nyt näen Jumalan tarkoituksen. Eläintä ei tarvitse
                 opettaa. Se tekee itsestään 
-                <app id="var301" type="sub int"><rdg>tehtävänsä.</rdg></app> Se on 
+                <app id="var301" type="sub"><rdg>tehtävänsä.</rdg></app> Se on 
                 <app id="var302" type="sub"><rdg>jo <seg>alusta</seg> semmoinen, <seg>miksi</seg></rdg></app> Jumala sen aikoi. Sellaisena 
                 <app id="var303" type="sub"><rdg>se <seg>pysyy</seg> kaiken</rdg></app> elinaikansa. Eläin ei voi tulla täydellisemmäksi. Ihmisen pitää tulla
                     
@@ -430,7 +430,7 @@
                 <app id="var309" type="sub"><rdg>hänestä ihminen.</rdg></app> Näin tuli hänestä hyvä mies.</p>
             <p style="blackletter">Pieni lapsi on kuin siemen. Jumala kylvää sen. Ihminen
                 kastelee sitä. Hoidotta 
-                <app id="var310" type="sub int"><rdg>se lakastuu. Sentähden</rdg></app> tulee pientä lasta opettaa. Tulee siis ajatella näin. 
+                <app id="var310" type="sub"><rdg>se lakastuu. Sentähden</rdg></app> tulee pientä lasta opettaa. Tulee siis ajatella näin. 
                 <app id="var311" type="sub"><rdg>Lapsi</rdg></app> on Jumalan siemen. Minä kastelen sitä siementä. Näin tulee siitä
                 Jumalan kukka. Näin tulee siitä hyvä ihminen.</p>
             <p style="blackletter">Sillä ihminen on Jumalan lapsi. Elämä maan päällä on
@@ -445,7 +445,7 @@
                 <app id="var315" type="sub"><rdg>oppia tuntemaan</rdg></app> ihmisiä. Hän tahtoi nähdä niissä Jumalan tekoja. 
                 <app id="var316" type="sub"><rdg>Sentähden</rdg></app> pukeusi hän 
                 <app id="var317" type="sub"><rdg>yksinkertaisiin</rdg></app> vaatteisiin. Käteensä 
-                <app id="var318" type="sub int"><rdg>hän <seg>otti</seg> sauvan.</rdg></app> Selkäänsä otti hän 
+                <app id="var318" type="sub"><rdg>hän <seg>otti</seg> sauvan.</rdg></app> Selkäänsä otti hän 
                 <app id="var319" type="sub"><rdg>laukun.</rdg></app> Näin 
                 <app id="var320" type="sub"><rdg>hän <seg>meni</seg></rdg></app> ulos 
                 <app id="var321" type="sub"><rdg>avaraan maailmaan.</rdg></app></p>
@@ -453,7 +453,7 @@
             <p style="blackletter">Kuningas näki monta maata. 
                 <app id="var322" type="sub"><rdg>Melkein</rdg></app> kaikissa maissa asui ihmisiä. 
                 <app id="var323" type="sub"><rdg>Toinen</rdg></app> maa ei ollut toisen 
-                <app id="var324" type="sub int"><rdg>maan näköinen. Toinen</rdg></app> ihminen ei ollut toisensa kaltainen. Mutta kaikilla oli 
+                <app id="var324" type="sub"><rdg>maan näköinen. Toinen</rdg></app> ihminen ei ollut toisensa kaltainen. Mutta kaikilla oli 
                 <app id="var325" type="sub"><rdg>ihmisen</rdg></app> ruumis. Kaikilla oli 
                 <app id="var326" type="sub"><rdg>ihmisen</rdg></app> sielu. 
                 <app id="var327" type="sub"><rdg>Saman maan ihmisiä sanottiin sen</rdg></app> maan <hi rend="expanded">kansaksi.</hi>
@@ -462,7 +462,7 @@
                 <app id="var329" type="sub"><rdg>ei ollut toisensa kaltainen.</rdg></app> Muutamat maat olivat hyvin kuumia. Niissä olivat ihmiset mustia. 
                 <app id="var330" type="sub"><rdg>Toiset</rdg></app> maat olivat 
                 <app id="var331" type="sub"><rdg>vähemmän</rdg></app> kuumia. Niissä olivat ihmiset ruskeita. Muutamissa maissa 
-                <app id="var332" type="sub int"><rdg>he <seg>olivat</seg> vaskenvärisiä.</rdg></app> Toisissa maissa 
+                <app id="var332" type="sub"><rdg>he <seg>olivat</seg> vaskenvärisiä.</rdg></app> Toisissa maissa 
                 <app id="var333" type="sub"><rdg><seg>heidän</seg></rdg></app> ruumiinsa 
                 <app id="var334" type="sub"><rdg>oli <seg>keltainen.</seg></rdg></app> Kylmemmissä maissa olivat ihmiset valkeita. Mutta kuningas oli
                 lukenut 
@@ -488,7 +488,7 @@
                 <app id="var352" type="sub"><rdg>Iyvistä saa ihminen leipänsä.</rdg></app> Hän valmistaa 
                 <app id="var353" type="sub"><rdg>tulen avulla</rdg></app> ruokansa. Tätä 
                 <app id="var354" type="sub"><rdg>eläimet <seg>eivät</seg></rdg></app> tee 
-                <app id="var355" type="sub int"><rdg>koskaan. Moni ihminen</rdg></app> laittaa 
+                <app id="var355" type="sub"><rdg>koskaan. Moni ihminen</rdg></app> laittaa 
                 <app id="var356" type="sub"><rdg>taidokasta</rdg></app> ruokaa. Siitä ei 
                 <app id="var357" type="sub"><rdg>kukaan <seg>voi</seg></rdg></app> hyvin.</p>
             <figure type="illustration"/>
@@ -496,7 +496,7 @@
                 <app id="var358" type="sub"><rdg>vielä</rdg></app> enemmän. Hän näki ihmisten <hi rend="expanded">pituuden.</hi> Sadut
                 kertovat pitkistä jättiläisistä. Sellaisia ei ole enää. Ihmisen tavallinen
                 pituus on 
-                <app id="var359" type="sub int"><rdg>yksi ja <seg>kolme</seg> neljäsosaa metriä.</rdg></app> Muutamat ovat 
+                <app id="var359" type="sub"><rdg>yksi ja <seg>kolme</seg> neljäsosaa metriä.</rdg></app> Muutamat ovat 
                 <app id="var360" type="sub"><rdg>pitempiä.</rdg></app> Sata 
                 <app id="var361" type="sub"><rdg>viisikymmentä (150)</rdg></app> vuotta 
                 <app id="var362" type="sub"><rdg>sitten</rdg></app> eli mies Paltamon 
@@ -543,7 +543,7 @@
                 <app id="var399" type="sub"><rdg>yhdenlaista.</rdg></app> Lapsi kasvaa. 
                 <app id="var400" type="sub"><rdg>Hänen sielunsa</rdg></app> kasvaa yhdessä ruumiin kanssa. Kolmenkymmenen vuoden 
                 <app id="var401" type="sub"><rdg>iässä</rdg></app> on 
-                <app id="var402" type="sub int"><rdg>ruumis täysivoimainen.</rdg></app> Sielu kasvaa 
+                <app id="var402" type="sub"><rdg>ruumis täysivoimainen.</rdg></app> Sielu kasvaa 
                 <app id="var403" type="sub"><rdg>yhä edelleen. Sentähden</rdg></app> on vanhuus nuoruutta viisaampi.</p>
             <p style="blackletter">Kuningas näki vieläkin enemmän. Hän näki ihmisen 
                 <app id="var404" type="sub"><rdg><hi rend="expanded">sukupuolet.</hi></rdg></app> Kaikki elävät 
@@ -558,7 +558,7 @@
                 <app id="var412" type="sub"><rdg>He ovat molemmat</rdg></app> Jumalan valtakunnan 
                 <app id="var413" type="sub"><rdg>perillisiä.</rdg></app> Molempain tulee 
                 <app id="var414" type="sub"><rdg><seg>auttaa</seg></rdg></app> toisiansa. 
-                <app id="var415" type="sub int"><rdg>Se on <seg>Jumalan</seg> tahto. Väkevämpi</rdg></app> ei saa olla 
+                <app id="var415" type="sub"><rdg>Se on <seg>Jumalan</seg> tahto. Väkevämpi</rdg></app> ei saa olla 
                 <app id="var416" type="sub"><rdg>kova</rdg></app> heikompaa kohtaan.</p>
             <figure type="illustration"/>
             <p style="blackletter">Kuningas näki vieläkin enemmän. Hän näki <hi rend="expanded">ihmisen </hi>
@@ -578,7 +578,7 @@
                 <app id="var426" type="sub"><rdg>ruokapöydälle hopeita.</rdg></app> Hän takoo kovaa rautaa. Hän koristaa timanteilla keisarin kruunun.
                 Hän 
                 <app id="var427" type="sub"><rdg>murtaa tien</rdg></app> vuorien 
-                <app id="var428" type="sub int"><rdg>läpi.</rdg></app> Hän 
+                <app id="var428" type="sub"><rdg>läpi.</rdg></app> Hän 
                 <app id="var429" type="sub"><rdg>panee veden myllyjen rattaita pyörittämään.</rdg></app> Hän purjehtii tuulessa 
                 <app id="var430" type="sub"><rdg>laivallansa.</rdg></app> Hän sulkee uuniinsa valtavan tulen. Hän kuvaa koko maanpiirin
                 kartallensa. Hän laskee 
@@ -617,9 +617,9 @@
                 <app id="var456" type="sub"><rdg>vain</rdg></app> taloni hoitaja.</p>
             <pb type="orig" n="19"/>
             <p style="blackletter">Kaikkea tätä 
-                <app id="var457" type="sub int"><rdg>kuningas <seg>ajatteli</seg> tarkoin.</rdg></app> Hän sanoi 
+                <app id="var457" type="sub"><rdg>kuningas <seg>ajatteli</seg> tarkoin.</rdg></app> Hän sanoi 
                 <app id="var458" type="sub"><rdg>itsekseen</rdg></app> näin. Olenpa minäkin herra 
-                <app id="var459" type="sub int"><rdg>kuningaskunnassani.</rdg></app> Mutta nyt 
+                <app id="var459" type="sub"><rdg>kuningaskunnassani.</rdg></app> Mutta nyt 
                 <app id="var460" type="sub"><rdg><seg>vaellan</seg></rdg></app> ympäri 
                 <app id="var461" type="sub"><rdg>maailmaa</rdg></app> palvelijan puvussa. Niinpä on ihminenkin 
                 <app id="var462" type="sub"><rdg>kaikkien</rdg></app> eläväin herra maan päällä. Mutta Jumalan edessä 

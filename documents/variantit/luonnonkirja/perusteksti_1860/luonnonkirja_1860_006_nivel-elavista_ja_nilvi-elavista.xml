@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1860). Luku 6, varianttikoodattu (perusteksti)</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1860). Luku 6, varianttikoodattu (perusteksti)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh.
+                    Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
     <text>
         <body xml:space="preserve">
             <head type="section" style="blackletter"><hi rend="bold">Kuudes </hi>
                 <app id="var2115"><lem><hi rend="bold">Luku.</hi></lem></app></head>
-                    <head type="section" style="blackletter"><anchor id="struct77a"/><hi rend="bold expanded">Nivel-elävistä ja nilvi-elävistä.</hi><anchor
-                            id="struct77b"/></head>
+                    <head type="section" style="blackletter"><anchor id="struct77a"/><hi rend="bold expanded">Nivel-elävistä ja nilvi-elävistä.</hi><anchor id="struct77b"/></head>
+            <head><anchor id="struct78a" subtype="ide"/><anchor id="struct78b" subtype="ide"/></head>
                     <p style="blackletter">
                 <app id="var2117"><lem>Antti</lem></app> ja Liisa 
                 <app id="var2118"><lem>näkivät metsän läpi mennessään</lem></app> sääskien 
@@ -33,7 +35,7 @@
                 <app id="var2125"><lem>luokkia kutsuttavan <hi rend="expanded">ylevämmiksi,</hi> kun</lem></app> niillä 
                 <app id="var2126"><lem>ovat</lem></app> tarkemmat aistimet ja <pb type="orig" n="72"/>täydellisemmäksi
                         muodostunut ruumis. Mutta 
-                <app id="var2127"><lem>viides ja kuudes luokka kutsutaan <hi rend="expanded" >alhaisemmaksi,</hi> kun niillä</lem></app> on 
+                <app id="var2127"><lem>viides ja kuudes luokka kutsutaan <hi rend="expanded">alhaisemmaksi,</hi> kun niillä</lem></app> on 
                 <app id="var2128"><lem>vaillinaisempi ruumiin rakennus.</lem></app> Sen 
                 <app id="var2129"><lem>tiennevät kyllä</lem></app> muut 
                 <app id="var2130"><lem>paremmin</lem></app> kuin me. Minä 
@@ -84,8 +86,7 @@
                     <p style="blackletter">
                 <app id="var2171"><lem>Elä vielä,</lem></app> sanoi 
                 <app id="var2172"><lem>Liisa:</lem></app> kyllä 
-                <app id="var2173"><lem>ymmärrän tarkoituksesi.</lem></app> Kerran otin kaalimaasta sellaisen toukan, <pb type="orig" n="73"
-                        />joka söi isoja reikiä kaalin lehtiin. Panin sen 
+                <app id="var2173"><lem>ymmärrän tarkoituksesi.</lem></app> Kerran otin kaalimaasta sellaisen toukan, <pb type="orig" n="73"/>joka söi isoja reikiä kaalin lehtiin. Panin sen 
                 <app id="var2174"><lem>lasipurkkiin</lem></app> ja annoin sille joka aamu tuoreita lehtiä 
                 <app id="var2175"><lem>syödä.</lem></app> Muutamana aamuna oli toukka kadonnut, ja sen sijaan riippui 
                 <app id="var2176"><lem>kulta-mato lehdessä.</lem></app> Kah, sanoin, mato on 
@@ -167,10 +168,10 @@
                 <app id="var2241"><lem>suurissa parvissa syöpi maan kasvia</lem></app> kuumissa 
                 <app id="var2242"><lem>maissa. Siinä</lem></app> kuului 
                 <app id="var2243"><lem>sirkka,</lem></app> joka 
-                <app id="var2244"><lem>tirskuttaa talon tuvassa. Siinä matoivat <hi rend="expanded" >nahka-kuoriaiset</hi></lem></app> kasveissa ja eläimissä. Yhdellä näiden toukista oli 
+                <app id="var2244"><lem>tirskuttaa talon tuvassa. Siinä matoivat <hi rend="expanded">nahka-kuoriaiset</hi></lem></app> kasveissa ja eläimissä. Yhdellä näiden toukista oli 
                 <app id="var2245"><lem>valkeata vahtua ympärillä kor<pb type="orig" n="75"/>ressa,
                                 ja</lem></app> lapset luulivat 
-                <app id="var2246"><lem>vahtua käärmeen syl’yksi. Viheriäinen <hi rend="expanded" >lehtimato</hi></lem></app> oli 
+                <app id="var2246"><lem>vahtua käärmeen syl’yksi. Viheriäinen <hi rend="expanded">lehtimato</hi></lem></app> oli 
                 <app id="var2247"><lem>kasvuilla isona vastuksena, juurikuin se punanen</lem></app>
                         <hi rend="expanded">lude</hi>
                         
@@ -183,7 +184,7 @@
                 <app id="var2252"><lem>siinä ne</lem></app> kauniit <hi rend="expanded">perhot,</hi> jotka elävät lyhyttä ja
                         iloista elämäänsä kesän 
                 <app id="var2253"><lem>lämpymässä.</lem></app> Niiden siivet hohtivat 
-                <app id="var2254"><lem>kauniimman näköisinä:</lem></app> Muutamat lentelevät päivällä, niinkuin <hi rend="expanded" >kaaliperho</hi> ja 
+                <app id="var2254"><lem>kauniimman näköisinä:</lem></app> Muutamat lentelevät päivällä, niinkuin <hi rend="expanded">kaaliperho</hi> ja 
                 <app id="var2255"><lem><hi rend="expanded">viholaisperho;</hi></lem></app> mutta 
                 <app id="var2256"><lem>se pieni</lem></app> valkea <hi rend="expanded">koiperho,</hi> jonka toukka 
                 <app id="var2257"><lem>syöpi</lem></app> reikiä vaatteisiin ja vaatteella päällystettyihin 
@@ -238,7 +239,7 @@
                 <app id="var2295"><lem>vieläkin muita tuskauttavia otuksia</lem></app> oli 
                 <app id="var2296"><lem>täällä metsässä. Lapset voivat töin tuskin varoa itseänsä noilta
                                 siivittömiltä <hi rend="expanded">matelijoilta. Täi</hi> mateli
-                                päästäkseen asumaan siivottoman ihmisen tukassa. <hi rend="expanded" >Kirppu,</hi></lem></app> joka ottaa niin pitkiä 
+                                päästäkseen asumaan siivottoman ihmisen tukassa. <hi rend="expanded">Kirppu,</hi></lem></app> joka ottaa niin pitkiä 
                 <app id="var2297"><lem>hyppyjä, oli samassa aikeessa. Puiden oksain välissä kutoi <hi rend="expanded">hämähäkki</hi> verkkoaan ja istui sen keskelle <choice>
                                     <orig>väyymään</orig>
                                     <reg>väjymään</reg>
@@ -248,7 +249,7 @@
                                 ja tuli keitettyä punaiseksi. <hi rend="expanded">Siira</hi> ja <hi rend="expanded">satajalkanen,</hi> ilkeät nähdä, piilousivat
                                 kivien alle maalla.</lem></app></p>
                     <figure type="illustration"/>
-                    <p style="blackletter">Metsässä ollessaan haki Antti <hi rend="expanded" >matoja</hi> syötiksi, sillä illalla 
+                    <p style="blackletter">Metsässä ollessaan haki Antti <hi rend="expanded">matoja</hi> syötiksi, sillä illalla 
                 <app id="var2298"><lem>aikoi hän soutaa onkimaan.</lem></app> Kerro minulle jotakin 
                 <app id="var2299"><lem>tutuistasi,</lem></app> sanoi hän 
                 <app id="var2300"><lem>sille punaselle lieralle,</lem></app> joka 
@@ -288,8 +289,8 @@
                 <app id="var2329"><lem>se musta</lem></app>
                         <hi rend="expanded">iilimato,</hi> joka pannaan 
                 <app id="var2330"><lem>vertä</lem></app> imemään, kun joku on kipeänä. 
-                <app id="var2331"><lem>Tässä mateli kivellä se pieni pehmeä <hi rend="expanded" >etana.</hi> Hiljaa vetäysivät <hi rend="expanded" >näkin-kenkäläiset</hi> ulos kieroista kuoristaan. <hi rend="expanded">Simpukat</hi> taas asuivat juurikuin
-                                kupera-kantisissa tousissa. Tässä olivat <hi rend="expanded" >helmisimpukka,</hi> jonka kuoresta löydetään oikeita simpukan
+                <app id="var2331"><lem>Tässä mateli kivellä se pieni pehmeä <hi rend="expanded">etana.</hi> Hiljaa vetäysivät <hi rend="expanded">näkin-kenkäläiset</hi> ulos kieroista kuoristaan. <hi rend="expanded">Simpukat</hi> taas asuivat juurikuin
+                                kupera-kantisissa tousissa. Tässä olivat <hi rend="expanded">helmisimpukka,</hi> jonka kuoresta löydetään oikeita simpukan
                                 helmiä, ja <hi rend="expanded">kiiltokuorinen simpukka,</hi> jonka
                                 kuoresta tehdään nappeja ja muita koreita kaluja. Ulkona meressä
                                 riippui syötävä simpukka kalliossa kiini ja saatiin siitä ihmisille
@@ -308,7 +309,7 @@
                 <app id="var2340"><lem>vatsa ympäriinsä haaroja,</lem></app> mutta ei päätä. 
                 <app id="var2341"><lem>Muutamat niistä</lem></app> ovat <pb type="orig" n="78"/>aivan 
                 <app id="var2342"><lem>kuin kina-läjä,</lem></app> joka 
-                <app id="var2343"><lem>liikkuu vedessä. Toisia kutsutaan <hi rend="expanded" >vesi-tähdiksi,</hi></lem></app> ja 
+                <app id="var2343"><lem>liikkuu vedessä. Toisia kutsutaan <hi rend="expanded">vesi-tähdiksi,</hi></lem></app> ja 
                 <app id="var2344"><lem>niillä</lem></app> on 
                 <app id="var2345"><lem>kuori ympärillä. Toisia istuu lukematoin</lem></app> määrä 
                 <app id="var2346"><lem>kiini kasvaneina juurikuin oksat puissa, jotka tekevät itsensä.

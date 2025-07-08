@@ -25,10 +25,10 @@
                 <app id="var1864" type="sub"><rdg>vanhan Simunan kanssa järvelle soutelemaan. Simuna</rdg></app> laski 
                 <app id="var1865" type="sub"><rdg><seg>verkkojaan</seg></rdg></app> ja sai monta kalaa. 
                 <app id="var1866" type="sub"><rdg>Kauan</rdg></app> ne eivät 
-                <app id="var1867" type="sub int"><rdg>veneessä olleet,</rdg></app> ennenkuin kuolivat. Miksikä, 
+                <app id="var1867" type="sub"><rdg>veneessä olleet,</rdg></app> ennenkuin kuolivat. Miksikä, 
                 <app id="var1868" type="sub"><rdg>kysyi</rdg></app> Antti, kalat 
                 <app id="var1869" type="sub int"><rdg>kuolevat, kun ne on</rdg></app> vedestä 
-                <app id="var1870" type="sub int"><rdg>otettu?</rdg></app> Siksi, sanoi Simuna, että kalat hengittävät 
+                <app id="var1870" type="sub"><rdg>otettu?</rdg></app> Siksi, sanoi Simuna, että kalat hengittävät 
                 <app id="var1871" type="sub int"><rdg>kiduksillaan vettä, jota ne ottavat suun kautta sisään</rdg></app> ja 
                 <app id="var1872" type="sub"><rdg>laskevat jälleen kidusaukon kautta</rdg></app> ulos. Vedessä on juuri niin 
                 <app id="var1873" type="sub"><rdg>paljon</rdg></app> ilmaa, kuin kalat 
@@ -38,7 +38,7 @@
                 <app id="var1876" type="sub"><rdg>saata</rdg></app> siinä hengittää.</p>
             <p style="romanType">Liisa sanoi: 
                 <app id="var1877" type="sub"><rdg>Miksi</rdg></app> ei kala saata valittaa, kun sille 
-                <app id="var1878" type="sub int"><rdg>pahaa tehdään?</rdg></app> Simuna vastasi: 
+                <app id="var1878" type="sub"><rdg>pahaa tehdään?</rdg></app> Simuna vastasi: 
                 <app id="var1879" type="sub"><rdg>Se</rdg></app> on mykkä, 
                 <app id="var1880" type="sub"><rdg>sen tähden</rdg></app> että 
                 <app id="var1881" type="sub"><rdg>useimpien</rdg></app> eläinten ääni 
@@ -55,20 +55,20 @@
                         parviksi. <seg>Mutta</seg></rdg></app> jos yhtä hätyytetään, eivät toiset tule koskaan sen 
                 <app id="var1891" type="sub"><rdg>avuksi.</rdg></app> Pyrstöllään ja evillään 
                 <app id="var1892" type="sub"><rdg>kala nopeasti <seg>liikuttelee</seg> vedessä</rdg></app> liukasta 
-                <app id="var1893" type="sub int"><rdg>ruumistaan.</rdg></app> Monella kalalla on kylmäverisessä 
+                <app id="var1893" type="sub"><rdg>ruumistaan.</rdg></app> Monella kalalla on kylmäverisessä 
                 <app id="var1894" type="sub"><rdg>ruumiissaan rakko, joka on</rdg></app> ilmaa 
                 <app id="var1895" type="sub int"><rdg>täynnä ja</rdg></app> joka pitää sitä 
                 <app id="var1896" type="sub"><rdg>parhaiksi ylhäällä,</rdg></app> ettei se painu. 
                 <app id="var1897" type="sub"><rdg>Kun naaraskalat ovat</rdg></app> mätinsä rannoille 
                 <app id="var1898" type="sub"><rdg>laskeneet ja koiraskalat</rdg></app> maitinsa mädin 
-                <app id="var1899" type="sub int"><rdg>sekaan juoksuttaneet,</rdg></app> eivät 
+                <app id="var1899" type="sub"><rdg>sekaan juoksuttaneet,</rdg></app> eivät 
                 <app id="var1900" type="sub"><rdg>ne sen koommin sikiöistään huoli.</rdg></app> Aurinko lämmittää mätiä. 
                 <app id="var1901" type="sub"><rdg>Sikiöt</rdg></app> matavat itse siitä 
                 <app id="var1902" type="sub"><rdg>esille</rdg></app> ja hoitavat itsensä pieninä ollessaan. Ne syövät 
                 <app id="var1903" type="sub"><rdg>vesikasvien</rdg></app> siemeniä ja 
                 <app id="var1904" type="sub"><rdg>näppivät</rdg></app> sääskiä, jotka liehuvat veden 
                 <app id="var1905" type="sub"><rdg>pinnalla.</rdg></app> Pian tulee 
-                <app id="var1906" type="sub int"><rdg>moni <seg>niistä</seg> ahnaaksi pedoksi. Silloin ne</rdg></app> terävillä hampaillaan 
+                <app id="var1906" type="sub"><rdg>moni <seg>niistä</seg> ahnaaksi pedoksi. Silloin ne</rdg></app> terävillä hampaillaan 
                 <app id="var1907" type="sub"><rdg>iskevät pienempiin kaloihin</rdg></app> ja nielevät ne pureskelematta. 
                 <app id="var1908" type="sub"><rdg>Kalat ovat</rdg></app> ihmisille 
                 <app id="var1909" type="sub"><rdg>sangen hyödyllisiä, sentähden</rdg></app> niitä 
@@ -79,7 +79,7 @@
                 <app id="var1912" type="sub"><rdg>joki</rdg></app> suureen mereen. Tässä näemme sekä <hi rend="italics">suolattoman
                     veden kaloja</hi> että <hi rend="italics">suolaisen veden kaloja.</hi>
                 Ja muutamat elävät 
-                <app id="var1913" type="sub int"><rdg>milloin suolattomassa, milloin</rdg></app> suolaisessa vedessä. 
+                <app id="var1913" type="sub"><rdg>milloin suolattomassa, milloin</rdg></app> suolaisessa vedessä. 
                 <app id="var1914" type="sub"><rdg><seg>Liisa</seg></rdg></app> sanoi: 
                 <app id="var1915" type="sub"><rdg>Varo, veliseni,</rdg></app> tuolla uipi käärme. Antti sanoi: 
                 <app id="var1916" type="sub"><rdg>Ei</rdg></app> se ole käärme. 
@@ -100,7 +100,7 @@
                 <app id="var1926" type="sub"><rdg><seg>ahnas</seg></rdg></app>
                 <hi rend="expanded">hai,</hi> joka synnyttää eläviä sikiöitä ja jota 
                 <app id="var1927" type="sub"><rdg>sanotaan</rdg></app> meren tiikeriksi. 
-                <app id="var1928" type="sub int"><rdg>Hyvä,</rdg></app> ettei sitä ole täällä meidän 
+                <app id="var1928" type="sub"><rdg>Hyvä,</rdg></app> ettei sitä ole täällä meidän 
                 <app id="var1929" type="sub"><rdg>järvissämme.</rdg></app></p>
             <figure type="illustration"/>
             <figure type="illustration"/>
@@ -118,7 +118,7 @@
                 
                 <app id="var1938" type="sub"><rdg>joista päivänpaisteessa kuivattuina</rdg></app> tehdään 
                 <app id="var1939" type="sub"><rdg>lipeäkalaa</rdg></app> jouluksi. Tässä on <pb type="orig" n="86"/><figure type="illustration"/><figure type="illustration"/>
-                <app id="var1940" type="sub int"><rdg>niiden
+                <app id="var1940" type="sub"><rdg>niiden
                         heimolainen, <seg><hi rend="expanded">made,</hi></seg> jossa on niin
                         hienoa</rdg></app> ja 
                 <app id="var1941" type="sub"><rdg>hyvänmakuista mätiä.</rdg></app> Pohjamudassa makaa 
@@ -139,7 +139,7 @@
                 <app id="var1950" type="sub"><rdg>ruman näköinen,</rdg></app> mutta hyvänmakuinen 
                 <app id="var1951" type="sub"><rdg><hi rend="expanded">merihärkä,</hi></rdg></app> jolla on 
                 <app id="var1952" type="sub"><rdg>niin <seg>ruma</seg></rdg></app> ja iso pää. Tässä on 
-                <app id="var1953" type="sub int"><rdg><hi rend="expanded">säkiä</hi> eli <hi rend="expanded" >monni,</hi></rdg></app> suurin kaikista suolattoman veden kaloista. Koskea ylös 
+                <app id="var1953" type="sub"><rdg><hi rend="expanded">säkiä</hi> eli <hi rend="expanded" >monni,</hi></rdg></app> suurin kaikista suolattoman veden kaloista. Koskea ylös 
                 <app id="var1954" type="sub"><rdg>puikkelehtii</rdg></app> voimakkaalla pyrstöllään 
                 <app id="var1955" type="sub"><rdg><seg>kaunis</seg> lo <hi rend="expanded">hi,</hi></rdg></app> joka on <figure type="illustration"/>
                 <app id="var1956" type="sub"><rdg>vesiemme arvokkain kala. Vie<pb type="orig" n="87"/>ressä uivat sen
@@ -150,7 +150,7 @@
                 <hi rend="expanded">siika.</hi>
                 
                 <app id="var1959" type="sub int"><rdg>Lohen lailla kulkee tämä</rdg></app> virtoja 
-                <app id="var1960" type="sub int"><rdg>ylös suolattomaan veteen kutemaan.</rdg></app> Täällä pyytää saalista 
+                <app id="var1960" type="sub"><rdg>ylös suolattomaan veteen kutemaan.</rdg></app> Täällä pyytää saalista 
                 <app id="var1961" type="sub"><rdg>jokien</rdg></app> susi, 
                 <app id="var1962" type="sub"><rdg><seg>ahnas</seg></rdg></app>
                 <hi rend="expanded">hauki,</hi> joka usein nielee 
@@ -160,8 +160,8 @@
                 <app id="var1966" type="sub"><rdg>kauas</rdg></app> suuriin meriin, joihin 
                 <app id="var1967" type="sub"><rdg>lukemattomat kalat</rdg></app> ja 
                 <app id="var1968" type="sub"><rdg>merenpedot sitä ajavat.</rdg></app> Ainoastaan harvoin 
-                <app id="var1969" type="sub int"><rdg>se <seg>tulee</seg> meidän rannikollemme.</rdg></app> Sen <figure type="illustration"/>
-                <app id="var1970" type="sub int"><rdg>sijaan</rdg></app>
+                <app id="var1969" type="sub"><rdg>se <seg>tulee</seg> meidän rannikollemme.</rdg></app> Sen <figure type="illustration"/>
+                <app id="var1970" type="sub"><rdg>sijaan</rdg></app>
                 <pb type="orig" n="88"/>on meillä täällä sen velipuoli 
                 <app id="var1971" type="sub"><rdg><hi rend="expanded">silakka</hi> eli <hi rend="expanded" >haili,</hi></rdg></app> ja sen pieni 
                 <app id="var1972" type="sub int"><rdg>heimolainen, <hi rend="expanded">kilohaili,</hi> jotka samaten kuin
@@ -182,7 +182,7 @@
                 <app id="var1978" type="sub"><rdg><hi rend="italics">särkikaloja,</hi></rdg></app> jotka usein 
                 <app id="var1979" type="sub"><rdg>joutuvat</rdg></app> isompain saaliiksi. Tässä 
                 <app id="var1980" type="sub"><rdg>ui <hi rend="expanded">karppi,</hi></rdg></app> jota rikkaat ihmiset 
-                <app id="var1981" type="sub int"><rdg>lammikoissa elättävät.</rdg></app>
+                <app id="var1981" type="sub"><rdg>lammikoissa elättävät.</rdg></app>
                 <hi rend="expanded">Kouri</hi>
                 
                 <app id="var1982" type="sub"><rdg>eli <hi rend="expanded">ruutana</hi>
@@ -192,7 +192,7 @@
                 <app id="var1985" type="sub"><rdg>sain sinut</rdg></app> nuottaani, 
                 <app id="var1986" type="sub"><rdg>sinä <seg>leveä</seg></rdg></app>
                 <hi rend="expanded">lahna!</hi> Tuolla 
-                <app id="var1987" type="sub int"><rdg>kalalokki lentää.</rdg></app> Varo 
+                <app id="var1987" type="sub"><rdg>kalalokki lentää.</rdg></app> Varo 
                 <app id="var1988" type="sub int"><rdg><seg>sen</seg> nokkaa,</rdg></app> sinä 
                 <app id="var1989" type="sub"><rdg>kullankarvainen</rdg></app>
                 <hi rend="expanded">sorva!</hi> Varo 
@@ -217,7 +217,7 @@
             <figure type="illustration"/>
             <figure type="illustration"/>
             <p style="romanType">
-                <app id="var2002" type="sub int"><rdg>Kalat veden valtakunnissa,</rdg></app> sanoi Simuna, ovat 
+                <app id="var2002" type="sub"><rdg>Kalat veden valtakunnissa,</rdg></app> sanoi Simuna, ovat 
                 <app id="var2003" type="sub int"><rdg>ikäänkuin toisista maailmoista kotoisin.</rdg></app> Ne eivät ymmärrä meitä, jotka 
                 <app id="var2004" type="sub"><rdg><seg>täällä</seg> selkeässä ilmassa asumme.</rdg></app> Ja 
                 <app id="var2005" type="sub"><rdg>mekin hyvin vähän</rdg></app> ymmärrämme 
@@ -240,9 +240,9 @@
                 <app id="var2018" type="sub"><rdg>Leukapielensä aukaistuaan saattaa se</rdg></app> niellä 
                 <app id="var2019" type="sub"><rdg>täysikasvuisen</rdg></app> miehen, ja koira saattaa 
                 <app id="var2020" type="sub"><rdg>ryömiä</rdg></app> sisälle 
-                <app id="var2021" type="sub int"><rdg>sen vatsaan <seg>ja</seg> sieltä ulos.</rdg></app> Norjalaisen kalastajan nieli hai. Kahden päivän 
+                <app id="var2021" type="sub"><rdg>sen vatsaan <seg>ja</seg> sieltä ulos.</rdg></app> Norjalaisen kalastajan nieli hai. Kahden päivän 
                 <app id="var2022" type="sub"><rdg>kuluttua</rdg></app> sama 
-                <app id="var2023" type="sub int"><rdg>hai saatiin.</rdg></app> Kalastaja oli täysissä vaatteissa ja kuolleena hain vatsassa. 
+                <app id="var2023" type="sub"><rdg>hai saatiin.</rdg></app> Kalastaja oli täysissä vaatteissa ja kuolleena hain vatsassa. 
                 <app id="var2024" type="sub"><rdg>Länsi-Intiassa</rdg></app> hyppäsi 
                 <app id="var2025" type="sub"><rdg>englantilaisesta laivasta <seg>muutamia</seg></rdg></app> merimiehiä 
                 <app id="var2026" type="sub"><rdg><seg>mereen</seg></rdg></app> uimaan. 
@@ -297,7 +297,7 @@
             <p style="romanType">
                 <app id="var2068" type="sub"><rdg>Lohella</rdg></app> on 
                 <app id="var2069" type="sub"><rdg><seg>niin</seg> voimakas pyrstö,</rdg></app> että se usein 
-                <app id="var2070" type="sub int"><rdg>viskautuu lähes kaksi metriä korkealle veden pinnasta.</rdg></app> Koskeen rakennetaan sille 
+                <app id="var2070" type="sub"><rdg>viskautuu lähes kaksi metriä korkealle veden pinnasta.</rdg></app> Koskeen rakennetaan sille 
                 <app id="var2071" type="sub int"><rdg>lujista vaajoista pato,</rdg></app> joka on 
                 <app id="var2072" type="sub"><rdg>tämän näköinen</rdg></app>
                 <figure type="illustration"/>. 
@@ -331,7 +331,7 @@
                 <app id="var2097" type="sub"><rdg>Muutamissa naaraskaloissa</rdg></app> on 
                 <app id="var2098" type="sub"><rdg>yhdeksän miljoonaa mätimunaa.</rdg></app> Se on niin 
                 <app id="var2099" type="sub"><rdg>paljon,</rdg></app> että 
-                <app id="var2100" type="sub int"><rdg>vaikka yöt päivät laskisit, saisit</rdg></app> niitä 
+                <app id="var2100" type="sub"><rdg>vaikka yöt päivät laskisit, saisit</rdg></app> niitä 
                 <app id="var2101" type="sub"><rdg>laskea</rdg></app> monta viikkoa. Jos jokaisesta 
                 <app id="var2102" type="sub"><rdg>mätimunasta</rdg></app> tulisi kala, 
                 <app id="var2103" type="sub"><rdg>niin <seg>olisivat</seg> varmaankin</rdg></app> kaikki vedet 

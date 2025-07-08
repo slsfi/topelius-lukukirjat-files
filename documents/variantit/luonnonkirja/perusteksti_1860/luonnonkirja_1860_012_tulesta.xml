@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1860). Luku 12, varianttikoodattu (perusteksti)</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1860). Luku 12, varianttikoodattu (perusteksti)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh.
+                    Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
     <text>
         <body xml:space="preserve">
             <head type="section" style="blackletter"><hi rend="bold">Kahdestoista</hi> 
@@ -97,8 +99,7 @@
             <p style="blackletter">
                 <app id="var5675"><lem>Tulen viritämme lämpimää</lem></app> ja 
                 <app id="var5676"><lem>hyötyä varten,</lem></app> keittämistä, paistamista ja 
-                <app id="var5677"><lem>muutakin</lem></app> varten. Siihen käytämme puita, mutta muissa maissa käy<pb type="orig"
-                    n="164"/>tetään 
+                <app id="var5677"><lem>muutakin</lem></app> varten. Siihen käytämme puita, mutta muissa maissa käy<pb type="orig" n="164"/>tetään 
                 <app id="var5678"><lem>hiiliäkin, kivisyttä</lem></app> ja 
                 <app id="var5679"><lem>poltto-turpeita.</lem></app> Jos lykkäämme pellin 
                 <app id="var5680"><lem>kiini tulen takassa</lem></app> palaessa, niin huone 
@@ -252,7 +253,7 @@
                 <app id="var5816"><lem>kummallinen</lem></app> voima, joka 
                 <app id="var5817"><lem>löytyy kappaleissa salattuna</lem></app> ja 
                 <app id="var5818"><lem>virkoaa elämään kihnaamalla? Se</lem></app> on 
-                <app id="var5819"><lem><hi rend="expanded">sähkö</hi> eli <hi rend="expanded" >lieke,</hi></lem></app> ja 
+                <app id="var5819"><lem><hi rend="expanded">sähkö</hi> eli <hi rend="expanded">lieke,</hi></lem></app> ja 
                 <app id="var5820"><lem>se</lem></app> on 
                 <app id="var5821"><lem>se, josta ukon-tuli tulee.</lem></app> Se saattaa 
                 <app id="var5822"><lem>tulla monesta</lem></app> syystä 
@@ -421,9 +422,10 @@
                 <app id="var5969"><lem>tunteneet tulta,</lem></app> on 
                 <app id="var5970"><lem>niiden sanottu olleen</lem></app> tuskin 
                 <app id="var5971"><lem>järjettömiä</lem></app> luontokappaleita parempia.</p>
-            <head style="blackletter"><anchor id="struct189a"/><hi rend="bold" >Maanjäristyksestä.</hi><anchor id="struct189b"/></head>
-            <head><anchor id="struct190a"/>
-                <anchor id="struct190b"/></head>
+            <head style="blackletter">
+                <app id="8000">
+                    <lem><hi rend="bold">Maanjäristyksestä.</hi></lem>
+                </app></head>
             <p style="blackletter">Eräänä syyspäivänä, 
                 <app id="var5972"><lem>sata</lem></app> vuotta 
                 <app id="var5973"><lem>takaperin, kuuli väki</lem></app> isossa Lissabonin kaupungissa Portugalissa yhtäkkiä 
@@ -515,7 +517,7 @@
                 <app id="var6047"><lem>Sitte pirisi se</lem></app> kuuma malmi 
                 <app id="var6048"><lem>ympäriinsä</lem></app> joka suunnalle. Vesi oli voittanut ja kiehui 
                 <app id="var6049"><lem>kauvan, juuri kuin ylpeillen voitostaan, sammuneessa uunissa.</lem></app></p>
-            <head style="romanType"><anchor id="struct192a"/><hi rend="bold" >Säkene.</hi><anchor id="struct192b"/></head>
+            <head style="romanType"><anchor id="struct192a"/><hi rend="bold">Säkene.</hi><anchor id="struct192b"/></head>
             <pb type="orig" n="173"/>
             <head style="romanType">
                 <app id="var6050"><lem><hi rend="bold">Varjele Herra!</hi></lem></app></head>
