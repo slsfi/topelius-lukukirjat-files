@@ -1,23 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1860). Luku 6, varianttikoodattu (perusteksti)</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
-			</sourceDesc>
-		</fileDesc>
-	<profileDesc><creation><idNo>6</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Kuudes Luku. Nivel-elävistä ja nilvi-elävistä</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1860). Luku 6, varianttikoodattu (perusteksti)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh.
+                    Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+            </sourceDesc>
+        </fileDesc>
+    <profileDesc><creation><idNo>6</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Kuudes Luku. Nivel-elävistä ja nilvi-elävistä</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
     <text>
         <body xml:space="preserve">
             <head type="section" style="blackletter"><hi rend="bold">Kuudes </hi>
                 <app id="var2115" type="sub"><lem><hi rend="bold">Luku.</hi></lem></app></head>
                     <head type="section" style="blackletter"><anchor id="struct77a"/><hi rend="bold expanded">Nivel-elävistä ja nilvi-elävistä.</hi><anchor id="struct77b"/></head>
+            <head><anchor id="struct78a" subtype="ide"/><anchor id="struct78b" subtype="ide"/></head>
                     <p style="blackletter">
                 <app id="var2117" type="sub"><lem>Antti</lem></app> ja Liisa 
                 <app id="var2118" type="sub"><lem>näkivät metsän läpi mennessään</lem></app> sääskien 

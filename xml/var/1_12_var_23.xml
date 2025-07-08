@@ -1,18 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1860). Luku 12, varianttikoodattu (perusteksti)</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
-			</sourceDesc>
-		</fileDesc>
-	<profileDesc><creation><idNo>12</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Kahdestoista Luku. Tulesta</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1860). Luku 12, varianttikoodattu (perusteksti)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh.
+                    Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+            </sourceDesc>
+        </fileDesc>
+    <profileDesc><creation><idNo>12</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Kahdestoista Luku. Tulesta</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
     <text>
         <body xml:space="preserve">
             <head type="section" style="blackletter"><hi rend="bold">Kahdestoista</hi> 
@@ -420,9 +421,10 @@
                 <app id="var5969" type="sub"><lem>tunteneet tulta,</lem></app> on 
                 <app id="var5970" type="sub"><lem>niiden sanottu olleen</lem></app> tuskin 
                 <app id="var5971" type="sub"><lem>järjettömiä</lem></app> luontokappaleita parempia.</p>
-            <head style="blackletter"><anchor id="struct189a"/><hi rend="bold">Maanjäristyksestä.</hi><anchor id="struct189b"/></head>
-            <head><anchor id="struct190a"/>
-                <anchor id="struct190b"/></head>
+            <head style="blackletter">
+                <app id="8000" type="sub">
+                    <lem><hi rend="bold">Maanjäristyksestä.</hi></lem>
+                </app></head>
             <p style="blackletter">Eräänä syyspäivänä, 
                 <app id="var5972" type="sub"><lem>sata</lem></app> vuotta 
                 <app id="var5973" type="sub"><lem>takaperin, kuuli väki</lem></app> isossa Lissabonin kaupungissa Portugalissa yhtäkkiä 

@@ -1,18 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1929). Luku 12, varianttikoodattu</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo: Werner Söderström 1929</p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1929). Luku 12, varianttikoodattu</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo:
+                    Werner Söderström 1929</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
     <text>
         <body xml:space="preserve">
 			<pb type="orig unprinted" n="237"/>
@@ -444,9 +445,9 @@
                 <app id="var5969" type="sub int"><rdg>tulta tunteneet,</rdg></app> on 
                 <app id="var5970" type="sub"><rdg>niistä sanottu, että he</rdg></app> tuskin 
                 <app id="var5971" type="sub"><rdg>ovat olleet <seg>järjettömiä</seg></rdg></app> luontokappaleita parempia.</p>
-            <head><anchor id="struct189a"/>
-                <anchor id="struct189b"/></head>
-            <head style="romanType"><anchor id="struct190a"/><hi rend="bold">Maanjäristyksistä.</hi><anchor id="struct190b"/></head>
+            <head style="romanType"><app id="8000" type="sub">
+                <rdg><hi rend="bold">Maanjäristyksistä.</hi></rdg>
+            </app></head>
             <p style="romanType">Eräänä syyspäivänä, 
                 <app id="var5972" type="sub"><rdg>noin satakuusikymmentä</rdg></app> vuotta 
                 <app id="var5973" type="sub"><rdg>sitten, kuulivat asukkaat</rdg></app> isossa Lissabonin kaupungissa Portugalissa yhtäkkiä 
@@ -540,11 +541,11 @@
                 <app id="var6047" type="sub"><rdg>Sitten lensi</rdg></app> kuuma malmi 
                 <app id="var6048" type="sub"><rdg>yltympäri</rdg></app> joka suunnalle. Vesi oli voittanut ja kiehui 
                 <app id="var6049" type="sub"><rdg>kauan sammuneessa uunissa, ikäänkuin voitostaan ylpeillen.</rdg></app></p>
-            <head style="romanType"><anchor id="struct192a"/><hi rend="bold"><hi rend="italics">Säkene,</hi></hi><anchor id="struct192b"/></head>
+            <head style="romanType"><anchor id="struct192a"/><hi rend="bold"><hi rend="italics">Säkene.</hi></hi><anchor id="struct192b"/></head>
             <pb type="orig" n="249"/>
             <head style="romanType"><hi rend="bold"/>
                 <app id="var6050" type="sub int"><rdg><hi rend="bold"><hi rend="italics">Herra
-                        varjeleepi,</hi></hi></rdg></app><hi rend="bold"/></head>
+                        varjeleepi.</hi></hi></rdg></app><hi rend="bold"/></head>
         </body>
     </text>
 </TEI>
