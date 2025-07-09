@@ -1,18 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1929). Luku 2, varianttikoodattu</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo: Werner Söderström 1929</p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1929). Luku 2, varianttikoodattu</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo:
+                    Werner Söderström 1929</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
     <text>
         <body xml:space="preserve">
 			<pb type="orig unprinted" n="21"/>
@@ -846,7 +847,9 @@
                 <app id="var1085" type="sub"><rdg>hiljakseen</rdg></app> tiehensä. Niin valtavasti 
                 <app id="var1086" type="sub"><rdg>vaikuttaa</rdg></app> ihmisen 
                 <app id="var1087" type="sub"><rdg>pelkkä silmäys</rdg></app> väkevimpiinkin eläimiin.</p>
-            <head style="blackletter"><anchor id="struct38a"/><hi rend="bold">Kuningastiikeri.</hi><anchor id="struct38b"/></head>
+            <head style="blackletter"><app id="8001" type="int"><rdg>
+<hi rend="bold">Kuningastiikeri.</hi></rdg></app>
+</head>
             <p style="blackletter">
                 <app id="var1088" type="sub"><rdg>Se</rdg></app> asuu Aasiassa. 
                 <app id="var1089" type="sub"><rdg>Se</rdg></app> on hirmuinen. 

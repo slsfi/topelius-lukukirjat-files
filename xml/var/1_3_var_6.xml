@@ -1,18 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1929). Luku 3, varianttikoodattu</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo: Werner Söderström 1929</p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1929). Luku 3, varianttikoodattu</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo:
+                    Werner Söderström 1929</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
     <text>
         <body xml:space="preserve">
 			<pb type="orig unprinted" n="54"/>
@@ -506,7 +507,8 @@
                 <app id="var1573" type="sub"><rdg>siinä</rdg></app> menestyneet, vaan 
                 <app id="var1574" type="sub"><rdg>rakensivat</rdg></app> itselleen toisen pesän.</p>
             <figure type="illustration"/>
-            <head style="blackletter"><anchor id="struct54a"/><hi rend="bold">Muuttolinnut.</hi><anchor id="struct54b"/></head>
+            <head style="blackletter"><app id="8002" type="int"><rdg>
+<hi rend="bold">Muuttolinnut.</hi></rdg></app></head>
             <p style="blackletter">Eivät kaikki linnut muuta pois talveksi. 
                 <app id="var1575" type="sub"><rdg>Melkein</rdg></app> kaikki petolinnut 
                 <app id="var1576" type="sub"><rdg>jäävät</rdg></app> tänne. Varpunen laulaa tirskuttaa 

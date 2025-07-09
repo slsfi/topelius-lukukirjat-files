@@ -1,18 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1860). Luku 2, varianttikoodattu (perusteksti)</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
-			</sourceDesc>
-		</fileDesc>
-	<profileDesc><creation><idNo>2</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Toinen Luku. Imettävistä eläimistä</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1860). Luku 2, varianttikoodattu (perusteksti)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh.
+                    Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+            </sourceDesc>
+        </fileDesc>
+    <profileDesc><creation><idNo>2</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Toinen Luku. Imettävistä eläimistä</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_annotations"/></textClass></profileDesc></teiHeader>
     <text>
         <body xml:space="preserve">
             <head style="blackletter" type="section"><hi rend="bold">Toinen </hi>
@@ -826,7 +827,8 @@
                 <app id="var1085" type="sub"><lem>hiljoilleen</lem></app> tiehensä. Niin valtavasti 
                 <app id="var1086" type="sub"><lem>koskee</lem></app> ihmisen 
                 <app id="var1087" type="sub"><lem>sula katsanto</lem></app> väkevimpiinkin eläimiin.</p>
-            <head style="blackletter"><anchor id="struct38a"/><hi rend="bold">Kuningas-tiikeri.</hi><anchor id="struct38b"/></head>
+            <head style="blackletter"><app id="8001" type="int"><lem><hi rend="bold">Kuningas-tiikeri.</hi></lem></app>
+</head>
             <p style="blackletter">
                 <app id="var1088" type="sub"><lem>Tämä</lem></app> asuu Aasiassa. 
                 <app id="var1089" type="sub"><lem>Hän</lem></app> on hirmuinen. 

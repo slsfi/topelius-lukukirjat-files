@@ -480,7 +480,8 @@
                 <app id="var1572" type="sub"><lem>siinä</lem></app> eivät 
                 <app id="var1573" type="sub"><lem>he enää</lem></app> menestyneet, vaan 
                 <app id="var1574" type="sub"><lem>rakentivat</lem></app> itselleen toisen pesän.</p>
-            <head style="blackletter"><anchor id="struct54a"/><hi rend="bold">Muutto-linnut.</hi><anchor id="struct54b"/></head>
+            <head style="blackletter"><app id="8002" type="int"><lem>
+<hi rend="bold">Muutto-linnut.</hi></lem></app></head>
             <p style="blackletter">Eivät kaikki linnut muuta pois talveksi. 
                 <app id="var1575" type="sub"><lem>Piammite</lem></app> kaikki petolinnut 
                 <app id="var1576" type="sub"><lem>pysähtyvät</lem></app> tänne. Varpunen laulaa tirskuttaa 
