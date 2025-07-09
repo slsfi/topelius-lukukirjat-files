@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1860). Luku 2, varianttikoodattu (perusteksti)</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1860). Luku 2, varianttikoodattu (perusteksti)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh.
+                    Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
     <text>
         <body xml:space="preserve">
             <head style="blackletter" type="section"><hi rend="bold">Toinen </hi>
@@ -216,7 +218,7 @@
                 <app id="var613"><lem>minun,</lem></app> elätti minua vankina häkissä.</p>
             <figure type="illustration"/>
             <p style="blackletter">Leijona 
-                <app id="var614"><lem>antoi nahkasiiven lentää. Puhaltipa <hi rend="expanded" >valaskala</hi></lem></app> vettä korkealle meren pinnasta. Oletko sinä kala? En, herra kuningas.
+                <app id="var614"><lem>antoi nahkasiiven lentää. Puhaltipa <hi rend="expanded">valaskala</hi></lem></app> vettä korkealle meren pinnasta. Oletko sinä kala? En, herra kuningas.
                 Minä synnytän eläviä 
                 <app id="var615"><lem>sikiöitä,</lem></app> jotka 
                 <app id="var616"><lem>imevät maitoani. Siksi</lem></app> olen 
@@ -233,7 +235,7 @@
                 <app id="var625"><lem>eläin, mitä on.</lem></app> Kuitenkin on ihminen tappanut monta sataa 
                 <app id="var626"><lem>veljistäni. <hi rend="expanded">Hylekin,</hi></lem></app> jolla on pää 
                 <app id="var627"><lem>kuin</lem></app> koiralla, 
-                <app id="var628"><lem>on imettävä eläin, joka elää vedessä. <hi rend="expanded" >Saukko,</hi></lem></app> joka pyytää kaloja, 
+                <app id="var628"><lem>on imettävä eläin, joka elää vedessä. <hi rend="expanded">Saukko,</hi></lem></app> joka pyytää kaloja, 
                 <app id="var629"><lem>on samallainen eläin.</lem></app></p>
             <p style="blackletter">Leijona 
                 <app id="var630"><lem>tuskauntui.</lem></app> Ui 
@@ -363,8 +365,7 @@
                 pannut 
                 <app id="var727"><lem>minun</lem></app> palvelijaksi maan päälle. 
                 <app id="var728"><lem>Moni ihminen rakastaa</lem></app> minua 
-                <app id="var729"><lem>hyvin. Ne</lem></app> hoitavat minua hyvänä kumppaninansa. Minä tunnen <pb type="orig"
-                    n="27"/>herrani äänen. Minä syön leipää hänen kädestänsä. 
+                <app id="var729"><lem>hyvin. Ne</lem></app> hoitavat minua hyvänä kumppaninansa. Minä tunnen <pb type="orig" n="27"/>herrani äänen. Minä syön leipää hänen kädestänsä. 
                 <app id="var730"><lem>Niin on</lem></app> hänen hoitonsa 
                 <app id="var731"><lem>minulla palkkana.</lem></app></p>
             <figure type="illustration"/>
@@ -454,8 +455,7 @@
                 <app id="var794"><lem>kuulut.</lem></app> Kerran 
                 <app id="var795"><lem>kulin</lem></app> etelämaissa, 
                 <app id="var796"><lem>joissa</lem></app> aurinko 
-                <app id="var797"><lem>on kuuma.</lem></app> Siellä kohtasin hirveän kummallisen eläimen, jota <pb type="orig"
-                    n="29"/>
+                <app id="var797"><lem>on kuuma.</lem></app> Siellä kohtasin hirveän kummallisen eläimen, jota <pb type="orig" n="29"/>
                 <app id="var798"><lem>kutsuttiin <hi rend="expanded">elehvantiksi.</hi></lem></app> Näin hevosen 
                 <app id="var799"><lem>menevän suorana hänen vatsansa alate.</lem></app> Suussa oli sillä kaksi hirmuisen isoa hammasta, joista saadaan 
                 <app id="var800"><lem>sitä kallista elehvantin-luuta.</lem></app> Se pani ruokaa suuhunsa pitkällä turvalla, jota 
@@ -630,8 +630,7 @@
                 <app id="var938"><lem>paljo</lem></app> rahaa kuolleitten susien nahoista.</p>
             <p style="blackletter"><hi rend="expanded">Kettu</hi>
                 <app id="var939"><lem> tulla</lem></app> sipsutteli 
-                <app id="var940"><lem>esiin ulkokullatun näkösenä.</lem></app> Herra kuningas, minäkin olen koiran sukua. <pb type="orig" n="33"
-                />Viekkauteni on hyvin 
+                <app id="var940"><lem>esiin ulkokullatun näkösenä.</lem></app> Herra kuningas, minäkin olen koiran sukua. <pb type="orig" n="33"/>Viekkauteni on hyvin 
                 <app id="var941"><lem>kuulusa. Saatan purra poikki häntänikin, joka</lem></app> on 
                 <app id="var942"><lem>tarttunut ketun-rautoihin.</lem></app> Viekkaasti petän minä pyytäjän, joka 
                 <app id="var943"><lem>käyttää nahkaani pehmeimmiksi turkiksi.</lem></app> Useampia kertomuksia saat 
@@ -648,7 +647,7 @@
                 <app id="var952"><lem>peto-eläimet</lem></app> pois. Niiden 
                 <app id="var953"><lem>perästä</lem></app> tuli vielä muita 
                 <app id="var954"><lem>imettäviä eläimiä, joita kutsutaan:</lem></app></p>
-            <head style="blackletter"><anchor id="struct31a"/><hi rend="bold" >Nävertäjät.</hi><anchor id="struct31b"/></head>
+            <head style="blackletter"><anchor id="struct31a"/><hi rend="bold">Nävertäjät.</hi><anchor id="struct31b"/></head>
             <head><anchor id="struct32a"/>
                 <anchor id="struct32b"/></head>
             <p style="blackletter">Nämä 
@@ -829,7 +828,8 @@
                 <app id="var1085"><lem>hiljoilleen</lem></app> tiehensä. Niin valtavasti 
                 <app id="var1086"><lem>koskee</lem></app> ihmisen 
                 <app id="var1087"><lem>sula katsanto</lem></app> väkevimpiinkin eläimiin.</p>
-            <head style="blackletter"><anchor id="struct38a"/><hi rend="bold" >Kuningas-tiikeri.</hi><anchor id="struct38b"/></head>
+            <head style="blackletter"><app id="8001"><lem><hi rend="bold">Kuningas-tiikeri.</hi></lem></app>
+</head>
             <p style="blackletter">
                 <app id="var1088"><lem>Tämä</lem></app> asuu Aasiassa. 
                 <app id="var1089"><lem>Hän</lem></app> on hirmuinen. 

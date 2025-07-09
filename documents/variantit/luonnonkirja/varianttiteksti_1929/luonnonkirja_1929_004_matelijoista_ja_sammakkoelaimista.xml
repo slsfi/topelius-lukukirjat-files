@@ -258,7 +258,7 @@
                 <app id="var1788" type="sub"><rdg>meillekin</rdg></app> on rauha tuleva, kun aika on 
                 <app id="var1789" type="sub"><rdg>täytetty.</rdg></app></p>
             <head style="romanType">
-                <app id="var1790" type="sub"><rdg><hi rend="bold">Sitkeähenkisiä eläimiä.</hi></rdg></app></head>
+                <app id="var1790" type="sub int"><rdg><hi rend="bold">Sitkeähenkisiä eläimiä.</hi></rdg></app></head>
             <p style="romanType">Näin kerran 
                 <app id="var1791" type="sub int"><rdg>kukko raukan,</rdg></app> jolta 
                 <app id="var1792" type="sub"><rdg>keittäjä</rdg></app> löi 
@@ -343,7 +343,7 @@
                 <app id="var1860" type="sub"><rdg>kyllä, että</rdg></app> niin on; mutta niin se 
                 <app id="var1861" type="sub"><rdg>vain <seg>on.</seg></rdg></app></p>
             <pb type="orig" n="82"/>
-            <head style="romanType"><anchor id="struct67a"/><hi rend="bold"><hi rend="italics">Sammakko.</hi></hi><anchor id="struct67b"/></head>
+            <head style="romanType"><anchor id="struct67a"/><hi rend="bold"><hi rend="italics">Sammakko,</hi></hi><anchor id="struct67b"/></head>
             <lg>
                 <anchor id="struct68a"/>
                 <anchor id="struct68b"/>

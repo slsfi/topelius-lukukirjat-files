@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_grundtext.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1860). Luku 13, varianttikoodattu (perusteksti)</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1860). Luku 13, varianttikoodattu (perusteksti)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh.
+                    Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
     <text>
         <body xml:space="preserve">
             <head type="section" style="blackletter"><hi rend="bold">Kolmastoista</hi> 
@@ -32,8 +34,7 @@
                 <app id="var6061"><lem><hi rend="expanded">pimeys,</hi> jossa</lem></app> ei 
                 <app id="var6062"><lem>voi</lem></app> nähdä 
                 <app id="var6063"><lem>juuri</lem></app> mitään. Mutta silloin 
-                <app id="var6064"><lem>sytytetään valkea takkaan, päre pannaan palamaan pihtiin <pb
-                            type="orig" n="174"/>eli talikynttilä sytytetään</lem></app> pöydälle, 
+                <app id="var6064"><lem>sytytetään valkea takkaan, päre pannaan palamaan pihtiin <pb type="orig" n="174"/>eli talikynttilä sytytetään</lem></app> pöydälle, 
                 <app id="var6065"><lem>vaikka näiden valossa</lem></app> emme näe 
                 <app id="var6066"><lem>niin selvästi</lem></app> kuin päivän valossa. Jos 
                 <app id="var6067"><lem>tällöin</lem></app> menemme kartanolle, niin näemme 
@@ -484,7 +485,7 @@
                 <app id="var6460"><lem>kertaa oli</lem></app> lattialla takan ja akkunan välillä niin kylmä, että maito jäätyi
                 kupissa, jonka 
                 <app id="var6461"><lem>panin</lem></app> lattialle. 
-                <app id="var6462"><lem>Miksi niin kävi? Siksi kun lämmin <hi rend="expanded" >paistoi</hi></lem></app> tulesta 
+                <app id="var6462"><lem>Miksi niin kävi? Siksi kun lämmin <hi rend="expanded">paistoi</hi></lem></app> tulesta 
                 <app id="var6463"><lem>ja lämmitti ruudun,</lem></app> mutta 
                 <app id="var6464"><lem>se valkean</lem></app> ja ruudun välillä oleva 
                 <app id="var6465"><lem>ilma</lem></app> lämpeni 
@@ -542,7 +543,7 @@
                 <app id="var6509"><lem>eli teräs-lajilla</lem></app> on 
                 <app id="var6510"><lem>kummallinen luonto</lem></app> vetää toista rautaa 
                 <app id="var6511"><lem>itseensä kiini</lem></app> ja pitää sitä 
-                <app id="var6512"><lem>siinä. Sellainen rauta eli teräs on <hi rend="expanded" >magneeti,</hi></lem></app> ja 
+                <app id="var6512"><lem>siinä. Sellainen rauta eli teräs on <hi rend="expanded">magneeti,</hi></lem></app> ja 
                 <app id="var6513"><lem>isoon magneetiin saatan</lem></app> panna 
                 <app id="var6514"><lem>useita leivisköitä painoa riippumaan.</lem></app> Jos 
                 <app id="var6515"><lem>tahdon</lem></app> tehdä 
@@ -633,7 +634,9 @@
                 <app id="var6582"><lem>katson sillä tähtejä, näenpä</lem></app> monta tähteä, joita 
                 <app id="var6583"><lem>en</lem></app> ennen 
                 <app id="var6584"><lem>paljain</lem></app> silmin nähnyt.</p>
-            <head style="romanType"><anchor id="struct204a"/><hi rend="bold">Lämpö-mittarista.</hi><anchor id="struct204b"/></head>
+            <head style="romanType"><app id="8003">
+                    <lem>
+<hi rend="bold">Lämpö-mittarista.</hi></lem></app></head>
             <p style="romanType">Usein tahdon 
                 <app id="var6585"><lem>tietää vissiin,</lem></app> kuinka lämmin on huoneessa ja ulkona. 
                 <app id="var6586"><lem>Siihen</lem></app> on minulla 

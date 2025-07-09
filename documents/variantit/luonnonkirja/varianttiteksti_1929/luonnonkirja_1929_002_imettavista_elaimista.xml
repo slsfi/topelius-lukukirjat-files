@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1929). Luku 2, varianttikoodattu</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo: Werner Söderström 1929</p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1929). Luku 2, varianttikoodattu</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo:
+                    Werner Söderström 1929</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
     <text>
         <body xml:space="preserve">
 			<pb type="orig unprinted" n="21"/>
             <figure type="illustration"/>
         	<head type="section" style="blackletter"><hi rend="bold">Toinen </hi>
                 <app id="var467" type="sub"><rdg><hi rend="bold">luku.</hi></rdg></app></head>
-            <head type="section" style="blackletter"><anchor id="struct8a"/><hi rend="bold" >Imettäväisistä.</hi><anchor id="struct8b"/></head>
+            <head type="section" style="blackletter"><anchor id="struct8a"/><hi rend="bold">Imettäväisistä.</hi><anchor id="struct8b"/></head>
             <p style="blackletter">Tule, veljeni. Tule, sisareni. 
                 <app id="var468" type="sub"><rdg>Menkäämmepä</rdg></app> nyt ulos. Jo seisomme kartanolla. Ympärillämme on koko suuri 
                 <app id="var469" type="sub"><rdg>luonto. Mikä on luonto?</rdg></app> Se on koko 
@@ -34,7 +36,7 @@
             <p style="blackletter">Koko luonto on kuin suuri maa. Siinä maassa on monta
                 valtakuntaa. Mitkä ovat luonnon 
                 <app id="var475" type="sub"><rdg>valtakunnat?</rdg></app> Niitä on kolme. 
-                <app id="var476" type="sub"><rdg>Ensimmäinen</rdg></app> on <hi rend="expanded">eläinkunta.</hi> Toinen on <hi rend="expanded" >kasvikunta.</hi> Kolmas on <hi rend="expanded">kivikunta.</hi></p>
+                <app id="var476" type="sub"><rdg>Ensimmäinen</rdg></app> on <hi rend="expanded">eläinkunta.</hi> Toinen on <hi rend="expanded">kasvikunta.</hi> Kolmas on <hi rend="expanded">kivikunta.</hi></p>
             <p style="blackletter">Mennäänpä nyt ensin 
                 <app id="var477" type="sub"><rdg>suureen</rdg></app> eläinkuntaan. Ympärillämme on 
                 <app id="var478" type="sub"><rdg>maailma</rdg></app> täynnä eläviä 
@@ -251,7 +253,7 @@
                 <app id="var630" type="sub"><rdg>tuskaantui.</rdg></app> Ui 
                 <app id="var631" type="sub int"><rdg>tiehesi valas.</rdg></app> Sinä olet kuitenkin 
                 <app id="var632" type="sub"><rdg><hi rend="expanded">vesieläin.</hi> Tahdon kuulla</rdg></app> vielä 
-                <app id="var633" type="sub int"><rdg>enemmän <hi rend="expanded">maaeläimistä.</hi> Tahdon kuulla <hi rend="expanded">kesyistä.</hi> Tahdon kuulla <hi rend="expanded" >kesyttömistä.</hi></rdg></app> Niiden 
+                <app id="var633" type="sub int"><rdg>enemmän <hi rend="expanded">maaeläimistä.</hi> Tahdon kuulla <hi rend="expanded">kesyistä.</hi> Tahdon kuulla <hi rend="expanded">kesyttömistä.</hi></rdg></app> Niiden 
                 <app id="var634" type="sub"><rdg>tulee kertoa</rdg></app> minulle 
                 <app id="var635" type="sub"><rdg><seg>elämästään.</seg></rdg></app></p>
             <p style="blackletter">
@@ -477,7 +479,7 @@
                 <app id="var795" type="sub"><rdg>kuljin</rdg></app> etelämaissa, 
                 <app id="var796" type="sub"><rdg>jossa</rdg></app> aurinko 
                 <app id="var797" type="sub"><rdg>kuumasti paahtaa.</rdg></app> Siellä kohtasin hirveän kummallisen eläimen, jota 
-                <app id="var798" type="sub"><rdg>sanotaan <hi rend="expanded">norsuksi</hi> eli <hi rend="expanded" >elefantiksi.</hi></rdg></app> Näin hevosen 
+                <app id="var798" type="sub"><rdg>sanotaan <hi rend="expanded">norsuksi</hi> eli <hi rend="expanded">elefantiksi.</hi></rdg></app> Näin hevosen 
                 <app id="var799" type="sub"><rdg><seg>suorana</seg> kulkevan sen vatsan alitse.</rdg></app> Suussa oli sillä kaksi hirmuisen isoa hammasta, joista saadaan 
                 <app id="var800" type="sub"><rdg><seg>kallista</seg> norsunluuta.</rdg></app>
                 <pb type="orig" n="37"/>Se pani ruokaa suuhunsa pitkällä turvalla, jota 
@@ -674,7 +676,7 @@
                 <app id="var954" type="sub"><rdg>imettäväisiä, joiden nimenä on:</rdg></app></p>
             <head><anchor id="struct31a"/>
                 <anchor id="struct31b"/></head>
-            <head style="blackletter"><anchor id="struct32a"/><hi rend="bold" >Jyrsijät.</hi><anchor id="struct32b"/></head>
+            <head style="blackletter"><anchor id="struct32a"/><hi rend="bold">Jyrsijät.</hi><anchor id="struct32b"/></head>
             <p style="blackletter">Nämä 
                 <app id="var955" type="sub"><rdg>eläimet <seg>olivat</seg></rdg></app> edellisiä pienemmät. Kaikilla oli 
                 <app id="var956" type="sub"><rdg>pitkät etuhampaat,</rdg></app> joilla he 
@@ -846,7 +848,9 @@
                 <app id="var1085" type="sub"><rdg>hiljakseen</rdg></app> tiehensä. Niin valtavasti 
                 <app id="var1086" type="sub"><rdg>vaikuttaa</rdg></app> ihmisen 
                 <app id="var1087" type="sub"><rdg>pelkkä silmäys</rdg></app> väkevimpiinkin eläimiin.</p>
-            <head style="blackletter"><anchor id="struct38a"/><hi rend="bold" >Kuningastiikeri.</hi><anchor id="struct38b"/></head>
+            <head style="blackletter"><app id="8001" type="int"><rdg>
+<hi rend="bold">Kuningastiikeri.</hi></rdg></app>
+</head>
             <p style="blackletter">
                 <app id="var1088" type="sub"><rdg>Se</rdg></app> asuu Aasiassa. 
                 <app id="var1089" type="sub"><rdg>Se</rdg></app> on hirmuinen. 
@@ -904,8 +908,7 @@
             <p><anchor id="struct39a"/>
                 <anchor id="struct39b"/></p>
             <p style="blackletter"><anchor id="struct40a"/>Mutta häijynilkinen kettu ei
-                ollutkaan kuollut. Oli vain olevinaan. Sillä oli omat tuumansa.<anchor
-                    id="struct40b"/></p>
+                ollutkaan kuollut. Oli vain olevinaan. Sillä oli omat tuumansa.<anchor id="struct40b"/></p>
             <p style="blackletter">Ukon 
                 <app id="var1133" type="sub"><rdg>huomaamatta</rdg></app> nakkeli 
                 <app id="var1134" type="sub"><rdg>se</rdg></app> kuormasta kaikki kalat tielle. 

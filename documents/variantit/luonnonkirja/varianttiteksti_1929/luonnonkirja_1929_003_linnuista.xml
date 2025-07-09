@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/slsfi/topelius-lukukirjat-files/refs/heads/granska/xsd/tei_prosaschema_varianttexter.xsd">
     <teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Luonnonkirja (1929). Luku 3, varianttikoodattu</title>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>Suomalaisen Kirjallisuuden Seura</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo: Werner Söderström 1929</p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luonnonkirja (1929). Luku 3, varianttikoodattu</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Suomalaisen Kirjallisuuden Seura</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Z. Topelius, Luonnonkirja. Ala-alkeiskoulujen tarpeeksi, suomennos, Porvoo:
+                    Werner Söderström 1929</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
     <text>
         <body xml:space="preserve">
 			<pb type="orig unprinted" n="54"/>
@@ -115,7 +117,7 @@
                 <hi rend="expanded">kotka,</hi> jota 
                 <app id="var1283" type="sub"><rdg>sanotaan lintujen</rdg></app> kuninkaaksi, 
                 <app id="var1284" type="sub"><rdg>liiteli</rdg></app> ilmassa 
-                <app id="var1285" type="sub"><rdg>siivet levällään. Nuolen nopeana <hi rend="expanded" >poutahaukka</hi> korkealta pilvistä iski saaliiseensa.
+                <app id="var1285" type="sub"><rdg>siivet levällään. Nuolen nopeana <hi rend="expanded">poutahaukka</hi> korkealta pilvistä iski saaliiseensa.
                         Tuolla</rdg></app> pienet linnut 
                 <app id="var1286" type="sub"><rdg>vikisivät <seg>raatelevan</seg>
                         <hi rend="expanded">varpushaukan</hi></rdg></app> ympärillä, joka uhkasi syödä ne suuhunsa. 
@@ -125,7 +127,7 @@
                 <app id="var1289" type="sub"><rdg>väijyy</rdg></app> yöllä hiljaa saalistansa. Muistatko sitä isoa 
                 <app id="var1290" type="sub"><rdg><hi rend="expanded">kissapöllöä,</hi></rdg></app> jonka rengit 
                 <app id="var1291" type="sub"><rdg>tallin ovelle naulasivat?</rdg></app> Hyvin rumahan se oli, mutta 
-                <app id="var1292" type="sub"><rdg>vielä <seg>rumempi</seg> on <hi rend="expanded" >huuhkaja,</hi></rdg></app> suurin 
+                <app id="var1292" type="sub"><rdg>vielä <seg>rumempi</seg> on <hi rend="expanded">huuhkaja,</hi></rdg></app> suurin 
                 <app id="var1293" type="sub"><rdg>pöllöjen</rdg></app> suvusta. Kaikki 
                 <app id="var1294" type="sub"><rdg>ne lensivät</rdg></app> nyt metsään saalista pyytämään.</p>
             <figure type="illustration"/>
@@ -145,8 +147,7 @@
                 <app id="var1304" type="sub"><rdg>varoa</rdg></app> heiltä. Tuolla 
                 <app id="var1305" type="sub int"><rdg>mustanharmaa <hi rend="expanded">varis</hi>
                         <seg>raakkuu</seg> puussa.</rdg></app> Tuolla 
-                <app id="var1306" type="sub"><rdg>koikkuu</rdg></app> musta <hi rend="expanded">korppi,</hi> joka jo kaukaa <pb type="orig"
-                    n="58"/>tuntee 
+                <app id="var1306" type="sub"><rdg>koikkuu</rdg></app> musta <hi rend="expanded">korppi,</hi> joka jo kaukaa <pb type="orig" n="58"/>tuntee 
                 <app id="var1307" type="sub"><rdg>raadon hajun.</rdg></app> Tuolla nauraa räkättää 
                 <app id="var1308" type="sub"><rdg>varasteleva</rdg></app>
                 <hi rend="expanded">harakka.</hi> Tuolla 
@@ -285,8 +286,7 @@
                 <app id="var1391" type="sub"><rdg>parhaan löysi.</rdg></app> Riikinkukko, joka oli vielä pöyhkeämpi, levitti 
                 <app id="var1392" type="sub"><rdg>päivänpaisteessa</rdg></app> kaunishöyhenisen pyrstönsä. 
                 <app id="var1393" type="sub"><rdg>Kateellinen</rdg></app> kalkkuna <figure type="illustration"/>
-                <app id="var1394" type="sub"><rdg>vimmastui mie<pb type="orig" n="63"
-                        />liharmista.</rdg></app> Kohta 
+                <app id="var1394" type="sub"><rdg>vimmastui mie<pb type="orig" n="63"/>liharmista.</rdg></app> Kohta 
                 <app id="var1395" type="sub"><rdg>hyökkäsi se</rdg></app> riikinkukon 
                 <app id="var1396" type="sub"><rdg>kimppuun,</rdg></app> joka 
                 <app id="var1397" type="sub"><rdg>sekin <seg>samassa</seg></rdg></app> iski 
@@ -315,8 +315,7 @@
                 <app id="var1414" type="sub"><rdg>kahlaavat</rdg></app> mielellään matalassa vedessä. Tuolla on 
                 <app id="var1415" type="sub"><rdg><seg>suuri</seg>
                         <hi rend="expanded">tuonenkurki,</hi></rdg></app> joka muissa maissa tekee pesänsä 
-                <app id="var1416" type="sub"><rdg>katoille.</rdg></app> Tuolla on <hi rend="expanded">kurki,</hi> joka <pb type="orig" n="64"
-                />lentäessään 
+                <app id="var1416" type="sub"><rdg>katoille.</rdg></app> Tuolla on <hi rend="expanded">kurki,</hi> joka <pb type="orig" n="64"/>lentäessään 
                 <app id="var1417" type="sub"><rdg>kurottaa pitkää kaulaansa.</rdg></app> Tuolla 
                 <app id="var1418" type="sub"><rdg>harmaa <hi rend="expanded">haikara</hi>
                         <seg>vaanii</seg></rdg></app> kaloja. Tuolla 
@@ -351,7 +350,7 @@
                     
                 <app id="var1439" type="sub int"><rdg>kalas tajan verkkoon, kalain jäljessä sukeltaessaan.</rdg></app> Korkealla lentää 
                 <app id="var1440" type="sub int"><rdg><hi rend="expanded">kaakkuri,</hi> jalat</rdg></app> taaksepäin 
-                <app id="var1441" type="sub"><rdg>ojennettuina. Rikkaat nukkuvat <hi rend="expanded" >haahkan</hi></rdg></app> pehmeillä untuvilla.</p>
+                <app id="var1441" type="sub"><rdg>ojennettuina. Rikkaat nukkuvat <hi rend="expanded">haahkan</hi></rdg></app> pehmeillä untuvilla.</p>
             <figure type="illustration"/>
             <p style="blackletter">Vielä on meitä monta, joita en ennätä 
                 <app id="var1442" type="sub"><rdg>luetella,</rdg></app> sanoi 
@@ -509,7 +508,8 @@
                 <app id="var1573" type="sub"><rdg>siinä</rdg></app> menestyneet, vaan 
                 <app id="var1574" type="sub"><rdg>rakensivat</rdg></app> itselleen toisen pesän.</p>
             <figure type="illustration"/>
-            <head style="blackletter"><anchor id="struct54a"/><hi rend="bold" >Muuttolinnut.</hi><anchor id="struct54b"/></head>
+            <head style="blackletter"><app id="8002" type="int"><rdg>
+<hi rend="bold">Muuttolinnut.</hi></rdg></app></head>
             <p style="blackletter">Eivät kaikki linnut muuta pois talveksi. 
                 <app id="var1575" type="sub"><rdg>Melkein</rdg></app> kaikki petolinnut 
                 <app id="var1576" type="sub"><rdg>jäävät</rdg></app> tänne. Varpunen laulaa tirskuttaa 
@@ -548,7 +548,7 @@
             <pb type="orig" n="71"/>
             <head style="romanType"><hi rend="bold"><hi rend="italics">Lintunen ikkunan
                         ruudun takana.</hi></hi></head>
-            <head style="romanType"><hi rend="bold"><hi rend="italics" >Laululintunen.</hi></hi><anchor id="struct56b"/></head>
+            <head style="romanType"><hi rend="bold"><hi rend="italics">Laululintunen.</hi></hi><anchor id="struct56b"/></head>
             <pb type="orig" n="72"/>
             <head style="romanType"><hi rend="bold"><hi rend="italics">Kettu ja
                     kukko.</hi></hi></head>
