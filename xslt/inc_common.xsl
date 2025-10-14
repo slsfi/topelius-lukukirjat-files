@@ -8,8 +8,10 @@ email: seesharp@witchmastercreations.com or mikael.norrgard@gmail.com
 
 Rights to use and further develop given to Svenska litteratursällskapet i Finland.
 -->
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
 	<xsl:output method="html"/>
+	<xsl:strip-space elements="tei:TEI tei:teiHeader tei:text"/>
+
 	<xsl:param name="bookId"/>
 
 	<!-- Map bookId to collection name -->
