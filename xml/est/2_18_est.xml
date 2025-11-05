@@ -12,7 +12,7 @@
 				<p>Z. Topelius, Lukukirja alimmaisille oppilaitoksille Suomessa. Toinen Jakso. Maamme Kirja. suomentanut Joh. Bäckvall, Toinen painos, Helsinki: G. W. Edlund 1878</p>
 			</sourceDesc>
 		</fileDesc>
-	<profileDesc><creation><idNo>18</idNo><idNo type="bookid"/><idNo type="collection">2</idNo><title type="main">Toinen Luku. Kansa</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+	<profileDesc><creation><idNo>18</idNo><idNo type="bookid"/><idNo type="collection">2</idNo><title type="main">Toinen Luku. Kansa</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_readingtext"/></textClass></profileDesc></teiHeader>
 	<text>
 		<body xml:space="preserve">
 			<div type="prose">

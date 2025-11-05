@@ -12,7 +12,7 @@
 				<p>Z. Topelius, Luonnon-kirja. Ala-alkeiskouluin tarpeeksi, suomentanut Joh. Bäckvall, SKST 23, Helsinki: Suomalaisen Kirjallisuuden Seura 1860</p>
 			</sourceDesc>
 		</fileDesc>
-	<profileDesc><creation><idNo>7</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Seitsemäs Luku. Kasveista</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_readingtext"/></textClass></profileDesc><profileDesc><creation><title type="readingtext" id=""></title></creation></profileDesc></teiHeader>
+	<profileDesc><creation><idNo>7</idNo><idNo type="bookid"/><idNo type="collection">1</idNo><title type="main">Seitsemäs Luku. Kasveista</title></creation><textClass><catRef target="lukukirjat"/><catRef target="ce_readingtext"/></textClass></profileDesc></teiHeader>
 	<text>
 		<body xml:space="preserve">
 			<div type="prose">
