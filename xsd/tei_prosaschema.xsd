@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="unqualified" targetNamespace="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.tei-c.org/ns/1.0"
     xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" vc:minVersion="1.1">
-  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2009/01/xml.xsd"/>
   <xs:complexType name="tei_macro.paraContent" mixed="true">
     <xs:choice minOccurs="0" maxOccurs="unbounded">
       <xs:group ref="ns1:tei_model.phrase"/>
