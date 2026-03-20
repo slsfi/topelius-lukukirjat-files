@@ -1081,7 +1081,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 						</xsl:if>
 					</xsl:attribute>
 					<xsl:if test="@corresp">
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@corresp"/>
 						</xsl:attribute>
 					</xsl:if>
@@ -1108,7 +1108,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 						</xsl:with-param>
 					</xsl:call-template>
 					<xsl:if test="@corresp">
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@corresp"/>
 						</xsl:attribute>
 					</xsl:if>
@@ -1133,7 +1133,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 						</xsl:if>
 					</xsl:attribute>
 					<xsl:if test="@corresp">
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@corresp"/>
 						</xsl:attribute>
 					</xsl:if>
@@ -1157,7 +1157,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 						</xsl:with-param>
 					</xsl:call-template>
 					<xsl:if test="@corresp">
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@corresp"/>
 						</xsl:attribute>
 					</xsl:if>
@@ -1182,7 +1182,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 						</xsl:if>
 					</xsl:attribute>
 					<xsl:if test="@corresp">
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@corresp"/>
 						</xsl:attribute>
 					</xsl:if>
@@ -1203,7 +1203,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 						</xsl:with-param>
 					</xsl:call-template>
 					<xsl:if test="@corresp">
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@corresp"/>
 						</xsl:attribute>
 					</xsl:if>

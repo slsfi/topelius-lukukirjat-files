@@ -486,7 +486,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					<xsl:text>tei comment commentScrollTarget tooltiptrigger ttComment </xsl:text>
 					<xsl:value-of select="@id"/>
 				</xsl:attribute>
-				<xsl:attribute name="id">
+				<xsl:attribute name="data-id">
 					<xsl:value-of select="@id"/>
 				</xsl:attribute>
 				<xsl:attribute name="alt">
@@ -505,7 +505,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					<xsl:text>tei footnoteindicator tooltiptrigger ttFoot </xsl:text>
 					<xsl:value-of select="@id"/>
 				</xsl:attribute>
-				<xsl:attribute name="id">
+				<xsl:attribute name="data-id">
 					<xsl:value-of select="@id"/>
 				</xsl:attribute>
 				<xsl:attribute name="tabindex">
@@ -515,7 +515,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 			</span>
 			<span class="tei tooltip ttFoot">
 				<span class="tei ttFixed">
-					<xsl:attribute name="id">
+					<xsl:attribute name="data-id">
 						<xsl:value-of select="@id"/>
 					</xsl:attribute>
 					<xsl:apply-templates/>
@@ -594,7 +594,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 	<xsl:template name="printFootNote">
 		<xsl:if test="contains(@place, 'foot') or contains(@place, 'end') or contains(@id, 'ftn')">
 			<li>
-				<xsl:attribute name="id">
+				<xsl:attribute name="data-id">
 					<xsl:value-of select="@id"/>
 				</xsl:attribute>
 				<xsl:attribute name="class">

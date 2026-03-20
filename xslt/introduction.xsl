@@ -192,12 +192,12 @@
 				<header>
 					<xsl:choose>
 						<xsl:when test="@id">
-							<xsl:attribute name="id">
+							<xsl:attribute name="data-id">
 								<xsl:value-of select="@id"/>
 							</xsl:attribute>
 						</xsl:when>
 						<xsl:otherwise>
-							<xsl:attribute name="id">
+							<xsl:attribute name="data-id">
 								<xsl:value-of select="@type"/>
 							</xsl:attribute>
 						</xsl:otherwise>
@@ -208,7 +208,7 @@
 			<xsl:when test="@type = 'section'">
 				<div>
 					<xsl:if test="@id">
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@id"/>
 						</xsl:attribute>
 					</xsl:if>
@@ -230,7 +230,7 @@
 						<xsl:value-of select="@type"/>
 					</xsl:attribute>
 					<xsl:if test="@id">
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@id"/>
 						</xsl:attribute>
 					</xsl:if>
@@ -240,7 +240,7 @@
 			<xsl:otherwise>
 				<div>
 					<xsl:if test="@id">
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@id"/>
 						</xsl:attribute>
 					</xsl:if>
@@ -405,7 +405,7 @@
 				<xsl:with-param name="defaultClasses">tei title tooltiptrigger ttTitle</xsl:with-param>
 			</xsl:call-template>
 			<xsl:if test="@corresp">
-				<xsl:attribute name="id">
+				<xsl:attribute name="data-id">
 					<xsl:value-of select="@corresp"/>
 				</xsl:attribute>
 			</xsl:if>
@@ -434,7 +434,7 @@
 				</xsl:with-param>
 			</xsl:call-template>
 			<xsl:if test="@corresp">
-				<xsl:attribute name="id">
+				<xsl:attribute name="data-id">
 					<xsl:value-of select="@corresp"/>
 				</xsl:attribute>
 			</xsl:if>

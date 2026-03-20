@@ -33,7 +33,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 				</xsl:with-param>
 			</xsl:call-template>
 			<xsl:if test="@corresp">
-				<xsl:attribute name="id">
+				<xsl:attribute name="data-id">
 					<xsl:value-of select="@corresp"/>
 				</xsl:attribute>
 			</xsl:if>
@@ -52,7 +52,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 				</xsl:with-param>
 			</xsl:call-template>
 			<xsl:if test="@corresp">
-				<xsl:attribute name="id">
+				<xsl:attribute name="data-id">
 					<xsl:value-of select="@corresp"/>
 				</xsl:attribute>
 			</xsl:if>
@@ -66,7 +66,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 				<xsl:with-param name="defaultClasses">title tooltiptrigger ttTitle</xsl:with-param>
 			</xsl:call-template>
 			<xsl:if test="@corresp">
-				<xsl:attribute name="id">
+				<xsl:attribute name="data-id">
 					<xsl:value-of select="@corresp"/>
 				</xsl:attribute>
 			</xsl:if>
@@ -109,7 +109,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 						<xsl:text>tei teiManuscript comment commentScrollTarget tooltiptrigger ttComment </xsl:text>
 						<xsl:value-of select="@id"/>
 					</xsl:attribute>
-					<xsl:attribute name="id">
+					<xsl:attribute name="data-id">
 						<xsl:value-of select="@id"/>
 					</xsl:attribute>
 					<xsl:attribute name="alt">
@@ -128,7 +128,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 						<xsl:text>tei teiManuscript footnoteindicator tooltiptrigger ttFoot </xsl:text>
 						<xsl:value-of select="@id"/>
 					</xsl:attribute>
-					<xsl:attribute name="id">
+					<xsl:attribute name="data-id">
 						<xsl:value-of select="@id"/>
 					</xsl:attribute>
 					<xsl:attribute name="tabindex">
@@ -138,7 +138,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 				</span>
 				<span class="tei teiManuscript tooltip ttFoot">
 					<span class="tei teiManuscript ttFixed">
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@id"/>
 						</xsl:attribute>
 						<xsl:apply-templates/>

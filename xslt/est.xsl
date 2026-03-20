@@ -648,7 +648,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 							<xsl:text>tei comment commentScrollTarget tooltiptrigger ttComment </xsl:text>
 							<xsl:value-of select="@id"/>
 						</xsl:attribute>
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@id"/>
 						</xsl:attribute>
 					</img>
@@ -664,7 +664,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 							<xsl:text>tei footnoteindicator tooltiptrigger ttFoot </xsl:text>
 							<xsl:value-of select="@id"/>
 						</xsl:attribute>
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@id"/>
 						</xsl:attribute>
 						<xsl:attribute name="tabindex">
@@ -674,7 +674,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 					</span>
 					<span class="tei tooltip ttFoot">
 						<span class="tei ttFixed">
-							<xsl:attribute name="id">
+							<xsl:attribute name="data-id">
 								<xsl:value-of select="@id"/>
 							</xsl:attribute>
 							<xsl:apply-templates/>
@@ -745,7 +745,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 				</xsl:with-param>
 			</xsl:call-template>
 			<xsl:if test="@corresp">
-				<xsl:attribute name="id">
+				<xsl:attribute name="data-id">
 					<xsl:value-of select="@corresp"/>
 				</xsl:attribute>
 			</xsl:if>
@@ -764,7 +764,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 				</xsl:with-param>
 			</xsl:call-template>
 			<xsl:if test="@corresp">
-				<xsl:attribute name="id">
+				<xsl:attribute name="data-id">
 					<xsl:value-of select="@corresp"/>
 				</xsl:attribute>
 			</xsl:if>
@@ -786,7 +786,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 				</xsl:with-param>
 			</xsl:call-template>
 			<xsl:if test="@corresp">
-				<xsl:attribute name="id">
+				<xsl:attribute name="data-id">
 					<xsl:value-of select="@corresp"/>
 				</xsl:attribute>
 			</xsl:if>
@@ -873,7 +873,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 		<xsl:choose>
 			<xsl:when test="parent::tei:figure[@type = 'illustration'] and $bookId = '22'">
 				<span class="tei figureP iconBefore">
-					<xsl:attribute name="id">
+					<xsl:attribute name="data-id">
 						<xsl:text>data_</xsl:text>
 						<xsl:value-of select="substring-before(../tei:graphic/@url, '.')"/>
 					</xsl:attribute>
@@ -1139,7 +1139,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 		<xsl:choose>
 			<xsl:when test="contains(@xml:id, 'start')">
 				<span class="tei anchor_lemma symbol_red">
-					<xsl:attribute name="id">
+					<xsl:attribute name="data-id">
 						<xsl:value-of select="@xml:id"/>
 					</xsl:attribute>
 					<img src="assets/images/ms_arrow_right.svg" alt="lemma start" loading="lazy"/>
@@ -1151,7 +1151,7 @@ Rights to use and further develop given to Svenska litteratursällskapet i Finla
 						<xsl:text>tei comment commentScrollTarget tooltiptrigger ttComment en</xsl:text>
 						<xsl:value-of select="substring(@xml:id, 4)"/>
 					</xsl:attribute>
-					<xsl:attribute name="id">
+					<xsl:attribute name="data-id">
 						<xsl:value-of select="@xml:id"/>
 					</xsl:attribute>
 					<xsl:attribute name="tabindex">

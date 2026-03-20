@@ -78,12 +78,12 @@
 				<header>
 					<xsl:choose>
 						<xsl:when test="@id">
-							<xsl:attribute name="id">
+							<xsl:attribute name="data-id">
 								<xsl:value-of select="@id"/>
 							</xsl:attribute>
 						</xsl:when>
 						<xsl:otherwise>
-							<xsl:attribute name="id">
+							<xsl:attribute name="data-id">
 								<xsl:value-of select="@type"/>
 							</xsl:attribute>
 						</xsl:otherwise>
@@ -94,7 +94,7 @@
 			<xsl:otherwise>
 				<div>
 					<xsl:if test="@id">
-						<xsl:attribute name="id">
+						<xsl:attribute name="data-id">
 							<xsl:value-of select="@id"/>
 						</xsl:attribute>
 					</xsl:if>
